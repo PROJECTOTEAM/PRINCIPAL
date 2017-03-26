@@ -1,0 +1,675 @@
+
+
+
+
+
+
+
+
+<item>   
+<title>[COLOR=white][B][I] A&E [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]</title> 
+
+<link>http://213.188.51.185:9981/play/a00f</title>
+ 
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/170px-A%26E_Network_logo.svg.png</thumbnail>
+</item>
+
+
+<item>   
+<title>[COLOR=white][B][I]TLC [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title> 
+
+<link>http://213.188.51.185:9981/play/a00m</title>
+
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png/revision/latest?cb=20110408023649</thumbnail>
+</item>
+
+
+
+<item>   
+<title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
+<link>http://213.188.51.185:9981/play/a00e</link>
+<link>http://46.126.71.153:8000/play/a02h</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC MULHER  [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://videos.sapo.pt/sicmulher</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sicmulher</sportsdevil>
+<sportsdevil>http://mytvfree2.me/sic-mulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+
+
+
+
+<item>   
+<title>[COLOR=white][B][I] SIC RADICAL HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title> 
+
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2370.m3u8 </link>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicradical</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sicradical</sportsdevil>
+<sportsdevil>http://mytvfree2.me/sic-radical-online</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=white][B][I] SIC CARAS HD [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS </link>
+
+
+
+<thumbnail>http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=white][B][I] TVI FICCAO [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO </link>
+
+
+ 
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=tvificcao</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] +TVI [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_+_TVI </link>
+
+
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/69/Mais_TVI_logo.png/revision/latest?cb=20130328095626</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/tvi-reality-em-direto-gratis-tvi-reality-portugal-live-stream-online/</sportsdevil>
+<referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
+ <item>
+<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR]</title>
+<link>rtmp://31.220.40.59/privatestream/ playpath=ss6?keys=xdZZ9z-XIdPaACPxDM1BKA&keyt=1482182965 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>http://213.188.51.185:9981/play/a007</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY SD [/I][/B][/COLOR]</title>
+
+<link>http://213.188.51.185:9981/play/a007</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY HD [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title>
+<link>http://46.126.71.153:8000/play/a02g </link>
+
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY CAMARAS [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title>
+
+<link></link>
+
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] MOSAICO TVI REALITY  [/I][/B][/COLOR]   [COLOR lime][/COLOR]</title> 
+
+
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] CBS REALITY [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
+
+
+
+<thumbnail>http://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg</thumbnail>
+</item>
+
+
+<item>   
+<title>[COLOR=white][B][I] TV CABO VERDE [/I][/B][/COLOR] [COLOR yellow] [/COLOR]  </title> 
+
+
+
+<link>rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1</link>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/05/TCV-Televis%C3%A3o-de-Cabo-Verde.jpg</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I]TCV INTERNACIONAL [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
+
+
+
+<thumbnail>http://diariodigital.sapo.pt/images_content/2013/tcv060513.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR=white][B][I] MTV PORTUGAL[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+<link>http://46.126.71.153:8000/play/a01s</link>
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] MTV PORTUGAL[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=mtvax?id=84773&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/mtvax/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/mtvax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I]  MTV PORTUGAL[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/mtv</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=mtv</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=white][B][I] TV LISBOA [/I][/B][/COLOR]   [COLOR lime]F4MTESTER[/COLOR]</title>
+
+
+
+<link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
+<thumbnail>https://github.com/djlopesdacosta/LOGOS/blob/master/transferir.jpg?raw=true?</thumbnail>
+</item>
+
+
+<item>   
+<title>[COLOR=white][B][I] ENTERTAINMENT HD [/I][/B][/COLOR]  [COLOR lime]F4MTESTER[/COLOR] </title> 
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT </link>
+
+
+<thumbnail>http://a4.mzstatic.com/us/r30/Purple69/v4/e3/ee/d3/e3eed38e-1238-a389-9207-90521604555b/icon175x175.jpeg?</thumbnail>
+</regex>
+</item>
+
+<item>   
+<title>[COLOR=white][B][I]BBC ENTERTAINMENT HD [/I][/B][/COLOR]  [COLOR lime]F4MTESTER[/COLOR] </title> 
+
+
+
+
+<thumbnail>https://boutique.orange.fr/media-cms/mediatheque/362x263-bbc-entertainment-26701.png</thumbnail>
+</regex>
+</item>
+
+
+<item>   
+<title>[COLOR=white][B][I]TRAVEL CHANNEL [/I][/B][/COLOR]  [COLOR lime]F4MTESTER[/COLOR] </title> 
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TRAVEL_CHANNEL </link>
+
+<thumbnail>http://www.antenna38.ru/HD_kontinent/Travel_Channel_HD.png</thumbnail>
+</regex>
+</item>
+
+
+<item>   
+<title>[COLOR=white][B][I] CANAL Q [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title> 
+
+
+
+<thumbnail>http://www.underconsideration.com/brandnew/archives/canal_q_logo_detail.gif</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] MACAU TV [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://live3.tdm.com.mo:80/tv/_definst_/ playpath=ch2.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.arafran.com.br/wp-content/uploads/2014/03/logo-carnaval-500x350.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO PORTUGAL[/I] [/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+
+
+<link>http://art.nextv.ca:80/nextv/globo/index.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uxvspy1433473246.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO PREMIUM   [/I] [/COLOR] [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUN </link>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO INTERNACIONAL   [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>http://art.nextv.ca:80/nextv/globo/index.m3u8</link>
+<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<link>http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] TV GLOBO   [/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO </link>
+
+<link>http://www.q7t1.com:8000/live/maht/maht/1390.m3u8</link>
+<link>http://209.95.39.40/globo/globo-news.stream/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO BRASIL [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.tv-ao-vivo.org/tv-online-gratis-tv-globo-portugal-online.html</sportsdevil>
+<sportsdevil>http://www.assistirtvbr.tv/canal/globo-rj.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV GLOBO EUROPA[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV GLOBO EUROPA 2[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV GLOBO EUROPA 3[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV GLOBO AMÉRICAS[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I]TV RECORD BRASIL[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_RECORD </link>
+
+<link>http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8</link>
+<link>http://213.163.65.116:8081/live/record/playlist.m3u8</link>
+<link>http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8</link>
+
+<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV RECORD BRASIL [/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+<link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<link>rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/record.php</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] SBT  [/I][/B][/COLOR]    [COLOR lime] BRASIL[/COLOR]    </title>
+<link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ1KzzxQlB5bI2NxbHomvD-ruSMxH17BtX7l8iHsYXssxGhmxm</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [I]SBT[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+
+
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ1KzzxQlB5bI2NxbHomvD-ruSMxH17BtX7l8iHsYXssxGhmxm</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]SBT CE-TV JANGADEIRO[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://www.danielgandra.com.br/wp-content/uploads/2010/08/logojanga1.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]SBT INTERIOR[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://2.bp.blogspot.com/-yXJ77mbwU7k/UgkfoafAAvI/AAAAAAAAB4w/DZUVaB-830I/s1600/334934_268740566487896_268738763154743_1008179_910344_o.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]SBT INTERIOR[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://3.bp.blogspot.com/_xO4gqtJTBL8/TTTFF-vyXBI/AAAAAAAAAH8/Jh4RFgt3Zi8/s1600/sbt-tv-cidade-verde-logo1.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]SBT PB-TV TAMBAÚ[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://3.bp.blogspot.com/_xO4gqtJTBL8/TTTFF-vyXBI/AAAAAAAAAH8/Jh4RFgt3Zi8/s1600/sbt-tv-cidade-verde-logo1.jpg</thumbnail>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [I] REDE TV [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110305125842/logopedia/images/e/ec/RedeTV!.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [I]REDE TV[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]REDE TV PB-TV ARAPUAN[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+
+
+<thumbnail>http://i.imgur.com/bvEiqzj.gif</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] SPORTS DEVIL[/COLOR]</title>
+<sportsdevil>http://tv-ao-vivo.org/tv-online-gratis-tvi-reality-a-quinta-em-direto.html/</sportsdevil>
+<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>http://31.204.128.112:8081/live/bbb/chunks.m3u8</link>
+<link>http://fastroot.ddns.net:8000/live/festas/festas/39.m3u8</link>
+<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white] [I]CULTURA HD[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://4.bp.blogspot.com/-gN5iKnE9hGc/T0zGGlvDFMI/AAAAAAAAAec/DiqcsneSf10/s1600/cultura-rgb.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV BRASIL BH HD[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]TV NOVOS HORIZONTES RS[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]NBR[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
+
+
+<thumbnail>http://1.bp.blogspot.com/-bWSt9P0uncQ/Un-eAeKt50I/AAAAAAAAGXo/m9-yU7cCEG4/s1600/EQ_logoNBR_assista1.gif</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] BAND [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+
+
+<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8</link>
+<link></link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
+</item> 
+
+
+<item>
+<title>[COLOR=white][B][I] BAND BR [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]    </title>
+<link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
+</item> 
+<item>
+<title>[COLOR=white][B][I] BAND NEWS  [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]        </title>
+<link></link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGQ8zPyWgMJ_MWUTIb2FYZ6Au6vhAKfYKd4oTFs5I9-QvSoreQ</thumbnail>
+</item>  
+
+
+
+<item>
+<title>[COLOR=white][B][I] MTV HITS[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://pbs.twimg.com/profile_images/1813177034/mtv-hits_400x400.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] MTV DANCE[/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
+
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://3.bp.blogspot.com/-Q2dRpsKq8m8/UslufxpaRmI/AAAAAAAAAmg/-FQcZIxCEgM/s1600/493px-MTV_DANCE_logo.svg.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [I] AFRO MUSIC HD   [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+
+<thumbnail>https://i.vimeocdn.com/portrait/8992247_300x300.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] MCM TOP HD   [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+
+<thumbnail>http://images2.wikia.nocookie.net/__cb20100405070728/logopedia/images/9/94/MCM_Top_2004.svg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I]C- MUSIC 1 HD   [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+ 
+  
+<thumbnail>http://fansingtons.com/wp-content/uploads/2013/02/Q-Music2.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] VEVO 1 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_1_HD </link>
+      
+
+<thumbnail>http://www.felfoldi.ro/_pu/2/79444749.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] VEVO 2 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_2_HD </link>
+
+<thumbnail>https://2.bp.blogspot.com/-QuQCNkeCRKQ/VsSRpdcaN4I/AAAAAAAAAY0/radpvO3CtLQ/s640/vevo-tv-logo-new.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] VEVO 3 HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_VEVO_3_HD </link>
+
+<thumbnail>https://2.bp.blogspot.com/-QuQCNkeCRKQ/VsSRpdcaN4I/AAAAAAAAAY0/radpvO3CtLQ/s640/vevo-tv-logo-new.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] VH1 CLASSIC[/I] [/COLOR]  [COLOR yellow]  [/COLOR]</title>
+
+<link>http://213.188.51.185:9981/play/a011 </link>
+
+<thumbnail>http://ib3.huluim.com/company_key_art/370?size=1600x600&region=US</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white] [I] TRACE URBAN [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+
+ 
+<thumbnail>http://trace.tv/wp-content/uploads/2015/05/urban1.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] ICONCERTS HD [/I] [/COLOR]  [COLOR yellow] F4MTESTER [/COLOR]</title>
+
+
+ 
+<thumbnail>http://www.thematv.com/medias/channels/iconcerts/iConcerts_logo_officiel_300dpi.png</thumbnail>
+</regex>
+</item>
+
