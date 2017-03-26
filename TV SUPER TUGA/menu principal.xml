@@ -18,42 +18,42 @@
 
 <item> 
 <title> [COLOR red] TV GENERALISTA  [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/TV%20GENERALISTA.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/ppv.xml</folder>
 <thumbnail>http://1.bp.blogspot.com/-8SmsVD7tnZg/US-G0djZGwI/AAAAAAAADzQ/mtRudF6I5B8/s1600/RTP,+SIC+e+TVI+logo.png</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
 
 <item> 
 <title>[COLOR lime] GRUPO RTP [/COLOR] </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/GRUPO%20RTP.xml</folder>
-<thumbnail>https://vaievem.files.wordpress.com/2012/08/rtp_tv.png</thumbnail>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/classics/mainclassics.xml</folder>
+<thumbnail>http://pbear90repo.netai.net/addons/wweondemand/images/classicwwe.jpg</thumbnail>
+<fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
 </item>
 
 <item> 
 <title> [COLOR yellowgreen] NOTICIAS [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/NOTICIAS.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/attitude/attitude.xml</folder>
 <thumbnail>http://i.imgur.com/qEKihL2.jpg</thumbnail>
 <fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
 </item>
 
 <item> 
 <title>[COLOR orange] DOCUMENTARIOS [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/DOCUMENTARIOS.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/documentaries.xml</folder>
 <thumbnail>http://lounge.obviousmag.org/por_tras_do_espelho/assets_c/2015/05/documentarios-thumb-600x300-105038.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
 
 <item> 
 <title> [COLOR grey] INFANTAL   [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/INFANTAL.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/networkcollection/mainnc.xml</folder>
 <thumbnail>http://www.adcaminho.com.br/wp-content/uploads/2011/03/Logo-Minist%C3%A9rio-Infantil.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
 
 <item> 
 <title>[COLOR white] ENTRETENIMENTO [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/ENTRETENIMENTO.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/Royalrumble.xml</folder>
 <thumbnail>http://www.crissief.xpg.com.br/imagens/entretenimento.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
@@ -61,7 +61,7 @@
 
 <item> 
 <title>[COLOR magenta] FILMES/SERIES [/COLOR] </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/FILMES-SERIES.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/wrestlemania/mainwm.xml</folder>
 <thumbnail>http://www.geekonomics.com.br/wp-content/uploads/2015/02/capa-filmes-series-01.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
@@ -69,7 +69,7 @@
 
 <item> 
 <title>[COLOR blue]  SPORTS  [/COLOR]  </title>
-<folder>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS%20TVS.xml</folder>
+<folder>http://pbear90repo.netai.net/addons/wweondemand/echamber.xml</folder>
 <thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
