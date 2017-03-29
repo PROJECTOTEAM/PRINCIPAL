@@ -12,9 +12,9 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Por ano[/B][/COLOR]</title
+<title>[COLOR lavenderblush]APAGAR HISTORICO[/COLOR]</title
 <thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
 <link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=delSearch</jsonrpc>
 <fanart></fanart>
 </item>
