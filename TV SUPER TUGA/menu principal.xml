@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
+
 </item>
 <channel>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]PROCURAR[/COLOR]</name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-02-2017 [COLOR red]|||[/COLOR][/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
+<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
+</channel>
+
+
+
+</item>
+<channel>
+<name>[COLOR lavenderblush]PROCURAR[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -13,7 +25,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]PT MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR red] TV GENERALISTA  [/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/HzWRHO.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -24,7 +36,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]FRANCA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR lime] GRUPO RTP [/COLOR] </name>
 <thumbnail>http://i.cubeupload.com/tdEL3l.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -35,7 +47,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]ESPANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR yellowgreen] NOTICIAS [/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/zCcr95.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -46,7 +58,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]ITALIA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR orange] DOCUMENTARIOS [/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/WWfLeO.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -55,7 +67,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]GERMANY MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR grey] INFANTAL   [/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/8Qi4ak.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -66,7 +78,7 @@
 
 </item>
 <channel>
-<name>[COLOR lime]MENU UK/USA[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR white] ENTRETENIMENTO [/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/eMHHc4.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -74,21 +86,19 @@
 </channel>
 
 
-
+</item>
 <channel>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]PROCURAR[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/27hGu8.png</thumbnail>
+<name>[COLOR magenta] FILMES/SERIES [/COLOR] </name>
+<thumbnail>http://i.cubeupload.com/2bpsQh.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/MENU%20VARIEDADES.xml</externallink>
 </channel>
-
-
 
 
 </item>
 <channel>
-<name>[COLOR lime]MENU VARIEDADES[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<name>[COLOR blue]  SPORTS  [/COLOR]  </name>
 <thumbnail>http://i.cubeupload.com/2bpsQh.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignorame</link>
@@ -97,7 +107,14 @@
 
 
 
-
+<channel>
+<name>[COLOR lime] [I]MAIS IPTV GRATIS[/I] [/COLOR]</name>
+<thumbnail>http://i2.wp.com/eusouandroid.com/wp-content/uploads/iptv31.jpg?resize=666%2C352</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20EXTRA.xml</externallink>
+</subitem>
+</item>
 
 <channels>
 <channel>>
