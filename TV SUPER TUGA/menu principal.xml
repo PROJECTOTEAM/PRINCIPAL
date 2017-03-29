@@ -17,7 +17,7 @@
 <externallink>http://tv-super-tuga-add-estrutura.comlu.com/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA/Menu%200-%20tvsuper%20tuga.xml</externallink>
 </subitem>
 <channel>
-<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-02-2017 [COLOR red]|||[/COLOR][/B][/COLOR] </name>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-02- [COLOR red]|||[/COLOR][/B][/COLOR] </name>
 <jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
@@ -4782,7 +4782,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </subitem>
 </item>
 
-
+<plugin>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]CLEAR CACHE[/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=clearCache</link>
+<thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
+<fanart>https://goo.gl/9oQCFk</fanart>
+</plugin>
 <channel>
 <name>                                                                                                        [COLOR] [COLOR red][/COLOR][B]Total[COLOR red][B]p[/B][/COLOR][COLOR green][B]l[/B][/COLOR][COLOR orange][B]a[/B][/COLOR][COLOR red][B]y[/B][/COLOR]</name>
 <link>http://ignorame</link><thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail><fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
