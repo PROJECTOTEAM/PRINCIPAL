@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
-
+</item>
+<channel>
+<name>[COLOR lime]PT MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<thumbnail>http://i.cubeupload.com/HzWRHO.png</thumbnail>
+<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
+<link>http://ignorame</link>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
+</channel>
 
 
 </item>
@@ -73,7 +80,7 @@
 <thumbnail>http://i.cubeupload.com/27hGu8.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/MIX%20%20CANAIS.xml</externallink>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
 </channel>
 
 
