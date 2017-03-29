@@ -55,7 +55,7 @@
 <sportsdevil>http://mytvfree2.me/sic-mulher</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
-
+</item>
 
 
 
@@ -93,7 +93,7 @@
 <sportsdevil>http://mytvfree2.me/sic-radical-online</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
-
+</item>
 
 
 
@@ -128,7 +128,7 @@
 <sportsdevil>http://www.desportonline.net/index.php?canal=tvificcao</sportsdevil>
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
-
+</item>
 
 <item>
 <title>[COLOR=white][B][I] +TVI [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
@@ -146,7 +146,7 @@
 <sportsdevil>http://nowwatchtvlive.co/tvi-reality-em-direto-gratis-tvi-reality-portugal-live-stream-online/</sportsdevil>
 <referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
 <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
->
+</item>
 
 http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
  <item>
@@ -262,7 +262,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <sportsdevil>http://www.desportonline.net/index.php?canal=mtv</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
-
+</item>
 
 
 
@@ -369,9 +369,9 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <title>[COLOR white] [I] TV GLOBO BRASIL [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.tv-ao-vivo.org/tv-online-gratis-tv-globo-portugal-online.html</sportsdevil>
 <sportsdevil>http://www.assistirtvbr.tv/canal/globo-rj.html</sportsdevil>
-
+<referer></referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
-
+</item>
 
 <item>
 <title>[COLOR white] [I]TV GLOBO EUROPA[/I] [/COLOR] [COLOR yellow] f4mTester[/COLOR]</title>
@@ -510,7 +510,7 @@ http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
 <title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] SPORTS DEVIL[/COLOR]</title>
 <sportsdevil>http://tv-ao-vivo.org/tv-online-gratis-tvi-reality-a-quinta-em-direto.html/</sportsdevil>
 <thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
-
+</item> 
 
 <item>
 <title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
