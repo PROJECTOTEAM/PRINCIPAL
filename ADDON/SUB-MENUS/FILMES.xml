@@ -2,26 +2,31 @@
 
 
 
+<dir>
+<title>[COLOR red][B]LATEST MOVIES[/B][/COLOR]</title>
+<link>http://brettusbuilds.com/.WHITE%20DEVIL/NEMESIS/LATEST.XML</link>
+<thumbnail>http://brettusbuilds.com/.wolf%20pack/IMAGES/hZs3gR%20-%20CopyI.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/95/05/9b/95059b1a4641d827f29808c4e88ffd64.jpg</fanart>
+</dir>
 
-<item>
-<title>[B][COLOR white]FILMES[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-<fanart>https://www.mymovies.dk/media/28311/maincoverviewc.png</fanart>
-</item>
+<dir>
+<title>[COLOR white][B]MOVIES[/B][/COLOR]</title>
+<link>http://brettusbuilds.com/.wolf%20pack/movies%20index.xml</link>
+<thumbnail>http://brettusbuilds.com/.wolf%20pack/IMAGES/hZs3gR.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/95/05/9b/95059b1a4641d827f29808c4e88ffd64.jpg</fanart>
+</dir>
 
-<item>
-<title>[B][COLOR white]TV SHOWS[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
-<thumbnail>https://www.mymovies.dk/media/28311/maincoverviewc.png</thumbnail>
-<fanart>https://www.mymovies.dk/media/28311/maincoverviewc.png</fanart>
-</item>
+<dir>
+<title>[COLOR red][B]3D MOVIES[/B][/COLOR]</title>
+<link>http://brettusbuilds.com/3D%20THOOOOOOO/3D%20TTTHHHHHHHHOOOOOOOOOOOOOOOOOOO.XML</link>
+<thumbnail>http://brettusbuilds.com/.wolf%20pack/IMAGES/3d%20movies.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/95/05/9b/95059b1a4641d827f29808c4e88ffd64.jpg</fanart>
+</dir>
 
 
-
-
-
-
-Copyright © 2016 - 666-IPTV
+<plugin>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]TV SUPER TUGA[/COLOR]</name>
+<link>plugin://plugin.video.vod.tvsupertuga/?fanart=http%3a%2f%2fi97.servimg.com%2fu%2ff97%2f19%2f44%2f91%2f43%2f69183010.jpg&amp;mode=1&amp;name=%5bCOLOR%20white%5dNACIONAIS%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fdjlopesdacosta%2fTODOOPROJECT%2fmaster%2fTVSUPERTUGA%2520MOVIES%2fFILMES%2fNACIONAIS.xml</link>
+<fanart>https://i37.servimg.com/u/f37/19/44/91/43/icqyq510.jpg</fanart>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/7j1aw610.png</thumbnail>
+</plugin>
