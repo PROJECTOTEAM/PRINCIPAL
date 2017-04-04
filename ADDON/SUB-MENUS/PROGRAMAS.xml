@@ -35,7 +35,8 @@
 <plugin>
 <name>[COLOR white]SEARCH[/COLOR]</name>
 <link>plugin://plugin.video.TVsupertuga/?action=search</link>
-<thumbnail>http://brettusbuilds.com/.wolf%20pack/IMAGES/hZs3gR%20-%20Copy%20-%20Copy.jpg</thumbnail>
+<fanart>http://alerta.strat-exp.com/wp-content/uploads/sites/2/2014/04/procurar-emprego-jornal.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
 </plugin>
 
 
@@ -43,5 +44,6 @@
 <plugin>
 <name>[COLOR white]ADDON SETTINGS[/COLOR]</name>
 <link>plugin://plugin.video.TVsupertuga/?action=openSettings</link>
-<thumbnail>http://www.norestrictions.club/main/mainicons/Settings.jpg</thumbnail>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
 </plugin>
