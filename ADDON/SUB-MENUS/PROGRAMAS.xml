@@ -2,7 +2,7 @@
 
 
 <plugin>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]TVSUPERTUGA NOTIFICATIONS[/COLOR]</name>
+<name>[COLOR white]TVSUPERTUGA NOTIFICATIONS[/COLOR]</name>
 <link>plugin://plugin.program.tvsupertuga.notifications</link>
 <thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.png</thumbnail>
 <fanart>http://i35.servimg.com/u/f35/19/44/91/43/conten10.jpg</fanart>
@@ -10,14 +10,14 @@
 
 
 <dir>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]JOGOS E EMULADORES[/COLOR]</name>
+<name>[COLOR white]JOGOS E EMULADORES[/COLOR]</name>
 <link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS/JOGOS%20E%20EMULADORES.xml</link>
 <thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.jpg</thumbnail>
 <fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
 </dir>
 
 <plugin>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]PROJECT X WIZARD[/COLOR]</name>
+<name>[COLOR white]PROJECT X WIZARD[/COLOR]</name>
 <link>plugin://plugin.video.projectxwizard/</link>
 <thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon10.png</thumbnail>
 <fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart12.jpg</fanart>
@@ -25,8 +25,8 @@
 
 
 <dir>
-<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush] ESPAÇO TVsupertuga[/COLOR]</name>
-<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2021.xml</link>
+<name>[COLOR white] ESPAÇO TVsupertuga[/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS/ESPA%C3%87O%20TVsupertuga.xml</link>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/discus10.jpg</fanart>
 <thumbnail>http://blog.espasso.com/wp-content/uploads/2012/09/Kate-Elliott_16.jpg</thumbnail>
 </dir>
