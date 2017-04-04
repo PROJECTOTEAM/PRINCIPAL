@@ -1,298 +1,132 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<item>
-<title>[COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR][COLOR yellow]F4MTESTER [/COLOR]</title>
-<link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
-</item>
-<item>       
-<title>[COLOR red] [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart></fanart>
-</item>
-<item>       
-<title>            [COLOR red] PORTUGAL TV [/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]  </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>       
-<title>                        [COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-03-2017 [COLOR red][/COLOR][/B][/COLOR] </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>PT: Spor tv 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Spor tv 1 </link>
-</item>
-<item>
-<title>PT: SporTV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 2 </link>
-</item>
-<item>
-<title>PT: SporTV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 3 </link>
-</item>
-<item>
-<title>PT: SporTV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 4 </link>
-</item>
-<item>
-<title>PT: SporTV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 5 </link>
-</item>
-<item>
-<title>PT: Sporting TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD </link>
-</item>
-<item>
-<title>PT: Benfica TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2 </link>
-</item>
-<item>
-<title>PT: Benfica TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1 </link>
-</item>
-<item>
-<title>PT: TVCine 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 </link>
-</item>
-<item>
-<title>PT: TVCine 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 </link>
-</item>
-<item>
-<title>PT: TVCine 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 </link>
-</item>
-<item>
-<title>PT: TVCine 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 </link>
-</item>
-<item>
-<title>PT: TVCseries</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries </link>
-</item>
-<item>
-<title>PT: VeVo 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD </link>
-</item>
-<item>
-<title>PT: VeVo 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD </link>
-</item>
-<item>
-<title>PT: VeVo 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD </link>
-</item>
-<item>
-<title>PT: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD </link>
-</item>
-<item>
-<title>PT: Axn White HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD </link>
-</item>
-<item>
-<title>PT: Axn Black HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD </link>
-</item>
-<item>
-<title>PT: Fox Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy </link>
-</item>
-<item>
-<title>PT: Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD </link>
-</item>
-<item>
-<title>PT: Fox Life HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD </link>
-</item>
-<item>
-<title>PT: Fox Crime</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime </link>
-</item>
-<item>
-<title>PT: Toros tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv </link>
-</item>
-<item>
-<title>PT: TVI Ficcao</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao </link>
-</item>
-<item>
-<title>PT: TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI </link>
-</item>
-<item>
-<title>PT: TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 </link>
-</item>
-<item>
-<title>PT: TV Globo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo </link>
-</item>
-<item>
-<title>PT: SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC </link>
-</item>
-<item>
-<title>PT: SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K </link>
-</item>
-<item>
-<title>PT: SIC Noticias</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias </link>
-</item>
-<item>
-<title>PT: Sic Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical </link>
-</item>
-<item>
-<title>PT: SIC Caras</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras </link>
-</item>
-<item>
-<title>PT: Sic Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher </link>
-</item>
-<item>
-<title>PT: RTP Memoria</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria </link>
-</item>
-<item>
-<title>PT: RTP Madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira </link>
-</item>
-<item>
-<title>PT: RTP Acores</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores </link>
-</item>
-<item>
-<title>PT: RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 </link>
-</item>
-<item>
-<title>PT: RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 </link>
-</item>
-<item>
-<title>PT: CM TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV </link>
-</item>
-<item>
-<title>PT: TV Globo Premium</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
-</item>
-<item>
-<title>PT: Record</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record </link>
-</item>
-<item>
-<title>PT: PFC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC </link>
-</item>
-<item>
-<title>PT: Jim Jim</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim </link>
-</item>
-<item>
-<title>PT: SyFy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy </link>
-</item>
-<item>
-<title>PT: MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD </link>
-</item>
-<item>
-<title>PT: CartoonNet Work</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work </link>
-</item>
-<item>
-<title>PT: Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV </link>
-</item>
-<item>
-<title>PT: Cine Mundo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo </link>
-</item>
-<item>
-<title>PT: EuroSpor News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News </link>
-</item>
-<item>
-<title>PT: Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood </link>
-</item>
-<item>
-<title>PT: EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2 </link>
-</item>
-<item>
-<title>PT: EuroSport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport </link>
-</item>
-<item>
-<title>PT: Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior </link>
-</item>
-<item>
-<title>PT: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel </link>
-</item>
-<item>
-<title>PT: Discovery HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD </link>
-</item>
-<item>
-<title>PT: Abola tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv </link>
-</item>
-
-
-
-
-
-
-
-
-<item>       
-<title>[COLOR red]                                                          [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>                                      [COLOR] [COLOR red][/COLOR][B][COLOR red][B]P[/B][/COLOR][COLOR green][B]L[/B][/COLOR][COLOR orange][B]A[/B][/COLOR][COLOR red][B]Y[/B][/COLOR] [COLOR cyan]TV NEEDED [/COLOR][COLOR magenta]EXTRA ADDON [/COLOR]</title>
-<link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
-</item>
-<item>
-<title>                                                             [COLOR yellow]F4MTESTER [/COLOR]</title>
-<link>http://Movies.me</link>
-<jsonrpc>plugin://plugin.video.f4mTester/</jsonrpc>
-<thumbnail>http://www.everythingmiltondot.com/uploads/2/4/3/2/24320921/6355440_orig.jpg</thumbnail>
-<fanart>https://goo.gl/9oQCFk</fanart>
-</item>
+#EXTINF:-1,--|PORTUGAL GENERALE|--
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1440.ts
+#EXTINF:-1,PT|RTP 1 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/890.ts
+#EXTINF:-1,PT|RTP 2 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/891.ts
+#EXTINF:-1,PT|RTP 3 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/985.ts
+#EXTINF:-1,PT|RTP Memoria
+http://195.154.154.185:5890/live/ahmedd/ahmedd/895.ts
+#EXTINF:-1,PT|RTP Madeira
+http://195.154.154.185:5890/live/ahmedd/ahmedd/894.ts
+#EXTINF:-1,PT|RTP Acores
+http://195.154.154.185:5890/live/ahmedd/ahmedd/892.ts
+#EXTINF:-1,PT|RT GLOBAL
+http://195.154.154.185:5890/live/ahmedd/ahmedd/900.ts
+#EXTINF:-1,PT|TV Globo
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1024.ts
+#EXTINF:-1,PT|TVI Ficcao
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1022.ts
+#EXTINF:-1,PT|TVI
+http://195.154.154.185:5890/live/ahmedd/ahmedd/905.ts
+#EXTINF:-1,PT|tvi/24
+http://195.154.154.185:5890/live/ahmedd/ahmedd/919.ts
+#EXTINF:-1,PT|TVC Series
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1023.ts
+#EXTINF:-1,PT|SIC Noticias
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1738.ts
+#EXTINF:-1,PT|SIC Caras
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1025.ts
+#EXTINF:-1,PT|Sic Radical
+http://195.154.154.185:5890/live/ahmedd/ahmedd/897.ts
+#EXTINF:-1,PT|SIC Mulher
+http://195.154.154.185:5890/live/ahmedd/ahmedd/896.ts
+#EXTINF:-1,PT|SIC
+http://195.154.154.185:5890/live/ahmedd/ahmedd/920.ts
+#EXTINF:-1,PT|CM TV
+http://195.154.154.185:5890/live/ahmedd/ahmedd/886.ts
+#EXTINF:-1,--|PT CINEMA|--
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1439.ts
+#EXTINF:-1,PT|TV Cine 1
+http://195.154.154.185:5890/live/ahmedd/ahmedd/901.ts
+#EXTINF:-1,PT|TV Cine 2
+http://195.154.154.185:5890/live/ahmedd/ahmedd/902.ts
+#EXTINF:-1,PT|TV Cine 3
+http://195.154.154.185:5890/live/ahmedd/ahmedd/903.ts
+#EXTINF:-1,PT|TV Cine 4
+http://195.154.154.185:5890/live/ahmedd/ahmedd/904.ts
+#EXTINF:-1,PT|Mov HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1200.ts
+#EXTINF:-1,PT|Cine Mundo
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1192.ts
+#EXTINF:-1,PT|Hollywood HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/889.ts
+#EXTINF:-1,PT|Fox Crime
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1027.ts
+#EXTINF:-1,PT|Fox Movies
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1182.ts
+#EXTINF:-1,PT|Fox Comedy
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1028.ts
+#EXTINF:-1,PT|FoxLife
+http://195.154.154.185:5890/live/ahmedd/ahmedd/888.ts
+#EXTINF:-1,PT|FoxHD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/887.ts
+#EXTINF:-1,PT|SYFY
+http://195.154.154.185:5890/live/ahmedd/ahmedd/899.ts
+#EXTINF:-1,PT|AXN-HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1033.ts
+#EXTINF:-1,PT|AXN WhiteHD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/883.ts
+#EXTINF:-1,PT|Axn Black HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/882.ts
+#EXTINF:-1,--|PT CULTURE|--
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1441.ts
+#EXTINF:-1,PT|24 Kitchen
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1198.ts
+#EXTINF:-1,PT|Reality TV
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1191.ts
+#EXTINF:-1,PT|CBC Reality
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1196.ts
+#EXTINF:-1,PT|Odissia
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1194.ts
+#EXTINF:-1,PT|Caca Pesca
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1197.ts
+#EXTINF:-1,PT|NatGeoWild
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1195.ts
+#EXTINF:-1,PT|Discovery-HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1031.ts
+#EXTINF:-1,--|PT ENFANTS|--
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1442.ts
+#EXTINF:-1,PT|JimJim
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1026.ts
+#EXTINF:-1,PT|SIC Kids
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1203.ts
+#EXTINF:-1,PT|Nickelodeon HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1206.ts
+#EXTINF:-1,PT|Cartoon Network HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1204.ts
+#EXTINF:-1,PT|Baby tv
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1190.ts
+#EXTINF:-1,PT|Canal Panda
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1193.ts
+#EXTINF:-1,PT|Disney Ju
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1029.ts
+#EXTINF:-1,PT|Disney Ch
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1030.ts
+#EXTINF:-1,--|PT SPORT|--
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1438.ts
+#EXTINF:-1,PT|EuroSport
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1199.ts
+#EXTINF:-1,PT|Canal Porto
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1032.ts
+#EXTINF:-1,PT|Abola TV
+http://195.154.154.185:5890/live/ahmedd/ahmedd/1034.ts
+#EXTINF:-1,PT|Sporting TV
+http://195.154.154.185:5890/live/ahmedd/ahmedd/893.ts
+#EXTINF:-1,PT|BTV 1 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/885.ts
+#EXTINF:-1,PT|BTV 2
+http://195.154.154.185:5890/live/ahmedd/ahmedd/884.ts
+#EXTINF:-1,PT|Sport TV 1 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/878.ts
+#EXTINF:-1,PT|SPORT TV1
+http://195.154.154.185:5890/live/ahmedd/ahmedd/2510.ts
+#EXTINF:-1,PT|Sport TV 2 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/879.ts
+#EXTINF:-1,PT|Sport TV 3 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/880.ts
+#EXTINF:-1,PT|Sport TV 4 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/881.ts
+#EXTINF:-1,PT|Sport TV 5 HD
+http://195.154.154.185:5890/live/ahmedd/ahmedd/898.ts
