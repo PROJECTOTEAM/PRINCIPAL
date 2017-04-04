@@ -83,6 +83,17 @@ dir = dmode
 
 
 
+
+<dir>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]WORLD IPTV CHANNELS[/COLOR]</name>
+<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2011.xml</link>
+<fanart>http://images5.fanpop.com/image/photos/29900000/tlc-tlc-music-29937264-1280-800.jpg</fanart>
+<thumbnail>http://now24.gr/wp-content/uploads/2011/06/tv-musica.jpg</thumbnail>
+</dir>
+
+
+
+
 <plugin>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]VOD TVSUPERTUGA[/COLOR]</name>
 <link>plugin://plugin.video.vod.tvsupertuga/</link>
