@@ -2,6 +2,25 @@
 
 
 
+
+<dir>
+<title>[COLOR white][B]NACIONAIS[/B][/COLOR]</title>
+<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/cinema11.png</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/tumblr10.jpg</fanart>
+<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/NACIONAIS.xml</link>
+</dir>
+
+<dir>
+<title>[COLOR white][B]DUBRADOS[/B][/COLOR]</title>
+<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/ads_oh11.png</thumbnail>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/transf10.jpg</fanart>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/FILMES/DUBLADOS.xml</link>
+</dir>
+
+
+
+
+
 <dir>
 <title>[COLOR white][B]LATEST MOVIES[/B][/COLOR]</title>
 <link>http://brettusbuilds.com/.WHITE%20DEVIL/NEMESIS/LATEST.XML</link>
@@ -23,45 +42,5 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/95/05/9b/95059b1a4641d827f29808c4e88ffd64.jpg</fanart>
 </dir>
 
-
-
-<dir>
-<name>[COLOR white]NACIONAIS[/COLOR]</name>
-<thumbnail>http://www.aazee.com/wp-content/uploads/2015/09/moviehd_logo.jpg</thumbnail>
-<fanart>http://img.ibxk.com.br/2013/7/megacurioso/614018120009223581_mega.jpg</fanart>>
-<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TVSUPERTUGA%20MOVIES/FILMES/NACIONAIS.xml</link>
-</dir>
-
-<dir>
-<name>[COLOR white]DUBRADOS[/COLOR]</name>
-<thumbnail>http://lh5.ggpht.com/_iL8eawmZ6FY/S_IE6l68itI/AAAAAAAAASs/SochQb6kpfU/hd%20filmes.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-XDChk771Tr0/U1vFW0NYHkI/AAAAAAAAAS4/5IdVVnhEysU/s1600/Semat%C3%ADtulo.png</fanart>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/FILMES/DUBLADOS.xml</link>
-</dir>
-
-
-<dir>	
-<name>[COLOR white]  FILMES TRADUZIDOS PT-BR 1[/COLOR]           [COLOR orange](TVsupertuga)[/COLOR]       </name>
-<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
-<fanart>http://wallpaper.ultradownloads.com.br/121948_Papel-de-Parede-Filmes-antigos_1920x1200.jpg</fanart>
-<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/FILMES/Kassem_Filmes%201.M3U</link>
-</dir>
-
-
-
-<dir>	
-<name>[COLOR white]  FILMES TRADUZIDOS 2 PT-BR[/COLOR]           [COLOR orange](IPTVBRASILHD)[/COLOR] </name>
-<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa_jg5F_iV7ZH76yIX_E2l67vdBRH3w8uBKZOH_hyqYB2ZaOPsWQ</thumbnail>
-<fanart>http://viagenstop10.com.br/wp-content/uploads/2015/09/img-2419-mashup-filmes-2012.jpg</fanart>
-<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/FILMES/FILME%20HD.m3u</link>
-</dir>
-
-
-<dir>		
-<name>[COLOR white] FILMES TRADUZIDOS 3 PT-BR[/COLOR]           </name>
-<thumbnail>http://showboxappdownloads.com/wp-content/uploads/2015/06/movie-box-install.jpg</thumbnail>
-<fanart>http://sia1.subirimagenes.net/img/2014/03/21/14032110335055360.jpg</fanart>
-<link>http://pastebin.com/raw/H6ZC1haL</link>
-</dir>
 
 
