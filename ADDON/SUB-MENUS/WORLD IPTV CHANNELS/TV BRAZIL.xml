@@ -4,7 +4,7 @@
 
 <dir>
 <name>[COLOR red]TV BRAZIL[/COLOR]  [COLOR lime]SERVIDOR 1[/COLOR]</name>
-<link>https://raw.githubusercontent.com/VIP-TVsupertuga/VIP-TVsupertuga/master/SUB-MENUS/LISTA%20IPTV.m3u</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%20SERVIDOR%202.xml</link>
 <fanart>http://brasileiros.com.br/wp-content/uploads/2013/10/brasil-3dfoto3d-blogspot-com-10.jpg</fanart>
 <thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/brasil-icon.png</thumbnail>
 </dir>
@@ -12,14 +12,22 @@
 
 <dir>
 <name>[COLOR red]TV BRAZIL[/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]</name>
-<link>http://projectxwizard.site88.net/teste/TV%20PORTUGUESA.xml</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%201.m3u</link>
 <fanart>http://brasileiros.com.br/wp-content/uploads/2013/10/brasil-3dfoto3d-blogspot-com-10.jpg</fanart>
 <thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/brasil-icon.png</thumbnail>
 </dir>
 
 <dir>
-<name>[COLOR red]TV BRAZIL[/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]</name>
-<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%200-%20tvsuper%20tuga.xml</link>
+<name>[COLOR red]TV BRAZIL[/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%20SERVIDOR%202.m3u</link>
+<fanart>http://brasileiros.com.br/wp-content/uploads/2013/10/brasil-3dfoto3d-blogspot-com-10.jpg</fanart>
+<thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/brasil-icon.png</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR red]TV BRAZIL[/COLOR]  [COLOR lime]SERVIDOR 4[/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/BRAZIL/BRAZIL%20SERVIDOR%205%20%20IPTVBRASILHD.m3u</link>
 <fanart>http://brasileiros.com.br/wp-content/uploads/2013/10/brasil-3dfoto3d-blogspot-com-10.jpg</fanart>
 <thumbnail>http://icons.iconarchive.com/icons/iconscity/flags/256/brasil-icon.png</thumbnail>
 </dir>
