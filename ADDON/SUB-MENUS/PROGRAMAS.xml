@@ -1,76 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
+<plugin>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]TVSUPERTUGA NOTIFICATIONS[/COLOR]</name>
+<link>plugin://plugin.program.tvsupertuga.notifications</link>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.png</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/conten10.jpg</fanart>
+</plugin>
+
+
+<dir>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]JOGOS E EMULADORES[/COLOR]</name>
+<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2024.xml</link>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.jpg</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
+</dir>
+
+<plugin>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]PROJECT X WIZARD[/COLOR]</name>
+<link>plugin://plugin.video.projectxwizard/</link>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon10.png</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart12.jpg</fanart>
+</plugin>
+
+
+<dir>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush] ESPAÇO TVsupertuga[/COLOR]</name>
+<link>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%2021.xml</link>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/discus10.jpg</fanart>
+<thumbnail>http://blog.espasso.com/wp-content/uploads/2012/09/Kate-Elliott_16.jpg</thumbnail>
+</dir>
+
+
+<plugin>
+<name>[COLOR white]SEARCH[/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=search</link>
+<thumbnail>http://brettusbuilds.com/.wolf%20pack/IMAGES/hZs3gR%20-%20Copy%20-%20Copy.jpg</thumbnail>
+</plugin>
 
 
 
-
-
-
-
-<item>
-<title>[COLOR red]• [/COLOR] [COLOR white]PORTUGAL TV[/COLOR] </title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/VIP-TVsupertuga/VIP-TVsupertuga/master/SUB-MENUS/TV%20PORTUGUESA/TV%20PORTUGUESA.xml</externallink>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
-</item>
-
-<item>       
-<title>[COLOR red] [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR red]• [/COLOR] [COLOR white][B]LISTAS DIARIAS PT[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLOR red]VIP-TVsupertuga[/COLOR] [COLOR red ][makelist2.param1][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
- <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
- ]]></listrepeat>
-<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>https://raw.githubusercontent.com/VIP-TVsupertuga/VIP-TVsupertuga/master/SUB-MENUS/TV%20PORTUGUESA/DIARIAS.xml</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR red]VIP-TVsupertuga[COLOR lred][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] VIP-TVsupertuga[/COLOR] [makelist.param1]</link>
- <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
- <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
- <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-</item>
-
-
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] VIP-TVsupertuga[/COLOR] [makelist.param1]</link>
- <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
- <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/2000px10.png</thumbnail>
- <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-</item>
-
+<plugin>
+<name>[COLOR white]ADDON SETTINGS[/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=openSettings</link>
+<thumbnail>http://www.norestrictions.club/main/mainicons/Settings.jpg</thumbnail>
+</plugin>
