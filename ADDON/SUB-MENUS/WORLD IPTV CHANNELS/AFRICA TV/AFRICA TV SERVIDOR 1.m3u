@@ -9,56 +9,17 @@
 
 
 
-
-
-
-#EXTINF:-1,------africain------
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1548.ts
-#EXTINF:-1,AF|Africa Tv 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1541.ts
-#EXTINF:-1,AF|Africa Tv 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1539.ts
-#EXTINF:-1,AF|Africa Tv 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1533.ts
-#EXTINF:-1,AF|Africa Tv 4
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1544.ts
-#EXTINF:-1,AF|Eri-TV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1696.ts
-#EXTINF:-1,AF|RTI 1 tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1534.ts
-#EXTINF:-1,AF|PrestigeTv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1546.ts
-#EXTINF:-1,AF|Canal 225
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1532.ts
-#EXTINF:-1,AF|canal2 info
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1537.ts
-#EXTINF:-1,AF|RTS 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2582.ts
-#EXTINF:-1,AF|RTNC (congo)
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3168.ts
-#EXTINF:-1,AF|emmanuel tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3169.ts
-#EXTINF:-1,AF|DTV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3173.ts
-#EXTINF:-1,AF|Nollywood movies premium
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3171.ts
-#EXTINF:-1,AF|Nollywood tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3170.ts
-#EXTINF:-1,LOCAL:NOLLYWOOD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3673.ts
-#EXTINF:-1,AF|Rave tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3172.ts
-#EXTINF:-1,AF|ORTM
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3174.ts
-#EXTINF:-1,KUR|NRT
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1571.ts
-#EXTINF:-1,KUR|NRT 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1578.ts
-#EXTINF:-1,KUR|KNN
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1572.ts
-#EXTINF:-1,------Maltese------
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1703.ts
-#EXTINF:-1,MAL|TVM 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1699.ts
-#EXTINF:-1,MAL|TVM 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1700.ts
+#EXTINF:-1,AF_Tchad_Tv
+http://www.vips2016.com:8088/live/3345406663/2929544/2239.ts
+#EXTINF:-1,AF_Senegal_Rts1
+http://www.vips2016.com:8088/live/3345406663/2929544/2240.ts
+#EXTINF:-1,AF_ORTM-Africa
+http://www.vips2016.com:8088/live/3345406663/2929544/2313.ts
+#EXTINF:-1,AF_Rave_TV
+http://www.vips2016.com:8088/live/3345406663/2929544/2501.ts
+#EXTINF:-1,AF_Tvc_News
+http://www.vips2016.com:8088/live/3345406663/2929544/2502.ts
+#EXTINF:-1,AF_CRtv
+http://www.vips2016.com:8088/live/3345406663/2929544/2505.ts
+#EXTINF:-1,AF_Nigeria-News
+http://www.vips2016.com:8088/live/3345406663/2929544/2312.ts

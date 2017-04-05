@@ -9,74 +9,75 @@
 
 
 
-
-
-
-#EXTINF:-1,NED|NPO 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/842.ts
-#EXTINF:-1,NED|NPO 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/843.ts
-#EXTINF:-1,NED|NPO 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/844.ts
-#EXTINF:-1,NED|NET 5
-http://195.154.154.185:5890/live/ahmedd/ahmedd/841.ts
-#EXTINF:-1,NED|RTL 4
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1867.ts
-#EXTINF:-1,NED|RTL 5
-http://195.154.154.185:5890/live/ahmedd/ahmedd/771.ts
-#EXTINF:-1,NED|RTL 7
-http://195.154.154.185:5890/live/ahmedd/ahmedd/772.ts
-#EXTINF:-1,NED|RTL 8
-http://195.154.154.185:5890/live/ahmedd/ahmedd/845.ts
-#EXTINF:-1,NED|SBS 9
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1708.ts
-#EXTINF:-1,NED|SBS 6
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1707.ts
-#EXTINF:-1,NED|Ziggo Sport Select
-http://195.154.154.185:5890/live/ahmedd/ahmedd/998.ts
-#EXTINF:-1,NED|FOX Sports 1 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/999.ts
-#EXTINF:-1,NED|FOX Sports 2 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1000.ts
-#EXTINF:-1,NED|FOX Sports 3 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1249.ts
-#EXTINF:-1,NED|FOX Sports 4 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1250.ts
-#EXTINF:-1,NED|FOX Sports 5 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1251.ts
-#EXTINF:-1,NED|FOX Sports 6 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1252.ts
-#EXTINF:-1,NED|HBO 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/774.ts
-#EXTINF:-1,NED|HBO 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/775.ts
-#EXTINF:-1,NED|HBO 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/776.ts
-#EXTINF:-1,NED|Film1 Action
-http://195.154.154.185:5890/live/ahmedd/ahmedd/777.ts
-#EXTINF:-1,NED|Film1 Spotlght
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1248.ts
-#EXTINF:-1,NED|Film 1 Sundance
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1709.ts
-#EXTINF:-1,NED|Film1 Premiere HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/778.ts
-#EXTINF:-1,NED|Film1 Comedy Kids
-http://195.154.154.185:5890/live/ahmedd/ahmedd/779.ts
-#EXTINF:-1,NED|NATGEO
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1710.ts
-#EXTINF:-1,NED|Nat Geo
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1999.ts
-#EXTINF:-1,NED|FOX
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1998.ts
-#EXTINF:-1,NED|Comedy Central
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2000.ts
-#EXTINF:-1,NED|Discovery Channel
-http://195.154.154.185:5890/live/ahmedd/ahmedd/928.ts
-#EXTINF:-1,NED|NICKELODEON
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1741.ts
-#EXTINF:-1,NED|Disney Channel
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1743.ts
-#EXTINF:-1,NED|CARTOON
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1742.ts
-#EXTINF:-1,NED|MTV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1706.ts
+#EXTINF:-1,NL_HboHD
+http://www.vips2016.com:8088/live/3345406663/2929544/2589.ts
+#EXTINF:-1,NL_Hbo2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2590.ts
+#EXTINF:-1,NL_Hbo3HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2591.ts
+#EXTINF:-1,NL_RTL4
+http://www.vips2016.com:8088/live/3345406663/2929544/2668.ts
+#EXTINF:-1,NL_RTL5
+http://www.vips2016.com:8088/live/3345406663/2929544/2669.ts
+#EXTINF:-1,NL_SBS6HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2630.ts
+#EXTINF:-1,NL_RTL7
+http://www.vips2016.com:8088/live/3345406663/2929544/2670.ts
+#EXTINF:-1,NL_RTL8
+http://www.vips2016.com:8088/live/3345406663/2929544/2671.ts
+#EXTINF:-1,NL_SBS9
+http://www.vips2016.com:8088/live/3345406663/2929544/2625.ts
+#EXTINF:-1,NL_NPO1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2664.ts
+#EXTINF:-1,NL_NPO2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2665.ts
+#EXTINF:-1,NL_NPO3HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2666.ts
+#EXTINF:-1,NL_NPO4HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2667.ts
+#EXTINF:-1,NL_Fox_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2629.ts
+#EXTINF:-1,NL_FoxLife
+http://www.vips2016.com:8088/live/3345406663/2929544/2663.ts
+#EXTINF:-1,NL_NickJr
+http://www.vips2016.com:8088/live/3345406663/2929544/2594.ts
+#EXTINF:-1,NL_Nickelodeon
+http://www.vips2016.com:8088/live/3345406663/2929544/2628.ts
+#EXTINF:-1,NL_DisneyJunior
+http://www.vips2016.com:8088/live/3345406663/2929544/2658.ts
+#EXTINF:-1,NL_DisneyChanneL
+http://www.vips2016.com:8088/live/3345406663/2929544/2627.ts
+#EXTINF:-1,NL_CartoonNetwork
+http://www.vips2016.com:8088/live/3345406663/2929544/2660.ts
+#EXTINF:-1,NL_MTV
+http://www.vips2016.com:8088/live/3345406663/2929544/2624.ts
+#EXTINF:-1,NL_RTVRijnmond
+http://www.vips2016.com:8088/live/3345406663/2929544/2631.ts
+#EXTINF:-1,NL_NationalGeo
+http://www.vips2016.com:8088/live/3345406663/2929544/2626.ts
+#EXTINF:-1,NL_NationalGeoWild
+http://www.vips2016.com:8088/live/3345406663/2929544/2592.ts
+#EXTINF:-1,NL_Discovery
+http://www.vips2016.com:8088/live/3345406663/2929544/2662.ts
+#EXTINF:-1,NL_AnimalPlanet
+http://www.vips2016.com:8088/live/3345406663/2929544/2661.ts
+#EXTINF:-1,NL_Film1Sundance
+http://www.vips2016.com:8088/live/3345406663/2929544/2632.ts
+#EXTINF:-1,NL_Film1PremiereHD
+http://www.vips2016.com:8088/live/3345406663/2929544/2634.ts
+#EXTINF:-1,NL_Film1ComedyandKids
+http://www.vips2016.com:8088/live/3345406663/2929544/2633.ts
+#EXTINF:-1,NL_Film1ActionHD
+http://www.vips2016.com:8088/live/3345406663/2929544/2635.ts
+#EXTINF:-1,NL_ZiggoSport
+http://www.vips2016.com:8088/live/3345406663/2929544/2659.ts
+#EXTINF:-1,NL_FoxSport5
+http://www.vips2016.com:8088/live/3345406663/2929544/2657.ts
+#EXTINF:-1,NL_FoxSport4
+http://www.vips2016.com:8088/live/3345406663/2929544/2656.ts
+#EXTINF:-1,NL_FoxSport3
+http://www.vips2016.com:8088/live/3345406663/2929544/2655.ts
+#EXTINF:-1,NL_FoxSport2
+http://www.vips2016.com:8088/live/3345406663/2929544/2654.ts
+#EXTINF:-1,NL_FoxSport1
+http://www.vips2016.com:8088/live/3345406663/2929544/2653.ts

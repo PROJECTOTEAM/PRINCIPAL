@@ -6,186 +6,131 @@
 
 
 
-
-
-
-
-
-#EXTINF:-1,------|GERMANY|-----
-http://195.154.154.185:5890/live/ahmedd/ahmedd/3666.ts
-#EXTINF:-1,--|DE SPORT|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1444.ts
-#EXTINF:-1,DE|Euro Sport 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1683.ts
-#EXTINF:-1,DE|Euro Sport 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/377.ts
-#EXTINF:-1,DE|Sport Digital
-http://195.154.154.185:5890/live/ahmedd/ahmedd/387.ts
-#EXTINF:-1,DE|Sport1+ HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/382.ts
-#EXTINF:-1,DE|Sport1 US HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1077.ts
-#EXTINF:-1,DE|Sky Sport HD 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/383.ts
-#EXTINF:-1,DE|Sky Sport HD 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/384.ts
-#EXTINF:-1,DE|Sky Sports News
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1980.ts
-#EXTINF:-1,DE|Sky Sports Austria
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1969.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/385.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1076.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2070.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 4
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2071.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 5
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2072.ts
-#EXTINF:-1,---|DE PPV|---
-http://195.154.154.185:5890/live/ahmedd/ahmedd/857.ts
-#EXTINF:-1,DE|Sky Select  HD 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/830.ts
-#EXTINF:-1,DE|Sky Select  HD 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1070.ts
-#EXTINF:-1,DE|Sky Select  HD 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/831.ts
-#EXTINF:-1,DE|Sky Select  HD 4
-http://195.154.154.185:5890/live/ahmedd/ahmedd/832.ts
-#EXTINF:-1,DE|Sky Select  HD 5
-http://195.154.154.185:5890/live/ahmedd/ahmedd/833.ts
-#EXTINF:-1,DE|Sky Select  HD 6
-http://195.154.154.185:5890/live/ahmedd/ahmedd/834.ts
-#EXTINF:-1,DE|Sky Select  HD 7
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1068.ts
-#EXTINF:-1,DE|Sky Select  HD 8
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1069.ts
-#EXTINF:-1,DE|Sky Select HD 9
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1071.ts
-#EXTINF:-1,--|DE CINEMA|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1443.ts
-#EXTINF:-1,DE|Sky HD 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/357.ts
-#EXTINF:-1,DE|Sky Cinema HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/348.ts
-#EXTINF:-1,DE|Sky Cinema 24
-http://195.154.154.185:5890/live/ahmedd/ahmedd/349.ts
-#EXTINF:-1,DE|Sky Comedy
-http://195.154.154.185:5890/live/ahmedd/ahmedd/352.ts
-#EXTINF:-1,DE|Sky Krimi
-http://195.154.154.185:5890/live/ahmedd/ahmedd/353.ts
-#EXTINF:-1,DE|SkyAtlantic
-http://195.154.154.185:5890/live/ahmedd/ahmedd/356.ts
-#EXTINF:-1,DE|Sky Action
-http://195.154.154.185:5890/live/ahmedd/ahmedd/351.ts
-#EXTINF:-1,DE|Sky Hits
-http://195.154.154.185:5890/live/ahmedd/ahmedd/350.ts
-#EXTINF:-1,DE|Sky Emotion
-http://195.154.154.185:5890/live/ahmedd/ahmedd/354.ts
-#EXTINF:-1,DE|Sky Kinowelt
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1977.ts
-#EXTINF:-1,DE|TNT Film
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1214.ts
-#EXTINF:-1,DE|TNT Comedy
-http://195.154.154.185:5890/live/ahmedd/ahmedd/376.ts
-#EXTINF:-1,DE|TNT SERIE
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1997.ts
-#EXTINF:-1,DE|13 th Street HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/375.ts
-#EXTINF:-1,DE|FOX
-http://195.154.154.185:5890/live/ahmedd/ahmedd/372.ts
-#EXTINF:-1,DE|Fox Serie
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1978.ts
-#EXTINF:-1,DE|BR HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1984.ts
-#EXTINF:-1,DE|ARTEHD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1981.ts
-#EXTINF:-1,DE|DMAX HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1983.ts
-#EXTINF:-1,DE|RBB HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1982.ts
-#EXTINF:-1,DE|Eins Festival
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1976.ts
-#EXTINF:-1,DE|Goldstar
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1974.ts
-#EXTINF:-1,DE|CLASSICA
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1973.ts
-#EXTINF:-1,DE|TLC
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1971.ts
-#EXTINF:-1,DE|AXN HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/374.ts
-#EXTINF:-1,--|DE GENERALE|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1447.ts
-#EXTINF:-1,DE|N24
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1996.ts
-#EXTINF:-1,DE|ORF 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1685.ts
-#EXTINF:-1,DE|ORF 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/365.ts
-#EXTINF:-1,DE|NDR
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1995.ts
-#EXTINF:-1,DE|WDR
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1994.ts
-#EXTINF:-1,DE|Universal Channel
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1687.ts
-#EXTINF:-1,DE|VOX HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1684.ts
-#EXTINF:-1,DE|SIXX HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1681.ts
-#EXTINF:-1,DE|RTL Passion
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1688.ts
-#EXTINF:-1,DE|RTL Crime
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1689.ts
-#EXTINF:-1,DE|Romance tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1690.ts
-#EXTINF:-1,DE|PRO 7
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1677.ts
-#EXTINF:-1,DE|SAT.1 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/361.ts
-#EXTINF:-1,DE|ZDF
-http://195.154.154.185:5890/live/ahmedd/ahmedd/366.ts
-#EXTINF:-1,DE|Das Erste HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/367.ts
-#EXTINF:-1,DE|RTL
-http://195.154.154.185:5890/live/ahmedd/ahmedd/358.ts
-#EXTINF:-1,DE|RTL ll HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/359.ts
-#EXTINF:-1,DE|Kabel eins HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/355.ts
-#EXTINF:-1,DE|Super Rtl
-http://195.154.154.185:5890/live/ahmedd/ahmedd/363.ts
-#EXTINF:-1,DE|MGM
-http://195.154.154.185:5890/live/ahmedd/ahmedd/368.ts
-#EXTINF:-1,DE|ZEE ONE
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1966.ts
-#EXTINF:-1,--|DE CULTURE|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1446.ts
-#EXTINF:-1,DE|A&E
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1972.ts
-#EXTINF:-1,DE|Sky Planet
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1686.ts
-#EXTINF:-1,DE|3 SAT
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1682.ts
-#EXTINF:-1,DE|History HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/364.ts
-#EXTINF:-1,DE|NatGeoGeographic
-http://195.154.154.185:5890/live/ahmedd/ahmedd/381.ts
-#EXTINF:-1,DE|National Geo Wild
-http://195.154.154.185:5890/live/ahmedd/ahmedd/380.ts
-#EXTINF:-1,DE|Animal Planet
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1078.ts
-#EXTINF:-1,DE|DiscoveryHD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/379.ts
-#EXTINF:-1,--|DE KINDER|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1445.ts
-#EXTINF:-1,DE|Disney XD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/373.ts
-#EXTINF:-1,DE|DISNEY CINEMAGIC
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1979.ts
-#EXTINF:-1,DE|disney junior
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1968.ts
-#EXTINF:-1,DE|boomerang
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1967.ts
-#EXTINF:-1,DE|KiKa
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1970.ts
+#EXTINF:-1,DE_ZDF_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2164.ts
+#EXTINF:-1,DE_ZDF_Info
+http://www.vips2016.com:8088/live/3345406663/2929544/2756.ts
+#EXTINF:-1,DE_Prosieben_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2807.ts
+#EXTINF:-1,DE_24
+http://www.vips2016.com:8088/live/3345406663/2929544/2762.ts
+#EXTINF:-1,DE_DW
+http://www.vips2016.com:8088/live/3345406663/2929544/2761.ts
+#EXTINF:-1,DE_Das_Erste_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2232.ts
+#EXTINF:-1,DE_ORF_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2049.ts
+#EXTINF:-1,DE_ORF_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2758.ts
+#EXTINF:-1,DE_ORF_Eins
+http://www.vips2016.com:8088/live/3345406663/2929544/2759.ts
+#EXTINF:-1,DE_Sat
+http://www.vips2016.com:8088/live/3345406663/2929544/2050.ts
+#EXTINF:-1,DE_Arte
+http://www.vips2016.com:8088/live/3345406663/2929544/2754.ts
+#EXTINF:-1,DE_Syfy
+http://www.vips2016.com:8088/live/3345406663/2929544/2711.ts
+#EXTINF:-1,DE_Vox_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2163.ts
+#EXTINF:-1,DE_Fox_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2165.ts
+#EXTINF:-1,DE_Wdr_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2757.ts
+#EXTINF:-1,DE_Tnt_Film
+http://www.vips2016.com:8088/live/3345406663/2929544/2327.ts
+#EXTINF:-1,DE_RTL_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1893.ts
+#EXTINF:-1,DE_RTL_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2162.ts
+#EXTINF:-1,DE_RTL_Crime
+http://www.vips2016.com:8088/live/3345406663/2929544/2620.ts
+#EXTINF:-1,DE_RTL_Passion
+http://www.vips2016.com:8088/live/3345406663/2929544/2716.ts
+#EXTINF:-1,DE_Sky_Planet
+http://www.vips2016.com:8088/live/3345406663/2929544/2329.ts
+#EXTINF:-1,DE_Discovery_Channel
+http://www.vips2016.com:8088/live/3345406663/2929544/1885.ts
+#EXTINF:-1,DE_NationalGeograpic
+http://www.vips2016.com:8088/live/3345406663/2929544/1881.ts
+#EXTINF:-1,De_NatlGeo
+http://www.vips2016.com:8088/live/3345406663/2929544/2167.ts
+#EXTINF:-1,DE_Disney
+http://www.vips2016.com:8088/live/3345406663/2929544/2619.ts
+#EXTINF:-1,DE_DisneyJunior
+http://www.vips2016.com:8088/live/3345406663/2929544/2618.ts
+#EXTINF:-1,DE_DisneyChannel_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2169.ts
+#EXTINF:-1,DE_DisneyCinemagic_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1894.ts
+#EXTINF:-1,DE_Boomerang
+http://www.vips2016.com:8088/live/3345406663/2929544/2709.ts
+#EXTINF:-1,DE_Nickelodeon_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2231.ts
+#EXTINF:-1,ooooSKY_DEUTSHoooo
+http://www.vips2016.com:8088/live/3345406663/2929544/2745.ts
+#EXTINF:-1,DE_Sky_Axn_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1898.ts
+#EXTINF:-1,DE_Sky_Action_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1891.ts
+#EXTINF:-1,DE_Sky_Cinema_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1887.ts
+#EXTINF:-1,DE_Sky_Cinema_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1940.ts
+#EXTINF:-1,DE_Sky_Cinema_24HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1888.ts
+#EXTINF:-1,DE_Sky_Emotion_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1883.ts
+#EXTINF:-1,DE_Sky_Comedy_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1886.ts
+#EXTINF:-1,DE_Sky_Romance_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2714.ts
+#EXTINF:-1,DE_Sky_Atlantic_HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2328.ts
+#EXTINF:-1,DE_Sky_13Th_Street
+http://www.vips2016.com:8088/live/3345406663/2929544/1892.ts
+#EXTINF:-1,DE_Sky_Select_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1937.ts
+#EXTINF:-1,DE_Sky_Select_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2506.ts
+#EXTINF:-1,DE_Sky_Select_3HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1936.ts
+#EXTINF:-1,DE_Sky_Select_4HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1935.ts
+#EXTINF:-1,DE_Sky_Select_5HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1934.ts
+#EXTINF:-1,DE_Sky_Select_6HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1933.ts
+#EXTINF:-1,DE_Sky_Select_7HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1932.ts
+#EXTINF:-1,DE_Sky_Select_8HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1931.ts
+#EXTINF:-1,DE_Sky_Select_9HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1930.ts
+#EXTINF:-1,ooooDEUTSH_SPORToooo
+http://www.vips2016.com:8088/live/3345406663/2929544/2746.ts
+#EXTINF:-1,DE_SkySportNewsHD
+http://www.vips2016.com:8088/live/3345406663/2929544/2703.ts
+#EXTINF:-1,DE_Arena_Sport_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2704.ts
+#EXTINF:-1,DE_Arena_Sport_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2705.ts
+#EXTINF:-1,DE_Arena_Sport_3HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2708.ts
+#EXTINF:-1,DE_Arena_Sport_4HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2706.ts
+#EXTINF:-1,DE_Arena_Sport_5HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2707.ts
+#EXTINF:-1,DE_Sky_sport_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2700.ts
+#EXTINF:-1,DE_Sky_sport_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2701.ts
+#EXTINF:-1,DE_Sky_Sport_Austria
+http://www.vips2016.com:8088/live/3345406663/2929544/2712.ts
+#EXTINF:-1,DE_Sky_Bundesliga_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1897.ts
+#EXTINF:-1,DE_Sky_Bundesliga_2HD
+http://www.vips2016.com:8088/live/3345406663/2929544/1896.ts
+#EXTINF:-1,DE_Eurosport_1HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2710.ts
+#EXTINF:-1,DE_Sky_Bundesliga_3HD
+http://www.vips2016.com:8088/live/3345406663/2929544/2702.ts
