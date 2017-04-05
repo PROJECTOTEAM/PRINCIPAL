@@ -11,7 +11,14 @@
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
 </channel>
 
-
+</item>
+<channel>
+<name></name>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
+</channel>
 
 </item>
 <channel>
@@ -119,8 +126,8 @@
 <channels>
 <channel>>
 <name>[COLOR lime] [I]RADIOS[/I] [/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/nYsM4A.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
+<thumbnail>http://www.clipartkid.com/images/846/blue-radio-clip-art-at-clker-com-vector-clip-art-online-royalty-gTlF2X-clipart.png</thumbnail>
+<fanart>https://mediamagazine.nl/wp-content/uploads/2016/08/DAB-radio.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/RADIOS%20BY%20LOGAN.xml</externallink>
 </subitem>
