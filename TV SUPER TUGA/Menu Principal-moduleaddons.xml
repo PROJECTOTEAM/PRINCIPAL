@@ -20,14 +20,6 @@
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
 </channel>
 
-</item>
-<channel>
-<name>[COLOR lavenderblush]PROCURAR[/COLOR]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/PROCURAR.xml</externallink>
-</channel>
 
 
 </item>
@@ -74,7 +66,7 @@
 
 </item>
 <channel>
-<name>[COLOR grey] INFANTAL   [/COLOR]</name>
+<name>[COLOR yellow] INFANTAL   [/COLOR]</name>
 <thumbnail>http://www.adcaminho.com.br/wp-content/uploads/2011/03/Logo-Minist%C3%A9rio-Infantil.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 <link>http://ignorame</link>
@@ -112,19 +104,8 @@
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS%20TVS.xml</externallink>
 </channel>
 
-
-
-<channel>
-<name>[COLOR lime] [I]MAIS IPTV GRATIS[/I] [/COLOR]</name>
-<thumbnail>http://i2.wp.com/eusouandroid.com/wp-content/uploads/iptv31.jpg?resize=666%2C352</thumbnail>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20EXTRA.xml</externallink>
-</subitem>
-</item>
-
 <channels>
-<channel>>
+<channel>
 <name>[COLOR lime] [I]RADIOS[/I] [/COLOR]</name>
 <thumbnail>http://www.clipartkid.com/images/846/blue-radio-clip-art-at-clker-com-vector-clip-art-online-royalty-gTlF2X-clipart.png</thumbnail>
 <fanart>https://mediamagazine.nl/wp-content/uploads/2016/08/DAB-radio.jpg</fanart>
@@ -132,3 +113,14 @@
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/RADIOS.xml</externallink>
 </subitem>
 </item>
+
+<channel>
+<name>[COLOR cyan] [I]MAIS IPTV GRATIS[/I] [/COLOR]</name>
+<thumbnail>http://i2.wp.com/eusouandroid.com/wp-content/uploads/iptv31.jpg?resize=666%2C352</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20EXTRA.xml</externallink>
+</subitem>
+</item>
+
+
