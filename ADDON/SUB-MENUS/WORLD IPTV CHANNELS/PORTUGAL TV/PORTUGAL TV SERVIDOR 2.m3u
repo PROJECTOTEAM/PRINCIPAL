@@ -4,136 +4,131 @@
 
 
 
-
-#EXTINF:-1,--|PORTUGAL GENERALE|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1440.ts
-#EXTINF:-1,PT|RTP 1 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/890.ts
-#EXTINF:-1,PT|RTP 2 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/891.ts
-#EXTINF:-1,PT|RTP 3 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/985.ts
-#EXTINF:-1,PT|RTP Memoria
-http://195.154.154.185:5890/live/ahmedd/ahmedd/895.ts
-#EXTINF:-1,PT|RTP Madeira
-http://195.154.154.185:5890/live/ahmedd/ahmedd/894.ts
-#EXTINF:-1,PT|RTP Acores
-http://195.154.154.185:5890/live/ahmedd/ahmedd/892.ts
-#EXTINF:-1,PT|RT GLOBAL
-http://195.154.154.185:5890/live/ahmedd/ahmedd/900.ts
-#EXTINF:-1,PT|TV Globo
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1024.ts
-#EXTINF:-1,PT|TVI Ficcao
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1022.ts
-#EXTINF:-1,PT|TVI
-http://195.154.154.185:5890/live/ahmedd/ahmedd/905.ts
-#EXTINF:-1,PT|tvi/24
-http://195.154.154.185:5890/live/ahmedd/ahmedd/919.ts
-#EXTINF:-1,PT|TVC Series
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1023.ts
-#EXTINF:-1,PT|SIC Noticias
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1738.ts
-#EXTINF:-1,PT|SIC Caras
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1025.ts
-#EXTINF:-1,PT|Sic Radical
-http://195.154.154.185:5890/live/ahmedd/ahmedd/897.ts
-#EXTINF:-1,PT|SIC Mulher
-http://195.154.154.185:5890/live/ahmedd/ahmedd/896.ts
-#EXTINF:-1,PT|SIC
-http://195.154.154.185:5890/live/ahmedd/ahmedd/920.ts
-#EXTINF:-1,PT|CM TV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/886.ts
-#EXTINF:-1,--|PT CINEMA|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1439.ts
-#EXTINF:-1,PT|TV Cine 1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/901.ts
-#EXTINF:-1,PT|TV Cine 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/902.ts
-#EXTINF:-1,PT|TV Cine 3
-http://195.154.154.185:5890/live/ahmedd/ahmedd/903.ts
-#EXTINF:-1,PT|TV Cine 4
-http://195.154.154.185:5890/live/ahmedd/ahmedd/904.ts
-#EXTINF:-1,PT|Mov HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1200.ts
-#EXTINF:-1,PT|Cine Mundo
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1192.ts
-#EXTINF:-1,PT|Hollywood HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/889.ts
-#EXTINF:-1,PT|Fox Crime
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1027.ts
-#EXTINF:-1,PT|Fox Movies
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1182.ts
-#EXTINF:-1,PT|Fox Comedy
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1028.ts
-#EXTINF:-1,PT|FoxLife
-http://195.154.154.185:5890/live/ahmedd/ahmedd/888.ts
-#EXTINF:-1,PT|FoxHD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/887.ts
-#EXTINF:-1,PT|SYFY
-http://195.154.154.185:5890/live/ahmedd/ahmedd/899.ts
-#EXTINF:-1,PT|AXN-HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1033.ts
-#EXTINF:-1,PT|AXN WhiteHD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/883.ts
-#EXTINF:-1,PT|Axn Black HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/882.ts
-#EXTINF:-1,--|PT CULTURE|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1441.ts
-#EXTINF:-1,PT|24 Kitchen
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1198.ts
-#EXTINF:-1,PT|Reality TV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1191.ts
-#EXTINF:-1,PT|CBC Reality
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1196.ts
-#EXTINF:-1,PT|Odissia
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1194.ts
-#EXTINF:-1,PT|Caca Pesca
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1197.ts
-#EXTINF:-1,PT|NatGeoWild
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1195.ts
-#EXTINF:-1,PT|Discovery-HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1031.ts
-#EXTINF:-1,--|PT ENFANTS|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1442.ts
-#EXTINF:-1,PT|JimJim
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1026.ts
-#EXTINF:-1,PT|SIC Kids
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1203.ts
-#EXTINF:-1,PT|Nickelodeon HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1206.ts
-#EXTINF:-1,PT|Cartoon Network HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1204.ts
-#EXTINF:-1,PT|Baby tv
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1190.ts
-#EXTINF:-1,PT|Canal Panda
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1193.ts
-#EXTINF:-1,PT|Disney Ju
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1029.ts
-#EXTINF:-1,PT|Disney Ch
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1030.ts
-#EXTINF:-1,--|PT SPORT|--
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1438.ts
-#EXTINF:-1,PT|EuroSport
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1199.ts
-#EXTINF:-1,PT|Canal Porto
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1032.ts
-#EXTINF:-1,PT|Abola TV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/1034.ts
-#EXTINF:-1,PT|Sporting TV
-http://195.154.154.185:5890/live/ahmedd/ahmedd/893.ts
-#EXTINF:-1,PT|BTV 1 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/885.ts
-#EXTINF:-1,PT|BTV 2
-http://195.154.154.185:5890/live/ahmedd/ahmedd/884.ts
-#EXTINF:-1,PT|Sport TV 1 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/878.ts
-#EXTINF:-1,PT|SPORT TV1
-http://195.154.154.185:5890/live/ahmedd/ahmedd/2510.ts
-#EXTINF:-1,PT|Sport TV 2 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/879.ts
-#EXTINF:-1,PT|Sport TV 3 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/880.ts
-#EXTINF:-1,PT|Sport TV 4 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/881.ts
-#EXTINF:-1,PT|Sport TV 5 HD
-http://195.154.154.185:5890/live/ahmedd/ahmedd/898.ts
+#EXTINF:-1,PT: TVI REALITY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8554.ts
+#EXTINF:-1,PT: SPORT TV 5HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8550.ts
+#EXTINF:-1,PT: SPORT TV 4HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8549.ts
+#EXTINF:-1,PT: SPORT TV 3HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8548.ts
+#EXTINF:-1,PT: SPORT TV 2HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8547.ts
+#EXTINF:-1,PT: SPORT TV 1HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8546.ts
+#EXTINF:-1,PT: ODISSEIA.
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8561.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8562.ts
+#EXTINF:-1,PT: NAT GEO WILD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8563.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8564.ts
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8552.ts
+#EXTINF:-1,PT: CANAL HISTORIA
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8569.ts
+#EXTINF:-1,PT: BENFICA TV 1HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8545.ts
+#EXTINF:-1,PT: AXN HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8580.ts
+#EXTINF:-1,PT: VH1
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7667.ts
+#EXTINF:-1,PT: TVI_REALITY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7637.ts
+#EXTINF:-1,PT: Tvi_24
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7636.ts
+#EXTINF:-1,PT: TVI.
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7635.ts
+#EXTINF:-1,PT: Sport_TV_2
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7604.ts
+#EXTINF:-1,PT: Sport_TV_1
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7605.ts
+#EXTINF:-1,PT: SIC_Radical
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7632.ts
+#EXTINF:-1,PT: SIC_Noticias
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7633.ts
+#EXTINF:-1,PT: SIC
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7634.ts
+#EXTINF:-1,PT: SIC.
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7630.ts
+#EXTINF:-1,PT: RTP_3
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7650.ts
+#EXTINF:-1,PT: RTP_2
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7648.ts
+#EXTINF:-1,PT: PORTO_CANAL
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7606.ts
+#EXTINF:-1,PT: Odisseia
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7656.ts
+#EXTINF:-1,PT: Nickelodeon
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7646.ts
+#EXTINF:-1,PT: FOX MOVIES_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7619.ts
+#EXTINF:-1,PT: FOX
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7623.ts
+#EXTINF:-1,PT: DISCOVERY_HD_SHOWCASE
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7639.ts
+#EXTINF:-1,PT: Discovery_Channel
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7641.ts
+#EXTINF:-1,PT: CM_TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7661.ts
+#EXTINF:-1,PT: CINEMUNDO_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7620.ts
+#EXTINF:-1,PT: Canal_Panda
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7645.ts
+#EXTINF:-1,PT: Canal_Historia
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7670.ts
+#EXTINF:-1,PT: BTV 1
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7629.ts
+#EXTINF:-1,PT: Benfica_TV_2
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7603.ts
+#EXTINF:-1,PT: BABY_TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7665.ts
+#EXTINF:-1,PT: AXN-HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3879.ts
+#EXTINF:-1,PT: AXN_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7625.ts
+#EXTINF:-1,PT: AMC
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7671.ts
+#EXTINF:-1,PT: FoxLifeHD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3868.ts
+#EXTINF:-1,PT: Discovery-HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3873.ts
+#EXTINF:-1,PT: FoxHD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3869.ts
+#EXTINF:-1,PT: Fox-Movies
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3870.ts
+#EXTINF:-1,PT: Fox-Comedy
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3871.ts
+#EXTINF:-1,PT: Disney-Channel
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3872.ts
+#EXTINF:-1,PT: CartoonNetwork
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3875.ts
+#EXTINF:-1,PT: TV_GLOBO_PREMIUN
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7244.ts
+#EXTINF:-1,PT: TV_GLOBO
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7245.ts
+#EXTINF:-1,PT: TV_Cine_3
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7230.ts
+#EXTINF:-1,PT: TV_Cine_2
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7231.ts
+#EXTINF:-1,PT: TV_Cine_1
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7232.ts
+#EXTINF:-1,PT: SYFY
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7237.ts
+#EXTINF:-1,PT: Sport_TV_5
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7234.ts
+#EXTINF:-1,PT: Sport_TV_4
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7235.ts
+#EXTINF:-1,PT: Sport_TV_3
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7246.ts
+#EXTINF:-1,PT: Sport_TV1_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7233.ts
+#EXTINF:-1,PT: SPORTING_TV
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7238.ts
+#EXTINF:-1,PT: Sport _TV2_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7228.ts
+#EXTINF:-1,PT: FOX_MOVIES_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7240.ts
+#EXTINF:-1,PT: FOX_CRIME_HD
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7241.ts

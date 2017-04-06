@@ -5,30 +5,205 @@
 
 
 
-
-
-
-#EXTINF:-1,Brazil 7
-http://151.80.22.45:9900/live/525/525/8356.m3u8
-#EXTINF:-1,Brazil 1
-http://151.80.22.45:9900/live/525/525/8359.m3u8
-#EXTINF:-1,Br-TVCOMSC
-http://151.80.22.45:9900/live/525/525/8365.m3u8
-#EXTINF:-1,BR-TV Urbana Brasil
-http://151.80.22.45:9900/live/525/525/8366.m3u8
-#EXTINF:-1,Br-TV POCOS
-http://151.80.22.45:9900/live/525/525/8367.m3u8
-#EXTINF:-1,BR-TV MAN¨¢ FRANCE
-http://151.80.22.45:9900/live/525/525/8368.m3u8
-#EXTINF:-1,Br-TV BRASIL CENTRAL
-http://151.80.22.45:9900/live/525/525/8369.m3u8
-#EXTINF:-1,Br-REDE GOSPEL
-http://151.80.22.45:9900/live/525/525/8374.m3u8
-#EXTINF:-1,BR-MANA SAT
-http://151.80.22.45:9900/live/525/525/8379.m3u8
-#EXTINF:-1,Br-DW Latin
-http://151.80.22.45:9900/live/525/525/8383.m3u8
-#EXTINF:-1,BR-Conexaobr Tv
-http://151.80.22.45:9900/live/525/525/8385.m3u8
-#EXTINF:-1,Br-APARECIDA
-http://151.80.22.45:9900/live/525/525/8389.m3u8
+#EXTINF:-1,BR: Band News
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3470.ts
+#EXTINF:-1,BR: Discovery Turbo
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3472.ts
+#EXTINF:-1,BR: ESPN
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3473.ts
+#EXTINF:-1,BR: FISH TV
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3488.ts
+#EXTINF:-1,BR: FX
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3475.ts
+#EXTINF:-1,BR: Fox Sport 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3474.ts
+#EXTINF:-1,BR: Globo News
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3476.ts
+#EXTINF:-1,BR :  Band
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4421.ts
+#EXTINF:-1,BR :  Band News
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4422.ts
+#EXTINF:-1,BR :  Band Sports
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4423.ts
+#EXTINF:-1,BR :  Canal Brasil
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4424.ts
+#EXTINF:-1,BR :  Cinemax
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4425.ts
+#EXTINF:-1,BR :  Combate
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4426.ts
+#EXTINF:-1,BR :  Discovery Civilization
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4411.ts
+#EXTINF:-1,BR :  ESPN
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4469.ts
+#EXTINF:-1,BR :  ESPN Plus
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4467.ts
+#EXTINF:-1,BR :  Fox Sports
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4466.ts
+#EXTINF:-1,BR :  Fox Sports 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4465.ts
+#EXTINF:-1,BR :  Globo News
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4417.ts
+#EXTINF:-1,BR :  Globo Premium
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4418.ts
+#EXTINF:-1,BR :  Globo Sao Paulo
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4464.ts
+#EXTINF:-1,BR :  Gloob
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4419.ts
+#EXTINF:-1,BR :  GNT
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4463.ts
+#EXTINF:-1,BR :  HBO
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4420.ts
+#EXTINF:-1,BR :  HBO 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4461.ts
+#EXTINF:-1,BR :  HBO Family
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4460.ts
+#EXTINF:-1,BR :  HBO Plus
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4459.ts
+#EXTINF:-1,BR :  HBO Signature
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4416.ts
+#EXTINF:-1,BR :  Investigação Discovery
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4410.ts
+#EXTINF:-1,BR :  Max
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4440.ts
+#EXTINF:-1,BR :  Max Prime
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4439.ts
+#EXTINF:-1,BR :  Max Up
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4438.ts
+#EXTINF:-1,BR :  Multishow
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4415.ts
+#EXTINF:-1,BR :  Paramount
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4437.ts
+#EXTINF:-1,BR :  PFC
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4414.ts
+#EXTINF:-1,BR :  Premiere 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4413.ts
+#EXTINF:-1,BR :  Premiere 6
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4409.ts
+#EXTINF:-1,BR :  Premiere 7
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4408.ts
+#EXTINF:-1,BR :  Premiere 8
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4407.ts
+#EXTINF:-1,BR :  Premiere 9
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4406.ts
+#EXTINF:-1,BR :  Premiere Clubes
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4405.ts
+#EXTINF:-1,BR :  Prime Box Brasil
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4404.ts
+#EXTINF:-1,BR :  Sport TV3
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4457.ts
+#EXTINF:-1,BR :  TC Pipoca
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4402.ts
+#EXTINF:-1,BR :  TC Premium
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4453.ts
+#EXTINF:-1,BR :  TNT
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4451.ts
+#EXTINF:-1,BR :  TNT Series
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4401.ts
+#EXTINF:-1,BR :  TV Brasil
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4400.ts
+#EXTINF:-1,BR :  Viva
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4450.ts
+#EXTINF:-1,BR : A&E
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4449.ts
+#EXTINF:-1,BR : AXN
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4448.ts
+#EXTINF:-1,BR : Boomerang
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4447.ts
+#EXTINF:-1,BR : Canal Sony
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4446.ts
+#EXTINF:-1,BR : Discovery Kids
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4444.ts
+#EXTINF:-1,BR : Discovery Turbo
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4443.ts
+#EXTINF:-1,BR : Disney
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4442.ts
+#EXTINF:-1,BR : Disney Jr
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4441.ts
+#EXTINF:-1,BR : E!
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4436.ts
+#EXTINF:-1,BR : Eimax 1
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4435.ts
+#EXTINF:-1,BR : FOX
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4434.ts
+#EXTINF:-1,BR : Fox Life
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4433.ts
+#EXTINF:-1,BR : National Geographic
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4431.ts
+#EXTINF:-1,BR : SporTV
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4429.ts
+#EXTINF:-1,BR : Studio Universal
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4428.ts
+#EXTINF:-1,BR : TCM
+http://iptvtt.ddns.net:8000/live/pina1/pina1/4427.ts
+#EXTINF:-1,BR: Globo RS
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3477.ts
+#EXTINF:-1,BR: Band HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3733.ts
+#EXTINF:-1,BR: BIS
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3720.ts
+#EXTINF:-1,BR: Discovery Channel HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3721.ts
+#EXTINF:-1,BR: Discovery Civilization
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3722.ts
+#EXTINF:-1,BR: Disney Jr
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3732.ts
+#EXTINF:-1,BR: Fox Sports
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3724.ts
+#EXTINF:-1,BR: History Channel
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3723.ts
+#EXTINF:-1,BR: Nick Jr
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3731.ts
+#EXTINF:-1,BR: SporTV 1
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3725.ts
+#EXTINF:-1,BR: Telecine Action
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3726.ts
+#EXTINF:-1,BR: Telecine Cult
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3727.ts
+#EXTINF:-1,BR: Telecine Fun
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3728.ts
+#EXTINF:-1,BR: Telecine Premium
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3729.ts
+#EXTINF:-1,BR:HBO
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3730.ts
+#EXTINF:-1,BR: Globo SP
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3478.ts
+#EXTINF:-1,BR: HBO 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3479.ts
+#EXTINF:-1,BR:RECORD MANAUS
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3485.ts
+#EXTINF:-1,BR: National Geographic
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3481.ts
+#EXTINF:-1,BR:PFC 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3482.ts
+#EXTINF:-1,BR:Discovery H&H
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3471.ts
+#EXTINF:-1,BR:Record Sp
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3487.ts
+#EXTINF:-1,BR:Animal Planet
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3468.ts
+#EXTINF:-1,BR:TV BRASIL HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3490.ts
+#EXTINF:-1,BR: TV ESCOLA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3491.ts
+#EXTINF:-1,BR: PFC 5
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3483.ts
+#EXTINF:-1,BR: NGT RJ HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3489.ts
+#EXTINF:-1,BR: HBO Signature
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3480.ts
+#EXTINF:-1,BR: Canal Sony
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3399.ts
+#EXTINF:-1,ESPN Brasil
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3383.ts
+#EXTINF:-1,BR: Band Sports
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3403.ts
+#EXTINF:-1,BR:AXN
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3469.ts
+#EXTINF:-1,BR: SporTV 2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3330.ts
+#EXTINF:-1,BR: SBT
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3335.ts
+#EXTINF:-1,BR: H2
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3370.ts
+#EXTINF:-1,BR: TV GAZETA HD
+http://iptvtt.ddns.net:8000/live/pina1/pina1/3492.ts
