@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<plugin>
+<name>[COLOR lavenderblush]DOCUMENTÁRIOS EM HD[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2giRlXctyWd4xZYt8krXX9Kq/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
 
 <plugin>
 <name>[COLOR lavenderblush]VARIADOS[/COLOR]</name>
 <link>Plugin://plugin.video.youtube/playlist/PLLMT_8CYkukd3M_L9RyyfWYfNtctn4nm8/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lavenderblush]UNIVERSO DO DOCUMENTÁRIO[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2gj8FWbmDPHEap3mNbVnUAOq/?page=0</link>
 <fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
 <thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
 </plugin>
@@ -139,6 +151,59 @@
 <plugin>
 <name>[COLOR lavenderblush]GRANDES LIVROS[/COLOR]</name>
 <link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2gi1--nBpqe_Bx8wjuyxUshY/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lavenderblush]MEGA FÁBRICAS[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2gg1GfFMNCTn2i4ESUqD_n5b/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lavenderblush]ARMAS E TÁTICAS[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2giPJEqdxESpyzEXcz8nKXZj/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lavenderblush]CONSTRUINDO UM IMPÉRIO[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2gjuEV-dFGjT4Rb1OIVT_Dmx/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lavenderblush]OBRAS INCRÍVEIS[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2giYT3X5q1pKV6lh-Sfo9iJR/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lavenderblush]MÁQUINAS MAIS CARAS DO MUNDO[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2ghrahHRnS28CL4RFtz93U8A/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lavenderblush]MARAVILHAS MODERNAS[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2gjOZKbVjxzLYpoa_Mx9aSjz/?page=0</link>
+<fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
+<thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lavenderblush]TABU[/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLXYbMGSbr2ghzb42_4EbwoWLdB6nDP8Pj/?page=0</link>
 <fanart>https://i.ytimg.com/vi/hnklFakYj34/maxresdefault.jpg</fanart>
 <thumbnail>http://www.appvance.com/wp-content/uploads/2015/11/T@.png</thumbnail>
 </plugin>
