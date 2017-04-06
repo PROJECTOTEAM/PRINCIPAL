@@ -3,32 +3,6 @@
 
 
 
-<item>
-<title>[COLOR orange] [I] DISCOVERY CHANNEL  [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
- 
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
-</regex>
-</item>
-
-
-
-<item>
-<title>[COLOR=orange][B][I] DISCOVERY [/I][/B][/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY </link>
-
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
-</regex>
-</item>
 
 <item>
 <title>[COLOR=orange][B][I] DISCOVERY [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
@@ -59,25 +33,6 @@
 
 
 
-<item>
-<title>[COLOR orange] [I] DISCOVERY SHOWCASE [/I] [/COLOR][COLOR=lime](Full HD)[/COLOR]  [COLOR=lime]F4MTESTER[/COLOR] </title>
-
-
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR orange] HISTORIA HD  [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_HISTORIA </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
-</regex>
-</item>
 
 
 <item>
@@ -116,14 +71,6 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR orange] [I] NATIONAL GEOGRAPHIC HD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC_HD </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
-</regex>
-</item>
 
 
 <item> 
@@ -165,23 +112,6 @@
 
 
 <item>
-<title>[COLOR orange] [I] NAT GEO WILD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NAT_GEO_WILD </link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR orange] [I] ODISSEIA [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ODISSEIA </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=orange][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
 <name>get-ip</name>
@@ -201,48 +131,4 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
 </item>
 <item> 
-
-
-
-<item>
-<title>[COLOR orange] [I] CAÇA E PESCA [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACA_ PESCA </link>
-
-<thumbnail>http://www.vodafone.pt/NR/rdonlyres/DDEA8230-50DE-4825-BB7C-BE5E868A3587/0/destaque_canal_caca_pesca_449x196.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange] [I] OUTDOOR HD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Outdoor_Channel.svg/1280px-Outdoor_Channel.svg.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR orange] [I] TOROS TV HD[/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-
-
-
-<thumbnail>http://www.vodafone.pt/NR/rdonlyres/4FCABDF1-4325-44AF-A051-5A7DC4536D72/0/destaque_canal_toros_tv_449x196.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange] [I] CACAVISION HD[/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-
-
-<thumbnail>http://apk-dl.com/detail/image/com.cazavision.play-w250.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange] [I]FOOD NETWORK HD [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-
-
-
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c9/Food_Network_HD.png/revision/latest?cb=20110408023419</thumbnail>
-</item>
 

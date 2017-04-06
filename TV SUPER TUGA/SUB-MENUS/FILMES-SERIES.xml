@@ -3,17 +3,6 @@
 
 
 <item>
-<title>[COLOR=magenta][B][I] AXN HD [/I][/B][/COLOR]   [COLOR yellow][/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2308.m3u8 </link>
-
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
-</item> 
-</item>
-
-
-<item>
 <item>
 <title>[COLOR=magenta][B][I] AXN [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>
@@ -77,28 +66,6 @@
 </item>
 
 
-<item>
-<title>[COLOR=magenta][B][I]  AXN BLACK HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2310.m3u8 </link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png</thumbnail>
-</regex>
-</item> 
-
-
-
-<item>
-<title>[COLOR magenta][B][I]  FOX HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR] </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX HD </link>
-
-<referer>http://escast.tv/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR=magenta][B][I] FOX [/I][/B][/COLOR]</title>
@@ -124,16 +91,6 @@
 <sportsdevil>http://www.desportonline.com/index.php?canal=fox</sportsdevil>
 <referer>http://escast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=magenta][B][I]  FOX MOVIES HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2312.m3u8 </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
-</regex>
 </item>
 
 
@@ -197,20 +154,6 @@
 </item>
 
 
-
-
-
-<item>
-<title>[COLOR=magenta][B][I]   FOX LIFE HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
-
-<link>http://213.188.51.185:9981/play/a00z </link>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2313.m3u8 </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
-</item> 
-
-
 <item>
 <title>[COLOR=magenta][B][I] FOX LIFE [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
@@ -247,17 +190,6 @@
 </item>
 
 
-
-
-<item>
-<title>[COLOR=magenta][B][I] HOLLYWOOD  [/I][/B][/COLOR] [COLOR yellow] F4MTESTER [/COLOR]  </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
-</item>
-
-
 <item> 
 <title>[COLOR=magenta][B][I] HOLLYWOOD [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
@@ -287,36 +219,6 @@
 
 
 
-<item> 
-<title>[COLOR=magenta][B][I]  FX HD  [/I][/B][/COLOR] [COLOR yellow]F4MTESTER [/COLOR]  </title>
-
-
-
-<thumbnail>http://exorbeo.com/wp-content/uploads/blogger/-B4EqZbzlEQ4/TyiMm00p_xI/AAAAAAAAAEA/mtL9rXww9TM/s1600/fx_hd.png</thumbnail>
-</regex>
-</item>
-
-
-
-<item> 
-<title>[COLOR=magenta][B][I]  MOV HD  [/I][/B][/COLOR] [COLOR yellow]F4MTESTER [/COLOR]  </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOV_HD </link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=magenta][B][I]  AMC  [/I][/B][/COLOR] [COLOR yellow]F4MTESTER [/COLOR]  </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC </link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/tssypq1449496871.png</thumbnail>
-</regex>
-</item>
-
-
 <item>
 <title>[COLOR blmagentaue] [I] TV CINE 1 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://tvc1-pedro-solder.blogspot.nl/</sportsdevil>
@@ -326,24 +228,6 @@
 </item>
 
 
-<item>
-<title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
-
-<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/30.m3u8</link>
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 1 HD [/I] [/COLOR]  [COLOR=lime][/COLOR] </title>
-
-<link></link>
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
-</regex>
-</item>
 
 <item>
 <title>[COLOR magenta] [I] TV CINE 2 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
@@ -353,53 +237,10 @@
 </item>
 
 
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://htv.iptvpro.biz:5500/live/ss/ss/13.m3u8</link>
-
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 2 HD [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a02t</link>
-
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
-</regex>
-</item>
-
 <item>
 <title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil></sportsdevil>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://htv.iptvpro.biz:5500/live/ss/ss/14.m3u8</link>
-
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a02s</link>
-
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
-</regex>
 </item>
 
 
@@ -411,24 +252,6 @@
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://htv.iptvpro.biz:5500/live/ss/ss/15.m3u8</link>
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a02u</link>
-
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
-</regex>
-</item>
-
-<item>
 <title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil></sportsdevil>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
@@ -436,20 +259,18 @@
 
 
 <item>
-<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR=lime][/COLOR]</title>
+<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
-<link>http://htv.iptvpro.biz:5500/live/ss/ss/30.m3u8 </link>
+<sportsdevil></sportsdevil>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
 </regex>
 </item>
 
 <item>
-<title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO </link>
+<sportsdevil></sportsdevil>
 
 <thumbnail>http://www.cinemundo.net.br/wp-content/uploads/2015/02/logo1.png</thumbnail>
 </regex>
@@ -458,69 +279,13 @@
 
 
 <item>
-<title>[COLOR magenta] [I] SYFY HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+<title>[COLOR magenta] [I] SYFY HD [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY </link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/3069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SYFY </link>
-
-
+<sportsdevil></sportsdevil>
 <thumbnail>http://vignette4.wikia.nocookie.net/memoryalpha/images/c/c9/Syfy.png/revision/latest?cb=20100219134730&path-prefix=en</thumbnail>
 </item>
 
 
-
-<item>
-<title>[COLOR magenta] [I]HBO SIGNATURE [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9016.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest?cb=20100511073847</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I]HBO ZONE [/I] [/COLOR][COLOR=lime]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9015.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest?cb=20100511073847</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I]HBO USA HD [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/ali252/satlover.com/997.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/adstriani/satlover.com/997.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png/revision/latest?cb=20101221212426</thumbnail>
-</regex>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR magenta] [I]HBO 2 USA HD[/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://5.39.66.183:8000/live/bruno/bruno/428.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<thumbnail>http://informacao.blog.br/wp-content/uploads/2013/05/HBO2-HD.png</thumbnail>
-</regex>
-</item>
-
-
-<item>
-<title>[COLOR magenta] [I]HBO COMEDY USA HD[/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9017.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/8130.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/adstriani/satlover.com/999.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.tv-vratsa.bg/user_pic/images/hbo-comedy-hd.png</thumbnail>
-</regex>
-</item>
 
 
 <item>
@@ -529,10 +294,3 @@
 <thumbnail>http://vignette2.wikia.nocookie.net/tvpediabrasil/images/7/76/Telecinepipoca.jpg/revision/latest?cb=20140515150953&path-prefix=pt-br</thumbnail>
 </item>
 
-<item>
-<title>[COLOR magenta] [I]PARAMOUNT CHANNEL [/I] [/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
-<link>http://50.7.66.66:8081/loadbalance/isat/playlist.m3u8</link>
-<link></link>
-<thumbnail>http://www.gmcweb.net/gustavo/buttons/paramountchannel.png</thumbnail>
-</regex>
-</item>
