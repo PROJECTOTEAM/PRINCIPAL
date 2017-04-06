@@ -1,37 +1,10 @@
 
 <item>
-<title>[COLOR=cyan][B][I] SIC NOTICIAS HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a02m</link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=cyan][B][I] SIC NOTICIAS SD [/I][/B][/COLOR][COLOR=red]()[/COLOR]</title>
-
-<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
-</item>
-
-
-<item>
 <title>[COLOR=cyan][B][I] SIC NOTICIAS [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR=cyan][B][I] RTP 3 HD [/I][/B][/COLOR]            [COLOR=orange]F4MTESTER[/COLOR]</title>
-<link>http://83.78.191.43:2040/</link>
-?plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_3 </link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
-<fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
-</item>
 
 
 <item>
@@ -45,13 +18,6 @@
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
 <referer>http://www.rtp.pt/play/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR cyan][B][I] TVI 24 HD [/I][/B][/COLOR]     [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vdmlkZW8tbGl2ZS5pb2wucHQ6MTkzNS9saXZlX3R2aTI0L3NtaWw6TElWRV9UVkkyNC9wbGF5bGlzdC5tM3U4fFVzZXItQWdlbnQ9QXBwbGVDb3JlTWVkaWEvMS4wLjAuMTNBNDUyIChpUGhvbmU7IFU7IENQVSBPUyA5XzBfMiBsaWtlIE1hYyBPUyBYOyBlbl9nYik%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DTvi+24+v8%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
  
@@ -71,51 +37,6 @@
 <link>http://46.126.71.153:8000/play/a01k</link>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=lime][B][I]TVI INTERNACIONAL [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
-
-<link>http://213.188.51.185:9981/play/a016</link>
-
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/2/2a/TVIi.png/revision/latest?cb=20130328103419</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=lime][B][I]TPA INTERNACIONAL [/I][/B][/COLOR]   [COLOR=cyan]F4MTESTER[/COLOR]</title>
-
-
-
-<thumbnail>http://3.bp.blogspot.com/_e-BTQ4A8Vvs/TBCAp0wJQ3I/AAAAAAAACg0/wowN6ZIfHeg/s1600/tpainternacional.jpg</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR=cyan][B][I] RECORD NEWS HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
-
-
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/3/3d/Rede_record_news.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=cyan][B][I] BLOOMBERG NEWS[/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
-
-
- 
-<thumbnail>http://citizen.typepad.com/.a/6a00d83452507269e201310f8e6f63970c-pi</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=cyan][B][I] FOX NEWS [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
-
-
-<thumbnail>https://lh6.ggpht.com/bmdvWGTQ5xyA07ZRU_gf_RW8MQX8Oo1u8opdwg-FDmWn5OFEaq7Nt1KkwbVnX4TLV_g=w300</thumbnail>
 </item>
 
 
@@ -290,67 +211,4 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR cyan] [I] CNN[/I] [/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CNN </link>
- 
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/2000px-Cnn.svg.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR cyan] [I] 24 HORAS[/I] [/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
-
-
- 
-<thumbnail>http://www.adsjb.com.br/wp-content/uploads/2014/06/7322-24horas_800.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR cyan] [I] CANAL PARLAMENTO [/I] [/COLOR][COLOR=red](Full HD)[/COLOR]</title>
-<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link>
-<thumbnail>http://s20.postimg.org/ctxu7ihbx/canalparl_grande.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=cyan][B][I] EURONEWS [/I][/B][/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
-
-
-
-<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
-<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR cyan][B][I] EURONEWS [/I][/B][/COLOR]        [COLOR salmon](ZEMTV-SHANI[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vZnItcGFyLWlwaG9uZS0xLmNkbi5oZXhhZ2xvYmUubmV0L3N0cmVhbWluZy9ldXJvbmV3c19ld25zL2lwaG9uZV9wdC5tM3U4fFVzZXItQWdlbnQ9QXBwbGVDb3JlTWVkaWEvMS4wLjAuMTNBNDUyIChpUGhvbmU7IFU7IENQVSBPUyA5XzBfMiBsaWtlIE1hYyBPUyBYOyBlbl9nYik%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DEuronews+v8%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>http://static.euronews.com/media/default-img-textv2.gif</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR cyan] [I] ECONÓMICO TV [/I] [/COLOR][COLOR=orange]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ECONOMICO_TV </link>
-
-<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR cyan][B][I] ECONOMICO TV [/I][/B][/COLOR]      [COLOR salmon]ZEMTV-SHANI[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vMjEzLjEzLjI2LjQxOjE5MzUvbGl2ZS9ldHZfZGlyZXRvL3BsYXlsaXN0Lm0zdTh8VXNlci1BZ2VudD1BcHBsZUNvcmVNZWRpYS8xLjAuMC4xM0E0NTIgKGlQaG9uZTsgVTsgQ1BVIE9TIDlfMF8yIGxpa2UgTWFjIE9TIFg7IGVuX2diKQ%3D%3D&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DEconomico+tv+v8%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>http://www.sapateiroexpresso.com/images/news/economico.png</thumbnail>
-</item>
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
