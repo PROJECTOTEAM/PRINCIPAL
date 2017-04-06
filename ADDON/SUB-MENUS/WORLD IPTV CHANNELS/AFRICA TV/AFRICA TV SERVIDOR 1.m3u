@@ -1,17 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,ES:------ATUALIZAÇÃO------22-03-2017
+
+
+
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                            Update 28-03-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,[COLOR lime] [COLOR white][B] [COLOR lime][/COLOR] Update 28-03-2017 [COLOR red][/COLOR][/B][/COLOR]
-http://163.172.213.25:8000/live/mariano/mariano/73.ts
-
-#EXTINF:-1,
-http://www.vips2016.com:8088.ts
-
-#EXTINF:-1,
-http://www.vips2016.com:8088.ts
 
 
 
