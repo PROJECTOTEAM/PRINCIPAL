@@ -16,14 +16,6 @@
 </plugin>
 
 
-<dir>
-<name>[COLOR white] ESPAÇO TVsupertuga[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS/ESPA%C3%87O%20TVsupertuga.xml</link>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/discus10.jpg</fanart>
-<thumbnail>http://blog.espasso.com/wp-content/uploads/2012/09/Kate-Elliott_16.jpg</thumbnail>
-</dir>
-
-
 <plugin>
 <name>[COLOR white]TVSUPERTUGA MANUTENÇÃO [/COLOR]</name>
 <link>plugin://plugin.program.tvsupertugamanutencao/</link>
@@ -47,3 +39,10 @@
 <fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
 <thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
 </plugin>
+
+<dir>
+<name>[COLOR white] ESPAÇO TVsupertuga[/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS/ESPA%C3%87O%20TVsupertuga.xml</link>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/discus10.jpg</fanart>
+<thumbnail>http://blog.espasso.com/wp-content/uploads/2012/09/Kate-Elliott_16.jpg</thumbnail>
+</dir>
