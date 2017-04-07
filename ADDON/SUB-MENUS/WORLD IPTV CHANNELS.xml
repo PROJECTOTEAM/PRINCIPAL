@@ -24,7 +24,7 @@
 
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]LATINO TV[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20BRAZIL.xml</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/LATINO.xml</link>
 <fanart>http://3www.ecestaticos.com/imagestatic/clipping/afd/3a4/afd3a416add222875c3478ccf076897c/cuantos-paises-eres-capaz-de-reconocer-con-tan-solo-ver-sus-banderas.jpg?mtime=1440167425</fanart>
 <thumbnail>https://images.vexels.com/media/users/3/129849/isolated/preview/686c81c4e9681f60ee41fbaddaf6fa61-bola-da-bandeira-da-col-mbia-by-vexels.png</thumbnail>
 </dir>
@@ -73,6 +73,15 @@
 <thumbnail>http://bit.ly/1705xIU</thumbnail>
 </dir>
 
+
+<dir>
+<name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]SUÍÇA TV[/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20SU%C3%8D%C3%87A.xml</link>
+<fanart>http://mlb-s1-p.mlstatic.com/bandeira-suica-copa-do-mundo-2014-10959-MLB20036741717_012014-F.jpg</fanart>
+<thumbnail>http://icon-icons.com/icons2/107/PNG/512/switzerland_18284.png</thumbnail>
+</dir>
+
+
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]ITALIE TV[/COLOR]</name>
 <link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20ITALIA.xml</link>
@@ -82,21 +91,21 @@
 
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]INDIAN TV[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20ITALIA.xml</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/INDIAN.xml</link>
 <fanart>http://st.gde-fon.com/wallpapers_original/514558_flag-indii_indijskij-flag_flag-respubliki-indiya_1920x1080_www.Gde-Fon.com.jpg</fanart>
 <thumbnail>http://cdn.countryflags.com/thumbs/india/flag-3d-round-250.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]ARAB TV[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20ITALIA.xml</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/ARABE.xml</link>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg/2000px-Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg.png</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/977098702/AF_Camara_Arabe_R2-01.png</thumbnail>
 </dir>
 
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]TURQUIA TV[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TV%20ITALIA.xml</link>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS/TURQUIA.xml</link>
 <fanart>http://janelaesc.com/noticias/wp-content/uploads/sites/6/bandeira-turquia.jpg</fanart>
 <thumbnail>https://cdn.pixabay.com/photo/2016/07/17/18/59/turkey-1524517_960_720.png</thumbnail>
 </dir>
@@ -108,7 +117,6 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 </dir>
 
-INDIAN
 
 <dir>
 <name>[COLOR yellow]• [/COLOR] [COLOR lavenderblush]WORLD NEWS TV[/COLOR]</name>
