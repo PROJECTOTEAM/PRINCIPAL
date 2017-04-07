@@ -24,6 +24,34 @@
 <fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
 </item>
 
+<item>
+<title>Matosinhos (Portugal)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+<item>
+<title>Espinho (Portugal)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+
+<item>
+<title>Esmoriz (Portugal)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+<item>
+<title>Furadouro (Portugal)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
 
 
 
@@ -31,17 +59,7 @@
 
 
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",MATOSINHOS
-http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
 
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ESPINHO
-http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ESMORIZ
-http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",FURADOURO
-http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",TORREIRA
 http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
