@@ -4,6 +4,206 @@
 
 
 <item>
+<title>CAXIAS (PORTUGAL)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/caxias/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+<item>
+<title>CARCAVELOS (PORTUGAL)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/caxias/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+<item>
+<title>LEÇA DA PALMEIRA (PORTUGAL)</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8</link>
+<thumbnail>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="n/a"tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",RIBEIRA D´ ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.dropbox.com/s/vbno325acwizgu1/images%20%281%29.jpg?dl=1",JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", BOA VIAGEM - RECIFE
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", SANTUÁRIO DE APARECIDA - ALTAR CENTRAL
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", GUARUJÁ - PRAIA DA ENSEADA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", ARENA ALLIANZ PARQUE - PALESTRA ITÁLIA SP
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1093.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", PRAIA DO PORTO DA BARRA - SALVADOR
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1284.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", JARDIM BOTÂNICO - CURITIBA
+http://streaming01.sulaovivo.com.br:1935/jardin_botanico_PR/default.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", PONTE DA AMIZADE - FOZ DO AGUAÇU
+http://wowza.catve.com.br:1935/camera4/camera4.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camera.jpg" group-title="CAMERAS", TÓKIO - AKIHABARA
+http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
 <title>Animal Adventure Park Giraffe Cam (April Giving Birth)</title>
 <link>https://www.youtube.com/watch?v=uwK1W6QlKS4</link>
 <thumbnail>https://tse3.mm.bing.net/th?id=OIP.Mc81f30460f8b656d13a35c9c9ab0f1c8o0&pid=15.1&P=0&w=370&h=160</thumbnail>
@@ -485,3 +685,6 @@
 <thumbnail>https://tse3.mm.bing.net/th?id=OIP.Mc81f30460f8b656d13a35c9c9ab0f1c8o0&pid=15.1&P=0&w=370&h=160</thumbnail>
 <fanart>https://tse2.mm.bing.net/th?id=OIP.ias2itQrVANSS5jLQEUdCgEsDh&pid=15.1&P=0&w=205&h=155</fanart>
 </item>
+
+
+
