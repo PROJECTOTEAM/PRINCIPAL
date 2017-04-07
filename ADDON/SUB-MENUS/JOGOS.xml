@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+<plugin>
+<name>[COLOR white]3 SHELLS[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.3shells</link>
+<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon10.png</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart12.jpg</fanart>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]BLACKJACK[/COLOR]</name>
+<link>plugin.game.blackjack</link>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart15.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon11.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]CONNECT 4[/COLOR]</name>
+<link>script.game.connect4</link>
+<fanart>http://alerta.strat-exp.com/wp-content/uploads/sites/2/2014/04/procurar-emprego-jornal.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR white]DUCKSHOT[/COLOR]</name>
+<link>plugin.program.hubhug.duckshot</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]MAZE 3[/COLOR]</name>
+<link>plugin.program.hubhug.maze3</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]MAZE 2[/COLOR]</name>
+<link>plugin.program.hubhug.maze2</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ROMGRABBER[/COLOR]</name>
+<link>plugin://plugin.program.romgrabber/</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]CARDS[/COLOR]</name>
+<link>plugin.game.match.cards</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]WATCHGAME[/COLOR]</name>
+<link>plugin.program.hubhug.watchgame</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ROCKPAPERSCISSORS[/COLOR]</name>
+<link>plugin.program.hubhug.rockpaperscissors</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]TANKSHOT[/COLOR]</name>
+<link>plugin.game.tankshot</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]TURKEYHUNT[/COLOR]</name>
+<link>plugin.program.hubhug.turkeyhunt</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR white]WORDFIND[/COLOR]</name>
+<link>plugin.program.hubhug.puzzles.wordfind</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ZODIACSMACK[/COLOR]</name>
+<link>plugin.program.hubhug.zodiacsmack</link>
+<fanart>https://prajwaldesai.com/wp-content/uploads/2012/12/settings_logo.jpg</fanart>
+<thumbnail>https://lh4.ggpht.com/fy0chsXo6vyF_GhnMU1e5MhrHi9QVCAKBT6nLFRdU2JguAgMz3_zN9WUSvNJW4sPiA8=w300</thumbnail>
+</plugin>
+
+
+
+
