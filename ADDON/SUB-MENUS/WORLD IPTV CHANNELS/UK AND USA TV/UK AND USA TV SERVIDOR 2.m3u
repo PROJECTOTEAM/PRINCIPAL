@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -21,92 +21,79 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:-1,(EN) DocuBox HD
-http://51.255.95.9:8080/live/koray/koray123/2122.ts
-#EXTINF:-1,(EN) FightBox HD
-http://51.255.95.9:8080/live/koray/koray123/2121.ts
-#EXTINF:-1,(EN) Cinemax 1 HD
-http://51.255.95.9:8080/live/koray/koray123/1705.ts
-#EXTINF:-1,(EN) Cinemax 2 HD
-http://51.255.95.9:8080/live/koray/koray123/1704.ts
-#EXTINF:-1,(EN) Disney Junior
-http://51.255.95.9:8080/live/koray/koray123/1326.ts
-#EXTINF:-1,(EN) Boomerang
-http://51.255.95.9:8080/live/koray/koray123/1334.ts
-#EXTINF:-1,(EN) Discovery World
-http://51.255.95.9:8080/live/koray/koray123/1328.ts
-#EXTINF:-1,(EN) Discovery Science
-http://51.255.95.9:8080/live/koray/koray123/1329.ts
-#EXTINF:-1,(EN) Discovery Showcase HD
-http://51.255.95.9:8080/live/koray/koray123/1330.ts
-#EXTINF:-1,(EN) Sky News
-http://51.255.95.9:8080/live/koray/koray123/1318.ts
-#EXTINF:-1,(EN) BBC World News
-http://51.255.95.9:8080/live/koray/koray123/1627.ts
-#EXTINF:-1,(EN) BBC World News Europe HD
-http://51.255.95.9:8080/live/koray/koray123/1690.ts
-#EXTINF:-1,(EN) Bloomberg Europe TV
-http://51.255.95.9:8080/live/koray/koray123/1692.ts
-#EXTINF:-1,(EN) C&I Network
-http://51.255.95.9:8080/live/koray/koray123/1694.ts
-#EXTINF:-1,(EN) CBS Reality
-http://51.255.95.9:8080/live/koray/koray123/1696.ts
-#EXTINF:-1,(EN) CCTV News
-http://51.255.95.9:8080/live/koray/koray123/1632.ts
-#EXTINF:-1,(EN) CNN HD
-http://51.255.95.9:8080/live/koray/koray123/2188.ts
-#EXTINF:-1,(EN) CNN SD
-http://51.255.95.9:8080/live/koray/koray123/1633.ts
-#EXTINF:-1,(EN) DIVA TV
-http://51.255.95.9:8080/live/koray/koray123/1634.ts
-#EXTINF:-1,(EN) DW Europe
-http://51.255.95.9:8080/live/koray/koray123/1635.ts
-#EXTINF:-1,(EN) Fine Living
-http://51.255.95.9:8080/live/koray/koray123/1643.ts
-#EXTINF:-1,(EN) History Channel
-http://51.255.95.9:8080/live/koray/koray123/1646.ts
-#EXTINF:-1,(EN) History Channel HD
-http://51.255.95.9:8080/live/koray/koray123/1647.ts
-#EXTINF:-1,(EN) iConcert HD
-http://51.255.95.9:8080/live/koray/koray123/1648.ts
-#EXTINF:-1,(EN) Nat Geo Wild
-http://51.255.95.9:8080/live/koray/koray123/1654.ts
-#EXTINF:-1,(EN) Outdoor Channel HD
-http://51.255.95.9:8080/live/koray/koray123/1621.ts
-#EXTINF:-1,(EN) VH1 Classic
-http://51.255.95.9:8080/live/koray/koray123/1673.ts
-#EXTINF:-1,(EN) World Fashion Channel
-http://51.255.95.9:8080/live/koray/koray123/1677.ts
-#EXTINF:-1,(EN) CNBC Europe
-http://51.255.95.9:8080/live/koray/koray123/1706.ts
-#EXTINF:-1,(EN) Comedy Central Extra
-http://51.255.95.9:8080/live/koray/koray123/1707.ts
-#EXTINF:-1,(EN) Eurosport News
-http://51.255.95.9:8080/live/koray/koray123/1715.ts
-#EXTINF:-1,(EN) Euronews HD
-http://51.255.95.9:8080/live/koray/koray123/2189.ts
-#EXTINF:-1,(EN) Fashion One HD
-http://51.255.95.9:8080/live/koray/koray123/1716.ts
-#EXTINF:-1,(EN) Fashion TV
-http://51.255.95.9:8080/live/koray/koray123/1717.ts
-#EXTINF:-1,(EN) Fashion TV HD
-http://51.255.95.9:8080/live/koray/koray123/1718.ts
-#EXTINF:-1,(EN) Insight HD
-http://51.255.95.9:8080/live/koray/koray123/1722.ts
-#EXTINF:-1,(EN) NHK World TV
-http://51.255.95.9:8080/live/koray/koray123/1731.ts
-#EXTINF:-1,(EN) NHK World TV HD
-http://51.255.95.9:8080/live/koray/koray123/1732.ts
-#EXTINF:-1,(EN) Nick Jr
-http://51.255.95.9:8080/live/koray/koray123/1733.ts
-#EXTINF:-1,(EN) Smile of a Child
-http://51.255.95.9:8080/live/koray/koray123/1737.ts
-#EXTINF:-1,(EN) Wild TV HD
-http://51.255.95.9:8080/live/koray/koray123/1743.ts
-#EXTINF:-1,(EN) World Fight Channel HD
-http://51.255.95.9:8080/live/koray/koray123/1744.ts
-#EXTINF:-1,(EN) Radio Best Trap
-http://51.255.95.9:8080/live/koray/koray123/1499.ts
+#EXTINF:-1,UK:BBC 1
+http://51.254.47.234:8000/live/furkan1/furkan1/365.ts
+#EXTINF:-1,UK:BBC 2
+http://51.254.47.234:8000/live/furkan1/furkan1/366.ts
+#EXTINF:-1,UK:BBC 3
+http://51.254.47.234:8000/live/furkan1/furkan1/367.ts
+#EXTINF:-1,UK:BBC 4
+http://51.254.47.234:8000/live/furkan1/furkan1/368.ts
+#EXTINF:-1,UK:ITV 1
+http://51.254.47.234:8000/live/furkan1/furkan1/64.ts
+#EXTINF:-1,UK:ITV 2
+http://51.254.47.234:8000/live/furkan1/furkan1/65.ts
+#EXTINF:-1,UK:ITV 3
+http://51.254.47.234:8000/live/furkan1/furkan1/66.ts
+#EXTINF:-1,UK:ITV 4
+http://51.254.47.234:8000/live/furkan1/furkan1/67.ts
+#EXTINF:-1,UK:Sky One
+http://51.254.47.234:8000/live/furkan1/furkan1/370.ts
+#EXTINF:-1,UK:RTE 1
+http://51.254.47.234:8000/live/furkan1/furkan1/68.ts
+#EXTINF:-1,UK:Comedy Central
+http://51.254.47.234:8000/live/furkan1/furkan1/379.ts
+#EXTINF:-1,UK:Disney Channel
+http://51.254.47.234:8000/live/furkan1/furkan1/375.ts
+#EXTINF:-1,UK:MTV Music
+http://51.254.47.234:8000/live/furkan1/furkan1/77.ts
+#EXTINF:-1,UK:Nat Geo
+http://51.254.47.234:8000/live/furkan1/furkan1/373.ts
+#EXTINF:-1,UK:Nat Geo Wild
+http://51.254.47.234:8000/live/furkan1/furkan1/374.ts
+#EXTINF:-1,UK:History
+http://51.254.47.234:8000/live/furkan1/furkan1/369.ts
+#EXTINF:-1,UK:Discovery Channel
+http://51.254.47.234:8000/live/furkan1/furkan1/376.ts
+#EXTINF:-1,UK:Discovery Science
+http://51.254.47.234:8000/live/furkan1/furkan1/377.ts
+#EXTINF:-1,UK:Animal Planet
+http://51.254.47.234:8000/live/furkan1/furkan1/378.ts
+#EXTINF:-1,UK:Sky Select
+http://51.254.47.234:8000/live/furkan1/furkan1/372.ts
+#EXTINF:-1,UK:Sky Action
+http://51.254.47.234:8000/live/furkan1/furkan1/75.ts
+#EXTINF:-1,UK:Sky Comedy
+http://51.254.47.234:8000/live/furkan1/furkan1/74.ts
+#EXTINF:-1,UK:Sky Drama Romance
+http://51.254.47.234:8000/live/furkan1/furkan1/73.ts
+#EXTINF:-1,UK:Sky Family
+http://51.254.47.234:8000/live/furkan1/furkan1/72.ts
+#EXTINF:-1,UK:Sky Greats
+http://51.254.47.234:8000/live/furkan1/furkan1/71.ts
+#EXTINF:-1,UK:Sky Premiere
+http://51.254.47.234:8000/live/furkan1/furkan1/70.ts
+#EXTINF:-1,UK:Sky Sci-Fi Horror
+http://51.254.47.234:8000/live/furkan1/furkan1/69.ts
+#EXTINF:-1,UK:BT Sport 1
+http://51.254.47.234:8000/live/furkan1/furkan1/85.ts
+#EXTINF:-1,UK:BT Sport 2
+http://51.254.47.234:8000/live/furkan1/furkan1/86.ts
+#EXTINF:-1,UK:ESPN HD1
+http://51.254.47.234:8000/live/furkan1/furkan1/90.ts
+#EXTINF:-1,UK:Box Nation
+http://51.254.47.234:8000/live/furkan1/furkan1/371.ts
+#EXTINF:-1,UK:Skyuk Sport F1
+http://51.254.47.234:8000/live/furkan1/furkan1/88.ts
+#EXTINF:-1,UK:Sky Setanta Sports
+http://51.254.47.234:8000/live/furkan1/furkan1/87.ts
+#EXTINF:-1,UK:Sky Sport 1
+http://51.254.47.234:8000/live/furkan1/furkan1/80.ts
+#EXTINF:-1,UK:Sky Sport 2
+http://51.254.47.234:8000/live/furkan1/furkan1/81.ts
+#EXTINF:-1,UK:Sky Sport 3
+http://51.254.47.234:8000/live/furkan1/furkan1/82.ts
+#EXTINF:-1,UK:Sky Sport 4
+http://51.254.47.234:8000/live/furkan1/furkan1/83.ts
+#EXTINF:-1,UK:Sky Sport 5
+http://51.254.47.234:8000/live/furkan1/furkan1/84.ts
