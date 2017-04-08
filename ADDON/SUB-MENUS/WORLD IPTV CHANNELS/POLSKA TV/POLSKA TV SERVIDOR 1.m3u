@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -8,149 +8,97 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,PL: Animal Planet HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11127.ts
-#EXTINF:-1,PL: Canal  1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11126.ts
-#EXTINF:-1,PL: Canal  Discovery HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11125.ts
-#EXTINF:-1,PL: Canal  Family HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11124.ts
-#EXTINF:-1,PL: Canal  Film HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11123.ts
-#EXTINF:-1,PL: Canal  Sport 2 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11120.ts
-#EXTINF:-1,PL: Canal  Sport HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11119.ts
-#EXTINF:-1,PL: Discovery HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11118.ts
-#EXTINF:-1,PL: Eurosport 2 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11117.ts
-#EXTINF:-1,PL: Extreme Sports HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11116.ts
-#EXTINF:-1,PL: Hbo 2 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11115.ts
-#EXTINF:-1,PL: Hbo HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11113.ts
-#EXTINF:-1,PL: History HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11112.ts
-#EXTINF:-1,PL: Mini Mini  HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11110.ts
-#EXTINF:-1,PL: Nsport  HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11108.ts
-#EXTINF:-1,PL: Tvn Style HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11101.ts
-#EXTINF:-1,PL: Tvp 1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11100.ts
-#EXTINF:-1,PL: Tvp 2 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11099.ts
-#EXTINF:-1,PL: ALE Kino
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11396.ts
-#EXTINF:-1,PL: AMC
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11395.ts
-#EXTINF:-1,PL: Animal Planet
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11394.ts
-#EXTINF:-1,PL: ATM Rozrywka
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11393.ts
-#EXTINF:-1,PL: AXN
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11392.ts
-#EXTINF:-1,PL: AXN Black
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11391.ts
-#EXTINF:-1,PL: AXN-White
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11390.ts
-#EXTINF:-1,PL: CANAL SPORT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11389.ts
-#EXTINF:-1,PL: DISCOVERY LIVE
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11388.ts
-#EXTINF:-1,PL: ELEVEN EXTRA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11387.ts
-#EXTINF:-1,PL: ELEVEN HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11386.ts
-#EXTINF:-1,PL: ELEVEN SPORT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11385.ts
-#EXTINF:-1,PL: ESKA PARTY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11383.ts
-#EXTINF:-1,PL: EUROSPORT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11382.ts
-#EXTINF:-1,PL: EUROSPORT 2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11381.ts
-#EXTINF:-1,PL: NAT GEO WILD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11380.ts
-#EXTINF:-1,PL: NATIONAL GEO
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11379.ts
-#EXTINF:-1,PL: NICK JR
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11378.ts
-#EXTINF:-1,PL: NSPORT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11377.ts
-#EXTINF:-1,PL: NSPORT PLUS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11376.ts
-#EXTINF:-1,PL: POLO TV POLSKA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11375.ts
-#EXTINF:-1,PL: POLSAT CAFE
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11374.ts
-#EXTINF:-1,PL: POLSAT FILM
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11373.ts
-#EXTINF:-1,PL: POLSAT JIM JAM
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11372.ts
-#EXTINF:-1,PL: POLSAT SUPER
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11370.ts
-#EXTINF:-1,PL: TVN STYLE
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11368.ts
-#EXTINF:-1,PL: TVP 1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11367.ts
-#EXTINF:-1,PL: TVP 2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11366.ts
-#EXTINF:-1,PL: TVP 3
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11365.ts
-#EXTINF:-1,PL: TVP HISTORIA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11364.ts
-#EXTINF:-1,PL: TVP INFO
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11363.ts
-#EXTINF:-1,PL: TVP KULHARA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11362.ts
+#EXTINF:-1,PL: ANIMAL PLANET HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22861.ts
+#EXTINF:-1,PL: CANAL FILM HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22858.ts
+#EXTINF:-1,-PL: ELEVEN HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/23014.ts
+#EXTINF:-1,PL: POLSAT FILM HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22567.ts
+#EXTINF:-1,PL: POLSAT PLAY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22566.ts
+#EXTINF:-1,-PL: TVP HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15981.ts
+#EXTINF:-1,-PL: TVP 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17771.ts
+#EXTINF:-1,-PL: TVP 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15980.ts
+#EXTINF:-1,PL-: TVP 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17770.ts
+#EXTINF:-1,PL: TV 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17769.ts
+#EXTINF:-1,PL: POLSAT SPORT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15515.ts
+#EXTINF:-1,PL: REPUBLIKA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10135.ts
+#EXTINF:-1,PL: CBS ACTION
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2320.ts
+#EXTINF:-1,PL: TV ASTA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20515.ts
+#EXTINF:-1,PL: TV ASTA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/1022.ts
+#EXTINF:-1,PL: TRWAM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/1202.ts
+#EXTINF:-1,PL: POLSAT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5049.ts
+#EXTINF:-1,PL: TV REPUBLIKA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5734.ts
+#EXTINF:-1,PL: STAR TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6077.ts
+#EXTINF:-1,PL: ASTRA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6081.ts
+#EXTINF:-1,PL: TV TRWAM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10762.ts
+#EXTINF:-1,-PL: TV 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15979.ts
+#EXTINF:-1,-PL: POLSAT PLAY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15986.ts
+#EXTINF:-1,-PL: POLSAT CAFE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15985.ts
+#EXTINF:-1,-PL: POLSAT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15984.ts
+#EXTINF:-1,-PL: CINEMAX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15977.ts
+#EXTINF:-1,PL: CW 24 TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21201.ts
+#EXTINF:-1,PL: TLC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21205.ts
+#EXTINF:-1,PL: TWOJA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21202.ts
+#EXTINF:-1,-PL: CANAL + HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15983.ts
+#EXTINF:-1,-PL: ANIMAL PLANET HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15987.ts
+#EXTINF:-1,-PL: TVP SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15982.ts
+#EXTINF:-1,-PL: ELEVEN SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15978.ts
+#EXTINF:-1,-PL: CANAL + SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15976.ts
+#EXTINF:-1,PL: ELEVEN
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16387.ts
+#EXTINF:-1,PL: CHILLIZET
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20030.ts
+#EXTINF:-1,PL: Radio Eska Warszawa
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20033.ts
+#EXTINF:-1,PL: RADIO ZET
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20027.ts
+#EXTINF:-1,PL: Radio Złote Przeboje
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20032.ts
+#EXTINF:-1,PL: RMF FM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20028.ts
+#EXTINF:-1,PL: RMF MAXXX
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20029.ts
+#EXTINF:-1,PL: Radio Gra Toruń
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20034.ts
+#EXTINF:-1,PL: TELEWIZJA REPUBLIKA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20042.ts
+#EXTINF:-1,PL: TOK FM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20031.ts
+#EXTINF:-1,PL: POLSAT CAFE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21931.ts
+#EXTINF:-1,PL: TVP HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21929.ts
 #EXTINF:-1,PL: TVP SPORT
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11359.ts
-#EXTINF:-1,PL: TVP SPORT HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11358.ts
-#EXTINF:-1,PL: TVS
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11357.ts
-#EXTINF:-1,PL: wtk.smil
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11356.ts
-#EXTINF:-1,PL: axn_black_1axn_black_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11355.ts
-#EXTINF:-1,PL: AXN_HD_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11354.ts
-#EXTINF:-1,PL: AXN_Spin_HD_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11353.ts
-#EXTINF:-1,PL: axn_white_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11352.ts
-#EXTINF:-1,PL: disney_xd_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11351.ts
-#EXTINF:-1,PL: eurosport_channel_hd_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11350.ts
-#EXTINF:-1,PL: lechtv.smil
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11349.ts
-#EXTINF:-1,PL: Canal  Plus HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11588.ts
-#EXTINF:-1,PL: CINEMAX HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11589.ts
-#EXTINF:-1,PL: FILM BOX EXTRA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11590.ts
-#EXTINF:-1,PL: POLSAT 2HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11591.ts
-#EXTINF:-1,PL: Polsat Play HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11592.ts
-#EXTINF:-1,PL: TV4 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11593.ts
-#EXTINF:-1,PL: live
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11348.ts
-#EXTINF:-1,PL: multi-media
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11347.ts
-#EXTINF:-1,PL: scifi_universal_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11346.ts
-#EXTINF:-1,PL: TNT_HD_2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11345.ts
-#EXTINF:-1,PL: trwamtv.smil
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/11344.ts
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21930.ts

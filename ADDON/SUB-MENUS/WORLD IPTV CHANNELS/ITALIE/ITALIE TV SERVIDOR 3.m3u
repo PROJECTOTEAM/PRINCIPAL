@@ -1,5 +1,585 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,-IT: RAI 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15821.ts
+#EXTINF:-1,IT-: RAI 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/336.ts
+#EXTINF:-1,IT-: RAI 1 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12721.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/337.ts
+#EXTINF:-1,-IT: RAI 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15820.ts
+#EXTINF:-1,IT: RAI 2 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12722.ts
+#EXTINF:-1,-IT: RAI 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15819.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/338.ts
+#EXTINF:-1,IT: RAI 3 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12720.ts
+#EXTINF:-1,IT: RAI 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/339.ts
+#EXTINF:-1,-IT: RAI 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19888.ts
+#EXTINF:-1,IT: RAI 4 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10526.ts
+#EXTINF:-1,IT-: RAI 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15817.ts
+#EXTINF:-1,IT: RAI 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/340.ts
+#EXTINF:-1,IT: RAI 5 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2340.ts
+#EXTINF:-1,IT: RETE 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/353.ts
+#EXTINF:-1,-IT: RETE 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15818.ts
+#EXTINF:-1,IT: RETE 4 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10531.ts
+#EXTINF:-1,IT: Rete4
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2360.ts
+#EXTINF:-1,-IT: CANALE 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11031.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/362.ts
+#EXTINF:-1,IT: CANALE 5 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19885.ts
+#EXTINF:-1,IT: CANALE 7
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5551.ts
+#EXTINF:-1,-IT: ITALIA 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10534.ts
+#EXTINF:-1,IT: ITALIA 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/855.ts
+#EXTINF:-1,IT: ITALIA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15824.ts
+#EXTINF:-1,IT: LA  5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19891.ts
+#EXTINF:-1,-IT: LA 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15822.ts
+#EXTINF:-1,IT: LA  5 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9019.ts
+#EXTINF:-1,IT: LA 7D SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19895.ts
+#EXTINF:-1,IT: LA 7D HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19894.ts
+#EXTINF:-1,IT: LA 7 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19892.ts
+#EXTINF:-1,IT: LA 7 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/360.ts
+#EXTINF:-1,-IT: LA 7 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/902.ts
+#EXTINF:-1,-IT: LA 7D HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19893.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2368.ts
+#EXTINF:-1,IT: MEDIASET EXTRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2367.ts
+#EXTINF:-1,IT: MEDIASAT EXTRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13092.ts
+#EXTINF:-1,IT: MEDIASET IRIS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2366.ts
+#EXTINF:-1,IT: MEDIASET IRIS RISERVE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11030.ts
+#EXTINF:-1,IT: RAI MOVIE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/335.ts
+#EXTINF:-1,IT: RAI MOVIE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2364.ts
+#EXTINF:-1,IT: RAI MOVIE HD ERSATZ
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5552.ts
+#EXTINF:-1,IT: RAI PREMIUM HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/332.ts
+#EXTINF:-1,-IT: Rai Premium IT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15839.ts
+#EXTINF:-1,IT: RAI PREMIUM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2341.ts
+#EXTINF:-1,-IT: CIELO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/316.ts
+#EXTINF:-1,IT: CIELO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/852.ts
+#EXTINF:-1,-IT: GIALLO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19934.ts
+#EXTINF:-1,IT: IRIS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15800.ts
+#EXTINF:-1,IT: CLASS CNBC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9327.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2345.ts
+#EXTINF:-1,-IT: RSI LA 1  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15814.ts
+#EXTINF:-1,IT: RSI LA 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/341.ts
+#EXTINF:-1,IT: RSI LA 1 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19889.ts
+#EXTINF:-1,IT: RSI LA 2 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19890.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2346.ts
+#EXTINF:-1,IT: RSI LA 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/342.ts
+#EXTINF:-1,-IT: RSI LA 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15813.ts
+#EXTINF:-1,-IT: SKY UNO  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15827.ts
+#EXTINF:-1,IT: SKY UNO  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/307.ts
+#EXTINF:-1,-IT: SKY CINEMA HITS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15831.ts
+#EXTINF:-1,IT: SKY CINEMA HITS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/309.ts
+#EXTINF:-1,-IT: SKY CINEMA MAX  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15830.ts
+#EXTINF:-1,IT: SKY CINEMA MAX SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10546.ts
+#EXTINF:-1,-IT: SKY CINEMA FAMILY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15832.ts
+#EXTINF:-1,IT: SKY CINEMA FAMILY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/313.ts
+#EXTINF:-1,-IT: SKY CINEMA COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15834.ts
+#EXTINF:-1,IT: PREMIUM CINEMA COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/331.ts
+#EXTINF:-1,-IT: SKY CINEMA CULT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15833.ts
+#EXTINF:-1,IT: SKY CINEMA CULT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/310.ts
+#EXTINF:-1,-IT: SKY CINEMA CLASSIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10543.ts
+#EXTINF:-1,IT: SKY CINEMA CLASSIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19897.ts
+#EXTINF:-1,IT: CINEMA CLASSICS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/854.ts
+#EXTINF:-1,-IT: SKY CINEMA PASSION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15829.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8973.ts
+#EXTINF:-1,-IT: PREMIUM CINEMA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15784.ts
+#EXTINF:-1,IT: PREMIUM CINEMA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2429.ts
+#EXTINF:-1,-IT: PREMIUM CINEMA 2  24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15788.ts
+#EXTINF:-1,IT: PREMIUM CINEMA PLUS 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/328.ts
+#EXTINF:-1,IT: PREMIUM CINEMA  PLUS24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/896.ts
+#EXTINF:-1,-IT: PREMIUM CINEMA 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15787.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9011.ts
+#EXTINF:-1,-IT: PREMIUM CINEMA 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19899.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2436.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2  24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9010.ts
+#EXTINF:-1,IT: PREMIUM ACTION  24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9013.ts
+#EXTINF:-1,-IT: PREMIUM ACTION 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10533.ts
+#EXTINF:-1,-IT: PREMIUM ACTION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15797.ts
+#EXTINF:-1,IT: PREMIUM ACTION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/325.ts
+#EXTINF:-1,-IT: PREMIUM CINEMA ENERGY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15785.ts
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2430.ts
+#EXTINF:-1,IT: PREMIUM ENERGY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12322.ts
+#EXTINF:-1,-IT: PREMIUM CRIME HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19947.ts
+#EXTINF:-1,IT: PREMIUM CRIME HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/327.ts
+#EXTINF:-1,-IT: PREMIUM CRIME 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15783.ts
+#EXTINF:-1,IT: PREMIUM CRIME 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2427.ts
+#EXTINF:-1,-IT: Premium Cinema Comedy IT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15786.ts
+#EXTINF:-1,IT: SKY CINEMA COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10547.ts
+#EXTINF:-1,-IT: PREMIUM EMOTION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15798.ts
+#EXTINF:-1,IT: PREMIUM EMOTION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/322.ts
+#EXTINF:-1,IT: PREMIUM JOI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19949.ts
+#EXTINF:-1,-IT: PREMIUM JOI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19948.ts
+#EXTINF:-1,-IT: PREMIUM STORIES HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2424.ts
+#EXTINF:-1,IT: PREMIUM STORIES HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/329.ts
+#EXTINF:-1,-IT: PREMIUM STORIES 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19955.ts
+#EXTINF:-1,-IT: STUDIO UNIVERSAL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19944.ts
+#EXTINF:-1,IT: STUDIO UNIVERSAL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19945.ts
+#EXTINF:-1,IT: STUDIO UNIVERSAL SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2365.ts
+#EXTINF:-1,IT: PRIMAFILA 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/343.ts
+#EXTINF:-1,IT: PRIMAFILA 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/344.ts
+#EXTINF:-1,IT: PRIMAFILA 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/345.ts
+#EXTINF:-1,IT: PRIMAFILA 4
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/346.ts
+#EXTINF:-1,IT: PRIMAFILA 5
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/347.ts
+#EXTINF:-1,IT: PRIMAFILA 6
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/348.ts
+#EXTINF:-1,IT: PRIMAFILA 7
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/349.ts
+#EXTINF:-1,IT: PRIMAFILA 8
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/350.ts
+#EXTINF:-1,IT: PRIMAFILA 9
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/351.ts
+#EXTINF:-1,IT: PRIMAFILA 10
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/352.ts
+#EXTINF:-1,-IT: FOX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19940.ts
+#EXTINF:-1,IT: FOX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9025.ts
+#EXTINF:-1,-IT: FOX LIFE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19923.ts
+#EXTINF:-1,IT: FOX LIFE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10537.ts
+#EXTINF:-1,-IT: FOX CRIME HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15802.ts
+#EXTINF:-1,IT: FOX CRIME HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/361.ts
+#EXTINF:-1,-IT: FOX ANIMATION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19942.ts
+#EXTINF:-1,-IT: SKY FOX COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8972.ts
+#EXTINF:-1,IT: FOX COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10539.ts
+#EXTINF:-1,-IT: FOX SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19920.ts
+#EXTINF:-1,-IT: AXN  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15811.ts
+#EXTINF:-1,IT: AXN  HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19935.ts
+#EXTINF:-1,IT: SKY AXN HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8980.ts
+#EXTINF:-1,IT: DMAX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19906.ts
+#EXTINF:-1,-IT: DMAX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2353.ts
+#EXTINF:-1,-IT: REAL TIME
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19931.ts
+#EXTINF:-1,IT: REAL TIME
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10535.ts
+#EXTINF:-1,-IT: SKY SPORT 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19956.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/317.ts
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/318.ts
+#EXTINF:-1,-IT: SKY SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19957.ts
+#EXTINF:-1,-IT: SKY SPORT F1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19960.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/319.ts
+#EXTINF:-1,-IT: SKY SPORT 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19958.ts
+#EXTINF:-1,IT: SKY SPORT F1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/320.ts
+#EXTINF:-1,IT-: CBL FILM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20518.ts
+#EXTINF:-1,IT-: ETV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20519.ts
+#EXTINF:-1,-IT: SPORT ITALIA 1 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19886.ts
+#EXTINF:-1,-IT: SKY CINEMA  1 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19896.ts
+#EXTINF:-1,-IT: RAI YOYO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19900.ts
+#EXTINF:-1,IT: Videolina
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18602.ts
+#EXTINF:-1,IT: TELECITTA SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18533.ts
+#EXTINF:-1,IT: SPORT ITALIA 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19887.ts
+#EXTINF:-1,IT: RETRO MUSIC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18528.ts
+#EXTINF:-1,IT: Primocanale
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18604.ts
+#EXTINF:-1,IT: MARCOPOLO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19913.ts
+#EXTINF:-1,IT: PREMIUM SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19977.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19975.ts
+#EXTINF:-1,IT: FRISBEE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19902.ts
+#EXTINF:-1,IT: DISCOVERY SCIENCE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19912.ts
+#EXTINF:-1,-IT: MARCOPOLO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15799.ts
+#EXTINF:-1,IT: K2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15823.ts
+#EXTINF:-1,-IT: HISTORY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15801.ts
+#EXTINF:-1,-IT: FOCUS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15803.ts
+#EXTINF:-1,-IT: DISNEY XD HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15804.ts
+#EXTINF:-1,-IT: DISCOVERY SCIENCE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15805.ts
+#EXTINF:-1,-IT: DISCOVERY CHANNEL HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15806.ts
+#EXTINF:-1,-IT: CARTOONNITO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15807.ts
+#EXTINF:-1,-IT: CARTOON NETWORK HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15808.ts
+#EXTINF:-1,-IT: BOING HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15810.ts
+#EXTINF:-1,-IT: SUPER!
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15825.ts
+#EXTINF:-1,-IT: SUPER TENNIS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15826.ts
+#EXTINF:-1,-IT: SKY SPORT MOTO GP HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15828.ts
+#EXTINF:-1,-IT: Sky Cinema  24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15836.ts
+#EXTINF:-1,-IT: SKY ATLANTIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15837.ts
+#EXTINF:-1,-IT: Rai News 24 IT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15840.ts
+#EXTINF:-1,-IT: Rai Gulp IT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15842.ts
+#EXTINF:-1,-IT: CACCIA PESCA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19937.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15790.ts
+#EXTINF:-1,IT: PREMIUM CALCIO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/910.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15796.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2418.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15795.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/906.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15794.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2419.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2420.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15793.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 5
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2421.ts
+#EXTINF:-1,-IT: PREMIUM CALCIO 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15792.ts
+#EXTINF:-1,-IT: NATIONAL GEOGRAPHIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15843.ts
+#EXTINF:-1,-IT: NAT GEO WILD HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15844.ts
+#EXTINF:-1,IT: Tg Com 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2347.ts
+#EXTINF:-1,IT: SUPER TENNIS SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2401.ts
+#EXTINF:-1,-IT: SPORT ITALIA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2402.ts
+#EXTINF:-1,IT: SKY SPORT 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12834.ts
+#EXTINF:-1,IT: SKY NATIONAL GEOGRAPHIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2388.ts
+#EXTINF:-1,IT: HISTORY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2389.ts
+#EXTINF:-1,-IT: CRIME INVESTIGATION HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19954.ts
+#EXTINF:-1,-IT: EUROSPORT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19930.ts
+#EXTINF:-1,-IT: EUROSPORT 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19929.ts
+#EXTINF:-1,-IT: GAMBERO ROSSO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19951.ts
+#EXTINF:-1,-IT: PREMIUM SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19976.ts
+#EXTINF:-1,IT: CACCIA PESCA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19938.ts
+#EXTINF:-1,IT: Sky Disney Junior HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2390.ts
+#EXTINF:-1,IT: Sky Discovery Channel HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2392.ts
+#EXTINF:-1,IT: SKY CINEMA 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2078.ts
+#EXTINF:-1,IT: Sky Cinema   24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2398.ts
+#EXTINF:-1,-IT: SKY CINEMA  1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2393.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2344.ts
+#EXTINF:-1,IT: RAI GULB
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2342.ts
+#EXTINF:-1,IT: PREMIUM JOY 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2426.ts
+#EXTINF:-1,IT: Premium Cinema Joy
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2428.ts
+#EXTINF:-1,IT: CARTOON NETWORK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2437.ts
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2406.ts
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2407.ts
+#EXTINF:-1,IT: DISNEY CHANNEL 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2355.ts
+#EXTINF:-1,IT: ANIMAL PLANET
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2374.ts
+#EXTINF:-1,IT: ALICE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2375.ts
+#EXTINF:-1,IT: SKY TG24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/314.ts
+#EXTINF:-1,IT: SKY SPORT MOTORGP HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/315.ts
+#EXTINF:-1,IT: SKY ATLANTIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/311.ts
+#EXTINF:-1,IT: RAI SPORT 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/333.ts
+#EXTINF:-1,IT: RAI SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/334.ts
+#EXTINF:-1,-IT: PREMIUM SPORT HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/330.ts
+#EXTINF:-1,IT: PREMIUM JOY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/321.ts
+#EXTINF:-1,IT: PREMIUM DISCOVERY WORLD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/897.ts
+#EXTINF:-1,IT: NAT GEO WILD HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/356.ts
+#EXTINF:-1,-IT: SKY SPORT 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19943.ts
+#EXTINF:-1,IT: SKY CINEMA  1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/853.ts
+#EXTINF:-1,IT: RADIO MONTECARLO TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/900.ts
+#EXTINF:-1,IT: RADIO ITALIA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/886.ts
+#EXTINF:-1,IT: RAI YOYO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/1071.ts
+#EXTINF:-1,IT: DISNEY CHANNEL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/895.ts
+#EXTINF:-1,IT: DISCOVERY CHANNEL HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/901.ts
+#EXTINF:-1,IT: VIDEO CALABRIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5545.ts
+#EXTINF:-1,IT: TELECITTA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5546.ts
+#EXTINF:-1,IT: CALCIO 1 HD VIP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13543.ts
+#EXTINF:-1,IT: SUPERCALCIO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8964.ts
+#EXTINF:-1,-IT: SKY SUPERCALCIO HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2380.ts
+#EXTINF:-1,IT: SUPERCALCIO SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13542.ts
+#EXTINF:-1,IT: SKY CALCIO 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19961.ts
+#EXTINF:-1,-IT: SKY CALCIO 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2408.ts
+#EXTINF:-1,IT: SKY CALCIO 2 SD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19909.ts
+#EXTINF:-1,IT: SKY CALCIO 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19910.ts
+#EXTINF:-1,-IT: SKY CALCIO 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2409.ts
+#EXTINF:-1,IT: SKY CALCIO 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19962.ts
+#EXTINF:-1,-IT: SKY CALCIO 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2410.ts
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19963.ts
+#EXTINF:-1,-IT: SKY CALCIO 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2411.ts
+#EXTINF:-1,-IT: SKY CALCIO 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2412.ts
+#EXTINF:-1,IT: SKY CALCIO 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19964.ts
+#EXTINF:-1,IT: SKY CALCIO  6 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5801.ts
+#EXTINF:-1,IT: RAI GULP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8983.ts
+#EXTINF:-1,IT: PREMIUM COMEDY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9006.ts
+#EXTINF:-1,-IT: NATIONALGEO PEOPLE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9016.ts
+#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9017.ts
+#EXTINF:-1,IT: BOING
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9032.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8963.ts
+#EXTINF:-1,IT: SKY TG 24 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8967.ts
+#EXTINF:-1,IT: SKY SPORT MOTO GP HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8969.ts
+#EXTINF:-1,IT: RAI SPORT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10527.ts
+#EXTINF:-1,IT: PREMIUM JOY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10549.ts
+#EXTINF:-1,IT: FOCUS HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10536.ts
+#EXTINF:-1,IT: CARTOONITO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10530.ts
+#EXTINF:-1,IT: SKY TG24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12329.ts
+#EXTINF:-1,IT: MOTO GP
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16567.ts
+#EXTINF:-1,IT: RADIO 105
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6352.ts
+#EXTINF:-1,-IT: RAI SPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15815.ts
+#EXTINF:-1,-IT: RAI SPORT 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15816.ts
+#EXTINF:-1,-IT: Piu Blu
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18584.ts
+#EXTINF:-1,-IT: MILAN CHANNEL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19922.ts
+#EXTINF:-1,-IT: FRISBEE
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19901.ts
+#EXTINF:-1,-IT: CARTOONITO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19904.ts
+#EXTINF:-1,-IT: ANIMAL PLANET
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19911.ts
+#EXTINF:-1,-IT: ALICE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19907.ts
+#EXTINF:-1,-IT: TRENTINO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18615.ts
+#EXTINF:-1,IT: PREMIUM DISNEY JUNIOR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21913.ts
+#EXTINF:-1,IT: Retesole Roma
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18581.ts
+#EXTINF:-1,IT-: RADIO 105 TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20523.ts
+#EXTINF:-1,IT-: RADIO MONTE CARLO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6346.ts

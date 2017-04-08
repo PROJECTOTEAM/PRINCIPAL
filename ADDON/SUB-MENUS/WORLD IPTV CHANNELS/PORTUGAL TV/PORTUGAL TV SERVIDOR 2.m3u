@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -18,134 +18,225 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
 #EXTINF:-1,PT: TVI REALITY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8554.ts
-#EXTINF:-1,PT: SPORT TV 5HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8550.ts
-#EXTINF:-1,PT: SPORT TV 4HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8549.ts
-#EXTINF:-1,PT: SPORT TV 3HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8548.ts
-#EXTINF:-1,PT: SPORT TV 2HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8547.ts
-#EXTINF:-1,PT: SPORT TV 1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8546.ts
-#EXTINF:-1,PT: ODISSEIA.
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8561.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8562.ts
-#EXTINF:-1,PT: NAT GEO WILD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8563.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8564.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8552.ts
-#EXTINF:-1,PT: CANAL HISTORIA
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8569.ts
-#EXTINF:-1,PT: BENFICA TV 1HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8545.ts
-#EXTINF:-1,PT: AXN HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/8580.ts
-#EXTINF:-1,PT: VH1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7667.ts
-#EXTINF:-1,PT: TVI_REALITY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7637.ts
-#EXTINF:-1,PT: Tvi_24
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7636.ts
-#EXTINF:-1,PT: TVI.
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7635.ts
-#EXTINF:-1,PT: Sport_TV_2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7604.ts
-#EXTINF:-1,PT: Sport_TV_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7605.ts
-#EXTINF:-1,PT: SIC_Radical
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7632.ts
-#EXTINF:-1,PT: SIC_Noticias
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7633.ts
-#EXTINF:-1,PT: SIC
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7634.ts
-#EXTINF:-1,PT: SIC.
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7630.ts
-#EXTINF:-1,PT: RTP_3
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7650.ts
-#EXTINF:-1,PT: RTP_2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7648.ts
-#EXTINF:-1,PT: PORTO_CANAL
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7606.ts
-#EXTINF:-1,PT: Odisseia
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7656.ts
-#EXTINF:-1,PT: Nickelodeon
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7646.ts
-#EXTINF:-1,PT: FOX MOVIES_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7619.ts
-#EXTINF:-1,PT: FOX
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7623.ts
-#EXTINF:-1,PT: DISCOVERY_HD_SHOWCASE
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7639.ts
-#EXTINF:-1,PT: Discovery_Channel
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7641.ts
-#EXTINF:-1,PT: CM_TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7661.ts
-#EXTINF:-1,PT: CINEMUNDO_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7620.ts
-#EXTINF:-1,PT: Canal_Panda
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7645.ts
-#EXTINF:-1,PT: Canal_Historia
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7670.ts
-#EXTINF:-1,PT: BTV 1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7629.ts
-#EXTINF:-1,PT: Benfica_TV_2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7603.ts
-#EXTINF:-1,PT: BABY_TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7665.ts
-#EXTINF:-1,PT: AXN-HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3879.ts
-#EXTINF:-1,PT: AXN_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7625.ts
-#EXTINF:-1,PT: AMC
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7671.ts
-#EXTINF:-1,PT: FoxLifeHD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3868.ts
-#EXTINF:-1,PT: Discovery-HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3873.ts
-#EXTINF:-1,PT: FoxHD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3869.ts
-#EXTINF:-1,PT: Fox-Movies
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3870.ts
-#EXTINF:-1,PT: Fox-Comedy
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3871.ts
-#EXTINF:-1,PT: Disney-Channel
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3872.ts
-#EXTINF:-1,PT: CartoonNetwork
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/3875.ts
-#EXTINF:-1,PT: TV_GLOBO_PREMIUN
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7244.ts
-#EXTINF:-1,PT: TV_GLOBO
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7245.ts
-#EXTINF:-1,PT: TV_Cine_3
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7230.ts
-#EXTINF:-1,PT: TV_Cine_2
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7231.ts
-#EXTINF:-1,PT: TV_Cine_1
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7232.ts
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17776.ts
+#EXTINF:-1,PT: SIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/17775.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10235.ts
+#EXTINF:-1,PT: TVI 24
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10236.ts
+#EXTINF:-1,PT: TV SERIES
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10242.ts
 #EXTINF:-1,PT: SYFY
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7237.ts
-#EXTINF:-1,PT: Sport_TV_5
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7234.ts
-#EXTINF:-1,PT: Sport_TV_4
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7235.ts
-#EXTINF:-1,PT: Sport_TV_3
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7246.ts
-#EXTINF:-1,PT: Sport_TV1_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7233.ts
-#EXTINF:-1,PT: SPORTING_TV
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7238.ts
-#EXTINF:-1,PT: Sport _TV2_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7228.ts
-#EXTINF:-1,PT: FOX_MOVIES_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7240.ts
-#EXTINF:-1,PT: FOX_CRIME_HD
-http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7241.ts
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10248.ts
+#EXTINF:-1,PT: SPORTING TV HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10249.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10256.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10257.ts
+#EXTINF:-1,PT: SIC Kids
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10258.ts
+#EXTINF:-1,PT: SIC CARAS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10259.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10266.ts
+#EXTINF:-1,PT: ODISSEIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10267.ts
+#EXTINF:-1,PT: NICKELODEON
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10268.ts
+#EXTINF:-1,PT :Eurosport 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20753.ts
+#EXTINF:-1,PT :SyFy
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20744.ts
+#EXTINF:-1,PT: A Bola TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20641.ts
+#EXTINF:-1,PT: A&E
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20640.ts
+#EXTINF:-1,PT: AMC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20638.ts
+#EXTINF:-1,PT: AXN HD..
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20748.ts
+#EXTINF:-1,PT: BABY TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20637.ts
+#EXTINF:-1,PT: BENFICA TV 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20606.ts
+#EXTINF:-1,PT: BENFICA TV 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20607.ts
+#EXTINF:-1,PT: Biggs
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20649.ts
+#EXTINF:-1,PT: CAÇÃVISION
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20635.ts
+#EXTINF:-1,PT: CINE MUNDO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20643.ts
+#EXTINF:-1,PT: CM TV HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20749.ts
+#EXTINF:-1,-PT: CMTV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20642.ts
+#EXTINF:-1,PT: Discovery Channel
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20633.ts
+#EXTINF:-1,PT: Euronews
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20647.ts
+#EXTINF:-1,PT: Eurosport
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20646.ts
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20615.ts
+#EXTINF:-1,PT: FOX Comedy
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20632.ts
+#EXTINF:-1,PT: FOX COMEDY HD..
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20746.ts
+#EXTINF:-1,PT: FOX MOVIE HD..
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20745.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20631.ts
+#EXTINF:-1,PT: JIM JAM
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20648.ts
+#EXTINF:-1,PT: Kombat_Sports
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20752.ts
+#EXTINF:-1,PT: MOTORVISION
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20629.ts
+#EXTINF:-1,-PT: MTV Portugal
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20644.ts
+#EXTINF:-1,PT: National.Geographic.wild HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20750.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20628.ts
+#EXTINF:-1,PT: RTP Africa
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20627.ts
+#EXTINF:-1,PT: SIC
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20626.ts
+#EXTINF:-1,PT: SIC MULHER
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20625.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20608.ts
+#EXTINF:-1,PT: Sport Tv 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20609.ts
+#EXTINF:-1,PT: Sport Tv 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20610.ts
+#EXTINF:-1,PT: Sport Tv 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20611.ts
+#EXTINF:-1,PT: Sport Tv 5 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20612.ts
+#EXTINF:-1,PT: Sport TV 5 PT
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20613.ts
+#EXTINF:-1,PT: Sport.TV1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20754.ts
+#EXTINF:-1,PT: Sport.TV4
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20757.ts
+#EXTINF:-1,PT: TV CINE 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20617.ts
+#EXTINF:-1,PT: TV Cine 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20618.ts
+#EXTINF:-1,PT: TV Cine 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20619.ts
+#EXTINF:-1,PT: TV CINE 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20620.ts
+#EXTINF:-1,PT: TV Globo
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20624.ts
+#EXTINF:-1,PT: TVCine 3. HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20743.ts
+#EXTINF:-1,PT: TVCINE 4
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20621.ts
+#EXTINF:-1,-PT: TVI
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20622.ts
+#EXTINF:-1,PT:CANAL HISTORIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20634.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10269.ts
+#EXTINF:-1,PT: NAT GEO WILD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10270.ts
+#EXTINF:-1,PT: MOV HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10273.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10275.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10276.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10277.ts
+#EXTINF:-1,PT: FOX HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10278.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10279.ts
+#EXTINF:-1,PT: ECONOMICO TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10280.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10282.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10283.ts
+#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10284.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10287.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10289.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10290.ts
+#EXTINF:-1,PT: CANAL HISTORIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10291.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10300.ts
+#EXTINF:-1,PT: AXN HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10301.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10302.ts
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10305.ts
+#EXTINF:-1,PT:   TVI HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10306.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10294.ts
+#EXTINF:-1,PT: RTP 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10264.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10255.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10254.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10252.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10251.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10250.ts
+#EXTINF:-1,PT: TVCINE 1 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10241.ts
+#EXTINF:-1,PT: TVCINE 2 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10240.ts
+#EXTINF:-1,PT: TVCINE 3 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10239.ts
+#EXTINF:-1,PT: TVCINE 4 HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10238.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10551.ts
+#EXTINF:-1,PT: TOROS TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10553.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10555.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10556.ts
+#EXTINF:-1,PT: RTP ACORES
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10557.ts
+#EXTINF:-1,PT: RTP 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10558.ts
+#EXTINF:-1,PT: RTP 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10559.ts
+#EXTINF:-1,PT: REAL MADRID
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10560.ts
+#EXTINF:-1,PT: EUROSPORT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10566.ts
+#EXTINF:-1,PT: DISCOVERY HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10568.ts
+#EXTINF:-1,PT: DISCOVERY
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10659.ts
+#EXTINF:-1,PT: CMTV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10661.ts
+#EXTINF:-1,PT: CANAL HISTORIA HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10571.ts
+#EXTINF:-1,PT: CAÇA E PESCA
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10665.ts
+#EXTINF:-1,PT: BENFICA TV 1 FULL HD
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10574.ts
+#EXTINF:-1,PT: BARÇA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10669.ts
+#EXTINF:-1,PT: 24 KITCHEN
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10578.ts
