@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -14,31 +14,71 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,ES:La 1
-http://51.254.47.234:8000/live/furkan1/furkan1/381.ts
-#EXTINF:-1,ES:La 2
-http://51.254.47.234:8000/live/furkan1/furkan1/382.ts
-#EXTINF:-1,ES:Telecino
-http://51.254.47.234:8000/live/furkan1/furkan1/380.ts
-#EXTINF:-1,ES:Canal+
-http://51.254.47.234:8000/live/furkan1/furkan1/392.ts
-#EXTINF:-1,ES:Canal+ Series
-http://51.254.47.234:8000/live/furkan1/furkan1/384.ts
-#EXTINF:-1,ES:Canal+ Accion
-http://51.254.47.234:8000/live/furkan1/furkan1/391.ts
-#EXTINF:-1,ES:Canal+ Comedia
-http://51.254.47.234:8000/live/furkan1/furkan1/390.ts
-#EXTINF:-1,ES:Canal+ Dcine
-http://51.254.47.234:8000/live/furkan1/furkan1/389.ts
-#EXTINF:-1,ES:Canal+ Estrenos
-http://51.254.47.234:8000/live/furkan1/furkan1/387.ts
-#EXTINF:-1,ES:Canal+ Deportes
-http://51.254.47.234:8000/live/furkan1/furkan1/388.ts
-#EXTINF:-1,ES:Canal+ Toros
-http://51.254.47.234:8000/live/furkan1/furkan1/383.ts
-#EXTINF:-1,ES:Canal+ Futbol
-http://51.254.47.234:8000/live/furkan1/furkan1/386.ts
-#EXTINF:-1,ES:Canal+ Liga
-http://51.254.47.234:8000/live/furkan1/furkan1/385.ts
+#EXTINF:-1,SP: Viasat Sport Baltic
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1444.ts
+#EXTINF:-1,SP: Viasat Golf
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1437.ts
+#EXTINF:-1,SP: USA_Astro_Supersport_4
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1714.ts
+#EXTINF:-1,SP: USA_Astro_Supersport_3
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1715.ts
+#EXTINF:-1,SP: USA_Astro_Supersport_2
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1716.ts
+#EXTINF:-1,SP: USA_Astro_Supersport_1
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1717.ts
+#EXTINF:-1,SP: Tring Sport 2 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1696.ts
+#EXTINF:-1,SP: Tring Sport 1 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1695.ts
+#EXTINF:-1,SP: Ten-Golf
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1720.ts
+#EXTINF:-1,SP: Super Sport 6 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1692.ts
+#EXTINF:-1,SP: Super Sport 5 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1691.ts
+#EXTINF:-1,SP: Sky Sport 1 HD Germany
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1441.ts
+#EXTINF:-1,SP: Sky Bundesliga 1 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1702.ts
+#EXTINF:-1,SP: OSN_SPORTS2_HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1713.ts
+#EXTINF:-1,SP: MIO Stadium 103 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1418.ts
+#EXTINF:-1,SP: Lig TV 3 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1701.ts
+#EXTINF:-1,SP: Lig TV 2 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1700.ts
+#EXTINF:-1,SP: Lig TV 1HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1699.ts
+#EXTINF:-1,SP: Kosova 2 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1694.ts
+#EXTINF:-1,SP: Kosova 1 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1693.ts
+#EXTINF:-1,SP: Arena Sports 4 HD Croatia
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1434.ts
+#EXTINF:-1,SP: Arena Sports 3 HD Croatia
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1433.ts
+#EXTINF:-1,SP: Arena Sports 1 HD Croatia
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1431.ts
+#EXTINF:-1,SP: Arena Sport 5 Srb
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1435.ts
+#EXTINF:-1,SP:  Super Sport 4 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1690.ts
+#EXTINF:-1,SP:  Super Sport 3 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1689.ts
+#EXTINF:-1,SP:  Super Sport 2 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1688.ts
+#EXTINF:-1,SP:  Super Sport 1 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1687.ts
+#EXTINF:-1,SP:  Sport Klub 6 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1686.ts
+#EXTINF:-1,SP:  Sport Klub 5 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1685.ts
+#EXTINF:-1,SP:  Sport Klub 4 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1684.ts
+#EXTINF:-1,SP:  Sport Klub 3 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1683.ts
+#EXTINF:-1,SP:  Sport Klub 2 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1682.ts
+#EXTINF:-1,SP:  Sport Klub 1 HD
+http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1681.ts
