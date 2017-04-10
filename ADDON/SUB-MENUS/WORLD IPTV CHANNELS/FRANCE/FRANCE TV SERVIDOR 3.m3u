@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -24,448 +24,357 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR:France O
-http://51.254.47.234:8000/live/furkan1/furkan1/152.ts
-#EXTINF:-1,FR:France 2
-http://51.254.47.234:8000/live/furkan1/furkan1/153.ts
-#EXTINF:-1,FR:France 3
-http://51.254.47.234:8000/live/furkan1/furkan1/154.ts
-#EXTINF:-1,FR:France 4
-http://51.254.47.234:8000/live/furkan1/furkan1/155.ts
-#EXTINF:-1,FR:France 5
-http://51.254.47.234:8000/live/furkan1/furkan1/156.ts
-#EXTINF:-1,FR:France 24
-http://51.254.47.234:8000/live/furkan1/furkan1/157.ts
-#EXTINF:-1,FR:France 24 AR
-http://51.254.47.234:8000/live/furkan1/furkan1/627.ts
-#EXTINF:-1,FR:Euronews
-http://51.254.47.234:8000/live/furkan1/furkan1/626.ts
-#EXTINF:-1,FR:RTL9
-http://51.254.47.234:8000/live/furkan1/furkan1/624.ts
-#EXTINF:-1,FR:NRJ 12
-http://51.254.47.234:8000/live/furkan1/furkan1/150.ts
-#EXTINF:-1,FR:TF1
-http://51.254.47.234:8000/live/furkan1/furkan1/144.ts
-#EXTINF:-1,FR:TMC
-http://51.254.47.234:8000/live/furkan1/furkan1/143.ts
-#EXTINF:-1,FR:Arte
-http://51.254.47.234:8000/live/furkan1/furkan1/615.ts
-#EXTINF:-1,FR:TV5 Monde Europe
-http://51.254.47.234:8000/live/furkan1/furkan1/158.ts
-#EXTINF:-1,FR:RMC
-http://51.254.47.234:8000/live/furkan1/furkan1/620.ts
-#EXTINF:-1,FR:BFMTV
-http://51.254.47.234:8000/live/furkan1/furkan1/636.ts
-#EXTINF:-1,FR:6TER
-http://51.254.47.234:8000/live/furkan1/furkan1/618.ts
-#EXTINF:-1,FR:Lequipe 21
-http://51.254.47.234:8000/live/furkan1/furkan1/623.ts
-#EXTINF:-1,FR:Canal HD
-http://51.254.47.234:8000/live/furkan1/furkan1/715.ts
-#EXTINF:-1,FR:Canal Cinema
-http://51.254.47.234:8000/live/furkan1/furkan1/160.ts
-#EXTINF:-1,FR:Canal Series
-http://51.254.47.234:8000/live/furkan1/furkan1/159.ts
-#EXTINF:-1,FR:Cine+ Premier
-http://51.254.47.234:8000/live/furkan1/furkan1/145.ts
-#EXTINF:-1,FR:Cine+ Classic
-http://51.254.47.234:8000/live/furkan1/furkan1/149.ts
-#EXTINF:-1,FR:Cine+ Emotion
-http://51.254.47.234:8000/live/furkan1/furkan1/147.ts
-#EXTINF:-1,FR:Cine+ Famiz
-http://51.254.47.234:8000/live/furkan1/furkan1/148.ts
-#EXTINF:-1,FR:Cine+ Frisson
-http://51.254.47.234:8000/live/furkan1/furkan1/146.ts
-#EXTINF:-1,FR:OCS MAX
-http://51.254.47.234:8000/live/furkan1/furkan1/646.ts
-#EXTINF:-1,FR:OCS Geants
-http://51.254.47.234:8000/live/furkan1/furkan1/628.ts
-#EXTINF:-1,FR:OCS Choc
-http://51.254.47.234:8000/live/furkan1/furkan1/643.ts
-#EXTINF:-1,FR:Planete+
-http://51.254.47.234:8000/live/furkan1/furkan1/648.ts
-#EXTINF:-1,FR:Planete+ CI
-http://51.254.47.234:8000/live/furkan1/furkan1/630.ts
-#EXTINF:-1,FR:Syfy
-http://51.254.47.234:8000/live/furkan1/furkan1/644.ts
-#EXTINF:-1,FR:Serie Club
-http://51.254.47.234:8000/live/furkan1/furkan1/621.ts
-#EXTINF:-1,FR:Paris Premiere
-http://51.254.47.234:8000/live/furkan1/furkan1/647.ts
-#EXTINF:-1,FR:Sciences & Vie
-http://51.254.47.234:8000/live/furkan1/furkan1/645.ts
-#EXTINF:-1,FR:Comedie+
-http://51.254.47.234:8000/live/furkan1/furkan1/633.ts
-#EXTINF:-1,FR:Action
-http://51.254.47.234:8000/live/furkan1/furkan1/619.ts
-#EXTINF:-1,FR:13eme Rue
-http://51.254.47.234:8000/live/furkan1/furkan1/637.ts
-#EXTINF:-1,FR:M6 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/151.ts
-#EXTINF:-1,FR:W9
-http://51.254.47.234:8000/live/furkan1/furkan1/616.ts
-#EXTINF:-1,FR:D17
-http://51.254.47.234:8000/live/furkan1/furkan1/617.ts
-#EXTINF:-1,FR:Gulli
-http://51.254.47.234:8000/live/furkan1/furkan1/625.ts
-#EXTINF:-1,FR:Disney Junior
-http://51.254.47.234:8000/live/furkan1/furkan1/631.ts
-#EXTINF:-1,FR:Cartoon Network
-http://51.254.47.234:8000/live/furkan1/furkan1/161.ts
-#EXTINF:-1,FR:Canal J
-http://51.254.47.234:8000/live/furkan1/furkan1/634.ts
-#EXTINF:-1,FR:Gong
-http://51.254.47.234:8000/live/furkan1/furkan1/629.ts
-#EXTINF:-1,FR:Nat Geo HD
-http://51.254.47.234:8000/live/furkan1/furkan1/162.ts
-#EXTINF:-1,FR:Nat Geo Wild
-http://51.254.47.234:8000/live/furkan1/furkan1/163.ts
-#EXTINF:-1,FR:Discovery
-http://51.254.47.234:8000/live/furkan1/furkan1/632.ts
-#EXTINF:-1,FR:Discovery Science
-http://51.254.47.234:8000/live/furkan1/furkan1/622.ts
-#EXTINF:-1,FR:Bein Sports 1
-http://51.254.47.234:8000/live/furkan1/furkan1/140.ts
-#EXTINF:-1,FR:Bein Sports 2
-http://51.254.47.234:8000/live/furkan1/furkan1/141.ts
-#EXTINF:-1,FR:Bein Sports 3
-http://51.254.47.234:8000/live/furkan1/furkan1/142.ts
-#EXTINF:-1,FR:Bein Max 4
-http://51.254.47.234:8000/live/furkan1/furkan1/638.ts
-#EXTINF:-1,FR:Bein Max 5
-http://51.254.47.234:8000/live/furkan1/furkan1/639.ts
-#EXTINF:-1,FR:Bein Max 6
-http://51.254.47.234:8000/live/furkan1/furkan1/640.ts
-#EXTINF:-1,FR:Bein Max 7
-http://51.254.47.234:8000/live/furkan1/furkan1/641.ts
-#EXTINF:-1,FR:Bein Max 8
-http://51.254.47.234:8000/live/furkan1/furkan1/642.ts
-#EXTINF:-1,FR:Foot 24/24
-http://51.254.47.234:8000/live/furkan1/furkan1/649.ts
-#EXTINF:-1,FR:Canal+ Sport
-http://51.254.47.234:8000/live/furkan1/furkan1/635.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR: OCS MAX
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13078.ts
-#EXTINF:-1,FR: INFO SPORT
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13074.ts
-#EXTINF:-1,FR: W9
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4736.ts
-#EXTINF:-1,FR: USHUAIA _HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4753.ts
-#EXTINF:-1,FR: TOUTE HISTORIE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4786.ts
-#EXTINF:-1,FR: TF1-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4811.ts
-#EXTINF:-1,FR: SERIE CLUB
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4785.ts
-#EXTINF:-1,FR: RTS-Un
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4788.ts
-#EXTINF:-1,FR: RTS-Deux
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4789.ts
-#EXTINF:-1,FR: RMC Decouverte
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4739.ts
-#EXTINF:-1,FR: OL-Tv
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4790.ts
-#EXTINF:-1,FR: OCS-City-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4813.ts
-#EXTINF:-1,FR: NRJ Hits
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4740.ts
-#EXTINF:-1,FR: NATIONAL-GEO-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4814.ts
-#EXTINF:-1,FR: NAT GEO HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4766.ts
-#EXTINF:-1,FR: MANGAS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4792.ts
-#EXTINF:-1,FR: Ma-Chaine-Sport
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4815.ts
-#EXTINF:-1,FR: M6-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4816.ts
-#EXTINF:-1,FR: M6
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4741.ts
-#EXTINF:-1,FR: M6 MUSIC
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6342.ts
-#EXTINF:-1,FR: gong
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4794.ts
-#EXTINF:-1,FR: FRANCE_O
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4809.ts
-#EXTINF:-1,FR: FRANCE-4HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4847.ts
-#EXTINF:-1,FR: FRANCE-3HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4848.ts
-#EXTINF:-1,FR: France-24
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4795.ts
-#EXTINF:-1,FR: FRANCE-2-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4849.ts
-#EXTINF:-1,FR: FRANCE 5 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4767.ts
-#EXTINF:-1,FR: FRANCE 4 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4768.ts
-#EXTINF:-1,FR: FRANCE 3 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4769.ts
-#EXTINF:-1,FR: EUROSPORT 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4757.ts
-#EXTINF:-1,FR: EUROSPORT 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4756.ts
-#EXTINF:-1,FR: EURONEWS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4850.ts
-#EXTINF:-1,FR: DisneyJunior
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4821.ts
-#EXTINF:-1,FR: Disney-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4822.ts
-#EXTINF:-1,FR: DISNEY CINEMA
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4784.ts
-#EXTINF:-1,FR: Cine-Polar
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4798.ts
-#EXTINF:-1,FR: CINE--PREMIER-HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4851.ts
-#EXTINF:-1,FR: CINE FAMIZHD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4746.ts
-#EXTINF:-1,FR: CHASSE & PECHE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4800.ts
-#EXTINF:-1,FR: CANAL_FAMILY 2_HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4762.ts
-#EXTINF:-1,FR: CANAL_CINEMA_HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4763.ts
-#EXTINF:-1,FR: CANAL FAMILY HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4774.ts
-#EXTINF:-1,FR: BFM-TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4804.ts
-#EXTINF:-1,FR: BFM TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4750.ts
-#EXTINF:-1,FR: ARTE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4751.ts
-#EXTINF:-1,FR: ANIMAUX HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4856.ts
-#EXTINF:-1,FR: ACTION
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4765.ts
-#EXTINF:-1,FR: AB1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4806.ts
-#EXTINF:-1,FR: A.LA.CARTE.1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4846.ts
-#EXTINF:-1,FR: A.LA.CARTE.2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4843.ts
-#EXTINF:-1,FR: A.LA.CARTE.3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4842.ts
-#EXTINF:-1,FR: A.LA.CARTE.4
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4841.ts
-#EXTINF:-1,FR: A.LA.CARTE.5
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4840.ts
-#EXTINF:-1,FR: 6ter HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4752.ts
-#EXTINF:-1,FR: 6ter
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/4808.ts
-#EXTINF:-1,FR: WEO HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5800.ts
-#EXTINF:-1,FR: TF 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6209.ts
-#EXTINF:-1,FR: FRANCE 1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5793.ts
-#EXTINF:-1,FR: CANAL SPORT
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5794.ts
-#EXTINF:-1,FR: ARTE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5559.ts
-#EXTINF:-1,FR: FRANCE 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8044.ts
-#EXTINF:-1,FR: ENORME TV
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8043.ts
-#EXTINF:-1,FR: NAT GEO WILD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8407.ts
-#EXTINF:-1,FR: DISNEY JUNIOR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8387.ts
-#EXTINF:-1,FR: DISCOVERY
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8389.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8459.ts
-#EXTINF:-1,FR: CANAL SERIE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8393.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8918.ts
-#EXTINF:-1,FR: CINE FX HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8878.ts
-#EXTINF:-1,FR: CINE  FRISSON HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8866.ts
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8867.ts
-#EXTINF:-1,FR: Cherie 25 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8904.ts
-#EXTINF:-1,FR: Chasse et Peche
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8920.ts
-#EXTINF:-1,FR: CANAL J
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8936.ts
-#EXTINF:-1,FR: CANAL  SPORTS HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8864.ts
-#EXTINF:-1,FR: CANAL  DECALE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8862.ts
-#EXTINF:-1,FR: BOOMERANG HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8934.ts
-#EXTINF:-1,FR: BFM
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8922.ts
-#EXTINF:-1,FR: 13EME RUE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8894.ts
-#EXTINF:-1,FR: VOYAGE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8910.ts
-#EXTINF:-1,FR: USHUAIA TV HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8913.ts
-#EXTINF:-1,FR: TIJI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8932.ts
-#EXTINF:-1,FR: TEVA HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8900.ts
-#EXTINF:-1,FR: TELETOON
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8928.ts
-#EXTINF:-1,FR: SYFY HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8899.ts
-#EXTINF:-1,FR: PLANETE CI HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8915.ts
-#EXTINF:-1,FR: PLANETE A&E HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8916.ts
-#EXTINF:-1,FR: PLANETE  +  HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8914.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8880.ts
-#EXTINF:-1,FR: OCS CITY HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8871.ts
-#EXTINF:-1,FR: NT1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8897.ts
-#EXTINF:-1,FR: NATIONAL WILD  HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8912.ts
-#EXTINF:-1,FR: NATIONAL GEO  HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8911.ts
-#EXTINF:-1,FR: ITELE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8921.ts
-#EXTINF:-1,FR: FRANCE 24
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8923.ts
-#EXTINF:-1,FR: FOOT 24
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8947.ts
-#EXTINF:-1,FR: EQUIPE 21 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8885.ts
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8927.ts
-#EXTINF:-1,FR: TV5 MONDE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10433.ts
-#EXTINF:-1,FR: RTL 9
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10432.ts
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10511.ts
-#EXTINF:-1,FR: NATIONAL GEO WILD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10512.ts
-#EXTINF:-1,FR: EURO NEWS
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10514.ts
-#EXTINF:-1,FR: EQUIDIA HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10513.ts
-#EXTINF:-1,FR: CINE CLASSIC
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10517.ts
-#EXTINF:-1,FR: W9 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12641.ts
-#EXTINF:-1,FR: TMC HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12617.ts
-#EXTINF:-1,FR: TF1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12608.ts
-#EXTINF:-1,FR: TELETOON  + HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12640.ts
-#EXTINF:-1,FR: SERIE CLUB HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12642.ts
-#EXTINF:-1,FR: RTL9 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12616.ts
-#EXTINF:-1,FR: PLANET  HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12650.ts
-#EXTINF:-1,FR: PIWI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12623.ts
-#EXTINF:-1,FR: PARIS PREMIERE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12643.ts
-#EXTINF:-1,FR: OCS GEANTS HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12645.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12646.ts
-#EXTINF:-1,FR: NT1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12615.ts
-#EXTINF:-1,FR: NRJ12 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12621.ts
-#EXTINF:-1,FR: M6 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12607.ts
-#EXTINF:-1,FR: ITELE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12624.ts
-#EXTINF:-1,FR: GULLI
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12637.ts
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12629.ts
-#EXTINF:-1,FR: EURO SPORT 1 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12628.ts
-#EXTINF:-1,FR: DISNEY XD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12636.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12635.ts
-#EXTINF:-1,FR: DiSCOVERY SCIENCE SD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12634.ts
-#EXTINF:-1,FR: D8 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12614.ts
-#EXTINF:-1,FR: D17 HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12619.ts
-#EXTINF:-1,FR: COMEDIE   HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12613.ts
-#EXTINF:-1,FR: CINE PREMIER HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12658.ts
-#EXTINF:-1,FR: CHASSE ET PECHE HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12626.ts
-#EXTINF:-1,FR: CARTOON NETWORK HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12633.ts
-#EXTINF:-1,-FR: FRANCE
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20084.ts
-#EXTINF:-1,-FR: TF 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20083.ts
-#EXTINF:-1,FR: CANAL SERIES HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12654.ts
-#EXTINF:-1,FR: CANAL J HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12627.ts
-#EXTINF:-1,FR: CANAL HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12653.ts
-#EXTINF:-1,FR: CANAL CINEMA HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12651.ts
-#EXTINF:-1,FR:  FOOT  HD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12606.ts
-#EXTINF:-1,FR: LA TELE SD
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18491.ts
-#EXTINF:-1,FR: CANAL PLAY 1
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22015.ts
-#EXTINF:-1,FR: CANAL PLAY 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22016.ts
-#EXTINF:-1,FR: CANAL PLAY 3
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22017.ts
-#EXTINF:-1,FR: CANAL PLAY 4
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22018.ts
-#EXTINF:-1,FR: CANAL PLAY 5
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22019.ts
-#EXTINF:-1,FR: CANAL PLAY 6
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22020.ts
-#EXTINF:-1,FR: CSTAR
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/22014.ts
-#EXTINF:-1,FR: SRF SPORT 2
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21914.ts
-#EXTINF:-1,=== FRANÇAIS-VOD ===
-http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15238.ts
+#EXTINF:-1,TF1 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/94.ts
+#EXTINF:-1,France 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/139.ts
+#EXTINF:-1,France 3 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/137.ts
+#EXTINF:-1,France 4 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/136.ts
+#EXTINF:-1,France 5 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/113.ts
+#EXTINF:-1,M6 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/378.ts
+#EXTINF:-1,Arte HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/145.ts
+#EXTINF:-1,C8 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/171.ts
+#EXTINF:-1,W9 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/91.ts
+#EXTINF:-1,TMC HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/93.ts
+#EXTINF:-1,HD1
+http://46.105.115.25:8000/live/28637288237427/1593574628/134.ts
+#EXTINF:-1,NRJ 12 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1647.ts
+#EXTINF:-1,13ème Rue HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/152.ts
+#EXTINF:-1,NT1
+http://46.105.115.25:8000/live/28637288237427/1593574628/127.ts
+#EXTINF:-1,Paris première HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/125.ts
+#EXTINF:-1,6Ter HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/151.ts
+#EXTINF:-1,C STAR HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/157.ts
+#EXTINF:-1,CNEWS HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/132.ts
+#EXTINF:-1,RTL 9 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2343.ts
+#EXTINF:-1,France Ô HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/140.ts
+#EXTINF:-1,L'Equipe 21
+http://46.105.115.25:8000/live/28637288237427/1593574628/143.ts
+#EXTINF:-1,INFOSPORT+
+http://46.105.115.25:8000/live/28637288237427/1593574628/133.ts
+#EXTINF:-1,Numéro 23
+http://46.105.115.25:8000/live/28637288237427/1593574628/2282.ts
+#EXTINF:-1,France 24
+http://46.105.115.25:8000/live/28637288237427/1593574628/138.ts
+#EXTINF:-1,Cherie 25 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/164.ts
+#EXTINF:-1,France info HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3180.ts
+#EXTINF:-1,BFM TV HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/131.ts
+#EXTINF:-1,BFM Business
+http://46.105.115.25:8000/live/28637288237427/1593574628/1720.ts
+#EXTINF:-1,BFM SPORT HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2283.ts
+#EXTINF:-1,SPORT 365 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3179.ts
+#EXTINF:-1,LCI
+http://46.105.115.25:8000/live/28637288237427/1593574628/2286.ts
+#EXTINF:-1,Euronews
+http://46.105.115.25:8000/live/28637288237427/1593574628/2284.ts
+#EXTINF:-1,TV5 Monde
+http://46.105.115.25:8000/live/28637288237427/1593574628/2285.ts
+#EXTINF:-1,LCP
+http://46.105.115.25:8000/live/28637288237427/1593574628/2287.ts
+#EXTINF:-1,TV BREIZH
+http://46.105.115.25:8000/live/28637288237427/1593574628/92.ts
+#EXTINF:-1,Syfy HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/95.ts
+#EXTINF:-1,E ! Entertainment
+http://46.105.115.25:8000/live/28637288237427/1593574628/2856.ts
+#EXTINF:-1,TEVA HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1644.ts
+#EXTINF:-1,Comedie+ HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/158.ts
+#EXTINF:-1,TCM HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1643.ts
+#EXTINF:-1,CANAL+ HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/170.ts
+#EXTINF:-1,Canal+ Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3943.ts
+#EXTINF:-1,CANAL+ DECALE HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/169.ts
+#EXTINF:-1,Canal+ Decalé Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3944.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/166.ts
+#EXTINF:-1,Canal+ Cinema Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3942.ts
+#EXTINF:-1,CANAL+ FAMILY HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/168.ts
+#EXTINF:-1,Canal+ Family Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3939.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/167.ts
+#EXTINF:-1,Canal+ Sport Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3941.ts
+#EXTINF:-1,CANAL+ SERIES HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/122.ts
+#EXTINF:-1,Canal+ Series Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3940.ts
+#EXTINF:-1,Cine+ Premier HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/161.ts
+#EXTINF:-1,Cine+ Famiz HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/159.ts
+#EXTINF:-1,Cine+ Frisson HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/162.ts
+#EXTINF:-1,Ciné+ Émotion HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/163.ts
+#EXTINF:-1,Cine+ Classic HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/121.ts
+#EXTINF:-1,OCS Max HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/109.ts
+#EXTINF:-1,OCS City HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/111.ts
+#EXTINF:-1,OCS Choc HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/112.ts
+#EXTINF:-1,OCS Geant HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/110.ts
+#EXTINF:-1,CINE FX
+http://46.105.115.25:8000/live/28637288237427/1593574628/1617.ts
+#EXTINF:-1,CINE Polar
+http://46.105.115.25:8000/live/28637288237427/1593574628/160.ts
+#EXTINF:-1,Serie Club
+http://46.105.115.25:8000/live/28637288237427/1593574628/1648.ts
+#EXTINF:-1,Action
+http://46.105.115.25:8000/live/28637288237427/1593574628/150.ts
+#EXTINF:-1,Paramount Channel HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/126.ts
+#EXTINF:-1,RMC Découverte HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/98.ts
+#EXTINF:-1,Planete+ HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/609.ts
+#EXTINF:-1,Planète+ C.I. HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/123.ts
+#EXTINF:-1,Planète+ A&E HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/124.ts
+#EXTINF:-1,Crime District
+http://46.105.115.25:8000/live/28637288237427/1593574628/3540.ts
+#EXTINF:-1,National Geographic HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/128.ts
+#EXTINF:-1,NatGeo Wild HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/129.ts
+#EXTINF:-1,Discovery HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/156.ts
+#EXTINF:-1,Discovery Science HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/120.ts
+#EXTINF:-1,Discovery Investigation
+http://46.105.115.25:8000/live/28637288237427/1593574628/5566.ts
+#EXTINF:-1,Science et Vie TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/97.ts
+#EXTINF:-1,Voyage HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/89.ts
+#EXTINF:-1,ANIMAUX
+http://46.105.115.25:8000/live/28637288237427/1593574628/149.ts
+#EXTINF:-1,USHUAIA TV HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/90.ts
+#EXTINF:-1,Trek TV HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1719.ts
+#EXTINF:-1,Histoire HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2848.ts
+#EXTINF:-1,Toute l'Histoire
+http://46.105.115.25:8000/live/28637288237427/1593574628/1645.ts
+#EXTINF:-1,Seasons hd
+http://46.105.115.25:8000/live/28637288237427/1593574628/96.ts
+#EXTINF:-1,Chasse et pêche HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/165.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/377.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/376.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/608.ts
+#EXTINF:-1,SFR SPORT 4K
+http://46.105.115.25:8000/live/28637288237427/1593574628/3471.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1728.ts
+#EXTINF:-1,Eurosport HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/142.ts
+#EXTINF:-1,Eurosport 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/114.ts
+#EXTINF:-1,Foot+ 24/24 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/141.ts
+#EXTINF:-1,GOLF+ HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/135.ts
+#EXTINF:-1,AB Moteurs
+http://46.105.115.25:8000/live/28637288237427/1593574628/1616.ts
+#EXTINF:-1,Equidia Live HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/144.ts
+#EXTINF:-1,Equidia life
+http://46.105.115.25:8000/live/28637288237427/1593574628/2327.ts
+#EXTINF:-1,Elle Girl
+http://46.105.115.25:8000/live/28637288237427/1593574628/2329.ts
+#EXTINF:-1,ENF | TIJI HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/115.ts
+#EXTINF:-1,ENF | PIWI
+http://46.105.115.25:8000/live/28637288237427/1593574628/146.ts
+#EXTINF:-1,ENF | Zouzous
+http://46.105.115.25:8000/live/28637288237427/1593574628/1195.ts
+#EXTINF:-1,ENF | Teletoon+
+http://46.105.115.25:8000/live/28637288237427/1593574628/116.ts
+#EXTINF:-1,ENF | Gulli
+http://46.105.115.25:8000/live/28637288237427/1593574628/117.ts
+#EXTINF:-1,ENF | Boomerang
+http://46.105.115.25:8000/live/28637288237427/1593574628/155.ts
+#EXTINF:-1,ENF | Boing
+http://46.105.115.25:8000/live/28637288237427/1593574628/119.ts
+#EXTINF:-1,ENF | Cartoon Network
+http://46.105.115.25:8000/live/28637288237427/1593574628/1640.ts
+#EXTINF:-1,ENF | NICKELODEON
+http://46.105.115.25:8000/live/28637288237427/1593574628/148.ts
+#EXTINF:-1,ENF | Nickeleodeon Junior
+http://46.105.115.25:8000/live/28637288237427/1593574628/147.ts
+#EXTINF:-1,ENF | Disney Channel HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/154.ts
+#EXTINF:-1,ENF | Disney Channel +1
+http://46.105.115.25:8000/live/28637288237427/1593574628/1721.ts
+#EXTINF:-1,ENF | Disney Cinema HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2732.ts
+#EXTINF:-1,ENF | Disney Cinemagic
+http://46.105.115.25:8000/live/28637288237427/1593574628/2733.ts
+#EXTINF:-1,ENF | Disney Junior HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1646.ts
+#EXTINF:-1,ENF | Disney XD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1725.ts
+#EXTINF:-1,ENF | CANAL J HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1804.ts
+#EXTINF:-1,ENF | MANGA HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/153.ts
+#EXTINF:-1,GAME ONE
+http://46.105.115.25:8000/live/28637288237427/1593574628/1787.ts
+#EXTINF:-1,ENF | J-One
+http://46.105.115.25:8000/live/28637288237427/1593574628/1641.ts
+#EXTINF:-1,AB1
+http://46.105.115.25:8000/live/28637288237427/1593574628/2345.ts
+#EXTINF:-1,No Life
+http://46.105.115.25:8000/live/28637288237427/1593574628/2844.ts
+#EXTINF:-1,MCM HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2325.ts
+#EXTINF:-1,NRJ HITS HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2938.ts
+#EXTINF:-1,Trace urban
+http://46.105.115.25:8000/live/28637288237427/1593574628/3968.ts
+#EXTINF:-1,Ofive
+http://46.105.115.25:8000/live/28637288237427/1593574628/2843.ts
+#EXTINF:-1,M6 Music
+http://46.105.115.25:8000/live/28637288237427/1593574628/130.ts
+#EXTINF:-1,MTV FRANCE HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3181.ts
+#EXTINF:-1,MTV Hits HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1642.ts
+#EXTINF:-1,MTV Base HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1805.ts
+#EXTINF:-1,MTV Dance HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/1806.ts
+#EXTINF:-1,MTV ROCK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3470.ts
+#EXTINF:-1,Clubbing TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/2324.ts
+#EXTINF:-1,BET TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/2347.ts
+#EXTINF:-1,BRAVA HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/2323.ts
+#EXTINF:-1,Virgin TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/2344.ts
+#EXTINF:-1,GONG TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/1615.ts
+#EXTINF:-1,WEO TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/1716.ts
+#EXTINF:-1,PPV-A la Carte1
+http://46.105.115.25:8000/live/28637288237427/1593574628/108.ts
+#EXTINF:-1,PPV-A la Carte2
+http://46.105.115.25:8000/live/28637288237427/1593574628/107.ts
+#EXTINF:-1,PPV-A la Carte3
+http://46.105.115.25:8000/live/28637288237427/1593574628/106.ts
+#EXTINF:-1,PPV-A la Carte4
+http://46.105.115.25:8000/live/28637288237427/1593574628/105.ts
+#EXTINF:-1,PPV-A la Carte5
+http://46.105.115.25:8000/live/28637288237427/1593574628/104.ts
+#EXTINF:-1,PPV-A la Carte6
+http://46.105.115.25:8000/live/28637288237427/1593574628/103.ts
+#EXTINF:-1,PPV-A la Carte7
+http://46.105.115.25:8000/live/28637288237427/1593574628/102.ts
+#EXTINF:-1,PPV-A la Carte8
+http://46.105.115.25:8000/live/28637288237427/1593574628/101.ts
+#EXTINF:-1,PPV-A la Carte9
+http://46.105.115.25:8000/live/28637288237427/1593574628/100.ts
+#EXTINF:-1,PPV-A laCarte 10
+http://46.105.115.25:8000/live/28637288237427/1593574628/99.ts
+#EXTINF:-1,CANAL PLAY 1
+http://46.105.115.25:8000/live/28637288237427/1593574628/1613.ts
+#EXTINF:-1,CANAL PLAY 2
+http://46.105.115.25:8000/live/28637288237427/1593574628/1614.ts
+#EXTINF:-1,CANAL PLAY 3
+http://46.105.115.25:8000/live/28637288237427/1593574628/2193.ts
+#EXTINF:-1,CANAL PLAY 4
+http://46.105.115.25:8000/live/28637288237427/1593574628/2192.ts
+#EXTINF:-1,CANAL PLAY 5
+http://46.105.115.25:8000/live/28637288237427/1593574628/2191.ts
+#EXTINF:-1,CANAL PLAY 6
+http://46.105.115.25:8000/live/28637288237427/1593574628/2190.ts
+#EXTINF:-1,CANAL PLAY 7
+http://46.105.115.25:8000/live/28637288237427/1593574628/2189.ts
+#EXTINF:-1,CANAL PLAY 8
+http://46.105.115.25:8000/live/28637288237427/1593574628/2188.ts
+#EXTINF:-1,CANAL PLAY 9
+http://46.105.115.25:8000/live/28637288237427/1593574628/2187.ts
+#EXTINF:-1,CANAL PLAY 10
+http://46.105.115.25:8000/live/28637288237427/1593574628/2200.ts
+#EXTINF:-1,CANAL PLAY 11
+http://46.105.115.25:8000/live/28637288237427/1593574628/2199.ts
+#EXTINF:-1,CANAL PLAY 12
+http://46.105.115.25:8000/live/28637288237427/1593574628/2198.ts
+#EXTINF:-1,CANAL PLAY 13
+http://46.105.115.25:8000/live/28637288237427/1593574628/2197.ts
+#EXTINF:-1,CANAL PLAY 14
+http://46.105.115.25:8000/live/28637288237427/1593574628/2196.ts
+#EXTINF:-1,PPV OCS GO CINE +2
+http://46.105.115.25:8000/live/28637288237427/1593574628/2335.ts
+#EXTINF:-1,PPV OCS GO CINE +6
+http://46.105.115.25:8000/live/28637288237427/1593574628/2339.ts
+#EXTINF:-1,PPV OCS GO CINE +8
+http://46.105.115.25:8000/live/28637288237427/1593574628/2341.ts
+#EXTINF:-1,Mirabelle TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/2342.ts
+#EXTINF:-1,Tébéo TV Bretagne
+http://46.105.115.25:8000/live/28637288237427/1593574628/3537.ts
+#EXTINF:-1,TV7 Bordeaux
+http://46.105.115.25:8000/live/28637288237427/1593574628/3546.ts
+#EXTINF:-1,Grand Lille
+http://46.105.115.25:8000/live/28637288237427/1593574628/3535.ts
+#EXTINF:-1,La chaine normande
+http://46.105.115.25:8000/live/28637288237427/1593574628/3542.ts
+#EXTINF:-1,Alsace 20
+http://46.105.115.25:8000/live/28637288237427/1593574628/3543.ts
+#EXTINF:-1,Vosges Télévision
+http://46.105.115.25:8000/live/28637288237427/1593574628/3547.ts
+#EXTINF:-1,ILTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3544.ts
+#EXTINF:-1,FR | Bein Sport 1 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/589.ts
+#EXTINF:-1,FR | Bein Sport 1 Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3969.ts
+#EXTINF:-1,FR | Bein Sport 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/590.ts
+#EXTINF:-1,FR | Bein Sport 2 Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3970.ts
+#EXTINF:-1,FR | Bein Sport 3 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/591.ts
+#EXTINF:-1,FR | Bein Sport 3 Low
+http://46.105.115.25:8000/live/28637288237427/1593574628/3971.ts

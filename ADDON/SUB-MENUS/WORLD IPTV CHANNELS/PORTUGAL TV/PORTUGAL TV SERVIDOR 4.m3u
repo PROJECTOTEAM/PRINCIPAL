@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -10,148 +10,171 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-  
-  
-  #EXTINF:-1,PT:RTP 1
-http://51.254.47.234:8000/live/furkan1/furkan1/299.ts
-#EXTINF:-1,PT:RTP 2
-http://51.254.47.234:8000/live/furkan1/furkan1/297.ts
-#EXTINF:-1,PT:RTP 3
-http://51.254.47.234:8000/live/furkan1/furkan1/296.ts
-#EXTINF:-1,PT:RTP Africa
-http://51.254.47.234:8000/live/furkan1/furkan1/294.ts
-#EXTINF:-1,PT:RTP Madeira
-http://51.254.47.234:8000/live/furkan1/furkan1/293.ts
-#EXTINF:-1,PT:RTP Acores
-http://51.254.47.234:8000/live/furkan1/furkan1/295.ts
-#EXTINF:-1,PT:RTP Memoria
-http://51.254.47.234:8000/live/furkan1/furkan1/292.ts
-#EXTINF:-1,PT:TVI
-http://51.254.47.234:8000/live/furkan1/furkan1/286.ts
-#EXTINF:-1,PT:TVI 24
-http://51.254.47.234:8000/live/furkan1/furkan1/285.ts
-#EXTINF:-1,PT:TVI Ficcao
-http://51.254.47.234:8000/live/furkan1/furkan1/947.ts
-#EXTINF:-1,PT:TVI Reality
-http://51.254.47.234:8000/live/furkan1/furkan1/930.ts
-#EXTINF:-1,PT:SIC
-http://51.254.47.234:8000/live/furkan1/furkan1/924.ts
-#EXTINF:-1,PT:SIC Caras
-http://51.254.47.234:8000/live/furkan1/furkan1/928.ts
-#EXTINF:-1,PT:SIC Mulher
-http://51.254.47.234:8000/live/furkan1/furkan1/923.ts
-#EXTINF:-1,PT:SIC Radical
-http://51.254.47.234:8000/live/furkan1/furkan1/290.ts
-#EXTINF:-1,PT:SIC Noticias
-http://51.254.47.234:8000/live/furkan1/furkan1/280.ts
-#EXTINF:-1,PT:SIC Kids
-http://51.254.47.234:8000/live/furkan1/furkan1/927.ts
-#EXTINF:-1,PT:Panda
-http://51.254.47.234:8000/live/furkan1/furkan1/289.ts
-#EXTINF:-1,PT:Odisseia
-http://51.254.47.234:8000/live/furkan1/furkan1/284.ts
-#EXTINF:-1,PT:24Kitchen
-http://51.254.47.234:8000/live/furkan1/furkan1/948.ts
-#EXTINF:-1,PT:Abola TV
-http://51.254.47.234:8000/live/furkan1/furkan1/960.ts
-#EXTINF:-1,PT:Euronews
-http://51.254.47.234:8000/live/furkan1/furkan1/934.ts
-#EXTINF:-1,PT:Canal Porto
-http://51.254.47.234:8000/live/furkan1/furkan1/959.ts
-#EXTINF:-1,PT:Cinemundo
-http://51.254.47.234:8000/live/furkan1/furkan1/944.ts
-#EXTINF:-1,PT:CMTV
-http://51.254.47.234:8000/live/furkan1/furkan1/929.ts
-#EXTINF:-1,PT:Fox
-http://51.254.47.234:8000/live/furkan1/furkan1/955.ts
-#EXTINF:-1,PT:Fox Comedy
-http://51.254.47.234:8000/live/furkan1/furkan1/957.ts
-#EXTINF:-1,PT:Fox Crime
-http://51.254.47.234:8000/live/furkan1/furkan1/933.ts
-#EXTINF:-1,PT:Fox Life
-http://51.254.47.234:8000/live/furkan1/furkan1/956.ts
-#EXTINF:-1,PT:Fox Movie
-http://51.254.47.234:8000/live/furkan1/furkan1/932.ts
-#EXTINF:-1,PT:MOV
-http://51.254.47.234:8000/live/furkan1/furkan1/940.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT:SPORT_TV_5
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1927.ts
+#EXTINF:-1,PT:SPORT_TV_4
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1926.ts
+#EXTINF:-1,PT:SPORT_TV_3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1925.ts
+#EXTINF:-1,PT:SPORT_TV_2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1924.ts
+#EXTINF:-1,PT:SPORT_TV_1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1923.ts
+#EXTINF:-1,PT:REDE_TV2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1944.ts
+#EXTINF:-1,PT:REDE_GOSPEL
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1945.ts
+#EXTINF:-1,PT:PFC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1956.ts
+#EXTINF:-1,PT:PANDA_BIGGS
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1955.ts
+#EXTINF:-1,PT:NATIONAL_GEO
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1929.ts
 #EXTINF:-1,PT:MTV
-http://51.254.47.234:8000/live/furkan1/furkan1/925.ts
-#EXTINF:-1,PT:Cartoon Network
-http://51.254.47.234:8000/live/furkan1/furkan1/937.ts
-#EXTINF:-1,PT:Disney Channel
-http://51.254.47.234:8000/live/furkan1/furkan1/958.ts
-#EXTINF:-1,PT:Disney Junior
-http://51.254.47.234:8000/live/furkan1/furkan1/935.ts
-#EXTINF:-1,PT:Nat Geo
-http://51.254.47.234:8000/live/furkan1/furkan1/954.ts
-#EXTINF:-1,PT:Nat Geo Wild
-http://51.254.47.234:8000/live/furkan1/furkan1/945.ts
-#EXTINF:-1,PT:Discovery
-http://51.254.47.234:8000/live/furkan1/furkan1/936.ts
-#EXTINF:-1,PT:Discovery Showcase
-http://51.254.47.234:8000/live/furkan1/furkan1/961.ts
-#EXTINF:-1,PT:Historia
-http://51.254.47.234:8000/live/furkan1/furkan1/931.ts
-#EXTINF:-1,PT:Nickelodeon
-http://51.254.47.234:8000/live/furkan1/furkan1/953.ts
-#EXTINF:-1,PT:TV Globo
-http://51.254.47.234:8000/live/furkan1/furkan1/951.ts
-#EXTINF:-1,PT:TV Globo Premium
-http://51.254.47.234:8000/live/furkan1/furkan1/950.ts
-#EXTINF:-1,PT:TV Record
-http://51.254.47.234:8000/live/furkan1/furkan1/949.ts
-#EXTINF:-1,PT:TV Series
-http://51.254.47.234:8000/live/furkan1/furkan1/939.ts
-#EXTINF:-1,PT:TVC 1
-http://51.254.47.234:8000/live/furkan1/furkan1/291.ts
-#EXTINF:-1,PT:TVC 2
-http://51.254.47.234:8000/live/furkan1/furkan1/279.ts
-#EXTINF:-1,PT:TVC 3
-http://51.254.47.234:8000/live/furkan1/furkan1/288.ts
-#EXTINF:-1,PT:AXN HD
-http://51.254.47.234:8000/live/furkan1/furkan1/282.ts
-#EXTINF:-1,PT:AXN Black
-http://51.254.47.234:8000/live/furkan1/furkan1/281.ts
-#EXTINF:-1,PT:AXN White
-http://51.254.47.234:8000/live/furkan1/furkan1/938.ts
-#EXTINF:-1,PT:Toros TV
-http://51.254.47.234:8000/live/furkan1/furkan1/952.ts
-#EXTINF:-1,PT:BTV 1
-http://51.254.47.234:8000/live/furkan1/furkan1/283.ts
-#EXTINF:-1,PT:BTV 2
-http://51.254.47.234:8000/live/furkan1/furkan1/287.ts
-#EXTINF:-1,PT:Eurosport 1
-http://51.254.47.234:8000/live/furkan1/furkan1/942.ts
-#EXTINF:-1,PT:Eurosport 2
-http://51.254.47.234:8000/live/furkan1/furkan1/943.ts
-#EXTINF:-1,PT:Sport TV1
-http://51.254.47.234:8000/live/furkan1/furkan1/278.ts
-#EXTINF:-1,PT:Sport TV2
-http://51.254.47.234:8000/live/furkan1/furkan1/277.ts
-#EXTINF:-1,PT:Sport TV3
-http://51.254.47.234:8000/live/furkan1/furkan1/276.ts
-#EXTINF:-1,PT:Sport TV4
-http://51.254.47.234:8000/live/furkan1/furkan1/926.ts
-#EXTINF:-1,PT:Sport TV5
-http://51.254.47.234:8000/live/furkan1/furkan1/946.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1930.ts
+#EXTINF:-1,PT:Motorvision
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1954.ts
+#EXTINF:-1,PT:JIM_JAM
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1953.ts
+#EXTINF:-1,PT:Fuel_TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1932.ts
+#EXTINF:-1,PT:Extra_TV_Canal_42
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1947.ts
+#EXTINF:-1,PT:EUROSPORT_NEWS
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1952.ts
+#EXTINF:-1,PT:El_Trece
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1948.ts
+#EXTINF:-1,PT:Colosal_TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1949.ts
+#EXTINF:-1,PT:Cartoon
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1934.ts
+#EXTINF:-1,PT:Canal Sports
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1957.ts
+#EXTINF:-1,PT:BENFICA_TV_2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1936.ts
+#EXTINF:-1,PT:BENFICA_TV_1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1935.ts
+#EXTINF:-1,PT:Afro Music
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1938.ts
+#EXTINF:-1,PT:24KITCHEN_HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1937.ts
+#EXTINF:-1,PT: TVI REALITY
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1868.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1880.ts
+#EXTINF:-1,PT: TVI 24
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1867.ts
+#EXTINF:-1,PT: TVI
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1869.ts
+#EXTINF:-1,PT: TVCine 5
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1881.ts
+#EXTINF:-1,PT: TVCine 3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1883.ts
+#EXTINF:-1,PT: TVCine 2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1884.ts
+#EXTINF:-1,PT: TVCine 1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1885.ts
+#EXTINF:-1,PT: TV SERIES
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1870.ts
+#EXTINF:-1,PT: TV RECORD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1871.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1872.ts
+#EXTINF:-1,PT: TV Globo
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1873.ts
+#EXTINF:-1,PT: TV CINE 4
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1882.ts
+#EXTINF:-1,PT: Toros tv
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1864.ts
+#EXTINF:-1,PT: TLC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1899.ts
+#EXTINF:-1,PT: SYFY
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1874.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1865.ts
+#EXTINF:-1,PT: Sic Radical
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1890.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1886.ts
+#EXTINF:-1,PT: Sic Mulher
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1887.ts
+#EXTINF:-1,PT: SIC KIDS
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1888.ts
+#EXTINF:-1,PT: SIC Caras
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1866.ts
+#EXTINF:-1,PT: SIC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1889.ts
+#EXTINF:-1,PT: RTP3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1894.ts
+#EXTINF:-1,PT: RTP Memoria
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1891.ts
+#EXTINF:-1,PT: RTP Madeira
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1892.ts
+#EXTINF:-1,PT: RTP 2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1895.ts
+#EXTINF:-1,PT: RTP 1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1896.ts
+#EXTINF:-1,PT: Record
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1897.ts
+#EXTINF:-1,PT: ODISSEIA
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1900.ts
+#EXTINF:-1,PT: NICKELODEON
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1901.ts
+#EXTINF:-1,PT: NAT GEO HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1902.ts
+#EXTINF:-1,PT: Motors TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1898.ts
+#EXTINF:-1,PT: Hollywood
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1875.ts
+#EXTINF:-1,PT: HISTORIA HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1903.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1909.ts
+#EXTINF:-1,PT: FOX LIFE
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1910.ts
+#EXTINF:-1,PT: FOX HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1912.ts
+#EXTINF:-1,PT: Fox Crime
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1908.ts
+#EXTINF:-1,PT: Fox Comedy
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1911.ts
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1904.ts
+#EXTINF:-1,PT: Disney Junior
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1906.ts
+#EXTINF:-1,PT: Disney Channel
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1876.ts
+#EXTINF:-1,PT: Discovery HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1907.ts
+#EXTINF:-1,PT: CM TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1877.ts
+#EXTINF:-1,PT: Canal Porto
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1905.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1878.ts
+#EXTINF:-1,PT: AXN WHITE
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1913.ts
+#EXTINF:-1,PT: AXN HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1915.ts
+#EXTINF:-1,PT: AXN BLACK
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1914.ts
+#EXTINF:-1,PT: Abola tv
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1916.ts
+#EXTINF:-1,PT: A BOLA TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1879.ts
 
 
 

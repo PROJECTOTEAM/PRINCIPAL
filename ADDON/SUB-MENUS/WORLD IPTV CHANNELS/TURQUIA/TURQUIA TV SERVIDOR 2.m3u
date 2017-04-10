@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,350 +11,465 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,TR: Yumurcak TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4555.ts
+#EXTINF:-1,TR: Yesilcam
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4556.ts
+#EXTINF:-1,TR: Yaban TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4557.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4542.ts
+#EXTINF:-1,TR: Ulke TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4538.ts
+#EXTINF:-1,TR: TV8 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4532.ts
+#EXTINF:-1,TR: TV2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4558.ts
+#EXTINF:-1,TR: TV Kayseri
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4559.ts
+#EXTINF:-1,TR: TV 5
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4560.ts
+#EXTINF:-1,TR: TRT Turk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4545.ts
+#EXTINF:-1,TR: TRT Spor HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4546.ts
+#EXTINF:-1,TR: TRT Okul
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4547.ts
+#EXTINF:-1,TR: TRT Muzik
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4548.ts
+#EXTINF:-1,TR: TRT Haber HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4544.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4549.ts
+#EXTINF:-1,TR: TRT Çocuk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4550.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4551.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4526.ts
+#EXTINF:-1,TR: TLC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4561.ts
+#EXTINF:-1,TR: TJK TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4562.ts
+#EXTINF:-1,TR: TGRT HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4563.ts
+#EXTINF:-1,TR: TGRT Haber HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4540.ts
+#EXTINF:-1,TR: Star TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4529.ts
+#EXTINF:-1,TR: Sports TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4564.ts
+#EXTINF:-1,TR: Show TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4530.ts
+#EXTINF:-1,TR: Seymen TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4565.ts
+#EXTINF:-1,TR: Semerkand TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4566.ts
+#EXTINF:-1,TR: Salon 3 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4604.ts
+#EXTINF:-1,TR: Salon 2 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4603.ts
+#EXTINF:-1,TR: Salon 1 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4602.ts
+#EXTINF:-1,TR: Power Turk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4591.ts
+#EXTINF:-1,TR: Planet Turk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4592.ts
+#EXTINF:-1,TR: Planet Pembe
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4593.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4594.ts
+#EXTINF:-1,TR: Planet cocuk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4572.ts
+#EXTINF:-1,TR: Number One TR
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4567.ts
+#EXTINF:-1,TR: NTV Spor HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4568.ts
+#EXTINF:-1,TR: NTV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4534.ts
+#EXTINF:-1,TR: Moviemax Stars
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4596.ts
+#EXTINF:-1,TR: Moviemax Premiere
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4595.ts
+#EXTINF:-1,TR: Moviemax Festival
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4597.ts
+#EXTINF:-1,TR: Moviemax Family
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4598.ts
+#EXTINF:-1,TR: Minika Go
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4570.ts
+#EXTINF:-1,TR: Minika Cocuk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4571.ts
+#EXTINF:-1,TR: Mekke TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4576.ts
+#EXTINF:-1,TR: Loca 3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4601.ts
+#EXTINF:-1,TR: Loca 2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4600.ts
+#EXTINF:-1,TR: Loca 1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4599.ts
+#EXTINF:-1,TR: Kral TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4577.ts
+#EXTINF:-1,TR: Kral Pop
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4578.ts
+#EXTINF:-1,TR: Kanal D HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4528.ts
+#EXTINF:-1,TR: Kanal B
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4579.ts
+#EXTINF:-1,TR: Kanal A
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4580.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4541.ts
+#EXTINF:-1,TR: Halk TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4543.ts
+#EXTINF:-1,TR: HaberTurk HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4537.ts
+#EXTINF:-1,TR: GS TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4582.ts
+#EXTINF:-1,TR: Fox TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4531.ts
+#EXTINF:-1,TR: Flash TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4553.ts
+#EXTINF:-1,TR: Fil TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4581.ts
+#EXTINF:-1,TR: FB TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4583.ts
+#EXTINF:-1,TR: Ege TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4584.ts
+#EXTINF:-1,TR: Dream TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4585.ts
+#EXTINF:-1,TR: Dream Turk
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4586.ts
+#EXTINF:-1,TR: Disney Junior
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4575.ts
+#EXTINF:-1,TR: Disney Channel
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4573.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4536.ts
+#EXTINF:-1,TR: Ciftci TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4587.ts
+#EXTINF:-1,TR: Cem TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4554.ts
+#EXTINF:-1,TR: Cay TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4588.ts
+#EXTINF:-1,TR: Cartoon Network
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4574.ts
+#EXTINF:-1,TR: BS TV
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4589.ts
+#EXTINF:-1,TR: Bloomberg HT
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4590.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4533.ts
+#EXTINF:-1,TR: ATV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4527.ts
+#EXTINF:-1,TR: A Spor HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4569.ts
+#EXTINF:-1,TR: A Haber HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4535.ts
+#EXTINF:-1,TR: 360
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4552.ts
+#EXTINF:-1,TR: 24 TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4539.ts
 
 
 
 
-
-
-
-
-
-#EXTINF:-1,TR:ATV
-http://51.254.47.234:8000/live/furkan1/furkan1/1.ts
-#EXTINF:-1,TR:ATV HD
-http://51.254.47.234:8000/live/furkan1/furkan1/597.ts
-#EXTINF:-1,TR:Kanal D
-http://51.254.47.234:8000/live/furkan1/furkan1/2.ts
-#EXTINF:-1,TR:Kanal D HD
-http://51.254.47.234:8000/live/furkan1/furkan1/598.ts
-#EXTINF:-1,TR:Show TV
-http://51.254.47.234:8000/live/furkan1/furkan1/3.ts
-#EXTINF:-1,TR:Show TV HD
-http://51.254.47.234:8000/live/furkan1/furkan1/599.ts
-#EXTINF:-1,TR:Star TV
-http://51.254.47.234:8000/live/furkan1/furkan1/4.ts
-#EXTINF:-1,TR:Star TV HD
-http://51.254.47.234:8000/live/furkan1/furkan1/600.ts
-#EXTINF:-1,TR:Fox TV
-http://51.254.47.234:8000/live/furkan1/furkan1/5.ts
-#EXTINF:-1,TR:Fox TV HD
-http://51.254.47.234:8000/live/furkan1/furkan1/601.ts
-#EXTINF:-1,TR:TV8
-http://51.254.47.234:8000/live/furkan1/furkan1/6.ts
-#EXTINF:-1,TR:TV8 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/602.ts
-#EXTINF:-1,TR:TV8.5
-http://51.254.47.234:8000/live/furkan1/furkan1/880.ts
-#EXTINF:-1,TR:Kanal 7
-http://51.254.47.234:8000/live/furkan1/furkan1/8.ts
-#EXTINF:-1,TR:Kanal 7 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/603.ts
-#EXTINF:-1,TR:A Haber
-http://51.254.47.234:8000/live/furkan1/furkan1/18.ts
-#EXTINF:-1,TR:A Haber HD
-http://51.254.47.234:8000/live/furkan1/furkan1/651.ts
-#EXTINF:-1,TR:HaberTurk
-http://51.254.47.234:8000/live/furkan1/furkan1/17.ts
-#EXTINF:-1,TR:NTV
-http://51.254.47.234:8000/live/furkan1/furkan1/14.ts
-#EXTINF:-1,TR:CNN Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/15.ts
-#EXTINF:-1,TR:24 TV
-http://51.254.47.234:8000/live/furkan1/furkan1/16.ts
-#EXTINF:-1,TR:Ulke TV
-http://51.254.47.234:8000/live/furkan1/furkan1/327.ts
-#EXTINF:-1,TR:Beyaz TV
-http://51.254.47.234:8000/live/furkan1/furkan1/12.ts
-#EXTINF:-1,TR:Kanal A
-http://51.254.47.234:8000/live/furkan1/furkan1/13.ts
-#EXTINF:-1,TR:TGRT
-http://51.254.47.234:8000/live/furkan1/furkan1/10.ts
-#EXTINF:-1,TR:TGRT Haber
-http://51.254.47.234:8000/live/furkan1/furkan1/452.ts
-#EXTINF:-1,TR:360
-http://51.254.47.234:8000/live/furkan1/furkan1/479.ts
-#EXTINF:-1,TR:Kanal Avrupa
-http://51.254.47.234:8000/live/furkan1/furkan1/11.ts
-#EXTINF:-1,TR:TRT1
-http://51.254.47.234:8000/live/furkan1/furkan1/21.ts
-#EXTINF:-1,TR:TRT1 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/652.ts
-#EXTINF:-1,TR:TRT Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/22.ts
-#EXTINF:-1,TR:TRT Haber
-http://51.254.47.234:8000/live/furkan1/furkan1/19.ts
-#EXTINF:-1,TR:Bloomberg HT
-http://51.254.47.234:8000/live/furkan1/furkan1/478.ts
-#EXTINF:-1,TR:Kanal B
-http://51.254.47.234:8000/live/furkan1/furkan1/491.ts
-#EXTINF:-1,TR:Halk TV
-http://51.254.47.234:8000/live/furkan1/furkan1/879.ts
-#EXTINF:-1,TR:Ulusal Kanal
-http://51.254.47.234:8000/live/furkan1/furkan1/492.ts
-#EXTINF:-1,TR:TLC
-http://51.254.47.234:8000/live/furkan1/furkan1/467.ts
-#EXTINF:-1,TR:FiL TV
-http://51.254.47.234:8000/live/furkan1/furkan1/468.ts
-#EXTINF:-1,TR:Show Max
-http://51.254.47.234:8000/live/furkan1/furkan1/920.ts
-#EXTINF:-1,TR:TV2
-http://51.254.47.234:8000/live/furkan1/furkan1/7.ts
-#EXTINF:-1,TR:E2
-http://51.254.47.234:8000/live/furkan1/furkan1/490.ts
-#EXTINF:-1,TR:A2
-http://51.254.47.234:8000/live/furkan1/furkan1/902.ts
-#EXTINF:-1,TR:teve2
-http://51.254.47.234:8000/live/furkan1/furkan1/903.ts
-#EXTINF:-1,TR:Planet Pembe
-http://51.254.47.234:8000/live/furkan1/furkan1/512.ts
-#EXTINF:-1,TR:Planet Mutfak
-http://51.254.47.234:8000/live/furkan1/furkan1/513.ts
-#EXTINF:-1,TR:Flash TV
-http://51.254.47.234:8000/live/furkan1/furkan1/511.ts
-#EXTINF:-1,TR:Ege TV
-http://51.254.47.234:8000/live/furkan1/furkan1/515.ts
-#EXTINF:-1,TR:TV Kayseri
-http://51.254.47.234:8000/live/furkan1/furkan1/447.ts
-#EXTINF:-1,TR:Kon TV
-http://51.254.47.234:8000/live/furkan1/furkan1/446.ts
-#EXTINF:-1,TR:Adana Koza TV
-http://51.254.47.234:8000/live/furkan1/furkan1/458.ts
-#EXTINF:-1,TR:Karadeniz TV
-http://51.254.47.234:8000/live/furkan1/furkan1/456.ts
-#EXTINF:-1,TR:DRT Denizli
-http://51.254.47.234:8000/live/furkan1/furkan1/457.ts
-#EXTINF:-1,TR:Mavi Karadeniz
-http://51.254.47.234:8000/live/furkan1/furkan1/496.ts
-#EXTINF:-1,TR:Kackar TV
-http://51.254.47.234:8000/live/furkan1/furkan1/498.ts
-#EXTINF:-1,TR:Cay TV
-http://51.254.47.234:8000/live/furkan1/furkan1/499.ts
-#EXTINF:-1,TR:Cem TV
-http://51.254.47.234:8000/live/furkan1/furkan1/500.ts
-#EXTINF:-1,TR:Kanal Urfa
-http://51.254.47.234:8000/live/furkan1/furkan1/514.ts
-#EXTINF:-1,TR:Ciftci TV
-http://51.254.47.234:8000/live/furkan1/furkan1/454.ts
-#EXTINF:-1,TR:Kanal 26
-http://51.254.47.234:8000/live/furkan1/furkan1/451.ts
-#EXTINF:-1,TR:Kanal 28
-http://51.254.47.234:8000/live/furkan1/furkan1/450.ts
-#EXTINF:-1,TR:Kanal 32
-http://51.254.47.234:8000/live/furkan1/furkan1/449.ts
-#EXTINF:-1,TR:Kanal 52
-http://51.254.47.234:8000/live/furkan1/furkan1/501.ts
-#EXTINF:-1,TR:Kanal 58
-http://51.254.47.234:8000/live/furkan1/furkan1/453.ts
-#EXTINF:-1,TR:Kanal 68
-http://51.254.47.234:8000/live/furkan1/furkan1/448.ts
-#EXTINF:-1,TR:TRT Diyanet
-http://51.254.47.234:8000/live/furkan1/furkan1/466.ts
-#EXTINF:-1,TR:Semerkand TV
-http://51.254.47.234:8000/live/furkan1/furkan1/460.ts
-#EXTINF:-1,TR:TV 5
-http://51.254.47.234:8000/live/furkan1/furkan1/463.ts
-#EXTINF:-1,TR:Dost TV
-http://51.254.47.234:8000/live/furkan1/furkan1/459.ts
-#EXTINF:-1,TR:Hilal TV
-http://51.254.47.234:8000/live/furkan1/furkan1/464.ts
-#EXTINF:-1,TR:Akit TV
-http://51.254.47.234:8000/live/furkan1/furkan1/461.ts
-#EXTINF:-1,TR:Mekke TV
-http://51.254.47.234:8000/live/furkan1/furkan1/465.ts
-#EXTINF:-1,TR:Baby TV
-http://51.254.47.234:8000/live/furkan1/furkan1/480.ts
-#EXTINF:-1,TR:Baby First
-http://51.254.47.234:8000/live/furkan1/furkan1/481.ts
-#EXTINF:-1,TR:Minika Go
-http://51.254.47.234:8000/live/furkan1/furkan1/484.ts
-#EXTINF:-1,TR:Minika Cocuk
-http://51.254.47.234:8000/live/furkan1/furkan1/482.ts
-#EXTINF:-1,TR:Disney Junior
-http://51.254.47.234:8000/live/furkan1/furkan1/486.ts
-#EXTINF:-1,TR:Disney Channel
-http://51.254.47.234:8000/live/furkan1/furkan1/516.ts
-#EXTINF:-1,TR:Nickelodeon
-http://51.254.47.234:8000/live/furkan1/furkan1/483.ts
-#EXTINF:-1,TR:Cartoon Network
-http://51.254.47.234:8000/live/furkan1/furkan1/55.ts
-#EXTINF:-1,TR:Planet cocuk
-http://51.254.47.234:8000/live/furkan1/furkan1/57.ts
-#EXTINF:-1,TR:TRT Okul
-http://51.254.47.234:8000/live/furkan1/furkan1/487.ts
-#EXTINF:-1,TR:TRT cocuk
-http://51.254.47.234:8000/live/furkan1/furkan1/58.ts
-#EXTINF:-1,TR:Yumurcak TV
-http://51.254.47.234:8000/live/furkan1/furkan1/56.ts
-#EXTINF:-1,TR:Yaban TV
-http://51.254.47.234:8000/live/furkan1/furkan1/455.ts
-#EXTINF:-1,TR:Nat Geo
-http://51.254.47.234:8000/live/furkan1/furkan1/49.ts
-#EXTINF:-1,TR:Nat Geo Wild
-http://51.254.47.234:8000/live/furkan1/furkan1/50.ts
-#EXTINF:-1,TR:Nat Geo People
-http://51.254.47.234:8000/live/furkan1/furkan1/742.ts
-#EXTINF:-1,TR:Animal Planet
-http://51.254.47.234:8000/live/furkan1/furkan1/54.ts
-#EXTINF:-1,TR:History
-http://51.254.47.234:8000/live/furkan1/furkan1/51.ts
-#EXTINF:-1,TR:Discovery Channel
-http://51.254.47.234:8000/live/furkan1/furkan1/52.ts
-#EXTINF:-1,TR:Discovery Science
-http://51.254.47.234:8000/live/furkan1/furkan1/53.ts
-#EXTINF:-1,TR:Discovery Showcase
-http://51.254.47.234:8000/live/furkan1/furkan1/440.ts
-#EXTINF:-1,TR:Viasat Explorer
-http://51.254.47.234:8000/live/furkan1/furkan1/759.ts
-#EXTINF:-1,TR:Da Vinci Learning
-http://51.254.47.234:8000/live/furkan1/furkan1/743.ts
-#EXTINF:-1,TR:Investigation Discovery
-http://51.254.47.234:8000/live/furkan1/furkan1/745.ts
-#EXTINF:-1,TR:World Travel Channel
-http://51.254.47.234:8000/live/furkan1/furkan1/744.ts
-#EXTINF:-1,TR:IZ TV
-http://51.254.47.234:8000/live/furkan1/furkan1/755.ts
-#EXTINF:-1,TR:Turkmax Gurme
-http://51.254.47.234:8000/live/furkan1/furkan1/756.ts
-#EXTINF:-1,TR:TRT Belgesel
-http://51.254.47.234:8000/live/furkan1/furkan1/517.ts
-#EXTINF:-1,TR:Kral TV
-http://51.254.47.234:8000/live/furkan1/furkan1/60.ts
-#EXTINF:-1,TR:Kral Pop
-http://51.254.47.234:8000/live/furkan1/furkan1/497.ts
-#EXTINF:-1,TR:Power Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/61.ts
-#EXTINF:-1,TR:Dream Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/63.ts
-#EXTINF:-1,TR:Number One TR
-http://51.254.47.234:8000/live/furkan1/furkan1/489.ts
-#EXTINF:-1,TR:TRT Muzik
-http://51.254.47.234:8000/live/furkan1/furkan1/59.ts
-#EXTINF:-1,TR:Seymen TV
-http://51.254.47.234:8000/live/furkan1/furkan1/495.ts
-#EXTINF:-1,TR:Vizyon Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/494.ts
-#EXTINF:-1,TR:Yurdum TV
-http://51.254.47.234:8000/live/furkan1/furkan1/493.ts
-#EXTINF:-1,TR:Dream TV
-http://51.254.47.234:8000/live/furkan1/furkan1/62.ts
-#EXTINF:-1,TR:Bein Box Office 1
-http://51.254.47.234:8000/live/furkan1/furkan1/35.ts
-#EXTINF:-1,TR:Bein Box Office 2
-http://51.254.47.234:8000/live/furkan1/furkan1/36.ts
-#EXTINF:-1,TR:Bein Box Office 3
-http://51.254.47.234:8000/live/furkan1/furkan1/37.ts
-#EXTINF:-1,TR:Salon 1 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/43.ts
-#EXTINF:-1,TR:Salon 2 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/45.ts
-#EXTINF:-1,TR:Salon 3 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/48.ts
-#EXTINF:-1,TR:Loca 1
-http://51.254.47.234:8000/live/furkan1/furkan1/441.ts
-#EXTINF:-1,TR:Loca 2
-http://51.254.47.234:8000/live/furkan1/furkan1/442.ts
-#EXTINF:-1,TR:Loca 3
-http://51.254.47.234:8000/live/furkan1/furkan1/443.ts
-#EXTINF:-1,TR:Cinebox 1
-http://51.254.47.234:8000/live/furkan1/furkan1/502.ts
-#EXTINF:-1,TR:Cinebox 2
-http://51.254.47.234:8000/live/furkan1/furkan1/503.ts
-#EXTINF:-1,TR:Cinebox 3
-http://51.254.47.234:8000/live/furkan1/furkan1/504.ts
-#EXTINF:-1,TR:Cinebox 4
-http://51.254.47.234:8000/live/furkan1/furkan1/505.ts
-#EXTINF:-1,TR:Cinebox 5
-http://51.254.47.234:8000/live/furkan1/furkan1/506.ts
-#EXTINF:-1,TR:Cinebox 6
-http://51.254.47.234:8000/live/furkan1/furkan1/507.ts
-#EXTINF:-1,TR:Cinebox 7
-http://51.254.47.234:8000/live/furkan1/furkan1/508.ts
-#EXTINF:-1,TR:Cinebox TR
-http://51.254.47.234:8000/live/furkan1/furkan1/510.ts
-#EXTINF:-1,TR:Bein Movies Family
-http://51.254.47.234:8000/live/furkan1/furkan1/39.ts
-#EXTINF:-1,TR:Bein Movies Festival
-http://51.254.47.234:8000/live/furkan1/furkan1/40.ts
-#EXTINF:-1,TR:Bein Movies Premier
-http://51.254.47.234:8000/live/furkan1/furkan1/38.ts
-#EXTINF:-1,TR:MMX Premiere 2
-http://51.254.47.234:8000/live/furkan1/furkan1/444.ts
-#EXTINF:-1,TR:Bein Movies Stars
-http://51.254.47.234:8000/live/furkan1/furkan1/41.ts
-#EXTINF:-1,TR:Moviesmart Premium
-http://51.254.47.234:8000/live/furkan1/furkan1/887.ts
-#EXTINF:-1,TR:Moviesmart Festival
-http://51.254.47.234:8000/live/furkan1/furkan1/884.ts
-#EXTINF:-1,TR:Moviesmart Family
-http://51.254.47.234:8000/live/furkan1/furkan1/883.ts
-#EXTINF:-1,TR:Moviesmart Gold 1
-http://51.254.47.234:8000/live/furkan1/furkan1/885.ts
-#EXTINF:-1,TR:Moviesmart Gold 2
-http://51.254.47.234:8000/live/furkan1/furkan1/886.ts
-#EXTINF:-1,TR:Moviesmart Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/42.ts
-#EXTINF:-1,TR:Planet Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/488.ts
-#EXTINF:-1,TR:Oscar Vizyon
-http://51.254.47.234:8000/live/furkan1/furkan1/44.ts
-#EXTINF:-1,TR:Sinema Korku
-http://51.254.47.234:8000/live/furkan1/furkan1/445.ts
-#EXTINF:-1,TR:Sinetivi Karnaval
-http://51.254.47.234:8000/live/furkan1/furkan1/890.ts
-#EXTINF:-1,TR:Filmbox Aksiyon
-http://51.254.47.234:8000/live/furkan1/furkan1/888.ts
-#EXTINF:-1,TR:Filmbox Turk
-http://51.254.47.234:8000/live/furkan1/furkan1/889.ts
-#EXTINF:-1,TR:Dizi TV
-http://51.254.47.234:8000/live/furkan1/furkan1/891.ts
-#EXTINF:-1,TR:Dizismart Platin
-http://51.254.47.234:8000/live/furkan1/furkan1/892.ts
-#EXTINF:-1,TR:FX
-http://51.254.47.234:8000/live/furkan1/furkan1/758.ts
-#EXTINF:-1,TR:Fox Crime
-http://51.254.47.234:8000/live/furkan1/furkan1/757.ts
-#EXTINF:-1,TR:NTV Spor
-http://51.254.47.234:8000/live/furkan1/furkan1/30.ts
-#EXTINF:-1,TR:NTV Spor HD
-http://51.254.47.234:8000/live/furkan1/furkan1/650.ts
-#EXTINF:-1,TR:A Spor
-http://51.254.47.234:8000/live/furkan1/furkan1/32.ts
-#EXTINF:-1,TR:TRT Spor
-http://51.254.47.234:8000/live/furkan1/furkan1/31.ts
-#EXTINF:-1,TR:SportsTV
-http://51.254.47.234:8000/live/furkan1/furkan1/33.ts
-#EXTINF:-1,TR:Eurosport 1
-http://51.254.47.234:8000/live/furkan1/furkan1/921.ts
-#EXTINF:-1,TR:Eurosport 2
-http://51.254.47.234:8000/live/furkan1/furkan1/922.ts
-#EXTINF:-1,TR:TJK TV
-http://51.254.47.234:8000/live/furkan1/furkan1/34.ts
-#EXTINF:-1,TR:GS TV
-http://51.254.47.234:8000/live/furkan1/furkan1/475.ts
-#EXTINF:-1,TR:FB TV
-http://51.254.47.234:8000/live/furkan1/furkan1/476.ts
-#EXTINF:-1,TR:BS TV
-http://51.254.47.234:8000/live/furkan1/furkan1/477.ts
-#EXTINF:-1,TR:Bein Sports 1
-http://51.254.47.234:8000/live/furkan1/furkan1/23.ts
-#EXTINF:-1,TR:Bein Sports 1 HD
-http://51.254.47.234:8000/live/furkan1/furkan1/24.ts
-#EXTINF:-1,TR:Bein Sports 2
-http://51.254.47.234:8000/live/furkan1/furkan1/25.ts
-#EXTINF:-1,TR:Bein Sports 3
-http://51.254.47.234:8000/live/furkan1/furkan1/26.ts
-#EXTINF:-1,TR:Bein Sports 4
-http://51.254.47.234:8000/live/furkan1/furkan1/893.ts
-#EXTINF:-1,TR:Smart Spor 1
-http://51.254.47.234:8000/live/furkan1/furkan1/28.ts
-#EXTINF:-1,TR:Smart Spor 2
-http://51.254.47.234:8000/live/furkan1/furkan1/29.ts
-#EXTINF:-1,TR:Tivibu Spor 1
-http://51.254.47.234:8000/live/furkan1/furkan1/27.ts
-#EXTINF:-1,TR:Tivibu Spor 2
-http://51.254.47.234:8000/live/furkan1/furkan1/322.ts
-#EXTINF:-1,TR:Tivibu Spor 3
-http://51.254.47.234:8000/live/furkan1/furkan1/438.ts
-#EXTINF:-1,TR:Tivibu Spor 4
-http://51.254.47.234:8000/live/furkan1/furkan1/881.ts
+#EXTINF:-1,TR_24-TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3746.ts
+#EXTINF:-1,TR_A_SPOR
+http://46.105.115.25:8000/live/28637288237427/1593574628/3784.ts
+#EXTINF:-1,TR_A2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3774.ts
+#EXTINF:-1,TR_AHABER_LOCAL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3741.ts
+#EXTINF:-1,TR_ANIMAL_PLANET
+http://46.105.115.25:8000/live/28637288237427/1593574628/3709.ts
+#EXTINF:-1,TR_ATV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3773.ts
+#EXTINF:-1,TR_ATV_FULLHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3772.ts
+#EXTINF:-1,TR_BABY TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3727.ts
+#EXTINF:-1,TR_BBC_Earth_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3708.ts
+#EXTINF:-1,TR_BEIN MOVIES ACTiON HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3703.ts
+#EXTINF:-1,TR_BEIN MOVIES COMEDY HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3702.ts
+#EXTINF:-1,TR_BEIN MOVIES FAMiLY HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3701.ts
+#EXTINF:-1,TR_BEIN MOVIES FESTiVAL HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3700.ts
+#EXTINF:-1,TR_BEIN MOVIES PREMiER HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3699.ts
+#EXTINF:-1,TR_BEIN MOVIES STARS HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3698.ts
+#EXTINF:-1,TR_BEIN MOVIES TURK (CANLI)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3697.ts
+#EXTINF:-1,TR_BEIN SERIES SCi-Fi HD [CANLI]
+http://46.105.115.25:8000/live/28637288237427/1593574628/3696.ts
+#EXTINF:-1,TR_BEIN SPORT 1 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3805.ts
+#EXTINF:-1,TR_BEIN SPORT 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3804.ts
+#EXTINF:-1,TR_BEIN SPORT 3 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3803.ts
+#EXTINF:-1,TR_BEIN SPORT 4 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/5463.ts
+#EXTINF:-1,TR_BEiN_GURME
+http://46.105.115.25:8000/live/28637288237427/1593574628/3747.ts
+#EXTINF:-1,TR_BEiN_iZTV HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3711.ts
+#EXTINF:-1,TR_BEYAZ_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3756.ts
+#EXTINF:-1,TR_BEYAZ_TV_FULLHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3757.ts
+#EXTINF:-1,TR_BJK TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3789.ts
+#EXTINF:-1,TR_BURSASPORTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3788.ts
+#EXTINF:-1,TR_CARTON_NETWORK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3726.ts
+#EXTINF:-1,TR_CAY_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3750.ts
+#EXTINF:-1,TR_Cem_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3730.ts
+#EXTINF:-1,TR_CINE1HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3664.ts
+#EXTINF:-1,TR_CINESTAR_GERILIM
+http://46.105.115.25:8000/live/28637288237427/1593574628/3659.ts
+#EXTINF:-1,TR_CINESTAR_KOMEDI
+http://46.105.115.25:8000/live/28637288237427/1593574628/3663.ts
+#EXTINF:-1,TR_CINESTAR_KORKU
+http://46.105.115.25:8000/live/28637288237427/1593574628/3665.ts
+#EXTINF:-1,TR_CINESTAR_NOSTALJI
+http://46.105.115.25:8000/live/28637288237427/1593574628/3661.ts
+#EXTINF:-1,TR_CINESTAR_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3660.ts
+#EXTINF:-1,TR_CINESTAR_VIZYON1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3662.ts
+#EXTINF:-1,TR_CINESTAR_VIZYON3
+http://46.105.115.25:8000/live/28637288237427/1593574628/3666.ts
+#EXTINF:-1,TR_CiNEViCiON 1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3669.ts
+#EXTINF:-1,TR_CiNEViCiON 2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3667.ts
+#EXTINF:-1,TR_CiNEViCiON 3
+http://46.105.115.25:8000/live/28637288237427/1593574628/3668.ts
+#EXTINF:-1,TR_CiNEViCiON ViP
+http://46.105.115.25:8000/live/28637288237427/1593574628/3670.ts
+#EXTINF:-1,TR: CNNTURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3745.ts
+#EXTINF:-1,TR_DA_VINCI_LEARNING
+http://46.105.115.25:8000/live/28637288237427/1593574628/3712.ts
+#EXTINF:-1,TR_DISCOVERY SCIENCE
+http://46.105.115.25:8000/live/28637288237427/1593574628/3706.ts
+#EXTINF:-1,TR_DISCOVERY_CHANNEL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3707.ts
+#EXTINF:-1,TR_DISCOVERY_SHOWCASE
+http://46.105.115.25:8000/live/28637288237427/1593574628/3705.ts
+#EXTINF:-1,TR_DISNEY_CHANNEL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3721.ts
+#EXTINF:-1,TR_DİZİ_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3671.ts
+#EXTINF:-1,TR_DREAM_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3738.ts
+#EXTINF:-1,TR_DREAMTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3737.ts
+#EXTINF:-1,TR_Ekin_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3729.ts
+#EXTINF:-1,TR_EUROSPORT1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3796.ts
+#EXTINF:-1,TR_EUROSPORT2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3795.ts
+#EXTINF:-1,TR_FBTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3791.ts
+#EXTINF:-1,TR_FILTVHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3752.ts
+#EXTINF:-1,TR_FOX_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3764.ts
+#EXTINF:-1,TR_FOX-CRIME-HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3761.ts
+#EXTINF:-1,TR_FOXLIFE-HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3762.ts
+#EXTINF:-1,TR_FOXTV_FULLL_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3765.ts
+#EXTINF:-1,TR_FX-HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3763.ts
+#EXTINF:-1,TR_GSTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3790.ts
+#EXTINF:-1,TR_HABER_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3743.ts
+#EXTINF:-1,TR_HALK_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3744.ts
+#EXTINF:-1,TR_HISTORY
+http://46.105.115.25:8000/live/28637288237427/1593574628/3710.ts
+#EXTINF:-1,TR_Idman_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3782.ts
+#EXTINF:-1,TR_IstanbulWebTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3731.ts
+#EXTINF:-1,TR_Kanal_7_FULLHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3755.ts
+#EXTINF:-1,TR_KANAL_A
+http://46.105.115.25:8000/live/28637288237427/1593574628/3742.ts
+#EXTINF:-1,TR_KANAL-DHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3766.ts
+#EXTINF:-1,TR_KANAL7
+http://46.105.115.25:8000/live/28637288237427/1593574628/3754.ts
+#EXTINF:-1,TR_KanalD_FULL_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3767.ts
+#EXTINF:-1,TR_KONYA_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3749.ts
+#EXTINF:-1,TR_KRALTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3736.ts
+#EXTINF:-1,TR_LALEGÜLTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3719.ts
+#EXTINF:-1,TR_MaGic BoX 1 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3695.ts
+#EXTINF:-1,TR_MaGic BoX 2 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3694.ts
+#EXTINF:-1,TR_MaGic BoX 3 HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3693.ts
+#EXTINF:-1,TR_MaGic BoX 4  HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3692.ts
+#EXTINF:-1,TR_MaGic BoX 5  HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3691.ts
+#EXTINF:-1,TR_MaGicBoX Aksiyon HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3690.ts
+#EXTINF:-1,TR_MaGicBoX Animasyon HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3689.ts
+#EXTINF:-1,TR_MaGicBoX DiziTv
+http://46.105.115.25:8000/live/28637288237427/1593574628/3688.ts
+#EXTINF:-1,TR_MaGicBoX Komedi HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3687.ts
+#EXTINF:-1,TR_MaGicBoX Korku HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3686.ts
+#EXTINF:-1,TR_MaGicBoX Yerli HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3685.ts
+#EXTINF:-1,TR_MAVI_KARADENIZ
+http://46.105.115.25:8000/live/28637288237427/1593574628/3732.ts
+#EXTINF:-1,TR_MINIKA_COCUK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3725.ts
+#EXTINF:-1,TR_MINIKA_GO
+http://46.105.115.25:8000/live/28637288237427/1593574628/3724.ts
+#EXTINF:-1,TR_NATINOAL_GEO
+http://46.105.115.25:8000/live/28637288237427/1593574628/3715.ts
+#EXTINF:-1,TR_Disney Junior
+http://46.105.115.25:8000/live/28637288237427/1593574628/5553.ts
+#EXTINF:-1,TR_Nickelodeon
+http://46.105.115.25:8000/live/28637288237427/1593574628/5552.ts
+#EXTINF:-1,TR_NICK_JR
+http://46.105.115.25:8000/live/28637288237427/1593574628/3720.ts
+#EXTINF:-1,TR_NTV_LOCAL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3787.ts
+#EXTINF:-1,TR_NTV_SPOR_LOCAL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3786.ts
+#EXTINF:-1,TR_NTVSPOR
+http://46.105.115.25:8000/live/28637288237427/1593574628/3785.ts
+#EXTINF:-1,TR_NUMBER_ONE_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3735.ts
+#EXTINF:-1,TR_PLANET_COCUK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3722.ts
+#EXTINF:-1,TR_POWER_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3734.ts
+#EXTINF:-1,TR_SALON1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3658.ts
+#EXTINF:-1,TR_SALON2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3657.ts
+#EXTINF:-1,TR_SALON3
+http://46.105.115.25:8000/live/28637288237427/1593574628/3656.ts
+#EXTINF:-1,TR_SEMERKANDTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3718.ts
+#EXTINF:-1,TR_SHOW_FULL_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3769.ts
+#EXTINF:-1,TR_SHOW_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3768.ts
+#EXTINF:-1,TR_SMART-SPOR2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3793.ts
+#EXTINF:-1,TR: SmartSpor 1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3794.ts
+#EXTINF:-1,TR_SPORTS_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3781.ts
+#EXTINF:-1,TR_STAR_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3770.ts
+#EXTINF:-1,TR_STARTV_FULL_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3771.ts
+#EXTINF:-1,TR_TeVe2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3753.ts
+#EXTINF:-1,TR_TGRTBELGESEL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3717.ts
+#EXTINF:-1,TR_TIVIBUSPOR1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3798.ts
+#EXTINF:-1,TR_TIVIBUSPOR2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3797.ts
+#EXTINF:-1,TR_TJK_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3792.ts
+#EXTINF:-1,TR_TLC
+http://46.105.115.25:8000/live/28637288237427/1593574628/3751.ts
+#EXTINF:-1,TR_TRT_1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3779.ts
+#EXTINF:-1,TR_TRT_ARAPCA
+http://46.105.115.25:8000/live/28637288237427/1593574628/3776.ts
+#EXTINF:-1,TR_TRT_COCUK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3723.ts
+#EXTINF:-1,TR_TRT_HABER
+http://46.105.115.25:8000/live/28637288237427/1593574628/3777.ts
+#EXTINF:-1,TR_TRT_MUZIK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3775.ts
+#EXTINF:-1,TR_TRT_SPOR_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3783.ts
+#EXTINF:-1,TR_TRT_TURK
+http://46.105.115.25:8000/live/28637288237427/1593574628/3778.ts
+#EXTINF:-1,TR_TRT1_HD_LOCAL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3780.ts
+#EXTINF:-1,TR_TRTBELGESEL
+http://46.105.115.25:8000/live/28637288237427/1593574628/3716.ts
+#EXTINF:-1,TR_TV_360
+http://46.105.115.25:8000/live/28637288237427/1593574628/3748.ts
+#EXTINF:-1,TR_TV8
+http://46.105.115.25:8000/live/28637288237427/1593574628/3759.ts
+#EXTINF:-1,TR_TV8_FULL_HD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3760.ts
+#EXTINF:-1,TR_TV8.5
+http://46.105.115.25:8000/live/28637288237427/1593574628/3758.ts
+#EXTINF:-1,TR_ULKE_TVHD
+http://46.105.115.25:8000/live/28637288237427/1593574628/3740.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Action(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3672.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Classic
+http://46.105.115.25:8000/live/28637288237427/1593574628/3673.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Family(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3674.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Fest(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3675.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Gold(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3676.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Platin(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3677.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Platin2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3678.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Premium(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3679.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Premium2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3680.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Turk(canli))
+http://46.105.115.25:8000/live/28637288237427/1593574628/3681.ts
+#EXTINF:-1,TR_VIP_SinemaTV(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3684.ts
+#EXTINF:-1,TR_VIP_SinemaTVAksiyon(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3682.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR1
+http://46.105.115.25:8000/live/28637288237427/1593574628/3802.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR2
+http://46.105.115.25:8000/live/28637288237427/1593574628/3801.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR3
+http://46.105.115.25:8000/live/28637288237427/1593574628/3800.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR4
+http://46.105.115.25:8000/live/28637288237427/1593574628/3799.ts
+#EXTINF:-1,TR_VIP-Sinamatv2HD(canli)
+http://46.105.115.25:8000/live/28637288237427/1593574628/3683.ts
+#EXTINF:-1,TR_ViVA_TV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3733.ts
+#EXTINF:-1,TR_YABANTV
+http://46.105.115.25:8000/live/28637288237427/1593574628/3704.ts
+#EXTINF:-1,TR_Yol_Tv
+http://46.105.115.25:8000/live/28637288237427/1593574628/3728.ts

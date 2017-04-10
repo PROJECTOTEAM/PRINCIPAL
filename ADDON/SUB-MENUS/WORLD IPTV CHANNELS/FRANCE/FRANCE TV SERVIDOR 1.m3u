@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -19,258 +19,119 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:-1,FR_TF1_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/207.ts
-#EXTINF:-1,FR_FRANCE_2_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/208.ts
-#EXTINF:-1,FR_FRANCE_3_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/209.ts
-#EXTINF:-1,FR_FRANCE_4_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/820.ts
-#EXTINF:-1,FR_FRANCE_5_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/210.ts
-#EXTINF:-1,FR_FRANCE_O
-http://www.xa1q.com:8000/live/meddeb151/benothm/228.ts
-#EXTINF:-1,FR_M6_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/216.ts
-#EXTINF:-1,FR_W9_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/224.ts
-#EXTINF:-1,FR_TEVA_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/870.ts
-#EXTINF:-1,FR_CANAL+_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/201.ts
-#EXTINF:-1,FR_CANAL+_FAMILY_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/204.ts
-#EXTINF:-1,FR_CANAL+_DECALE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/203.ts
-#EXTINF:-1,FR_CANAL+_CINEMA_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/202.ts
-#EXTINF:-1,FR_CANAL+_SERIES_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/868.ts
-#EXTINF:-1,FR_CINE_CLASSIC_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/869.ts
-#EXTINF:-1,FR_CINE+_PREMIER_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/878.ts
-#EXTINF:-1,FR_CINE+_FRISSON_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/877.ts
-#EXTINF:-1,FR_CINE_EMOTION_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/884.ts
-#EXTINF:-1,FR_CINE+_FAMIZ_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/876.ts
-#EXTINF:-1,FR_CINE_POLAR
-http://www.xa1q.com:8000/live/meddeb151/benothm/950.ts
-#EXTINF:-1,FR_CINE_FX
-http://www.xa1q.com:8000/live/meddeb151/benothm/826.ts
-#EXTINF:-1,FR_COMEDIE+
-http://www.xa1q.com:8000/live/meddeb151/benothm/872.ts
-#EXTINF:-1,FR_B_SPORTS_1_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/199.ts
-#EXTINF:-1,FR_B_SPORTS_2_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/200.ts
-#EXTINF:-1,FR_B_SPORTS_3_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/594.ts
-#EXTINF:-1,LOW_B_SPORTS_1_HD_FR
-http://www.xa1q.com:8000/live/meddeb151/benothm/1196.ts
-#EXTINF:-1,LOW_B_SPORTS_2_HD_FR
-http://www.xa1q.com:8000/live/meddeb151/benothm/1133.ts
-#EXTINF:-1,LOW_B_SPORTS_3_HD_FR
-http://www.xa1q.com:8000/live/meddeb151/benothm/1267.ts
-#EXTINF:-1,FR_CANAL+_SPORT_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/205.ts
-#EXTINF:-1,FR_INFOSPORT+
-http://www.xa1q.com:8000/live/meddeb151/benothm/879.ts
-#EXTINF:-1,FR_FOOT+_24
-http://www.xa1q.com:8000/live/meddeb151/benothm/883.ts
-#EXTINF:-1,FR_EUROSPORT_1
-http://www.xa1q.com:8000/live/meddeb151/benothm/206.ts
-#EXTINF:-1,FR_EUROSPORT_2
-http://www.xa1q.com:8000/live/meddeb151/benothm/1256.ts
-#EXTINF:-1,FR_SFR_SPORT_1_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/112.ts
-#EXTINF:-1,FR_SFR_SPORT_2_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/846.ts
-#EXTINF:-1,FR_SFR_SPORT_3_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/723.ts
-#EXTINF:-1,FR_B_SPORT_MAX_4
-http://www.xa1q.com:8000/live/meddeb151/benothm/1269.ts
-#EXTINF:-1,FR_B_SPORT_MAX_5
-http://www.xa1q.com:8000/live/meddeb151/benothm/1268.ts
-#EXTINF:-1,FR_B_SPORT_MAX_6
-http://www.xa1q.com:8000/live/meddeb151/benothm/233.ts
-#EXTINF:-1,FR_B_SPORT_MAX_7
-http://www.xa1q.com:8000/live/meddeb151/benothm/232.ts
-#EXTINF:-1,FR_B_SPORT_MAX_8
-http://www.xa1q.com:8000/live/meddeb151/benothm/1232.ts
-#EXTINF:-1,FR_L_EQUIPE_21
-http://www.xa1q.com:8000/live/meddeb151/benothm/102.ts
-#EXTINF:-1,FR_AB_MOTEUR_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/1195.ts
-#EXTINF:-1,FR_AB1
-http://www.xa1q.com:8000/live/meddeb151/benothm/862.ts
-#EXTINF:-1,FR_AB3_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/80.ts
-#EXTINF:-1,FR_DISNEY_JUNIOR
-http://www.xa1q.com:8000/live/meddeb151/benothm/853.ts
-#EXTINF:-1,FR_DISNEY_CHANNEL
-http://www.xa1q.com:8000/live/meddeb151/benothm/236.ts
-#EXTINF:-1,FR_DISNEY_XD
-http://www.xa1q.com:8000/live/meddeb151/benothm/52.ts
-#EXTINF:-1,FR_DISNEY_CINEMA
-http://www.xa1q.com:8000/live/meddeb151/benothm/901.ts
-#EXTINF:-1,FR_CANAL_J_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/198.ts
-#EXTINF:-1,FR_CARTOON_NETWORK_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/218.ts
-#EXTINF:-1,FR_TELETOON+1
-http://www.xa1q.com:8000/live/meddeb151/benothm/827.ts
-#EXTINF:-1,FR_NICKELODEON_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/881.ts
-#EXTINF:-1,FR_GULLI
-http://www.xa1q.com:8000/live/meddeb151/benothm/212.ts
-#EXTINF:-1,FR_TIJI
-http://www.xa1q.com:8000/live/meddeb151/benothm/235.ts
-#EXTINF:-1,FR_PIWI
-http://www.xa1q.com:8000/live/meddeb151/benothm/1221.ts
-#EXTINF:-1,FR_BOOMERANG_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/867.ts
-#EXTINF:-1,FR_BOING
-http://www.xa1q.com:8000/live/meddeb151/benothm/897.ts
-#EXTINF:-1,FR_MANGAS
-http://www.xa1q.com:8000/live/meddeb151/benothm/5254.ts
-#EXTINF:-1,FR_NRJ
-http://www.xa1q.com:8000/live/meddeb151/benothm/220.ts
-#EXTINF:-1,FR_NRJ_12
-http://www.xa1q.com:8000/live/meddeb151/benothm/1282.ts
-#EXTINF:-1,FR_CHERIE_25
-http://www.xa1q.com:8000/live/meddeb151/benothm/169.ts
-#EXTINF:-1,FR_HISTOIRE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/1178.ts
-#EXTINF:-1,FR_TOUTE_L_HISTOIRE
-http://www.xa1q.com:8000/live/meddeb151/benothm/880.ts
-#EXTINF:-1,FR_SCIENCES_VIE_TV
-http://www.xa1q.com:8000/live/meddeb151/benothm/1220.ts
-#EXTINF:-1,FR_USHUAIA_TV_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/223.ts
-#EXTINF:-1,FR_RMC_DECOUVERTE
-http://www.xa1q.com:8000/live/meddeb151/benothm/83.ts
-#EXTINF:-1,FR_VOYAGE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/84.ts
-#EXTINF:-1,FR_PLANETE_AE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/230.ts
-#EXTINF:-1,FR_PLANETE+_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/221.ts
-#EXTINF:-1,FR_PLANETE+_CI
-http://www.xa1q.com:8000/live/meddeb151/benothm/222.ts
-#EXTINF:-1,FR_CHASSE_ET_PECHE
-http://www.xa1q.com:8000/live/meddeb151/benothm/860.ts
-#EXTINF:-1,FR_ANIMAUX_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/865.ts
-#EXTINF:-1,FR_NATIONAL_GEO_WILD_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/217.ts
-#EXTINF:-1,FR_NATIONAL_GEO_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/239.ts
-#EXTINF:-1,FR_DISCOVERY
-http://www.xa1q.com:8000/live/meddeb151/benothm/882.ts
-#EXTINF:-1,FR_DISCOVERY_SCIENCES_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/76.ts
-#EXTINF:-1,FR_Seasons_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/5255.ts
-#EXTINF:-1,FR_PARAMOUNT_CHANNEL_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/1194.ts
-#EXTINF:-1,FR_PARIS_PREMIERE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/181.ts
-#EXTINF:-1,FR_TV5_FR
-http://www.xa1q.com:8000/live/meddeb151/benothm/168.ts
-#EXTINF:-1,FR_TV5_MONDE
-http://www.xa1q.com:8000/live/meddeb151/benothm/1218.ts
-#EXTINF:-1,FR_FRANCE_24
-http://www.xa1q.com:8000/live/meddeb151/benothm/67.ts
-#EXTINF:-1,FR_ARTE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/866.ts
-#EXTINF:-1,FR_I_TELE
-http://www.xa1q.com:8000/live/meddeb151/benothm/213.ts
-#EXTINF:-1,FR_EURO_NEWS
-http://www.xa1q.com:8000/live/meddeb151/benothm/864.ts
-#EXTINF:-1,FR_E_ENTERTAINMENT
-http://www.xa1q.com:8000/live/meddeb151/benothm/871.ts
-#EXTINF:-1,FR_BFM_TV
-http://www.xa1q.com:8000/live/meddeb151/benothm/211.ts
-#EXTINF:-1,FR_BET
-http://www.xa1q.com:8000/live/meddeb151/benothm/231.ts
-#EXTINF:-1,FR_SYFY_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/95.ts
-#EXTINF:-1,FR_6TER HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/1814.ts
-#EXTINF:-1,FR_RTL_TVI
-http://www.xa1q.com:8000/live/meddeb151/benothm/167.ts
-#EXTINF:-1,FR_RTL_9_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/845.ts
-#EXTINF:-1,FR_RTS_LA_UNE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/124.ts
-#EXTINF:-1,FR_RTS_LA_DEUX_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/121.ts
-#EXTINF:-1,FR_SERIE_CLUB_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/225.ts
-#EXTINF:-1,FR_13EME_RUE_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/214.ts
-#EXTINF:-1,FR_NUMERO_23_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/171.ts
-#EXTINF:-1,FR_EQUIDIA_LIVE
-http://www.xa1q.com:8000/live/meddeb151/benothm/170.ts
-#EXTINF:-1,FR_C_STAR
-http://www.xa1q.com:8000/live/meddeb151/benothm/819.ts
-#EXTINF:-1,FR_C8_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/234.ts
-#EXTINF:-1,FR_OCS_GEANTS
-http://www.xa1q.com:8000/live/meddeb151/benothm/903.ts
-#EXTINF:-1,FR_OCS_CHOC_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/959.ts
-#EXTINF:-1,FR_OCS_CITY
-http://www.xa1q.com:8000/live/meddeb151/benothm/698.ts
-#EXTINF:-1,FR_OCS_MAX
-http://www.xa1q.com:8000/live/meddeb151/benothm/902.ts
-#EXTINF:-1,FR_ACTION
-http://www.xa1q.com:8000/live/meddeb151/benothm/863.ts
-#EXTINF:-1,FR_WEO
-http://www.xa1q.com:8000/live/meddeb151/benothm/1217.ts
-#EXTINF:-1,FR_OL_TV
-http://www.xa1q.com:8000/live/meddeb151/benothm/844.ts
-#EXTINF:-1,FR_TMC
-http://www.xa1q.com:8000/live/meddeb151/benothm/1219.ts
-#EXTINF:-1,FR_M6_MUSIC
-http://www.xa1q.com:8000/live/meddeb151/benothm/160.ts
-#EXTINF:-1,FR_MTV_HITS
-http://www.xa1q.com:8000/live/meddeb151/benothm/103.ts
-#EXTINF:-1,FR_MTV_DANCE_FR
-http://www.xa1q.com:8000/live/meddeb151/benothm/85.ts
-#EXTINF:-1,FR_TV_BREIZH_HD
-http://www.xa1q.com:8000/live/meddeb151/benothm/145.ts
-#EXTINF:-1,FR_NT1
-http://www.xa1q.com:8000/live/meddeb151/benothm/949.ts
-#EXTINF:-1,FR_LCI
-http://www.xa1q.com:8000/live/meddeb151/benothm/1227.ts
-#EXTINF:-1,FR_HD_1
-http://www.xa1q.com:8000/live/meddeb151/benothm/861.ts
-#EXTINF:-1,FR_CANAL_PLAY_1
-http://www.xa1q.com:8000/live/meddeb151/benothm/1266.ts
-#EXTINF:-1,FR_CANAL_PLAY_2
-http://www.xa1q.com:8000/live/meddeb151/benothm/1265.ts
-#EXTINF:-1,FR_CANAL_PLAY_3
-http://www.xa1q.com:8000/live/meddeb151/benothm/1264.ts
-#EXTINF:-1,FR_CANAL_PLAY_4
-http://www.xa1q.com:8000/live/meddeb151/benothm/1263.ts
-#EXTINF:-1,FR_CANAL_PLAY_5
-http://www.xa1q.com:8000/live/meddeb151/benothm/1262.ts
-#EXTINF:-1,FR_CANAL_PLAY_6
-http://www.xa1q.com:8000/live/meddeb151/benothm/1261.ts
-#EXTINF:-1,FR_CANAL_PLAY_7
-http://www.xa1q.com:8000/live/meddeb151/benothm/1260.ts
-#EXTINF:-1,FR_CANAL_PLAY_8
-http://www.xa1q.com:8000/live/meddeb151/benothm/1259.ts
-#EXTINF:-1,FR_CANAL_PLAY_9
-http://www.xa1q.com:8000/live/meddeb151/benothm/1258.ts
-#EXTINF:-1,FR_CANAL_PLAY_10
-http://www.xa1q.com:8000/live/meddeb151/benothm/1257.ts
+#EXTINF:-1,FR:Foot 24
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1482.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1473.ts
+#EXTINF:-1,FR: TF1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1484.ts
+#EXTINF:-1,FR: SCIENCE & VIE
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1467.ts
+#EXTINF:-1,FR: PIWI
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1477.ts
+#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1465.ts
+#EXTINF:-1,FR: Nat Geo Wild
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1464.ts
+#EXTINF:-1,FR: M6 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1485.ts
+#EXTINF:-1,FR: GULLI
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1468.ts
+#EXTINF:-1,FR: France 5
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1486.ts
+#EXTINF:-1,FR: France 4
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1487.ts
+#EXTINF:-1,FR: France 3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1488.ts
+#EXTINF:-1,FR: France 2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1489.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1490.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1474.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1466.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1480.ts
+#EXTINF:-1,FR: CANAL J
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1476.ts
+#EXTINF:-1,FR: CANAL  HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1463.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1491.ts
+#EXTINF:-1,FR: Canal   Decale HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1493.ts
+#EXTINF:-1,FR: Canal
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1492.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1494.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1495.ts
+#EXTINF:-1,FR: Ushuaia TV HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1803.ts
+#EXTINF:-1,FR: TMC
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1775.ts
+#EXTINF:-1,FR: RTL 9
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1777.ts
+#EXTINF:-1,FR: Planete  CI HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1783.ts
+#EXTINF:-1,FR: OCS Max
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1816.ts
+#EXTINF:-1,FR: OCS City
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1779.ts
+#EXTINF:-1,FR: Nat Geo
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1781.ts
+#EXTINF:-1,FR: Mangas
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1782.ts
+#EXTINF:-1,FR: M6 Music
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1784.ts
+#EXTINF:-1,FR: L'equipe 21*
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1804.ts
+#EXTINF:-1,FR: Cine  Premier
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1785.ts
+#EXTINF:-1,FR: Cine   Emotion HD*
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1805.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1786.ts
+#EXTINF:-1,FR: Canal  Sport HD*
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1787.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1792.ts
+#EXTINF:-1,FR: Canal  Frisson
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1788.ts
+#EXTINF:-1,FR: Canal  Famiz HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1789.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1793.ts
+#EXTINF:-1,FR: Canal  Classic HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1790.ts
+#EXTINF:-1,FR: Canal   Series HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1791.ts
+#EXTINF:-1,FR: beIN Sport 3 HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1800.ts
+#EXTINF:-1,FR: Action
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1801.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1806.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1807.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1808.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1809.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1810.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1811.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1812.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1813.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1814.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1815.ts
+#EXTINF:-1,FR: 6TER HD
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1780.ts
+#EXTINF:-1,FR: 13 Rue
+http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1802.ts
