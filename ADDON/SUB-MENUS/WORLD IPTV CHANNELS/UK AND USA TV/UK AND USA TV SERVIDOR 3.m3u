@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -8,136 +8,731 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,UK | 3e
+http://vip.groupiptv.com:7000/live/marius/marius/3478.ts
+#EXTINF:-1,UK | 5 Star
+http://vip.groupiptv.com:7000/live/marius/marius/3479.ts
+#EXTINF:-1,UK | 5 USA
+http://vip.groupiptv.com:7000/live/marius/marius/3480.ts
+#EXTINF:-1,UK | Alibi
+http://vip.groupiptv.com:7000/live/marius/marius/3481.ts
+#EXTINF:-1,UK | Animal Planet
+http://vip.groupiptv.com:7000/live/marius/marius/3482.ts
+#EXTINF:-1,UK | At The Races
+http://vip.groupiptv.com:7000/live/marius/marius/3483.ts
+#EXTINF:-1,UK | Baby TV
+http://vip.groupiptv.com:7000/live/marius/marius/3484.ts
+#EXTINF:-1,UK | BBC 1
+http://vip.groupiptv.com:7000/live/marius/marius/3485.ts
+#EXTINF:-1,UK | BBC 2
+http://vip.groupiptv.com:7000/live/marius/marius/3486.ts
+#EXTINF:-1,UK | BBC 3
+http://vip.groupiptv.com:7000/live/marius/marius/3487.ts
+#EXTINF:-1,UK | BBC 4
+http://vip.groupiptv.com:7000/live/marius/marius/3488.ts
+#EXTINF:-1,UK | BBC Entertainment
+http://vip.groupiptv.com:7000/live/marius/marius/3489.ts
+#EXTINF:-1,UK | BBC World News
+http://vip.groupiptv.com:7000/live/marius/marius/3490.ts
+#EXTINF:-1,UK | Bloomberg
+http://vip.groupiptv.com:7000/live/marius/marius/3491.ts
+#EXTINF:-1,UK | Boomerang
+http://vip.groupiptv.com:7000/live/marius/marius/3492.ts
+#EXTINF:-1,UK | Boxnation
+http://vip.groupiptv.com:7000/live/marius/marius/3493.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3494.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3495.ts
+#EXTINF:-1,UK | BT Sport Europe
+http://vip.groupiptv.com:7000/live/marius/marius/3498.ts
+#EXTINF:-1,UK | BT Sport Extra 1
+http://vip.groupiptv.com:7000/live/marius/marius/3499.ts
+#EXTINF:-1,UK | BT Sport Extra 2
+http://vip.groupiptv.com:7000/live/marius/marius/3500.ts
+#EXTINF:-1,UK | BT Sport Extra 3
+http://vip.groupiptv.com:7000/live/marius/marius/3501.ts
+#EXTINF:-1,UK | BT Sport Extra 4
+http://vip.groupiptv.com:7000/live/marius/marius/3502.ts
+#EXTINF:-1,UK | BT Sport Extra 5
+http://vip.groupiptv.com:7000/live/marius/marius/3503.ts
+#EXTINF:-1,UK | BT Sport Extra 6
+http://vip.groupiptv.com:7000/live/marius/marius/3504.ts
+#EXTINF:-1,UK | BT Sports 1
+http://vip.groupiptv.com:7000/live/marius/marius/3496.ts
+#EXTINF:-1,UK | BT Sports 2
+http://vip.groupiptv.com:7000/live/marius/marius/3497.ts
+#EXTINF:-1,UK | Cartoon Network
+http://vip.groupiptv.com:7000/live/marius/marius/3506.ts
+#EXTINF:-1,UK | Cartoonito
+http://vip.groupiptv.com:7000/live/marius/marius/3505.ts
+#EXTINF:-1,UK | Cbeebies
+http://vip.groupiptv.com:7000/live/marius/marius/3507.ts
+#EXTINF:-1,UK | CBS Action
+http://vip.groupiptv.com:7000/live/marius/marius/3508.ts
+#EXTINF:-1,UK | CBS Drama
+http://vip.groupiptv.com:7000/live/marius/marius/3509.ts
+#EXTINF:-1,UK | CBS Reality
+http://vip.groupiptv.com:7000/live/marius/marius/3510.ts
+#EXTINF:-1,UK | Channel 4
+http://vip.groupiptv.com:7000/live/marius/marius/3511.ts
+#EXTINF:-1,UK | Channel 5
+http://vip.groupiptv.com:7000/live/marius/marius/3512.ts
+#EXTINF:-1,UK | Chelsea FC
+http://vip.groupiptv.com:7000/live/marius/marius/3513.ts
+#EXTINF:-1,UK | CNN
+http://vip.groupiptv.com:7000/live/marius/marius/3514.ts
+#EXTINF:-1,UK | Comedy Central
+http://vip.groupiptv.com:7000/live/marius/marius/3515.ts
+#EXTINF:-1,UK | Comedy Central Xtra
+http://vip.groupiptv.com:7000/live/marius/marius/3516.ts
+#EXTINF:-1,UK | Crime and Investigation
+http://vip.groupiptv.com:7000/live/marius/marius/3517.ts
+#EXTINF:-1,UK | Dave
+http://vip.groupiptv.com:7000/live/marius/marius/3518.ts
+#EXTINF:-1,UK | Discovery Channel
+http://vip.groupiptv.com:7000/live/marius/marius/3519.ts
+#EXTINF:-1,UK | Discovery History
+http://vip.groupiptv.com:7000/live/marius/marius/3520.ts
+#EXTINF:-1,UK | Discovery Science
+http://vip.groupiptv.com:7000/live/marius/marius/3521.ts
+#EXTINF:-1,UK | Discovery Shed
+http://vip.groupiptv.com:7000/live/marius/marius/3522.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://vip.groupiptv.com:7000/live/marius/marius/3523.ts
+#EXTINF:-1,UK | Disney Channel
+http://vip.groupiptv.com:7000/live/marius/marius/3524.ts
+#EXTINF:-1,UK | Disney Junior
+http://vip.groupiptv.com:7000/live/marius/marius/3525.ts
+#EXTINF:-1,UK | Disney Movies
+http://vip.groupiptv.com:7000/live/marius/marius/3527.ts
+#EXTINF:-1,UK | Disney XD
+http://vip.groupiptv.com:7000/live/marius/marius/3526.ts
+#EXTINF:-1,UK | Dmax
+http://vip.groupiptv.com:7000/live/marius/marius/3528.ts
+#EXTINF:-1,UK | Drama
+http://vip.groupiptv.com:7000/live/marius/marius/3529.ts
+#EXTINF:-1,UK | E4
+http://vip.groupiptv.com:7000/live/marius/marius/3530.ts
+#EXTINF:-1,UK | Eir Sport 1
+http://vip.groupiptv.com:7000/live/marius/marius/3531.ts
+#EXTINF:-1,UK | Eir Sport 2
+http://vip.groupiptv.com:7000/live/marius/marius/3532.ts
+#EXTINF:-1,UK | ESPN
+http://vip.groupiptv.com:7000/live/marius/marius/3533.ts
+#EXTINF:-1,UK | Eurosport 1
+http://vip.groupiptv.com:7000/live/marius/marius/3534.ts
+#EXTINF:-1,UK | Eurosport 2
+http://vip.groupiptv.com:7000/live/marius/marius/3535.ts
+#EXTINF:-1,UK | Film 4
+http://vip.groupiptv.com:7000/live/marius/marius/3536.ts
+#EXTINF:-1,UK | Five
+http://vip.groupiptv.com:7000/live/marius/marius/3537.ts
+#EXTINF:-1,UK | Flava
+http://vip.groupiptv.com:7000/live/marius/marius/3538.ts
+#EXTINF:-1,UK | Food Network
+http://vip.groupiptv.com:7000/live/marius/marius/3542.ts
+#EXTINF:-1,UK | FOX
+http://vip.groupiptv.com:7000/live/marius/marius/3539.ts
+#EXTINF:-1,UK | FOX Crime
+http://vip.groupiptv.com:7000/live/marius/marius/3540.ts
+#EXTINF:-1,UK | FOX News
+http://vip.groupiptv.com:7000/live/marius/marius/3541.ts
+#EXTINF:-1,UK | Gold
+http://vip.groupiptv.com:7000/live/marius/marius/3543.ts
+#EXTINF:-1,UK | Good Food
+http://vip.groupiptv.com:7000/live/marius/marius/3544.ts
+#EXTINF:-1,UK | History Channel
+http://vip.groupiptv.com:7000/live/marius/marius/3545.ts
+#EXTINF:-1,UK | Home and Health
+http://vip.groupiptv.com:7000/live/marius/marius/3546.ts
+#EXTINF:-1,UK | ITV 1
+http://vip.groupiptv.com:7000/live/marius/marius/3547.ts
+#EXTINF:-1,UK | ITV 2
+http://vip.groupiptv.com:7000/live/marius/marius/3548.ts
+#EXTINF:-1,UK | ITV 3
+http://vip.groupiptv.com:7000/live/marius/marius/3549.ts
+#EXTINF:-1,UK | ITV 4
+http://vip.groupiptv.com:7000/live/marius/marius/3550.ts
+#EXTINF:-1,UK | ITV Be
+http://vip.groupiptv.com:7000/live/marius/marius/3551.ts
+#EXTINF:-1,UK | ITV Encore
+http://vip.groupiptv.com:7000/live/marius/marius/3552.ts
+#EXTINF:-1,UK | Kix
+http://vip.groupiptv.com:7000/live/marius/marius/3553.ts
+#EXTINF:-1,UK | Lifetime
+http://vip.groupiptv.com:7000/live/marius/marius/3554.ts
+#EXTINF:-1,UK | Liverpool FC
+http://vip.groupiptv.com:7000/live/marius/marius/3555.ts
+#EXTINF:-1,UK | Manchester United FC
+http://vip.groupiptv.com:7000/live/marius/marius/3556.ts
+#EXTINF:-1,UK | More 4
+http://vip.groupiptv.com:7000/live/marius/marius/3557.ts
+#EXTINF:-1,UK | Motors TV
+http://vip.groupiptv.com:7000/live/marius/marius/3558.ts
+#EXTINF:-1,UK | Movies 24
+http://vip.groupiptv.com:7000/live/marius/marius/3562.ts
+#EXTINF:-1,UK | Movies 4 Men
+http://vip.groupiptv.com:7000/live/marius/marius/3559.ts
+#EXTINF:-1,UK | MTV Hits
+http://vip.groupiptv.com:7000/live/marius/marius/3560.ts
+#EXTINF:-1,UK | MTV Music
+http://vip.groupiptv.com:7000/live/marius/marius/3561.ts
+#EXTINF:-1,UK | National Geographic
+http://vip.groupiptv.com:7000/live/marius/marius/3563.ts
+#EXTINF:-1,UK | National Geographic Wild
+http://vip.groupiptv.com:7000/live/marius/marius/3564.ts
+#EXTINF:-1,UK | Nick Junior
+http://vip.groupiptv.com:7000/live/marius/marius/3566.ts
+#EXTINF:-1,UK | Nickelodeon
+http://vip.groupiptv.com:7000/live/marius/marius/3565.ts
+#EXTINF:-1,UK | Nicktoons
+http://vip.groupiptv.com:7000/live/marius/marius/3567.ts
+#EXTINF:-1,UK | Pick TV
+http://vip.groupiptv.com:7000/live/marius/marius/3568.ts
+#EXTINF:-1,UK | Premier Sports
+http://vip.groupiptv.com:7000/live/marius/marius/3569.ts
+#EXTINF:-1,UK | Quest
+http://vip.groupiptv.com:7000/live/marius/marius/3570.ts
+#EXTINF:-1,UK | Racing UK
+http://vip.groupiptv.com:7000/live/marius/marius/3571.ts
+#EXTINF:-1,UK | Really
+http://vip.groupiptv.com:7000/live/marius/marius/3572.ts
+#EXTINF:-1,UK | RTE 1
+http://vip.groupiptv.com:7000/live/marius/marius/3573.ts
+#EXTINF:-1,UK | RTE 2
+http://vip.groupiptv.com:7000/live/marius/marius/3574.ts
+#EXTINF:-1,UK | Sky Arts 1
+http://vip.groupiptv.com:7000/live/marius/marius/3575.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://vip.groupiptv.com:7000/live/marius/marius/3576.ts
+#EXTINF:-1,UK | Sky Living UK
+http://vip.groupiptv.com:7000/live/marius/marius/3577.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://vip.groupiptv.com:7000/live/marius/marius/3578.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://vip.groupiptv.com:7000/live/marius/marius/3579.ts
+#EXTINF:-1,UK | Sky Movies Drama
+http://vip.groupiptv.com:7000/live/marius/marius/3580.ts
+#EXTINF:-1,UK | Sky Movies Family
+http://vip.groupiptv.com:7000/live/marius/marius/3581.ts
+#EXTINF:-1,UK | Sky Movies Modern Greats
+http://vip.groupiptv.com:7000/live/marius/marius/3582.ts
+#EXTINF:-1,UK | Sky Movies Premiere
+http://vip.groupiptv.com:7000/live/marius/marius/3583.ts
+#EXTINF:-1,UK | Sky Movies Scifi Horror
+http://vip.groupiptv.com:7000/live/marius/marius/3584.ts
+#EXTINF:-1,UK | Sky Movies Select
+http://vip.groupiptv.com:7000/live/marius/marius/3585.ts
+#EXTINF:-1,UK | Sky Movies Showcase
+http://vip.groupiptv.com:7000/live/marius/marius/3586.ts
+#EXTINF:-1,UK | Sky Movies Thriller
+http://vip.groupiptv.com:7000/live/marius/marius/3587.ts
+#EXTINF:-1,UK | SKY News
+http://vip.groupiptv.com:7000/live/marius/marius/3588.ts
+#EXTINF:-1,UK | Sky One
+http://vip.groupiptv.com:7000/live/marius/marius/3589.ts
+#EXTINF:-1,UK | Sky Sports 1
+http://vip.groupiptv.com:7000/live/marius/marius/3590.ts
+#EXTINF:-1,UK | Sky Sports 1 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3591.ts
+#EXTINF:-1,UK | Sky Sports 2
+http://vip.groupiptv.com:7000/live/marius/marius/3592.ts
+#EXTINF:-1,UK | Sky Sports 2 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3593.ts
+#EXTINF:-1,UK | Sky Sports 3
+http://vip.groupiptv.com:7000/live/marius/marius/3594.ts
+#EXTINF:-1,UK | Sky Sports 3 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3595.ts
+#EXTINF:-1,UK | Sky Sports 4
+http://vip.groupiptv.com:7000/live/marius/marius/3596.ts
+#EXTINF:-1,UK | Sky Sports 4 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3597.ts
+#EXTINF:-1,UK | Sky Sports 5
+http://vip.groupiptv.com:7000/live/marius/marius/3598.ts
+#EXTINF:-1,UK | Sky Sports 5 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3599.ts
+#EXTINF:-1,UK | Sky Sports F1
+http://vip.groupiptv.com:7000/live/marius/marius/3600.ts
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://vip.groupiptv.com:7000/live/marius/marius/3601.ts
+#EXTINF:-1,UK | Sky Sports News
+http://vip.groupiptv.com:7000/live/marius/marius/3602.ts
+#EXTINF:-1,UK | Sky Two
+http://vip.groupiptv.com:7000/live/marius/marius/3603.ts
+#EXTINF:-1,UK | Spike
+http://vip.groupiptv.com:7000/live/marius/marius/3604.ts
+#EXTINF:-1,UK | SyFy
+http://vip.groupiptv.com:7000/live/marius/marius/3605.ts
+#EXTINF:-1,UK | TG 4
+http://vip.groupiptv.com:7000/live/marius/marius/3606.ts
+#EXTINF:-1,UK | The Vault
+http://vip.groupiptv.com:7000/live/marius/marius/3607.ts
+#EXTINF:-1,UK | TLC
+http://vip.groupiptv.com:7000/live/marius/marius/3608.ts
+#EXTINF:-1,UK | TMC
+http://vip.groupiptv.com:7000/live/marius/marius/3609.ts
+#EXTINF:-1,UK | Travel Channel
+http://vip.groupiptv.com:7000/live/marius/marius/3610.ts
+#EXTINF:-1,UK | True Entertainment
+http://vip.groupiptv.com:7000/live/marius/marius/3611.ts
+#EXTINF:-1,UK | True Movies 1
+http://vip.groupiptv.com:7000/live/marius/marius/3612.ts
+#EXTINF:-1,UK | True Movies 2
+http://vip.groupiptv.com:7000/live/marius/marius/3613.ts
+#EXTINF:-1,UK | TV3
+http://vip.groupiptv.com:7000/live/marius/marius/3614.ts
+#EXTINF:-1,UK | TV3 Plus 1
+http://vip.groupiptv.com:7000/live/marius/marius/3615.ts
+#EXTINF:-1,UK | Universal
+http://vip.groupiptv.com:7000/live/marius/marius/3616.ts
+#EXTINF:-1,UK | VH1
+http://vip.groupiptv.com:7000/live/marius/marius/3617.ts
+#EXTINF:-1,UK | W
+http://vip.groupiptv.com:7000/live/marius/marius/3618.ts
+#EXTINF:-1,UK | Watch
+http://vip.groupiptv.com:7000/live/marius/marius/3619.ts
+#EXTINF:-1,UK | Yesterday
+http://vip.groupiptv.com:7000/live/marius/marius/3620.ts
+#EXTINF:-1,UK_Sky Arts
+http://vip.groupiptv.com:7000/live/marius/marius/5329.ts
 
 
 
-#EXTINF:-1,ENL:NBC HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4241.ts
-#EXTINF:-1,ENL:NASA TV HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4239.ts
-#EXTINF:-1,ENL:FOX HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4243.ts
-#EXTINF:-1,ENL:CTV Edmonton HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4237.ts
-#EXTINF:-1,ENL:CITY Edmonton HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4238.ts
-#EXTINF:-1,ENL:CBS HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4242.ts
-#EXTINF:-1,ENL:bloomberg HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4240.ts
-#EXTINF:-1,ENL:ABC HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/4244.ts
-#EXTINF:-1,USA: Vevo 2
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1836.ts
-#EXTINF:-1,USA: Vevo 1
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/1835.ts
-#EXTINF:-1,USA:L VEVO
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2449.ts
-#EXTINF:-1,USA:L USA Network
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2408.ts
-#EXTINF:-1,USA:L US TLC
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2456.ts
-#EXTINF:-1,USA:L US TBS HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2421.ts
-#EXTINF:-1,USA:L US NICK
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2458.ts
-#EXTINF:-1,USA:L TNT
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2418.ts
-#EXTINF:-1,USA:L THE CW Central
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2412.ts
-#EXTINF:-1,USA:L SYFY USA
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2425.ts
-#EXTINF:-1,USA:L SPIKE HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2428.ts
-#EXTINF:-1,USA:L SHOWTIME HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2438.ts
-#EXTINF:-1,USA:L PBS HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2422.ts
-#EXTINF:-1,USA:L NBC HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2420.ts
-#EXTINF:-1,USA:L NBC
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2419.ts
-#EXTINF:-1,USA:L my9
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2423.ts
-#EXTINF:-1,USA:L Lifetime
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2424.ts
-#EXTINF:-1,USA:L KNBC (Los Angeles) NBC HD West
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2450.ts
-#EXTINF:-1,USA:L History Channel USA
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2439.ts
-#EXTINF:-1,USA:L HGTV HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2430.ts
-#EXTINF:-1,USA:L HBO Zone HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2451.ts
-#EXTINF:-1,USA:L HBO HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2453.ts
-#EXTINF:-1,USA:L HBO FAMILY
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2454.ts
-#EXTINF:-1,USA:L Hallmark
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2455.ts
-#EXTINF:-1,USA:L Global EDminton
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2426.ts
-#EXTINF:-1,USA:L FX HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2434.ts
-#EXTINF:-1,USA:L FREEFORM HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2429.ts
-#EXTINF:-1,USA:L FOX 43
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2415.ts
-#EXTINF:-1,USA:L ESPN 2 USA
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2460.ts
-#EXTINF:-1,USA:L ESPN
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2459.ts
-#EXTINF:-1,USA:L DIY Network HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2437.ts
-#EXTINF:-1,USA:L Discovery Channel
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2440.ts
-#EXTINF:-1,USA:L CW HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2411.ts
-#EXTINF:-1,USA:L Comedy Central HD US
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2448.ts
-#EXTINF:-1,USA:L CNN
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2444.ts
-#EXTINF:-1,USA:L CNBC
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2445.ts
-#EXTINF:-1,USA:L CITY HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2431.ts
-#EXTINF:-1,USA:L CBS HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2416.ts
-#EXTINF:-1,USA:L Cartoon Network USA
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2457.ts
-#EXTINF:-1,USA:L BRAVO USA
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2432.ts
-#EXTINF:-1,USA:L Animal Planet US
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2442.ts
-#EXTINF:-1,USA:L AMC
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2409.ts
-#EXTINF:-1,USA:L ABC NEWS
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2446.ts
-#EXTINF:-1,USA:L ABC HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2410.ts
-#EXTINF:-1,USA:L ABC _HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2413.ts
-#EXTINF:-1,USA:L A & E
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2417.ts
-#EXTINF:-1,USA:L .CTV HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/2435.ts
-#EXTINF:-1,DE: Sky Select 5HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3527.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3526.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3525.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3524.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3523.ts
-#EXTINF:-1,DE: History HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3522.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3529.ts
-#EXTINF:-1,DE: 3sat HD
-http://xcmain.mine.nu:8080/live/jimbojimbo884/dBVK8G8AK6/3373.ts
 
+
+
+
+
+#EXTINF:-1,USA | ABC News
+http://vip.groupiptv.com:7000/live/marius/marius/4181.ts
+#EXTINF:-1,USA | Animal Planet
+http://vip.groupiptv.com:7000/live/marius/marius/4182.ts
+#EXTINF:-1,USA | Bein USA
+http://vip.groupiptv.com:7000/live/marius/marius/4183.ts
+#EXTINF:-1,USA | Bloomberg
+http://vip.groupiptv.com:7000/live/marius/marius/4184.ts
+#EXTINF:-1,USA | CBS
+http://vip.groupiptv.com:7000/live/marius/marius/4197.ts
+#EXTINF:-1,USA | CBSN
+http://vip.groupiptv.com:7000/live/marius/marius/4202.ts
+#EXTINF:-1,USA | CNBC
+http://vip.groupiptv.com:7000/live/marius/marius/4185.ts
+#EXTINF:-1,USA | CNN
+http://vip.groupiptv.com:7000/live/marius/marius/4186.ts
+#EXTINF:-1,USA | ESPN USA
+http://vip.groupiptv.com:7000/live/marius/marius/4187.ts
+#EXTINF:-1,USA | Fox Sports 1
+http://vip.groupiptv.com:7000/live/marius/marius/4188.ts
+#EXTINF:-1,USA | FOX Sports 2
+http://vip.groupiptv.com:7000/live/marius/marius/4189.ts
+#EXTINF:-1,USA | NBA TV
+http://vip.groupiptv.com:7000/live/marius/marius/4190.ts
+#EXTINF:-1,USA | NBC SN
+http://vip.groupiptv.com:7000/live/marius/marius/4191.ts
+#EXTINF:-1,USA | NDTV
+http://vip.groupiptv.com:7000/live/marius/marius/4199.ts
+#EXTINF:-1,USA | NFL
+http://vip.groupiptv.com:7000/live/marius/marius/4200.ts
+#EXTINF:-1,USA | PAG
+http://vip.groupiptv.com:7000/live/marius/marius/4201.ts
+#EXTINF:-1,USA | Poker Central
+http://vip.groupiptv.com:7000/live/marius/marius/4203.ts
+#EXTINF:-1,USA | Space
+http://vip.groupiptv.com:7000/live/marius/marius/4204.ts
+#EXTINF:-1,USA | TSN 1
+http://vip.groupiptv.com:7000/live/marius/marius/4192.ts
+#EXTINF:-1,USA | TSN 2
+http://vip.groupiptv.com:7000/live/marius/marius/4193.ts
+#EXTINF:-1,USA | TSN 3
+http://vip.groupiptv.com:7000/live/marius/marius/4194.ts
+#EXTINF:-1,USA | TSN 4
+http://vip.groupiptv.com:7000/live/marius/marius/4195.ts
+#EXTINF:-1,USA | TSN 5
+http://vip.groupiptv.com:7000/live/marius/marius/4196.ts
+#EXTINF:-1,USA | WWE
+http://vip.groupiptv.com:7000/live/marius/marius/4198.ts
+#EXTINF:-1,USA VIP | ***** U.S.A VIP *****
+http://vip.groupiptv.com:7000/live/marius/marius/4205.ts
+#EXTINF:-1,USA VIP | 360 North
+http://vip.groupiptv.com:7000/live/marius/marius/4206.ts
+#EXTINF:-1,USA VIP | A&E
+http://vip.groupiptv.com:7000/live/marius/marius/4207.ts
+#EXTINF:-1,USA VIP | AFN Sports
+http://vip.groupiptv.com:7000/live/marius/marius/4230.ts
+#EXTINF:-1,USA VIP | AFN Sports 2
+http://vip.groupiptv.com:7000/live/marius/marius/4231.ts
+#EXTINF:-1,USA VIP | Aljazeera US
+http://vip.groupiptv.com:7000/live/marius/marius/4208.ts
+#EXTINF:-1,USA VIP | AMC
+http://vip.groupiptv.com:7000/live/marius/marius/4209.ts
+#EXTINF:-1,USA VIP | Animal Planet
+http://vip.groupiptv.com:7000/live/marius/marius/4263.ts
+#EXTINF:-1,USA VIP | Bein Sports
+http://vip.groupiptv.com:7000/live/marius/marius/4254.ts
+#EXTINF:-1,USA VIP | Bloomberg
+http://vip.groupiptv.com:7000/live/marius/marius/4225.ts
+#EXTINF:-1,USA VIP | BYU Sports TV
+http://vip.groupiptv.com:7000/live/marius/marius/4246.ts
+#EXTINF:-1,USA VIP | BYU TV
+http://vip.groupiptv.com:7000/live/marius/marius/4253.ts
+#EXTINF:-1,USA VIP | Cartoon Network
+http://vip.groupiptv.com:7000/live/marius/marius/4261.ts
+#EXTINF:-1,USA VIP | CBS
+http://vip.groupiptv.com:7000/live/marius/marius/4262.ts
+#EXTINF:-1,USA VIP | CBSN-US
+http://vip.groupiptv.com:7000/live/marius/marius/4226.ts
+#EXTINF:-1,USA VIP | Cinemax 5 Starmax
+http://vip.groupiptv.com:7000/live/marius/marius/4245.ts
+#EXTINF:-1,USA VIP | Cinemax East
+http://vip.groupiptv.com:7000/live/marius/marius/4244.ts
+#EXTINF:-1,USA VIP | Cinemax Moremax
+http://vip.groupiptv.com:7000/live/marius/marius/4243.ts
+#EXTINF:-1,USA VIP | CityTV Toronto
+http://vip.groupiptv.com:7000/live/marius/marius/4210.ts
+#EXTINF:-1,USA VIP | CNBC
+http://vip.groupiptv.com:7000/live/marius/marius/4211.ts
+#EXTINF:-1,USA VIP | CNN
+http://vip.groupiptv.com:7000/live/marius/marius/4239.ts
+#EXTINF:-1,USA VIP | Crime and Investigation
+http://vip.groupiptv.com:7000/live/marius/marius/4266.ts
+#EXTINF:-1,USA VIP | CW
+http://vip.groupiptv.com:7000/live/marius/marius/4212.ts
+#EXTINF:-1,USA VIP | Discovery
+http://vip.groupiptv.com:7000/live/marius/marius/4238.ts
+#EXTINF:-1,USA VIP | Discovery Science
+http://vip.groupiptv.com:7000/live/marius/marius/4260.ts
+#EXTINF:-1,USA VIP | Discovery Velocity
+http://vip.groupiptv.com:7000/live/marius/marius/4268.ts
+#EXTINF:-1,USA VIP | E! Network
+http://vip.groupiptv.com:7000/live/marius/marius/4216.ts
+#EXTINF:-1,USA VIP | ESPN
+http://vip.groupiptv.com:7000/live/marius/marius/4228.ts
+#EXTINF:-1,USA VIP | ESPN 2
+http://vip.groupiptv.com:7000/live/marius/marius/4229.ts
+#EXTINF:-1,USA VIP | Food Network
+http://vip.groupiptv.com:7000/live/marius/marius/4218.ts
+#EXTINF:-1,USA VIP | FOX
+http://vip.groupiptv.com:7000/live/marius/marius/4219.ts
+#EXTINF:-1,USA VIP | Fox Sports 1
+http://vip.groupiptv.com:7000/live/marius/marius/4220.ts
+#EXTINF:-1,USA VIP | Fox Sports 2
+http://vip.groupiptv.com:7000/live/marius/marius/4221.ts
+#EXTINF:-1,USA VIP | Fox Sports 506
+http://vip.groupiptv.com:7000/live/marius/marius/4222.ts
+#EXTINF:-1,USA VIP | FreeRom
+http://vip.groupiptv.com:7000/live/marius/marius/4217.ts
+#EXTINF:-1,USA VIP | FX
+http://vip.groupiptv.com:7000/live/marius/marius/4223.ts
+#EXTINF:-1,USA VIP | Hallmark
+http://vip.groupiptv.com:7000/live/marius/marius/4259.ts
+#EXTINF:-1,USA VIP | HBO
+http://vip.groupiptv.com:7000/live/marius/marius/4234.ts
+#EXTINF:-1,USA VIP | HBO Comedy
+http://vip.groupiptv.com:7000/live/marius/marius/4236.ts
+#EXTINF:-1,USA VIP | HBO Signature
+http://vip.groupiptv.com:7000/live/marius/marius/4235.ts
+#EXTINF:-1,USA VIP | History
+http://vip.groupiptv.com:7000/live/marius/marius/4265.ts
+#EXTINF:-1,USA VIP | Music
+http://vip.groupiptv.com:7000/live/marius/marius/4267.ts
+#EXTINF:-1,USA VIP | Mute TV
+http://vip.groupiptv.com:7000/live/marius/marius/4252.ts
+#EXTINF:-1,USA VIP | NASA
+http://vip.groupiptv.com:7000/live/marius/marius/4224.ts
+#EXTINF:-1,USA VIP | National Geographic
+http://vip.groupiptv.com:7000/live/marius/marius/4264.ts
+#EXTINF:-1,USA VIP | NBA
+http://vip.groupiptv.com:7000/live/marius/marius/4250.ts
+#EXTINF:-1,USA VIP | NBA Versus
+http://vip.groupiptv.com:7000/live/marius/marius/4251.ts
+#EXTINF:-1,USA VIP | NBC
+http://vip.groupiptv.com:7000/live/marius/marius/4213.ts
+#EXTINF:-1,USA VIP | NBC Golf
+http://vip.groupiptv.com:7000/live/marius/marius/4214.ts
+#EXTINF:-1,USA VIP | NBC Sport
+http://vip.groupiptv.com:7000/live/marius/marius/4215.ts
+#EXTINF:-1,USA VIP | NFL
+http://vip.groupiptv.com:7000/live/marius/marius/4240.ts
+#EXTINF:-1,USA VIP | Poker Central
+http://vip.groupiptv.com:7000/live/marius/marius/4227.ts
+#EXTINF:-1,USA VIP | RT Documentary
+http://vip.groupiptv.com:7000/live/marius/marius/4249.ts
+#EXTINF:-1,USA VIP | Showtime
+http://vip.groupiptv.com:7000/live/marius/marius/4232.ts
+#EXTINF:-1,USA VIP | Sports Net 360
+http://vip.groupiptv.com:7000/live/marius/marius/4242.ts
+#EXTINF:-1,USA VIP | Sports Net One
+http://vip.groupiptv.com:7000/live/marius/marius/4241.ts
+#EXTINF:-1,USA VIP | Starz Cinema
+http://vip.groupiptv.com:7000/live/marius/marius/4255.ts
+#EXTINF:-1,USA VIP | Starz East
+http://vip.groupiptv.com:7000/live/marius/marius/4258.ts
+#EXTINF:-1,USA VIP | Starz Edge
+http://vip.groupiptv.com:7000/live/marius/marius/4256.ts
+#EXTINF:-1,USA VIP | Starz Encore
+http://vip.groupiptv.com:7000/live/marius/marius/4257.ts
+#EXTINF:-1,USA VIP | TBS
+http://vip.groupiptv.com:7000/live/marius/marius/4248.ts
+#EXTINF:-1,USA VIP | TLC
+http://vip.groupiptv.com:7000/live/marius/marius/4233.ts
+#EXTINF:-1,USA VIP | Travel Channel
+http://vip.groupiptv.com:7000/live/marius/marius/4247.ts
+#EXTINF:-1,USA VIP | WWE Network
+http://vip.groupiptv.com:7000/live/marius/marius/4237.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,UK(2): 3E Ireland
+http://vip.groupiptv.com:7000/live/marius/marius/5266.ts
+#EXTINF:-1,UK(2): Baby TV
+http://vip.groupiptv.com:7000/live/marius/marius/5317.ts
+#EXTINF:-1,UK(2): BBC 1 HD
+http://vip.groupiptv.com:7000/live/marius/marius/5255.ts
+#EXTINF:-1,UK(2): BBC 4 HD
+http://vip.groupiptv.com:7000/live/marius/marius/5260.ts
+#EXTINF:-1,UK(2): BoomeRang
+http://vip.groupiptv.com:7000/live/marius/marius/5315.ts
+#EXTINF:-1,UK(2): Boomerang 1
+http://vip.groupiptv.com:7000/live/marius/marius/5316.ts
+#EXTINF:-1,UK(2): BT Sport ESPN
+http://vip.groupiptv.com:7000/live/marius/marius/5369.ts
+#EXTINF:-1,UK(2): Cartoon Network
+http://vip.groupiptv.com:7000/live/marius/marius/5309.ts
+#EXTINF:-1,UK(2): CBS Action
+http://vip.groupiptv.com:7000/live/marius/marius/5321.ts
+#EXTINF:-1,UK(2): CBS Drama
+http://vip.groupiptv.com:7000/live/marius/marius/5322.ts
+#EXTINF:-1,UK(2): CBS Reality
+http://vip.groupiptv.com:7000/live/marius/marius/5323.ts
+#EXTINF:-1,UK(2): CHANNEL 5
+http://vip.groupiptv.com:7000/live/marius/marius/5262.ts
+#EXTINF:-1,UK(2): Chelsea TV
+http://vip.groupiptv.com:7000/live/marius/marius/5365.ts
+#EXTINF:-1,UK(2): Comedy Central
+http://vip.groupiptv.com:7000/live/marius/marius/5283.ts
+#EXTINF:-1,UK(2): Discovery Channel
+http://vip.groupiptv.com:7000/live/marius/marius/5356.ts
+#EXTINF:-1,UK(2): Discovery History
+http://vip.groupiptv.com:7000/live/marius/marius/5361.ts
+#EXTINF:-1,UK(2): Disney Junior
+http://vip.groupiptv.com:7000/live/marius/marius/5308.ts
+#EXTINF:-1,UK(2): E!
+http://vip.groupiptv.com:7000/live/marius/marius/5267.ts
+#EXTINF:-1,UK(2): EuroSport 2
+http://vip.groupiptv.com:7000/live/marius/marius/5371.ts
+#EXTINF:-1,UK(2): Film 4 HD
+http://vip.groupiptv.com:7000/live/marius/marius/5326.ts
+#EXTINF:-1,UK(2): Fox sd
+http://vip.groupiptv.com:7000/live/marius/marius/5280.ts
+#EXTINF:-1,UK(2): Gold TV
+http://vip.groupiptv.com:7000/live/marius/marius/5305.ts
+#EXTINF:-1,UK(2): HBO
+http://vip.groupiptv.com:7000/live/marius/marius/5304.ts
+#EXTINF:-1,UK(2): HBO Comedy HD
+http://vip.groupiptv.com:7000/live/marius/marius/5303.ts
+#EXTINF:-1,UK(2): History Channel
+http://vip.groupiptv.com:7000/live/marius/marius/5362.ts
+#EXTINF:-1,UK(2): ITV 1
+http://vip.groupiptv.com:7000/live/marius/marius/5269.ts
+#EXTINF:-1,UK(2): ITV 2 HD
+http://vip.groupiptv.com:7000/live/marius/marius/5270.ts
+#EXTINF:-1,UK(2): ITV 3
+http://vip.groupiptv.com:7000/live/marius/marius/5271.ts
+#EXTINF:-1,UK(2): ITV 4
+http://vip.groupiptv.com:7000/live/marius/marius/5272.ts
+#EXTINF:-1,UK(2): Itv Encore
+http://vip.groupiptv.com:7000/live/marius/marius/5268.ts
+#EXTINF:-1,UK(2): ITVBE
+http://vip.groupiptv.com:7000/live/marius/marius/5351.ts
+#EXTINF:-1,UK(2): More4
+http://vip.groupiptv.com:7000/live/marius/marius/5261.ts
+#EXTINF:-1,UK(2): Movies24
+http://vip.groupiptv.com:7000/live/marius/marius/5320.ts
+#EXTINF:-1,UK(2): Movies4Man
+http://vip.groupiptv.com:7000/live/marius/marius/5319.ts
+#EXTINF:-1,UK(2): Movies4Man1
+http://vip.groupiptv.com:7000/live/marius/marius/5318.ts
+#EXTINF:-1,UK(2): MTV Base
+http://vip.groupiptv.com:7000/live/marius/marius/5341.ts
+#EXTINF:-1,UK(2): MTV Dance
+http://vip.groupiptv.com:7000/live/marius/marius/5340.ts
+#EXTINF:-1,UK(2): MTV Hits
+http://vip.groupiptv.com:7000/live/marius/marius/5339.ts
+#EXTINF:-1,UK(2): MTV Music
+http://vip.groupiptv.com:7000/live/marius/marius/5338.ts
+#EXTINF:-1,UK(2): MTV Rocks
+http://vip.groupiptv.com:7000/live/marius/marius/5337.ts
+#EXTINF:-1,UK(2): Nat Geo
+http://vip.groupiptv.com:7000/live/marius/marius/5359.ts
+#EXTINF:-1,UK(2): Nat Geo Wild
+http://vip.groupiptv.com:7000/live/marius/marius/5357.ts
+#EXTINF:-1,UK(2): National Geographic Channel
+http://vip.groupiptv.com:7000/live/marius/marius/5358.ts
+#EXTINF:-1,UK(2): NIck JR
+http://vip.groupiptv.com:7000/live/marius/marius/5310.ts
+#EXTINF:-1,UK(2): Nick JR 1
+http://vip.groupiptv.com:7000/live/marius/marius/5313.ts
+#EXTINF:-1,UK(2): Nick JR Peppa
+http://vip.groupiptv.com:7000/live/marius/marius/5314.ts
+#EXTINF:-1,UK(2): Nickelodeon
+http://vip.groupiptv.com:7000/live/marius/marius/5311.ts
+#EXTINF:-1,UK(2): NickToons
+http://vip.groupiptv.com:7000/live/marius/marius/5312.ts
+#EXTINF:-1,UK(2): REALLY
+http://vip.groupiptv.com:7000/live/marius/marius/5350.ts
+#EXTINF:-1,UK(2): RTE 3 J.R
+http://vip.groupiptv.com:7000/live/marius/marius/5265.ts
+#EXTINF:-1,UK(2): RTE One
+http://vip.groupiptv.com:7000/live/marius/marius/5264.ts
+#EXTINF:-1,UK(2): RTE Two
+http://vip.groupiptv.com:7000/live/marius/marius/5263.ts
+#EXTINF:-1,UK(2): Setanta spor
+http://vip.groupiptv.com:7000/live/marius/marius/5370.ts
+#EXTINF:-1,UK(2): SKY Atlantic HD
+http://vip.groupiptv.com:7000/live/marius/marius/5286.ts
+#EXTINF:-1,UK(2): Sky Movies  Premiere
+http://vip.groupiptv.com:7000/live/marius/marius/5288.ts
+#EXTINF:-1,UK(2): Sky Movies Action
+http://vip.groupiptv.com:7000/live/marius/marius/5292.ts
+#EXTINF:-1,UK(2): Sky Movies Action & Adventure HD
+http://vip.groupiptv.com:7000/live/marius/marius/5289.ts
+#EXTINF:-1,UK(2): Sky Movies Comedy HD
+http://vip.groupiptv.com:7000/live/marius/marius/5294.ts
+#EXTINF:-1,UK(2): Sky Movies Crime &Thriller HD
+http://vip.groupiptv.com:7000/live/marius/marius/5297.ts
+#EXTINF:-1,UK(2): SKY Movies Disney HD
+http://vip.groupiptv.com:7000/live/marius/marius/5306.ts
+#EXTINF:-1,UK(2): Sky Movies Drama & Romance
+http://vip.groupiptv.com:7000/live/marius/marius/5295.ts
+#EXTINF:-1,UK(2): Sky Movies Drama & Romance.
+http://vip.groupiptv.com:7000/live/marius/marius/5296.ts
+#EXTINF:-1,UK(2): Sky Movies Family HD
+http://vip.groupiptv.com:7000/live/marius/marius/5293.ts
+#EXTINF:-1,UK(2): Sky Movies Greats HD HarryPotter
+http://vip.groupiptv.com:7000/live/marius/marius/5300.ts
+#EXTINF:-1,UK(2): Sky Movies Hits Showcase HD
+http://vip.groupiptv.com:7000/live/marius/marius/5290.ts
+#EXTINF:-1,UK(2): SKY Movies Premier HD
+http://vip.groupiptv.com:7000/live/marius/marius/5287.ts
+#EXTINF:-1,UK(2): Sky Movies Sci-fi & Horror HD
+http://vip.groupiptv.com:7000/live/marius/marius/5299.ts
+#EXTINF:-1,UK(2): Sky Movies Select
+http://vip.groupiptv.com:7000/live/marius/marius/5301.ts
+#EXTINF:-1,UK(2): Sky One HD
+http://vip.groupiptv.com:7000/live/marius/marius/5284.ts
+#EXTINF:-1,UK(2): Sky Sport F1 HD
+http://vip.groupiptv.com:7000/live/marius/marius/5368.ts
+#EXTINF:-1,UK(2): Sky Sport News HD
+http://vip.groupiptv.com:7000/live/marius/marius/5367.ts
+#EXTINF:-1,UK(2): Sky Thriller
+http://vip.groupiptv.com:7000/live/marius/marius/5298.ts
+#EXTINF:-1,UK(2): SKY Two HD
+http://vip.groupiptv.com:7000/live/marius/marius/5285.ts
+#EXTINF:-1,UK(2): SkySelect
+http://vip.groupiptv.com:7000/live/marius/marius/5302.ts
+#EXTINF:-1,UK(2): SkyShowcase
+http://vip.groupiptv.com:7000/live/marius/marius/5291.ts
+#EXTINF:-1,UK(2): Sony Max
+http://vip.groupiptv.com:7000/live/marius/marius/5336.ts
+#EXTINF:-1,UK(2): Sony Movie
+http://vip.groupiptv.com:7000/live/marius/marius/5335.ts
+#EXTINF:-1,UK(2): Sony Sab
+http://vip.groupiptv.com:7000/live/marius/marius/5334.ts
+#EXTINF:-1,UK(2): SONY TV
+http://vip.groupiptv.com:7000/live/marius/marius/5333.ts
+#EXTINF:-1,UK(2): Star Gold
+http://vip.groupiptv.com:7000/live/marius/marius/5332.ts
+#EXTINF:-1,UK(2): Star LifeOK (hindi)
+http://vip.groupiptv.com:7000/live/marius/marius/5331.ts
+#EXTINF:-1,UK(2): SYFY
+http://vip.groupiptv.com:7000/live/marius/marius/5278.ts
+#EXTINF:-1,UK(2): TCM (film)
+http://vip.groupiptv.com:7000/live/marius/marius/5281.ts
+#EXTINF:-1,UK(2): TLC-IRELAND
+http://vip.groupiptv.com:7000/live/marius/marius/5276.ts
+#EXTINF:-1,UK(2): True Movies 1
+http://vip.groupiptv.com:7000/live/marius/marius/5324.ts
+#EXTINF:-1,UK(2): True Movies 2
+http://vip.groupiptv.com:7000/live/marius/marius/5325.ts
+#EXTINF:-1,UK(2): TV Nasa
+http://vip.groupiptv.com:7000/live/marius/marius/5275.ts
+#EXTINF:-1,UK(2): Watch
+http://vip.groupiptv.com:7000/live/marius/marius/5273.ts
+#EXTINF:-1,UK(2):3E
+http://vip.groupiptv.com:7000/live/marius/marius/5343.ts
+#EXTINF:-1,UK(2):5 USA
+http://vip.groupiptv.com:7000/live/marius/marius/5342.ts
+#EXTINF:-1,UK(2):Alibi
+http://vip.groupiptv.com:7000/live/marius/marius/5330.ts
+#EXTINF:-1,UK(2):Animal Planet
+http://vip.groupiptv.com:7000/live/marius/marius/5363.ts
+#EXTINF:-1,UK(2):At The Races
+http://vip.groupiptv.com:7000/live/marius/marius/5366.ts
+#EXTINF:-1,UK(2):BBC News
+http://vip.groupiptv.com:7000/live/marius/marius/5259.ts
+#EXTINF:-1,UK(2):BBC Two
+http://vip.groupiptv.com:7000/live/marius/marius/5257.ts
+#EXTINF:-1,UK(2):BBC_one
+http://vip.groupiptv.com:7000/live/marius/marius/5256.ts
+#EXTINF:-1,UK(2):CBBC Three
+http://vip.groupiptv.com:7000/live/marius/marius/5258.ts
+#EXTINF:-1,UK(2):Channel 4
+http://vip.groupiptv.com:7000/live/marius/marius/5328.ts
+#EXTINF:-1,UK(2):Dave
+http://vip.groupiptv.com:7000/live/marius/marius/5364.ts
+#EXTINF:-1,UK(2):Discovery
+http://vip.groupiptv.com:7000/live/marius/marius/5355.ts
+#EXTINF:-1,UK(2):Discovery Home Health
+http://vip.groupiptv.com:7000/live/marius/marius/5354.ts
+#EXTINF:-1,UK(2):Discovery Science
+http://vip.groupiptv.com:7000/live/marius/marius/5353.ts
+#EXTINF:-1,UK(2):Discovery Turbo
+http://vip.groupiptv.com:7000/live/marius/marius/5352.ts
+#EXTINF:-1,UK(2):Disney XD
+http://vip.groupiptv.com:7000/live/marius/marius/5307.ts
+#EXTINF:-1,UK(2):Film 4
+http://vip.groupiptv.com:7000/live/marius/marius/5327.ts
+#EXTINF:-1,UK(2):FOX
+http://vip.groupiptv.com:7000/live/marius/marius/5279.ts
+#EXTINF:-1,UK(2):Good Food
+http://vip.groupiptv.com:7000/live/marius/marius/5347.ts
+#EXTINF:-1,UK(2):Life Time
+http://vip.groupiptv.com:7000/live/marius/marius/5282.ts
+#EXTINF:-1,UK(2):PICK
+http://vip.groupiptv.com:7000/live/marius/marius/5349.ts
+#EXTINF:-1,UK(2):Quest
+http://vip.groupiptv.com:7000/live/marius/marius/5348.ts
+#EXTINF:-1,UK(2):Sky News
+http://vip.groupiptv.com:7000/live/marius/marius/5346.ts
+#EXTINF:-1,UK(2):TLC
+http://vip.groupiptv.com:7000/live/marius/marius/5345.ts
+#EXTINF:-1,UK(2):Travel
+http://vip.groupiptv.com:7000/live/marius/marius/5344.ts
 
 
 
