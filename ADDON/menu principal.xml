@@ -29,7 +29,7 @@ dir = dmode
 
 <plugin>
 <name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]TV SUPER TUGA[/COLOR] [COLOR lime]• [/COLOR]</name>
-<link>plugin.video.live.TVsupertuga/</link>
+<link>plugin://script.module.schism.addon/</link>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/icqyq510.jpg</fanart>
 <thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/7j1aw610.png</thumbnail>
 </plugin>
