@@ -1,1 +1,164 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjw/eG1sLXN0eWxlc2hlZXQgaHJlZj0iaGlkZS1pdC54c2wiIHR5cGU9InRleHQveHNsIj8+DQoNCjxsYXlvdXR0eXBlPnRodW1ibmFpbDwvbGF5b3V0dHlwZT4NCg0KbmFtZSA9ICBkbW9kZQ0KZGlyID0gZG1vZGUNCg0KDQoNCg0KDQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdQ0xFQVIgQ0FDSEVbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5wbHVnaW46Ly9wbHVnaW4udmlkZW8uVFZzdXBlcnR1Z2EvP2FjdGlvbj1jbGVhckNhY2hlPC9saW5rPg0KPHRodW1ibmFpbD5odHRwczovL2xoNC5nZ3BodC5jb20vU3N1djBDUG5Ra1lBeDFSanJZd1gxQmlLNnQ0NF82a0lkZFJXSUtxelJxa2IyNnNHcklnVXpyMVZPSHF4cHNvRDRnPXczMDA8L3RodW1ibmFpbD4NCjxmYW5hcnQ+aHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3RHNTVuT0JxSmNuT3JMX20xRWx6YTRzMWhvZWdGLUNWdXNBRmdSS1ZMLXphNHZTcXBuekxLX3JVT1FRZlp3b0V1am9DN0JVT0RRPXM2NDAtaDQwMC1lMzY1PC9mYW5hcnQ+DQo8L3BsdWdpbj4NCg0KPHBsdWdpbj4NCjxuYW1lPltDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXSBbQ09MT1IgbGF2ZW5kZXJibHVzaF1QUk9DVVJBUlsvQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPnBsdWdpbjovL3BsdWdpbi52aWRlby5UVnN1cGVydHVnYS8/YWN0aW9uPWFkZFNlYXJjaDwvbGluaz4NCjxmYW5hcnQ+aHR0cDovL2FsZXJ0YS5zdHJhdC1leHAuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy9zaXRlcy8yLzIwMTQvMDQvcHJvY3VyYXItZW1wcmVnby1qb3JuYWwuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2VuLzIvMmYvV2luZG93c19MaXZlX1NlYXJjaF9sb2dvLnBuZzwvdGh1bWJuYWlsPg0KPC9wbHVnaW4+DQoNCg0KDQo8cGx1Z2luPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXVRWIFNVUEVSIFRVR0FbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5zY3JpcHQubW9kdWxlLnNjaGlzbS5hZGRvbjwvbGluaz4NCjxmYW5hcnQ+aHR0cHM6Ly9pMzcuc2VydmltZy5jb20vdS9mMzcvMTkvNDQvOTEvNDMvaWNxeXE1MTAuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHBzOi8vaTM3LnNlcnZpbWcuY29tL3UvZjM3LzE5LzQ0LzkxLzQzLzdqMWF3NjEwLnBuZzwvdGh1bWJuYWlsPg0KPC9wbHVnaW4+DQoNCg0KDQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdQU1FUklLQU5PIFRVR0FbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5wbHVnaW46Ly9wbHVnaW4udmlkZW8uYW1lcmlrYW5vLzwvbGluaz4NCjxmYW5hcnQ+aHR0cHM6Ly9pNTguc2VydmltZy5jb20vdS9mNTgvMTkvNDQvOTEvNDMvZmFuYXJ0MTAuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHBzOi8vbWpvZWhxLXNuMzMwMi5maWxlcy4xZHJ2LmNvbS95M21IX0Y5dS1POEtuQkJrMjE2bXN4QmNwZC1QLVRHMFlMVkdUR3U0V3M3eEZrMVA1cWhjaEZSc2lHRVdfN2F1YUNDNFE5amxMUXpDSEYxUXZtek5yVk1HaWc0N2c3OXBWOVZKTlVGYjlVRnZiQU9Udl9RQlF3REZ5RkxLMWNwYTNCdVcwRkhucFpKYlFibW1aTG4yRHdhSnhEcGp0emd5RXhTQjJRY0dIbzZxcUEvQy1fVXNlcnNfQW50b25pby1Db3N0YV9EZXNrdG9wXy5wbmc/YWNjZXNzX3Rva2VuPUV3RHdBcTFEQkFBVUdDQ1hjOHdVJTJmekZ1OVFuTGRaWHklMmJZbkVsRmtBQVM3WjNnT0g1R2E5cE9LejVTRTlvNzYyZVFNNFNCJTJiSUtqTEloQmR0VmJmSTQ3SnprMnpYWTRkRzd3Q2lUdkNZV0d5Q2FUJTJmQWJsZ0RDTGdDcUh5UUtVbUhXa3pHalVlVnBpYk8yRmJuWHFqNjM2azclMmJTQ09oRzB4WFhDSFI3Qnh0Y0lLNHJmdGpqZ0JWcWNFcXNINENpMjNadTIlMmZSUzkxVTgyU2I3R3A5Y0h4MSUyYnBCa0RIN3plVVJDbTglMmJhMmhTcmhKWWNxQ3hrUTIzMk5yNzdkTExjYXQyNUtEbmhKTVZkSkprMHlYemJjTWpJejdwNTVMYTZZYjNadDNnQWt3MUk0QkdKeFpYOElCOE52eEFkR0pVNmwlMmJlZzRXbTJVVGJJR0lOR1dIQVNXUkdHbmw0dlowb1d3U1ZmeGtJU2pkakE1RjNoelklMmJ1SVAlMmZSdnBlajJPTndGZ0RaZ0FBQ0wyUmhvSU5OQSUyYnF3QUhteWhEaDRaUkUycEElMmJnM1pwakdTTDhOa0dURmNhOHc1NWJUMmpZRzRyVUJ4eGF0cCUyYmM0VEQwciUyYk5WVG9FRVZ2cnhVVGY1ZUtjSzVGYzViRHlLelRocEY5ZzRYR0lRSWtDODNmQmU2SXlxR0Uza3dLRGNDTnAzckMlMmZrZjZIR1laMFRHbnJWV3NyY0hkU3NFYkNlb2R3M3RscWlBMVlrMDdkdSUyYjZnVXJHMklaU1VBNCUyZjJERGVlY21hejFCVlVhaThTZSUyYmxaWUlEczdLV2MyNGVOc0lmeFZNdWtZeXFtZGxlOU1DcWpJN1dVUXpNJTJmckMyRXZtSEkxN0VXWWp3JTJmMzJ3ZWxmbk01UXdDazdmTlBIcUF5WThJVmVwYW9aU285MThSdHdBJTJiaUtiS09MZXRYQmJOTHF0QmJpTiUyZkF6R3JPcGJndm8lMmI4TG5mSlNkQkV0U0JyRzVwWVJxSUI1UUpaUVFYYmJwbDNJbVZ4cTJkdVMzT0pWQVBQcFBpUzdpJTJmV3BEVTFzcE8lMmZnbXluVCUyYm9MZHB5N2NRTzJudWxYMTVaUHNxSWdMMWpUTHljMVNaZyUyYndaQW5OSk5IZmZkSE1GJTJianJtekozM2g2UXVwWWd2MyUyZkUzVVVJWnJCU2c1eXBHbEclMmZFaExGRmNtM3ZhbDNVQ2czRkV1SzYyMXMlMmJVcjQ1aUo3OVpFd2pvJTJmWHMyVTBLJTJid0E1OHZYNWYwR2Q5Njd0azRuR05hTWN3ZmFEV0lkQ29mSmlnbTRmSU55Z202YVMxSHRYRXpqJTJmRWI4JTJmMjFyeDNRSUo0NjhqaDY0QUUlM2Q8L3RodW1ibmFpbD4NCjwvcGx1Z2luPg0KDQoNCg0KDQo8cGx1Z2luPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXVRWIExJVkVbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5wbHVnaW46Ly9wbHVnaW4udmlkZW8ubGl2ZS50di88L2xpbms+DQo8ZmFuYXJ0Pmh0dHBzOi8vaTU4LnNlcnZpbWcuY29tL3UvZjU4LzE5LzQ0LzkxLzQzL3ExMTAuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHA6Ly9pOTcuc2VydmltZy5jb20vdS9mOTcvMTkvNDQvOTEvNDMvaWNvbjExLnBuZzwvdGh1bWJuYWlsPg0KPC9wbHVnaW4+DQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdIExPR0FOIFRWIFsvQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPnBsdWdpbjovL3BsdWdpbi52aWRlby5sb2dhbmFkZG9uLzwvbGluaz4NCjxmYW5hcnQ+aHR0cDovL2FsbDRkZXNrdG9wLmNvbS9kYXRhX2ltYWdlcy8xOTIwJTIweCUyMDEwODAvNDE2Mjg2MS1iYW5lLWRhcmsta25pZ2h0LXJpc2VzLmpwZzwvZmFuYXJ0Pg0KPHRodW1ibmFpbD5odHRwOi8vaTg2LnNlcnZpbWcuY29tL3UvZjg2LzE5LzQ0LzkxLzQzL2ljb24xMS5wbmc8L3RodW1ibmFpbD4NCjwvcGx1Z2luPg0KDQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdQWRyeWFuWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC9uYW1lPg0KPGxpbms+cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmxpdmUuQWRyeWFuLzwvbGluaz4NCjxmYW5hcnQ+aHR0cDovL3MzLmFtYXpvbmF3cy5jb20vZm90b3IuY2RuL3NoYXJlLnVybC8yNmI5ZTU5OWQyNTQ0MDRjYTVlMmJmM2YyODgzNDk4Mi5qcGVnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHA6Ly9hZHJ5YW5saXN0Lm9yZy9hZHJ5YW4vaW1nL2Fkcnlhbmxpc3QuanBnPC90aHVtYm5haWw+DQo8L3BsdWdpbj4NCg0KDQo8cGx1Z2luPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXUxJVkUgU1BPUlRTWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC9uYW1lPg0KPGxpbms+cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmxpdmUuc3BvcnRzLzwvbGluaz4NCjxmYW5hcnQ+aHR0cDovL2k5Ny5zZXJ2aW1nLmNvbS91L2Y5Ny8xOS80NC85MS80My9mYW5hcnQxMC5qcGc8L2ZhbmFydD4NCjx0aHVtYm5haWw+aHR0cDovL2k5Ny5zZXJ2aW1nLmNvbS91L2Y5Ny8xOS80NC85MS80My9pY29uMTAucG5nPC90aHVtYm5haWw+DQo8L3BsdWdpbj4NCg0KDQoNCg0KDQo8ZGlyPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXVdPUkxEIElQVFYgQ0hBTk5FTFNbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vUFJPSkVDVE9URUFNL1BSSU5DSVBBTC9tYXN0ZXIvQURET04vU1VCLU1FTlVTL1dPUkxEJTIwSVBUViUyMENIQU5ORUxTLnhtbDwvbGluaz4NCjxmYW5hcnQ+aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS90UlhJY2FLLXdjTS9tYXhyZXNkZWZhdWx0LmpwZzwvZmFuYXJ0Pg0KPHRodW1ibmFpbD5odHRwczovL3NvdXJjZXR2LmluZm8vd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDkvd29ybGQtMzAweDIwNS5qcGc8L3RodW1ibmFpbD4NCjwvZGlyPg0KDQoNCg0KDQo8cGx1Z2luPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXVZPRCBUVlNVUEVSVFVHQVsvQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPnBsdWdpbjovL3BsdWdpbi52aWRlby52b2QudHZzdXBlcnR1Z2EvPC9saW5rPg0KPGZhbmFydD5odHRwczovL2k1OC5zZXJ2aW1nLmNvbS91L2Y1OC8xOS80NC85MS80My9mYW5hcnQxNC5qcGc8L2ZhbmFydD4NCjx0aHVtYm5haWw+aHR0cHM6Ly9pNTguc2VydmltZy5jb20vdS9mNTgvMTkvNDQvOTEvNDMvaWNvbjEwLnBuZzwvdGh1bWJuYWlsPg0KPC9wbHVnaW4+DQoNCg0KPGRpcj4NCjxuYW1lPltDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXSBbQ09MT1IgbGF2ZW5kZXJibHVzaF0gRE9DVU1FTlRBUklPU1svQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPmh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9QUk9KRUNUT1RFQU0vUFJJTkNJUEFML21hc3Rlci9BRERPTi9TVUItTUVOVVMvRE9DVU1FTlRBUklPUy54bWw8L2xpbms+DQo8ZmFuYXJ0Pmh0dHBzOi8vNC5icC5ibG9nc3BvdC5jb20vLU5KME9qcnVzWGI4L1dNQmdyeTBUWHZJL0FBQUFBQUFBQzZjL0k4b282Uk5hTkJFVnZKblh6aFFsRlN2T2xDQjRkejBWZ0NMY0IvczE2MDAvdmxjc25hcC0yMDE2LTEwLTEwLTE1aDQzbTQ4czkwMy5wbmc8L2ZhbmFydD4NCjx0aHVtYm5haWw+aHR0cHM6Ly9pLnl0aW1nLmNvbS9pL2l2dTdBdFR5X1gtT3lqeEpKMFFMSVEvbXExLmpwZz92PWJjZjgwZDwvdGh1bWJuYWlsPg0KPC9kaXI+DQoNCg0KPGRpcj4NCjxuYW1lPltDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXSBbQ09MT1IgbGF2ZW5kZXJibHVzaF0gTVVTSUNBIFRWWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC9uYW1lPg0KPGxpbms+aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BST0pFQ1RPVEVBTS9QUklOQ0lQQUwvbWFzdGVyL0FERE9OL1NVQi1NRU5VUy9NVVNJQ0ElMjBUVi54bWw8L2xpbms+DQo8ZmFuYXJ0Pmh0dHA6Ly9pbWFnZXM1LmZhbnBvcC5jb20vaW1hZ2UvcGhvdG9zLzI5OTAwMDAwL3RsYy10bGMtbXVzaWMtMjk5MzcyNjQtMTI4MC04MDAuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHA6Ly9ub3cyNC5nci93cC1jb250ZW50L3VwbG9hZHMvMjAxMS8wNi90di1tdXNpY2EuanBnPC90aHVtYm5haWw+DQo8L2Rpcj4NCg0KDQo8ZGlyPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXUpPR09TWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC9uYW1lPg0KPGxpbms+aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1BST0pFQ1RPVEVBTS9QUklOQ0lQQUwvbWFzdGVyL0FERE9OL1NVQi1NRU5VUy9KT0dPUy54bWw8L2xpbms+DQo8dGh1bWJuYWlsPmh0dHA6Ly9ib2Fub3RpY2lhLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxMy8wNC9qb2dvcy1nciVDMyVBMXRpcy0xLmpwZzwvdGh1bWJuYWlsPg0KPGZhbmFydD5odHRwOi8vaW1nMS51cGxvYWRob3VzZS5jb20vZmlsZXVwbG9hZHMvMTcxMzIvMTcxMzIyNzBhYjFjNGRkMzMwZjgzNDFhMzQ2YzZlMDgyZDdhMzc2YS5qcGc8L2ZhbmFydD4NCjwvZGlyPg0KDQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdVFVUT1JJQUlTWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC9uYW1lPg0KPGxpbms+UGx1Z2luOi8vcGx1Z2luLnZpZGVvLnlvdXR1YmUvcGxheWxpc3QvUExMTVRfOENZa3VrZk1lcEdBUWRKR0FWajFFdnFPUEV3Xy8/cGFnZT0wPC9saW5rPg0KPGZhbmFydD5odHRwczovL2kueXRpbWcuY29tL3ZpLzZYcmpqMkVCWFlNL21heHJlc2RlZmF1bHQuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHBzOi8vcGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xNTM5Njc5NTQyL21ldXN0dXRvcmlhaXNfNDAweDQwMC5qcGc8L3RodW1ibmFpbD4NCjwvcGx1Z2luPg0KDQo8ZGlyPg0KPG5hbWU+W0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdIFtDT0xPUiBsYXZlbmRlcmJsdXNoXVBST0dSQU1BU1svQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPmh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9QUk9KRUNUT1RFQU0vUFJJTkNJUEFML21hc3Rlci9BRERPTi9TVUItTUVOVVMvUFJPR1JBTUFTLnhtbDwvbGluaz4NCjx0aHVtYm5haWw+aHR0cHM6Ly9hcnRpY2xlcy1pbWFnZXMuc2Z0Y2RuLm5ldC93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvNS8yMDE0LzExL0Jlc3QtUHJvZ3JhbXMtdG8tbW9kaWZ5LVBob3Rvcy02NjR4Mzc0LmpwZzwvdGh1bWJuYWlsPg0KPGZhbmFydD5odHRwOi8vaTM1LnNlcnZpbWcuY29tL3UvZjM1LzE5LzQ0LzkxLzQzL2ZhbmFydDEzLmpwZzwvZmFuYXJ0Pg0KPC9kaXI+DQoNCg0KPHBsdWdpbj4NCjxuYW1lPltDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXSBbQ09MT1IgbGF2ZW5kZXJibHVzaF1UVlNVUEVSVFVHQVsvQ09MT1JdIFtDT0xPUiBsaW1lXeKAoiBbL0NPTE9SXTwvbmFtZT4NCjxsaW5rPnBsdWdpbjovL3BsdWdpbi5wcm9ncmFtLnR2c3VwZXJ0dWdhLm5vdGlmaWNhdGlvbnMvPC9saW5rPg0KPGZhbmFydD5odHRwczovL2kueXRpbWcuY29tL3ZpL2hEV3BITkVBZDY4L21heHJlc2RlZmF1bHQuanBnPC9mYW5hcnQ+DQo8dGh1bWJuYWlsPmh0dHBzOi8vaTU4LnNlcnZpbWcuY29tL3UvZjU4LzE5LzQ0LzkxLzQzL25vdmlkYTEwLnBuZzwvdGh1bWJuYWlsPg0KPC9wbHVnaW4+DQoNCg0KPGRpcj4NCjx0aXRsZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdTElWRSBDQU1TWy9DT0xPUl0gW0NPTE9SIGxpbWVd4oCiIFsvQ09MT1JdPC90aXRsZT4NCjxsaW5rPmh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9QUk9KRUNUT1RFQU0vUFJJTkNJUEFML21hc3Rlci9BRERPTi9TVUItTUVOVVMvTElWRSUyMENBTVMueG1sPC9saW5rPg0KPHRodW1ibmFpbD5odHRwczovL3d3dy5wZWFjb2NrbWVkaWEuY29tL2h1YmZzL0ltYWdlcy9MaXZlX0NhbV9ieV9FYXJ0aF9DYW1faWNvbi5qcGc/dD0xNDY2MzAyMTAzMDAwPC90aHVtYm5haWw+DQo8ZmFuYXJ0Pmh0dHA6Ly93d3cuaGRyZWxheS5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTUvMTIvaGRyZWxheS0yMDE1LWxpdmUtY2Ftcy1idXR0b25zLWxvY3Rpb24tT2NlYW4tQmVhY2gtMi5qcGc8L2ZhbmFydD4NCjwvZGlyPg0KDQoNCjxwbHVnaW4+DQo8bmFtZT5bQ09MT1IgbGltZV3igKIgWy9DT0xPUl0gW0NPTE9SIGxhdmVuZGVyYmx1c2hdIEFEVUxUIEFSRUFbL0NPTE9SXSBbQ09MT1IgbGltZV3igKIgWy9DT0xPUl08L25hbWU+DQo8bGluaz5wbHVnaW46Ly9zY3JpcHQubW9kdWxlLlRWc3VwZXJ0dWdhLz9kZXNjcmlwdGlvbiZpY29uaW1hZ2U9c3BlY2lhbDovL2FkZG9uc1xzY3JpcHQubW9kdWxlLlRWc3VwZXJ0dWdhXGljb24ucG5nJm1vZGU9OTkmbmFtZT1bQ09MT1IgcmVkXUdbL0NPTE9SXVtDT0xPUiByZWRdZW5yZSdzWy9DT0xPUl0mdXJsPWh0dHA6Ly93d3cueHZpZGVvcy5jb20vYTwvbGluaz4NCjx0aHVtYm5haWw+aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9SN1Uzbm9pdGZzdy9ocWRlZmF1bHQuanBnPC90aHVtYm5haWw+DQo8ZmFuYXJ0Pmh0dHA6Ly9pLnZpbWVvY2RuLmNvbS92aWRlby81OTA5MzE4ODRfMTI4MHg3MjAuanBnPC9mYW5hcnQ+DQo8L3BsdWdpbj4NCg0KDQo=
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>thumbnail</layouttype>
+
+name =  dmode
+dir = dmode
+
+
+
+
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]CLEAR CACHE[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=clearCache</link>
+<thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
+<fanart>https://lh4.googleusercontent.com/tG55nOBqJcnOrL_m1Elza4s1hoegF-CVusAFgRKVL-za4vSqpnzLK_rUOQQfZwoEujoC7BUODQ=s640-h400-e365</fanart>
+</plugin>
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]PROCURAR[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.TVsupertuga/?action=addSearch</link>
+<fanart>http://alerta.strat-exp.com/wp-content/uploads/sites/2/2014/04/procurar-emprego-jornal.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]TV SUPER TUGA[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin.video.live.TVsupertuga/</link>
+<fanart>https://i37.servimg.com/u/f37/19/44/91/43/icqyq510.jpg</fanart>
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/7j1aw610.png</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]AMERIKANO TUGA[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.amerikano/</link>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart10.jpg</fanart>
+<thumbnail>https://mjoehq-sn3302.files.1drv.com/y3mH_F9u-O8KnBBk216msxBcpd-P-TG0YLVGTGu4Ws7xFk1P5qhchFRsiGEW_7auaCC4Q9jlLQzCHF1QvmzNrVMGig47g79pV9VJNUFb9UFvbAOTv_QBQwDFyFLK1cpa3BuW0FHnpZJbQbmmZLn2DwaJxDpjtzgyExSB2QcGHo6qqA/C-_Users_Antonio-Costa_Desktop_.png?access_token=EwDwAq1DBAAUGCCXc8wU%2fzFu9QnLdZXy%2bYnElFkAAS7Z3gOH5Ga9pOKz5SE9o762eQM4SB%2bIKjLIhBdtVbfI47Jzk2zXY4dG7wCiTvCYWGyCaT%2fAblgDCLgCqHyQKUmHWkzGjUeVpibO2FbnXqj636k7%2bSCOhG0xXXCHR7BxtcIK4rftjjgBVqcEqsH4Ci23Zu2%2fRS91U82Sb7Gp9cHx1%2bpBkDH7zeURCm8%2ba2hSrhJYcqCxkQ232Nr77dLLcat25KDnhJMVdJJk0yXzbcMjIz7p55La6Yb3Zt3gAkw1I4BGJxZX8IB8NvxAdGJU6l%2beg4Wm2UTbIGINGWHASWRGGnl4vZ0oWwSVfxkISjdjA5F3hzY%2buIP%2fRvpej2ONwFgDZgAACL2RhoINNA%2bqwAHmyhDh4ZRE2pA%2bg3ZpjGSL8NkGTFca8w55bT2jYG4rUBxxatp%2bc4TD0r%2bNVToEEVvrxUTf5eKcK5Fc5bDyKzThpF9g4XGIQIkC83fBe6IyqGE3kwKDcCNp3rC%2fkf6HGYZ0TGnrVWsrcHdSsEbCeodw3tlqiA1Yk07du%2b6gUrG2IZSUA4%2f2DDeecmaz1BVUai8Se%2blZYIDs7KWc24eNsIfxVMukYyqmdle9MCqjI7WUQzM%2frC2EvmHI17EWYjw%2f32welfnM5QwCk7fNPHqAyY8IVepaoZSo918RtwA%2biKbKOLetXBbNLqtBbiN%2fAzGrOpbgvo%2b8LnfJSdBEtSBrG5pYRqIB5QJZQQXbbpl3ImVxq2duS3OJVAPPpPiS7i%2fWpDU1spO%2fgmynT%2boLdpy7cQO2nulX15ZPsqIgL1jTLyc1SZg%2bwZAnNJNHffdHMF%2bjrmzJ33h6QupYgv3%2fE3UUIZrBSg5ypGlG%2fEhLFFcm3val3UCg3FEuK621s%2bUr45iJ79ZEwjo%2fXs2U0K%2bwA58vX5f0Gd967tk4nGNaMcwfaDWIdCofJigm4fINygm6aS1HtXEzj%2fEb8%2f21rx3QIJ468jh64AE%3d</thumbnail>
+</plugin>
+
+
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]TV LIVE[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.live.tv/</link>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/q110.jpg</fanart>
+<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/icon11.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush] LOGAN TV [/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.loganaddon/</link>
+<fanart>http://all4desktop.com/data_images/1920%20x%201080/4162861-bane-dark-knight-rises.jpg</fanart>
+<thumbnail>http://i86.servimg.com/u/f86/19/44/91/43/icon11.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]Adryan[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.live.Adryan/</link>
+<fanart>http://s3.amazonaws.com/fotor.cdn/share.url/26b9e599d254404ca5e2bf3f28834982.jpeg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]LIVE SPORTS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.live.sports/</link>
+<fanart>http://i97.servimg.com/u/f97/19/44/91/43/fanart10.jpg</fanart>
+<thumbnail>http://i97.servimg.com/u/f97/19/44/91/43/icon10.png</thumbnail>
+</plugin>
+
+
+
+
+
+<dir>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]WORLD IPTV CHANNELS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/WORLD%20IPTV%20CHANNELS.xml</link>
+<fanart>https://i.ytimg.com/vi/tRXIcaK-wcM/maxresdefault.jpg</fanart>
+<thumbnail>https://sourcetv.info/wp-content/uploads/2015/09/world-300x205.jpg</thumbnail>
+</dir>
+
+
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]VOD TVSUPERTUGA[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.video.vod.tvsupertuga/</link>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart14.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon10.png</thumbnail>
+</plugin>
+
+
+<dir>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush] DOCUMENTARIOS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/DOCUMENTARIOS.xml</link>
+<fanart>https://4.bp.blogspot.com/-NJ0OjrusXb8/WMBgry0TXvI/AAAAAAAAC6c/I8oo6RNaNBEVvJnXzhQlFSvOlCB4dz0VgCLcB/s1600/vlcsnap-2016-10-10-15h43m48s903.png</fanart>
+<thumbnail>https://i.ytimg.com/i/ivu7AtTy_X-OyjxJJ0QLIQ/mq1.jpg?v=bcf80d</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush] MUSICA TV[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/MUSICA%20TV.xml</link>
+<fanart>http://images5.fanpop.com/image/photos/29900000/tlc-tlc-music-29937264-1280-800.jpg</fanart>
+<thumbnail>http://now24.gr/wp-content/uploads/2011/06/tv-musica.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]JOGOS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/JOGOS.xml</link>
+<thumbnail>http://boanoticia.com/wp-content/uploads/2013/04/jogos-gr%C3%A1tis-1.jpg</thumbnail>
+<fanart>http://img1.uploadhouse.com/fileuploads/17132/17132270ab1c4dd330f8341a346c6e082d7a376a.jpg</fanart>
+</dir>
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]TUTORIAIS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>Plugin://plugin.video.youtube/playlist/PLLMT_8CYkukfMepGAQdJGAVj1EvqOPEw_/?page=0</link>
+<fanart>https://i.ytimg.com/vi/6Xrjj2EBXYM/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1539679542/meustutoriais_400x400.jpg</thumbnail>
+</plugin>
+
+<dir>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]PROGRAMAS[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS.xml</link>
+<thumbnail>https://articles-images.sftcdn.net/wp-content/uploads/sites/5/2014/11/Best-Programs-to-modify-Photos-664x374.jpg</thumbnail>
+<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
+</dir>
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush]TVSUPERTUGA[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://plugin.program.tvsupertuga.notifications/</link>
+<fanart>https://i.ytimg.com/vi/hDWpHNEAd68/maxresdefault.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/novida10.png</thumbnail>
+</plugin>
+
+
+<dir>
+<title>[COLOR lime]• [/COLOR] [COLOR lavenderblush]LIVE CAMS[/COLOR] [COLOR lime]• [/COLOR]</title>
+<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/LIVE%20CAMS.xml</link>
+<thumbnail>https://www.peacockmedia.com/hubfs/Images/Live_Cam_by_Earth_Cam_icon.jpg?t=1466302103000</thumbnail>
+<fanart>http://www.hdrelay.com/wp-content/uploads/2015/12/hdrelay-2015-live-cams-buttons-loction-Ocean-Beach-2.jpg</fanart>
+</dir>
+
+
+<plugin>
+<name>[COLOR lime]• [/COLOR] [COLOR lavenderblush] ADULT AREA[/COLOR] [COLOR lime]• [/COLOR]</name>
+<link>plugin://script.module.TVsupertuga/?description&iconimage=special://addons\script.module.TVsupertuga\icon.png&mode=99&name=[COLOR red]G[/COLOR][COLOR red]enre's[/COLOR]&url=http://www.xvideos.com/a</link>
+<thumbnail>https://i.ytimg.com/vi/R7U3noitfsw/hqdefault.jpg</thumbnail>
+<fanart>http://i.vimeocdn.com/video/590931884_1280x720.jpg</fanart>
+</plugin>
+
+
