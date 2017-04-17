@@ -42,7 +42,7 @@
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/ANIMA%C3%87%C3%83O-FILMES-INTERNACIONAIS.png</thumbnail>
 <fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.zen/?action=movies&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2fmovie%3fapi_key%3d%25s%26with_genres%3d16%26primary_release_date.gte%3ddate%5b365%5d%26primary_release_date.lte%3ddate%5b0%5d%26page%3d1</jsonrpc>
+<jsonrpc>plugin://script.module.stream.tvsupertuga.addon/?description&amp;iconimage=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.stream.tvsupertuga.addon%5cresources%5cart%5cgenres.png&amp;mode=488&amp;name=Animation%3a%20%20%5bB%5d%5bCOLOR%20dodgerblue%5d(%2018)%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2ftikimovies.com%2fgenre%2fanimation%2f</jsonrpc>
 </item>
 
 
@@ -51,7 +51,7 @@
 <thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/ANIMA%C3%87%C3%83O-S%C3%89RIES-INTERNACIONAIS.png</thumbnail>
 <fanart>https://img02.olx.co.ke/images_olxke/1000117755_1_1000x700_hd-movies-series-softcopy-south-c_rev001.jpg</fanart>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.zen/?action=tvshows&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2ftv%3fapi_key%3df7f51775877e0bb6703520952b3c7840%26with_genres%3d16%26primary_release_date.gte%3ddate%26page%3d1</jsonrpc>
+<jsonrpc>plugin://script.module.stream.tvsupertuga.addon/?description&amp;iconimage=C%3a%5cUsers%5cAntonio%20Costa%5cAppData%5cRoaming%5cFreeTelly%5caddons%5cscript.module.stream.tvsupertuga.addon%5cresources%5cart%5cgenres.png&amp;mode=503&amp;name=Animation&amp;url=https%3a%2f%2fgomovies.sc%2fgenre%2fanimation%2f&quot;,return)</jsonrpc>
 </item>
 
 
