@@ -1,0 +1,29 @@
+<settings>
+    <setting id="addon.match" value="0" />
+    <setting id="addons.ini.file" value="" />
+    <setting id="addons.ini.type" value="0" />
+    <setting id="alternative.playback" value="false" />
+    <setting id="autostart" value="false" />
+    <setting id="categories.ini.enabled" value="false" />
+    <setting id="categories.ini.file" value="" />
+    <setting id="categories.ini.type" value="0" />
+    <setting id="categories.ini.url" value="" />
+    <setting id="category" value="All Channels" />
+    <setting id="channel.filter.sort" value="0" />
+    <setting id="enable.osd" value="true" />
+    <setting id="focus.color" value="text" />
+    <setting id="ignore.stream" value="true" />
+    <setting id="ivue-categories.ini.enabled" value="false" />
+    <setting id="logos" value="http://soapt.pe.hu/LogosGuide/" />
+    <setting id="logos.enabled" value="true" />
+    <setting id="logos.folder" value="" />
+    <setting id="logos.source" value="0" />
+    <setting id="mainurl" value="http://soapt.pe.hu/guide/" />
+    <setting id="nofocus.color" value="text" />
+    <setting id="skin" value="Default" />
+    <setting id="userurl" value="http://soapt.pe.hu/guide/" />
+    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.interval" value="1" />
+    <setting id="xmltv.type" value="0" />
+    <setting id="xmltv.type_select" value="SOA (PORTUGUESE)" />
+</settings>
