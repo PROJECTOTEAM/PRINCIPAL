@@ -5,10 +5,9 @@
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
     <setting id="categories.ini.enabled" value="false" />
-    <setting id="categories.ini.file" value="true" />
-    <setting id="categories.ini.type" value="true" />
-    <setting id="categories.ini.url" value="true" />
-    <setting id="category" value="All Channels" />
+    <setting id="categories.ini.file" value="" />
+    <setting id="categories.ini.type" value="0" />
+    <setting id="categories.ini.url" value="" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
