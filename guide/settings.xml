@@ -23,6 +23,7 @@
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.file" value="" />
     <setting id="xmltv.interval" value="1" />
-    <setting id="xmltv.type" value="0" />
+    <setting id="xmltv.type" value="1" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
 </settings>
+
