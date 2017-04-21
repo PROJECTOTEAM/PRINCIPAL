@@ -4,12 +4,12 @@
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
-    <setting id="autostart" value="false" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
-    <setting id="channel.filter.sort" value="0" />
+    <setting id="category" value="" />
+    <setting id="channel.filter.sort" value="2" />
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
     <setting id="ignore.stream" value="true" />
