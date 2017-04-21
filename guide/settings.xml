@@ -8,6 +8,7 @@
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
+    <setting id="category" value="true" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
@@ -26,3 +27,4 @@
     <setting id="xmltv.type" value="0" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
 </settings>
+
