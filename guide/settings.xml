@@ -1,13 +1,15 @@
 <settings>
+    <setting id="" value="false" />
     <setting id="action.bar" value="true" />
     <setting id="addon.logos" value="false" />
-    <setting id="addon.match" value="2" />
+    <setting id="addon.match" value="0" />
     <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home/userdata/addons_custom.ini" />
+    <setting id="addons.ini.file" value="special://profile\addon_data\script.tvsupertugaguide\categories.ini" />
     <setting id="addons.ini.overwrite" value="1" />
     <setting id="addons.ini.subscriptions" value="true" />
     <setting id="addons.ini.type" value="0" />
     <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
+    <setting id="alternative.playback" value="false" />
     <setting id="authentication" value="true" />
     <setting id="autoplays.after" value="1" />
     <setting id="autoplays.before" value="1" />
@@ -20,16 +22,17 @@
     <setting id="autoplaywiths.folder" value="" />
     <setting id="autoplaywiths.player" value="" />
     <setting id="autoplaywiths.stop" value="true" />
+    <setting id="autostart" value="false" />
     <setting id="background.notify" value="true" />
     <setting id="background.service" value="true" />
     <setting id="background.startup" value="false" />
     <setting id="categories.background.color" value="[COLOR fff5f5f5]whitesmoke[/COLOR]" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
-    <setting id="categories.ini.type" value="1" />
-    <setting id="categories.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/categories.ini" />
+    <setting id="categories.ini.type" value="0" />
+    <setting id="categories.ini.url" value="" />
     <setting id="categories.remember" value="true" />
-    <setting id="category" value="" />
+    <setting id="category" value="All Channels" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="channel.logo" value="true" />
     <setting id="channels.per.page" value="10" />
@@ -37,12 +40,15 @@
     <setting id="down.action" value="false" />
     <setting id="enable.nextup" value="true" />
     <setting id="enable.nextup.showTime" value="false" />
+    <setting id="enable.osd" value="true" />
     <setting id="epg.box.spacing" value="2" />
     <setting id="epg.focus.color" value="[COLOR ff606060]black[/COLOR]" />
     <setting id="epg.nofocus.color" value="[COLOR ffffffff]white[/COLOR]" />
     <setting id="epg.video.pip" value="true" />
     <setting id="favourites" value="Favourites" />
+    <setting id="focus.color" value="text" />
     <setting id="gz" value="true" />
+    <setting id="ignore.stream" value="true" />
     <setting id="ivue-categories.ini.enabled" value="false" />
     <setting id="last.channel.popup" value="0" />
     <setting id="listing.days" value="5" />
@@ -52,7 +58,7 @@
     <setting id="logos.enabled" value="true" />
     <setting id="logos.folder" value="" />
     <setting id="logos.keep" value="true" />
-    <setting id="logos.source" value="2" />
+    <setting id="logos.source" value="0" />
     <setting id="logos.url" value="http://projectxwizard.site88.net/logos/" />
     <setting id="mainurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="mapping.ini.enabled" value="false" />
@@ -69,6 +75,7 @@
     <setting id="nextup.showTime" value="10" />
     <setting id="nextup.time" value="20" />
     <setting id="no.programs.message" value="-" />
+    <setting id="nofocus.color" value="text" />
     <setting id="notifications.enabled" value="true" />
     <setting id="password" value="" />
     <setting id="program.background.color" value="[COLOR ff4682b4]steelblue[/COLOR]" />
@@ -98,8 +105,8 @@
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\categories.ini" />
-    <setting id="xmltv.interval" value="3" />
+    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.interval" value="1" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
     <setting id="xmltv.type" value="0" />
