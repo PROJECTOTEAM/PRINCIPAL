@@ -3,21 +3,21 @@
     <setting id="addon.logos" value="false" />
     <setting id="addon.match" value="2" />
     <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home/userdata/addons_custom.ini" />
+    <setting id="addons.ini.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
     <setting id="addons.ini.overwrite" value="1" />
     <setting id="addons.ini.subscriptions" value="true" />
-    <setting id="addons.ini.type" value="1" />
-    <setting id="addons.ini.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
+    <setting id="addons.ini.type" value="0" />
+    <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
     <setting id="alternative.playback" value="false" />
     <setting id="append.folder" value="false" />
     <setting id="authentication" value="false" />
     <setting id="autoplays.after" value="1" />
     <setting id="autoplays.before" value="1" />
-    <setting id="autoplays.enabled" value="true" />
+    <setting id="autoplays.enabled" value="false" />
     <setting id="autoplays.stop" value="true" />
     <setting id="autoplaywiths.after" value="1" />
     <setting id="autoplaywiths.before" value="1" />
-    <setting id="autoplaywiths.enabled" value="true" />
+    <setting id="autoplaywiths.enabled" value="false" />
     <setting id="autoplaywiths.ffmpeg" value="" />
     <setting id="autoplaywiths.folder" value="" />
     <setting id="autoplaywiths.player" value="" />
@@ -33,7 +33,7 @@
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="1" />
-    <setting id="categories.ini.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\categories.ini" />
+    <setting id="categories.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/categories.ini" />
     <setting id="categories.remember" value="true" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="channel.index.digits" value="3" />
@@ -69,7 +69,7 @@
     <setting id="logos.keep" value="true" />
     <setting id="logos.source" value="2" />
     <setting id="logos.url" value="http://projectxwizard.site88.net/logos/" />
-    <setting id="mainurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guides/" />
+    <setting id="mainurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="mapping.ini.enabled" value="false" />
     <setting id="mapping.ini.file" value="" />
     <setting id="mapping.ini.type" value="0" />
@@ -133,18 +133,18 @@
     <setting id="up.cat.mode" value="First Channel" />
     <setting id="update.progress" value="true" />
     <setting id="user" value="" />
-    <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guides/" />
+    <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="vpnmgr.connect" value="true" />
     <setting id="vpnmgr.default" value="true" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="" />
-    <setting id="xmltv.interval" value="3" />
+    <setting id="xmltv.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\categories.ini" />
+    <setting id="xmltv.interval" value="1" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
     <setting id="xmltv.type" value="0" />
     <setting id="xmltv.type.remember" value="true" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
-    <setting id="xmltv.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\master.xml" />
+    <setting id="xmltv.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/master.xml" />
     <setting id="xmltv2.enabled" value="false" />
     <setting id="xmltv2.file" value="" />
     <setting id="xmltv2.type" value="0" />
