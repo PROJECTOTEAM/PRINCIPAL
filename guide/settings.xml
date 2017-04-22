@@ -8,7 +8,7 @@
     <setting id="addons.ini.subscriptions" value="true" />
     <setting id="addons.ini.type" value="0" />
     <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
-    <setting id="authentication" value="false" />
+    <setting id="authentication" value="true" />
     <setting id="autoplays.after" value="1" />
     <setting id="autoplays.before" value="1" />
     <setting id="autoplays.enabled" value="true" />
