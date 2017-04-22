@@ -3,32 +3,26 @@
     <setting id="addon.logos" value="false" />
     <setting id="addon.match" value="2" />
     <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
+    <setting id="addons.ini.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\addons.ini" />
     <setting id="addons.ini.overwrite" value="1" />
     <setting id="addons.ini.subscriptions" value="true" />
     <setting id="addons.ini.type" value="0" />
     <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
-    <setting id="alternative.playback" value="false" />
-    <setting id="append.folder" value="false" />
     <setting id="authentication" value="false" />
     <setting id="autoplays.after" value="1" />
     <setting id="autoplays.before" value="1" />
-    <setting id="autoplays.enabled" value="false" />
+    <setting id="autoplays.enabled" value="true" />
     <setting id="autoplays.stop" value="true" />
     <setting id="autoplaywiths.after" value="1" />
     <setting id="autoplaywiths.before" value="1" />
-    <setting id="autoplaywiths.enabled" value="false" />
+    <setting id="autoplaywiths.enabled" value="true" />
     <setting id="autoplaywiths.ffmpeg" value="" />
     <setting id="autoplaywiths.folder" value="" />
     <setting id="autoplaywiths.player" value="" />
     <setting id="autoplaywiths.stop" value="true" />
-    <setting id="autostart" value="false" />
     <setting id="background.notify" value="true" />
     <setting id="background.service" value="true" />
     <setting id="background.startup" value="false" />
-    <setting id="cat.order" value="ENTERTAINMENT|MOVIE|SPORT|KIDS|NEWS &amp; DOCS|MUSIC &amp; FASHION|UK &amp; EIRE|USA &amp; CANADA|MIDDLE EAST|AUS &amp; NZ" />
-    <setting id="catchup.channel" value="false" />
-    <setting id="catchup.text" value="Meta" />
     <setting id="categories.background.color" value="[COLOR fff5f5f5]whitesmoke[/COLOR]" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
@@ -36,28 +30,18 @@
     <setting id="categories.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/categories.ini" />
     <setting id="categories.remember" value="true" />
     <setting id="channel.filter.sort" value="0" />
-    <setting id="channel.index.digits" value="3" />
     <setting id="channel.logo" value="true" />
-    <setting id="channel.shortcut" value="2" />
-    <setting id="channel.shortcut.behaviour" value="1" />
-    <setting id="channel.shortcut.direct" value="true" />
     <setting id="channels.per.page" value="10" />
     <setting id="date.long" value="true" />
     <setting id="down.action" value="false" />
     <setting id="enable.nextup" value="true" />
     <setting id="enable.nextup.showTime" value="false" />
-    <setting id="enable.osd" value="true" />
     <setting id="epg.box.spacing" value="2" />
     <setting id="epg.focus.color" value="[COLOR ff606060]black[/COLOR]" />
-    <setting id="epg.font" value="font13" />
     <setting id="epg.nofocus.color" value="[COLOR ffffffff]white[/COLOR]" />
     <setting id="epg.video.pip" value="true" />
-    <setting id="exit.on.back" value="true" />
     <setting id="favourites" value="Favourites" />
-    <setting id="find.program.images" value="false" />
     <setting id="gz" value="true" />
-    <setting id="imdb.big" value="true" />
-    <setting id="imdb.match" value="1" />
     <setting id="ivue-categories.ini.enabled" value="false" />
     <setting id="last.channel.popup" value="0" />
     <setting id="listing.days" value="5" />
@@ -80,20 +64,12 @@
     <setting id="mapping.m3u.url" value="" />
     <setting id="md5" value="true" />
     <setting id="menu.addon" value="true" />
-    <setting id="mine1" value="ActivateWindow(Videos,library://video,return)" />
     <setting id="mouse.controls" value="true" />
     <setting id="nextup.showTime" value="10" />
     <setting id="nextup.time" value="20" />
     <setting id="no.programs.message" value="-" />
     <setting id="notifications.enabled" value="true" />
-    <setting id="omdb" value="false" />
     <setting id="password" value="" />
-    <setting id="play.alt.choose" value="false" />
-    <setting id="play.alt.continue" value="false" />
-    <setting id="play.menu" value="false" />
-    <setting id="play.minimized" value="false" />
-    <setting id="playback.osd.timeout" value="15" />
-    <setting id="playback.timeout" value="15" />
     <setting id="program.background.color" value="[COLOR ff4682b4]steelblue[/COLOR]" />
     <setting id="program.background.enabled" value="false" />
     <setting id="program.background.flat" value="false" />
@@ -101,52 +77,31 @@
     <setting id="program.background.image.source" value="1" />
     <setting id="program.background.image.url" value="http://i.imgur.com/NjzeFUC.jpg" />
     <setting id="program.background.texture.url" value="special://profile/addon_data/script.tvsupertugaguide/backgrounds/sunburst.png" />
-    <setting id="program.channel.logo" value="false" />
-    <setting id="program.image" value="true" />
     <setting id="program.image.scale" value="true" />
     <setting id="program.search.plot" value="false" />
     <setting id="redraw.epg" value="true" />
-    <setting id="sd.changed" value="0" />
-    <setting id="sd.interval" value="2" />
-    <setting id="sd.password" value="" />
-    <setting id="sd.range" value="3" />
-    <setting id="sd.username" value="" />
     <setting id="search.type" value="MySearch" />
     <setting id="service.addon.folders" value="false" />
     <setting id="service.interval" value="1" />
     <setting id="service.time" value="03:33" />
-    <setting id="service.type" value="0" />
+    <setting id="service.type" value="Period" />
     <setting id="skin" value="Default" />
     <setting id="skin.folder" value="" />
     <setting id="skin.source" value="0" />
     <setting id="skin.user" value="" />
-    <setting id="source.source" value="xmltv" />
-    <setting id="stop.on.exit" value="true" />
     <setting id="stream.addon.list" value="false" />
     <setting id="thelogodb" value="0" />
     <setting id="timebar.color" value="[COLOR ff0000ff]blue[/COLOR]" />
-    <setting id="tvdb.imdb" value="false" />
-    <setting id="tvdb.match" value="1" />
-    <setting id="tvguide.co.uk.days" value="2" />
-    <setting id="tvguide.co.uk.email" value="" />
-    <setting id="tvguide.co.uk.systemid" value="Sky" />
     <setting id="up.cat.mode" value="First Channel" />
     <setting id="update.progress" value="true" />
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
-    <setting id="vpnmgr.connect" value="true" />
-    <setting id="vpnmgr.default" value="true" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\categories.ini" />
-    <setting id="xmltv.interval" value="1" />
+    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.interval" value="3" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
     <setting id="xmltv.type" value="0" />
-    <setting id="xmltv.type.remember" value="true" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
     <setting id="xmltv.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/master.xml" />
-    <setting id="xmltv2.enabled" value="false" />
-    <setting id="xmltv2.file" value="" />
-    <setting id="xmltv2.type" value="0" />
-    <setting id="xmltv2.url" value="" />
 </settings>
