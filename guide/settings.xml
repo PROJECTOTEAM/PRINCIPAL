@@ -1,13 +1,14 @@
 <settings>
-    <setting id="" value="false" />
     <setting id="addon.match" value="0" />
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
+    <setting id="autostart" value="false" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
+    <setting id="category" value="All Channels" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
@@ -26,4 +27,3 @@
     <setting id="xmltv.type" value="0" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
 </settings>
-
