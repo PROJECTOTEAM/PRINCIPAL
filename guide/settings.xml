@@ -2,12 +2,12 @@
     <setting id="action.bar" value="true" />
     <setting id="addon.logos" value="false" />
     <setting id="addon.match" value="2" />
-    <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home/userdata/addons_custom.ini" />
+    <setting id="addons.ini.enabled" value="false" />
+    <setting id="addons.ini.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\guides.ini" />
     <setting id="addons.ini.overwrite" value="1" />
-    <setting id="addons.ini.subscriptions" value="true" />
-    <setting id="addons.ini.type" value="1" />
-    <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
+    <setting id="addons.ini.subscriptions" value="false" />
+    <setting id="addons.ini.type" value="0" />
+    <setting id="addons.ini.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
     <setting id="alternative.playback" value="false" />
     <setting id="append.folder" value="false" />
     <setting id="authentication" value="false" />
@@ -25,7 +25,7 @@
     <setting id="autostart" value="false" />
     <setting id="background.notify" value="true" />
     <setting id="background.service" value="true" />
-    <setting id="background.startup" value="false" />
+    <setting id="background.startup" value="true" />
     <setting id="cat.order" value="ENTERTAINMENT|MOVIE|SPORT|KIDS|NEWS &amp; DOCS|MUSIC &amp; FASHION|UK &amp; EIRE|USA &amp; CANADA|MIDDLE EAST|AUS &amp; NZ" />
     <setting id="catchup.channel" value="false" />
     <setting id="catchup.text" value="Meta" />
@@ -33,8 +33,8 @@
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="1" />
-    <setting id="categories.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/categories.ini" />
-    <setting id="categories.remember" value="true" />
+    <setting id="categories.ini.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\categories.ini" />
+    <setting id="categories.remember" value="false" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="channel.index.digits" value="3" />
     <setting id="channel.logo" value="true" />
@@ -137,12 +137,11 @@
     <setting id="vpnmgr.connect" value="true" />
     <setting id="vpnmgr.default" value="true" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="" />
-    <setting id="xmltv.interval" value="3" />
+    <setting id="xmltv.file" value="C:\Users\Antonio Costa\AppData\Roaming\Kodi\userdata\addon_data\script.tvsupertugaguide\categories.ini" />
+    <setting id="xmltv.interval" value="1" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
     <setting id="xmltv.type" value="0" />
-    <setting id="xmltv.type.remember" value="true" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
     <setting id="xmltv.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/master.xml" />
     <setting id="xmltv2.enabled" value="false" />
