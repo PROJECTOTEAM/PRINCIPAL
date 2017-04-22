@@ -3,12 +3,20 @@
     <setting id="addon.match" value="0" />
     <setting id="addons.ini.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\addons.ini" />
     <setting id="addons.ini.type" value="0" />
+<<<<<<< HEAD
     <setting id="alternative.playback" value="true" />
+=======
+    <setting id="alternative.playback" value="false" />
+>>>>>>> origin/master
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\categories.ini" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
+<<<<<<< HEAD
     <setting id="channel.filter.sort" value="2" />
+=======
+    <setting id="channel.filter.sort" value="0" />
+>>>>>>> origin/master
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
     <setting id="ignore.stream" value="true" />
