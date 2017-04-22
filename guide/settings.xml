@@ -3,7 +3,7 @@
     <setting id="addon.logos" value="false" />
     <setting id="addon.match" value="2" />
     <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\addons.ini" />
+    <setting id="addons.ini.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
     <setting id="addons.ini.overwrite" value="1" />
     <setting id="addons.ini.subscriptions" value="true" />
     <setting id="addons.ini.type" value="0" />
