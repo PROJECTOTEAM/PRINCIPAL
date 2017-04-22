@@ -1,4 +1,5 @@
 <settings>
+    <setting id="" value="true" />
     <setting id="addon.match" value="0" />
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
