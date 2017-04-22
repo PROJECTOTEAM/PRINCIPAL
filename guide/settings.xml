@@ -10,7 +10,7 @@
     <setting id="addons.ini.type" value="0" />
     <setting id="addons.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/addons.ini" />
     <setting id="alternative.playback" value="false" />
-    <setting id="authentication" value="true" />
+    <setting id="authentication" value="false" />
     <setting id="autoplays.after" value="1" />
     <setting id="autoplays.before" value="1" />
     <setting id="autoplays.enabled" value="true" />
@@ -105,7 +105,7 @@
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.file" value="special://profile/userdata\addon_data\script.tvsupertugaguide\categories.ini" />
     <setting id="xmltv.interval" value="1" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
