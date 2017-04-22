@@ -3,7 +3,7 @@
     <setting id="addon.logos" value="false" />
     <setting id="addon.match" value="2" />
     <setting id="addons.ini.enabled" value="true" />
-    <setting id="addons.ini.file" value="special://home\userdata\addon_data\script.tvsupertugaguide\addons.ini" />
+    <setting id="addons.ini.file" value="special://home/userdata/addons_custom.ini" />
     <setting id="addons.ini.overwrite" value="1" />
     <setting id="addons.ini.subscriptions" value="true" />
     <setting id="addons.ini.type" value="0" />
@@ -29,6 +29,7 @@
     <setting id="categories.ini.type" value="1" />
     <setting id="categories.ini.url" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/categories.ini" />
     <setting id="categories.remember" value="true" />
+    <setting id="category" value="" />
     <setting id="channel.filter.sort" value="0" />
     <setting id="channel.logo" value="true" />
     <setting id="channels.per.page" value="10" />
@@ -97,7 +98,7 @@
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.date" value="true" />
-    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.file" value="special://home/userdata\addon_data\script.tvsupertugaguide\categories.ini" />
     <setting id="xmltv.interval" value="3" />
     <setting id="xmltv.logos" value="false" />
     <setting id="xmltv.refresh" value="false" />
