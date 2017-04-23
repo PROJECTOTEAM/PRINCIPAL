@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,50 +11,215 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,Latino: TVP ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4208.ts
-#EXTINF:-1,Latino: TVN Chile HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4197.ts
-#EXTINF:-1,Latino: Todo Noticias TV ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4212.ts
-#EXTINF:-1,Latino: TN ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4209.ts
-#EXTINF:-1,Latino: TELEVISA HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4198.ts
-#EXTINF:-1,Latino: Encuentro ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4213.ts
-#EXTINF:-1,Latino: El Trece ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4214.ts
-#EXTINF:-1,Latino: Cronica TV ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4215.ts
-#EXTINF:-1,Latino: Chile La Red
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4199.ts
-#EXTINF:-1,Latino: Canal De Las Estrellas
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4196.ts
-#EXTINF:-1,Latino: Canal De La Musica ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4216.ts
-#EXTINF:-1,Latino: Canal Costa
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4200.ts
-#EXTINF:-1,Latino: Canal A ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4217.ts
-#EXTINF:-1,Latino: CANAL 9 ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4210.ts
-#EXTINF:-1,Latino: Canal 7 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4201.ts
-#EXTINF:-1,Latino: Canal 41 Mar Del
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4202.ts
-#EXTINF:-1,Latino: Canal 3 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4203.ts
-#EXTINF:-1,Latino: CANAL 26 ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4211.ts
-#EXTINF:-1,Latino: Canal 2 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4204.ts
-#EXTINF:-1,Latino: Canal 13
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4205.ts
-#EXTINF:-1,Latino: Azteca Noticias
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4206.ts
-#EXTINF:-1,Latino: Anime TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4207.ts
-#EXTINF:-1,Latino: America Sports ARG
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/4218.ts
+#EXTINF:-1,LA: CANCAO NOVA
+http://5.196.79.166:3500/live/musti854/kara987s/7780.ts
+#EXTINF:-1,LA: CANAL SHOW DA F
+http://5.196.79.166:3500/live/musti854/kara987s/7778.ts
+#EXTINF:-1,LA: proyecto 40
+http://5.196.79.166:3500/live/musti854/kara987s/8852.ts
+#EXTINF:-1,LA: Azteca Honduras
+http://5.196.79.166:3500/live/musti854/kara987s/8850.ts
+#EXTINF:-1,LA: Azteca Noticias tv
+http://5.196.79.166:3500/live/musti854/kara987s/8857.ts
+#EXTINF:-1,LA: Azteca Trece tv
+http://5.196.79.166:3500/live/musti854/kara987s/8858.ts
+#EXTINF:-1,LA: Cinco TV
+http://5.196.79.166:3500/live/musti854/kara987s/8871.ts
+#EXTINF:-1,LA: DW
+http://5.196.79.166:3500/live/musti854/kara987s/8854.ts
+#EXTINF:-1,LA: DX TV
+http://5.196.79.166:3500/live/musti854/kara987s/8848.ts
+#EXTINF:-1,LA: Galicia TV
+http://5.196.79.166:3500/live/musti854/kara987s/8866.ts
+#EXTINF:-1,LA: HD 44
+http://5.196.79.166:3500/live/musti854/kara987s/8845.ts
+#EXTINF:-1,LA: HD 66
+http://5.196.79.166:3500/live/musti854/kara987s/8846.ts
+#EXTINF:-1,LA: Mexiquense TV
+http://5.196.79.166:3500/live/musti854/kara987s/8843.ts
+#EXTINF:-1,LA:  Guatevision
+http://5.196.79.166:3500/live/musti854/kara987s/8868.ts
+#EXTINF:-1,LA: Efekto tv
+http://5.196.79.166:3500/live/musti854/kara987s/8885.ts
+#EXTINF:-1,LA: euronews
+http://5.196.79.166:3500/live/musti854/kara987s/9295.ts
+#EXTINF:-1,LA: Multimedios Monterrey
+http://5.196.79.166:3500/live/musti854/kara987s/9296.ts
+#EXTINF:-1,LA:  Ol Malaga
+http://5.196.79.166:3500/live/musti854/kara987s/9479.ts
+#EXTINF:-1,LA: CABLENOTICIAS
+http://5.196.79.166:3500/live/musti854/kara987s/9752.ts
+#EXTINF:-1,LA: ECOTEL TV
+rtmp://192.95.25.203:554/canal1/radiostation.stream
+#EXTINF:-1,LA: PDVSA TV
+rtmp://cast.streamingconnect.tv/pdvsatvweb//pdvsatvweb
+#EXTINF:-1,LA: Señal en Vivo
+http://5.196.79.166:3500/live/musti854/kara987s/9751.ts
+#EXTINF:-1,LA: TELE ARAGUA
+http://5.196.79.166:3500/live/musti854/kara987s/9743.ts
+#EXTINF:-1,LA:   DOT DANCE
+http://5.196.79.166:3500/live/musti854/kara987s/11533.ts
+#EXTINF:-1,LA:  Aliento Vision
+http://5.196.79.166:3500/live/musti854/kara987s/11603.ts
+#EXTINF:-1,LA:  Andorra TV
+http://5.196.79.166:3500/live/musti854/kara987s/11605.ts
+#EXTINF:-1,LA:  Canal 13 Nicaragua
+http://5.196.79.166:3500/live/musti854/kara987s/11607.ts
+#EXTINF:-1,LA:  CANAL ANTIESTRES
+http://5.196.79.166:3500/live/musti854/kara987s/11519.ts
+#EXTINF:-1,LA:  Canal Estrellas
+http://5.196.79.166:3500/live/musti854/kara987s/11520.ts
+#EXTINF:-1,LA:  CANTINAZO
+http://5.196.79.166:3500/live/musti854/kara987s/11525.ts
+#EXTINF:-1,ES:  Castilla La Mancha
+http://5.196.79.166:3500/live/musti854/kara987s/11608.ts
+#EXTINF:-1,LA:  Castilla Y Leon
+http://5.196.79.166:3500/live/musti854/kara987s/11527.ts
+#EXTINF:-1,LA:  Cetelmon TV
+http://5.196.79.166:3500/live/musti854/kara987s/11609.ts
+#EXTINF:-1,LA:  Cool TV
+http://5.196.79.166:3500/live/musti854/kara987s/11610.ts
+#EXTINF:-1,LA:  Cosmovision
+http://5.196.79.166:3500/live/musti854/kara987s/11529.ts
+#EXTINF:-1,LA:  Cubavisión
+http://5.196.79.166:3500/live/musti854/kara987s/11530.ts
+#EXTINF:-1,LA:  CUBAVISION INTERNACIONAL
+http://5.196.79.166:3500/live/musti854/kara987s/11531.ts
+#EXTINF:-1,LA:  Diocesano
+http://5.196.79.166:3500/live/musti854/kara987s/11532.ts
+#EXTINF:-1,LA:  Educativo
+http://5.196.79.166:3500/live/musti854/kara987s/11536.ts
+#EXTINF:-1,LA:  Educativo 2
+http://5.196.79.166:3500/live/musti854/kara987s/11537.ts
+#EXTINF:-1,LA:  El Correo TV
+http://5.196.79.166:3500/live/musti854/kara987s/11538.ts
+#EXTINF:-1,LA:  El Pinguino TV
+http://5.196.79.166:3500/live/musti854/kara987s/11539.ts
+#EXTINF:-1,LA:  El Tiempo
+http://5.196.79.166:3500/live/musti854/kara987s/11540.ts
+#EXTINF:-1,LA:  Levante TV
+http://5.196.79.166:3500/live/musti854/kara987s/11518.ts
+#EXTINF:-1,LA:  LU90 Canal 7 TV
+http://5.196.79.166:3500/live/musti854/kara987s/11545.ts
+#EXTINF:-1,LA:  M2O tv
+http://5.196.79.166:3500/live/musti854/kara987s/11546.ts
+#EXTINF:-1,LA:  Mi Gente
+http://5.196.79.166:3500/live/musti854/kara987s/11549.ts
+#EXTINF:-1,LA:  Multivisión
+http://5.196.79.166:3500/live/musti854/kara987s/11551.ts
+#EXTINF:-1,LA:  Ol Costa
+http://5.196.79.166:3500/live/musti854/kara987s/11554.ts
+#EXTINF:-1,LA:  Onda Algeciras TV
+http://5.196.79.166:3500/live/musti854/kara987s/11555.ts
+#EXTINF:-1,LA:  Onda Azul
+http://5.196.79.166:3500/live/musti854/kara987s/11556.ts
+#EXTINF:-1,LA:  Onda Jaen
+http://5.196.79.166:3500/live/musti854/kara987s/11557.ts
+#EXTINF:-1,LA:  Orbe 21
+http://5.196.79.166:3500/live/musti854/kara987s/11558.ts
+#EXTINF:-1,LA:  Popular TV
+http://5.196.79.166:3500/live/musti854/kara987s/11560.ts
+#EXTINF:-1,LA:  REDE HD
+http://5.196.79.166:3500/live/musti854/kara987s/11566.ts
+#EXTINF:-1,LA:  Señal Colombia
+http://5.196.79.166:3500/live/musti854/kara987s/11571.ts
+#EXTINF:-1,LA:  Señal Provincial
+http://5.196.79.166:3500/live/musti854/kara987s/11572.ts
+#EXTINF:-1,LA:  Tele Rebelde
+http://5.196.79.166:3500/live/musti854/kara987s/11576.ts
+#EXTINF:-1,LA:  Teleantioquia
+http://5.196.79.166:3500/live/musti854/kara987s/11575.ts
+#EXTINF:-1,LA:  Telecafé
+http://5.196.79.166:3500/live/musti854/kara987s/11577.ts
+#EXTINF:-1,LA:  TeleCaribe
+http://5.196.79.166:3500/live/musti854/kara987s/11578.ts
+#EXTINF:-1,LA:  Telemedellin
+http://5.196.79.166:3500/live/musti854/kara987s/11579.ts
+#EXTINF:-1,LA:  Telepin Pinamar HD
+http://5.196.79.166:3500/live/musti854/kara987s/11580.ts
+#EXTINF:-1,LA:  Televida
+http://5.196.79.166:3500/live/musti854/kara987s/11581.ts
+#EXTINF:-1,LA:  Terrasa Valles
+http://5.196.79.166:3500/live/musti854/kara987s/11582.ts
+#EXTINF:-1,LA:  TIGO MUSIC
+http://5.196.79.166:3500/live/musti854/kara987s/11583.ts
+#EXTINF:-1,LA:  Trendy Musica
+http://5.196.79.166:3500/live/musti854/kara987s/11586.ts
+#EXTINF:-1,LA:  TV 4
+http://5.196.79.166:3500/live/musti854/kara987s/11587.ts
+#EXTINF:-1,LA:  TV Marti
+http://5.196.79.166:3500/live/musti854/kara987s/11588.ts
+#EXTINF:-1,LA:  TV Mas
+http://5.196.79.166:3500/live/musti854/kara987s/10518.ts
+#EXTINF:-1,LA:  TV Mediterraneo
+http://5.196.79.166:3500/live/musti854/kara987s/11589.ts
+#EXTINF:-1,LA:  TV5MONDE
+http://5.196.79.166:3500/live/musti854/kara987s/11590.ts
+#EXTINF:-1,LA:  TVCS
+http://5.196.79.166:3500/live/musti854/kara987s/11591.ts
+#EXTINF:-1,LA:  UNE Medellin
+http://5.196.79.166:3500/live/musti854/kara987s/11593.ts
+#EXTINF:-1,LA:  Unimas
+http://5.196.79.166:3500/live/musti854/kara987s/11594.ts
+#EXTINF:-1,LA:  Univision23
+http://5.196.79.166:3500/live/musti854/kara987s/11595.ts
+#EXTINF:-1,LA:  VMAS TV
+http://5.196.79.166:3500/live/musti854/kara987s/11598.ts
+#EXTINF:-1,LA:  Willax TV
+http://5.196.79.166:3500/live/musti854/kara987s/11599.ts
+#EXTINF:-1,LA: CANAL SUN
+http://5.196.79.166:3500/live/musti854/kara987s/11522.ts
+#EXTINF:-1,LA: CANAL ZOOM
+http://5.196.79.166:3500/live/musti854/kara987s/11523.ts
+#EXTINF:-1,LA: DESENHOS 1
+http://5.196.79.166:3500/live/musti854/kara987s/11611.ts
+#EXTINF:-1,LA: DTV
+http://5.196.79.166:3500/live/musti854/kara987s/11534.ts
+#EXTINF:-1,LA: MAX DIGITAL 13
+http://5.196.79.166:3500/live/musti854/kara987s/11547.ts
+#EXTINF:-1,LA: MOLA TV
+http://5.196.79.166:3500/live/musti854/kara987s/11550.ts
+#EXTINF:-1,LA: PakaPaka
+http://5.196.79.166:3500/live/musti854/kara987s/11559.ts
+#EXTINF:-1,LA: RCG TV Coahuila
+http://5.196.79.166:3500/live/musti854/kara987s/11564.ts
+#EXTINF:-1,LA: SI TV
+http://5.196.79.166:3500/live/musti854/kara987s/11574.ts
+#EXTINF:-1,ES:: TVES
+http://5.196.79.166:3500/live/musti854/kara987s/11600.ts
+#EXTINF:-1,LA: TLT
+http://5.196.79.166:3500/live/musti854/kara987s/9741.ts
+#EXTINF:-1,LA: TV SUR CANAL 14
+rtmp://205.164.56.130/tvsur81//tvsur81
+#EXTINF:-1,LA: TeleSUR
+http://5.196.79.166:3500/live/musti854/kara987s/9292.ts
+#EXTINF:-1,LA: Tuxpan TV
+http://5.196.79.166:3500/live/musti854/kara987s/9300.ts
+#EXTINF:-1,LA: Venezolana de Television
+http://5.196.79.166:3500/live/musti854/kara987s/10503.ts
+#EXTINF:-1,LA: TIVI 24
+http://5.196.79.166:3500/live/musti854/kara987s/8867.ts
+#EXTINF:-1,LA:  LifeDesignHD
+http://5.196.79.166:3500/live/musti854/kara987s/8869.ts
+#EXTINF:-1,LA: REDE S?CULO 21
+http://5.196.79.166:3500/live/musti854/kara987s/7801.ts
+#EXTINF:-1,DO: CERTV Canal 4
+http://216.24.196.40:1935/live/canal4/playlist.m3u8?wowzasessionid=1724274003
+#EXTINF:-1,DO: Color Vision Canal 9
+rtmp://ss8.domint.net:2048/cvis_str//video
+#EXTINF:-1,DO: Tele Antillas
+http://5.196.79.166:3500/live/musti854/kara987s/8809.ts
+#EXTINF:-1,DO: Telecontacto Canal 57
+rtmp://stream.prostudionetwork.com:1957/telecontacto//TC
+#EXTINF:-1,DO: telefuturo
+http://qs1.distream.net:2112/tf_str/futu/chunklist_w443013554.m3u8
+#EXTINF:-1,DO: canal 25
+http://5.196.79.166:3500/live/musti854/kara987s/8805.ts
+#EXTINF:-1,DO: MICROVISION
+rtmp://ss8.domint.net:2102/mvm_str/microvision
+#EXTINF:-1,DO: NOTICIAS 16
+http://5.196.79.166:3500/live/musti854/kara987s/9280.ts
+#EXTINF:-1,DO: TRA 45
+rtmp://qs1.distream.net:2116/t45_str//canal45
+#EXTINF:-1,DO: universo
+http://5.196.79.166:3500/live/musti854/kara987s/8813.ts
