@@ -4,7 +4,7 @@
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
-    <setting id="authentication" value="true" />
+    <setting id="authentication" value="false" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
