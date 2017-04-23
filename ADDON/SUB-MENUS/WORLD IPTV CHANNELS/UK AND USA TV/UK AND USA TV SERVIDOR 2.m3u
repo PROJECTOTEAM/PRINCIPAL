@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -10,110 +10,143 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-#EXTINF:-1,USA:L VEVO
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2449.ts
-#EXTINF:-1,USA:L USA Network
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2408.ts
-#EXTINF:-1,USA:L US TLC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2456.ts
-#EXTINF:-1,USA:L US TBS HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2421.ts
-#EXTINF:-1,USA:L US NICK
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2458.ts
-#EXTINF:-1,USA:L TNT
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2418.ts
-#EXTINF:-1,USA:L THE CW Central
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2412.ts
-#EXTINF:-1,USA:L SYFY USA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2425.ts
-#EXTINF:-1,USA:L SPIKE HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2428.ts
-#EXTINF:-1,USA:L SHOWTIME HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2438.ts
-#EXTINF:-1,USA:L PBS HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2422.ts
-#EXTINF:-1,USA:L NBC HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2420.ts
-#EXTINF:-1,USA:L NBC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2419.ts
-#EXTINF:-1,USA:L my9
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2423.ts
-#EXTINF:-1,USA:L Lifetime
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2424.ts
-#EXTINF:-1,USA:L KNBC (Los Angeles) NBC HD West
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2450.ts
-#EXTINF:-1,USA:L History Channel USA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2439.ts
-#EXTINF:-1,USA:L HGTV HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2430.ts
-#EXTINF:-1,USA:L HBO Zone HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2451.ts
-#EXTINF:-1,USA:L HBO HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2453.ts
-#EXTINF:-1,USA:L HBO FAMILY
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2454.ts
-#EXTINF:-1,USA:L Hallmark
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2455.ts
-#EXTINF:-1,USA:L Global EDminton
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2426.ts
-#EXTINF:-1,USA:L FX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2434.ts
-#EXTINF:-1,USA:L FREEFORM HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2429.ts
-#EXTINF:-1,USA:L FOX 43
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2415.ts
-#EXTINF:-1,USA:L ESPN 2 USA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2460.ts
-#EXTINF:-1,USA:L ESPN
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2459.ts
-#EXTINF:-1,USA:L DIY Network HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2437.ts
-#EXTINF:-1,USA:L Discovery Channel
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2440.ts
-#EXTINF:-1,USA:L CW HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2411.ts
-#EXTINF:-1,USA:L Comedy Central HD US
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2448.ts
-#EXTINF:-1,USA:L CNN
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2444.ts
-#EXTINF:-1,USA:L CNBC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2445.ts
-#EXTINF:-1,USA:L CITY HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2431.ts
-#EXTINF:-1,USA:L CBS HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2416.ts
-#EXTINF:-1,USA:L Cartoon Network USA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2457.ts
-#EXTINF:-1,USA:L BRAVO USA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2432.ts
-#EXTINF:-1,USA:L Animal Planet US
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2442.ts
-#EXTINF:-1,USA:L AMC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2409.ts
-#EXTINF:-1,USA:L ABC NEWS
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2446.ts
-#EXTINF:-1,USA:L ABC HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2410.ts
-#EXTINF:-1,USA:L ABC _HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2413.ts
-#EXTINF:-1,USA:L A & E
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2417.ts
-#EXTINF:-1,USA:L .CTV HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/2435.ts
-#EXTINF:-1,USA: CSPAN 2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1849.ts
-#EXTINF:-1,USA: C-SPAN 3
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1850.ts
-#EXTINF:-1,USA: C-SPAN
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1848.ts
-#EXTINF:-1,USA: Vevo 2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1836.ts
-#EXTINF:-1,USA: Vevo 1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1835.ts
-#EXTINF:-1,USA: HBO 2-US
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1825.ts
+#EXTINF:-1,USA:WWE
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3254.ts
+#EXTINF:-1,USA:USA-Network
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3248.ts
+#EXTINF:-1,USA:TNS3
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3257.ts
+#EXTINF:-1,USA:TNS2
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3256.ts
+#EXTINF:-1,USA:TNS1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3255.ts
+#EXTINF:-1,USA:Fox_Sports_1_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3231.ts
+#EXTINF:-1,USA:FoxSports_2_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3250.ts
+#EXTINF:-1,USA:FoxSports1_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3249.ts
+#EXTINF:-1,USA:CBS/N
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3240.ts
+#EXTINF:-1,USA:CBCSN
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3241.ts
+#EXTINF:-1,USA:AFN_SPORTS_2
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3243.ts
+#EXTINF:-1,USA:ABC_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3247.ts
+#EXTINF:-1,UK:Vh1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/6055.ts
+#EXTINF:-1,UK:Vh1_Classic
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/6056.ts
+#EXTINF:-1,UK:CNN
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5960.ts
+#EXTINF:-1,IT:SKY_Discovery_Channel
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2828.ts
+#EXTINF:-1,UK:Box_NationHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2985.ts
+#EXTINF:-1,UK:BT-Sports-1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/765.ts
+#EXTINF:-1,UK:BT-Sports-2
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/766.ts
+#EXTINF:-1,UK:Chelsea_FCHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2984.ts
+#EXTINF:-1,UK:Discovery-Science1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/721.ts
+#EXTINF:-1,UK:DiscoveryHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2983.ts
+#EXTINF:-1,UK:Disney_JuniorHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2982.ts
+#EXTINF:-1,UK:E4
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2990.ts
+#EXTINF:-1,UK:EuroSport_1HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2981.ts
+#EXTINF:-1,UK:Film_4HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2980.ts
+#EXTINF:-1,UK:HistoryHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2979.ts
+#EXTINF:-1,UK:ITV1HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2978.ts
+#EXTINF:-1,UK:ITV2HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2977.ts
+#EXTINF:-1,UK:ITV3HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2976.ts
+#EXTINF:-1,UK:ITV4HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2975.ts
+#EXTINF:-1,UK:Movies_Sci-Fi_&_Horror
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/685.ts
+#EXTINF:-1,UK:MTV_HitsHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2974.ts
+#EXTINF:-1,UK:MUTVHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2973.ts
+#EXTINF:-1,UK:Nat_GeoHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2972.ts
+#EXTINF:-1,UK:Nat_Geo_WildHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2971.ts
+#EXTINF:-1,UK:NickelodeonHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2970.ts
+#EXTINF:-1,UK:NicktoonsHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2969.ts
+#EXTINF:-1,UK:Premier_SportsHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2968.ts
+#EXTINF:-1,UK:Racing_UKHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2967.ts
+#EXTINF:-1,UK:RTE_OneHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2966.ts
+#EXTINF:-1,UK:RTE_TwoHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2965.ts
+#EXTINF:-1,UK:Setanta_Sports_IrelandHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2964.ts
+#EXTINF:-1,UK:Sky_Arts
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2963.ts
+#EXTINF:-1,UK:Sky_AtlanticHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2962.ts
+#EXTINF:-1,UK:Sky_LivingHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2961.ts
+#EXTINF:-1,UK:Sky_Movies_ActionHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2960.ts
+#EXTINF:-1,UK:Sky_Movies_Comedy
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/691.ts
+#EXTINF:-1,UK:Sky_Movies_Disney
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/690.ts
+#EXTINF:-1,UK:Sky_Movies_DramaHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2959.ts
+#EXTINF:-1,UK:Sky_Movies_Family
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/688.ts
+#EXTINF:-1,UK:Sky_Movies_Modern_GreatHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2958.ts
+#EXTINF:-1,UK:Sky_Movies_Premiere
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/686.ts
+#EXTINF:-1,UK:Sky_Movies_SelectHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2957.ts
+#EXTINF:-1,UK:Sky_NewsHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2956.ts
+#EXTINF:-1,UK:Sky_OneHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2955.ts
+#EXTINF:-1,UK:Sky_Sport_1_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2066.ts
+#EXTINF:-1,UK:Sky_Sport_2_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2065.ts
+#EXTINF:-1,UK:Sky_Sport_3_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2064.ts
+#EXTINF:-1,UK:Sky_Sport_4_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2063.ts
+#EXTINF:-1,UK:Sky_Sport_5_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2062.ts
+#EXTINF:-1,UK:Sky_Sport_News_HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2060.ts
+#EXTINF:-1,UK:Sky_Two
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2059.ts
+#EXTINF:-1,UK:SyFyHD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2954.ts
+#EXTINF:-1,UK:True_Movies_1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2953.ts
+#EXTINF:-1,UK-Sky-Sports-F1
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/774.ts
+#EXTINF:-1,UK:BBC_1HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2989.ts
+#EXTINF:-1,UK:BBC_2HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2988.ts
+#EXTINF:-1,UK:BBC_3HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2987.ts
+#EXTINF:-1,UK:BBC_4HD
+http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2986.ts
