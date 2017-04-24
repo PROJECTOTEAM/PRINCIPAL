@@ -13,7 +13,7 @@
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
     <setting id="ignore.stream" value="true" />
-    <setting id="ivue-categories.ini.enabled" value="true" />
+    <setting id="ivue-categories.ini.enabled" value="false" />
     <setting id="logos" value="http://projectxwizard.site88.net/logos/" />
     <setting id="logos.enabled" value="true" />
     <setting id="logos.folder" value="" />
