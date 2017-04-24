@@ -1,6 +1,7 @@
 <settings>
     <setting id="" value="false" />
     <setting id="addon.match" value="0" />
+    <setting id="addons.ini.enabled" value="false" />
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
@@ -21,7 +22,7 @@
     <setting id="mainurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="nofocus.color" value="text" />
     <setting id="password" value="" />
-    <setting id="skin" value="Default" />
+    <setting id="skin" value="TVsupertuga" />
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.file" value="" />
