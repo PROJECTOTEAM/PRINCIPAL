@@ -4,16 +4,16 @@
     <setting id="addons.ini.file" value="" />
     <setting id="addons.ini.type" value="0" />
     <setting id="alternative.playback" value="false" />
-    <setting id="authentication" value="true" />
+    <setting id="authentication" value="false" />
     <setting id="categories.ini.enabled" value="false" />
     <setting id="categories.ini.file" value="" />
     <setting id="categories.ini.type" value="0" />
     <setting id="categories.ini.url" value="" />
-    <setting id="channel.filter.sort" value="0" />
+    <setting id="channel.filter.sort" value="2" />
     <setting id="enable.osd" value="true" />
     <setting id="focus.color" value="text" />
     <setting id="ignore.stream" value="true" />
-    <setting id="ivue-categories.ini.enabled" value="false" />
+    <setting id="ivue-categories.ini.enabled" value="true" />
     <setting id="logos" value="http://projectxwizard.site88.net/logos/" />
     <setting id="logos.enabled" value="true" />
     <setting id="logos.folder" value="" />
@@ -25,7 +25,7 @@
     <setting id="user" value="" />
     <setting id="userurl" value="https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/guide/" />
     <setting id="xmltv.file" value="" />
-    <setting id="xmltv.interval" value="1" />
+    <setting id="xmltv.interval" value="2" />
     <setting id="xmltv.type" value="0" />
     <setting id="xmltv.type_select" value="PORTUGUESE" />
 </settings>
