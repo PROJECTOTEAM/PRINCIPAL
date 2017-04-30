@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -8,304 +8,119 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:-1,DE:Select-HD-1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2000.ts
-#EXTINF:-1,DE:Select-HD-2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2001.ts
-#EXTINF:-1,DE:Select-HD-3
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2002.ts
-#EXTINF:-1,DE:Select-HD-4
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2003.ts
-#EXTINF:-1,DE:Select-HD-5
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2004.ts
-#EXTINF:-1,DE:Select-HD-6
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2005.ts
-#EXTINF:-1,DE:Select-HD-7
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2006.ts
-#EXTINF:-1,DE:Select-HD-8
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2007.ts
-#EXTINF:-1,_¤_¤_¤_¤_¤_SKY_BUNDESLIGA__¤_¤_¤_¤_¤
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2617.ts
-#EXTINF:-1,_¤_¤_¤_¤_¤_SKY_CINEMA_DE__¤_¤_¤_¤_¤
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2587.ts
-#EXTINF:-1,DE:DAS-ERSTE
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1999.ts
-#EXTINF:-1,DE:Cinema_24_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1958.ts
-#EXTINF:-1,DE:BundesLiga_1HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1974.ts
-#EXTINF:-1,DE:ARTE
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3084.ts
-#EXTINF:-1,DE:ARD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1990.ts
-#EXTINF:-1,DE:3_Sat
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1989.ts
-#EXTINF:-1,DE:13th_Street
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2931.ts
-#EXTINF:-1,DE:Zdf
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1994.ts
-#EXTINF:-1,DE:WDR_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3030.ts
-#EXTINF:-1,DE:VOX
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1988.ts
-#EXTINF:-1,DE:Super_RTL
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1987.ts
-#EXTINF:-1,DE:SPORT-1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1975.ts
-#EXTINF:-1,DE:SKY_TNT_SERIES_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3040.ts
-#EXTINF:-1,DE:SKY_TNT_FILME_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3041.ts
-#EXTINF:-1,DE:SKY_SYFY_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3042.ts
-#EXTINF:-1,DE:SKY_SPORT_NEWS_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3043.ts
-#EXTINF:-1,DE:SKY_SPORT_2_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3045.ts
-#EXTINF:-1,DE:SKY_SPORT_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3044.ts
-#EXTINF:-1,DE:SKY_SELECT_9_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3046.ts
-#EXTINF:-1,DE:SKY_NATGEO_WILD_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3049.ts
-#EXTINF:-1,DE:SKY_MGM_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3050.ts
-#EXTINF:-1,DE:SKY_KRIMI_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3051.ts
-#EXTINF:-1,DE:SKY_HITS_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3052.ts
-#EXTINF:-1,DE:SKY_HISTORY_CHANNEL_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3053.ts
-#EXTINF:-1,DE:SKY_FOX_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3054.ts
-#EXTINF:-1,DE:SKY_DMAX_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3055.ts
-#EXTINF:-1,DE:SKY_DISNEY_CINEMAGIC
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3056.ts
-#EXTINF:-1,DE:SKY_DISCOVERY_CHANNEL_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3057.ts
-#EXTINF:-1,DE:Sky_Cinema_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1957.ts
-#EXTINF:-1,DE:SKY_CINEMA
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1961.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_5_HD(live)
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3085.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_4_HD(live)
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3061.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_3_HD(live)
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3060.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_2_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3059.ts
-#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3058.ts
-#EXTINF:-1,DE:SKY_AXN_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3068.ts
-#EXTINF:-1,DE:SKY_AXN_ACTION_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3069.ts
-#EXTINF:-1,DE:SKY_ATLANTIC_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3070.ts
-#EXTINF:-1,DE:SKY_ANIXE_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3071.ts
-#EXTINF:-1,DE:SKY_ACTION_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3072.ts
-#EXTINF:-1,DE:SKYSPORT1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1955.ts
-#EXTINF:-1,DE:SKYBUNDESLIGA1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1962.ts
-#EXTINF:-1,DE:SkyAction_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1964.ts
-#EXTINF:-1,DE:SKY-COMEDY
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1960.ts
-#EXTINF:-1,DE:SKY-ATLANTIC
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1963.ts
-#EXTINF:-1,DE:Sat_1_Gold
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1986.ts
-#EXTINF:-1,DE:Sat_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1972.ts
-#EXTINF:-1,DE:RTL_PASSION
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3076.ts
-#EXTINF:-1,DE:RTL-NITRO
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1967.ts
-#EXTINF:-1,DE:RTL-2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1976.ts
-#EXTINF:-1,DE:RTL
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1968.ts
-#EXTINF:-1,DE:RTL
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1977.ts
-#EXTINF:-1,DE:PRO-7
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1978.ts
-#EXTINF:-1,DE:ORF2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1995.ts
-#EXTINF:-1,DE:ORF1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1997.ts
-#EXTINF:-1,DE:NickJr
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2943.ts
-#EXTINF:-1,DE:NatGeo_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1973.ts
-#EXTINF:-1,DE:N24_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3080.ts
-#EXTINF:-1,DE:KIKA
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2930.ts
-#EXTINF:-1,DE:KABEL_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3081.ts
-#EXTINF:-1,DE:disney_juniore
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2929.ts
-#EXTINF:-1,DE:Disney_Cinemagic_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2927.ts
-#EXTINF:-1,DE:Disney_Channel
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/2928.ts
-#EXTINF:-1,DE:Discovery
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/1983.ts
-#EXTINF:-1,DE:ZDF_info
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3476.ts
-#EXTINF:-1,DE:TNT_SERIE_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3479.ts
-#EXTINF:-1,DE:TNT_Serie
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3447.ts
-#EXTINF:-1,DE:TNT_Film
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3448.ts
-#EXTINF:-1,DE:TLC
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3449.ts
-#EXTINF:-1,DE:Tagesschau_24
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3404.ts
-#EXTINF:-1,DE:Syfy
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3450.ts
-#EXTINF:-1,DE:SWR
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3440.ts
-#EXTINF:-1,DE:SRF_2_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3541.ts
-#EXTINF:-1,DE:SRF_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3542.ts
-#EXTINF:-1,DE:Sport_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3405.ts
-#EXTINF:-1,DE:Spiegel_Geschichte_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3487.ts
-#EXTINF:-1,DE:Spiegel_Geschichte
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3518.ts
-#EXTINF:-1,DE:Sky_TNT_Serie_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3488.ts
-#EXTINF:-1,DE:Sky_Sport_News
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3490.ts
-#EXTINF:-1,DE:Sky_Nostalgie
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3520.ts
-#EXTINF:-1,DE:Sky_Krimi
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3452.ts
-#EXTINF:-1,DE:Sky_History
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3397.ts
-#EXTINF:-1,DE:SKY_EMOTION_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3545.ts
-#EXTINF:-1,DE:Sky_Comedy_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3531.ts
-#EXTINF:-1,DE:SKY_Cinema_24_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3410.ts
-#EXTINF:-1,DE:SKY_Cinema_24
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3411.ts
-#EXTINF:-1,DE:SKY_Cinema_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3412.ts
-#EXTINF:-1,DE:SKY_Bundesliga_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3442.ts
-#EXTINF:-1,DE:SKY_Bundesliga_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3453.ts
-#EXTINF:-1,DE:SKY_ATLANTIC_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3493.ts
-#EXTINF:-1,DE:Sky_Action
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3529.ts
-#EXTINF:-1,DE:Sky_13_Street_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3400.ts
-#EXTINF:-1,DE:Sixx_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3495.ts
-#EXTINF:-1,DE:SIXX
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3454.ts
-#EXTINF:-1,DE:Sat_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3414.ts
-#EXTINF:-1,DE:RTL_Passion_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3416.ts
-#EXTINF:-1,DE:RTL_Nitro
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3530.ts
-#EXTINF:-1,DE:RTL_LIVING
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3455.ts
-#EXTINF:-1,DE:RTL_Crime_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3522.ts
-#EXTINF:-1,DE:RTL_Crime
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3456.ts
-#EXTINF:-1,DE:RTL_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3457.ts
-#EXTINF:-1,DE:Romance_TV_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3419.ts
-#EXTINF:-1,DE:Romance_TV
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3458.ts
-#EXTINF:-1,DE:Prosieben_Maxx_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3420.ts
-#EXTINF:-1,DE:PRO7
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3497.ts
-#EXTINF:-1,DE:Planet_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3421.ts
-#EXTINF:-1,DE:Phoenix_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3436.ts
-#EXTINF:-1,DE:ORF_2_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3498.ts
-#EXTINF:-1,DE:NTV_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3422.ts
-#EXTINF:-1,DE:Nickelodeon
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3562.ts
-#EXTINF:-1,DE:Nat_Wild_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3401.ts
-#EXTINF:-1,DE:Nat_Geo_Wild
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3460.ts
-#EXTINF:-1,DE:Nat_GEO
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3461.ts
-#EXTINF:-1,DE:National_Geographic
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3443.ts
-#EXTINF:-1,DE:NatGeo_Wild_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3502.ts
-#EXTINF:-1,DE:N24
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3548.ts
-#EXTINF:-1,DE:MUNCHEN_TV
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3552.ts
-#EXTINF:-1,DE:Motorvision_TV
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3503.ts
-#EXTINF:-1,DE:MGM_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3523.ts
-#EXTINF:-1,DE:KIKA_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3553.ts
-#EXTINF:-1,DE:KABEL_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3554.ts
-#EXTINF:-1,DE:Jukebox
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3465.ts
-#EXTINF:-1,DE:History_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3524.ts
-#EXTINF:-1,DE:Goldstar_TV
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3466.ts
-#EXTINF:-1,DE:FOX
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3468.ts
-#EXTINF:-1,DE:Eurosport_1_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3426.ts
-#EXTINF:-1,DE:Eurosport
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3437.ts
-#EXTINF:-1,DE:Euronews
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3505.ts
-#EXTINF:-1,DE:DMAX_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3427.ts
-#EXTINF:-1,DE:Disney_XD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3470.ts
-#EXTINF:-1,DE:Discovery_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3429.ts
-#EXTINF:-1,DE:Discovery_Channel_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3507.ts
-#EXTINF:-1,DE:Discovery_Channel
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3473.ts
-#EXTINF:-1,DE:A_E
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3516.ts
-#EXTINF:-1,DE:Austria_24
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3527.ts
-#EXTINF:-1,DE:ATLANTIC_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3446.ts
-#EXTINF:-1,DE:ANIXE
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3515.ts
-#EXTINF:-1,DE:ANIMAX
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3432.ts
-#EXTINF:-1,DE:Animal_Planet_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/3433.ts
+#EXTINF:-1,DE: ZDF HD
+http://37.187.251.142:8000/live/royals/royals/4604.ts
+#EXTINF:-1,DE: WDR HD Aachen
+http://37.187.251.142:8000/live/royals/royals/4605.ts
+#EXTINF:-1,DE: VOX HD
+http://37.187.251.142:8000/live/royals/royals/4606.ts
+#EXTINF:-1,DE: VIVA/Comedy
+http://37.187.251.142:8000/live/royals/royals/4607.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://37.187.251.142:8000/live/royals/royals/4608.ts
+#EXTINF:-1,DE: TNT Film
+http://37.187.251.142:8000/live/royals/royals/4609.ts
+#EXTINF:-1,DE: Super RTL HD
+http://37.187.251.142:8000/live/royals/royals/4610.ts
+#EXTINF:-1,DE: Sport1   HD
+http://37.187.251.142:8000/live/royals/royals/4611.ts
+#EXTINF:-1,DE: Sport 1 HD
+http://37.187.251.142:8000/live/royals/royals/4612.ts
+#EXTINF:-1,DE: Sky Sport News
+http://37.187.251.142:8000/live/royals/royals/4613.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://37.187.251.142:8000/live/royals/royals/4614.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://37.187.251.142:8000/live/royals/royals/4615.ts
+#EXTINF:-1,DE: Sky Select 5HD
+http://37.187.251.142:8000/live/royals/royals/4616.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://37.187.251.142:8000/live/royals/royals/4617.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://37.187.251.142:8000/live/royals/royals/4618.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://37.187.251.142:8000/live/royals/royals/4619.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://37.187.251.142:8000/live/royals/royals/4620.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://37.187.251.142:8000/live/royals/royals/4621.ts
+#EXTINF:-1,DE: Sky Emotion
+http://37.187.251.142:8000/live/royals/royals/4622.ts
+#EXTINF:-1,DE: Sky Comedy
+http://37.187.251.142:8000/live/royals/royals/4623.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://37.187.251.142:8000/live/royals/royals/4624.ts
+#EXTINF:-1,DE: Sky Action HD
+http://37.187.251.142:8000/live/royals/royals/4625.ts
+#EXTINF:-1,DE: SIXX HD
+http://37.187.251.142:8000/live/royals/royals/4626.ts
+#EXTINF:-1,DE: Sat.1 HD
+http://37.187.251.142:8000/live/royals/royals/4627.ts
+#EXTINF:-1,DE: RTL Passion
+http://37.187.251.142:8000/live/royals/royals/4628.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://37.187.251.142:8000/live/royals/royals/4629.ts
+#EXTINF:-1,DE: RTL HD
+http://37.187.251.142:8000/live/royals/royals/4630.ts
+#EXTINF:-1,DE: RTL Crime
+http://37.187.251.142:8000/live/royals/royals/4631.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://37.187.251.142:8000/live/royals/royals/4632.ts
+#EXTINF:-1,DE: ProSieben Maxx HD
+http://37.187.251.142:8000/live/royals/royals/4633.ts
+#EXTINF:-1,DE: ProSieben HD
+http://37.187.251.142:8000/live/royals/royals/4634.ts
+#EXTINF:-1,DE: ProSieben FUN HD
+http://37.187.251.142:8000/live/royals/royals/4635.ts
+#EXTINF:-1,DE: ORF 2N HD
+http://37.187.251.142:8000/live/royals/royals/4636.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://37.187.251.142:8000/live/royals/royals/4637.ts
+#EXTINF:-1,DE: NDR HD
+http://37.187.251.142:8000/live/royals/royals/4638.ts
+#EXTINF:-1,DE: NatGeo HD
+http://37.187.251.142:8000/live/royals/royals/4639.ts
+#EXTINF:-1,DE: N24 HD
+http://37.187.251.142:8000/live/royals/royals/4640.ts
+#EXTINF:-1,DE: n-tv HD
+http://37.187.251.142:8000/live/royals/royals/4641.ts
+#EXTINF:-1,DE: Motorvision TV
+http://37.187.251.142:8000/live/royals/royals/4642.ts
+#EXTINF:-1,DE: KIKA HD
+http://37.187.251.142:8000/live/royals/royals/4643.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://37.187.251.142:8000/live/royals/royals/4644.ts
+#EXTINF:-1,DE: HR HD
+http://37.187.251.142:8000/live/royals/royals/4645.ts
+#EXTINF:-1,DE: History HD
+http://37.187.251.142:8000/live/royals/royals/4646.ts
+#EXTINF:-1,DE: Eurosport HD
+http://37.187.251.142:8000/live/royals/royals/4647.ts
+#EXTINF:-1,DE: Disney HD
+http://37.187.251.142:8000/live/royals/royals/4648.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://37.187.251.142:8000/live/royals/royals/4649.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://37.187.251.142:8000/live/royals/royals/4650.ts
+#EXTINF:-1,DE: Das Erste HD
+http://37.187.251.142:8000/live/royals/royals/4651.ts
+#EXTINF:-1,DE: AXN HD
+http://37.187.251.142:8000/live/royals/royals/4652.ts
+#EXTINF:-1,DE: ATV
+http://37.187.251.142:8000/live/royals/royals/4653.ts
+#EXTINF:-1,DE: arte HD
+http://37.187.251.142:8000/live/royals/royals/4654.ts
+#EXTINF:-1,DE: Anixe HD
+http://37.187.251.142:8000/live/royals/royals/4655.ts
+#EXTINF:-1,DE: 3sat HD
+http://37.187.251.142:8000/live/royals/royals/4656.ts
+#EXTINF:-1,--------####ARGENTINA####-----------------
+http://37.187.251.142:8000/live/royals/royals/2379.ts
+#EXTINF:-1,ORBE 21
+http://37.187.251.142:8000/live/royals/royals/2435.ts
+#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar
+http://37.187.251.142:8000/live/royals/royals/2442.ts
+#EXTINF:-1,Canal 79 San Juan
+http://37.187.251.142:8000/live/royals/royals/2427.ts
+#EXTINF:-1,Canal 4 HD 720 Jujuy
+http://37.187.251.142:8000/live/royals/royals/2424.ts

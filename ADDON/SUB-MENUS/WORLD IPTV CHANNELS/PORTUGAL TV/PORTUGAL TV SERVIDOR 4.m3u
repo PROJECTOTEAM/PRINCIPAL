@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -21,236 +21,127 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,Rtp 1 - Portugal
+http://151.80.35.29:25461/live/2000/2000/404.ts
+#EXTINF:-1,Rtp 2 - Portugal
+http://151.80.35.29:25461/live/2000/2000/405.ts
+#EXTINF:-1,Rtp 3 - Portugal
+http://151.80.35.29:25461/live/2000/2000/406.ts
+#EXTINF:-1,Rtp Africa - Portugal
+http://151.80.35.29:25461/live/2000/2000/1464.ts
+#EXTINF:-1,Sic - Portugal
+http://151.80.35.29:25461/live/2000/2000/1751.ts
+#EXTINF:-1,Sic Caras - Portugal
+http://151.80.35.29:25461/live/2000/2000/412.ts
+#EXTINF:-1,Sic Kids - Portugal
+http://151.80.35.29:25461/live/2000/2000/1469.ts
+#EXTINF:-1,Sic Mulher - Portugal
+http://151.80.35.29:25461/live/2000/2000/411.ts
+#EXTINF:-1,Sic Noticias - Portugal
+http://151.80.35.29:25461/live/2000/2000/1473.ts
+#EXTINF:-1,Sic Radical - Portugal
+http://151.80.35.29:25461/live/2000/2000/1472.ts
+#EXTINF:-1,Tvi - Portugal
+http://151.80.35.29:25461/live/2000/2000/407.ts
+#EXTINF:-1,TV Globo - Portugal
+http://151.80.35.29:25461/live/2000/2000/2036.ts
+#EXTINF:-1,Tv Globo Premium - Portugal
+http://151.80.35.29:25461/live/2000/2000/409.ts
+#EXTINF:-1,Tvi 24 - Portugal
+http://151.80.35.29:25461/live/2000/2000/408.ts
+#EXTINF:-1,Axn - Portugal
+http://151.80.35.29:25461/live/2000/2000/413.ts
+#EXTINF:-1,Axn Black - Portugal
+http://151.80.35.29:25461/live/2000/2000/415.ts
+#EXTINF:-1,Disney Channel - Portugal
+http://151.80.35.29:25461/live/2000/2000/416.ts
+#EXTINF:-1,Nickelodeon - Portugal
+http://151.80.35.29:25461/live/2000/2000/417.ts
+#EXTINF:-1,Cartoon Network - Portugal
+http://151.80.35.29:25461/live/2000/2000/418.ts
+#EXTINF:-1,Axn White - Portugal
+http://151.80.35.29:25461/live/2000/2000/414.ts
+#EXTINF:-1,24 Kitchen - Portugal
+http://151.80.35.29:25461/live/2000/2000/1465.ts
+#EXTINF:-1,A&E - Portugal
+http://151.80.35.29:25461/live/2000/2000/1475.ts
+#EXTINF:-1,Abola TV - Portugal
+http://151.80.35.29:25461/live/2000/2000/1474.ts
+#EXTINF:-1,Baby TV - Portugal
+http://151.80.35.29:25461/live/2000/2000/1468.ts
+#EXTINF:-1,Cbs Reality - Portugal
+http://151.80.35.29:25461/live/2000/2000/1481.ts
+#EXTINF:-1,Eurosport 1 - Portugal
+http://151.80.35.29:25461/live/2000/2000/1482.ts
+#EXTINF:-1,Eurosport 2 - Portugal
+http://151.80.35.29:25461/live/2000/2000/1483.ts
+#EXTINF:-1,Fox Movies - Portugal
+http://151.80.35.29:25461/live/2000/2000/1480.ts
+#EXTINF:-1,Fuel TV - Portugal
+http://151.80.35.29:25461/live/2000/2000/1470.ts
+#EXTINF:-1,Hollywood - Portugal
+http://151.80.35.29:25461/live/2000/2000/1478.ts
+#EXTINF:-1,Mcm Top - Portugal
+http://151.80.35.29:25461/live/2000/2000/1476.ts
+#EXTINF:-1,Motorvision - Portugal
+http://151.80.35.29:25461/live/2000/2000/1466.ts
+#EXTINF:-1,Mov HD - Portugal
+http://151.80.35.29:25461/live/2000/2000/1479.ts
+#EXTINF:-1,Travel Channel HD - Portugal
+http://151.80.35.29:25461/live/2000/2000/1471.ts
+#EXTINF:-1,TV Series - Portugal
+http://151.80.35.29:25461/live/2000/2000/419.ts
+#EXTINF:-1,Fox - Portugal
+http://151.80.35.29:25461/live/2000/2000/420.ts
+#EXTINF:-1,Fox Crime - Portugal
+http://151.80.35.29:25461/live/2000/2000/421.ts
+#EXTINF:-1,Fox Comedy - Portugal
+http://151.80.35.29:25461/live/2000/2000/422.ts
+#EXTINF:-1,Discovery Channel - Portugal
+http://151.80.35.29:25461/live/2000/2000/423.ts
+#EXTINF:-1,Discovery Showcase - Portugal
+http://151.80.35.29:25461/live/2000/2000/424.ts
+#EXTINF:-1,National Geographic - Portugal
+http://151.80.35.29:25461/live/2000/2000/1495.ts
+#EXTINF:-1,National Geographic Wild HD - Portugal
+http://151.80.35.29:25461/live/2000/2000/425.ts
+#EXTINF:-1,Tlc - Portugal
+http://151.80.35.29:25461/live/2000/2000/426.ts
+#EXTINF:-1,E! Entertainment - Portugal
+http://151.80.35.29:25461/live/2000/2000/427.ts
+#EXTINF:-1,Fox Life - Portugal
+http://151.80.35.29:25461/live/2000/2000/428.ts
+#EXTINF:-1,Cm TV - Portugal
+http://151.80.35.29:25461/live/2000/2000/429.ts
+#EXTINF:-1,Canal Panda - Portugal
+http://151.80.35.29:25461/live/2000/2000/430.ts
+#EXTINF:-1,TV Cine 1 - Portugal
+http://151.80.35.29:25461/live/2000/2000/431.ts
+#EXTINF:-1,TV Cine 2 - Portugal
+http://151.80.35.29:25461/live/2000/2000/432.ts
+#EXTINF:-1,TV Cine 3 - Portugal
+http://151.80.35.29:25461/live/2000/2000/433.ts
+#EXTINF:-1,TV Cine 4 - Portugal
+http://151.80.35.29:25461/live/2000/2000/434.ts
+#EXTINF:-1,Benfica TV 1 - Portugal
+http://151.80.35.29:25461/live/2000/2000/435.ts
+#EXTINF:-1,TV Record - Portugal
+http://151.80.35.29:25461/live/2000/2000/1463.ts
+#EXTINF:-1,Tv Sick - Portugal
+http://151.80.35.29:25461/live/2000/2000/410.ts
+#EXTINF:-1,Sport TV 1 - Portugal
+http://151.80.35.29:25461/live/2000/2000/437.ts
+#EXTINF:-1,Sport TV 2 - Portugal
+http://151.80.35.29:25461/live/2000/2000/438.ts
+#EXTINF:-1,Sport TV 3 - Portugal
+http://151.80.35.29:25461/live/2000/2000/439.ts
+#EXTINF:-1,Sport TV 4 - Portugal
+http://151.80.35.29:25461/live/2000/2000/440.ts
+#EXTINF:-1,Sport TV 5 - Portugal
+http://151.80.35.29:25461/live/2000/2000/441.ts
 
-
-
-#EXTINF:-1,PT:Canal Sports
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1957.ts
-#EXTINF:-1,PT:BENFICA_TV_2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1936.ts
-#EXTINF:-1,PT:BENFICA_TV_1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1935.ts
-#EXTINF:-1,PT:Afro Music
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1938.ts
-#EXTINF:-1,PT:24KITCHEN_HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1937.ts
-#EXTINF:-1,PT: TVI REALITY
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1868.ts
-#EXTINF:-1,PT: TVI Ficcao
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1880.ts
-#EXTINF:-1,PT: TVI 24
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1867.ts
-#EXTINF:-1,PT: TVI
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1869.ts
-#EXTINF:-1,PT: TVCine 5
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1881.ts
-#EXTINF:-1,PT: TVCine 3
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1883.ts
-#EXTINF:-1,PT: TVCine 2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1884.ts
-#EXTINF:-1,PT: TVCine 1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1885.ts
-#EXTINF:-1,PT: TV SERIES
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1870.ts
-#EXTINF:-1,PT: TV RECORD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1871.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1872.ts
-#EXTINF:-1,PT: TV Globo
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1873.ts
-#EXTINF:-1,PT: TV CINE 4
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1882.ts
-#EXTINF:-1,PT: Toros tv
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1864.ts
-#EXTINF:-1,PT: TLC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1899.ts
-#EXTINF:-1,PT: SYFY
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1874.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1865.ts
-#EXTINF:-1,PT: Sic Radical
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1890.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1886.ts
-#EXTINF:-1,PT: Sic Mulher
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1887.ts
-#EXTINF:-1,PT: SIC KIDS
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1888.ts
-#EXTINF:-1,PT: SIC Caras
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1866.ts
-#EXTINF:-1,PT: SIC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1889.ts
-#EXTINF:-1,PT: RTP3
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1894.ts
-#EXTINF:-1,PT: RTP Memoria
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1891.ts
-#EXTINF:-1,PT: RTP Madeira
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1892.ts
-#EXTINF:-1,PT: RTP 2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1895.ts
-#EXTINF:-1,PT: RTP 1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1896.ts
-#EXTINF:-1,PT: Record
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1897.ts
-#EXTINF:-1,PT: ODISSEIA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1900.ts
-#EXTINF:-1,PT: NICKELODEON
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1901.ts
-#EXTINF:-1,PT: NAT GEO HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1902.ts
-#EXTINF:-1,PT: Motors TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1898.ts
-#EXTINF:-1,PT: Hollywood
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1875.ts
-#EXTINF:-1,PT: HISTORIA HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1903.ts
-#EXTINF:-1,PT: FOX MOVIES
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1909.ts
-#EXTINF:-1,PT: FOX LIFE
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1910.ts
-#EXTINF:-1,PT: FOX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1912.ts
-#EXTINF:-1,PT: Fox Crime
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1908.ts
-#EXTINF:-1,PT: Fox Comedy
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1911.ts
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1904.ts
-#EXTINF:-1,PT: Disney Junior
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1906.ts
-#EXTINF:-1,PT: Disney Channel
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1876.ts
-#EXTINF:-1,PT: Discovery HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1907.ts
-#EXTINF:-1,PT: CM TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1877.ts
-#EXTINF:-1,PT: Canal Porto
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1905.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1878.ts
-#EXTINF:-1,PT: AXN WHITE
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1913.ts
-#EXTINF:-1,PT: AXN HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1915.ts
-#EXTINF:-1,PT: AXN BLACK
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1914.ts
-#EXTINF:-1,PT: Abola tv
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1916.ts
-#EXTINF:-1,PT: A BOLA TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1879.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,PT:A&E
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5698.ts
-#EXTINF:-1,PT:AXN_Black
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5701.ts
-#EXTINF:-1,PT:AXN_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5702.ts
-#EXTINF:-1,PT:CACA_E_PESCA
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5699.ts
-#EXTINF:-1,PT:CARTOON_NETWORK
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5703.ts
-#EXTINF:-1,PT:Discovery_Showcase
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5704.ts
-#EXTINF:-1,PT:DisneyJR
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5693.ts
-#EXTINF:-1,PT:EUROSPORT_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5705.ts
-#EXTINF:-1,PT:Eurosport_2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5706.ts
-#EXTINF:-1,PT:FOX-HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5687.ts
-#EXTINF:-1,PT:FOXCOMEDY
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5691.ts
-#EXTINF:-1,PT:FOXCrimeHD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5690.ts
-#EXTINF:-1,PT:FOX-MOVIE
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5689.ts
-#EXTINF:-1,PT:FoxLifeHD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5688.ts
-#EXTINF:-1,PT:FOX_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5700.ts
-#EXTINF:-1,PT:Fox_movies
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5708.ts
-#EXTINF:-1,PT:Jim_Jam
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5709.ts
-#EXTINF:-1,PT:MOVHD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5686.ts
-#EXTINF:-1,PT:NATGEOWILD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5685.ts
-#EXTINF:-1,PT:National_Geo_Wild
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5711.ts
-#EXTINF:-1,PT:RTP2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5713.ts
-#EXTINF:-1,PT:RTP3
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5714.ts
-#EXTINF:-1,PT:SICCARAS
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5684.ts
-#EXTINF:-1,PT:SicMulher
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5683.ts
-#EXTINF:-1,PT:SICNOTICIAS
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5682.ts
-#EXTINF:-1,PT:SIC_K
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5715.ts
-#EXTINF:-1,PT:SportingTVHD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5674.ts
-#EXTINF:-1,PT:SportTV1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5679.ts
-#EXTINF:-1,PT:SportTV1HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5678.ts
-#EXTINF:-1,PT:SportTV2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5677.ts
-#EXTINF:-1,PT:SportTV2HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5676.ts
-#EXTINF:-1,PT:SPORTTV3
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5681.ts
-#EXTINF:-1,PT:SPORTTV3HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5680.ts
-#EXTINF:-1,PT:SportTV4
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5675.ts
-#EXTINF:-1,PT:SPORTTV5
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5673.ts
-#EXTINF:-1,PT:SPORT_TV3
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5716.ts
-#EXTINF:-1,PT:SPORT_TV_1
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5717.ts
-#EXTINF:-1,PT:SPORT_TV_2
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5718.ts
-#EXTINF:-1,PT:SPORT_TV_4
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5719.ts
-#EXTINF:-1,PT:SPORT_TV_5
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5720.ts
-#EXTINF:-1,PT:TLC
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5721.ts
-#EXTINF:-1,PT:TravelChannelHD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5672.ts
-#EXTINF:-1,PT:TVCINE1HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5671.ts
-#EXTINF:-1,PT:TVCINE2HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5670.ts
-#EXTINF:-1,PT:TVCine3HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5669.ts
-#EXTINF:-1,PT:TVCine4HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5668.ts
-#EXTINF:-1,PT:TV_CINE_3_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5723.ts
-#EXTINF:-1,PT:TV_SERIES_HD
-http://www.tunisiaiptv.com:8000/live/tawfik/tawfik/5724.ts
-
+#EXTINF:-1,Sporting Tv HD - Portugal
+http://151.80.35.29:25461/live/2000/2000/1484.ts
 
 
 

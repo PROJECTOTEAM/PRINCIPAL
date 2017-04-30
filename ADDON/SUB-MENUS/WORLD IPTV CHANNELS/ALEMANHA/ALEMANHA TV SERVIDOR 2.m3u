@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -14,112 +14,65 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,DE: ZDF HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3327.ts
-#EXTINF:-1,DE: WDR HD Aachen
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3342.ts
-#EXTINF:-1,DE: VOX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3337.ts
-#EXTINF:-1,DE: VIVA/Comedy
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3338.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3339.ts
-#EXTINF:-1,DE: TNT Film
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3340.ts
-#EXTINF:-1,DE: Super RTL HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3341.ts
-#EXTINF:-1,DE: Sport1   HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3363.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3364.ts
-#EXTINF:-1,DE: Sky Sport News
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3333.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3334.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3335.ts
-#EXTINF:-1,DE: Sky Select 5HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3527.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3526.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3525.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3524.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3523.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3329.ts
-#EXTINF:-1,DE: Sky Emotion
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3330.ts
-#EXTINF:-1,DE: Sky Comedy
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3331.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3332.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3336.ts
-#EXTINF:-1,DE: Sky Action HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3328.ts
-#EXTINF:-1,DE: SIXX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3343.ts
-#EXTINF:-1,DE: Sat.1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3344.ts
-#EXTINF:-1,DE: RTL Passion
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3345.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3346.ts
-#EXTINF:-1,DE: RTL HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3347.ts
-#EXTINF:-1,DE: RTL Crime
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3348.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3349.ts
-#EXTINF:-1,DE: ProSieben Maxx HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3350.ts
-#EXTINF:-1,DE: ProSieben HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3351.ts
-#EXTINF:-1,DE: ProSieben FUN HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3352.ts
-#EXTINF:-1,DE: ORF 2N HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3353.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3354.ts
-#EXTINF:-1,DE: NDR HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3355.ts
-#EXTINF:-1,DE: NatGeo HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3356.ts
-#EXTINF:-1,DE: N24 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3357.ts
-#EXTINF:-1,DE: n-tv HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3358.ts
-#EXTINF:-1,DE: Motorvision TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3359.ts
-#EXTINF:-1,DE: KIKA HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3360.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3361.ts
-#EXTINF:-1,DE: HR HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3362.ts
-#EXTINF:-1,DE: History HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3522.ts
-#EXTINF:-1,DE: Eurosport HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3365.ts
-#EXTINF:-1,DE: Disney HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3366.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3367.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3529.ts
-#EXTINF:-1,DE: Das Erste HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3368.ts
-#EXTINF:-1,DE: AXN HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3369.ts
-#EXTINF:-1,DE: ATV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3370.ts
-#EXTINF:-1,DE: arte HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3371.ts
-#EXTINF:-1,DE: Anixe HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3372.ts
-#EXTINF:-1,DE: 3sat HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3373.ts
+#EXTINF:-1,Ard - Germany
+http://151.80.35.29:25461/live/2000/2000/2921.ts
+#EXTINF:-1,Vox - Germany
+http://151.80.35.29:25461/live/2000/2000/562.ts
+#EXTINF:-1,VOX HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2581.ts
+#EXTINF:-1,Kabel 1 HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2578.ts
+#EXTINF:-1,Kabel Eins - Germany
+http://151.80.35.29:25461/live/2000/2000/565.ts
+#EXTINF:-1,Kabel 1 Classic HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2583.ts
+#EXTINF:-1,Sky Cinema Family - Germany
+http://151.80.35.29:25461/live/2000/2000/3048.ts
+#EXTINF:-1,Sky Cinema Action HD - Germany
+http://151.80.35.29:25461/live/2000/2000/3050.ts
+#EXTINF:-1,Tnt Film - Germany
+http://151.80.35.29:25461/live/2000/2000/581.ts
+#EXTINF:-1,TNT Comedy HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2575.ts
+#EXTINF:-1,FOX HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2573.ts
+#EXTINF:-1,Fox Serie - Germany
+http://151.80.35.29:25461/live/2000/2000/570.ts
+#EXTINF:-1,13th Street - Germany
+http://151.80.35.29:25461/live/2000/2000/577.ts
+#EXTINF:-1,13th Street HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2550.ts
+#EXTINF:-1,TNT Serie HD - Germany
+http://151.80.35.29:25461/live/2000/2000/2549.ts
+#EXTINF:-1,Heimat Kanal - Germany
+http://151.80.35.29:25461/live/2000/2000/567.ts
+#EXTINF:-1,Kinowelt TV - Germany
+http://151.80.35.29:25461/live/2000/2000/3049.ts
+#EXTINF:-1,Sky Disney Cinemagic HD - Germany
+http://151.80.35.29:25461/live/2000/2000/3054.ts
+#EXTINF:-1,National Geographic HD  - Germany
+http://151.80.35.29:25461/live/2000/2000/3053.ts
+#EXTINF:-1,Sky Sport 2 HD - Germany
+http://151.80.35.29:25461/live/2000/2000/3052.ts
+#EXTINF:-1,National Geographic  - Germany
+http://151.80.35.29:25461/live/2000/2000/578.ts
+#EXTINF:-1,Discovery HD - Germany
+http://151.80.35.29:25461/live/2000/2000/580.ts
+#EXTINF:-1,History HD - Germany
+http://151.80.35.29:25461/live/2000/2000/3051.ts
+#EXTINF:-1,Goldstar TV - Germany
+http://151.80.35.29:25461/live/2000/2000/2974.ts
+#EXTINF:-1,Kika - Germany
+http://151.80.35.29:25461/live/2000/2000/561.ts
+#EXTINF:-1,Classica - Germany
+http://151.80.35.29:25461/live/2000/2000/566.ts
+#EXTINF:-1,Disney Channel HD - Germany
+http://151.80.35.29:25461/live/2000/2000/573.ts
+#EXTINF:-1,Disney Cinemagic - Germany
+http://151.80.35.29:25461/live/2000/2000/574.ts
+#EXTINF:-1,Disney Junior - Germany
+http://151.80.35.29:25461/live/2000/2000/572.ts
+#EXTINF:-1,Junior - Germany
+http://151.80.35.29:25461/live/2000/2000/571.ts
+#EXTINF:-1,N24 - Germany
+http://151.80.35.29:25461/live/2000/2000/558.ts
