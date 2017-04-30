@@ -126,5 +126,11 @@
 <fanart>http://www.streetwisepundit.com/frula/2015/05/04.jpg</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/2928226988/bb6efb2113ef5265af66db33ded6150c_400x400.jpeg</thumbnail>
 </dir>
+https%3a%2f%2fsourcetv.info%2f
 
-
+<plugin>
+<name>[COLOR lime]TESTE[/COLOR] </name>
+<link>plugin://plugin.video.webstreams/Source-1/</link>
+<fanart>>http://www.iptvchoice.com/wp-content/uploads/2015/02/algarve-uk-tv-bbc-itv-free-iptv-premium-sky-sports-contacts.jpg</fanart>
+<thumbnail>http://st.depositphotos.com/1054979/2700/v/950/depositphotos_27004213-stock-illustration-beta-testing-stamps.jpg</thumbnail>
+</plugin>
