@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -9,7 +9,33 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
+#EXTM3U
+#EXTINF:-1,BR Fernsehen
+http://147.175.187.133:4025/udp/233.10.47.15:1234
+#EXTINF:-1,ZDF
+http://147.175.187.133:4025/udp/233.10.47.17:1234
+#EXTINF:-1,CNN
+http://147.175.187.133:4025/udp/233.10.47.16:1234
+#EXTINF:-1,3sat
+http://147.175.187.133:4025/udp/233.10.47.18:1234
+#EXTINF:-1,KiKA
+http://147.175.187.133:4025/udp/233.10.47.19:1234
+#EXTINF:-1,ZDF Neo
+http://147.175.187.133:4025/udp/233.10.47.20:1234
+#EXTINF:-1,HR Fernsehen
+http://147.175.187.133:4025/udp/233.10.47.21:1234
+#EXTINF:-1,ZDF Info
+http://147.175.187.133:4025/udp/233.10.47.23:1234
+#EXTINF:-1,WDR
+http://147.175.187.133:4025/udp/233.10.47.25:1234
+#EXTINF:-1,SAT.1
+http://147.175.187.133:4025/udp/233.10.47.27:1234
+#EXTINF:-1,Pro.7
+http://147.175.187.133:4025/udp/233.10.47.28:1234
+#EXTINF:-1,Kabel Eins
+http://147.175.187.133:4025/udp/233.10.47.29:1234
+#EXTINF:-1,N.24
+http://147.175.187.133:4025/udp/233.10.47.30:1234
 
 
 
