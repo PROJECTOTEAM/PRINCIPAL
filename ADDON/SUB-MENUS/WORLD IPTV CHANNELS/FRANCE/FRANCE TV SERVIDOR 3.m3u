@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -16,271 +16,251 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,FR:HD1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3085.ts
-#EXTINF:-1,FR:CANAL   SERIES
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3093.ts
-#EXTINF:-1,FR:CANAL   CINEMA
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3094.ts
-#EXTINF:-1,FR:Action
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3106.ts
-#EXTINF:-1,FR: Canal  Sport
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3109.ts
-#EXTINF:-1,FR_BFM_Business
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/3121.ts
-#EXTINF:-1,FR2:  CANAL SPORT HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6025.ts
-#EXTINF:-1,FR2:  EUROSPORT2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6024.ts
-#EXTINF:-1,FR2: BEIN SPORTS HD2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6009.ts
-#EXTINF:-1,FR2: BEIN SPORTS HD3
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6010.ts
-#EXTINF:-1,FR2: BEINSPORT_MAX4
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6011.ts
-#EXTINF:-1,FR2: BEINSPORT_MAX5
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6012.ts
-#EXTINF:-1,FR2: BEINSPORT_MAX6
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6013.ts
-#EXTINF:-1,FR2: CANAL  SPORT HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6027.ts
-#EXTINF:-1,FR2: cherie25
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6037.ts
-#EXTINF:-1,FR2: CINE   FRISSON
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6041.ts
-#EXTINF:-1,FR2: CINE CLASSIC HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6048.ts
-#EXTINF:-1,FR2: CINE EMOTION
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6034.ts
-#EXTINF:-1,FR2: CINE FX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6043.ts
-#EXTINF:-1,FR2: CINE PLUS EMOTION HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6047.ts
-#EXTINF:-1,FR2: CINE PLUS FRISSON HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6046.ts
-#EXTINF:-1,FR2: CINE PLUS PREMIER HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6045.ts
-#EXTINF:-1,FR2: Cine Polar
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6058.ts
-#EXTINF:-1,FR2: DISNEY_XD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6081.ts
-#EXTINF:-1,FR2: EUROSPORT 1 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6023.ts
-#EXTINF:-1,FR2: EUROSPORT HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6022.ts
-#EXTINF:-1,FR2: FOOT
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6017.ts
-#EXTINF:-1,FR2: InfoSport
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6019.ts
-#EXTINF:-1,FR2: L'EQUIPE 21
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6020.ts
-#EXTINF:-1,FR2: OCS CITY HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6040.ts
-#EXTINF:-1,FR2: OCS GEANT HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6039.ts
-#EXTINF:-1,FR2: OCS MAX HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6038.ts
-#EXTINF:-1,FR2: OL TV
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6026.ts
-#EXTINF:-1,FR2: SERIE CLUB HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6035.ts
-#EXTINF:-1,FR2: SYFY
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6036.ts
-#EXTINF:-1,FRENCH | comedie HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6044.ts
-#EXTINF:-1,FRENCH | Comedie Plus HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/6042.ts
-#EXTINF:-1,FR_FRANCE_3HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1817.ts
-#EXTINF:-1,FR: france  2 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1818.ts
-#EXTINF:-1,SP: Ten-Golf
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1720.ts
-#EXTINF:-1,FR: Ushuaia TV HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1803.ts
-#EXTINF:-1,FR: TMC
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1775.ts
-#EXTINF:-1,FR: RTL 9
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1777.ts
-#EXTINF:-1,FR: Planete  CI HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1783.ts
-#EXTINF:-1,FR: OCS Max
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1816.ts
-#EXTINF:-1,FR: OCS City
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1779.ts
-#EXTINF:-1,FR: Nat Geo
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1781.ts
-#EXTINF:-1,FR: Mangas
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1782.ts
-#EXTINF:-1,FR: M6 Music
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1784.ts
-#EXTINF:-1,FR: L'equipe 21*
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1804.ts
-#EXTINF:-1,FR: Cine  Premier
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1785.ts
-#EXTINF:-1,FR: Cine   Emotion HD*
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1805.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1786.ts
-#EXTINF:-1,FR: Canal  Sport HD*
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1787.ts
-#EXTINF:-1,FR: Canal  Sport HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1792.ts
-#EXTINF:-1,FR: Canal  Frisson
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1788.ts
-#EXTINF:-1,FR: Canal  Famiz HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1789.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1793.ts
-#EXTINF:-1,FR: Canal  Classic HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1790.ts
-#EXTINF:-1,FR: Canal   Series HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1791.ts
-#EXTINF:-1,FR: beIN Sport 3 HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1800.ts
-#EXTINF:-1,FR: Action
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1801.ts
-#EXTINF:-1,FR: A LA CARTE 9
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1806.ts
-#EXTINF:-1,FR: A LA CARTE 8
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1807.ts
-#EXTINF:-1,FR: A LA CARTE 7
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1808.ts
-#EXTINF:-1,FR: A LA CARTE 6
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1809.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1810.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1811.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1812.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1813.ts
-#EXTINF:-1,FR: A LA CARTE 10
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1814.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1815.ts
-#EXTINF:-1,FR: 6TER HD
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1780.ts
-#EXTINF:-1,FR: 13 Rue
-http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/1802.ts
-#EXTINF:-1,,  CANALPLAY 1
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4225.ts
-#EXTINF:-1,, CANALPLAY 2
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7942.ts
-#EXTINF:-1,,  CANALPLAY 3
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4224.ts
-#EXTINF:-1,,  CANALPLAY 4
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4223.ts
-#EXTINF:-1,,  CANALPLAY 5
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4222.ts
-#EXTINF:-1,,  CANALPLAY 9
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4221.ts
-#EXTINF:-1,, CANAL
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/683.ts
-#EXTINF:-1,, CANAL SERIES
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/682.ts
-#EXTINF:-1,, CANAL  FAMILY
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/684.ts
-#EXTINF:-1,, CANAL DECALE
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/685.ts
-#EXTINF:-1,, CANAL CINEMA
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/686.ts
-#EXTINF:-1,FRANCE |, SERIE CLUB
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4238.ts
-#EXTINF:-1,FRANCE |, W9 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4239.ts
-#EXTINF:-1,, COMEDIE PLUS HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4230.ts
-#EXTINF:-1,, COMEDIE HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4231.ts
-#EXTINF:-1,,  OCS MAX HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4226.ts
-#EXTINF:-1,,  OCS GEANT HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4227.ts
-#EXTINF:-1,, OCS CITY HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4228.ts
-#EXTINF:-1,,  LOC OCS GEANT HD F -
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4215.ts
-#EXTINF:-1,,  LOC OCS CHOC HD F -
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4216.ts
-#EXTINF:-1,, A LA.CARTE 1
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/675.ts
-#EXTINF:-1,, A LA CARTE.2
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/674.ts
-#EXTINF:-1,, A LA CARTE.3
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/673.ts
-#EXTINF:-1,, A LA CARTE 4
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/672.ts
-#EXTINF:-1,, A LA CARTE 5
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/671.ts
-#EXTINF:-1,, A LA CARTE 6
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/670.ts
-#EXTINF:-1,, A LA CARTE 7
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/669.ts
-#EXTINF:-1,, A LA CARTE 8
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/668.ts
-#EXTINF:-1,, FRANCE 2 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/678.ts
-#EXTINF:-1,, FRANCE 3 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/677.ts
-#EXTINF:-1,, FRANCE 4 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/676.ts
-#EXTINF:-1,, NICKELODEON HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5095.ts
-#EXTINF:-1,FRANCE |, ZOUZOU TV
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7152.ts
-#EXTINF:-1,FRANCE |, PIWI
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7156.ts
-#EXTINF:-1,, GULLI HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7159.ts
-#EXTINF:-1,FRANCE |, DISNEY XD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7154.ts
-#EXTINF:-1,FRANCE |, DISNEY JUNIOR
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7153.ts
-#EXTINF:-1,,  CARTOON NETWORK
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7157.ts
-#EXTINF:-1,FRANCE |, BOOMERANG HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7155.ts
-#EXTINF:-1,, BOING
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7158.ts
-#EXTINF:-1,, INFO SPORTS
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4206.ts
-#EXTINF:-1,, FOOT
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4205.ts
-#EXTINF:-1,, EUROSPORT HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4209.ts
-#EXTINF:-1,, EUROSPORT 1 HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4210.ts
-#EXTINF:-1,, EUROSPORT 2
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4211.ts
-#EXTINF:-1,, MA CHAINE SPORT
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4208.ts
-#EXTINF:-1,, CANAL SPORTS HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4212.ts
-#EXTINF:-1,,  CANAL  SPORT HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4214.ts
-#EXTINF:-1,FRANCE |,  CANAL + SPORT
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/5971.ts
-#EXTINF:-1,, OL TV
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4213.ts
-#EXTINF:-1,, L'EQUIPE 21
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4207.ts
-#EXTINF:-1,FRANCE |, CHASSE & PECHE
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4236.ts
-#EXTINF:-1,, ANIMAUX
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/688.ts
-#EXTINF:-1,FRANCE |, DISCOVERY
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4240.ts
-#EXTINF:-1,FRANCE |, NATIONAL GEO WILD HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/4237.ts
-#EXTINF:-1,FRANCE |,  USHUAIA TV
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7637.ts
-#EXTINF:-1,FRANCE |, DISCOVERY SCIENCE HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7634.ts
-#EXTINF:-1,FRANCE |, PLANETE  A&E
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7636.ts
-#EXTINF:-1,FRANCE |, PLANETE CI HD
-http://smarttv.ddns.net:8000/live/live:albi1987/IDvmYscrbN/7635.ts
+#EXTINF:-1,Tf1 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1380.ts
+#EXTINF:-1,France 2 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1381.ts
+#EXTINF:-1,France 3 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1382.ts
+#EXTINF:-1,France 4 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1383.ts
+#EXTINF:-1,France 5 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1384.ts
+#EXTINF:-1,France O - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1385.ts
+#EXTINF:-1,D8 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1402.ts
+#EXTINF:-1,M6 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1386.ts
+#EXTINF:-1,W9 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1387.ts
+#EXTINF:-1,Nrj 12 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1389.ts
+#EXTINF:-1,France 24 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2944.ts
+#EXTINF:-1,Tv5 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/129.ts
+#EXTINF:-1,Bfm - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1398.ts
+#EXTINF:-1,Euronews - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/131.ts
+#EXTINF:-1,Arte - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1390.ts
+#EXTINF:-1,6Ter - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1391.ts
+#EXTINF:-1,Serie Club - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/120.ts
+#EXTINF:-1,Piwi - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/153.ts
+#EXTINF:-1,Disney XD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/146.ts
+#EXTINF:-1,Game One - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/145.ts
+#EXTINF:-1,Gulli - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1388.ts
+#EXTINF:-1,Canal J - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/152.ts
+#EXTINF:-1,Disney Cinemagic - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/150.ts
+#EXTINF:-1,Disney Junior - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/151.ts
+#EXTINF:-1,Teletoon - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/148.ts
+#EXTINF:-1,Tiji - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/147.ts
+#EXTINF:-1,Zouzou TV HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/141.ts
+#EXTINF:-1,Planet A&E HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/123.ts
+#EXTINF:-1,Planet+ Ci - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/133.ts
+#EXTINF:-1,Planet+ - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/132.ts
+#EXTINF:-1,Lci - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2586.ts
+#EXTINF:-1,Lcp - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2585.ts
+#EXTINF:-1,Science et Vie - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/140.ts
+#EXTINF:-1,Voyage HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/139.ts
+#EXTINF:-1,Syfy - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/115.ts
+#EXTINF:-1,Teva - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/111.ts
+#EXTINF:-1,Itele - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1392.ts
+#EXTINF:-1,Manga - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/149.ts
+#EXTINF:-1,Animaux - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/138.ts
+#EXTINF:-1,National Geographic - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1423.ts
+#EXTINF:-1,National Geo Wild - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/134.ts
+#EXTINF:-1,Discovery - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1422.ts
+#EXTINF:-1,Discovery Science - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/135.ts
+#EXTINF:-1,Equidia - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/109.ts
+#EXTINF:-1,Equidia Live - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/112.ts
+#EXTINF:-1,Ab 1 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/128.ts
+#EXTINF:-1,Chasse et Peche - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/137.ts
+#EXTINF:-1,Numero 23 - France
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1393.ts
+#EXTINF:-1,Comedie - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/130.ts
+#EXTINF:-1,Paris Premiere - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/114.ts
+#EXTINF:-1,Infosport Plus - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/142.ts
+#EXTINF:-1,Tmc - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1401.ts
+#EXTINF:-1,Histoire HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/126.ts
+#EXTINF:-1,Paramount Channel - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/110.ts
+#EXTINF:-1,Action - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/119.ts
+#EXTINF:-1,Rtl 9 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/121.ts
+#EXTINF:-1,Ushuaia - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/136.ts
+#EXTINF:-1,Ol TV - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/124.ts
+#EXTINF:-1,Rmc Decoverte 24 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1394.ts
+#EXTINF:-1,Eurosport - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1418.ts
+#EXTINF:-1,Eurosport 2 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/144.ts
+#EXTINF:-1,Bein Sport 1 HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1419.ts
+#EXTINF:-1,Bein Sport 2 HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1420.ts
+#EXTINF:-1,Bein Sport 3 HD - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1421.ts
+#EXTINF:-1,Bfm Sport  - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2916.ts
+#EXTINF:-1,Sfr Sport 1 - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2912.ts
+#EXTINF:-1,Sfr Sport 2 - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2913.ts
+#EXTINF:-1,Sfr Sport 3 - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2914.ts
+#EXTINF:-1,Sfr Sport 5 - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2915.ts
+#EXTINF:-1,Nrj Hits- FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2917.ts
+#EXTINF:-1,Foot+ - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/143.ts
+#EXTINF:-1,Foot 24 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/127.ts
+#EXTINF:-1,13 Eme Rue - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/113.ts
+#EXTINF:-1,Canal Plus - FR
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2918.ts
+#EXTINF:-1,Canal+ - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1404.ts
+#EXTINF:-1,Canal+ Serie - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/117.ts
+#EXTINF:-1,Canal+ Family - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1406.ts
+#EXTINF:-1,Canal+ Decale - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/116.ts
+#EXTINF:-1,Canal+ Cinema - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1405.ts
+#EXTINF:-1,Canal+ Sport - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1407.ts
+#EXTINF:-1,Cine+ Frisson - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1410.ts
+#EXTINF:-1,Cine+ Classic - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1411.ts
+#EXTINF:-1,Cine+ Famiz - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/118.ts
+#EXTINF:-1,Cine+ Polar - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1413.ts
+#EXTINF:-1,Cine+ Emotion - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1412.ts
+#EXTINF:-1,Ocs Max - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1414.ts
+#EXTINF:-1,Ocs City - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1415.ts
+#EXTINF:-1,Ocs Choc - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1417.ts
+#EXTINF:-1,Ocs Geants - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1416.ts
+#EXTINF:-1,Hd 1 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1396.ts
+#EXTINF:-1,Nt 1 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1400.ts
+#EXTINF:-1,L Equipe 21 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1395.ts
+#EXTINF:-1,Ici - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1403.ts
+#EXTINF:-1,D17 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1397.ts
+#EXTINF:-1,Cine+ Premiere - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1408.ts
+#EXTINF:-1,Cine+ Club - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1409.ts
+#EXTINF:-1,Cherie 25 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1399.ts
+#EXTINF:-1,Tcm - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/122.ts
+#EXTINF:-1,Boomerang - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3037.ts
+#EXTINF:-1,Canal 8 - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3015.ts
+#EXTINF:-1,Canal News - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3041.ts
+#EXTINF:-1,Cartoon Network - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3036.ts
+#EXTINF:-1,Cine FX - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3021.ts
+#EXTINF:-1,Cstar - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3016.ts
+#EXTINF:-1,E! Entertainment - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3018.ts
+#EXTINF:-1,Elle Girl - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3019.ts
+#EXTINF:-1,Extreme Sports - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3023.ts
+#EXTINF:-1,France Info - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3040.ts
+#EXTINF:-1,Golf Channel - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3025.ts
+#EXTINF:-1,Golf+ - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3026.ts
+#EXTINF:-1,Mcm - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3032.ts
+#EXTINF:-1,Mcm Top - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3033.ts
+#EXTINF:-1,Mezzo - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3034.ts
+#EXTINF:-1,Mezzo Live - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3035.ts
+#EXTINF:-1,Mtv - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3029.ts
+#EXTINF:-1,Nickelodeon Junior - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3039.ts
+#EXTINF:-1,Season - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3028.ts
+#EXTINF:-1,Trace Sport - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3024.ts
+#EXTINF:-1,Trace Urban - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3030.ts
+#EXTINF:-1,Trek - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3027.ts
+#EXTINF:-1,TV Breizh - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3017.ts
+#EXTINF:-1,Vivolta - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3020.ts
+#EXTINF:-1,Nickelodeon - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3038.ts
+#EXTINF:-1,Rfm TV - French
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/3031.ts
