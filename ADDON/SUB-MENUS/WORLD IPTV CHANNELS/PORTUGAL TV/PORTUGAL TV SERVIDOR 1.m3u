@@ -10,495 +10,140 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1,RTP 1 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2304.ts
-#EXTINF:-1,RTP 1
-http://51.15.3.165:8000/live/adriano/adriano/2306.ts
-#EXTINF:-1,RTP 1 ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2305.ts
-#EXTINF:-1,RTP 2 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2301.ts
-#EXTINF:-1,RTP 2
-http://51.15.3.165:8000/live/adriano/adriano/2303.ts
-#EXTINF:-1,RTP 2 ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2302.ts
-#EXTINF:-1,SIC FHD
-http://51.15.3.165:8000/live/adriano/adriano/2298.ts
-#EXTINF:-1,SIC
-http://51.15.3.165:8000/live/adriano/adriano/2300.ts
-#EXTINF:-1,SIC ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2299.ts
-#EXTINF:-1,TVI FHD
-http://51.15.3.165:8000/live/adriano/adriano/2295.ts
-#EXTINF:-1,TVI
-http://51.15.3.165:8000/live/adriano/adriano/2297.ts
-#EXTINF:-1,TVI ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2296.ts
-#EXTINF:-1,Sport TV    FHD
-http://51.15.3.165:8000/live/adriano/adriano/2253.ts
-#EXTINF:-1,SPORT TV
-http://51.15.3.165:8000/live/adriano/adriano/2254.ts
-#EXTINF:-1,Sport TV 1 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2248.ts
-#EXTINF:-1,Sport TV 1
-http://51.15.3.165:8000/live/adriano/adriano/2252.ts
-#EXTINF:-1,Sport TV 1 HD ( NET FRACAS )
-http://51.15.3.165:8000/live/adriano/adriano/2250.ts
-#EXTINF:-1,Sport TV 1 HD ( NET MUITO FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2251.ts
-#EXTINF:-1,Sport TV 2 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2244.ts
-#EXTINF:-1,Sport TV 2 HD
-http://51.15.3.165:8000/live/adriano/adriano/2245.ts
-#EXTINF:-1,Sport TV 2
-http://51.15.3.165:8000/live/adriano/adriano/2247.ts
-#EXTINF:-1,SPORTV 2 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2246.ts
-#EXTINF:-1,Sport TV 3 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2240.ts
-#EXTINF:-1,Sport TV 3 HD
-http://51.15.3.165:8000/live/adriano/adriano/2241.ts
-#EXTINF:-1,Sport TV 3
-http://51.15.3.165:8000/live/adriano/adriano/2243.ts
-#EXTINF:-1,SPORTV 3 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2242.ts
-#EXTINF:-1,Sport TV 4 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2236.ts
-#EXTINF:-1,Sport TV 4 HD
-http://51.15.3.165:8000/live/adriano/adriano/2237.ts
-#EXTINF:-1,Sport TV 4
-http://51.15.3.165:8000/live/adriano/adriano/2239.ts
-#EXTINF:-1,SPORTV 4 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2238.ts
-#EXTINF:-1,Sport TV 5 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2232.ts
-#EXTINF:-1,SPORTV 5 HD
-http://51.15.3.165:8000/live/adriano/adriano/2233.ts
-#EXTINF:-1,SPORT TV 5
-http://51.15.3.165:8000/live/adriano/adriano/2235.ts
-#EXTINF:-1,SPORTV 5 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2234.ts
-#EXTINF:-1,BTV 1 FHD
-http://51.15.3.165:8000/live/adriano/adriano/2226.ts
-#EXTINF:-1,BTV 1 HD
-http://51.15.3.165:8000/live/adriano/adriano/2227.ts
-#EXTINF:-1,BTV 1
-http://51.15.3.165:8000/live/adriano/adriano/2231.ts
-#EXTINF:-1,BTV 1 ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2230.ts
-#EXTINF:-1,BTV 1 HD ( NET FRACAS )
-http://51.15.3.165:8000/live/adriano/adriano/2228.ts
-#EXTINF:-1,BTV 1 HD ( NET MUITO FRACAS )
-http://51.15.3.165:8000/live/adriano/adriano/2229.ts
-#EXTINF:-1,1 1
-http://51.15.3.165:8000/live/adriano/adriano/2117.ts
-#EXTINF:-1,24 Kitchen HD
-http://51.15.3.165:8000/live/adriano/adriano/2150.ts
-#EXTINF:-1,A Bola TV
-http://51.15.3.165:8000/live/adriano/adriano/2223.ts
-#EXTINF:-1,A&E
-http://51.15.3.165:8000/live/adriano/adriano/2149.ts
-#EXTINF:-1,Afro Music Channel
-http://51.15.3.165:8000/live/adriano/adriano/2143.ts
-#EXTINF:-1,AMC
-http://51.15.3.165:8000/live/adriano/adriano/2188.ts
-#EXTINF:-1,AMC HD
-http://51.15.3.165:8000/live/adriano/adriano/2187.ts
-#EXTINF:-1,AR TV
-http://51.15.3.165:8000/live/adriano/adriano/2271.ts
-#EXTINF:-1,AXN Black HD
-http://51.15.3.165:8000/live/adriano/adriano/2172.ts
-#EXTINF:-1,AXN BLACK HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2173.ts
-#EXTINF:-1,AXN HD
-http://51.15.3.165:8000/live/adriano/adriano/2170.ts
-#EXTINF:-1,AXN HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2171.ts
-#EXTINF:-1,AXN White HD
-http://51.15.3.165:8000/live/adriano/adriano/2174.ts
-#EXTINF:-1,AXN WHITE HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2175.ts
-#EXTINF:-1,Baby First
-http://51.15.3.165:8000/live/adriano/adriano/2128.ts
-#EXTINF:-1,Baby TV
-http://51.15.3.165:8000/live/adriano/adriano/2125.ts
-#EXTINF:-1,BBC Entertainment
-http://51.15.3.165:8000/live/adriano/adriano/2153.ts
-#EXTINF:-1,BBC WORLD
-http://51.15.3.165:8000/live/adriano/adriano/2110.ts
-#EXTINF:-1,BBC World News
-http://51.15.3.165:8000/live/adriano/adriano/2109.ts
-#EXTINF:-1,Biggs
-http://51.15.3.165:8000/live/adriano/adriano/2124.ts
-#EXTINF:-1,Bloomberg
-http://51.15.3.165:8000/live/adriano/adriano/2113.ts
-#EXTINF:-1,C Music TV
-http://51.15.3.165:8000/live/adriano/adriano/2136.ts
-#EXTINF:-1,Caça e Pesca
-http://51.15.3.165:8000/live/adriano/adriano/2207.ts
-#EXTINF:-1,Caçavision
-http://51.15.3.165:8000/live/adriano/adriano/2210.ts
-#EXTINF:-1,Cartoon Network
-http://51.15.3.165:8000/live/adriano/adriano/2126.ts
-#EXTINF:-1,CBS Reality
-http://51.15.3.165:8000/live/adriano/adriano/2162.ts
-#EXTINF:-1,Chelsea TV
-http://51.15.3.165:8000/live/adriano/adriano/2215.ts
-#EXTINF:-1,Cinemundo
-http://51.15.3.165:8000/live/adriano/adriano/2189.ts
-#EXTINF:-1,CMTV
-http://51.15.3.165:8000/live/adriano/adriano/2279.ts
-#EXTINF:-1,CMTV HD
-http://51.15.3.165:8000/live/adriano/adriano/2278.ts
-#EXTINF:-1,CNBC EUROPE
-http://51.15.3.165:8000/live/adriano/adriano/2111.ts
-#EXTINF:-1,CNN
-http://51.15.3.165:8000/live/adriano/adriano/2114.ts
-#EXTINF:-1,Canal Panda
-http://51.15.3.165:8000/live/adriano/adriano/2131.ts
-#EXTINF:-1,Canal Q
-http://51.15.3.165:8000/live/adriano/adriano/2151.ts
-#EXTINF:-1,Canal UM Europa
-http://51.15.3.165:8000/live/adriano/adriano/2119.ts
-#EXTINF:-1,BVN
-http://51.15.3.165:8000/live/adriano/adriano/2118.ts
-#EXTINF:-1,Canção Nova
-http://51.15.3.165:8000/live/adriano/adriano/2107.ts
-#EXTINF:-1,Discovery Channel
-http://51.15.3.165:8000/live/adriano/adriano/2168.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://51.15.3.165:8000/live/adriano/adriano/2169.ts
+#EXTINF:-1,Rtp 1
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/404.ts
+#EXTINF:-1,Rtp 2
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/405.ts
+#EXTINF:-1,Rtp 3
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/406.ts
+#EXTINF:-1,Rtp Africa
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1464.ts
+#EXTINF:-1,Sic
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1751.ts
+#EXTINF:-1,Sic Caras
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/412.ts
+#EXTINF:-1,Sic Kids
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1469.ts
+#EXTINF:-1,Sic Mulher
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/411.ts
+#EXTINF:-1,Sic Noticias
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1473.ts
+#EXTINF:-1,Sic Radical
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1472.ts
+#EXTINF:-1,Tvi
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/407.ts
+#EXTINF:-1,TV Globo
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/2036.ts
+#EXTINF:-1,Tv Globo Premium
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/409.ts
+#EXTINF:-1,Tvi 24
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/408.ts
+#EXTINF:-1,Axn
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/413.ts
+#EXTINF:-1,Axn Black
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/415.ts
 #EXTINF:-1,Disney Channel
-http://51.15.3.165:8000/live/adriano/adriano/2133.ts
-#EXTINF:-1,Disney Junior
-http://51.15.3.165:8000/live/adriano/adriano/2132.ts
-#EXTINF:-1,DOG TV
-http://51.15.3.165:8000/live/adriano/adriano/2145.ts
-#EXTINF:-1,Euronews
-http://51.15.3.165:8000/live/adriano/adriano/2115.ts
-#EXTINF:-1,Eurosport 1
-http://51.15.3.165:8000/live/adriano/adriano/2221.ts
-#EXTINF:-1,Eurosport 1 HD
-http://51.15.3.165:8000/live/adriano/adriano/2220.ts
-#EXTINF:-1,Eurosport 2
-http://51.15.3.165:8000/live/adriano/adriano/2219.ts
-#EXTINF:-1,Eurosport News
-http://51.15.3.165:8000/live/adriano/adriano/2222.ts
-#EXTINF:-1,Fashion TV
-http://51.15.3.165:8000/live/adriano/adriano/2152.ts
-#EXTINF:-1,Fight Network HD
-http://51.15.3.165:8000/live/adriano/adriano/2157.ts
-#EXTINF:-1,Fine Living Network HD
-http://51.15.3.165:8000/live/adriano/adriano/2158.ts
-#EXTINF:-1,FOX Comedy
-http://51.15.3.165:8000/live/adriano/adriano/2177.ts
-#EXTINF:-1,FOX Comedy HD
-http://51.15.3.165:8000/live/adriano/adriano/2176.ts
-#EXTINF:-1,FOX Crime HD
-http://51.15.3.165:8000/live/adriano/adriano/2178.ts
-#EXTINF:-1,FOX HD
-http://51.15.3.165:8000/live/adriano/adriano/2183.ts
-#EXTINF:-1,FOX Life HD
-http://51.15.3.165:8000/live/adriano/adriano/2181.ts
-#EXTINF:-1,FOX Movies
-http://51.15.3.165:8000/live/adriano/adriano/2180.ts
-#EXTINF:-1,FOX Movies HD
-http://51.15.3.165:8000/live/adriano/adriano/2179.ts
-#EXTINF:-1,FOX News
-http://51.15.3.165:8000/live/adriano/adriano/2182.ts
-#EXTINF:-1,France 24
-http://51.15.3.165:8000/live/adriano/adriano/2262.ts
-#EXTINF:-1,FTV HD
-http://51.15.3.165:8000/live/adriano/adriano/2147.ts
-#EXTINF:-1,Fuel TV
-http://51.15.3.165:8000/live/adriano/adriano/2206.ts
-#EXTINF:-1,FUEL TV HD
-http://51.15.3.165:8000/live/adriano/adriano/2208.ts
-#EXTINF:-1,Globo News
-http://51.15.3.165:8000/live/adriano/adriano/2265.ts
-#EXTINF:-1,Globo Portugal
-http://51.15.3.165:8000/live/adriano/adriano/2266.ts
-#EXTINF:-1,Globo Premium
-http://51.15.3.165:8000/live/adriano/adriano/2267.ts
-#EXTINF:-1,GRILS DO PORN
-http://51.15.3.165:8000/live/adriano/adriano/2082.ts
-#EXTINF:-1,Hiper FM
-http://51.15.3.165:8000/live/adriano/adriano/618.ts
-#EXTINF:-1,História
-http://51.15.3.165:8000/live/adriano/adriano/2164.ts
-#EXTINF:-1,Hollywood
-http://51.15.3.165:8000/live/adriano/adriano/2191.ts
-#EXTINF:-1,Hollywood HD
-http://51.15.3.165:8000/live/adriano/adriano/2190.ts
-#EXTINF:-1,Crime   Investigation
-http://51.15.3.165:8000/live/adriano/adriano/2161.ts
-#EXTINF:-1,E! Entertainment
-http://51.15.3.165:8000/live/adriano/adriano/2159.ts
-#EXTINF:-1,ES : MOTO GP
-http://51.15.3.165:8000/live/adriano/adriano/2216.ts
-#EXTINF:-1,ES : Quatro
-http://51.15.3.165:8000/live/adriano/adriano/2116.ts
-#EXTINF:-1,EUROTIC
-http://51.15.3.165:8000/live/adriano/adriano/2090.ts
-#EXTINF:-1,EUROTIC 3
-http://51.15.3.165:8000/live/adriano/adriano/2089.ts
-#EXTINF:-1,EUROTIC 4
-http://51.15.3.165:8000/live/adriano/adriano/2088.ts
-#EXTINF:-1,EUROTIC 6
-http://51.15.3.165:8000/live/adriano/adriano/2087.ts
-#EXTINF:-1,EUROTIC 7
-http://51.15.3.165:8000/live/adriano/adriano/2086.ts
-#EXTINF:-1,EUROTIC 8
-http://51.15.3.165:8000/live/adriano/adriano/2083.ts
-#EXTINF:-1,EVIL ANGEL TV
-http://51.15.3.165:8000/live/adriano/adriano/2096.ts
-#EXTINF:-1,HOT HD
-http://51.15.3.165:8000/live/adriano/adriano/2104.ts
-#EXTINF:-1,HUSTLER HD
-http://51.15.3.165:8000/live/adriano/adriano/2092.ts
-#EXTINF:-1,iConcerts HD
-http://51.15.3.165:8000/live/adriano/adriano/2137.ts
-#EXTINF:-1,IT: AutoMoto TV
-http://51.15.3.165:8000/live/adriano/adriano/1613.ts
-#EXTINF:-1,IT: LA 7
-http://51.15.3.165:8000/live/adriano/adriano/1609.ts
-#EXTINF:-1,IT: PARAMOUNT CHANNEL
-http://51.15.3.165:8000/live/adriano/adriano/1610.ts
-#EXTINF:-1,IT: Rai 5
-http://51.15.3.165:8000/live/adriano/adriano/1606.ts
-#EXTINF:-1,IT: RAI Gulp
-http://51.15.3.165:8000/live/adriano/adriano/1611.ts
-#EXTINF:-1,IT: Rai Movie
-http://51.15.3.165:8000/live/adriano/adriano/1607.ts
-#EXTINF:-1,IT: Rai News 24
-http://51.15.3.165:8000/live/adriano/adriano/1615.ts
-#EXTINF:-1,IT: Rai Premium
-http://51.15.3.165:8000/live/adriano/adriano/1604.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://51.15.3.165:8000/live/adriano/adriano/1612.ts
-#EXTINF:-1,IT: Tele Arena
-http://51.15.3.165:8000/live/adriano/adriano/1617.ts
-#EXTINF:-1,IT: TSN
-http://51.15.3.165:8000/live/adriano/adriano/1616.ts
-#EXTINF:-1,JASMIN TV
-http://51.15.3.165:8000/live/adriano/adriano/2079.ts
-#EXTINF:-1,JimJam
-http://51.15.3.165:8000/live/adriano/adriano/2127.ts
-#EXTINF:-1,KBS World HD
-http://51.15.3.165:8000/live/adriano/adriano/2120.ts
-#EXTINF:-1,LOCALVISAO TV HD
-http://51.15.3.165:8000/live/adriano/adriano/2255.ts
-#EXTINF:-1,M6
-http://51.15.3.165:8000/live/adriano/adriano/2121.ts
-#EXTINF:-1,BALKAN EUROTIC
-http://51.15.3.165:8000/live/adriano/adriano/2080.ts
-#EXTINF:-1,BRAZZERS TV
-http://51.15.3.165:8000/live/adriano/adriano/2085.ts
-#EXTINF:-1,BRAZZERS TV 1
-http://51.15.3.165:8000/live/adriano/adriano/2098.ts
-#EXTINF:-1,BUT GO TV
-http://51.15.3.165:8000/live/adriano/adriano/2081.ts
-#EXTINF:-1,CENTOXCENTO TV
-http://51.15.3.165:8000/live/adriano/adriano/2084.ts
-#EXTINF:-1,Deutsche Welle
-http://51.15.3.165:8000/live/adriano/adriano/2108.ts
-#EXTINF:-1,Kombat Sport
-http://51.15.3.165:8000/live/adriano/adriano/2209.ts
-#EXTINF:-1,MCM Pop
-http://51.15.3.165:8000/live/adriano/adriano/2142.ts
-#EXTINF:-1,MCM TOP
-http://51.15.3.165:8000/live/adriano/adriano/2141.ts
-#EXTINF:-1,MCS Extreme
-http://51.15.3.165:8000/live/adriano/adriano/2154.ts
-#EXTINF:-1,MCS Lifestyle
-http://51.15.3.165:8000/live/adriano/adriano/2148.ts
-#EXTINF:-1,Mega Hits
-http://51.15.3.165:8000/live/adriano/adriano/1058.ts
-#EXTINF:-1,Mezzo
-http://51.15.3.165:8000/live/adriano/adriano/2135.ts
-#EXTINF:-1,MEZZO  LIVE HD
-http://51.15.3.165:8000/live/adriano/adriano/2134.ts
-#EXTINF:-1,Motors TV
-http://51.15.3.165:8000/live/adriano/adriano/2213.ts
-#EXTINF:-1,Motorvision HD
-http://51.15.3.165:8000/live/adriano/adriano/2212.ts
-#EXTINF:-1,MTV DANCE
-http://51.15.3.165:8000/live/adriano/adriano/2140.ts
-#EXTINF:-1,MTV Portugal
-http://51.15.3.165:8000/live/adriano/adriano/2144.ts
-#EXTINF:-1,Nat Geo Wild
-http://51.15.3.165:8000/live/adriano/adriano/2165.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://51.15.3.165:8000/live/adriano/adriano/2166.ts
-#EXTINF:-1,National Geographic HD
-http://51.15.3.165:8000/live/adriano/adriano/2167.ts
-#EXTINF:-1,NBA TV
-http://51.15.3.165:8000/live/adriano/adriano/2218.ts
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/416.ts
 #EXTINF:-1,Nickelodeon
-http://51.15.3.165:8000/live/adriano/adriano/2129.ts
-#EXTINF:-1,Odisseia
-http://51.15.3.165:8000/live/adriano/adriano/2163.ts
-#EXTINF:-1,ORBITAL
-http://51.15.3.165:8000/live/adriano/adriano/619.ts
-#EXTINF:-1,Penthouse HD1
-http://51.15.3.165:8000/live/adriano/adriano/2102.ts
-#EXTINF:-1,PFC
-http://51.15.3.165:8000/live/adriano/adriano/2214.ts
-#EXTINF:-1,PINK O TV
-http://51.15.3.165:8000/live/adriano/adriano/2095.ts
-#EXTINF:-1,Playboy TV
-http://51.15.3.165:8000/live/adriano/adriano/2101.ts
-#EXTINF:-1,Playboy TV HD
-http://51.15.3.165:8000/live/adriano/adriano/2100.ts
-#EXTINF:-1,Porto Canal
-http://51.15.3.165:8000/live/adriano/adriano/2277.ts
-#EXTINF:-1,Real Madrid TV
-http://51.15.3.165:8000/live/adriano/adriano/2217.ts
-#EXTINF:-1,Record News
-http://51.15.3.165:8000/live/adriano/adriano/2268.ts
-#EXTINF:-1,RedeTV!
-http://51.15.3.165:8000/live/adriano/adriano/2263.ts
-#EXTINF:-1,Redlight HD
-http://51.15.3.165:8000/live/adriano/adriano/2097.ts
-#EXTINF:-1,RTL
-http://51.15.3.165:8000/live/adriano/adriano/2122.ts
-#EXTINF:-1,RTP 3
-http://51.15.3.165:8000/live/adriano/adriano/2276.ts
-#EXTINF:-1,RTP Açores
-http://51.15.3.165:8000/live/adriano/adriano/2272.ts
-#EXTINF:-1,RTP Africa
-http://51.15.3.165:8000/live/adriano/adriano/2275.ts
-#EXTINF:-1,RTP Madeira
-http://51.15.3.165:8000/live/adriano/adriano/2273.ts
-#EXTINF:-1,RTP Memória
-http://51.15.3.165:8000/live/adriano/adriano/2274.ts
-#EXTINF:-1,SBT
-http://51.15.3.165:8000/live/adriano/adriano/2264.ts
-#EXTINF:-1,SCT
-http://51.15.3.165:8000/live/adriano/adriano/2094.ts
-#EXTINF:-1,SESTO SENSO TV
-http://51.15.3.165:8000/live/adriano/adriano/2093.ts
-#EXTINF:-1,Sextreme
-http://51.15.3.165:8000/live/adriano/adriano/2103.ts
-#EXTINF:-1,SIC Caras
-http://51.15.3.165:8000/live/adriano/adriano/2285.ts
-#EXTINF:-1,SIC Caras HD
-http://51.15.3.165:8000/live/adriano/adriano/2284.ts
-#EXTINF:-1,SIC K
-http://51.15.3.165:8000/live/adriano/adriano/2130.ts
-#EXTINF:-1,SIC Mulher
-http://51.15.3.165:8000/live/adriano/adriano/2286.ts
-#EXTINF:-1,SIC Noticias
-http://51.15.3.165:8000/live/adriano/adriano/2281.ts
-#EXTINF:-1,SIC NOTICIAS HD
-http://51.15.3.165:8000/live/adriano/adriano/2280.ts
-#EXTINF:-1,SIC Radical
-http://51.15.3.165:8000/live/adriano/adriano/2283.ts
-#EXTINF:-1,SIC Radical HD
-http://51.15.3.165:8000/live/adriano/adriano/2282.ts
-#EXTINF:-1,SKY News
-http://51.15.3.165:8000/live/adriano/adriano/2112.ts
-
-#EXTINF:-1,Sporting TV
-http://51.15.3.165:8000/live/adriano/adriano/2225.ts
-#EXTINF:-1,Sporting TV HD
-http://51.15.3.165:8000/live/adriano/adriano/2224.ts
-
-#EXTINF:-1,STARS TV XXX
-http://51.15.3.165:8000/live/adriano/adriano/2091.ts
-#EXTINF:-1,STV NOTICIAS
-http://51.15.3.165:8000/live/adriano/adriano/2256.ts
-#EXTINF:-1,Sundance HD
-http://51.15.3.165:8000/live/adriano/adriano/2184.ts
-#EXTINF:-1,Super RTL
-http://51.15.3.165:8000/live/adriano/adriano/2123.ts
-#EXTINF:-1,SyFy
-http://51.15.3.165:8000/live/adriano/adriano/2186.ts
-#EXTINF:-1,SyFy HD
-http://51.15.3.165:8000/live/adriano/adriano/2185.ts
-
-#EXTINF:-1,TCV Internacional
-http://51.15.3.165:8000/live/adriano/adriano/2258.ts
-
-#EXTINF:-1,TLC
-http://51.15.3.165:8000/live/adriano/adriano/2146.ts
-#EXTINF:-1,Toros TV
-http://51.15.3.165:8000/live/adriano/adriano/2211.ts
-#EXTINF:-1,TPA INTERNACIONAL
-http://51.15.3.165:8000/live/adriano/adriano/2257.ts
-#EXTINF:-1,Trace Urban
-http://51.15.3.165:8000/live/adriano/adriano/2155.ts
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/417.ts
+#EXTINF:-1,Cartoon Network
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/418.ts
+#EXTINF:-1,Axn White
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/414.ts
+#EXTINF:-1,24 Kitchen
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1465.ts
+#EXTINF:-1,A&E
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1475.ts
+#EXTINF:-1,Abola TV
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1474.ts
+#EXTINF:-1,Baby TV
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1468.ts
+#EXTINF:-1,Cbs Reality
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1481.ts
+#EXTINF:-1,Eurosport 1
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1482.ts
+#EXTINF:-1,Eurosport 2
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1483.ts
+#EXTINF:-1,Fox Movies
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1480.ts
+#EXTINF:-1,Fuel TV
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1470.ts
+#EXTINF:-1,Hollywood
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1478.ts
+#EXTINF:-1,Mcm Top
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1476.ts
+#EXTINF:-1,Motorvision
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1466.ts
+#EXTINF:-1,Mov HD
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1479.ts
 #EXTINF:-1,Travel Channel HD
-http://51.15.3.165:8000/live/adriano/adriano/2156.ts
-#EXTINF:-1,TSF
-http://51.15.3.165:8000/live/adriano/adriano/617.ts
-#EXTINF:-1,TV GALICIA
-http://51.15.3.165:8000/live/adriano/adriano/2260.ts
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1471.ts
+#EXTINF:-1,TV Series
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/419.ts
+#EXTINF:-1,Fox
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/420.ts
+#EXTINF:-1,Fox Crime
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/421.ts
+#EXTINF:-1,Fox Comedy
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/422.ts
+#EXTINF:-1,Discovery Channel
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/423.ts
+#EXTINF:-1,Discovery Showcase
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/424.ts
+#EXTINF:-1,National Geographic
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1495.ts
+#EXTINF:-1,National Geographic Wild HD
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/425.ts
+#EXTINF:-1,Tlc
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/426.ts
+#EXTINF:-1,E! Entertainment
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/427.ts
+#EXTINF:-1,Fox Life
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/428.ts
+#EXTINF:-1,Cm TV
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/429.ts
+#EXTINF:-1,Canal Panda
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/430.ts
+#EXTINF:-1,TV Cine 1
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/431.ts
+#EXTINF:-1,TV Cine 2
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/432.ts
+#EXTINF:-1,TV Cine 3
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/433.ts
+#EXTINF:-1,TV Cine 4
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/434.ts
+#EXTINF:-1,Benfica TV 1
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/435.ts
 #EXTINF:-1,TV Record
-http://51.15.3.165:8000/live/adriano/adriano/2269.ts
-#EXTINF:-1,TV Record HD
-http://51.15.3.165:8000/live/adriano/adriano/2270.ts
-#EXTINF:-1,TV SERIES
-http://51.15.3.165:8000/live/adriano/adriano/2193.ts
-#EXTINF:-1,TVCine 1
-http://51.15.3.165:8000/live/adriano/adriano/2205.ts
-#EXTINF:-1,TVCINE 1 HD
-http://51.15.3.165:8000/live/adriano/adriano/2203.ts
-#EXTINF:-1,TVCINE 1 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2204.ts
-#EXTINF:-1,TVCine 2
-http://51.15.3.165:8000/live/adriano/adriano/2202.ts
-#EXTINF:-1,TVCine 2 HD
-http://51.15.3.165:8000/live/adriano/adriano/2200.ts
-#EXTINF:-1,TVCINE 2 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2201.ts
-#EXTINF:-1,TVCine 3
-http://51.15.3.165:8000/live/adriano/adriano/2199.ts
-#EXTINF:-1,TVCine 3 HD
-http://51.15.3.165:8000/live/adriano/adriano/2197.ts
-#EXTINF:-1,TVCINE 3 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2198.ts
-#EXTINF:-1,TVCine 4
-http://51.15.3.165:8000/live/adriano/adriano/2196.ts
-#EXTINF:-1,TVCINE 4 HD
-http://51.15.3.165:8000/live/adriano/adriano/2194.ts
-#EXTINF:-1,TVCINE 4 HD ( NET FRACA )
-http://51.15.3.165:8000/live/adriano/adriano/2195.ts
-#EXTINF:-1,TVE 24H
-http://51.15.3.165:8000/live/adriano/adriano/2261.ts
-#EXTINF:-1,TVE Internacional
-http://51.15.3.165:8000/live/adriano/adriano/2259.ts
-#EXTINF:-1,TVI 24
-http://51.15.3.165:8000/live/adriano/adriano/2294.ts
-#EXTINF:-1,TVI Ficção
-http://51.15.3.165:8000/live/adriano/adriano/2293.ts
-#EXTINF:-1,TVI Reality
-http://51.15.3.165:8000/live/adriano/adriano/2292.ts
-#EXTINF:-1,TVI Reality - Camara 1
-http://51.15.3.165:8000/live/adriano/adriano/2290.ts
-#EXTINF:-1,TVI Reality - Camara 2
-http://51.15.3.165:8000/live/adriano/adriano/2289.ts
-#EXTINF:-1,TVI Reality - Camara 3
-http://51.15.3.165:8000/live/adriano/adriano/2288.ts
-#EXTINF:-1,TVI Reality - Camara 4
-http://51.15.3.165:8000/live/adriano/adriano/2287.ts
-#EXTINF:-1,TVI Reality - Mosaico
-http://51.15.3.165:8000/live/adriano/adriano/2291.ts
-#EXTINF:-1,TVSeries HD
-http://51.15.3.165:8000/live/adriano/adriano/2192.ts
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1463.ts
+#EXTINF:-1,Tv Sick
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/410.ts
+#EXTINF:-1,Rt Global
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1477.ts
+#EXTINF:-1,Porto Canal
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1485.ts
 
-#EXTINF:-1,Venus
-http://51.15.3.165:8000/live/adriano/adriano/2099.ts
-#EXTINF:-1,VH1
-http://51.15.3.165:8000/live/adriano/adriano/2139.ts
-#EXTINF:-1,VH1 Classic
-http://51.15.3.165:8000/live/adriano/adriano/2138.ts
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Sport TV 1
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/437.ts
+#EXTINF:-1,Sport TV 2
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/438.ts
+#EXTINF:-1,Sport TV 3
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/439.ts
+#EXTINF:-1,Sport TV 4
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/440.ts
+#EXTINF:-1,Sport TV 5
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/441.ts
+
+#EXTINF:-1,Sporting Tv HD
+http://ns3004967.ip-151-80-35.eu:25461/live/moreno/moreno/1484.ts
