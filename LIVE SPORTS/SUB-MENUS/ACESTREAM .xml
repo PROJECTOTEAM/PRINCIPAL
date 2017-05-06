@@ -74,27 +74,14 @@
 
 
 
-
-
-
-
 <item>
-<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE [/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR skyblue] [makelist.param4][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=666list+[makelist.param3]+Arenavision</link>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
-<page>https://avezy.tk/</page>
-<Agent>Mozilla</Agent>
-</regex>
+<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE  [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=666list+[makelist.param3]+Arenavision</jsonrpc>
 <fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 </item>
+
 
 
 <item>
