@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -13,102 +13,211 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTM3U
- 
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo SP
-http://5.79.68.138:8081/look/sptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/1/14/20161125125344!Logo_of_Rede_Record.png" group-title="Canais Abertos",RECORDTV
-http://95.211.149.215:8081/look/record/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural
-http://149.56.16.58:25461/live/junio05/0505/1850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Viva
-http://149.56.16.58:25461/live/junio05/0505/1705.ts
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fH3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews
-http://5.79.68.138:8081/look/globonews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Esportes",Band News
-http://149.56.16.58:25461/live/junio05/0505/1857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News
-http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network
-http://95.211.149.215:8081/look/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
-http://tv.ec.cx:1935/WSZF8sTB/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
-http://149.56.16.58:25461/live/junio05/0505/1831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon
-http://149.56.16.58:25461/live/junio05/0505/1777.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
-http://5.79.68.138:8081/look/sportv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png" group-title="Esportes",SporTV 2
-http://5.79.68.138:8081/look/sportv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3
-http://5.79.68.138:8081/look/sportv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN
-http://5.79.68.138:8081/look/espn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
-http://95.211.149.215:8081/look/espnbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports
- 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2
-http://149.56.16.58:25461/live/junio05/0505/1814.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
-http://149.56.16.58:25461/live/junio05/0505/1828.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
-http://149.56.16.58:25461/live/junio05/0505/1827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 2
-http://149.56.16.58:25461/live/junio05/0505/1770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 3
-http://149.56.16.58:25461/live/junio05/0505/1768.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 4
-http://149.56.16.58:25461/live/junio05/0505/1766.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 5
-http://149.56.16.58:25461/live/junio05/0505/1764.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 6
-http://149.56.16.58:25461/live/junio05/0505/1762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 7
-http://149.56.16.58:25461/live/junio05/0505/1761.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 8
-http://149.56.16.58:25461/live/junio05/0505/1760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 9
-http://149.56.16.58:25461/live/junio05/0505/1759.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere Clubes
-http://95.211.149.215:8081/look/pfc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647" group-title="Canais HBO",HBO Family
-http://149.56.16.58:25461/live/junio05/0505/1803.
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://www.skypontagrossa.com.br/images/canais/277_5412F83E5FD26517.png" group-title="Canais HBO",HBO Plus e
-http://149.56.16.58:25461/live/junio05/0505/1800.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus
-http://149.56.16.58:25461/live/junio05/0505/1801.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature
-http://149.56.16.58:25461/live/junio05/0505/1799.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO
-http://149.56.16.58:25461/live/junio05/0505/1805.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2
-http://149.56.16.58:25461/live/junio05/0505/1798.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action
-http://149.56.16.58:25461/live/junio05/0505/1725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="http://files.servidorcs1.webnode.com/200001032-9fdbaa0d3f/Telecine_Cult_Gato.png" group-title="Canais Telecine",Telecine Cult
-http://149.56.16.58:25461/live/junio05/0505/1724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais Telecine",Telecine Fun
-http://149.56.16.58:25461/live/junio05/0505/1723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://static.wixstatic.com/media/acb2cc_63cb2ebb355b75eefb54db8699566faa.png_srz_1140_611_85_22_0.50_1.20_0.00_png_srz" group-title="Canais Telecine",Telecine Pipoca
-http://149.56.16.58:25461/live/junio05/0505/1722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
-http://149.56.16.58:25461/live/junio05/0505/1721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
-http://149.56.16.58:25461/live/junio05/0505/1720.ts
+#EXTINF:-1,(BR) A&E
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9968.ts
+#EXTINF:-1,(BR) ALL SPORTS TV
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9967.ts
+#EXTINF:-1,(BR) Animal Planet Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9966.ts
+#EXTINF:-1,(BR) Arte 1
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9965.ts
+#EXTINF:-1,(BR) AXN
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9964.ts
+#EXTINF:-1,(BR) BAND
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9963.ts
+#EXTINF:-1,(BR) BAND NEWS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9962.ts
+#EXTINF:-1,(BR) BAND PAR
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9961.ts
+#EXTINF:-1,(BR) BAND SPORTS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9960.ts
+#EXTINF:-1,(BR) BIS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9958.ts
+#EXTINF:-1,(BR) Boomerang
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9957.ts
+#EXTINF:-1,(BR) Canal Do Boi Tv
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9956.ts
+#EXTINF:-1,(BR) Cartoon Network
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9955.ts
+#EXTINF:-1,(BR) Cine VIP
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9954.ts
+#EXTINF:-1,(BR) CINEMAX
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9953.ts
+#EXTINF:-1,(BR) COMBATE
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9952.ts
+#EXTINF:-1,(BR) Conexao Tv
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9951.ts
+#EXTINF:-1,(BR) DISCOVERY
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9950.ts
+#EXTINF:-1,(BR) Discovery Civilization
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9949.ts
+#EXTINF:-1,(BR) Discovery Home Health
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9948.ts
+#EXTINF:-1,(BR) Discovery ID
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9947.ts
+#EXTINF:-1,(BR) Discovery Science Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9946.ts
+#EXTINF:-1,(BR) Discovery Turbo
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9945.ts
+#EXTINF:-1,(BR) DISNEY
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9944.ts
+#EXTINF:-1,(BR) Disney Jr
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9943.ts
+#EXTINF:-1,(BR) Disney XD Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9942.ts
+#EXTINF:-1,(BR) E! MAXX 2
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9941.ts
+#EXTINF:-1,(BR) E! Maxx Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9940.ts
+#EXTINF:-1,(BR) ESPN
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9939.ts
+#EXTINF:-1,(BR) ESPN 1
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9938.ts
+#EXTINF:-1,(BR) Fish TV
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9937.ts
+#EXTINF:-1,(BR) FOX
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9936.ts
+#EXTINF:-1,(BR) FOX ACTION HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9935.ts
+#EXTINF:-1,(BR) Fox Life
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9934.ts
+#EXTINF:-1,(BR) FOX SPORTS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9933.ts
+#EXTINF:-1,(BR) FOX SPORTS 2
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9932.ts
+#EXTINF:-1,(BR) FUTURA
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9931.ts
+#EXTINF:-1,(BR) Fx Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9930.ts
+#EXTINF:-1,(BR) GLOBO NEWS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9928.ts
+#EXTINF:-1,(BR) Gloob
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9927.ts
+#EXTINF:-1,(BR) GNT
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9926.ts
+#EXTINF:-1,(BR) H 2
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9925.ts
+#EXTINF:-1,(BR) HBO
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9924.ts
+#EXTINF:-1,(BR) HBO 2
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9923.ts
+#EXTINF:-1,(BR) HBO FAMILY HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9922.ts
+#EXTINF:-1,(BR) HBO PLUS HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9921.ts
+#EXTINF:-1,(BR) HBO SIGNATURE HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9920.ts
+#EXTINF:-1,(BR) HISTORY
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9919.ts
+#EXTINF:-1,(BR) I Sat
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9917.ts
+#EXTINF:-1,(BR) ID
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9916.ts
+#EXTINF:-1,(BR) Mais Globosat HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9915.ts
+#EXTINF:-1,(BR) MANA SAT
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9914.ts
+#EXTINF:-1,(BR) Max
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9913.ts
+#EXTINF:-1,(BR) Max Up
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9912.ts
+#EXTINF:-1,(BR) MegaPix
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9911.ts
+#EXTINF:-1,(BR) MIX TV BRASIL
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9910.ts
+#EXTINF:-1,(BR) MTV
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9909.ts
+#EXTINF:-1,(BR) Multishow
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9908.ts
+#EXTINF:-1,(BR) Music Box Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9907.ts
+#EXTINF:-1,(BR) NAT GEO
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9906.ts
+#EXTINF:-1,(BR) NAT GEO WILD HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9905.ts
+#EXTINF:-1,(BR) NICK
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9904.ts
+#EXTINF:-1,(BR) NICK JR
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9903.ts
+#EXTINF:-1,(BR) OFF
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9902.ts
+#EXTINF:-1,(BR) Paramount Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9901.ts
+#EXTINF:-1,(BR) PFC
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9900.ts
+#EXTINF:-1,(BR) PREMIERE
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9899.ts
+#EXTINF:-1,(BR) RECORD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9897.ts
+#EXTINF:-1,(BR) RECORD NEWS
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9896.ts
+#EXTINF:-1,(BR) REDE FAM
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9895.ts
+#EXTINF:-1,(BR) REDETV HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9894.ts
+#EXTINF:-1,(BR) SBT
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9893.ts
+#EXTINF:-1,(BR) SPORTV 1 HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9890.ts
+#EXTINF:-1,(BR) SPORTV 2 HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9889.ts
+#EXTINF:-1,(BR) SPORTV 3 HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9888.ts
+#EXTINF:-1,(BR) Syfy
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9887.ts
+#EXTINF:-1,(BR) TBS Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9886.ts
+#EXTINF:-1,(BR) TC FUN HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9885.ts
+#EXTINF:-1,(BR) TCM Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9884.ts
+#EXTINF:-1,(BR) TeleCine Action
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9883.ts
+#EXTINF:-1,(BR) TeleCine Cult
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9882.ts
+#EXTINF:-1,(BR) TeleCine Fun
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9881.ts
+#EXTINF:-1,(BR) TeleCine Pipoca
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9880.ts
+#EXTINF:-1,(BR) TeleCine Premium
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9879.ts
+#EXTINF:-1,(BR) TeleCine Touch
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9878.ts
+#EXTINF:-1,(BR) TLC
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9877.ts
+#EXTINF:-1,(BR) TNT
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9876.ts
+#EXTINF:-1,(BR) TNT Series
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9875.ts
+#EXTINF:-1,(BR) Tooncast
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9874.ts
+#EXTINF:-1,(BR) Tru TV
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9873.ts
+#EXTINF:-1,(BR) TV Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9872.ts
+#EXTINF:-1,(BR) TV CULTURA
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9870.ts
+#EXTINF:-1,(BR) TV DI
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9869.ts
+#EXTINF:-1,(BR) TV ESCOLA HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9868.ts
+#EXTINF:-1,(BR) TV GAZETA HD
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9867.ts
+#EXTINF:-1,(BR) TV GLOBO Portugal
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9866.ts
+#EXTINF:-1,(BR) TV GLOBO PREMIUM
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9865.ts
+#EXTINF:-1,(BR) TV GLOBO Sao Paulo
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9864.ts
+#EXTINF:-1,(BR) Universal Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9862.ts
+#EXTINF:-1,(BR) VH1 Mega Hits
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9861.ts
+#EXTINF:-1,(BR) VIVA
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9860.ts
+#EXTINF:-1,(BR) WARNER
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9859.ts
+#EXTINF:-1,(BR) Woohoo Brasil
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9858.ts
+#EXTINF:-1,(BR) YEEAH!
+http://tvhd.dynu.com:8000/live/C0kbj3LeDm/Vdc1nDHL5p/9857.ts
