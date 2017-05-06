@@ -13,11 +13,11 @@
 
 
 <item>
-<title>[COLOR orange][B]LISTA ACESTREAM[/COLOR][/B]</title>
+<title>[COLOR orange]LISTA ACESTREAM[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/ACESTREAM%20IPTV.xml</externallink>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/acestr10.png</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/acestr10.jpg</thumbnail>
 </item>
 
 
@@ -29,8 +29,8 @@
 <title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/Arenavision%20Plexus.xml</externallink>
-<thumbnail>https://www.tvaddons.ag/kodi-addons/cache/images/da23d7255f8d09e92a44197b4d7738_icon.png</thumbnail>
-<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
+<thumbnail>https://www.mediacentersuite.com/wp-content/uploads/2017/04/Plexus-on-Kodi-image.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>>
 </item>
 
 
@@ -40,7 +40,7 @@
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/Arenavision%20Sopcast.xml</externallink>
 <thumbnail>http://i1-news.softpedia-static.com/images/news-hot/SopCast-3-8-2-Released-h2.png</thumbnail>
-<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 </item>
 
 <item>       
@@ -48,14 +48,14 @@
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/Arenavision%20VLC%5B.xml</externallink>
 <thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
-<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 </item>
 
 
 <item>             
 <title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Canais[/COLOR]</title>
-<thumbnail>https://pbs.twimg.com/profile_images/754782771646791680/_dVzNKbQ.jpg</thumbnail>
-<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/1280x711.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/CANAIS%20ARENAVISION.xml</externallink>
 </subitem>
@@ -66,7 +66,7 @@
 <item>             
 <title>[COLOR orange]LIVE TV ACESTREAM SPORTS[/COLOR][COLOR red] Plexus[/COLOR]</title>
 <thumbnail>https://lh3.googleusercontent.com/gsrMPURBUjEOcNSMk1KQ9yfJxgDMx3y1jJnl6gpVie3tF1PshEFFqkpTxhQDMvG0gTQ=w300</thumbnail>
-<fanart>https://fosspedro.files.wordpress.com/2016/08/plexus.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 <link>http://ignorame</link>
 <externallink>http://super-pomoyka.us.to/trash/ttv-list/ttv.sport.player.m3u</externallink>
 </subitem>
@@ -75,27 +75,27 @@
 
 
 <item>
-<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE  [/B][/COLOR]</title>
+<title>[COLOR orange]ARENAVISION AGENDA / SCHEDULE  [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=666list+[makelist.param3]+Arenavision</jsonrpc>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR white][B]ARENAVISIONEZY AGENDA  [/B][/COLOR]</title>
+<title>[COLOR orange]ARENAVISIONEZY AGENDA  [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda</jsonrpc>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 <thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR white][B] UK SPORTS MAMAD [/COLOR][/B]</title>
+<title>[COLOR orange] UK SPORTS MAMAD [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -112,8 +112,8 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
-<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/uk-spo11.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/englis10.jpg</thumbnail>
 </item>
 
 
@@ -122,21 +122,21 @@
 
 
 <item>
-<title>[COLOR white][B] PACK TV SPORTS/MOTOGP [/COLOR][/B]</title>
+<title>[COLOR orange] PACK TV SPORTS/MOTOGP [/COLOR][/B]</title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 <thumbnail>http://www.direct.tv/shared/2014/03/DIRECTV-Sports-Pack.png</thumbnail>
 <fanart></fanart>
 </item>
  
 
 <item>
-<title>[COLOR white][B]EVENTOS MOTORIZADOS[/COLOR][/B]</title>
+<title>[COLOR orange]EVENTOS MOTORIZADOS[/COLOR][/B]</title>
 <linkegnorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3d1%26title.tmp%3dRacing%26ticon.tmp%3dhttp%253A%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F7.gif%26url%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcomingsports%252F7%252F%26cfg%3dlivetv.ru.videos.cfg%2540CATEGORY%25407%26definedIn%3dlivesports%252Flivetv.ru.cfg%26director%3dLiveTV.ru%26id.tmp%3d7%26referer%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcoming%26genre%3dLive%2bSports%26title%3dRacing%2b%25281%2529%26icon.tmp%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png&amp;mode=1</jsonrpc>
 <thumbnail>http://images.tenplay.com.au/~/media/Sport/Motorsport/Motorsport_Logo_500x281.jpg</thumbnail>
-<fanart>http://springcoupon.com/wp-content/uploads/2016/05/VIP-logo.jpg</fanart>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 </item>
 
 
