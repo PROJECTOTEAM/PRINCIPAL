@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>thumbnail</layoutype>
+
+
+<plugin>
+<name>[COLOR white]3 SHELLS[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.3shells</link>
+<thumbnail>http://images.penguinmagic.com/images/products/large/1107a.jpg</thumbnail>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]BLACKJACK[/COLOR]</name>
+<link>plugin://plugin.game.blackjack</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.game.blackjack.png.pagespeed.ic.ZdeUw2bV1t.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]CONNECT 4[/COLOR]</name>
+<link>plugin://script.game.connect4</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://www.htpcbeginner.com/images/2015/08/03-Kodi-gaming-addons-Connect-4.jpg</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR white]DUCKSHOT[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.duckshot</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.program.hubhug.duckshot.png.pagespeed.ic.7UCs8tIBbP.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]MAZE 3[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.maze3</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>http://i.ebayimg.com/thumbs/images/g/N7kAAOSwA3dYb3Gr/s-l200.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]MAZE 2[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.maze2</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/plugin.program.hubhug.maze2.png.pagespeed.ce.8So2wT802b.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ROMGRABBER[/COLOR]</name>
+<link>plugin://plugin.program.romgrabber/</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/xplugi10.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]CARDS[/COLOR]</name>
+<link>plugin://plugin.game.match.cards</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>http://www.pngmart.com/files/1/Ace-Playing-Card-PNG.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]WATCHGAME[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.watchgame</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.gamegrumps.png.pagespeed.ic.SlH6TYHL1Z.jpg</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ROCKPAPERSCISSORS[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.rockpaperscissors</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.program.hubhug.rockpaperscissors.png.pagespeed.ic.KkMJYLlgtU.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]TANKSHOT[/COLOR]</name>
+<link>plugin://plugin.game.tankshot</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.game.tankshot.png.pagespeed.ic.DNV312pAjC.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]TURKEYHUNT[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.turkeyhunt</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBB_ExJv5r4NaC3dLm7mj4LZX1TVNddcS11IU9Ko7J-LQOlk_hPQ</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<name>[COLOR white]WORDFIND[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.puzzles.wordfind</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/xplugi10.png</thumbnail>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white]ZODIACSMACK[/COLOR]</name>
+<link>plugin://plugin.program.hubhug.zodiacsmack</link>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.program.hubhug.maze2.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/xplugi11.png</thumbnail>
+</plugin>
+
+
+
+
