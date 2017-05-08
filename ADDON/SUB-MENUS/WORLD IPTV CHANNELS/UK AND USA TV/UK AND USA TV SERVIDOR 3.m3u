@@ -1,669 +1,122 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-#EXTINF:-1,UK: BT ESPN HD
-http://149.56.240.30:25461/live/EAS12/1111/1314.ts
-#EXTINF:-1,UK: BT SPORTS 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/1318.ts
-#EXTINF:-1,UK: BT FHD 1
-http://149.56.240.30:25461/live/EAS12/1111/1315.ts
-#EXTINF:-1,UK: BT SPORTS 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/1319.ts
-#EXTINF:-1,UK: BT FHD 2
-http://149.56.240.30:25461/live/EAS12/1111/1316.ts
-#EXTINF:-1,UK: BT SPORTS 3 HD
-http://149.56.240.30:25461/live/EAS12/1111/1320.ts
-#EXTINF:-1,UK: BT FHD 3
-http://149.56.240.30:25461/live/EAS12/1111/1317.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://149.56.240.30:25461/live/EAS12/1111/1365.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/1360.ts
-#EXTINF:-1,UK: SKY SPORTS FHD F1
-http://149.56.240.30:25461/live/EAS12/1111/1368.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/1361.ts
-#EXTINF:-1,UK: SKY SPORTS FHD 1
-http://149.56.240.30:25461/live/EAS12/1111/1366.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://149.56.240.30:25461/live/EAS12/1111/1362.ts
-#EXTINF:-1,UK: SKY SPORTS FHD 3
-http://149.56.240.30:25461/live/EAS12/1111/1367.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://149.56.240.30:25461/live/EAS12/1111/1363.ts
-#EXTINF:-1,UK: SKY SPORTS FHD 4
-http://149.56.240.30:25461/live/EAS12/1111/1303.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://149.56.240.30:25461/live/EAS12/1111/1364.ts
-#EXTINF:-1,UK: SKY SPORTS FHD 5
-http://149.56.240.30:25461/live/EAS12/1111/1304.ts
-#EXTINF:-1,UK: Premier Sports
-http://149.56.240.30:25461/live/EAS12/1111/2089.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://149.56.240.30:25461/live/EAS12/1111/1341.ts
-#EXTINF:-1,UK: Sky Sports News
-http://149.56.240.30:25461/live/EAS12/1111/1369.ts
-#EXTINF:-1,UK: Sky Sports Mix
-http://149.56.240.30:25461/live/EAS12/1111/1305.ts
-#EXTINF:-1,UK: Racing UK HD
-http://149.56.240.30:25461/live/EAS12/1111/1342.ts
-#EXTINF:-1,Eleven Sports HD (UK)
-http://149.56.240.30:25461/live/EAS12/1111/1329.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/2088.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/2087.ts
-#EXTINF:-1,UK: Eurosport 1
-http://149.56.240.30:25461/live/EAS12/1111/3199.ts
-#EXTINF:-1,UK: Eurosport 2
-http://149.56.240.30:25461/live/EAS12/1111/3198.ts
-#EXTINF:-1,UK: SKY SPORTS 1
-http://149.56.240.30:25461/live/EAS12/1111/3404.ts
-#EXTINF:-1,UK: SKY SPORTS F1
-http://149.56.240.30:25461/live/EAS12/1111/3405.ts
-#EXTINF:-1,UK: CHELSEA TV HD
-http://149.56.240.30:25461/live/EAS12/1111/3552.ts
-#EXTINF:-1,UK: MUTV HD
-http://149.56.240.30:25461/live/EAS12/1111/1337.ts
-#EXTINF:-1,UK: Liverpool TV
-http://149.56.240.30:25461/live/EAS12/1111/3371.ts
-#EXTINF:-1,UK: LFC HD
-http://149.56.240.30:25461/live/EAS12/1111/3551.ts
-#EXTINF:-1,UK: BoxNation
-http://149.56.240.30:25461/live/EAS12/1111/2191.ts
-#EXTINF:-1,UK: At The Races
-http://149.56.240.30:25461/live/EAS12/1111/2086.ts
-#EXTINF:-1,UK: Racing UK
-http://149.56.240.30:25461/live/EAS12/1111/3386.ts
-#EXTINF:-1,UK HD : RACING UK HD
-http://149.56.240.30:25461/live/EAS12/1111/3553.ts
-#EXTINF:-1,UK: eir Sport 1
-http://149.56.240.30:25461/live/EAS12/1111/2090.ts
-#EXTINF:-1,UK: eir Sport 2
-http://149.56.240.30:25461/live/EAS12/1111/5313.ts
-#EXTINF:-1,UK: RTE 1
-http://149.56.240.30:25461/live/EAS12/1111/3435.ts
-#EXTINF:-1,UK: RTE 2
-http://149.56.240.30:25461/live/EAS12/1111/3436.ts
-#EXTINF:-1,Sports : SKY SPORTS 1 IRELAND
-http://149.56.240.30:25461/live/EAS12/1111/3571.ts
-#EXTINF:-1,Sports : SKY SPORTS 2 IRELAND
-http://149.56.240.30:25461/live/EAS12/1111/3570.ts
-#EXTINF:-1,UK: Ginx eSports
-http://149.56.240.30:25461/live/EAS12/1111/3367.ts
-#EXTINF:-1,UK: SKY SPORTS 2
-http://149.56.240.30:25461/live/EAS12/1111/3403.ts
-#EXTINF:-1,UK: SKY SPORTS 3
-http://149.56.240.30:25461/live/EAS12/1111/3402.ts
-#EXTINF:-1,UK: SKY SPORTS 4
-http://149.56.240.30:25461/live/EAS12/1111/3401.ts
-#EXTINF:-1,UK: SKY SPORTS 5
-http://149.56.240.30:25461/live/EAS12/1111/3400.ts
-#EXTINF:-1,UK: BT SPORT ESPN
-http://149.56.240.30:25461/live/EAS12/1111/3396.ts
-#EXTINF:-1,UK: BT SPORT 1
-http://149.56.240.30:25461/live/EAS12/1111/3399.ts
-#EXTINF:-1,UK: BT SPORT 2
-http://149.56.240.30:25461/live/EAS12/1111/3398.ts
-#EXTINF:-1,UK: BT SPORT 3
-http://149.56.240.30:25461/live/EAS12/1111/3397.ts
-#EXTINF:-1,SuperSport 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/2101.ts
-#EXTINF:-1,Super Sport 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/2085.ts
-#EXTINF:-1,Super Sport 3 HD
-http://149.56.240.30:25461/live/EAS12/1111/2084.ts
-#EXTINF:-1,Super Sport 4 HD
-http://149.56.240.30:25461/live/EAS12/1111/2083.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://149.56.240.30:25461/live/EAS12/1111/2095.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://149.56.240.30:25461/live/EAS12/1111/2094.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://149.56.240.30:25461/live/EAS12/1111/2093.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://149.56.240.30:25461/live/EAS12/1111/2092.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://149.56.240.30:25461/live/EAS12/1111/2091.ts
-#EXTINF:-1,UK: BT Sport Extra 6
-http://149.56.240.30:25461/live/EAS12/1111/3187.ts
-#EXTINF:-1,UK: Eleven Sports HD
-http://149.56.240.30:25461/live/EAS12/1111/2100.ts
-#EXTINF:-1,Eleven Sports HD UK
-http://149.56.240.30:25461/live/EAS12/1111/2099.ts
-#EXTINF:-1,SPORTS : Skynet Sports HD
-http://149.56.240.30:25461/live/EAS12/1111/3563.ts
-#EXTINF:-1,UK: ASTRO SPORTS HD 1
-http://149.56.240.30:25461/live/EAS12/1111/3557.ts
-#EXTINF:-1,UK: ASTRO SPORTS HD 2
-http://149.56.240.30:25461/live/EAS12/1111/3556.ts
-#EXTINF:-1,UK: ASTRO SPORTS HD 3
-http://149.56.240.30:25461/live/EAS12/1111/3555.ts
-#EXTINF:-1,UK : ASTRO SPORTS HD 4
-http://149.56.240.30:25461/live/EAS12/1111/3554.ts
-#EXTINF:-1,ES: Eurosport 1
-http://149.56.240.30:25461/live/EAS12/1111/3325.ts
-#EXTINF:-1,ES: Eurosport 2
-http://149.56.240.30:25461/live/EAS12/1111/3324.ts
-#EXTINF:-1,Bein Sports Max HD 1
-http://149.56.240.30:25461/live/EAS12/1111/2082.ts
-#EXTINF:-1,Bein Sports Max HD 2
-http://149.56.240.30:25461/live/EAS12/1111/2081.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/2077.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/2076.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://149.56.240.30:25461/live/EAS12/1111/2075.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://149.56.240.30:25461/live/EAS12/1111/2074.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://149.56.240.30:25461/live/EAS12/1111/2073.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://149.56.240.30:25461/live/EAS12/1111/2072.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://149.56.240.30:25461/live/EAS12/1111/2071.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://149.56.240.30:25461/live/EAS12/1111/2070.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://149.56.240.30:25461/live/EAS12/1111/2069.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://149.56.240.30:25461/live/EAS12/1111/2080.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://149.56.240.30:25461/live/EAS12/1111/2079.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://149.56.240.30:25461/live/EAS12/1111/2078.ts
-#EXTINF:-1,EX : Arena Sport 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/3640.ts
-#EXTINF:-1,EX : Arena Sport 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/3639.ts
-#EXTINF:-1,EX : Arena Sport 3 HD
-http://149.56.240.30:25461/live/EAS12/1111/3638.ts
-#EXTINF:-1,EX : Arena Sport 4 HD
-http://149.56.240.30:25461/live/EAS12/1111/3637.ts
-#EXTINF:-1,EX : SPORT KLUB HD 1
-http://149.56.240.30:25461/live/EAS12/1111/3636.ts
-#EXTINF:-1,EX : SPORT KLUB HD 2
-http://149.56.240.30:25461/live/EAS12/1111/3635.ts
-#EXTINF:-1,EX : SPORT KLUB HD 3
-http://149.56.240.30:25461/live/EAS12/1111/3634.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,US: EPIX HD
-http://149.56.240.30:25461/live/EAS12/1111/3671.ts
-#EXTINF:-1,US: EPIX2 HD
-http://149.56.240.30:25461/live/EAS12/1111/3670.ts
-#EXTINF:-1,US: Cinemax HD
-http://149.56.240.30:25461/live/EAS12/1111/1394.ts
-#EXTINF:-1,US: Cinemax Moremax HD
-http://149.56.240.30:25461/live/EAS12/1111/3680.ts
-#EXTINF:-1,US: Cinemax Thrillermax HD
-http://149.56.240.30:25461/live/EAS12/1111/3679.ts
-#EXTINF:-1,US: Showtime 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/5436.ts
-#EXTINF:-1,US: Showtime Family Zone HD
-http://149.56.240.30:25461/live/EAS12/1111/3659.ts
-#EXTINF:-1,US: HBO HD
-http://149.56.240.30:25461/live/EAS12/1111/1464.ts
-#EXTINF:-1,US: HBO 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/2444.ts
-#EXTINF:-1,US: HBO Comedy HD
-http://149.56.240.30:25461/live/EAS12/1111/2443.ts
-#EXTINF:-1,US: HBO Signature HD
-http://149.56.240.30:25461/live/EAS12/1111/3664.ts
-#EXTINF:-1,US: HBO Family HD
-http://149.56.240.30:25461/live/EAS12/1111/1411.ts
-#EXTINF:-1,US: HBO Zone HD
-http://149.56.240.30:25461/live/EAS12/1111/1412.ts
-#EXTINF:-1,CA: HBO HD
-http://149.56.240.30:25461/live/EAS12/1111/1261.ts
-#EXTINF:-1,US: Starz HD
-http://149.56.240.30:25461/live/EAS12/1111/1434.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://149.56.240.30:25461/live/EAS12/1111/3657.ts
-#EXTINF:-1,US: Starz Edge HD
-http://149.56.240.30:25461/live/EAS12/1111/1433.ts
-#EXTINF:-1,UK: Sky Hits HD
-http://149.56.240.30:25461/live/EAS12/1111/1354.ts
-#EXTINF:-1,UK: SKY MOVIES SELECT
-http://149.56.240.30:25461/live/EAS12/1111/1357.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://149.56.240.30:25461/live/EAS12/1111/1358.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://149.56.240.30:25461/live/EAS12/1111/1348.ts
-#EXTINF:-1,UK: Sky Comedy HD
-http://149.56.240.30:25461/live/EAS12/1111/1349.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIERE
-http://149.56.240.30:25461/live/EAS12/1111/1355.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror
-http://149.56.240.30:25461/live/EAS12/1111/3393.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY
-http://149.56.240.30:25461/live/EAS12/1111/1352.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://149.56.240.30:25461/live/EAS12/1111/1353.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://149.56.240.30:25461/live/EAS12/1111/1350.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA
-http://149.56.240.30:25461/live/EAS12/1111/1351.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://149.56.240.30:25461/live/EAS12/1111/3142.ts
-#EXTINF:-1,UK: Sky Modern Greats
-http://149.56.240.30:25461/live/EAS12/1111/3161.ts
-#EXTINF:-1,UK: SKY MOVIES COMEDY
-http://149.56.240.30:25461/live/EAS12/1111/3391.ts
-#EXTINF:-1,UK: Sky Movies Premiere Plus
-http://149.56.240.30:25461/live/EAS12/1111/3407.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi&amp;Horror
-http://149.56.240.30:25461/live/EAS12/1111/1356.ts
-#EXTINF:-1,US: Cinemax West
-http://149.56.240.30:25461/live/EAS12/1111/2428.ts
-#EXTINF:-1,US: Cinemax ActionMax
-http://149.56.240.30:25461/live/EAS12/1111/2430.ts
-#EXTINF:-1,CA: HBO 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/1260.ts
-#EXTINF:-1,US: HBO 2 Comedy
-http://149.56.240.30:25461/live/EAS12/1111/2437.ts
-#EXTINF:-1,CA: Slice HD
-http://149.56.240.30:25461/live/EAS12/1111/1268.ts
-#EXTINF:-1,CA: PBS HD
-http://149.56.240.30:25461/live/EAS12/1111/1266.ts
-#EXTINF:-1,CA: PBS Vermont  HD
-http://149.56.240.30:25461/live/EAS12/1111/1286.ts
-#EXTINF:-1,CA: Animal Planet HD
-http://149.56.240.30:25461/live/EAS12/1111/1267.ts
-#EXTINF:-1,CA: NBC HD
-http://149.56.240.30:25461/live/EAS12/1111/1265.ts
-#EXTINF:-1,CA: ME TV HD
-http://149.56.240.30:25461/live/EAS12/1111/1263.ts
-#EXTINF:-1,CA: Golf Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/3721.ts
-#EXTINF:-1,CA: YTV HD
-http://149.56.240.30:25461/live/EAS12/1111/3686.ts
-#EXTINF:-1,CA: HLN HD
-http://149.56.240.30:25461/live/EAS12/1111/1262.ts
-#EXTINF:-1,CA: GSN HD
-http://149.56.240.30:25461/live/EAS12/1111/1259.ts
-#EXTINF:-1,CA: Global HD
-http://149.56.240.30:25461/live/EAS12/1111/1258.ts
-#EXTINF:-1,CA: FOX HD
-http://149.56.240.30:25461/live/EAS12/1111/1257.ts
-#EXTINF:-1,CA: CW HD
-http://149.56.240.30:25461/live/EAS12/1111/1253.ts
-#EXTINF:-1,CA: CTV HD
-http://149.56.240.30:25461/live/EAS12/1111/1252.ts
-#EXTINF:-1,CA: Create HD
-http://149.56.240.30:25461/live/EAS12/1111/1251.ts
-#EXTINF:-1,CA: CITY HD
-http://149.56.240.30:25461/live/EAS12/1111/1249.ts
-#EXTINF:-1,CA: CBC News Network HD
-http://149.56.240.30:25461/live/EAS12/1111/1247.ts
-#EXTINF:-1,CA: Bravo HD
-http://149.56.240.30:25461/live/EAS12/1111/1245.ts
-#EXTINF:-1,CA: CP 24 HD
-http://149.56.240.30:25461/live/EAS12/1111/1250.ts
-#EXTINF:-1,CA: Comedy HD
-http://149.56.240.30:25461/live/EAS12/1111/2963.ts
-#EXTINF:-1,CA: FX HD
-http://149.56.240.30:25461/live/EAS12/1111/1462.ts
-#EXTINF:-1,CA: FXX HD
-http://149.56.240.30:25461/live/EAS12/1111/1463.ts
-#EXTINF:-1,CA: FYI
-http://149.56.240.30:25461/live/EAS12/1111/2967.ts
-#EXTINF:-1,CA: History HD
-http://149.56.240.30:25461/live/EAS12/1111/2968.ts
-#EXTINF:-1,CA: Much
-http://149.56.240.30:25461/live/EAS12/1111/2972.ts
-#EXTINF:-1,CA: TLC HD
-http://149.56.240.30:25461/live/EAS12/1111/1473.ts
-#EXTINF:-1,CA: DejaView
-http://149.56.240.30:25461/live/EAS12/1111/2966.ts
-#EXTINF:-1,CA: CBC HD
-http://149.56.240.30:25461/live/EAS12/1111/1246.ts
-#EXTINF:-1,CA: E! HD
-http://149.56.240.30:25461/live/EAS12/1111/2103.ts
-#EXTINF:-1,CA: AMI
-http://149.56.240.30:25461/live/EAS12/1111/3709.ts
-#EXTINF:-1,CA: Book Television
-http://149.56.240.30:25461/live/EAS12/1111/3707.ts
-#EXTINF:-1,CA: OWN HD
-http://149.56.240.30:25461/live/EAS12/1111/1471.ts
-#EXTINF:-1,CA: Crime Investigation
-http://149.56.240.30:25461/live/EAS12/1111/3705.ts
-#EXTINF:-1,CA: CTV
-http://149.56.240.30:25461/live/EAS12/1111/3704.ts
-#EXTINF:-1,CA: Discovery HD
-http://149.56.240.30:25461/live/EAS12/1111/3702.ts
-#EXTINF:-1,CA: Discovery Science
-http://149.56.240.30:25461/live/EAS12/1111/3701.ts
-#EXTINF:-1,CA: DIY
-http://149.56.240.30:25461/live/EAS12/1111/3699.ts
-#EXTINF:-1,CA: DTOUR HD
-http://149.56.240.30:25461/live/EAS12/1111/3698.ts
-#EXTINF:-1,CA: Food Network HD
-http://149.56.240.30:25461/live/EAS12/1111/3696.ts
-#EXTINF:-1,CA: G4
-http://149.56.240.30:25461/live/EAS12/1111/3695.ts
-#EXTINF:-1,CA: Gusto
-http://149.56.240.30:25461/live/EAS12/1111/3694.ts
-#EXTINF:-1,CA: Lifetime HD
-http://149.56.240.30:25461/live/EAS12/1111/3718.ts
-#EXTINF:-1,CA: MTV2
-http://149.56.240.30:25461/live/EAS12/1111/3693.ts
-#EXTINF:-1,CA: Nat Geo HD
-http://149.56.240.30:25461/live/EAS12/1111/3716.ts
-#EXTINF:-1,CA: Nick
-http://149.56.240.30:25461/live/EAS12/1111/3692.ts
-#EXTINF:-1,CA: OLN
-http://149.56.240.30:25461/live/EAS12/1111/3691.ts
-#EXTINF:-1,CA: OWN
-http://149.56.240.30:25461/live/EAS12/1111/3690.ts
-#EXTINF:-1,CA: Showcase HD
-http://149.56.240.30:25461/live/EAS12/1111/3714.ts
-#EXTINF:-1,CA: Super Channel 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/3713.ts
-#EXTINF:-1,CA: Telemundo
-http://149.56.240.30:25461/live/EAS12/1111/3689.ts
-#EXTINF:-1,CA: TV Encore
-http://149.56.240.30:25461/live/EAS12/1111/3688.ts
-#EXTINF:-1,CA: IFC
-http://149.56.240.30:25461/live/EAS12/1111/3723.ts
-#EXTINF:-1,CA: Cpac
-http://149.56.240.30:25461/live/EAS12/1111/3706.ts
-#EXTINF:-1,CA: AUX
-http://149.56.240.30:25461/live/EAS12/1111/3708.ts
-#EXTINF:-1,CA: D HD
-http://149.56.240.30:25461/live/EAS12/1111/3703.ts
-#EXTINF:-1,CA: HGTV HD
-http://149.56.240.30:25461/live/EAS12/1111/3720.ts
-#EXTINF:-1,CA: FS2 HD
-http://149.56.240.30:25461/live/EAS12/1111/3722.ts
-#EXTINF:-1,CA: MovieTime HD
-http://149.56.240.30:25461/live/EAS12/1111/3717.ts
-#EXTINF:-1,CA: Nat Geo Wild HD
-http://149.56.240.30:25461/live/EAS12/1111/3715.ts
-#EXTINF:-1,CA: K:HD
-http://149.56.240.30:25461/live/EAS12/1111/3719.ts
-#EXTINF:-1,CA: TWN HD
-http://149.56.240.30:25461/live/EAS12/1111/3710.ts
-#EXTINF:-1,CA: Viceland
-http://149.56.240.30:25461/live/EAS12/1111/3687.ts
-#EXTINF:-1,CA: Cooking HD
-http://149.56.240.30:25461/live/EAS12/1111/2962.ts
-#EXTINF:-1,CA: Documentary HD
-http://149.56.240.30:25461/live/EAS12/1111/1255.ts
-#EXTINF:-1,CA: CBS HD
-http://149.56.240.30:25461/live/EAS12/1111/1248.ts
-#EXTINF:-1,CA: ABC Spark
-http://149.56.240.30:25461/live/EAS12/1111/2959.ts
-#EXTINF:-1,CA: BNN
-http://149.56.240.30:25461/live/EAS12/1111/2960.ts
-#EXTINF:-1,CA: CMT
-http://149.56.240.30:25461/live/EAS12/1111/2964.ts
-#EXTINF:-1,CA: CHARD HD
-http://149.56.240.30:25461/live/EAS12/1111/2965.ts
-#EXTINF:-1,CA: ICI RDI HD
-http://149.56.240.30:25461/live/EAS12/1111/2969.ts
-#EXTINF:-1,CA: MTV
-http://149.56.240.30:25461/live/EAS12/1111/2971.ts
-#EXTINF:-1,CA: TMN 1E HD
-http://149.56.240.30:25461/live/EAS12/1111/3712.ts
-#EXTINF:-1,CA: TMN 4E/1W HD
-http://149.56.240.30:25461/live/EAS12/1111/3711.ts
-#EXTINF:-1,CA: MOVIES HD
-http://149.56.240.30:25461/live/EAS12/1111/1264.ts
-#EXTINF:-1,CA: Chch
-http://149.56.240.30:25461/live/EAS12/1111/2431.ts
-#EXTINF:-1,CA: A&E HD
-http://149.56.240.30:25461/live/EAS12/1111/5456.ts
-#EXTINF:-1,CA: ABC Spark HD
-http://149.56.240.30:25461/live/EAS12/1111/5455.ts
-#EXTINF:-1,CA: BNN HD
-http://149.56.240.30:25461/live/EAS12/1111/5438.ts
-#EXTINF:-1,CA: CNBC
-http://149.56.240.30:25461/live/EAS12/1111/5440.ts
-#EXTINF:-1,CA: Documentary Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/5442.ts
-#EXTINF:-1,CA: Game TV
-http://149.56.240.30:25461/live/EAS12/1111/5444.ts
-#EXTINF:-1,CA: HIFI HD
-http://149.56.240.30:25461/live/EAS12/1111/5445.ts
-#EXTINF:-1,CA: Omni
-http://149.56.240.30:25461/live/EAS12/1111/5447.ts
-#EXTINF:-1,CA: Omni2 HD
-http://149.56.240.30:25461/live/EAS12/1111/5448.ts
-#EXTINF:-1,CA: Onmi HD
-http://149.56.240.30:25461/live/EAS12/1111/5449.ts
-#EXTINF:-1,CA: Smithsonian HD
-http://149.56.240.30:25461/live/EAS12/1111/5450.ts
-#EXTINF:-1,CA: Sundance
-http://149.56.240.30:25461/live/EAS12/1111/5451.ts
-#EXTINF:-1,CA: TVBS
-http://149.56.240.30:25461/live/EAS12/1111/5452.ts
-#EXTINF:-1,CA: TVA HD
-http://149.56.240.30:25461/live/EAS12/1111/5453.ts
-#EXTINF:-1,CA: TVO
-http://149.56.240.30:25461/live/EAS12/1111/5454.ts
-#EXTINF:-1,CA: Unis TV
-http://149.56.240.30:25461/live/EAS12/1111/5437.ts
-#EXTINF:-1,US: Disney Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/1456.ts
-#EXTINF:-1,US: Disney Jr HD
-http://149.56.240.30:25461/live/EAS12/1111/2427.ts
-#EXTINF:-1,US: Cartoon Network HD
-http://149.56.240.30:25461/live/EAS12/1111/1391.ts
-#EXTINF:-1,US: Boomerang HD
-http://149.56.240.30:25461/live/EAS12/1111/2425.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://149.56.240.30:25461/live/EAS12/1111/1425.ts
-#EXTINF:-1,US: Nick Jr. HD
-http://149.56.240.30:25461/live/EAS12/1111/1426.ts
-#EXTINF:-1,US: Nicktoons HD
-http://149.56.240.30:25461/live/EAS12/1111/1427.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://149.56.240.30:25461/live/EAS12/1111/1321.ts
-#EXTINF:-1,US: SPROUT
-http://149.56.240.30:25461/live/EAS12/1111/3658.ts
-#EXTINF:-1,CA: Disney XD HD
-http://149.56.240.30:25461/live/EAS12/1111/1254.ts
-#EXTINF:-1,US: PBS HD
-http://149.56.240.30:25461/live/EAS12/1111/1428.ts
-#EXTINF:-1,UK: Disney Channel
-http://149.56.240.30:25461/live/EAS12/1111/3410.ts
-#EXTINF:-1,UK: Disney Jr.
-http://149.56.240.30:25461/live/EAS12/1111/3194.ts
-#EXTINF:-1,UK: Disney XD
-http://149.56.240.30:25461/live/EAS12/1111/3168.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://149.56.240.30:25461/live/EAS12/1111/1340.ts
-#EXTINF:-1,UK: Boomerang
-http://149.56.240.30:25461/live/EAS12/1111/3176.ts
-#EXTINF:-1,UK: Baby TV
-http://149.56.240.30:25461/live/EAS12/1111/3188.ts
-#EXTINF:-1,UK: Cartoon Network
-http://149.56.240.30:25461/live/EAS12/1111/3201.ts
-#EXTINF:-1,UK: Cartoonito
-http://149.56.240.30:25461/live/EAS12/1111/3175.ts
-#EXTINF:-1,UK: Nick Jr
-http://149.56.240.30:25461/live/EAS12/1111/3380.ts
-#EXTINF:-1,UK: Nick Jr Too
-http://149.56.240.30:25461/live/EAS12/1111/3378.ts
-#EXTINF:-1,UK: Nickelodeon
-http://149.56.240.30:25461/live/EAS12/1111/3384.ts
-#EXTINF:-1,UK: Nicktoons
-http://149.56.240.30:25461/live/EAS12/1111/3434.ts
-#EXTINF:-1,UK: Tiny Pop
-http://149.56.240.30:25461/live/EAS12/1111/3137.ts
-#EXTINF:-1,UK: POP
-http://149.56.240.30:25461/live/EAS12/1111/3150.ts
-#EXTINF:-1,UK: POP MAX
-http://149.56.240.30:25461/live/EAS12/1111/3149.ts
-#EXTINF:-1,CA: Disney Channel West HD
-http://149.56.240.30:25461/live/EAS12/1111/2961.ts
-#EXTINF:-1,CA: DISNEY HD
-http://149.56.240.30:25461/live/EAS12/1111/3700.ts
-#EXTINF:-1,UK: Cbeebies HD
-http://149.56.240.30:25461/live/EAS12/1111/3131.ts
-#EXTINF:-1,CBeebies  HD (UK)
-http://149.56.240.30:25461/live/EAS12/1111/1312.ts
-#EXTINF:-1,US: A&E HD
-http://149.56.240.30:25461/live/EAS12/1111/1378.ts
-#EXTINF:-1,US: Animal Planet HD
-http://149.56.240.30:25461/live/EAS12/1111/1449.ts
-#EXTINF:-1,US: BBC America HD
-http://149.56.240.30:25461/live/EAS12/1111/3683.ts
-#EXTINF:-1,US: Bravo HD
-http://149.56.240.30:25461/live/EAS12/1111/1390.ts
-#EXTINF:-1,US: Cooking Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/3678.ts
-#EXTINF:-1,US: Crime and Investigation HD
-http://149.56.240.30:25461/live/EAS12/1111/1393.ts
-#EXTINF:-1,US: CMT HD
-http://149.56.240.30:25461/live/EAS12/1111/5485.ts
-#EXTINF:-1,US: Comedy Central HD
-http://149.56.240.30:25461/live/EAS12/1111/2105.ts
-#EXTINF:-1,US: AMC HD
-http://149.56.240.30:25461/live/EAS12/1111/1448.ts
-#EXTINF:-1,US: Discovery Family HD
-http://149.56.240.30:25461/live/EAS12/1111/3676.ts
-#EXTINF:-1,US: Discovery HD
-http://149.56.240.30:25461/live/EAS12/1111/1454.ts
-#EXTINF:-1,US: Destination America HD
-http://149.56.240.30:25461/live/EAS12/1111/5259.ts
-#EXTINF:-1,US: DIY HD
-http://149.56.240.30:25461/live/EAS12/1111/3673.ts
-#EXTINF:-1,US: LMN HD
-http://149.56.240.30:25461/live/EAS12/1111/1415.ts
-#EXTINF:-1,US: MTV Live HD
-http://149.56.240.30:25461/live/EAS12/1111/1417.ts
-#EXTINF:-1,US: Nat Geo HD
-http://149.56.240.30:25461/live/EAS12/1111/1377.ts
-#EXTINF:-1,US: NAT GEO WILD HD
-http://149.56.240.30:25461/live/EAS12/1111/1469.ts
-#EXTINF:-1,US: MTV HD
-http://149.56.240.30:25461/live/EAS12/1111/3662.ts
-#EXTINF:-1,US: VELOCITY HD
-http://149.56.240.30:25461/live/EAS12/1111/1475.ts
-#EXTINF:-1,US: USA Network HD
-http://149.56.240.30:25461/live/EAS12/1111/2067.ts
-#EXTINF:-1,US: IFC HD
-http://149.56.240.30:25461/live/EAS12/1111/3663.ts
-#EXTINF:-1,US: Spike HD
-http://149.56.240.30:25461/live/EAS12/1111/1432.ts
-#EXTINF:-1,US: Food Network HD
-http://149.56.240.30:25461/live/EAS12/1111/1948.ts
-#EXTINF:-1,US: Sundance HD
-http://149.56.240.30:25461/live/EAS12/1111/3656.ts
-#EXTINF:-1,US: WE HD
-http://149.56.240.30:25461/live/EAS12/1111/3654.ts
-#EXTINF:-1,US: SYFY HD
-http://149.56.240.30:25461/live/EAS12/1111/2948.ts
-#EXTINF:-1,US: TNT HD
-http://149.56.240.30:25461/live/EAS12/1111/2068.ts
-#EXTINF:-1,US: TBS HD
-http://149.56.240.30:25461/live/EAS12/1111/2106.ts
-#EXTINF:-1,US: Travel Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/3655.ts
-#EXTINF:-1,US: TruTV HD
-http://149.56.240.30:25461/live/EAS12/1111/1856.ts
-#EXTINF:-1,US: ID HD
-http://149.56.240.30:25461/live/EAS12/1111/1414.ts
-#EXTINF:-1,US: TV Land HD
-http://149.56.240.30:25461/live/EAS12/1111/1853.ts
-#EXTINF:-1,US: History Channel HD
-http://149.56.240.30:25461/live/EAS12/1111/1466.ts
-#EXTINF:-1,US: Hallmark HD
-http://149.56.240.30:25461/live/EAS12/1111/1410.ts
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
-http://149.56.240.30:25461/live/EAS12/1111/3665.ts
-#EXTINF:-1,US: GSN HD
-http://149.56.240.30:25461/live/EAS12/1111/3666.ts
-#EXTINF:-1,US: FreeForm HD
-http://149.56.240.30:25461/live/EAS12/1111/1407.ts
-#EXTINF:-1,US: FX HD
-http://149.56.240.30:25461/live/EAS12/1111/3668.ts
-#EXTINF:-1,US: FXX HD
-http://149.56.240.30:25461/live/EAS12/1111/3667.ts
-#EXTINF:-1,US: FYI HD
-http://149.56.240.30:25461/live/EAS12/1111/3669.ts
-#EXTINF:-1,US: El Rey Network HD
-http://149.56.240.30:25461/live/EAS12/1111/3672.ts
-#EXTINF:-1,US: Lifetime HD
-http://149.56.240.30:25461/live/EAS12/1111/1467.ts
-#EXTINF:-1,US: Discovery Science HD
-http://149.56.240.30:25461/live/EAS12/1111/1455.ts
-#EXTINF:-1,US: OWN HD
-http://149.56.240.30:25461/live/EAS12/1111/3660.ts
-#EXTINF:-1,US: CW HD
-http://149.56.240.30:25461/live/EAS12/1111/3677.ts
-#EXTINF:-1,US: Viceland
-http://149.56.240.30:25461/live/EAS12/1111/3734.ts
-#EXTINF:-1,US: VH1 HD
-http://149.56.240.30:25461/live/EAS12/1111/1476.ts
-#EXTINF:-1,US: Mello TV
-http://149.56.240.30:25461/live/EAS12/1111/2946.ts
-#EXTINF:-1,US: H2 HD
-http://149.56.240.30:25461/live/EAS12/1111/1409.ts
-#EXTINF:-1,US: CBN
-http://149.56.240.30:25461/live/EAS12/1111/2942.ts
-#EXTINF:-1,US: Universal HD
-http://149.56.240.30:25461/live/EAS12/1111/5487.ts
-#EXTINF:-1,PPV: BOXING HD
-http://149.56.240.30:25461/live/EAS12/1111/1244.ts
-#EXTINF:-1,SUPER : UFC HD
-http://149.56.240.30:25461/live/EAS12/1111/3559.ts
-#EXTINF:-1,UK : SKY BOX OFFICE 1 ( PPV )
-http://149.56.240.30:25461/live/EAS12/1111/5309.ts
-#EXTINF:-1,UK : SKY BOX OFFICE 2 (PPV)
-http://149.56.240.30:25461/live/EAS12/1111/5308.ts
-#EXTINF:-1,UK : SKY SPORTS BOX OFFICE PPV
-http://149.56.240.30:25461/live/EAS12/1111/3558.ts
-#EXTINF:-1,Sports : RED FC TV ( LIVE ON MATCHES )
-http://149.56.240.30:25461/live/EAS12/1111/5307.ts
-#EXTINF:-1,Sports : CELTIC FC TV ( LIVE ON MATCHES )
-http://149.56.240.30:25461/live/EAS12/1111/3597.ts
-#EXTINF:-1,Sports : DUNDEE FC TV ( LIVE ON MATCHES )
-http://149.56.240.30:25461/live/EAS12/1111/3596.ts
-#EXTINF:-1,Sports: Celtic FC TV ( LIive On Matches )
-http://149.56.240.30:25461/live/EAS12/1111/2096.ts
-#EXTINF:-1,Sports: RANGERS FC TV ( LIVE ON MATCHES UK)
-http://149.56.240.30:25461/live/EAS12/1111/1343.ts
-#EXTINF:-1,Sports : ABERDEEN FC TV ( LIVE ON MATCHES )
-http://149.56.240.30:25461/live/EAS12/1111/3600.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD 6 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3549.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD5 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3544.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD4 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3545.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD3 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3546.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD2 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3547.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD 7 ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3548.ts
-#EXTINF:-1,US: NBC EXTRA TIME HD ( MATCH TIME )
-http://149.56.240.30:25461/live/EAS12/1111/3550.ts
+#EXTINF:-1,Itv 1
+http://xc.cobra-iptv.com:25461/live/latino/latino/601.ts
+#EXTINF:-1,Itv 2
+http://xc.cobra-iptv.com:25461/live/latino/latino/602.ts
+#EXTINF:-1,Itv 3
+http://xc.cobra-iptv.com:25461/live/latino/latino/603.ts
+#EXTINF:-1,Itv 4
+http://xc.cobra-iptv.com:25461/live/latino/latino/2436.ts
+#EXTINF:-1,Itv Be
+http://xc.cobra-iptv.com:25461/live/latino/latino/604.ts
+#EXTINF:-1,E4
+http://xc.cobra-iptv.com:25461/live/latino/latino/1448.ts
+#EXTINF:-1,Channel 4
+http://xc.cobra-iptv.com:25461/live/latino/latino/622.ts
+#EXTINF:-1,Channel 5
+http://xc.cobra-iptv.com:25461/live/latino/latino/623.ts
+#EXTINF:-1,British Muslim
+http://xc.cobra-iptv.com:25461/live/latino/latino/659.ts
+#EXTINF:-1,Film 4
+http://xc.cobra-iptv.com:25461/live/latino/latino/610.ts
+#EXTINF:-1,Fox
+http://xc.cobra-iptv.com:25461/live/latino/latino/619.ts
+#EXTINF:-1,E! Entertainment
+http://xc.cobra-iptv.com:25461/live/latino/latino/618.ts
+#EXTINF:-1,Cbs Reality
+http://xc.cobra-iptv.com:25461/live/latino/latino/611.ts
+#EXTINF:-1,Gold
+http://xc.cobra-iptv.com:25461/live/latino/latino/621.ts
+#EXTINF:-1,3e
+http://xc.cobra-iptv.com:25461/live/latino/latino/614.ts
+#EXTINF:-1,Alibi
+http://xc.cobra-iptv.com:25461/live/latino/latino/631.ts
+#EXTINF:-1,Drama
+http://xc.cobra-iptv.com:25461/live/latino/latino/687.ts
+#EXTINF:-1,Yesterday
+http://xc.cobra-iptv.com:25461/live/latino/latino/613.ts
+#EXTINF:-1,Bt Sport 1
+http://xc.cobra-iptv.com:25461/live/latino/latino/645.ts
+#EXTINF:-1,Bt Sport 2
+http://xc.cobra-iptv.com:25461/live/latino/latino/646.ts
+#EXTINF:-1,Bt Sport 3
+http://xc.cobra-iptv.com:25461/live/latino/latino/642.ts
+#EXTINF:-1,Bt Sport Europe
+http://xc.cobra-iptv.com:25461/live/latino/latino/644.ts
+#EXTINF:-1,Liverpool
+http://xc.cobra-iptv.com:25461/live/latino/latino/658.ts
+#EXTINF:-1,Mutv
+http://xc.cobra-iptv.com:25461/live/latino/latino/660.ts
+#EXTINF:-1,At The Race
+http://xc.cobra-iptv.com:25461/live/latino/latino/661.ts
+#EXTINF:-1,Ngc
+http://xc.cobra-iptv.com:25461/live/latino/latino/648.ts
+#EXTINF:-1,Ngc Wild
+http://xc.cobra-iptv.com:25461/live/latino/latino/649.ts
+#EXTINF:-1,Discovery
+http://xc.cobra-iptv.com:25461/live/latino/latino/651.ts
+#EXTINF:-1,Discovery History
+http://xc.cobra-iptv.com:25461/live/latino/latino/654.ts
+#EXTINF:-1,Discovery Home & Health
+http://xc.cobra-iptv.com:25461/live/latino/latino/655.ts
+#EXTINF:-1,Discovery Science
+http://xc.cobra-iptv.com:25461/live/latino/latino/653.ts
+#EXTINF:-1,Discovery ID
+http://xc.cobra-iptv.com:25461/live/latino/latino/652.ts
+#EXTINF:-1,Animal Planet
+http://xc.cobra-iptv.com:25461/live/latino/latino/656.ts
+#EXTINF:-1,TLC
+http://xc.cobra-iptv.com:25461/live/latino/latino/620.ts
+#EXTINF:-1,Eden
+http://xc.cobra-iptv.com:25461/live/latino/latino/628.ts
+#EXTINF:-1,History
+http://xc.cobra-iptv.com:25461/live/latino/latino/612.ts
+#EXTINF:-1,Food Network
+http://xc.cobra-iptv.com:25461/live/latino/latino/657.ts
+#EXTINF:-1,Mtv
+http://xc.cobra-iptv.com:25461/live/latino/latino/629.ts
+#EXTINF:-1,Mtv Hits
+http://xc.cobra-iptv.com:25461/live/latino/latino/630.ts
+#EXTINF:-1,Viva
+http://xc.cobra-iptv.com:25461/live/latino/latino/627.ts
+#EXTINF:-1,Disney Channel
+http://xc.cobra-iptv.com:25461/live/latino/latino/685.ts
+#EXTINF:-1,Disney XD
+http://xc.cobra-iptv.com:25461/live/latino/latino/650.ts
+#EXTINF:-1,Disney Junior
+http://xc.cobra-iptv.com:25461/live/latino/latino/715.ts
+#EXTINF:-1,Nickelodeon
+http://xc.cobra-iptv.com:25461/live/latino/latino/640.ts
+#EXTINF:-1,Cartoon Network
+http://xc.cobra-iptv.com:25461/live/latino/latino/639.ts
+#EXTINF:-1,Boomerang
+http://xc.cobra-iptv.com:25461/live/latino/latino/641.ts
+#EXTINF:-1,Euronews
+http://xc.cobra-iptv.com:25461/live/latino/latino/2435.ts
+#EXTINF:-1,CNN
+http://xc.cobra-iptv.com:25461/live/latino/latino/2438.ts
+#EXTINF:-1,BBC One
+http://xc.cobra-iptv.com:25461/live/latino/latino/605.ts
+#EXTINF:-1,BBC Two
+http://xc.cobra-iptv.com:25461/live/latino/latino/606.ts
+#EXTINF:-1,BBC News
+http://xc.cobra-iptv.com:25461/live/latino/latino/608.ts
+#EXTINF:-1,BBC Parliament
+http://xc.cobra-iptv.com:25461/live/latino/latino/609.ts
+#EXTINF:-1,Channel Aka
+http://xc.cobra-iptv.com:25461/live/latino/latino/624.ts
+#EXTINF:-1,5 Usa
+http://xc.cobra-iptv.com:25461/live/latino/latino/617.ts
+#EXTINF:-1,Utv
+http://xc.cobra-iptv.com:25461/live/latino/latino/626.ts
+#EXTINF:-1,Box Nation
+http://xc.cobra-iptv.com:25461/live/latino/latino/2431.ts
+#EXTINF:-1,Espn
+http://xc.cobra-iptv.com:25461/live/latino/latino/643.ts
