@@ -12,12 +12,14 @@
 
 
 
-<dir>
-<name></name>
-<link>https://raw.githubusercontent.com.xml</link>
+<plugin>
+<name>       </name>
+<link></link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
-</dir>
+</plugin>
+
+
 
 
 
