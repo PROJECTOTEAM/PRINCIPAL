@@ -4,7 +4,7 @@
 
 
 <plugin>
-<name>                     [COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR] [COLOR lime]WEB STREAM[/COLOR] </name>
+<name>                     [COLOR cyan]TV[/COLOR]-[COLOR red]SUPERTUGA[/COLOR]   [COLOR lime]WEB STREAM[/COLOR] </name>
 <link>plugin://script.module.webstreams</link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
@@ -14,7 +14,7 @@
 
 <plugin>
 <name>       </name>
-<link></link>
+<link>plugin://script.module.123456789</link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
 </plugin>
