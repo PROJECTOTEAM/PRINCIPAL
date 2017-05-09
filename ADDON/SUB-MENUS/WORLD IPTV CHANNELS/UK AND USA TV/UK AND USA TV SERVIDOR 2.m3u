@@ -9,130 +9,178 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,UK: BBC One
+http://ndasat.pro:8000/live/aminstars/skypeexch/488.ts
+#EXTINF:-1,UK: BBC Two
+http://ndasat.pro:8000/live/aminstars/skypeexch/489.ts
+#EXTINF:-1,UK: BBC Three
+http://ndasat.pro:8000/live/aminstars/skypeexch/2671.ts
+#EXTINF:-1,UK: BBC Four
+http://ndasat.pro:8000/live/aminstars/skypeexch/491.ts
+#EXTINF:-1,UK: RTE 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/497.ts
+#EXTINF:-1,UK: RTE 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/498.ts
+#EXTINF:-1,UK: SKY SPORT 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/2494.ts
+#EXTINF:-1,UK: SKY SPORT 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/2495.ts
+#EXTINF:-1,UK: SKY SPORT 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/2496.ts
+#EXTINF:-1,UK: SKY SPORT 4
+http://ndasat.pro:8000/live/aminstars/skypeexch/2497.ts
+#EXTINF:-1,UK:  BT Sport 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/2505.ts
+#EXTINF:-1,UK: ITV 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/492.ts
+#EXTINF:-1,UK: ITV 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/493.ts
+#EXTINF:-1,UK: ITV 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/494.ts
+#EXTINF:-1,UK: ITV 4
+http://ndasat.pro:8000/live/aminstars/skypeexch/495.ts
+#EXTINF:-1,UK: ITV BE
+http://ndasat.pro:8000/live/aminstars/skypeexch/496.ts
+#EXTINF:-1,UK: True Movies
+http://ndasat.pro:8000/live/aminstars/skypeexch/499.ts
+#EXTINF:-1,UK:  True.Movie.1
+http://ndasat.pro:8000/live/aminstars/skypeexch/2510.ts
+#EXTINF:-1,UK: _True_Movies_2
+http://ndasat.pro:8000/live/aminstars/skypeexch/2511.ts
+#EXTINF:-1,UK: Sky Thriller
+http://ndasat.pro:8000/live/aminstars/skypeexch/501.ts
+#EXTINF:-1,UK: Sky Comedy
+http://ndasat.pro:8000/live/aminstars/skypeexch/504.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://ndasat.pro:8000/live/aminstars/skypeexch/505.ts
+#EXTINF:-1,UK: Sky Living
+http://ndasat.pro:8000/live/aminstars/skypeexch/502.ts
+#EXTINF:-1,UK: Sky Action
+http://ndasat.pro:8000/live/aminstars/skypeexch/506.ts
+#EXTINF:-1,UK: Baby TV
+http://ndasat.pro:8000/live/aminstars/skypeexch/522.ts
+#EXTINF:-1,UK: CBS Action
+http://ndasat.pro:8000/live/aminstars/skypeexch/518.ts
+#EXTINF:-1,UK: CBS Reality
+http://ndasat.pro:8000/live/aminstars/skypeexch/517.ts
+#EXTINF:-1,UK: Discovery Science
+http://ndasat.pro:8000/live/aminstars/skypeexch/512.ts
+#EXTINF:-1,UK: Comedy Central
+http://ndasat.pro:8000/live/aminstars/skypeexch/516.ts
+#EXTINF:-1,UK: Discovery History
+http://ndasat.pro:8000/live/aminstars/skypeexch/514.ts
+#EXTINF:-1,UK: Sky Movies Modern HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2520.ts
+#EXTINF:-1,UK: _Sky.Movies.Family.UK
+http://ndasat.pro:8000/live/aminstars/skypeexch/2521.ts
+#EXTINF:-1,UK: _Sky.Movies.Action.&.Adventure
+http://ndasat.pro:8000/live/aminstars/skypeexch/2523.ts
+#EXTINF:-1,UK: _Sky.Movies.Sci-Fi.&.Horror
+http://ndasat.pro:8000/live/aminstars/skypeexch/2518.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://ndasat.pro:8000/live/aminstars/skypeexch/2528.ts
+#EXTINF:-1,UK:  Eurosport 2 UK
+http://ndasat.pro:8000/live/aminstars/skypeexch/2527.ts
+#EXTINF:-1,UK: Disney XD
+http://ndasat.pro:8000/live/aminstars/skypeexch/510.ts
+#EXTINF:-1,UK: Cartoon Network
+http://ndasat.pro:8000/live/aminstars/skypeexch/520.ts
+#EXTINF:-1,UK: Alibi
+http://ndasat.pro:8000/live/aminstars/skypeexch/519.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://ndasat.pro:8000/live/aminstars/skypeexch/509.ts
+#EXTINF:-1,UK: _Animal.Planet.UK
+http://ndasat.pro:8000/live/aminstars/skypeexch/2533.ts
+#EXTINF:-1,UK: Discovery
+http://ndasat.pro:8000/live/aminstars/skypeexch/515.ts
+#EXTINF:-1,UK: Discovery Channel
+http://ndasat.pro:8000/live/aminstars/skypeexch/2532.ts
+#EXTINF:-1,UK: VH1
+http://ndasat.pro:8000/live/aminstars/skypeexch/507.ts
+#EXTINF:-1,UK: Boomerang HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/521.ts
+#EXTINF:-1,UK: Disney Channel
+http://ndasat.pro:8000/live/aminstars/skypeexch/511.ts
+#EXTINF:-1,UK: Nick JR
+http://ndasat.pro:8000/live/aminstars/skypeexch/508.ts
+#EXTINF:-1,US:  TSN 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/1097.ts
+#EXTINF:-1,US:  TSN 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1124.ts
+#EXTINF:-1,US:  TSN 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/1125.ts
+#EXTINF:-1,US: TSN 4
+http://ndasat.pro:8000/live/aminstars/skypeexch/1126.ts
+#EXTINF:-1,US:  TSN 5
+http://ndasat.pro:8000/live/aminstars/skypeexch/1127.ts
+#EXTINF:-1,US:  TBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1129.ts
+#EXTINF:-1,US:  CBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1095.ts
+#EXTINF:-1,US: AMC HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1120.ts
+#EXTINF:-1,US:  ABC Spark
+http://ndasat.pro:8000/live/aminstars/skypeexch/1122.ts
+#EXTINF:-1,US:  ABC HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1123.ts
+#EXTINF:-1,US: HISTORY
+http://ndasat.pro:8000/live/aminstars/skypeexch/1133.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1108.ts
+#EXTINF:-1,US: TNT HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1128.ts
+#EXTINF:-1,US:  WILLOW CRICKET HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1102.ts
+#EXTINF:-1,US:  SYFY HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1130.ts
+#EXTINF:-1,US: SPIKE HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1131.ts
+#EXTINF:-1,US:  PBS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1096.ts
+#EXTINF:-1,US:  NFL Network
+http://ndasat.pro:8000/live/aminstars/skypeexch/1107.ts
+#EXTINF:-1,US: Network HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1132.ts
+#EXTINF:-1,US:  NBC SPORT
+http://ndasat.pro:8000/live/aminstars/skypeexch/1137.ts
+#EXTINF:-1,US:  NBA Network
+http://ndasat.pro:8000/live/aminstars/skypeexch/1116.ts
+#EXTINF:-1,US: NAT GEOGRAPHIC
+http://ndasat.pro:8000/live/aminstars/skypeexch/1135.ts
+#EXTINF:-1,US: LIFETIME HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1117.ts
+#EXTINF:-1,US:  FX HD USA
+http://ndasat.pro:8000/live/aminstars/skypeexch/1098.ts
+#EXTINF:-1,US:  Fox Sport 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1138.ts
+#EXTINF:-1,US:  Fox Sport 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1139.ts
+#EXTINF:-1,US:  ESPN HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1136.ts
+#EXTINF:-1,US:  ESPN 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1118.ts
+#EXTINF:-1,US:  DISCCOVERY
+http://ndasat.pro:8000/live/aminstars/skypeexch/1134.ts
+#EXTINF:-1,US: CW HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1094.ts
+#EXTINF:-1,US:  Cinemax East
+http://ndasat.pro:8000/live/aminstars/skypeexch/1111.ts
+#EXTINF:-1,US: CBN News
+http://ndasat.pro:8000/live/aminstars/skypeexch/1113.ts
+#EXTINF:-1,US: Bravo HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1114.ts
 
 
-#EXTINF:-1,||UK||ALIBI
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/83.ts
-#EXTINF:-1,||UK||ANIMAL.PLANET
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/5.ts
-#EXTINF:-1,||UK||AT.THE .RACES
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/82.ts
-#EXTINF:-1,||UK||BBC.NEWS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/18.ts
-#EXTINF:-1,||UK||BBC1HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/14.ts
-#EXTINF:-1,||UK||BBC.2HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/15.ts
-#EXTINF:-1,||UK||BBC.3HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/16.ts
-#EXTINF:-1,||UK||BBC4.HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/78.ts
-#EXTINF:-1,||UK||CARTOON.NETWORK
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/94.ts
-#EXTINF:-1,||UK||CBS.ACTION
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/76.ts
-#EXTINF:-1,||UK||CBS.DRAMA
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/75.ts
-#EXTINF:-1,||UK||CBS.REALITY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/24.ts
-#EXTINF:-1,||UK||CHAEALSE.TV
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/72.ts
-#EXTINF:-1,||UK||COLORS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/70.ts
-#EXTINF:-1,||UK||COMEDY.CENTRAL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/69.ts
-#EXTINF:-1,||UK||DISCOVERY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/123.ts
-#EXTINF:-1,||UK||DISCOVERY.INVERSTIGATION
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/65.ts
-#EXTINF:-1,||UK||DISCOVERY.HISTORY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/67.ts
-#EXTINF:-1,||UK||DISNEY.JR
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/91.ts
-#EXTINF:-1,||UK||DISNEY.XD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/90.ts
-#EXTINF:-1,||UK||E4
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/86.ts
-#EXTINF:-1,||UK||FILM4
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/35.ts
-#EXTINF:-1,||UK||MAN-UN
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/53.ts
-#EXTINF:-1,||UK||MOTORS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/51.ts
-#EXTINF:-1,||UK||Movie4Men
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/122.ts
-#EXTINF:-1,||UK||MTV.HITS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/89.ts
-#EXTINF:-1,||UK||MTV.ROCKS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/50.ts
-#EXTINF:-1,||UK||NAT.GEO
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/117.ts
-#EXTINF:-1,||UK||NATIONALGEO.WILD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/116.ts
-#EXTINF:-1,||UK||NICK.JR
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/49.ts
-#EXTINF:-1,||UK||REALLY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/88.ts
-#EXTINF:-1,||UK|| RTE1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/43.ts
-#EXTINF:-1,||UK|| RTE2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/42.ts
-#EXTINF:-1,||UK||SKY.ARTS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/77.ts
-#EXTINF:-1,||UK||SKY.ATLANTIC
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/113.ts
-#EXTINF:-1,||UK||SKY.LIVING
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/110.ts
-#EXTINF:-1,||UK||MOVIES.DISNEY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/107.ts
-#EXTINF:-1,||UK||SKY.MOVIES.FAMILY
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/105.ts
-#EXTINF:-1,||UK||SKY.MOVIES.SC-FI
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/102.ts
-#EXTINF:-1,||UK||SKY.NEWS
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/37.ts
-#EXTINF:-1,||UK||EUROSPORT1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/63.ts
-#EXTINF:-1,||UK||EUROSPORT2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/62.ts
-#EXTINF:-1,||UK||BOX.NATION
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/120.ts
-#EXTINF:-1,||UK||BTSPORTESPN
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/54.ts
-#EXTINF:-1,||UK||BT.SPORT.EUROPE
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/21.ts
-#EXTINF:-1,||UK||BT.SPORT1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/19.ts
-#EXTINF:-1,||UK||BT.SPORT2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/20.ts
-#EXTINF:-1,||UK||PREMIER.SPORT
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/115.ts
-#EXTINF:-1,||UK||SETANTA.SPORT
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/114.ts
-#EXTINF:-1,||UK||SKY.SPORT1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/100.ts
-#EXTINF:-1,||UK||SKY.SPORT2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/99.ts
-#EXTINF:-1,||UK||SKY.SPORT3
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/98.ts
-#EXTINF:-1,||UK||SKY.SPORT4
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/97.ts
-#EXTINF:-1,||UK||SKY.SPORT5
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/96.ts
-#EXTINF:-1,||UK||SKY.SPORT.NEWS.HD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/31.ts
-#EXTINF:-1,||UK||SKY2_
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/30.ts
-#EXTINF:-1,||UK||TRUE.MOVIES1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/11.ts
-#EXTINF:-1,||UK||TRUE.MOVIES2
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/10.ts
-#EXTINF:-1,||UK||UNIVERSAL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/8.ts
-#EXTINF:-1,||UK||VH-1
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/64.ts
-#EXTINF:-1,||UK||WATCH
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/7.ts
+
+
+
+
+
+
+
+
+
+
 
 
 

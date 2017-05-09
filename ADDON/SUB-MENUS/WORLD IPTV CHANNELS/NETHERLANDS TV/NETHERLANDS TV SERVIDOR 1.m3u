@@ -7,62 +7,95 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,13TH.STREET_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/662.ts
-#EXTINF:-1,24KITCHEN_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/635.ts
-#EXTINF:-1,COMEDY.CENTRAL_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/661.ts
-#EXTINF:-1,COMEDY.CENTRAL.EXTRA_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/660.ts
-#EXTINF:-1,EURO.SPORT1_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/658.ts
-#EXTINF:-1,FILM1.ACTION_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/657.ts
-#EXTINF:-1,FILM1.COMEDY_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/656.ts
-#EXTINF:-1,FILM1.SPOTLIGHT_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/654.ts
-#EXTINF:-1,FILM1.SUNDANCE_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/653.ts
-#EXTINF:-1,FOX_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/652.ts
-#EXTINF:-1,FOX.SPORT1_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/651.ts
-#EXTINF:-1,FOX.SPORT2_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/650.ts
-#EXTINF:-1,FOX.SPORT5_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/647.ts
-#EXTINF:-1,FOX.SPORT6_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/646.ts
-#EXTINF:-1,NET5_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/643.ts
-#EXTINF:-1,NPO2_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/641.ts
-#EXTINF:-1,NPO3_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/640.ts
-#EXTINF:-1,RTL5_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/638.ts
-#EXTINF:-1,RTL7_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/637.ts
-#EXTINF:-1,TLC_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/632.ts
-#EXTINF:-1,VERONICA.DISNEY.XD
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/631.ts
-#EXTINF:-1,FILM1.PREMIER_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/622.ts
-#EXTINF:-1,HBO-1_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/620.ts
-#EXTINF:-1,HBO-2_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/619.ts
-#EXTINF:-1,HBO-3_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/621.ts
-#EXTINF:-1,NPO1_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/618.ts
-#EXTINF:-1,RTL8_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/617.ts
-#EXTINF:-1,SBS6_NL
-http://fluence.mypets.ws:25461/live/live:kifa.sh/EJt4jWaebB/616.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,NL: NPO 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/1176.ts
+#EXTINF:-1,NL: NPO 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/1178.ts
+#EXTINF:-1,NL: HBO 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/1173.ts
+#EXTINF:-1,NL: HBO 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1174.ts
+#EXTINF:-1,NL: HBO 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/1175.ts
+#EXTINF:-1,NL: RTL 4
+http://ndasat.pro:8000/live/aminstars/skypeexch/1179.ts
+#EXTINF:-1,NL: RTL 5
+http://ndasat.pro:8000/live/aminstars/skypeexch/1180.ts
+#EXTINF:-1,NL: RTL 7
+http://ndasat.pro:8000/live/aminstars/skypeexch/1183.ts
+#EXTINF:-1,NL: RTL 8
+http://ndasat.pro:8000/live/aminstars/skypeexch/1182.ts
+#EXTINF:-1,NL: SBS 9
+http://ndasat.pro:8000/live/aminstars/skypeexch/1184.ts
+#EXTINF:-1,NL: SBS 6
+http://ndasat.pro:8000/live/aminstars/skypeexch/1181.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://ndasat.pro:8000/live/aminstars/skypeexch/1186.ts
+#EXTINF:-1,NL: Ziggo Sport Select
+http://ndasat.pro:8000/live/aminstars/skypeexch/1187.ts
+#EXTINF:-1,NL: Veronica
+http://ndasat.pro:8000/live/aminstars/skypeexch/1185.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://ndasat.pro:8000/live/aminstars/skypeexch/1188.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1189.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://ndasat.pro:8000/live/aminstars/skypeexch/1190.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://ndasat.pro:8000/live/aminstars/skypeexch/1171.ts
+#EXTINF:-1,NL: Film 1 Premiere
+http://ndasat.pro:8000/live/aminstars/skypeexch/1169.ts
+#EXTINF:-1,NL: Film 1 Action
+http://ndasat.pro:8000/live/aminstars/skypeexch/1168.ts
+
+
+
+
+
+
+
+#EXTINF:-1,BE: LA UNE HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/750.ts
+#EXTINF:-1,BE: LA DEUX HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/751.ts
+#EXTINF:-1,BE: LA TROIS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/752.ts
+#EXTINF:-1,BE: AB3
+http://ndasat.pro:8000/live/aminstars/skypeexch/2346.ts
+#EXTINF:-1,BE: RTL TVI HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/753.ts
+#EXTINF:-1,BE: PLUG RTL
+http://ndasat.pro:8000/live/aminstars/skypeexch/754.ts
+#EXTINF:-1,BE: CLUB RTL HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/755.ts
+#EXTINF:-1,BE: Bruxelles TV
+http://ndasat.pro:8000/live/aminstars/skypeexch/2776.ts
+#EXTINF:-1,BE: 2be TV
+http://ndasat.pro:8000/live/aminstars/skypeexch/2774.ts
+#EXTINF:-1,BE: VTM HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/760.ts
+#EXTINF:-1,BE: EEN
+http://ndasat.pro:8000/live/aminstars/skypeexch/2734.ts
+#EXTINF:-1,BE: Canvas HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/757.ts
+#EXTINF:-1,BE: KETNET
+http://ndasat.pro:8000/live/aminstars/skypeexch/2815.ts
+#EXTINF:-1,BE: VITAYA
+http://ndasat.pro:8000/live/aminstars/skypeexch/759.ts
+#EXTINF:-1,BE: VIER HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/758.ts
+#EXTINF:-1,NL: Ziggo Sport tv
+http://ndasat.pro:8000/live/aminstars/skypeexch/2858.ts
+#EXTINF:-1,BE: CINEMA 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2813.ts
 
 
 

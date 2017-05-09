@@ -1,7 +1,245 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 07-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,IT: RAI 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1227.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1228.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1229.ts
+#EXTINF:-1,IT: RAI 4 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1230.ts
+#EXTINF:-1,IT: RAI 5 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1231.ts
+#EXTINF:-1,IT: RAI GULP
+http://ndasat.pro:8000/live/aminstars/skypeexch/1234.ts
+#EXTINF:-1,IT: RAI MOVIE
+http://ndasat.pro:8000/live/aminstars/skypeexch/1233.ts
+#EXTINF:-1,IT: RAI NEWS
+http://ndasat.pro:8000/live/aminstars/skypeexch/1232.ts
+#EXTINF:-1,IT: RAI_SPORT_1
+http://ndasat.pro:8000/live/aminstars/skypeexch/1236.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://ndasat.pro:8000/live/aminstars/skypeexch/1237.ts
+#EXTINF:-1,IT: RAI PREMIUM HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1271.ts
+#EXTINF:-1,IT: RAI YOYO
+http://ndasat.pro:8000/live/aminstars/skypeexch/1235.ts
+#EXTINF:-1,IT: RETE 4 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1240.ts
+#EXTINF:-1,IT: RSI LA 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1238.ts
+#EXTINF:-1,IT: RSI LA 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1239.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://ndasat.pro:8000/live/aminstars/skypeexch/1241.ts
+#EXTINF:-1,IT: MILAN CHANNEL
+http://ndasat.pro:8000/live/aminstars/skypeexch/1263.ts
+#EXTINF:-1,IT: SKY_ARTE_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1277.ts
+#EXTINF:-1,IT: SKY_ATLANTIC_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1276.ts
+#EXTINF:-1,IT: SKY AXN HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1275.ts
+#EXTINF:-1,IT: SKY CIELO
+http://ndasat.pro:8000/live/aminstars/skypeexch/1274.ts
+#EXTINF:-1,IT: SKY CINEMA 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2896.ts
+#EXTINF:-1,IT: SKY CINEMA COMEDY HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2900.ts
+#EXTINF:-1,IT: SKY CINEMA CULT HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2899.ts
+#EXTINF:-1,IT: SKY CINEMA HITS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2902.ts
+#EXTINF:-1,IT: SKY CINEMA MAX HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2901.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/2898.ts
+#EXTINF:-1,IT: SKY CINEMA 24 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1304.ts
+#EXTINF:-1,IT: SKY FOX CRIME HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1272.ts
+#EXTINF:-1,IT: SKY TG 24 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1270.ts
+#EXTINF:-1,IT: SKY UNO HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1269.ts
+#EXTINF:-1,IT: SKY CALCIO 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1256.ts
+#EXTINF:-1,IT: Sky_Calcio_2_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1257.ts
+#EXTINF:-1,IT: SKY CALCIO 3 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1258.ts
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1259.ts
+#EXTINF:-1,IT: SKY_CALCIO_5_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1260.ts
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1261.ts
+#EXTINF:-1,IT: SKY CALCIO 7 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1262.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1250.ts
+#EXTINF:-1,IT: SKY_SPORT_2_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1251.ts
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1255.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1252.ts
+#EXTINF:-1,IT: SKY SPORT MOTO GP HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1254.ts
+#EXTINF:-1,IT: SKY SPORTS F1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1253.ts
+#EXTINF:-1,IT: SUPER CALCIO HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1268.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1267.ts
+#EXTINF:-1,IT: PREMIUM ACTION 24
+http://ndasat.pro:8000/live/aminstars/skypeexch/1324.ts
+#EXTINF:-1,IT: PREMIUM ACTION HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1328.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1306.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1307.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_3_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1308.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_4_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1309.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 5 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1310.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_6_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1311.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1305.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1326.ts
+#EXTINF:-1,IT: PREMIUM_CINEMA_24
+http://ndasat.pro:8000/live/aminstars/skypeexch/1325.ts
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1323.ts
+#EXTINF:-1,IT: PREMIUM_CINEMA_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1322.ts
+#EXTINF:-1,IT: PREMIUM_COMEDY_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1321.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://ndasat.pro:8000/live/aminstars/skypeexch/1319.ts
+#EXTINF:-1,IT: PREMIUM_CRIME_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1320.ts
+#EXTINF:-1,IT: Premium DISNEY CHANNEL HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1316.ts
+#EXTINF:-1,IT: PREMIUM_EMOTION
+http://ndasat.pro:8000/live/aminstars/skypeexch/1318.ts
+#EXTINF:-1,IT: PREMIUM JOI
+http://ndasat.pro:8000/live/aminstars/skypeexch/1313.ts
+#EXTINF:-1,IT: PREMIUM_JOY
+http://ndasat.pro:8000/live/aminstars/skypeexch/1314.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1312.ts
+#EXTINF:-1,IT: PREMIUM STORIES
+http://ndasat.pro:8000/live/aminstars/skypeexch/1284.ts
+#EXTINF:-1,IT: Premium STUDIO UNIVERSAL
+http://ndasat.pro:8000/live/aminstars/skypeexch/1317.ts
+#EXTINF:-1,IT: PREMIUM CARTOON NETWORK
+http://ndasat.pro:8000/live/aminstars/skypeexch/1327.ts
+#EXTINF:-1,IT: Premium_Disney_Junior
+http://ndasat.pro:8000/live/aminstars/skypeexch/1315.ts
+#EXTINF:-1,IT: ALICE
+http://ndasat.pro:8000/live/aminstars/skypeexch/1243.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1247.ts
+#EXTINF:-1,IT: Canale_7
+http://ndasat.pro:8000/live/aminstars/skypeexch/1246.ts
+#EXTINF:-1,IT: ITALIA 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1242.ts
+#EXTINF:-1,IT: La 5
+http://ndasat.pro:8000/live/aminstars/skypeexch/1244.ts
+#EXTINF:-1,IT: La 7
+http://ndasat.pro:8000/live/aminstars/skypeexch/1245.ts
+#EXTINF:-1,IT: ANIMAL_PLANETE
+http://ndasat.pro:8000/live/aminstars/skypeexch/1287.ts
+#EXTINF:-1,IT: CARTOONITO
+http://ndasat.pro:8000/live/aminstars/skypeexch/1288.ts
+#EXTINF:-1,IT: CRIME NVESTIGATION HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1294.ts
+#EXTINF:-1,IT: DISCOVERY HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1293.ts
+#EXTINF:-1,IT: DISCOVERY SCIENCE
+http://ndasat.pro:8000/live/aminstars/skypeexch/1280.ts
+#EXTINF:-1,IT: DISCOVERY Travel & Living
+http://ndasat.pro:8000/live/aminstars/skypeexch/1278.ts
+#EXTINF:-1,IT: Disney HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1292.ts
+#EXTINF:-1,IT: DISNEY_XD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1291.ts
+#EXTINF:-1,IT: DMAX HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1290.ts
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1265.ts
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1264.ts
+#EXTINF:-1,IT: FOX ANIMATION HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1289.ts
+#EXTINF:-1,IT: FOX HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1286.ts
+#EXTINF:-1,IT: FOX LIFE HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1285.ts
+#EXTINF:-1,IT: NAT GEOGRAPHIC HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1281.ts
+#EXTINF:-1,IT: NATIONALGEO PEOPLE HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1283.ts
+#EXTINF:-1,IT: NATIONALGEO WILD HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1282.ts
+#EXTINF:-1,IT: PESCA E CACCIA
+http://ndasat.pro:8000/live/aminstars/skypeexch/1279.ts
+#EXTINF:-1,IT: PRIMAFILA_1_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1209.ts
+#EXTINF:-1,IT: PRIMAFILA 2 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1210.ts
+#EXTINF:-1,IT: PRIMAFILA_3_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1211.ts
+#EXTINF:-1,IT: PRIMAFILA_4_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1212.ts
+#EXTINF:-1,IT: PRIMAFILA 5 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1213.ts
+#EXTINF:-1,IT: PRIMAFILA 6 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1214.ts
+#EXTINF:-1,IT: PRIMAFILA 7 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1215.ts
+#EXTINF:-1,IT: PRIMAFILA_8_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1216.ts
+#EXTINF:-1,IT: PRIMAFILA 9 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1217.ts
+#EXTINF:-1,IT: PRIMAFILA_10_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1218.ts
+#EXTINF:-1,IT: PRIMAFILA 11 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1219.ts
+#EXTINF:-1,IT: PRIMAFILA 12 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1220.ts
+#EXTINF:-1,IT: PRIMAFILA 13 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1221.ts
+#EXTINF:-1,IT: PRIMAFILA 14 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1222.ts
+#EXTINF:-1,IT: PRIMAFILA 15 HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1223.ts
+#EXTINF:-1,IT: PRIMAFILA_16_HD
+http://ndasat.pro:8000/live/aminstars/skypeexch/1224.ts
+
+
+
+
+
+
 
 
 
