@@ -10,102 +10,72 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,NL: RTVDrentheHD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1751.ts
-#EXTINF:-1,NL: RTL 5 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1753.ts
-#EXTINF:-1,NL: RTL 4 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1752.ts
-#EXTINF:-1,NL: NET 5 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1758.ts
-#EXTINF:-1,NL: HBO 3 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1732.ts
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1711.ts
-#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1712.ts
-#EXTINF:-1,NL: ZIGGO SPORT
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1715.ts
-#EXTINF:-1,NL: SPORT 1 VOETBAL
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1720.ts
-#EXTINF:-1,NL: SPORT 1 SELECT
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1721.ts
-#EXTINF:-1,NL: SPORT 1 RACING
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1722.ts
-#EXTINF:-1,NL: SPORT 1 GOLF
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1723.ts
-#EXTINF:-1,NL: VERONICA
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1716.ts
-#EXTINF:-1,NL: SBS 6
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1724.ts
-#EXTINF:-1,NL: TLC
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1718.ts
-#EXTINF:-1,NL: RTL 8
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1727.ts
-#EXTINF:-1,NL: RTL 7
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1728.ts
-#EXTINF:-1,NL: NPO 3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1756.ts
-#EXTINF:-1,NL: NPO 2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1755.ts
-#EXTINF:-1,NL: NPO 1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1754.ts
-#EXTINF:-1,NL: NET 5
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1759.ts
-#EXTINF:-1,NL: KITCHEN
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1731.ts
-#EXTINF:-1,NL: HBO 2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1733.ts
-#EXTINF:-1,NL: FOX TV
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1734.ts
-#EXTINF:-1,NL: FOX SPORTS 3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2330.ts
-#EXTINF:-1,NL: FOX SPORTS 2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2331.ts
-#EXTINF:-1,NL: FOX SPORTS 1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2332.ts
+
+
+#EXTINF:-1,NL:NPO-1
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/512.ts
+#EXTINF:-1,NL:NPO-2
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/917.ts
+#EXTINF:-1,NL:NPO-3
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/511.ts
+#EXTINF:-1,NL:RTL-4
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/510.ts
+#EXTINF:-1,NL:RTL-5
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/509.ts
+#EXTINF:-1,NL:SBS-6
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/506.ts
+#EXTINF:-1,NL:RTL-7
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/508.ts
+#EXTINF:-1,NL:RTL-8
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/507.ts
+#EXTINF:-1,NL:SBS-9
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1037.ts
+#EXTINF:-1,NL: Veronica
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1581.ts
+#EXTINF:-1,NL:HBO 1
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/991.ts
+#EXTINF:-1,NL:HBO2
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/918.ts
+#EXTINF:-1,NL:HBO3
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/919.ts
+#EXTINF:-1,NL: Crime Investigation
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1038.ts
 #EXTINF:-1,NL: FOX
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1709.ts
-#EXTINF:-1,NL: FILM 1 PREMIERE
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1742.ts
-#EXTINF:-1,NL: FILM 1 COMEDY AND KIDS
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1743.ts
-#EXTINF:-1,NL: COMEDY CENTRAL
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1750.ts
-#EXTINF:-1,NL: Omroep Brabant
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4399.ts
-
-
-
-
-#EXTINF:-1,BE  192 TV
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11510.ts
-#EXTINF:-1,BE 2BE HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11491.ts
-#EXTINF:-1,BE ANTENNE CENTRE
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11503.ts
-#EXTINF:-1,BE EEN HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11494.ts
-#EXTINF:-1,BE KETOP12
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11496.ts
-#EXTINF:-1,BE LA DEUX HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11522.ts
-#EXTINF:-1,BE LA TROIS HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11521.ts
-#EXTINF:-1,BE LA UNE HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11523.ts
-#EXTINF:-1,BE NAT.GEO HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11497.ts
-#EXTINF:-1,BE RTC LIEGE
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11506.ts
-#EXTINF:-1,BE RTLTVI  HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11520.ts
-#EXTINF:-1,BE VIER HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11498.ts
-#EXTINF:-1,BE VTM HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11517.ts
-#EXTINF:-1,BE: LA TROIS
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/597.ts
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1036.ts
+#EXTINF:-1,NL:FILM-1-PREMIERE
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/992.ts
+#EXTINF:-1,NL:FILM-1-ACTION
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/993.ts
+#EXTINF:-1,NL: Film1 SUNDANCE
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1355.ts
+#EXTINF:-1,NL: Film1 Family
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1356.ts
+#EXTINF:-1,NL:13th Street
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1002.ts
+#EXTINF:-1,NL:DISNEY CHANNEL
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1001.ts
+#EXTINF:-1,NL:DISCOVERY
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1000.ts
+#EXTINF:-1,NL:FoxSports-1EredivisieHD
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/830.ts
+#EXTINF:-1,NL:FoxSports-2International
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/831.ts
+#EXTINF:-1,NL:FoxSports-3Eredivisie
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/832.ts
+#EXTINF:-1,NL:FoxSport-s4Eredivisie
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/833.ts
+#EXTINF:-1,NL:FoxSports-5Eredivisie
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/834.ts
+#EXTINF:-1,NL:ZIGGO-SPORT1
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/980.ts
+#EXTINF:-1,NL: ZIGGO SELECT
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1949.ts
+#EXTINF:-1,NL: ZIGGO FUTBOL
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1577.ts
+#EXTINF:-1,NL:Sport1-Golf
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1130.ts
+#EXTINF:-1,NL:SPORT1-RACING
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1578.ts
 
 
 
@@ -114,3 +84,62 @@ http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/597.ts
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,BE: LA UNE HD
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/805.ts
+#EXTINF:-1,BE: La deux
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/499.ts
+#EXTINF:-1,BE:La_Trois
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/806.ts
+#EXTINF:-1,BE:RTL_TVI
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/807.ts
+#EXTINF:-1,BE:PLUG_RTL
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/809.ts
+#EXTINF:-1,BE:CLUB RTL
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/808.ts
+#EXTINF:-1,BE:Bruxelles_TV
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/814.ts
+#EXTINF:-1,BE:VOO_FOOT
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/813.ts
+#EXTINF:-1,BE: VIER
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1589.ts
+#EXTINF:-1,BE: KETNET
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1591.ts
+#EXTINF:-1,BE: EEN
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1590.ts
+#EXTINF:-1,BE: 2BE
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1588.ts
+#EXTINF:-1,BE: VTM
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1586.ts
+#EXTINF:-1,BE: VTM KAZOOM
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1587.ts
+#EXTINF:-1,BE:CINE
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/990.ts
+#EXTINF:-1,BE:CINEMA1
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1192.ts
+#EXTINF:-1,BE:CINEMA2
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1193.ts
+#EXTINF:-1,BE:CINE-KIDS
+http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1194.ts
