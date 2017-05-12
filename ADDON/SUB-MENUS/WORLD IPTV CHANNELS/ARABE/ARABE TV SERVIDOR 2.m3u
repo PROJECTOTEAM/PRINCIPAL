@@ -8,127 +8,90 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,ALhayat
-http://213.58.177.102:8081/play/a08z
-#EXTINF:-1,Nile Culture
-http://213.58.177.102:8081/play/a099
-#EXTINF:-1,Nile Drama
-http://213.58.177.102:8081/play/a097
-#EXTINF:-1,Palestine Today
-http://213.58.177.102:8081/play/a08c
-#EXTINF:-1,Mehwer
-http://213.58.177.102:8081/play/a08d
-#EXTINF:-1,Dream2
-http://213.58.177.102:8081/play/a09p
-#EXTINF:-1,Saudi Sport
-http://213.58.177.102:8081/play/a09s
-#EXTINF:-1,AL QUDS
-http://213.58.177.102:8081/play/a09d
-#EXTINF:-1,Rotana Cinema EGY
-http://213.58.177.102:8081/play/a08l
-#EXTINF:-1,Saudi 2
-http://213.58.177.102:8081/play/a09r
-#EXTINF:-1,Cairo cinema
-http://213.58.177.102:8081/play/a08x
-#EXTINF:-1,MBC Action
-http://213.58.177.102:8081/play/a081
-#EXTINF:-1,Palestine Live
-http://213.58.177.102:8081/play/a09k
-#EXTINF:-1,Nile Life
-http://213.58.177.102:8081/play/a096
-#EXTINF:-1,Awdeh
-http://213.58.177.102:8081/play/a09m
-#EXTINF:-1,MBC Masr 2
-http://213.58.177.102:8081/play/a08b
-#EXTINF:-1,Alhurra
-http://213.58.177.102:8081/play/a089
-#EXTINF:-1,LBC SAT
-http://213.58.177.102:8081/play/a08v
-#EXTINF:-1,QOU.EDU
-http://213.58.177.102:8081/play/a09n
-#EXTINF:-1,Al Falstiniah
-http://213.58.177.102:8081/play/a09l
-#EXTINF:-1,MBC4
-http://213.58.177.102:8081/play/a080
-#EXTINF:-1,Althaqafiah
-http://213.58.177.102:8081/play/a09v
-#EXTINF:-1,MBC MAX
-http://213.58.177.102:8081/play/a082
-#EXTINF:-1,Nile Cinema
-http://213.58.177.102:8081/play/a09a
-#EXTINF:-1,MBC1
-http://213.58.177.102:8081/play/a07x
-#EXTINF:-1,Saudi 1
-http://213.58.177.102:8081/play/a09q
-#EXTINF:-1,MBC DRAMA
-http://213.58.177.102:8081/play/a083
-#EXTINF:-1,Nile Sport
-http://213.58.177.102:8081/play/a098
-#EXTINF:-1,MBC3
-http://213.58.177.102:8081/play/a07z
-#EXTINF:-1,Rotana Masriya
-http://213.58.177.102:8081/play/a08k
-#EXTINF:-1,Aleqtisadiah
-http://213.58.177.102:8081/play/a09w
-#EXTINF:-1,Nile Comedy
-http://213.58.177.102:8081/play/a095
-#EXTINF:-1,Al EKhbaria
-http://213.58.177.102:8081/play/a09t
-#EXTINF:-1,Ajyal
-http://213.58.177.102:8081/play/a09u
-#EXTINF:-1,Panorama Film
-http://213.58.177.102:8081/play/a092
-#EXTINF:-1,An-Najah NBC
-http://213.58.177.102:8081/play/a09o
-#EXTINF:-1,Nile Family
-http://213.58.177.102:8081/play/a094
-#EXTINF:-1,AL MAYADEEN TV
-http://213.58.177.102:8081/play/a09h
-#EXTINF:-1,Rotana Classic
-http://213.58.177.102:8081/play/a08j
-#EXTINF:-1,Rotana
-http://213.58.177.102:8081/play/a08g
-#EXTINF:-1,Rotana Khalijiah
-http://213.58.177.102:8081/play/a08i
-#EXTINF:-1,Cairo Drama
-http://213.58.177.102:8081/play/a08w
-#EXTINF:-1,Palestine News
-http://213.58.177.102:8081/play/a09j
-#EXTINF:-1,TOYOR BABY
-http://213.58.177.102:8081/play/a09g
-#EXTINF:-1,Rotana Clip
-http://213.58.177.102:8081/play/a08h
-#EXTINF:-1,MBC2
-http://213.58.177.102:8081/play/a07y
-#EXTINF:-1,TOYOR AL JANAH
-http://213.58.177.102:8081/play/a09c
-#EXTINF:-1,Nessma
-http://213.58.177.102:8081/play/a090
-#EXTINF:-1,MBC Bollywood
-http://213.58.177.102:8081/play/a07w
-#EXTINF:-1,Palestine
-http://213.58.177.102:8081/play/a08a
-#EXTM3U
-#EXTINF:-1,AL SHASHA CINEMA
-http://62.68.66.246:8002/play/s11
-#EXTINF:-1,MUSIC TV
-http://62.68.66.246:8002/play/s4
-#EXTINF:-1,HD CINEMA
-http://62.68.66.246:8002/play/s9
-#EXTINF:-1,I CINEMA
-http://62.68.66.246:8002/play/s10
-#EXTINF:-1,TIME QURAN
-http://62.68.66.246:8002/play/s6
-#EXTINF:-1,DARBKA AFLAM
-http://62.68.66.246:8002/play/s5
-#EXTINF:-1,KOKKY TV
-http://62.68.66.246:8002/play/s7
-#EXTINF:-1,LCD MOVIES
-http://62.68.66.246:8002/play/s8
 
 
-
-
+#EXTINF:-1,AR | KUWAIT 1
+http://devcon.1dns1.com:8080/live/miki/miki/2353.ts
+#EXTINF:-1,AR | SAMA DUBAI
+http://devcon.1dns1.com:8080/live/miki/miki/2360.ts
+#EXTINF:-1,AR | NESSMA TV
+http://devcon.1dns1.com:8080/live/miki/miki/2330.ts
+#EXTINF:-1,AR | MBC MAX
+http://devcon.1dns1.com:8080/live/miki/miki/2346.ts
+#EXTINF:-1,AR | Baghdad TV
+http://devcon.1dns1.com:8080/live/miki/miki/2345.ts
+#EXTINF:-1,AR | AL JAZEERA DOCU
+http://devcon.1dns1.com:8080/live/miki/miki/2344.ts
+#EXTINF:-1,AR | AL JAZEERA
+http://devcon.1dns1.com:8080/live/miki/miki/2343.ts
+#EXTINF:-1,AR | MBC ACTION
+http://devcon.1dns1.com:8080/live/miki/miki/2342.ts
+#EXTINF:-1,AR | MBC 4
+http://devcon.1dns1.com:8080/live/miki/miki/2341.ts
+#EXTINF:-1,AR | MBC 3
+http://devcon.1dns1.com:8080/live/miki/miki/2340.ts
+#EXTINF:-1,AR | MBC 2
+http://devcon.1dns1.com:8080/live/miki/miki/2339.ts
+#EXTINF:-1,AR | MBC 1
+http://devcon.1dns1.com:8080/live/miki/miki/2338.ts
+#EXTINF:-1,AR | DUBAI TV
+http://devcon.1dns1.com:8080/live/miki/miki/2350.ts
+#EXTINF:-1,AR | ROTANA CINEMA
+http://devcon.1dns1.com:8080/live/miki/miki/2334.ts
+#EXTINF:-1,AR | ROTANA CLIP
+http://devcon.1dns1.com:8080/live/miki/miki/2335.ts
+#EXTINF:-1,AR | 2M MAROC
+http://devcon.1dns1.com:8080/live/miki/miki/2336.ts
+#EXTINF:-1,AR | ROTANA MASRIYA
+http://devcon.1dns1.com:8080/live/miki/miki/2361.ts
+#EXTINF:-1,AR | SHARJAH
+http://devcon.1dns1.com:8080/live/miki/miki/2362.ts
+#EXTINF:-1,AR | ROTANA KHALIJIAH
+http://devcon.1dns1.com:8080/live/miki/miki/2359.ts
+#EXTINF:-1,AR | O TV
+http://devcon.1dns1.com:8080/live/miki/miki/2357.ts
+#EXTINF:-1,AR | NOOR DUBAI
+http://devcon.1dns1.com:8080/live/miki/miki/2356.ts
+#EXTINF:-1,AR | ROTANA AFLAM
+http://devcon.1dns1.com:8080/live/miki/miki/2358.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+http://devcon.1dns1.com:8080/live/miki/miki/2333.ts
+#EXTINF:-1,AR | AL ARABIYA
+http://devcon.1dns1.com:8080/live/miki/miki/2337.ts
+#EXTINF:-1,AR | KUWAIT 2
+http://devcon.1dns1.com:8080/live/miki/miki/2354.ts
+#EXTINF:-1,AR | DUBAI ONE
+http://devcon.1dns1.com:8080/live/miki/miki/2349.ts
+#EXTINF:-1,AR | ART CINEMA
+http://devcon.1dns1.com:8080/live/miki/miki/2332.ts
+#EXTINF:-1,AR | LBC INT
+http://devcon.1dns1.com:8080/live/miki/miki/2363.ts
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+http://devcon.1dns1.com:8080/live/miki/miki/3075.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+http://devcon.1dns1.com:8080/live/miki/miki/3068.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+http://devcon.1dns1.com:8080/live/miki/miki/3067.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+http://devcon.1dns1.com:8080/live/miki/miki/3057.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+http://devcon.1dns1.com:8080/live/miki/miki/3058.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+http://devcon.1dns1.com:8080/live/miki/miki/3060.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+http://devcon.1dns1.com:8080/live/miki/miki/3061.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+http://devcon.1dns1.com:8080/live/miki/miki/3073.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+http://devcon.1dns1.com:8080/live/miki/miki/3072.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+http://devcon.1dns1.com:8080/live/miki/miki/3071.ts
+#EXTINF:-1,AR | OSN Movies Action+2 HD
+http://devcon.1dns1.com:8080/live/miki/miki/3062.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+http://devcon.1dns1.com:8080/live/miki/miki/3070.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+http://devcon.1dns1.com:8080/live/miki/miki/3063.ts
 
 
 

@@ -7,132 +7,93 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,PT | TVI
+http://devcon.1dns1.com:8080/live/miki/miki/2804.ts
+#EXTINF:-1,PT | TVCINE 4
+http://devcon.1dns1.com:8080/live/miki/miki/2791.ts
+#EXTINF:-1,PT | TVCINE 3
+http://devcon.1dns1.com:8080/live/miki/miki/2790.ts
+#EXTINF:-1,PT | TVCINE 2
+http://devcon.1dns1.com:8080/live/miki/miki/2789.ts
+#EXTINF:-1,PT | TVCINE 1
+http://devcon.1dns1.com:8080/live/miki/miki/2788.ts
+#EXTINF:-1,PT | SPORTING TV
+http://devcon.1dns1.com:8080/live/miki/miki/2792.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+http://devcon.1dns1.com:8080/live/miki/miki/2807.ts
+#EXTINF:-1,PT | SIC Kids
+http://devcon.1dns1.com:8080/live/miki/miki/2802.ts
+#EXTINF:-1,PT | SIC RADICAL
+http://devcon.1dns1.com:8080/live/miki/miki/2794.ts
+#EXTINF:-1,PT | RTP 2
+http://devcon.1dns1.com:8080/live/miki/miki/2798.ts
+#EXTINF:-1,PT | RTP 1
+http://devcon.1dns1.com:8080/live/miki/miki/2797.ts
+#EXTINF:-1,PT | FOX MOVIE
+http://devcon.1dns1.com:8080/live/miki/miki/2811.ts
+#EXTINF:-1,PT | AXN WHITE HD
+http://devcon.1dns1.com:8080/live/miki/miki/2812.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+http://devcon.1dns1.com:8080/live/miki/miki/2989.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://devcon.1dns1.com:8080/live/miki/miki/2990.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+http://devcon.1dns1.com:8080/live/miki/miki/2991.ts
+#EXTINF:-1,PT | SPORT TV 4 HD
+http://devcon.1dns1.com:8080/live/miki/miki/2992.ts
+#EXTINF:-1,PT | TVI 24
+http://devcon.1dns1.com:8080/live/miki/miki/3080.ts
+#EXTINF:-1,PT | SPORT TV 5 HD
+http://devcon.1dns1.com:8080/live/miki/miki/3087.ts
+#EXTINF:-1,PT | NAT GEO HD
+http://devcon.1dns1.com:8080/live/miki/miki/3101.ts
+#EXTINF:-1,PT | FOX HD
+http://devcon.1dns1.com:8080/live/miki/miki/3098.ts
+#EXTINF:-1,PT | FOX CRIME HD
+http://devcon.1dns1.com:8080/live/miki/miki/3099.ts
+#EXTINF:-1,PT | AXN BLACK HD
+http://devcon.1dns1.com:8080/live/miki/miki/3097.ts
+#EXTINF:-1,PT | A BOLA TV
 
-#EXTINF:-1,PT: TVI REALITY
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8554.ts
-#EXTINF:-1,PT: SPORT TV 5HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8550.ts
-#EXTINF:-1,PT: SPORT TV 4HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8549.ts
-#EXTINF:-1,PT: SPORT TV 3HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8548.ts
-#EXTINF:-1,PT: SPORT TV 2HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8547.ts
-#EXTINF:-1,PT: SPORT TV 1HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8546.ts
-#EXTINF:-1,PT: ODISSEIA.
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8561.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8562.ts
-#EXTINF:-1,PT: NAT GEO WILD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8563.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8564.ts
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8552.ts
-#EXTINF:-1,PT: CANAL HISTORIA
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8569.ts
-#EXTINF:-1,PT: BENFICA TV 1HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8545.ts
-#EXTINF:-1,PT: AXN HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8580.ts
-#EXTINF:-1,PT: VH1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7667.ts
-#EXTINF:-1,PT: TVI_REALITY
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7637.ts
-#EXTINF:-1,PT: Tvi_24
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7636.ts
-#EXTINF:-1,PT: TVI.
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7635.ts
-#EXTINF:-1,PT: Sport_TV_2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7604.ts
-#EXTINF:-1,PT: Sport_TV_1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7605.ts
-#EXTINF:-1,PT: SIC_Radical
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7632.ts
-#EXTINF:-1,PT: SIC_Noticias
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7633.ts
-#EXTINF:-1,PT: SIC
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7634.ts
-#EXTINF:-1,PT: SIC.
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7630.ts
-#EXTINF:-1,PT: RTP_3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7650.ts
-#EXTINF:-1,PT: RTP_2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7648.ts
-#EXTINF:-1,PT: PORTO_CANAL
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7606.ts
-#EXTINF:-1,PT: Odisseia
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7656.ts
-#EXTINF:-1,PT: Nickelodeon
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7646.ts
-#EXTINF:-1,PT: FOX MOVIES_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7619.ts
-#EXTINF:-1,PT: FOX
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7623.ts
-#EXTINF:-1,PT: DISCOVERY_HD_SHOWCASE
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7639.ts
-#EXTINF:-1,PT: Discovery_Channel
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7641.ts
-#EXTINF:-1,PT: CM_TV
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7661.ts
-#EXTINF:-1,PT: CINEMUNDO_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7620.ts
-#EXTINF:-1,PT: Canal_Panda
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7645.ts
-#EXTINF:-1,PT: Canal_Historia
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7670.ts
-#EXTINF:-1,PT: BTV 1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7629.ts
-#EXTINF:-1,PT: Benfica_TV_2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7603.ts
-#EXTINF:-1,PT: BABY_TV
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7665.ts
-#EXTINF:-1,PT: AXN-HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3879.ts
-#EXTINF:-1,PT: AXN_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7625.ts
-#EXTINF:-1,PT: AMC
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7671.ts
-#EXTINF:-1,PT: FoxLifeHD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3868.ts
-#EXTINF:-1,PT: Discovery-HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3873.ts
-#EXTINF:-1,PT: FoxHD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3869.ts
-#EXTINF:-1,PT: Fox-Movies
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3870.ts
-#EXTINF:-1,PT: Fox-Comedy
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3871.ts
-#EXTINF:-1,PT: Disney-Channel
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3872.ts
-#EXTINF:-1,PT: CartoonNetwork
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3875.ts
-#EXTINF:-1,PT: TV_GLOBO_PREMIUN
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7244.ts
-#EXTINF:-1,PT: TV_GLOBO
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7245.ts
-#EXTINF:-1,PT: TV_Cine_3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7230.ts
-#EXTINF:-1,PT: TV_Cine_2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7231.ts
-#EXTINF:-1,PT: TV_Cine_1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7232.ts
-#EXTINF:-1,PT: SYFY
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7237.ts
-#EXTINF:-1,PT: Sport_TV_5
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7234.ts
-#EXTINF:-1,PT: Sport_TV_4
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7235.ts
-#EXTINF:-1,PT: Sport_TV_3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7246.ts
-#EXTINF:-1,PT: Sport_TV1_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7233.ts
-#EXTINF:-1,PT: SPORTING_TV
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7238.ts
-#EXTINF:-1,PT: Sport _TV2_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7228.ts
-#EXTINF:-1,PT: FOX_MOVIES_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7240.ts
-#EXTINF:-1,PT: FOX_CRIME_HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7241.ts
+#EXTINF:-1,CANAL LIGA HD
+http://devcon.1dns1.com:8080/live/miki/miki/921.ts
+#EXTINF:-1,CANAL FUTBALL HD
+http://devcon.1dns1.com:8080/live/miki/miki/919.ts
+#EXTINF:-1,CANAL DEPORTES HD
+http://devcon.1dns1.com:8080/live/miki/miki/918.ts
+#EXTINF:-1,Real Madrid TV
+http://devcon.1dns1.com:8080/live/miki/miki/947.ts
+#EXTINF:-1,BARCA TV
+http://devcon.1dns1.com:8080/live/miki/miki/914.ts
+#EXTINF:-1,BEIN SPORT 1 FR
+http://devcon.1dns1.com:8080/live/miki/miki/954.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+http://devcon.1dns1.com:8080/live/miki/miki/953.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+http://devcon.1dns1.com:8080/live/miki/miki/952.ts
+#EXTINF:-1,FR Eurosport 1
+http://devcon.1dns1.com:8080/live/miki/miki/951.ts
+#EXTINF:-1,FR Eurosport 2
+http://devcon.1dns1.com:8080/live/miki/miki/950.ts
+#EXTINF:-1,AR|BEIN 1 HD
+http://devcon.1dns1.com:8080/live/miki/miki/942.ts
+#EXTINF:-1,AR|BEIN 2 HD
+http://devcon.1dns1.com:8080/live/miki/miki/941.ts
+#EXTINF:-1,AR|BEIN 3 HD
+http://devcon.1dns1.com:8080/live/miki/miki/940.ts
+#EXTINF:-1,AR|BEIN 4 HD
+http://devcon.1dns1.com:8080/live/miki/miki/939.ts
+#EXTINF:-1,AR|BEIN 5 HD
+http://devcon.1dns1.com:8080/live/miki/miki/938.ts
+#EXTINF:-1,AR|BEIN 6 HD
+http://devcon.1dns1.com:8080/live/miki/miki/937.ts
+#EXTINF:-1,AR|BEIN 7 HD
+http://devcon.1dns1.com:8080/live/miki/miki/936.ts
+#EXTINF:-1,AR|BEIN 8 HD
+http://devcon.1dns1.com:8080/live/miki/miki/935.ts
+#EXTINF:-1,AR|BEIN 9 HD
+http://devcon.1dns1.com:8080/live/miki/miki/934.ts
+#EXTINF:-1,AR|BEIN 10 HD
+http://devcon.1dns1.com:8080/live/miki/miki/933.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu...
+http://devcon.1dns1.com:8080/live/miki/miki/3045.ts
