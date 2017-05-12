@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 07-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,155 +11,280 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,TR: BENGU TURK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11620.ts
+#EXTINF:-1,TR: BEYAZ TV HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11617.ts
+#EXTINF:-1,TR: CEM TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11615.ts
+#EXTINF:-1,TR: CNN TURK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11603.ts
+#EXTINF:-1,TR: DISNEY CHANNEL
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11605.ts
+#EXTINF:-1,TR: FLASH TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11611.ts
+#EXTINF:-1,TR: HALK TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11614.ts
+#EXTINF:-1,TR: KANAL7 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11602.ts
+#EXTINF:-1,TR: KRAL TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11608.ts
+#EXTINF:-1,TR: LIGTV-1 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11595.ts
+#EXTINF:-1,TR: LIGTV-2 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11596.ts
+#EXTINF:-1,TR: LIGTV-3 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11597.ts
+#EXTINF:-1,TR: LIGTV-4 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11598.ts
+#EXTINF:-1,TR: Minika COCUK HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11616.ts
+#EXTINF:-1,TR: MINIKA GO HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11612.ts
+#EXTINF:-1,TR: NICKELODEON HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11604.ts
+#EXTINF:-1,TR: NTV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11619.ts
+#EXTINF:-1,TR: NTV SPOR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11599.ts
+#EXTINF:-1,TR: ONE BY UHD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11621.ts
+#EXTINF:-1,TR: POWERTURK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11609.ts
+#EXTINF:-1,TR: SMARTSPOR-1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11600.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11610.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11618.ts
+#EXTINF:-1,TR: TRT COCUK HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11613.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11601.ts
+#EXTINF:-1,TR: TRT MUZIK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11607.ts
+#EXTINF:-1,TR:LIGTV-1 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10815.ts
+#EXTINF:-1,TR:LIGTV-2 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10816.ts
+#EXTINF:-1,TR:LIGTV-3 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10817.ts
+#EXTINF:-1,TR:LIGTV-4 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10818.ts
+#EXTINF:-1,TR:EUROSPORT-1 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10821.ts
+#EXTINF:-1,TR:EUROSPORT-2 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10822.ts
+#EXTINF:-1,TR:NTV SPOR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10823.ts
+#EXTINF:-1,TR:SMARTSPOR-1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10820.ts
+#EXTINF:-1,TR:TRT SPOR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10819.ts
+#EXTINF:-1,TR:VIP CHANNEL-1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10824.ts
+#EXTINF:-1,TR: SALON_1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1239.ts
+#EXTINF:-1,TR: SALON_2
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1240.ts
+#EXTINF:-1,TR: TRTSPOR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2352.ts
+#EXTINF:-1,TR: BELGESEL_HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4474.ts
+#EXTINF:-1,TR: NTV SPOR
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2350.ts
+#EXTINF:-1,TR: A SPOR
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2351.ts
+#EXTINF:-1,TR: WORLD_TRAVEL_CHANNEL
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4475.ts
+#EXTINF:-1,TR: NGC_PEOPLE
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4472.ts
+#EXTINF:-1,TR: TRT SPOR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11606.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11622.ts
+#EXTINF:-1,TR: BLOOMBERG TV SD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11623.ts
+#EXTINF:-1,TR: Baby_Tv
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4477.ts
+#EXTINF:-1,TR: SINEMA_7
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/1242.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11429.ts
+#EXTINF:-1,TR: TRT_COCUKHD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7253.ts
+#EXTINF:-1,TR: STAR_TV_HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7255.ts
+#EXTINF:-1,TR: DREAM_TURK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7254.ts
+#EXTINF:-1,TR: TV2
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/10008.ts
+#EXTINF:-1,TR: A_HABER_HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7252.ts
+#EXTINF:-1,TR: Nat_Geo_Wild
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7250.ts
+#EXTINF:-1,TR: Nat_Geo_People
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7251.ts
 
 
 
 
-#EXTINF:-1,Kanal Hayat - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1182.ts
-#EXTINF:-1,Trt 1 HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/339.ts
-#EXTINF:-1,Trt Haber - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/340.ts
-#EXTINF:-1,Trt Belgesel - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/341.ts
-#EXTINF:-1,Trt Muzik - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/342.ts
-#EXTINF:-1,Trt Cocuk HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/343.ts
-#EXTINF:-1,Trt Spor HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/203.ts
-#EXTINF:-1,Tgrt Haber - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/344.ts
-#EXTINF:-1,Atv - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/335.ts
-#EXTINF:-1,Atv HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/346.ts
-#EXTINF:-1,Kanal D - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/321.ts
-#EXTINF:-1,Kanal D HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/347.ts
-#EXTINF:-1,Kanal 7 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2159.ts
-#EXTINF:-1,Kanal 7 HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/349.ts
-#EXTINF:-1,TV 8 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2158.ts
-#EXTINF:-1,TV 8 HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/350.ts
-#EXTINF:-1,TV 8.5 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2163.ts
-#EXTINF:-1,Fox TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2157.ts
-#EXTINF:-1,Fox TV HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/351.ts
-#EXTINF:-1,Bayaz - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2156.ts
-#EXTINF:-1,Beyaz TV HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/352.ts
-#EXTINF:-1,Kanal 24 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/353.ts
-#EXTINF:-1,Flash TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/355.ts
-#EXTINF:-1,A Haber HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/356.ts
-#EXTINF:-1,Haber Turk - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/358.ts
-#EXTINF:-1,CNN Turk - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/360.ts
-#EXTINF:-1,Halk TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/362.ts
-#EXTINF:-1,Bloomberg - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/388.ts
-#EXTINF:-1,Bloomberg HT - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/363.ts
-#EXTINF:-1,Cartoon Network - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/364.ts
-#EXTINF:-1,Discovery Channel - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/370.ts
-#EXTINF:-1,National Geographic Channel - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/371.ts
-#EXTINF:-1,National Geographic Wild HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/372.ts
-#EXTINF:-1,National Geographic People HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/373.ts
-#EXTINF:-1,Animal Planet - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2040.ts
-#EXTINF:-1,Al Quran - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/374.ts
-#EXTINF:-1,Kanal Avrupa - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/376.ts
-#EXTINF:-1,Euro Star - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/377.ts
-#EXTINF:-1,Dream TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/381.ts
-#EXTINF:-1,Dream Turk - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/382.ts
-#EXTINF:-1,Fil TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/385.ts
-#EXTINF:-1,TV 2 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/276.ts
-#EXTINF:-1,World Travel Channel - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/384.ts
-#EXTINF:-1,Kral TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/389.ts
-#EXTINF:-1,Kral Pop - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/390.ts
-#EXTINF:-1,Lig TV 1 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/394.ts
-#EXTINF:-1,Lig TV 2 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/395.ts
-#EXTINF:-1,Lig TV 3 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/396.ts
-#EXTINF:-1,Lig TV 4 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/397.ts
-#EXTINF:-1,Filmbox Premier HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/398.ts
-#EXTINF:-1,Filmbox Turk HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/402.ts
-#EXTINF:-1,Filmbox Korku HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/400.ts
-#EXTINF:-1,Filmbox Aksiyon HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/403.ts
-#EXTINF:-1,Filmbox Aile HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/399.ts
-#EXTINF:-1,A Sport HD - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/380.ts
-#EXTINF:-1,Cinemax - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/331.ts
-#EXTINF:-1,Ulke TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2047.ts
-#EXTINF:-1,Tivibu Spor 1 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2043.ts
-#EXTINF:-1,Tivibu Spor 2 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2044.ts
-#EXTINF:-1,Fenerbahce TV - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2045.ts
-#EXTINF:-1,Eurosport 1 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2042.ts
-#EXTINF:-1,Eurosport 2 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2041.ts
-#EXTINF:-1,Tlc - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2164.ts
-#EXTINF:-1,Nba - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2166.ts
-#EXTINF:-1,Disney Channel - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2175.ts
-#EXTINF:-1,Manika Go - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2173.ts
-#EXTINF:-1,Manika Cocuk - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2174.ts
-#EXTINF:-1,Moviesmart Turk - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2167.ts
-#EXTINF:-1,Moviesmart Premium - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2168.ts
-#EXTINF:-1,Moviesmart Gold - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2169.ts
-#EXTINF:-1,Moviesmart Fest - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2170.ts
-#EXTINF:-1,Moviesmart Family - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2171.ts
-#EXTINF:-1,Moviesmart Action - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2172.ts
-#EXTINF:-1,A2 - Turkish
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/2562.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TR: TV8 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13658.ts
+#EXTINF:-1,TR: TV2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13656.ts
+#EXTINF:-1,TR: TRT1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13667.ts
+#EXTINF:-1,TR: TRT TURK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13668.ts
+#EXTINF:-1,TR: TRT SPOR
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13697.ts
+#EXTINF:-1,TR: TRT Okul
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13670.ts
+#EXTINF:-1,TR: TRT Muzik
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13671.ts
+#EXTINF:-1,TR: TRT Haber
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13669.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13672.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13673.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13674.ts
+#EXTINF:-1,TR: TIVIBU SPOR 2HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13637.ts
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13636.ts
+#EXTINF:-1,TR: STAR TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13660.ts
+#EXTINF:-1,TR: SPORTS TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13695.ts
+#EXTINF:-1,TR: SINEMATV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13693.ts
+#EXTINF:-1,TR: SINEMA2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13694.ts
+#EXTINF:-1,TR: SHOW TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13661.ts
+#EXTINF:-1,TR: SHOW MAX
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13638.ts
+#EXTINF:-1,TR: SANSAR ÃœLKE TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13680.ts
+#EXTINF:-1,TR: SALON 3 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13692.ts
+#EXTINF:-1,TR: SALON 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13691.ts
+#EXTINF:-1,TR: SALON 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13690.ts
+#EXTINF:-1,TR: POWER Turk HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13662.ts
+#EXTINF:-1,TR: PLANET TURK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13685.ts
+#EXTINF:-1,TR: PLANET MUFTAK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13686.ts
+#EXTINF:-1,TR: PLANET COCUK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13687.ts
+#EXTINF:-1,TR: NTV SPOR
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13698.ts
+#EXTINF:-1,TR: NTV AVRUPA
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13639.ts
+#EXTINF:-1,TR: MovieSmart Turk
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13640.ts
+#EXTINF:-1,TR: Movie Smart  Gold HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13641.ts
+#EXTINF:-1,TR: MOVIEMAX FESTIVAL HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13642.ts
+#EXTINF:-1,TR: MOVIEMAX FAMILY HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13643.ts
+#EXTINF:-1,TR: MOVIEMAX ACTION HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13644.ts
+#EXTINF:-1,TR: MINIKAGO
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13682.ts
+#EXTINF:-1,TR: LOCA 2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13689.ts
+#EXTINF:-1,TR: LOCA 1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13688.ts
+#EXTINF:-1,TR: LIG TV 4 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13721.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13701.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13700.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13699.ts
+#EXTINF:-1,TR: KANAL D
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13655.ts
+#EXTINF:-1,TR: KANAL 7
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13654.ts
+#EXTINF:-1,TR: ISTANBUL TV1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13645.ts
+#EXTINF:-1,TR: HALK TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13650.ts
+#EXTINF:-1,TR: GS
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13646.ts
+#EXTINF:-1,TR: FOX HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13653.ts
+#EXTINF:-1,TR: FLASH TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13665.ts
+#EXTINF:-1,TR: FILTV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13678.ts
+#EXTINF:-1,TR: FENERBAHCE
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13647.ts
+#EXTINF:-1,TR: FANATIKTV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13675.ts
+#EXTINF:-1,TR: EURO STAR
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13648.ts
+#EXTINF:-1,TR: EURO D
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13649.ts
+#EXTINF:-1,TR: DREAM TURK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13681.ts
+#EXTINF:-1,TR: DISNEY XD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13683.ts
+#EXTINF:-1,TR: DISCOVERY
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13679.ts
+#EXTINF:-1,TR: CNN TURK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13652.ts
+#EXTINF:-1,TR: CARTOON NETWORK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13684.ts
+#EXTINF:-1,TR: BEYAZ TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13676.ts
+#EXTINF:-1,TR: BABY TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13663.ts
+#EXTINF:-1,TR: ATV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13657.ts
+#EXTINF:-1,TR: ANIMAL PLANET
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13677.ts
+#EXTINF:-1,TR: A SPOR HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13696.ts
+#EXTINF:-1,TR: A HABER
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13666.ts
+#EXTINF:-1,TR: 360
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13664.ts
+#EXTINF:-1,TR: 24TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13659.ts
+#EXTINF:-1,TR:  MovieMax Premier HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13651.ts
+
+
+
+
+
+
+
+

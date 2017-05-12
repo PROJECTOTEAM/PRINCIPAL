@@ -1,73 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
-
-
-#EXTINF:-1,Zee TV - indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/688.ts
-#EXTINF:-1,Zee Cinema - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/689.ts
-#EXTINF:-1,Zee Punjabi - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/690.ts
-#EXTINF:-1,Zing - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/691.ts
-#EXTINF:-1,B4You Movies - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/695.ts
-#EXTINF:-1,B4You Music - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/696.ts
-#EXTINF:-1,Colors - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/1497.ts
-#EXTINF:-1,& TV - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/702.ts
-#EXTINF:-1,Dunya - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/704.ts
-#EXTINF:-1,Ary Digital - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/705.ts
-#EXTINF:-1,Hum TV - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/706.ts
-#EXTINF:-1,Ary Qtv - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/707.ts
-#EXTINF:-1,Dm Digital - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/739.ts
-#EXTINF:-1,Bangla - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/738.ts
-#EXTINF:-1,Ary News - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/717.ts
-#EXTINF:-1,Venus - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/721.ts
-#EXTINF:-1,Ummah Channel - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/733.ts
-#EXTINF:-1,News 18 - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/718.ts
-#EXTINF:-1,Ndtv - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/731.ts
-#EXTINF:-1,Muslim Ummah - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/719.ts
-#EXTINF:-1,Madani Channel - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/724.ts
-#EXTINF:-1,Ma TV International - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/720.ts
-#EXTINF:-1,Islam Channel - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/716.ts
-#EXTINF:-1,Iqra TV - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/723.ts
-#EXTINF:-1,Geo TV - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/709.ts
-#EXTINF:-1,Geo Tez - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/730.ts
-#EXTINF:-1,Geo News - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/710.ts
-#EXTINF:-1,Akaal Channel - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/712.ts
-#EXTINF:-1,Abp News - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/713.ts
-#EXTINF:-1,Aastha - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/728.ts
-#EXTINF:-1,Aajtak - Indian
-http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/714.ts
+#EXTINF:-1,IN: 9X Jhakaas
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8629.ts
+#EXTINF:-1,IN: 9XM Jalwa
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8607.ts
+#EXTINF:-1,IN: 9xTashan
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8628.ts
+#EXTINF:-1,IN: Aajtak News
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8632.ts
+#EXTINF:-1,IN: ABP News
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8631.ts
+#EXTINF:-1,IN: And TV ME
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8603.ts
+#EXTINF:-1,IN: Bindass Play
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8612.ts
+#EXTINF:-1,IN: Colors ME
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8605.ts
+#EXTINF:-1,IN: Discovery
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8630.ts
+#EXTINF:-1,IN: LifeOK
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8604.ts
+#EXTINF:-1,IN: PTC Chakde Punjabi
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8627.ts
+#EXTINF:-1,IN: Sab TV AU
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8602.ts
+#EXTINF:-1,IN: Sony Entertainment (SET)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7554.ts
+#EXTINF:-1,IN: Sony HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8600.ts
+#EXTINF:-1,IN: SONY MAX
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7556.ts
+#EXTINF:-1,IN: SONY MAX 2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7557.ts
+#EXTINF:-1,IN: SONY SAB
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7555.ts
+#EXTINF:-1,IN: Star Gold
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8615.ts
+#EXTINF:-1,IN: STAR PLUS HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7553.ts
+#EXTINF:-1,IN: STAR SPORTS 1HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8669.ts
+#EXTINF:-1,IN: STAR SPORTS 2HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8670.ts
+#EXTINF:-1,IN: STAR SPORTS 3HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8671.ts
+#EXTINF:-1,IN: STAR SPORTS 4HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8672.ts
+#EXTINF:-1,IN: Star Cricket
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12373.ts
+#EXTINF:-1,IN: Ten Cricket
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12372.ts
+#EXTINF:-1,IN: TEN ACTION
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8675.ts
+#EXTINF:-1,IN: TEN Golf HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8677.ts
+#EXTINF:-1,IN: TEN HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8673.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8674.ts
+#EXTINF:-1,IN: UTV Bindas
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8625.ts
+#EXTINF:-1,IN: UTV Movies
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8622.ts
+#EXTINF:-1,IN: Willow Cricket
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8676.ts
+#EXTINF:-1,IN: Zee Action
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8620.ts
+#EXTINF:-1,IN: Zee Cinema
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8617.ts
+#EXTINF:-1,IN: Zee Classic
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8621.ts
+#EXTINF:-1,IN: Zee Smile
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8616.ts
+#EXTINF:-1,IN: ZeeTV india
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7552.ts
+#EXTINF:-1,IN: Zing TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8614.ts
+#EXTINF:-1,IN: Zoom
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/8613.ts

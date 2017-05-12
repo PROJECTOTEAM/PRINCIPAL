@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,68 +11,537 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,DE: DW NEWS
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9173.ts
+#EXTINF:-1,DE: ZDF
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4491.ts
+#EXTINF:-1,DE: WDR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/509.ts
+#EXTINF:-1,DE: ARTE HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2361.ts
+#EXTINF:-1,DE: AXN HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8994.ts
+#EXTINF:-1,DE: NDR HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/543.ts
+#EXTINF:-1,DE: SAT 1SD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2272.ts
+#EXTINF:-1,DE: SIXX HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9000.ts
+#EXTINF:-1,DE: SRF 1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2359.ts
+#EXTINF:-1,DE: SRF 2
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2360.ts
+#EXTINF:-1,DE: 3SAT
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2364.ts
+#EXTINF:-1,DE: SYFY-HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/6911.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2358.ts
+#EXTINF:-1,DE: ORF 2HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4489.ts
+#EXTINF:-1,DE: MGM
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/547.ts
+#EXTINF:-1,DE: DMAX
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/552.ts
+#EXTINF:-1,DE: VOX
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/510.ts
+#EXTINF:-1,DE: FOX
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2368.ts
+#EXTINF:-1,DE: FOX HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8191.ts
+#EXTINF:-1,DE: RTS 1
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4499.ts
+#EXTINF:-1,DE: RTS 2
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4497.ts
+#EXTINF:-1,DE: RTL HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/539.ts
+#EXTINF:-1,DE: RTL 2HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8583.ts
+#EXTINF:-1,DE: RTL PASSION HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2356.ts
+#EXTINF:-1,DE: RTL CRIME HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2355.ts
+#EXTINF:-1,DE: RTL Televizija
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4500.ts
+#EXTINF:-1,DE: RTL Kockica
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4501.ts
+#EXTINF:-1,DE: RTL NITRO
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/538.ts
+#EXTINF:-1,DE: RTL LIVING
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8992.ts
+#EXTINF:-1,DE: TNT SERIES HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2255.ts
+#EXTINF:-1,DE: EUROSPORT 1HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9003.ts
+#EXTINF:-1,DE: TNT SERIE HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2357.ts
+#EXTINF:-1,DE: UNIVERSAL CH_HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/6909.ts
+#EXTINF:-1,DE: CLASSICA
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2369.ts
+#EXTINF:-1,DE: SITEL TV3
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4495.ts
+#EXTINF:-1,DE: SITEL TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4496.ts
+#EXTINF:-1,DE: RTK 01
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4502.ts
+#EXTINF:-1,DE: MINI ULTRA TV
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4503.ts
+#EXTINF:-1,DE: EURO NEWS
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8194.ts
+#EXTINF:-1,DE: PRO SIEBEN
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8993.ts
+#EXTINF:-1,DE: ROMANCE TV HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8405.ts
+#EXTINF:-1,DE: AUSTRIA 24H
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8436.ts
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8437.ts
+#EXTINF:-1,DE: TOGGO HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4486.ts
+#EXTINF:-1,DE: KIKA HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/548.ts
+#EXTINF:-1,DE: CARTOON NETWORK
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8999.ts
+#EXTINF:-1,DE: DISNEY CHANNEL HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8998.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8997.ts
+#EXTINF:-1,DE: DISNEY XD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8996.ts
+#EXTINF:-1,DE: 13EME RUE
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/325.ts
+#EXTINF:-1,DE: BOOMERANG
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8372.ts
+#EXTINF:-1,DE: SUPER RTL
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8990.ts
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2363.ts
+#EXTINF:-1,DE: SKY SPORT 1HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2258.ts
+#EXTINF:-1,DE: SKY SPORT 1SD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/528.ts
+#EXTINF:-1,DE: SKY SPORT 2HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2257.ts
+#EXTINF:-1,DE: SKY SPORT 2SD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/527.ts
+#EXTINF:-1,DE: SPORT KLUB 01
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4494.ts
+#EXTINF:-1,DE: SPORT KLUB 02
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4493.ts
+#EXTINF:-1,DE: SPORT KLUB 03
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4492.ts
+#EXTINF:-1,DE: SKY BUNDENSLIGA 1SD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/534.ts
+#EXTINF:-1,DE: SKY HISTORY HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8057.ts
+#EXTINF:-1,DE: SKY NGC HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4488.ts
+#EXTINF:-1,DE: SKY NGC WILD HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/4487.ts
+#EXTINF:-1,DE: SKY DISCOVERY HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9001.ts
+#EXTINF:-1,DE: SKY NAT GEO WILD HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9002.ts
+#EXTINF:-1,DE: SKY NAT GEO PEOPLE HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8187.ts
+#EXTINF:-1,DE: SKY NOSTALGIE HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8195.ts
+#EXTINF:-1,DE: SKY HITS
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/8995.ts
+#EXTINF:-1,DE: SKY CINEMA
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2270.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2271.ts
+#EXTINF:-1,DE: SKY ACTION HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/520.ts
+#EXTINF:-1,DE: SKY COMEDY
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/515.ts
+#EXTINF:-1,DE: SKY CINIMA 24HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/516.ts
+#EXTINF:-1,DE: SKY SELECT 01HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2266.ts
+#EXTINF:-1,DE: SKY SELECT 02HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11431.ts
+#EXTINF:-1,DE: SKY SELECT 03HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2264.ts
+#EXTINF:-1,DE: SKY SELECT 04HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2263.ts
+#EXTINF:-1,DE: SKY SELECT 05HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2262.ts
+#EXTINF:-1,DE: SKY SELECT 06HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2261.ts
+#EXTINF:-1,DE: SKY SELECT 07HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2260.ts
+#EXTINF:-1,DE: SKY SELECT 08HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/2259.ts
+#EXTINF:-1,DE: SKY SELECT 09HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9004.ts
+#EXTINF:-1,DE: SKY SELECT 10HD
+http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/9005.ts
 
 
 
-#EXTINF:-1,Ard - Germany
-http://151.80.35.29:25461/live/2000/2000/2921.ts
-#EXTINF:-1,Vox - Germany
-http://151.80.35.29:25461/live/2000/2000/562.ts
-#EXTINF:-1,VOX HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2581.ts
-#EXTINF:-1,Kabel 1 HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2578.ts
-#EXTINF:-1,Kabel Eins - Germany
-http://151.80.35.29:25461/live/2000/2000/565.ts
-#EXTINF:-1,Kabel 1 Classic HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2583.ts
-#EXTINF:-1,Sky Cinema Family - Germany
-http://151.80.35.29:25461/live/2000/2000/3048.ts
-#EXTINF:-1,Sky Cinema Action HD - Germany
-http://151.80.35.29:25461/live/2000/2000/3050.ts
-#EXTINF:-1,Tnt Film - Germany
-http://151.80.35.29:25461/live/2000/2000/581.ts
-#EXTINF:-1,TNT Comedy HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2575.ts
-#EXTINF:-1,FOX HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2573.ts
-#EXTINF:-1,Fox Serie - Germany
-http://151.80.35.29:25461/live/2000/2000/570.ts
-#EXTINF:-1,13th Street - Germany
-http://151.80.35.29:25461/live/2000/2000/577.ts
-#EXTINF:-1,13th Street HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2550.ts
-#EXTINF:-1,TNT Serie HD - Germany
-http://151.80.35.29:25461/live/2000/2000/2549.ts
-#EXTINF:-1,Heimat Kanal - Germany
-http://151.80.35.29:25461/live/2000/2000/567.ts
-#EXTINF:-1,Kinowelt TV - Germany
-http://151.80.35.29:25461/live/2000/2000/3049.ts
-#EXTINF:-1,Sky Disney Cinemagic HD - Germany
-http://151.80.35.29:25461/live/2000/2000/3054.ts
-#EXTINF:-1,National Geographic HD  - Germany
-http://151.80.35.29:25461/live/2000/2000/3053.ts
-#EXTINF:-1,Sky Sport 2 HD - Germany
-http://151.80.35.29:25461/live/2000/2000/3052.ts
-#EXTINF:-1,National Geographic  - Germany
-http://151.80.35.29:25461/live/2000/2000/578.ts
-#EXTINF:-1,Discovery HD - Germany
-http://151.80.35.29:25461/live/2000/2000/580.ts
-#EXTINF:-1,History HD - Germany
-http://151.80.35.29:25461/live/2000/2000/3051.ts
-#EXTINF:-1,Goldstar TV - Germany
-http://151.80.35.29:25461/live/2000/2000/2974.ts
-#EXTINF:-1,Kika - Germany
-http://151.80.35.29:25461/live/2000/2000/561.ts
-#EXTINF:-1,Classica - Germany
-http://151.80.35.29:25461/live/2000/2000/566.ts
-#EXTINF:-1,Disney Channel HD - Germany
-http://151.80.35.29:25461/live/2000/2000/573.ts
-#EXTINF:-1,Disney Cinemagic - Germany
-http://151.80.35.29:25461/live/2000/2000/574.ts
-#EXTINF:-1,Disney Junior - Germany
-http://151.80.35.29:25461/live/2000/2000/572.ts
-#EXTINF:-1,Junior - Germany
-http://151.80.35.29:25461/live/2000/2000/571.ts
-#EXTINF:-1,N24 - Germany
-http://151.80.35.29:25461/live/2000/2000/558.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,DE: Kabel 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15559.ts
+#EXTINF:-1,DE: Kabel Eins
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7131.ts
+#EXTINF:-1,DE: Kabel Eins Doku
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15346.ts
+#EXTINF:-1,DE: Das Erste
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/2135.ts
+#EXTINF:-1,DE: ZDF
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7124.ts
+#EXTINF:-1,DE:  WDR HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7435.ts
+#EXTINF:-1,DE: 3Sat
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7470.ts
+#EXTINF:-1,DE: Kika-HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7424.ts
+#EXTINF:-1,DE: Ndr
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7419.ts
+#EXTINF:-1,DE: Phoenix
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7420.ts
+#EXTINF:-1,DE: SWR HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7460.ts
+#EXTINF:-1,DE: Arte
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7418.ts
+#EXTINF:-1,DE: ANIXE
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7469.ts
+#EXTINF:-1,DE: ZDF neo
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7457.ts
+#EXTINF:-1,DE: Servus TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7438.ts
+#EXTINF:-1,DE: Pro Sieben
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7448.ts
+#EXTINF:-1,DE: Pro 7 MAXX
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7414.ts
+#EXTINF:-1,DE: RTL Television
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15352.ts
+#EXTINF:-1,DE: RTL HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7125.ts
+#EXTINF:-1,DE: RTL Plus
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13020.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7140.ts
+#EXTINF:-1,DE: SAT 1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7463.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7412.ts
+#EXTINF:-1,DE: RTL Nitro
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7409.ts
+#EXTINF:-1,DE: RTL 2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7408.ts
+#EXTINF:-1,DE: n-tvv
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7464.ts
+#EXTINF:-1,DE: A&E
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15354.ts
+#EXTINF:-1,DE: E! Entertainment HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15341.ts
+#EXTINF:-1,De: Zee One
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15340.ts
+#EXTINF:-1,DE: Family TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15350.ts
+#EXTINF:-1,DE: Goldstar TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15355.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15348.ts
+#EXTINF:-1,DE: MDR
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7465.ts
+#EXTINF:-1,DE: ARD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7468.ts
+#EXTINF:-1,DE:Goldstar TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13015.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7130.ts
+#EXTINF:-1,DE: ORF 2HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7129.ts
+#EXTINF:-1,DE: Austria 24
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7467.ts
+#EXTINF:-1,DE: N24
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7105.ts
+#EXTINF:-1,=====  Duits Regionalne  =====
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13603.ts
+#EXTINF:-1,DE: INTV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/2134.ts
+#EXTINF:-1,=====  Film De  =====
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13604.ts
+#EXTINF:-1,DE: 13th Street
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7443.ts
+#EXTINF:-1,DE: AXN HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7466.ts
+#EXTINF:-1,DE: Fox Serie
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7171.ts
+#EXTINF:-1,DE: Heimatkanal
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7452.ts
+#EXTINF:-1,DE: MGM HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7187.ts
+#EXTINF:-1,DE: KinoWelt TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7450.ts
+#EXTINF:-1,DE: RomanceTV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7451.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15580.ts
+#EXTINF:-1,DE: RTL Crime
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7461.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15567.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7152.ts
+#EXTINF:-1,DE: RTL Passion
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7128.ts
+#EXTINF:-1,DE: SKY 3D
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7456.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15566.ts
+#EXTINF:-1,DE: Sky Action HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15589.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7153.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15576.ts
+#EXTINF:-1,DE: Sky Cinema
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7151.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7150.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15578.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7149.ts
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7444.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7148.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15573.ts
+#EXTINF:-1,DE:  Sky Cinema Hits
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7440.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15353.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7144.ts
+#EXTINF:-1,DE: Sky Krimi
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7145.ts
+#EXTINF:-1,DE: Sky Hits
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7146.ts
+#EXTINF:-1,DE: Sky Emotion
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7147.ts
+#EXTINF:-1,DE: Syfy HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7139.ts
+#EXTINF:-1,DE: TNT Film HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7137.ts
+#EXTINF:-1,DE: TNT Film (TCM)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15574.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15565.ts
+#EXTINF:-1,DE: TNT Series
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7136.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7104.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7103.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7102.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7101.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7100.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7099.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7098.ts
+#EXTINF:-1,DE: FOX HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7172.ts
+#EXTINF:-1,DE: Universal HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15347.ts
+#EXTINF:-1,DE: VOX
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7458.ts
+#EXTINF:-1,=======  Sport De  =======
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13607.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15560.ts
+#EXTINF:-1,DE: Motorvision TV
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13017.ts
+#EXTINF:-1,DE: Sky Sport News
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7111.ts
+#EXTINF:-1,DE: ORF Sport+ HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14041.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15562.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15349.ts
+#EXTINF:-1,DE: Sport 1  HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7108.ts
+#EXTINF:-1,DE: Sport1  HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15564.ts
+#EXTINF:-1,DE: SPORT +1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7109.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15587.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7119.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15556.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7115.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7116.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7113.ts
+#EXTINF:-1,DE: Sky Sport 3 (Match Time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13036.ts
+#EXTINF:-1,DE: Sky Sport 4 (Match Time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13035.ts
+#EXTINF:-1,DE: Sky Sport 5 (match time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13034.ts
+#EXTINF:-1,DE: Sky Sport 6 (match time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13033.ts
+#EXTINF:-1,DE: Sky Sport 7 (match time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13032.ts
+#EXTINF:-1,DE: Sky Sport 8 match time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13031.ts
+#EXTINF:-1,DE: Sky Sport 9 (match time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13029.ts
+#EXTINF:-1,DE: Sky Sport 10 (match time)
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13030.ts
+#EXTINF:-1,DE: Sky Sport 11
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13037.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15561.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/16980.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7123.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17033.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7122.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17034.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7121.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17035.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12551.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17036.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7120.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17037.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13026.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17038.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13028.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17041.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13025.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17040.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13027.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/17039.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 Match Time
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13038.ts
+#EXTINF:-1,DE: Eurosport HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7107.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15342.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7471.ts
+#EXTINF:-1,=======  Doku/Wissen/Themen  =======
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13605.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15593.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15563.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7141.ts
+#EXTINF:-1,DE: RTL Living
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7162.ts
+#EXTINF:-1,DE: Discovery Channel
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7176.ts
+#EXTINF:-1,DE: NatGeo HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15569.ts
+#EXTINF:-1,DE: Nat Geographic
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7164.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15581.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7163.ts
+#EXTINF:-1,DE: HISTORY HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7106.ts
+#EXTINF:-1,DE: Dmax
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7417.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15344.ts
+#EXTINF:-1,DE: TLC
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7427.ts
+#EXTINF:-1,=======  Musik  =======
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13608.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7134.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7135.ts
+#EXTINF:-1,DE:  VEVO
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7436.ts
+#EXTINF:-1,DE:  M2O Music
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7423.ts
+#EXTINF:-1,DE: Jukebox
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15343.ts
+#EXTINF:-1,=======  Kinder  =======
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13606.ts
+#EXTINF:-1,DE: Junior
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13018.ts
+#EXTINF:-1,DE: Disney XD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7453.ts
+#EXTINF:-1,DE: Disney Junior
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7175.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7133.ts
+#EXTINF:-1,DE: Disney Channel
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7173.ts
+#EXTINF:-1,DE: Toggo Plus
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15345.ts
+#EXTINF:-1,DE: Boomerang
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15351.ts
+#EXTINF:-1,DE: Cartoon Network
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15356.ts
+#EXTINF:-1,DE: 13th Street HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15572.ts
+#EXTINF:-1,DE: Discovery HD German
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15584.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15571.ts
+
+
+
+
+
+

@@ -1,8 +1,466 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,FOX SPORT 2 HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/2022.ts
+#EXTINF:-1,NAT GEO HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/2021.ts
+#EXTINF:-1,FOX SPORT 3 HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/2020.ts
+#EXTINF:-1,CDF HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1707.ts
+#EXTINF:-1,CDF PREMIUN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/274.ts
+#EXTINF:-1,CDF BASICO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/422.ts
+#EXTINF:-1,LA RED HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1074.ts
+#EXTINF:-1,MEGA HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/596.ts
+#EXTINF:-1,CHV HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/447.ts
+#EXTINF:-1,CANAL13 HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/446.ts
+#EXTINF:-1,TVN HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/15.ts
+#EXTINF:-1,TVN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/449.ts
+#EXTINF:-1,MEGA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/384.ts
+#EXTINF:-1,CHV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/425.ts
+#EXTINF:-1,TELETRAK
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/430.ts
+#EXTINF:-1,CNN ESPAÑOL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/825.ts
+#EXTINF:-1,CNN CHILE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/400.ts
+#EXTINF:-1,UCV HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1252.ts
+#EXTINF:-1,13 CABLE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/429.ts
+#EXTINF:-1,TELE13 MOVIL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1570.ts
+#EXTINF:-1,ZONA LATINA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/426.ts
+#EXTINF:-1,LA RED
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/412.ts
+#EXTINF:-1,CANAL13
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/761.ts
+#EXTINF:-1,REC TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1716.ts
+#EXTINF:-1,LIFETIME
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1721.ts
+#EXTINF:-1,TELENOVELAS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1713.ts
+#EXTINF:-1,GOOL PERU
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1469.ts
+#EXTINF:-1,RPP
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1712.ts
+#EXTINF:-1,CMD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/770.ts
+#EXTINF:-1,AMERICA TELEVISION
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/771.ts
+#EXTINF:-1,FRECUENCIA LATINA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/762.ts
+#EXTINF:-1,PANAMERICANA.
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1694.ts
+#EXTINF:-1,RED TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1614.ts
+#EXTINF:-1,PLUS TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1615.ts
+#EXTINF:-1,CANAL N
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1645.ts
+#EXTINF:-1,ATV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1605.ts
+#EXTINF:-1,PERU MAGICO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1710.ts
+#EXTINF:-1,GAMA TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1711.ts
+#EXTINF:-1,RCN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1534.ts
+#EXTINF:-1,CARACOL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1642.ts
+#EXTINF:-1,CARACOL INTERNACIONAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/254.ts
+#EXTINF:-1,TELE MEDELLIN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1676.ts
+#EXTINF:-1,WINSPORT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/351.ts
+#EXTINF:-1,TELEV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/2019.ts
+#EXTINF:-1,TLT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/2018.ts
+#EXTINF:-1,TRT VENEZUELA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1726.ts
+#EXTINF:-1,VALE TV VENEZUELA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1727.ts
+#EXTINF:-1,VENEZOLANA TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1717.ts
+#EXTINF:-1,BABY TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1457.ts
+#EXTINF:-1,NICK JR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1660.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/818.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/819.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/820.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/822.ts
+#EXTINF:-1,BOOMERANG
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/827.ts
+#EXTINF:-1,ETC
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/261.ts
+#EXTINF:-1,NICK
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/815.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/824.ts
+#EXTINF:-1,CARTOON NETWOORK
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/826.ts
+#EXTINF:-1,ANIME TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/795.ts
+#EXTINF:-1,UFC HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1695.ts
+#EXTINF:-1,UFC NEXT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1696.ts
+#EXTINF:-1,UFC
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1382.ts
+#EXTINF:-1,BEIN SPORT ESPAÑA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1586.ts
+#EXTINF:-1,GOL TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1582.ts
+#EXTINF:-1,ESPN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/276.ts
+#EXTINF:-1,ESPN 2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/272.ts
+#EXTINF:-1,ESPN 3
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1692.ts
+#EXTINF:-1,FOX SPORTS CHILE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/693.ts
+#EXTINF:-1,FOX SPORT 1
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1709.ts
+#EXTINF:-1,FOX SPORTS 2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/694.ts
+#EXTINF:-1,FOX SPORTS 3
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1714.ts
+#EXTINF:-1,FOX SPORT MEXICO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/603.ts
+#EXTINF:-1,FOX SPORT 2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/602.ts
+#EXTINF:-1,FOX SPORT 3
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/601.ts
+#EXTINF:-1,TYC SPORTS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1612.ts
+#EXTINF:-1,SUPER SPORT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1031.ts
+#EXTINF:-1,SUPER TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1697.ts
+#EXTINF:-1,MOVISTAR MOTOGP
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1484.ts
+#EXTINF:-1,REAL MADRID
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/294.ts
+#EXTINF:-1,DEPORTV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/775.ts
+#EXTINF:-1,EUROSPORT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/772.ts
+#EXTINF:-1,CLARO SPORT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1383.ts
+#EXTINF:-1,NFL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1386.ts
+#EXTINF:-1,HBO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1594.ts
+#EXTINF:-1,HBO PLUS ESTE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/593.ts
+#EXTINF:-1,HBO OESTE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1653.ts
+#EXTINF:-1,HBO PLUS OESTE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/597.ts
+#EXTINF:-1,HBO FAMILY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/598.ts
+#EXTINF:-1,HBO 2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/599.ts
+#EXTINF:-1,HBO PLUS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/594.ts
+#EXTINF:-1,HBO SIGNATURE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/592.ts
+#EXTINF:-1,FOX CLASSICS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/608.ts
+#EXTINF:-1,FOX MOVIES
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/604.ts
+#EXTINF:-1,FOX 1 OESTE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/611.ts
+#EXTINF:-1,FOX FAMILY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/606.ts
+#EXTINF:-1,FOX CINEMA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/609.ts
+#EXTINF:-1,FOX ACTION
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/610.ts
+#EXTINF:-1,FOX 1 ESTE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/613.ts
+#EXTINF:-1,FOX LIFE2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/605.ts
+#EXTINF:-1,FOX COMEDY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/607.ts
+#EXTINF:-1,CANAL FOX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/612.ts
+#EXTINF:-1,MUNDO FOX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/262.ts
+#EXTINF:-1,CINEMAX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1384.ts
+#EXTINF:-1,CINECANAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1385.ts
+#EXTINF:-1,MAX PRIME OESTE.
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1035.ts
+#EXTINF:-1,MAX PRIME
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1693.ts
+#EXTINF:-1,MAX.
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1033.ts
+#EXTINF:-1,MAX UP
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1034.ts
+#EXTINF:-1,CINELATINO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1662.ts
+#EXTINF:-1,PARAMOUNT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1658.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1654.ts
+#EXTINF:-1,DISTRITO COMEDIA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1648.ts
+#EXTINF:-1,FILMZONE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/256.ts
+#EXTINF:-1,TNT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1705.ts
+#EXTINF:-1,TNT SERIES
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/813.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/267.ts
+#EXTINF:-1,SPACE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/265.ts
+#EXTINF:-1,DE PELICULA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1715.ts
+#EXTINF:-1,GOLDEN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1720.ts
+#EXTINF:-1,TCM
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1719.ts
+#EXTINF:-1,ISAT
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1718.ts
+#EXTINF:-1,SONY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/269.ts
+#EXTINF:-1,ANIMAL PLANET
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/253.ts
+#EXTINF:-1,DISCOVERY H&H
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/823.ts
+#EXTINF:-1,BLOOMBERG HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1673.ts
+#EXTINF:-1,TRAVEL & LIVING
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/812.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1387.ts
+#EXTINF:-1,TLC
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/814.ts
+#EXTINF:-1,MAS CHIC
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/816.ts
+#EXTINF:-1,INVESTIGACION DISCOVERY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/817.ts
+#EXTINF:-1,A&E
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/257.ts
+#EXTINF:-1,MTV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/769.ts
+#EXTINF:-1,MTV HITS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/768.ts
+#EXTINF:-1,FX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/268.ts
+#EXTINF:-1,TVE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/434.ts
+#EXTINF:-1,TELEFE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/432.ts
+#EXTINF:-1,TBS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/421.ts
+#EXTINF:-1,WARNER BROSS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/398.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/407.ts
+#EXTINF:-1,AXN
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/399.ts
+#EXTINF:-1,HISTORY
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/385.ts
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/255.ts
+#EXTINF:-1,PLAYBOY.
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/765.ts
+#EXTINF:-1,VENUS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/766.ts
+#EXTINF:-1,SEXTREME
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/767.ts
+#EXTINF:-1,JASMIN XXX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/331.ts
+#EXTINF:-1,CCTV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/821.ts
+#EXTINF:-1,CHINA 1
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1683.ts
+#EXTINF:-1,CHINA 2
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1684.ts
+#EXTINF:-1,canal 10
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1722.ts
+#EXTINF:-1,CANAL 17
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1725.ts
+#EXTINF:-1,canal 33
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1723.ts
+#EXTINF:-1,WOW TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1724.ts
+#EXTINF:-1,FX BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1671.ts
+#EXTINF:-1,SONY BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/441.ts
+#EXTINF:-1,STB BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1690.ts
+#EXTINF:-1,H2 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1672.ts
+#EXTINF:-1,DISCOVERY TURBO BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1691.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1698.ts
+#EXTINF:-1,ALL SPORT TV BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1680.ts
+#EXTINF:-1,TLC BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1670.ts
+#EXTINF:-1,DISCOVERY H&H BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/442.ts
+#EXTINF:-1,ANIMAL PLANET BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/440.ts
+#EXTINF:-1,UNIVERSAL CHANNEL BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/293.ts
+#EXTINF:-1,SPORTV 2 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/292.ts
+#EXTINF:-1,SPN BRASIL BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/281.ts
+#EXTINF:-1,SPN BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/280.ts
+#EXTINF:-1,RECORD BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/291.ts
+#EXTINF:-1,PFC BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/288.ts
+#EXTINF:-1,PFC 5 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/290.ts
+#EXTINF:-1,PFC 2 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/289.ts
+#EXTINF:-1,HBO SIGNATURE BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/287.ts
+#EXTINF:-1,HBO 2 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/286.ts
+#EXTINF:-1,GLOBO SP BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/285.ts
+#EXTINF:-1,GLOBO RBS BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/284.ts
+#EXTINF:-1,GLOBO NEW BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/283.ts
+#EXTINF:-1,FOX SPORT 2 BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/282.ts
+#EXTINF:-1,BAND SPORT BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/279.ts
+#EXTINF:-1,BANDA NEW BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/278.ts
+#EXTINF:-1,AXN BR
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/277.ts
+#EXTINF:-1,PROYECTO 40
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/786.ts
+#EXTINF:-1,RETRO TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/794.ts
+#EXTINF:-1,NEOX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/781.ts
+#EXTINF:-1,AMAZING
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/355.ts
+#EXTINF:-1,MEGA ESP
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/776.ts
+#EXTINF:-1,LA SEXTA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/778.ts
+#EXTINF:-1,EURONEWS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/789.ts
+#EXTINF:-1,DW LATINOAMERICA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/791.ts
+#EXTINF:-1,ATRESERIES
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/779.ts
+#EXTINF:-1,TELEMUNDO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1563.ts
+#EXTINF:-1,MTY TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1655.ts
+#EXTINF:-1,MULTI MEDIOS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1656.ts
+#EXTINF:-1,RECORD ES HD
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1643.ts
+#EXTINF:-1,TLNOVELAS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1650.ts
+#EXTINF:-1,ANTENA 3
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/782.ts
+#EXTINF:-1,PENTHOUSE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1918.ts
+#EXTINF:-1,TV XXX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1919.ts
+#EXTINF:-1,UNIVISION
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1562.ts
+#EXTINF:-1,EL 13
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1571.ts
+#EXTINF:-1,ANTENA 3 INTERNACIONAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1568.ts
+#EXTINF:-1,CANAL 26
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1575.ts
+#EXTINF:-1,CN5
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1576.ts
+#EXTINF:-1,CANAL 7
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1677.ts
+#EXTINF:-1,CAPITAL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1679.ts
+#EXTINF:-1,TLX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1678.ts
+#EXTINF:-1,TV XXX 1
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1920.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1577.ts
+#EXTINF:-1,HIT TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1578.ts
+#EXTINF:-1,READVENIR BOL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1581.ts
+#EXTINF:-1,ENLACE JUVENIL
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1579.ts
+#EXTINF:-1,TELEMAX
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1580.ts
+#EXTINF:-1,LAS ESTRELLAS
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1675.ts
+#EXTINF:-1,CANAL 4
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1674.ts
+#EXTINF:-1,CAPITAL TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1685.ts
+#EXTINF:-1,VISUAL RADIO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1687.ts
+#EXTINF:-1,FM POP
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1699.ts
+#EXTINF:-1,TELE MUSICA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1561.ts
+#EXTINF:-1,MUSICA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/356.ts
+#EXTINF:-1,VIRGIN RADIO
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/357.ts
+#EXTINF:-1,TV3
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/784.ts
+#EXTINF:-1,RADIO ACTIVA FM
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1573.ts
+#EXTINF:-1,MI MUSICA
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1564.ts
+#EXTINF:-1,RADIO FM 80
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1703.ts
+#EXTINF:-1,RADIO FM RAGGAE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1702.ts
+#EXTINF:-1,RADIO FM ROCK
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1704.ts
+#EXTINF:-1,RADIO SKY FM
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1700.ts
+#EXTINF:-1,RADIO SKY HOUSE
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1701.ts
+#EXTINF:-1,RADIO U TV
+http://163.172.99.187:8000/live/ariel_valdenegro/123456/1686.ts
