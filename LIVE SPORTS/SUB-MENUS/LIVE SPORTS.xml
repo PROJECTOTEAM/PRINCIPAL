@@ -22,7 +22,7 @@
 <item>
 <title>[COLOR gold][B][COLOR green][/COLOR] FAST TV [COLOR green][/COLOR][COLOR ] [/COLOR][/B]</title>
 <link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=92&amp;name=Fast%20TV</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=92&amp;name=Fast%20TV&amp;url=sss</jsonrpc>
 <thumbnail>http://main-im-game-1.gamewise.co/FastTV-App-563188-full.png</thumbnail>
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
