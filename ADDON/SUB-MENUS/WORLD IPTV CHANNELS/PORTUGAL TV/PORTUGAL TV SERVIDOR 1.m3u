@@ -1,228 +1,132 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+#EXTINF:-1,Rtp 1 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/404.ts
+#EXTINF:-1,Rtp 2 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/405.ts
+#EXTINF:-1,Rtp 3 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/406.ts
+#EXTINF:-1,Rtp Africa 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1464.ts
+#EXTINF:-1,Sic 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1751.ts
+#EXTINF:-1,Sic Caras 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/412.ts
+#EXTINF:-1,Sic Kids 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1469.ts
+#EXTINF:-1,Sic Mulher 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/411.ts
+#EXTINF:-1,Sic Noticias 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1473.ts
+#EXTINF:-1,Sic Radical 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1472.ts
+#EXTINF:-1,Sport TV 1 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/437.ts
+#EXTINF:-1,Sport TV 2 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/438.ts
+#EXTINF:-1,Sport TV 3 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/439.ts
+#EXTINF:-1,Sport TV 4 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/440.ts
+#EXTINF:-1,Sport TV 5 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/441.ts
+#EXTINF:-1,Rt Global 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1477.ts
+#EXTINF:-1,Porto Canal 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1485.ts
+#EXTINF:-1,Pfc 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1486.ts
 
-
-
-
-#EXTINF:-1,PT | TVI
-http://devcon.1dns1.com:8080/live/miki/miki/2804.ts
-#EXTINF:-1,PT | TVCINE 4
-http://devcon.1dns1.com:8080/live/miki/miki/2791.ts
-#EXTINF:-1,PT | TVCINE 3
-http://devcon.1dns1.com:8080/live/miki/miki/2790.ts
-#EXTINF:-1,PT | TVCINE 2
-http://devcon.1dns1.com:8080/live/miki/miki/2789.ts
-#EXTINF:-1,PT | TVCINE 1
-http://devcon.1dns1.com:8080/live/miki/miki/2788.ts
-#EXTINF:-1,PT | SPORTING TV
-http://devcon.1dns1.com:8080/live/miki/miki/2792.ts
-#EXTINF:-1,PT | SIC NOTICIAS
-http://devcon.1dns1.com:8080/live/miki/miki/2807.ts
-#EXTINF:-1,PT | SIC Kids
-http://devcon.1dns1.com:8080/live/miki/miki/2802.ts
-#EXTINF:-1,PT | SIC RADICAL
-http://devcon.1dns1.com:8080/live/miki/miki/2794.ts
-#EXTINF:-1,PT | RTP 2
-http://devcon.1dns1.com:8080/live/miki/miki/2798.ts
-#EXTINF:-1,PT | RTP 1
-http://devcon.1dns1.com:8080/live/miki/miki/2797.ts
-#EXTINF:-1,PT | FOX MOVIE
-http://devcon.1dns1.com:8080/live/miki/miki/2811.ts
-#EXTINF:-1,PT | AXN WHITE HD
-http://devcon.1dns1.com:8080/live/miki/miki/2812.ts
-#EXTINF:-1,PT | SPORT TV 1 HD
-http://devcon.1dns1.com:8080/live/miki/miki/2989.ts
-#EXTINF:-1,PT | SPORT TV 2 HD
-http://devcon.1dns1.com:8080/live/miki/miki/2990.ts
-#EXTINF:-1,PT | SPORT TV 3 HD
-http://devcon.1dns1.com:8080/live/miki/miki/2991.ts
-#EXTINF:-1,PT | SPORT TV 4 HD
-http://devcon.1dns1.com:8080/live/miki/miki/2992.ts
-#EXTINF:-1,PT | TVI 24
-http://devcon.1dns1.com:8080/live/miki/miki/3080.ts
-#EXTINF:-1,PT | SPORT TV 5 HD
-http://devcon.1dns1.com:8080/live/miki/miki/3087.ts
-#EXTINF:-1,PT | NAT GEO HD
-http://devcon.1dns1.com:8080/live/miki/miki/3101.ts
-#EXTINF:-1,PT | FOX HD
-http://devcon.1dns1.com:8080/live/miki/miki/3098.ts
-#EXTINF:-1,PT | FOX CRIME HD
-http://devcon.1dns1.com:8080/live/miki/miki/3099.ts
-#EXTINF:-1,PT | AXN BLACK HD
-http://devcon.1dns1.com:8080/live/miki/miki/3097.ts
-#EXTINF:-1,PT | A BOLA TV
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,PT:RTP-1
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/669.ts
-#EXTINF:-1,PT:RTP 2
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/688.ts
-#EXTINF:-1,PT:RTP_3
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1221.ts
-#EXTINF:-1,PT:TVI
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/685.ts
-#EXTINF:-1,PT: SIC
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/686.ts
-#EXTINF:-1,PT: RTP Madeira
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/667.ts
-#EXTINF:-1,PT: RTP Africa
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/689.ts
-#EXTINF:-1,PT:TVI-24
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/687.ts
-#EXTINF:-1,PT:EURONEWS
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/692.ts
-#EXTINF:-1,PT:RTP-Acores
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/668.ts
-#EXTINF:-1,PT:SIC_MULHER
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1220.ts
-#EXTINF:-1,PT:CANAL-PANDA
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1225.ts
-#EXTINF:-1,PT:DISNEY-JUNIOR
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1224.ts
-#EXTINF:-1,PT: Cartoon Network
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1227.ts
-#EXTINF:-1,PT: TV SERIES
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1217.ts
-#EXTINF:-1,PT:FOX-CRIME
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1218.ts
-#EXTINF:-1,PT:AXN-WHITE
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/675.ts
-#EXTINF:-1,PT:AXN-HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/676.ts
-#EXTINF:-1,PT:AXN-Black
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/677.ts
-#EXTINF:-1,PT: MOV HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/670.ts
-#EXTINF:-1,PT:FOX-MOVIE
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/671.ts
-#EXTINF:-1,PT:TVCINE1
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/447.ts
-#EXTINF:-1,PT:TVCINE2
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/446.ts
-#EXTINF:-1,PT:TVCINE3
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/445.ts
-#EXTINF:-1,PT:TVCINE4
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/444.ts
-#EXTINF:-1,PT:HISTORIA
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1223.ts
-#EXTINF:-1,PT:TVI_REALITY
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1219.ts
-#EXTINF:-1,PT: DISCOVERY
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1228.ts
-#EXTINF:-1,PT:Odisseia
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1226.ts
-#EXTINF:-1,PT: SPORT.TV+
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1957.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/661.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/662.ts
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/665.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/663.ts
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/664.ts
-#EXTINF:-1,PT: Kombat Sport HD
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/1584.ts
-#EXTINF:-1,PT: EUROSPORT
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/672.ts
-#EXTINF:-1,PT:EUROSPORT2
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/690.ts
-#EXTINF:-1,PT: Benefica Tv 1
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/673.ts
-#EXTINF:-1,PT:Sporting-TV
-http://164.132.164.156:9300/live/fadel_2002/8542yiu2/666.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,CANAL LIGA HD
-http://devcon.1dns1.com:8080/live/miki/miki/921.ts
-#EXTINF:-1,CANAL FUTBALL HD
-http://devcon.1dns1.com:8080/live/miki/miki/919.ts
-#EXTINF:-1,CANAL DEPORTES HD
-http://devcon.1dns1.com:8080/live/miki/miki/918.ts
-#EXTINF:-1,Real Madrid TV
-http://devcon.1dns1.com:8080/live/miki/miki/947.ts
-#EXTINF:-1,BARCA TV
-http://devcon.1dns1.com:8080/live/miki/miki/914.ts
-#EXTINF:-1,BEIN SPORT 1 FR
-http://devcon.1dns1.com:8080/live/miki/miki/954.ts
-#EXTINF:-1,BEIN SPORT 2 FR
-http://devcon.1dns1.com:8080/live/miki/miki/953.ts
-#EXTINF:-1,BEIN SPORT 3 FR
-http://devcon.1dns1.com:8080/live/miki/miki/952.ts
-#EXTINF:-1,FR Eurosport 1
-http://devcon.1dns1.com:8080/live/miki/miki/951.ts
-#EXTINF:-1,FR Eurosport 2
-http://devcon.1dns1.com:8080/live/miki/miki/950.ts
-#EXTINF:-1,AR|BEIN 1 HD
-http://devcon.1dns1.com:8080/live/miki/miki/942.ts
-#EXTINF:-1,AR|BEIN 2 HD
-http://devcon.1dns1.com:8080/live/miki/miki/941.ts
-#EXTINF:-1,AR|BEIN 3 HD
-http://devcon.1dns1.com:8080/live/miki/miki/940.ts
-#EXTINF:-1,AR|BEIN 4 HD
-http://devcon.1dns1.com:8080/live/miki/miki/939.ts
-#EXTINF:-1,AR|BEIN 5 HD
-http://devcon.1dns1.com:8080/live/miki/miki/938.ts
-#EXTINF:-1,AR|BEIN 6 HD
-http://devcon.1dns1.com:8080/live/miki/miki/937.ts
-#EXTINF:-1,AR|BEIN 7 HD
-http://devcon.1dns1.com:8080/live/miki/miki/936.ts
-#EXTINF:-1,AR|BEIN 8 HD
-http://devcon.1dns1.com:8080/live/miki/miki/935.ts
-#EXTINF:-1,AR|BEIN 9 HD
-http://devcon.1dns1.com:8080/live/miki/miki/934.ts
-#EXTINF:-1,AR|BEIN 10 HD
-http://devcon.1dns1.com:8080/live/miki/miki/933.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu...
-http://devcon.1dns1.com:8080/live/miki/miki/3045.ts
+#EXTINF:-1,Sporting Tv HD 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1484.ts
+#EXTINF:-1,Tvi 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/407.ts
+#EXTINF:-1,TV Globo 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/2036.ts
+#EXTINF:-1,Tv Globo Premium 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/409.ts
+#EXTINF:-1,Tvi 24 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/408.ts
+#EXTINF:-1,Axn 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/413.ts
+#EXTINF:-1,Axn Black 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/415.ts
+#EXTINF:-1,Disney Channel 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/416.ts
+#EXTINF:-1,Nickelodeon 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/417.ts
+#EXTINF:-1,Cartoon Network 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/418.ts
+#EXTINF:-1,Axn White 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/414.ts
+#EXTINF:-1,24 Kitchen 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1465.ts
+#EXTINF:-1,A&E 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1475.ts
+#EXTINF:-1,Abola TV 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1474.ts
+#EXTINF:-1,Baby TV 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1468.ts
+#EXTINF:-1,Cbs Reality 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1481.ts
+#EXTINF:-1,Eurosport 1 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1482.ts
+#EXTINF:-1,Eurosport 2 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1483.ts
+#EXTINF:-1,Fox Movies 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1480.ts
+#EXTINF:-1,Fuel TV 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1470.ts
+#EXTINF:-1,Hollywood 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1478.ts
+#EXTINF:-1,Mcm Top 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1476.ts
+#EXTINF:-1,Motorvision 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1466.ts
+#EXTINF:-1,Mov HD 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1479.ts
+#EXTINF:-1,Travel Channel HD 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1471.ts
+#EXTINF:-1,TV Series 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/419.ts
+#EXTINF:-1,Fox 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/420.ts
+#EXTINF:-1,Fox Crime 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/421.ts
+#EXTINF:-1,Fox Comedy 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/422.ts
+#EXTINF:-1,Discovery Channel 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/423.ts
+#EXTINF:-1,Discovery Showcase 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/424.ts
+#EXTINF:-1,National Geographic 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1495.ts
+#EXTINF:-1,National Geographic Wild HD 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/425.ts
+#EXTINF:-1,Tlc 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/426.ts
+#EXTINF:-1,E! Entertainment 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/427.ts
+#EXTINF:-1,Fox Life 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/428.ts
+#EXTINF:-1,Cm TV 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/429.ts
+#EXTINF:-1,Canal Panda 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/430.ts
+#EXTINF:-1,TV Cine 1 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/431.ts
+#EXTINF:-1,TV Cine 2 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/432.ts
+#EXTINF:-1,TV Cine 3 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/433.ts
+#EXTINF:-1,TV Cine 4 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/434.ts
+#EXTINF:-1,Benfica TV 1 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/435.ts
+#EXTINF:-1,TV Record 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/1463.ts
+#EXTINF:-1,Tv Sick 
+http://xc.cobra-iptv.com:25461/live/abdel2/abdel2/410.ts
