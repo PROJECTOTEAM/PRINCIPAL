@@ -1,282 +1,160 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
+#EXTINF:-1,Net 5 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/749.ts
+#EXTINF:-1,Tlc 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/751.ts
+#EXTINF:-1,Fox 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/755.ts
+#EXTINF:-1,24 Kitchen 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/753.ts
+#EXTINF:-1,Mtv Music 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/754.ts
+#EXTINF:-1,Veronica 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/758.ts
+#EXTINF:-1,Nick Junior 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/1445.ts
+#EXTINF:-1,Nicktoons 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/757.ts
+#EXTINF:-1,Nickelodeon 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/761.ts
+#EXTINF:-1,Baby Tv 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/764.ts
+#EXTINF:-1,Boomerang 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/762.ts
+#EXTINF:-1,Disney Junior 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/756.ts
+#EXTINF:-1,Disney Channel 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/763.ts
+#EXTINF:-1,Cartoon Network 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/760.ts
+#EXTINF:-1,Comedy Central 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/759.ts
+#EXTINF:-1,At 5 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/787.ts
+#EXTINF:-1,Tv Oost 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/789.ts
+#EXTINF:-1,TV Noord 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/788.ts
+#EXTINF:-1,L1 Limburg 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/790.ts
+#EXTINF:-1,Discovery 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/767.ts
+#EXTINF:-1,Discovery Investigation 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/766.ts
+#EXTINF:-1,National Geographic 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/765.ts
+#EXTINF:-1,Ziggo Sport Voetbal 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/771.ts
+#EXTINF:-1,Ziggo Sport Select 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/770.ts
+#EXTINF:-1,Ziggo Sport Select HD Extra 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2671.ts
+#EXTINF:-1,Ziggo Sport Golf 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/769.ts
+#EXTINF:-1,Ziggo Sport Racing 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/1450.ts
+#EXTINF:-1,Hbo 1 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/772.ts
+#EXTINF:-1,Hbo 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/773.ts
+#EXTINF:-1,Hbo 3 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/774.ts
+#EXTINF:-1,Film 1 Action 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/783.ts
+#EXTINF:-1,Film 1 Premiere 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/785.ts
+#EXTINF:-1,Film 1 Sundance 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/786.ts
+#EXTINF:-1,Film 1 Comedy 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/784.ts
+#EXTINF:-1,Eurosport 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/768.ts
+#EXTINF:-1,Fox Sport 1 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2956.ts
+#EXTINF:-1,Fox Sport 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/776.ts
+#EXTINF:-1,Fox Sport 3 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/777.ts
+#EXTINF:-1,Fox Sport 4 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/778.ts
+#EXTINF:-1,Fox Sport 5 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/779.ts
+#EXTINF:-1,Fox Sport 6 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/780.ts
+#EXTINF:-1,Comedy Central Family 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2643.ts
+#EXTINF:-1,Discovery Science 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2644.ts
+#EXTINF:-1,Discovery World 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2645.ts
+#EXTINF:-1,Eurosport 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2646.ts
+#EXTINF:-1,Film 1 Drama 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2647.ts
+#EXTINF:-1,Film 1 Family 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2648.ts
+#EXTINF:-1,Film 1 Spotlight 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2898.ts
+#EXTINF:-1,History 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2649.ts
+#EXTINF:-1,Jim Jam Be 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2650.ts
+#EXTINF:-1,Mezzo 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2651.ts
+#EXTINF:-1,NGC Wild 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2653.ts
+#EXTINF:-1,Travel Channel  
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2665.ts
+#EXTINF:-1,TV Drenthe 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2661.ts
+#EXTINF:-1,TV Gelderland 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2662.ts
+#EXTINF:-1,TV Oranje 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2663.ts
+#EXTINF:-1,TV Rijnmond 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2664.ts
+#EXTINF:-1,Ziggo Sport Extra 1 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2666.ts
+#EXTINF:-1,Ziggo Sport Extra 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2667.ts
+#EXTINF:-1,192 TV 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2670.ts
+#EXTINF:-1,Animal Planet 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2669.ts
+#EXTINF:-1,E! 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/2668.ts
 
-#EXTINF:-1,NL : 13th
-http://smartiptvspain.mine.nu:980/live/rese/rese/39231.ts
-#EXTINF:-1,NL : Animal Planet
-http://smartiptvspain.mine.nu:980/live/rese/rese/39232.ts
-#EXTINF:-1,NL : Boomerang
-http://smartiptvspain.mine.nu:980/live/rese/rese/39233.ts
-#EXTINF:-1,NL : Comedy Central
-http://smartiptvspain.mine.nu:980/live/rese/rese/39234.ts
-#EXTINF:-1,NL : Discovery Channel
-http://smartiptvspain.mine.nu:980/live/rese/rese/39235.ts
-#EXTINF:-1,NL : Disney Channel
-http://smartiptvspain.mine.nu:980/live/rese/rese/39236.ts
-#EXTINF:-1,NL : Film1 Action
-http://smartiptvspain.mine.nu:980/live/rese/rese/39237.ts
-#EXTINF:-1,NL : Film1 Comedy & Kids
-http://smartiptvspain.mine.nu:980/live/rese/rese/39238.ts
-#EXTINF:-1,NL : Film1 Premiere
-http://smartiptvspain.mine.nu:980/live/rese/rese/39239.ts
-#EXTINF:-1,NL : Film1 Spotlight
-http://smartiptvspain.mine.nu:980/live/rese/rese/39240.ts
-#EXTINF:-1,NL : Film1 SUNDANCE
-http://smartiptvspain.mine.nu:980/live/rese/rese/39241.ts
-#EXTINF:-1,NL : FOX Channel
-http://smartiptvspain.mine.nu:980/live/rese/rese/39242.ts
-#EXTINF:-1,NL : HBO
-http://smartiptvspain.mine.nu:980/live/rese/rese/39243.ts
-#EXTINF:-1,NL : HBO 3
-http://smartiptvspain.mine.nu:980/live/rese/rese/39244.ts
-#EXTINF:-1,NL : HBO2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39245.ts
-#EXTINF:-1,NL : History
-http://smartiptvspain.mine.nu:980/live/rese/rese/39246.ts
-#EXTINF:-1,NL : Investigation Discovery
-http://smartiptvspain.mine.nu:980/live/rese/rese/39247.ts
-#EXTINF:-1,NL : JimJam
-http://smartiptvspain.mine.nu:980/live/rese/rese/39248.ts
-#EXTINF:-1,NL : NET 5
-http://smartiptvspain.mine.nu:980/live/rese/rese/39249.ts
-#EXTINF:-1,NL : NGC
-http://smartiptvspain.mine.nu:980/live/rese/rese/39250.ts
-#EXTINF:-1,NL : Nick Jr
-http://smartiptvspain.mine.nu:980/live/rese/rese/39251.ts
-#EXTINF:-1,NL : Nickelodeon
-http://smartiptvspain.mine.nu:980/live/rese/rese/39252.ts
-#EXTINF:-1,NL : NPO 1
-http://smartiptvspain.mine.nu:980/live/rese/rese/39253.ts
-#EXTINF:-1,NL : NPO 2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39254.ts
-#EXTINF:-1,NL : NPO 3
-http://smartiptvspain.mine.nu:980/live/rese/rese/39255.ts
-#EXTINF:-1,NL : NPO DOC
-http://smartiptvspain.mine.nu:980/live/rese/rese/39256.ts
-#EXTINF:-1,NL : RTL 4
-http://smartiptvspain.mine.nu:980/live/rese/rese/39257.ts
-#EXTINF:-1,NL : RTL 5
-http://smartiptvspain.mine.nu:980/live/rese/rese/39258.ts
-#EXTINF:-1,NL : RTL 7
-http://smartiptvspain.mine.nu:980/live/rese/rese/39259.ts
-#EXTINF:-1,NL : RTL 8
-http://smartiptvspain.mine.nu:980/live/rese/rese/39260.ts
-#EXTINF:-1,NL : RTL lounge
-http://smartiptvspain.mine.nu:980/live/rese/rese/39261.ts
-#EXTINF:-1,NL : SBS 6
-http://smartiptvspain.mine.nu:980/live/rese/rese/39262.ts
-#EXTINF:-1,NL : SYFY
-http://smartiptvspain.mine.nu:980/live/rese/rese/39263.ts
-#EXTINF:-1,NL : TLC
-http://smartiptvspain.mine.nu:980/live/rese/rese/39264.ts
-#EXTINF:-1,NL : Veronica Disney XD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39265.ts
-#EXTINF:-1,NL : Ziggo Sport Extra1
-http://smartiptvspain.mine.nu:980/live/rese/rese/39266.ts
-#EXTINF:-1,NL : Ziggo Sport Extra2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39267.ts
-#EXTINF:-1,NL : Ziggo Sport Golf
-http://smartiptvspain.mine.nu:980/live/rese/rese/39268.ts
-#EXTINF:-1,NL : Ziggo Sport Racing
-http://smartiptvspain.mine.nu:980/live/rese/rese/39269.ts
-#EXTINF:-1,NL : Ziggo Sport Select HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39270.ts
-#EXTINF:-1,NL : Ziggo Sport.Voetbal
-http://smartiptvspain.mine.nu:980/live/rese/rese/39271.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://smartiptvspain.mine.nu:980/live/rese/rese/39272.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39273.ts
-#EXTINF:-1,NL: Sport 1 Voetbal
-http://smartiptvspain.mine.nu:980/live/rese/rese/39274.ts
-#EXTINF:-1,NL: Veronica / Disney XD HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39275.ts
-#EXTINF:-1,NL: 100% NL
-http://smartiptvspain.mine.nu:980/live/rese/rese/38968.ts
-#EXTINF:-1,NL: 13th Sreet
-http://smartiptvspain.mine.nu:980/live/rese/rese/38969.ts
-#EXTINF:-1,NL: 192 TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/38970.ts
-#EXTINF:-1,NL: 24 Kitchen
-http://smartiptvspain.mine.nu:980/live/rese/rese/38971.ts
-#EXTINF:-1,NL: Animal Planet HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38972.ts
-#EXTINF:-1,NL: AT5 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38973.ts
-#EXTINF:-1,NL: BBC Entertainement
-http://smartiptvspain.mine.nu:980/live/rese/rese/38974.ts
-#EXTINF:-1,NL: BVN
-http://smartiptvspain.mine.nu:980/live/rese/rese/38975.ts
-#EXTINF:-1,NL: Cartoon Network
-http://smartiptvspain.mine.nu:980/live/rese/rese/38976.ts
-#EXTINF:-1,NL: Comedy Central
-http://smartiptvspain.mine.nu:980/live/rese/rese/38977.ts
-#EXTINF:-1,NL: Comedy Central Extra
-http://smartiptvspain.mine.nu:980/live/rese/rese/38978.ts
-#EXTINF:-1,NL: Crime & Investigation
-http://smartiptvspain.mine.nu:980/live/rese/rese/38979.ts
-#EXTINF:-1,NL: Discovery Channel
-http://smartiptvspain.mine.nu:980/live/rese/rese/38980.ts
-#EXTINF:-1,NL: Discovery Science HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38981.ts
-#EXTINF:-1,NL: Disney Channel HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38982.ts
-#EXTINF:-1,NL: Disney Junior
-http://smartiptvspain.mine.nu:980/live/rese/rese/38983.ts
-#EXTINF:-1,NL: E! Entertainement
-http://smartiptvspain.mine.nu:980/live/rese/rese/38984.ts
-#EXTINF:-1,NL: EDE TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/38985.ts
-#EXTINF:-1,NL: Edge Sport HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38986.ts
-#EXTINF:-1,NL: Eurosport 1 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38987.ts
-#EXTINF:-1,NL: Eurosport 2 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38988.ts
-#EXTINF:-1,NL: Extreme Sports
-http://smartiptvspain.mine.nu:980/live/rese/rese/38989.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38990.ts
-#EXTINF:-1,NL: Film 1 Comedy HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38991.ts
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38992.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://smartiptvspain.mine.nu:980/live/rese/rese/38993.ts
-#EXTINF:-1,NL: Film1 Spotlight
-http://smartiptvspain.mine.nu:980/live/rese/rese/38994.ts
-#EXTINF:-1,NL: Fox HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38995.ts
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38996.ts
-#EXTINF:-1,NL: Fox Sports 2 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/38997.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://smartiptvspain.mine.nu:980/live/rese/rese/38998.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://smartiptvspain.mine.nu:980/live/rese/rese/38999.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://smartiptvspain.mine.nu:980/live/rese/rese/39000.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://smartiptvspain.mine.nu:980/live/rese/rese/39001.ts
-#EXTINF:-1,NL: Fryslan HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39002.ts
-#EXTINF:-1,NL: GPTV (noordwest Friesland)
-http://smartiptvspain.mine.nu:980/live/rese/rese/39003.ts
-#EXTINF:-1,NL: HBO 2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39004.ts
-#EXTINF:-1,NL: HBO 3
-http://smartiptvspain.mine.nu:980/live/rese/rese/39005.ts
-#EXTINF:-1,NL: HBO HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39006.ts
-#EXTINF:-1,NL: History Channel
-http://smartiptvspain.mine.nu:980/live/rese/rese/39007.ts
-#EXTINF:-1,NL: I Concerts
-http://smartiptvspain.mine.nu:980/live/rese/rese/39008.ts
-#EXTINF:-1,NL: Investigation Discovery
-http://smartiptvspain.mine.nu:980/live/rese/rese/39009.ts
-#EXTINF:-1,NL: JimJam
-http://smartiptvspain.mine.nu:980/live/rese/rese/39010.ts
-#EXTINF:-1,NL: L1 Limburg
-http://smartiptvspain.mine.nu:980/live/rese/rese/39011.ts
-#EXTINF:-1,NL: MTV HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39012.ts
-#EXTINF:-1,NL: N1 (Nijmegen)
-http://smartiptvspain.mine.nu:980/live/rese/rese/39013.ts
-#EXTINF:-1,NL: National Geographic HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39014.ts
-#EXTINF:-1,NL: National Geographic Wild HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39015.ts
-#EXTINF:-1,NL: Net 5 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39016.ts
-#EXTINF:-1,NL: Nick Jr
-http://smartiptvspain.mine.nu:980/live/rese/rese/39017.ts
-#EXTINF:-1,NL: Nickelodeon / Spike
-http://smartiptvspain.mine.nu:980/live/rese/rese/39018.ts
-#EXTINF:-1,NL: Nicktoons
-http://smartiptvspain.mine.nu:980/live/rese/rese/39019.ts
-#EXTINF:-1,NL: NPO 1 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39020.ts
-#EXTINF:-1,NL: NPO 101
-http://smartiptvspain.mine.nu:980/live/rese/rese/39021.ts
-#EXTINF:-1,NL: NPO 2 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39022.ts
-#EXTINF:-1,NL: NPO 3 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39023.ts
-#EXTINF:-1,NL: NPO Cultura
-http://smartiptvspain.mine.nu:980/live/rese/rese/39024.ts
-#EXTINF:-1,NL: NPO Politiek/Best
-http://smartiptvspain.mine.nu:980/live/rese/rese/39025.ts
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/39026.ts
-#EXTINF:-1,NL: Omroep Zeeland
-http://smartiptvspain.mine.nu:980/live/rese/rese/39027.ts
-#EXTINF:-1,NL: ONS
-http://smartiptvspain.mine.nu:980/live/rese/rese/39028.ts
-#EXTINF:-1,NL: Oost
-http://smartiptvspain.mine.nu:980/live/rese/rese/39029.ts
-#EXTINF:-1,NL: RTL 4 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39030.ts
-#EXTINF:-1,NL: RTL 5 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39031.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39032.ts
-#EXTINF:-1,NL: RTL 8 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39033.ts
-#EXTINF:-1,NL: RTL Lounge
-http://smartiptvspain.mine.nu:980/live/rese/rese/39034.ts
-#EXTINF:-1,NL: RTL Z
-http://smartiptvspain.mine.nu:980/live/rese/rese/39035.ts
-#EXTINF:-1,NL: RTV Drenthe
-http://smartiptvspain.mine.nu:980/live/rese/rese/39036.ts
-#EXTINF:-1,NL: RTV Slingeland
-http://smartiptvspain.mine.nu:980/live/rese/rese/39037.ts
-#EXTINF:-1,NL: RTV Totaal voor Maas en Waal
-http://smartiptvspain.mine.nu:980/live/rese/rese/39038.ts
-#EXTINF:-1,NL: SBS 6 HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39039.ts
-#EXTINF:-1,NL: SBS 9
-http://smartiptvspain.mine.nu:980/live/rese/rese/39040.ts
-#EXTINF:-1,NL: Shorts TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/39041.ts
-#EXTINF:-1,NL: Slam
-http://smartiptvspain.mine.nu:980/live/rese/rese/39042.ts
-#EXTINF:-1,NL: Streek TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/39043.ts
-#EXTINF:-1,NL: SyFy
-http://smartiptvspain.mine.nu:980/live/rese/rese/39044.ts
-#EXTINF:-1,NL: TLC
-http://smartiptvspain.mine.nu:980/live/rese/rese/39045.ts
-#EXTINF:-1,NL: TV 538
-http://smartiptvspain.mine.nu:980/live/rese/rese/39046.ts
-#EXTINF:-1,NL: TV Oranje
-http://smartiptvspain.mine.nu:980/live/rese/rese/39047.ts
-#EXTINF:-1,NL: TVO
-http://smartiptvspain.mine.nu:980/live/rese/rese/39048.ts
-#EXTINF:-1,NL: Veronica / Disney XD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39049.ts
-#EXTINF:-1,NL: WOS TV
-http://smartiptvspain.mine.nu:980/live/rese/rese/39050.ts
-#EXTINF:-1,NL: Zeeland Televisie
-http://smartiptvspain.mine.nu:980/live/rese/rese/39051.ts
-#EXTINF:-1,NL: Ziggo Sport eXtra 1
-http://smartiptvspain.mine.nu:980/live/rese/rese/39052.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://smartiptvspain.mine.nu:980/live/rese/rese/39053.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://smartiptvspain.mine.nu:980/live/rese/rese/39054.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://smartiptvspain.mine.nu:980/live/rese/rese/39055.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://smartiptvspain.mine.nu:980/live/rese/rese/39056.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://smartiptvspain.mine.nu:980/live/rese/rese/39057.ts
-
-
+#EXTINF:-1,Vtm 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/791.ts
+#EXTINF:-1,2Be 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/792.ts
+#EXTINF:-1,Vier 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/793.ts
+#EXTINF:-1,Vijf TV 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/794.ts
+#EXTINF:-1,Een 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/795.ts
+#EXTINF:-1,Canvas 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/796.ts
+#EXTINF:-1,Vtm Kazoom 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/798.ts
+#EXTINF:-1,Ket op 12 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/799.ts
+#EXTINF:-1,La Une 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/800.ts
+#EXTINF:-1,La Deux 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/801.ts
+#EXTINF:-1,La Trois 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/802.ts
+#EXTINF:-1,Vitaya 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/797.ts
+#EXTINF:-1,Club Rtl 
+http://ns3004967.ip-151-80-35.eu:25461/live/qqqqq/qqqqq/804.ts
