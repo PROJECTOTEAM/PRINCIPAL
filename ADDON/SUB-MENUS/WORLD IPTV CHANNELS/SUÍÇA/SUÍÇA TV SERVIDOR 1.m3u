@@ -9,34 +9,219 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,Suisse: SRF Info
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13827.ts
-#EXTINF:-1,Suisse: 3+
-https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
-#EXTINF:-1,Suisse: Teleclub Prime HD
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13632.ts
-#EXTINF:-1,Suisse: Teleclub Cinema
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13630.ts
-#EXTINF:-1,Suisse: TeleClub Star
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13633.ts
-#EXTINF:-1,Suisse: TeleClub Sport 1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13631.ts
-#EXTINF:-1,Suisse: TeleClub Sport Flash HD
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13629.ts
-#EXTINF:-1,Suisse: SRF 1
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13626.ts
-#EXTINF:-1,Suisse: SRF 2
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13627.ts
-#EXTINF:-1,Suisse: Teleclub Sports Flash HD
-http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15075.ts
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,SVT1 SE
+http://clientportal.link:8080/live/cran/cran/11529.ts
+#EXTINF:-1,SVT1 HD SE
+http://clientportal.link:8080/live/cran/cran/15553.ts
+#EXTINF:-1,SVT2 SE
+http://clientportal.link:8080/live/cran/cran/11530.ts
+#EXTINF:-1,SVT2 HD SE
+http://clientportal.link:8080/live/cran/cran/15515.ts
+#EXTINF:-1,SVT24 HD SE
+http://clientportal.link:8080/live/cran/cran/15516.ts
+#EXTINF:-1,TV3 SE
+http://clientportal.link:8080/live/cran/cran/12065.ts
+#EXTINF:-1,TV3 HD SE
+http://clientportal.link:8080/live/cran/cran/11531.ts
+#EXTINF:-1,TV3 FHD SE
+http://clientportal.link:8080/live/cran/cran/15560.ts
+#EXTINF:-1,TV4 SE
+http://clientportal.link:8080/live/cran/cran/11532.ts
+#EXTINF:-1,TV4 HD SE
+http://clientportal.link:8080/live/cran/cran/14429.ts
+#EXTINF:-1,Kanal 5 SE
+http://clientportal.link:8080/live/cran/cran/11533.ts
+#EXTINF:-1,Kanal 5 HD SE
+http://clientportal.link:8080/live/cran/cran/14442.ts
+#EXTINF:-1,Kanal 5 FHD SE
+http://clientportal.link:8080/live/cran/cran/11562.ts
+#EXTINF:-1,TV6 SE
+http://clientportal.link:8080/live/cran/cran/11534.ts
+#EXTINF:-1,TV6 HD SE
+http://clientportal.link:8080/live/cran/cran/15542.ts
+#EXTINF:-1,Sjuan SE
+http://clientportal.link:8080/live/cran/cran/11535.ts
+#EXTINF:-1,TV8 SE
+http://clientportal.link:8080/live/cran/cran/11536.ts
+#EXTINF:-1,Kanal 9 SE
+http://clientportal.link:8080/live/cran/cran/11537.ts
+#EXTINF:-1,Kanal 9 HD SE
+http://clientportal.link:8080/live/cran/cran/11617.ts
+#EXTINF:-1,TV10 SE
+http://clientportal.link:8080/live/cran/cran/11538.ts
+#EXTINF:-1,Kanal 11 SE
+http://clientportal.link:8080/live/cran/cran/11539.ts
+#EXTINF:-1,Kanal 11 FHD SE
+http://clientportal.link:8080/live/cran/cran/15498.ts
+#EXTINF:-1,TV12 SE
+http://clientportal.link:8080/live/cran/cran/11540.ts
+#EXTINF:-1,TV12 HD SE
+http://clientportal.link:8080/live/cran/cran/15527.ts
+#EXTINF:-1,TV12 FHD SE
+http://clientportal.link:8080/live/cran/cran/15522.ts
+#EXTINF:-1,TV4 Komedi SE
+http://clientportal.link:8080/live/cran/cran/11542.ts
+#EXTINF:-1,TV4 Guld SE
+http://clientportal.link:8080/live/cran/cran/11543.ts
+#EXTINF:-1,Comedy Central SE
+http://clientportal.link:8080/live/cran/cran/15543.ts
+#EXTINF:-1,Boomerang SE
+http://clientportal.link:8080/live/cran/cran/11550.ts
+#EXTINF:-1,Cartoon Network SE
+http://clientportal.link:8080/live/cran/cran/11551.ts
+#EXTINF:-1,Disney Channel SE
+http://clientportal.link:8080/live/cran/cran/11549.ts
+#EXTINF:-1,Disney Channel HD SE
+http://clientportal.link:8080/live/cran/cran/12361.ts
+#EXTINF:-1,Disney Junior SE
+http://clientportal.link:8080/live/cran/cran/11548.ts
+#EXTINF:-1,Disney XD SE
+http://clientportal.link:8080/live/cran/cran/11547.ts
+#EXTINF:-1,Nick Jr. SE
+http://clientportal.link:8080/live/cran/cran/12364.ts
+#EXTINF:-1,Nickelodeon SE
+http://clientportal.link:8080/live/cran/cran/12077.ts
+#EXTINF:-1,Nickelodeon HD SE
+http://clientportal.link:8080/live/cran/cran/15559.ts
+#EXTINF:-1,Discovery HD SE
+http://clientportal.link:8080/live/cran/cran/14451.ts
+#EXTINF:-1,Discovery Channel SE
+http://clientportal.link:8080/live/cran/cran/11580.ts
+#EXTINF:-1,Discovery Channel FHD SE
+http://clientportal.link:8080/live/cran/cran/15495.ts
+#EXTINF:-1,Discovery Science SE
+http://clientportal.link:8080/live/cran/cran/11618.ts
+#EXTINF:-1,Discovery World SE
+http://clientportal.link:8080/live/cran/cran/11619.ts
+#EXTINF:-1,Investigation Discovery SE
+http://clientportal.link:8080/live/cran/cran/15497.ts
+#EXTINF:-1,Animal Planet FHD SE
+http://clientportal.link:8080/live/cran/cran/15551.ts
+#EXTINF:-1,BBC Earth HD SE
+http://clientportal.link:8080/live/cran/cran/14456.ts
+#EXTINF:-1,H2 HD SE
+http://clientportal.link:8080/live/cran/cran/14447.ts
+#EXTINF:-1,History HD SE
+http://clientportal.link:8080/live/cran/cran/14446.ts
+#EXTINF:-1,Kunskapskanalen SE
+http://clientportal.link:8080/live/cran/cran/11579.ts
+#EXTINF:-1,Kunskapskanalen HD SE
+http://clientportal.link:8080/live/cran/cran/15536.ts
+#EXTINF:-1,National Geographic SE
+http://clientportal.link:8080/live/cran/cran/11583.ts
+#EXTINF:-1,National Geographiic SE
+http://clientportal.link:8080/live/cran/cran/14666.ts
+#EXTINF:-1,National Geographic Wild SE
+http://clientportal.link:8080/live/cran/cran/11578.ts
+#EXTINF:-1,TLC HD SE
+http://clientportal.link:8080/live/cran/cran/14430.ts
+#EXTINF:-1,TLC FHD SE
+http://clientportal.link:8080/live/cran/cran/15503.ts
+#EXTINF:-1,Travel Channel HD SE
+http://clientportal.link:8080/live/cran/cran/14428.ts
+#EXTINF:-1,TV4 Fakta SE
+http://clientportal.link:8080/live/cran/cran/11544.ts
+#EXTINF:-1,TV4 Fakta XL SE
+http://clientportal.link:8080/live/cran/cran/11545.ts
+#EXTINF:-1,Viasat Explore SE
+http://clientportal.link:8080/live/cran/cran/12360.ts
+#EXTINF:-1,Viasat History SE
+http://clientportal.link:8080/live/cran/cran/12283.ts
+#EXTINF:-1,Viasat Nature SE
+http://clientportal.link:8080/live/cran/cran/12284.ts
+#EXTINF:-1,Viasat Nature / Playboy SE
+http://clientportal.link:8080/live/cran/cran/14663.ts
+#EXTINF:-1,E! SE
+http://clientportal.link:8080/live/cran/cran/12079.ts
+#EXTINF:-1,FOX  SE
+http://clientportal.link:8080/live/cran/cran/15555.ts
+#EXTINF:-1,FOX SE
+http://clientportal.link:8080/live/cran/cran/11608.ts
+#EXTINF:-1,MTV SE
+http://clientportal.link:8080/live/cran/cran/14668.ts
+#EXTINF:-1,MTV HD SE
+http://clientportal.link:8080/live/cran/cran/11599.ts
+#EXTINF:-1,SBN International SE
+http://clientportal.link:8080/live/cran/cran/11576.ts
+#EXTINF:-1,C More Stars HD SE
+http://clientportal.link:8080/live/cran/cran/15556.ts
+#EXTINF:-1,C More First HD SE
+http://clientportal.link:8080/live/cran/cran/11558.ts
+#EXTINF:-1,C More Series HD SE
+http://clientportal.link:8080/live/cran/cran/11561.ts
+#EXTINF:-1,C More Hits HD SE
+http://clientportal.link:8080/live/cran/cran/11559.ts
+#EXTINF:-1,SF-Kanalen SE
+http://clientportal.link:8080/live/cran/cran/11565.ts
+#EXTINF:-1,TV4 Film SE
+http://clientportal.link:8080/live/cran/cran/11541.ts
+#EXTINF:-1,Viasat Film Hits SE
+http://clientportal.link:8080/live/cran/cran/11556.ts
+#EXTINF:-1,Viasat Film Action SE
+http://clientportal.link:8080/live/cran/cran/11554.ts
+#EXTINF:-1,Viasat Film Premiere SE
+http://clientportal.link:8080/live/cran/cran/11553.ts
+#EXTINF:-1,Viasat Series SE
+http://clientportal.link:8080/live/cran/cran/11555.ts
+#EXTINF:-1,Viasat Film Comedy SE
+http://clientportal.link:8080/live/cran/cran/11557.ts
+#EXTINF:-1,Viasat Film Family SE
+http://clientportal.link:8080/live/cran/cran/11552.ts
+#EXTINF:-1,C More Fotboll SE
+http://clientportal.link:8080/live/cran/cran/11571.ts
+#EXTINF:-1,C More Fotboll HD SE
+http://clientportal.link:8080/live/cran/cran/14455.ts
+#EXTINF:-1,C More Golf HD SE
+http://clientportal.link:8080/live/cran/cran/11573.ts
+#EXTINF:-1,C More Hockey HD SE
+http://clientportal.link:8080/live/cran/cran/14454.ts
+#EXTINF:-1,C More Hockey FHD SE
+http://clientportal.link:8080/live/cran/cran/15552.ts
+#EXTINF:-1,C More Live HD SE
+http://clientportal.link:8080/live/cran/cran/15530.ts
+#EXTINF:-1,C More Sport SE
+http://clientportal.link:8080/live/cran/cran/11570.ts
+#EXTINF:-1,C More Sport HD SE
+http://clientportal.link:8080/live/cran/cran/14453.ts
+#EXTINF:-1,C More Tennis SE
+http://clientportal.link:8080/live/cran/cran/11572.ts
+#EXTINF:-1,C More Tennis HD SE
+http://clientportal.link:8080/live/cran/cran/15557.ts
+#EXTINF:-1,C More Live 2 HD SE
+http://clientportal.link:8080/live/cran/cran/15531.ts
+#EXTINF:-1,C More Live 3 SE
+http://clientportal.link:8080/live/cran/cran/11610.ts
+#EXTINF:-1,C More Live 3 HD SE
+http://clientportal.link:8080/live/cran/cran/15532.ts
+#EXTINF:-1,C More Live 4 SE
+http://clientportal.link:8080/live/cran/cran/11609.ts
+#EXTINF:-1,C More Live 4 HD SE
+http://clientportal.link:8080/live/cran/cran/15533.ts
+#EXTINF:-1,Eurosport 1 SE
+http://clientportal.link:8080/live/cran/cran/11564.ts
+#EXTINF:-1,Eurosport 1 HD SE
+http://clientportal.link:8080/live/cran/cran/15535.ts
+#EXTINF:-1,Eurosport 2 SE
+http://clientportal.link:8080/live/cran/cran/14450.ts
+#EXTINF:-1,Eurosport 2 HD SE
+http://clientportal.link:8080/live/cran/cran/15534.ts
+#EXTINF:-1,TV4 Sport HD SE
+http://clientportal.link:8080/live/cran/cran/11626.ts
+#EXTINF:-1,TV3 Sport SE
+http://clientportal.link:8080/live/cran/cran/14445.ts
+#EXTINF:-1,Viasat Fotboll HD SE
+http://clientportal.link:8080/live/cran/cran/14420.ts
+#EXTINF:-1,Viasat Golf SE
+http://clientportal.link:8080/live/cran/cran/11574.ts
+#EXTINF:-1,Viasat Hockey SE
+http://clientportal.link:8080/live/cran/cran/11568.ts
+#EXTINF:-1,Viasat Motor SE
+http://clientportal.link:8080/live/cran/cran/11569.ts
+#EXTINF:-1,Viasat Sport SE
+http://clientportal.link:8080/live/cran/cran/11566.ts
+#EXTINF:-1,Viasat Sport HD SE
+http://clientportal.link:8080/live/cran/cran/14416.ts
+#EXTINF:-1,Viasat Sport Premium SE
+http://clientportal.link:8080/live/cran/cran/11581.ts
+#EXTINF:-1,Viasat Sport Premium HD SE
+http://clientportal.link:8080/live/cran/cran/16303.ts

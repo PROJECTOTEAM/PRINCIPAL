@@ -3,3 +3,54 @@
 #EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Teleclub Cinema CH
+http://clientportal.link:8080/live/cran/cran/11662.ts
+#EXTINF:-1,TeleClub Cinema HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/16304.ts
+#EXTINF:-1,Teleclub Prime CH
+http://clientportal.link:8080/live/cran/cran/11661.ts
+#EXTINF:-1,TeleClub Prime HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/16305.ts
+#EXTINF:-1,TeleClub Sky Sport 2 HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/16306.ts
+#EXTINF:-1,TeleZurich HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/12474.ts
+#EXTINF:-1,TeleClub Sport 1 CH
+http://clientportal.link:8080/live/cran/cran/11660.ts
+#EXTINF:-1,TeleClub Sport 1 HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/16307.ts
+#EXTINF:-1,TeleClub Sport 2 CH
+http://clientportal.link:8080/live/cran/cran/12475.ts
+#EXTINF:-1,Teleclub Star CH
+http://clientportal.link:8080/live/cran/cran/11663.ts
+#EXTINF:-1,TeleClub Star HD 1080p CH
+http://clientportal.link:8080/live/cran/cran/16308.ts
+#EXTINF:-1,RSI LA 1 HD CH
+http://clientportal.link:8080/live/cran/cran/11650.ts
+#EXTINF:-1,RSI LA 2 HD CH
+http://clientportal.link:8080/live/cran/cran/11651.ts
+#EXTINF:-1,RTS Deux HD CH
+http://clientportal.link:8080/live/cran/cran/11643.ts
+#EXTINF:-1,RTS Un HD CH
+http://clientportal.link:8080/live/cran/cran/11642.ts
+#EXTINF:-1,SRF 1 HD CH
+http://clientportal.link:8080/live/cran/cran/11644.ts
+#EXTINF:-1,SRF info HD CH
+http://clientportal.link:8080/live/cran/cran/11652.ts
+#EXTINF:-1,SRF zwei HD CH
+http://clientportal.link:8080/live/cran/cran/11645.ts

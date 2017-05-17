@@ -5,293 +5,345 @@
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,FR: TF1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1377.ts
-#EXTINF:-1,FR: TF1 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1341.ts
-#EXTINF:-1,FR: FRANCE 2
-http://iptvsbh.ddns.net:8003/live/reda/reda/1373.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1338.ts
-#EXTINF:-1,FR: FRANCE 3
-http://iptvsbh.ddns.net:8003/live/reda/reda/1374.ts
-#EXTINF:-1,FR: FRANCE 3 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1430.ts
-#EXTINF:-1,FR: FRANCE 4
-http://iptvsbh.ddns.net:8003/live/reda/reda/1375.ts
-#EXTINF:-1,FR: FRANCE 4 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1429.ts
-#EXTINF:-1,FR: FRANCE 5
-http://iptvsbh.ddns.net:8003/live/reda/reda/1371.ts
-#EXTINF:-1,FR: FRANCE 5 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1490.ts
-#EXTINF:-1,FR: FRANCE Ö
-http://iptvsbh.ddns.net:8003/live/reda/reda/1372.ts
-#EXTINF:-1,FR: FRANCE Ö HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1489.ts
-#EXTINF:-1,FR: W9
-http://iptvsbh.ddns.net:8003/live/reda/reda/1342.ts
-#EXTINF:-1,FR: W9 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1531.ts
-#EXTINF:-1,FR: M6
-http://iptvsbh.ddns.net:8003/live/reda/reda/1376.ts
-#EXTINF:-1,FR: M6 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1428.ts
-#EXTINF:-1,FR: M6 MUSIC
-http://iptvsbh.ddns.net:8003/live/reda/reda/1536.ts
-#EXTINF:-1,FR: RTL9
-http://iptvsbh.ddns.net:8003/live/reda/reda/1321.ts
-#EXTINF:-1,FR: NUMERO 23
-http://iptvsbh.ddns.net:8003/live/reda/reda/1328.ts
+#EXTINF:-1,13eme Rue HD FR
+http://clientportal.link:8080/live/cran/cran/2250.ts
+#EXTINF:-1,6ter HD FR
+http://clientportal.link:8080/live/cran/cran/3723.ts
+#EXTINF:-1,AB1 FR
+http://clientportal.link:8080/live/cran/cran/3731.ts
+#EXTINF:-1,AB1 HD FR
+http://clientportal.link:8080/live/cran/cran/13144.ts
+#EXTINF:-1,AB3 FR
+http://clientportal.link:8080/live/cran/cran/4470.ts
+#EXTINF:-1,Action FR
+http://clientportal.link:8080/live/cran/cran/4507.ts
+#EXTINF:-1,Animaux FR
+http://clientportal.link:8080/live/cran/cran/4469.ts
+#EXTINF:-1,Animaux HD FR
+http://clientportal.link:8080/live/cran/cran/13119.ts
+#EXTINF:-1,Arte HD FR
+http://clientportal.link:8080/live/cran/cran/3726.ts
+#EXTINF:-1,BFM TV FR
+http://clientportal.link:8080/live/cran/cran/3607.ts
+#EXTINF:-1,Be Curious TV HD FR
+http://clientportal.link:8080/live/cran/cran/13160.ts
+#EXTINF:-1,Boing HD FR
+http://clientportal.link:8080/live/cran/cran/13176.ts
+#EXTINF:-1,Boomerang FR
+http://clientportal.link:8080/live/cran/cran/2240.ts
+#EXTINF:-1,Canal Alpha HD FR
+http://clientportal.link:8080/live/cran/cran/13150.ts
+#EXTINF:-1,Canal J HD FR
+http://clientportal.link:8080/live/cran/cran/2239.ts
+#EXTINF:-1,Canal+ C8 HD FR
+http://clientportal.link:8080/live/cran/cran/2227.ts
+#EXTINF:-1,Canal+ CStar HD FR
+http://clientportal.link:8080/live/cran/cran/4459.ts
+#EXTINF:-1,Canal+ Cinema 1080P FR
+http://clientportal.link:8080/live/cran/cran/15283.ts
+#EXTINF:-1,Canal+ Cinema FR
+http://clientportal.link:8080/live/cran/cran/2207.ts
+#EXTINF:-1,Canal+ Cinema HD FR
+http://clientportal.link:8080/live/cran/cran/13131.ts
+#EXTINF:-1,Canal+ Decale FR
+http://clientportal.link:8080/live/cran/cran/3733.ts
+#EXTINF:-1,Canal+ Decale HD FR
+http://clientportal.link:8080/live/cran/cran/13134.ts
+#EXTINF:-1,Canal+ HD FR
+http://clientportal.link:8080/live/cran/cran/2206.ts
+#EXTINF:-1,Canal+ Family FR
+http://clientportal.link:8080/live/cran/cran/3735.ts
+#EXTINF:-1,Canal+ Family HD FR
+http://clientportal.link:8080/live/cran/cran/13132.ts
+#EXTINF:-1,Canal+ Series HD FR
+http://clientportal.link:8080/live/cran/cran/2211.ts
+#EXTINF:-1,Canal+ Sport 1080P FR
+http://clientportal.link:8080/live/cran/cran/15284.ts
+#EXTINF:-1,Canal+ Sport HD 1080P FR
+http://clientportal.link:8080/live/cran/cran/2210.ts
+#EXTINF:-1,Canal+ Sport HD FR
+http://clientportal.link:8080/live/cran/cran/13149.ts
+#EXTINF:-1,CanalPlay 1 HD FR
+http://clientportal.link:8080/live/cran/cran/6448.ts
+#EXTINF:-1,CanalPlay 2 HD FR
+http://clientportal.link:8080/live/cran/cran/6447.ts
+#EXTINF:-1,CanalPlay 3 HD FR
+http://clientportal.link:8080/live/cran/cran/6446.ts
+#EXTINF:-1,CanalPlay 4 HD FR
+http://clientportal.link:8080/live/cran/cran/6445.ts
+#EXTINF:-1,CanalPlay 5 HD FR
+http://clientportal.link:8080/live/cran/cran/6444.ts
+#EXTINF:-1,Cartoon Network HD FR
+http://clientportal.link:8080/live/cran/cran/2246.ts
+#EXTINF:-1,Chasse & Peche FR
+http://clientportal.link:8080/live/cran/cran/2257.ts
+#EXTINF:-1,Cherie 25 HD FR
+http://clientportal.link:8080/live/cran/cran/13158.ts
+#EXTINF:-1,Cine FX FR
+http://clientportal.link:8080/live/cran/cran/7806.ts
+#EXTINF:-1,Cine+ Classic HD FR
+http://clientportal.link:8080/live/cran/cran/2217.ts
+#EXTINF:-1,Cine+ Emotion HD FR
+http://clientportal.link:8080/live/cran/cran/2214.ts
+#EXTINF:-1,Cine+ Famiz HD FR
+http://clientportal.link:8080/live/cran/cran/2215.ts
+#EXTINF:-1,Cine+ Frisson HD FR
+http://clientportal.link:8080/live/cran/cran/2212.ts
+#EXTINF:-1,Cine+ Premier HD FR
+http://clientportal.link:8080/live/cran/cran/2213.ts
+#EXTINF:-1,Comedie+ FR
+http://clientportal.link:8080/live/cran/cran/3746.ts
+#EXTINF:-1,Comedie+ HD FR
+http://clientportal.link:8080/live/cran/cran/13146.ts
+#EXTINF:-1,Discovery Channel HD FR
+http://clientportal.link:8080/live/cran/cran/7579.ts
+#EXTINF:-1,Discovery Science HD FR
+http://clientportal.link:8080/live/cran/cran/7578.ts
+#EXTINF:-1,Disney Channel FR
+http://clientportal.link:8080/live/cran/cran/2241.ts
+#EXTINF:-1,Disney Channel HD FR
+http://clientportal.link:8080/live/cran/cran/13126.ts
+#EXTINF:-1,Disney Cinema FR
+http://clientportal.link:8080/live/cran/cran/13169.ts
+#EXTINF:-1,Disney Junior HD FR
+http://clientportal.link:8080/live/cran/cran/13170.ts
+#EXTINF:-1,Disney XD HD FR
+http://clientportal.link:8080/live/cran/cran/13171.ts
+#EXTINF:-1,E! HD FR
+http://clientportal.link:8080/live/cran/cran/2229.ts
+#EXTINF:-1,Equidia Live HD FR
+http://clientportal.link:8080/live/cran/cran/13181.ts
+#EXTINF:-1,EuroNews FR
+http://clientportal.link:8080/live/cran/cran/3751.ts
+#EXTINF:-1,Eurosport 1 HD FR
+http://clientportal.link:8080/live/cran/cran/2013.ts
+#EXTINF:-1,Eurosport 2 HD FR
+http://clientportal.link:8080/live/cran/cran/7572.ts
+#EXTINF:-1,Foot+ 24/24 FR
+http://clientportal.link:8080/live/cran/cran/7804.ts
+#EXTINF:-1,France 2 1080P FR
+http://clientportal.link:8080/live/cran/cran/14907.ts
+#EXTINF:-1,France 2 FR
+http://clientportal.link:8080/live/cran/cran/2200.ts
+#EXTINF:-1,France 24 FR
+http://clientportal.link:8080/live/cran/cran/3753.ts
+#EXTINF:-1,France 3 FR
+http://clientportal.link:8080/live/cran/cran/2201.ts
+#EXTINF:-1,France 4 FR
+http://clientportal.link:8080/live/cran/cran/2202.ts
+#EXTINF:-1,France 5 FR
+http://clientportal.link:8080/live/cran/cran/2203.ts
+#EXTINF:-1,France O FR
+http://clientportal.link:8080/live/cran/cran/3752.ts
+#EXTINF:-1,Game One HD FR
+http://clientportal.link:8080/live/cran/cran/7574.ts
+#EXTINF:-1,Golf+ HD FR
+http://clientportal.link:8080/live/cran/cran/13179.ts
+#EXTINF:-1,Gulli HD FR
+http://clientportal.link:8080/live/cran/cran/4465.ts
+#EXTINF:-1,HD1 FR
+http://clientportal.link:8080/live/cran/cran/13159.ts
+#EXTINF:-1,Histoire HD FR
+http://clientportal.link:8080/live/cran/cran/13166.ts
+#EXTINF:-1,Infosport+ HD FR
+http://clientportal.link:8080/live/cran/cran/7571.ts
+#EXTINF:-1,L'Equipe 21 FR
+http://clientportal.link:8080/live/cran/cran/4468.ts
+#EXTINF:-1,M6 HD FR
+http://clientportal.link:8080/live/cran/cran/3758.ts
+#EXTINF:-1,M6 Music FR
+http://clientportal.link:8080/live/cran/cran/4476.ts
+#EXTINF:-1,Elle Girl FR
+http://clientportal.link:8080/live/cran/cran/13189.ts
+#EXTINF:-1,Mangas FR
+http://clientportal.link:8080/live/cran/cran/2245.ts
+#EXTINF:-1,NRJ 12 FR
+http://clientportal.link:8080/live/cran/cran/3760.ts
+#EXTINF:-1,NT1 FR
+http://clientportal.link:8080/live/cran/cran/7561.ts
+#EXTINF:-1,Nat Geo Wild HD FR
+http://clientportal.link:8080/live/cran/cran/3606.ts
+#EXTINF:-1,National Geographic FR
+http://clientportal.link:8080/live/cran/cran/4467.ts
+#EXTINF:-1,Nick Jr. HD FR
+http://clientportal.link:8080/live/cran/cran/13173.ts
+#EXTINF:-1,Nickelodeon 4Teen HD 1080P FR
+http://clientportal.link:8080/live/cran/cran/15638.ts
+#EXTINF:-1,Nickelodeon HD FR
+http://clientportal.link:8080/live/cran/cran/13172.ts
+#EXTINF:-1,Numero 23 FR
+http://clientportal.link:8080/live/cran/cran/3750.ts
+#EXTINF:-1,Numero 23 HD FR
+http://clientportal.link:8080/live/cran/cran/13141.ts
+#EXTINF:-1,OCS Choc HD FR
+http://clientportal.link:8080/live/cran/cran/7576.ts
+#EXTINF:-1,OCS City HD FR
+http://clientportal.link:8080/live/cran/cran/3763.ts
+#EXTINF:-1,OCS Geants HD FR
+http://clientportal.link:8080/live/cran/cran/3762.ts
+#EXTINF:-1,OCS Max HD FR
+http://clientportal.link:8080/live/cran/cran/3761.ts
+#EXTINF:-1,PIWI+ HD FR
+http://clientportal.link:8080/live/cran/cran/13174.ts
+#EXTINF:-1,Paramount Channel HD FR
+http://clientportal.link:8080/live/cran/cran/13163.ts
+#EXTINF:-1,Paris Première HD FR
+http://clientportal.link:8080/live/cran/cran/2224.ts
+#EXTINF:-1,Planète+ Action & Experience FR
+http://clientportal.link:8080/live/cran/cran/2248.ts
+#EXTINF:-1,Planète+ Action & Experience HD FR
+http://clientportal.link:8080/live/cran/cran/13124.ts
+#EXTINF:-1,Planète+ Crime Investigation HD 1080P FR
+http://clientportal.link:8080/live/cran/cran/15639.ts
+#EXTINF:-1,Planète+ Crime Investigation HD FR
+http://clientportal.link:8080/live/cran/cran/2249.ts
+#EXTINF:-1,Planète+ HD FR
+http://clientportal.link:8080/live/cran/cran/2247.ts
+#EXTINF:-1,Polar FR
+http://clientportal.link:8080/live/cran/cran/7805.ts
+#EXTINF:-1,RMC Decouverte HD FR
+http://clientportal.link:8080/live/cran/cran/13157.ts
+#EXTINF:-1,RTBF La Deux FR
+http://clientportal.link:8080/live/cran/cran/4474.ts
+#EXTINF:-1,RTBF La Une HD FR
+http://clientportal.link:8080/live/cran/cran/4473.ts
+#EXTINF:-1,RTL9 FR
+http://clientportal.link:8080/live/cran/cran/3771.ts
+#EXTINF:-1,SFR Sport 1 HD FR
+http://clientportal.link:8080/live/cran/cran/13182.ts
+#EXTINF:-1,SFR Sport 2 HD FR
+http://clientportal.link:8080/live/cran/cran/2251.ts
+#EXTINF:-1,SFR Sport 3 HD FR
+http://clientportal.link:8080/live/cran/cran/13148.ts
+#EXTINF:-1,SFR Sport 4K FR
+http://clientportal.link:8080/live/cran/cran/13153.ts
+#EXTINF:-1,SFR Sport 5 HD FR
+http://clientportal.link:8080/live/cran/cran/13151.ts
+#EXTINF:-1,Science & Vie TV FR
+http://clientportal.link:8080/live/cran/cran/7799.ts
+#EXTINF:-1,Science & Vie TV HD FR
+http://clientportal.link:8080/live/cran/cran/13115.ts
+#EXTINF:-1,Seasons HD FR
+http://clientportal.link:8080/live/cran/cran/13186.ts
+#EXTINF:-1,SerieClub HD FR
+http://clientportal.link:8080/live/cran/cran/2221.ts
+#EXTINF:-1,Sport 365 HD FR
+http://clientportal.link:8080/live/cran/cran/13152.ts
+#EXTINF:-1,Syfy HD FR
+http://clientportal.link:8080/live/cran/cran/2228.ts
+#EXTINF:-1,TCM Cinéma FR
+http://clientportal.link:8080/live/cran/cran/2218.ts
+#EXTINF:-1,TF1 1080P FR
+http://clientportal.link:8080/live/cran/cran/14906.ts
+#EXTINF:-1,TF1 HD FR
+http://clientportal.link:8080/live/cran/cran/2204.ts
+#EXTINF:-1,TIJI HD FR
+http://clientportal.link:8080/live/cran/cran/2237.ts
+#EXTINF:-1,TMC FR
+http://clientportal.link:8080/live/cran/cran/13164.ts
+#EXTINF:-1,TV5 MONDE Europe FR
+http://clientportal.link:8080/live/cran/cran/3769.ts
+#EXTINF:-1,TVBreizh FR
+http://clientportal.link:8080/live/cran/cran/2244.ts
+#EXTINF:-1,TVBreizh HD FR
+http://clientportal.link:8080/live/cran/cran/13125.ts
+#EXTINF:-1,TeleToon+ HD FR
+http://clientportal.link:8080/live/cran/cran/4466.ts
+#EXTINF:-1,Teva FR
+http://clientportal.link:8080/live/cran/cran/2225.ts
+#EXTINF:-1,Toute l'Histoire FR
+http://clientportal.link:8080/live/cran/cran/7798.ts
+#EXTINF:-1,Trek HD FR
+http://clientportal.link:8080/live/cran/cran/13185.ts
+#EXTINF:-1,Ushuaïa TV HD FR
+http://clientportal.link:8080/live/cran/cran/4491.ts
+#EXTINF:-1,Voyage HD FR
+http://clientportal.link:8080/live/cran/cran/13167.ts
+#EXTINF:-1,W9 FR
+http://clientportal.link:8080/live/cran/cran/3770.ts
+#EXTINF:-1,Weo TV FR
+http://clientportal.link:8080/live/cran/cran/4464.ts
+#EXTINF:-1,i-Télé HD FR
+http://clientportal.link:8080/live/cran/cran/13154.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,FR: Teva HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4957.ts
+#EXTINF:-1,FR: TELETOON
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4958.ts
+#EXTINF:-1,FR: SyFy
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4959.ts
+#EXTINF:-1,FR: Planete  ci
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4936.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4933.ts
+#EXTINF:-1,FR: Paramount Channel HD France
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4949.ts
 #EXTINF:-1,FR: NT1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1327.ts
-#EXTINF:-1,FR: LCI
-http://iptvsbh.ddns.net:8003/live/reda/reda/1394.ts
-#EXTINF:-1,FR: CNEWS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1350.ts
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4934.ts
+#EXTINF:-1,FR: National Geographique
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4938.ts
+#EXTINF:-1,FR: L'EQUIPE21
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4935.ts
 #EXTINF:-1,FR: HD1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1326.ts
-#EXTINF:-1,FR: GULLI
-http://iptvsbh.ddns.net:8003/live/reda/reda/1384.ts
-#EXTINF:-1,FR: PARIS PREMIERE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1385.ts
-#EXTINF:-1,FR: PARIS PREMIERE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1463.ts
-#EXTINF:-1,FR: TMC
-http://iptvsbh.ddns.net:8003/live/reda/reda/1395.ts
-#EXTINF:-1,FR: TMC HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1421.ts
-#EXTINF:-1,FR: C8
-http://iptvsbh.ddns.net:8003/live/reda/reda/1393.ts
-#EXTINF:-1,FR: 6TER
-http://iptvsbh.ddns.net:8003/live/reda/reda/1324.ts
-#EXTINF:-1,FR: 6TER HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1502.ts
-#EXTINF:-1,FR: 13EME RUE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1351.ts
-#EXTINF:-1,FR: CANAL J
-http://iptvsbh.ddns.net:8003/live/reda/reda/1380.ts
-#EXTINF:-1,FR: BOOMERANG
-http://iptvsbh.ddns.net:8003/live/reda/reda/1363.ts
-#EXTINF:-1,FR: BOOMERANG HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1475.ts
-#EXTINF:-1,FR: BFM TV
-http://iptvsbh.ddns.net:8003/live/reda/reda/1392.ts
-#EXTINF:-1,FR: MANGAS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1403.ts
-#EXTINF:-1,FR: FRANCE 24
-http://iptvsbh.ddns.net:8003/live/reda/reda/1479.ts
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4941.ts
+#EXTINF:-1,FR: Eurosport 2
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4947.ts
 #EXTINF:-1,FR: EURONEWS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1469.ts
-#EXTINF:-1,FR: GAME ONE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1467.ts
-#EXTINF:-1,FR: CHERIE 25
-http://iptvsbh.ddns.net:8003/live/reda/reda/1325.ts
-#EXTINF:-1,FR: TEVA
-http://iptvsbh.ddns.net:8003/live/reda/reda/1530.ts
-#EXTINF:-1,FR: CSTAR
-http://iptvsbh.ddns.net:8003/live/reda/reda/1423.ts
-#EXTINF:-1,FR: AB3
-http://iptvsbh.ddns.net:8003/live/reda/reda/1478.ts
-#EXTINF:-1,FR: ARTE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1458.ts
-#EXTINF:-1,FR: EQUIDIA LIVE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1470.ts
-#EXTINF:-1,FR: NRJ 12
-http://iptvsbh.ddns.net:8003/live/reda/reda/1365.ts
-#EXTINF:-1,FR: NRJ HITS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1464.ts
-#EXTINF:-1,FR: TREK
-http://iptvsbh.ddns.net:8003/live/reda/reda/1460.ts
-#EXTINF:-1,FR: E! ENTERTAINMENT
-http://iptvsbh.ddns.net:8003/live/reda/reda/1491.ts
-#EXTINF:-1,FR: BOING
-http://iptvsbh.ddns.net:8003/live/reda/reda/1503.ts
-#EXTINF:-1,FR: HISTOIRE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1465.ts
-#EXTINF:-1,FR: TV BREIZH
-http://iptvsbh.ddns.net:8003/live/reda/reda/1485.ts
-#EXTINF:-1,FR: USHUAIA TV
-http://iptvsbh.ddns.net:8003/live/reda/reda/1484.ts
-#EXTINF:-1,FR: RTS UN HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1532.ts
-#EXTINF:-1,FR: RTS DEUX HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1533.ts
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1501.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1352.ts
-#EXTINF:-1,FR: BEIN SPORTS 2
-http://iptvsbh.ddns.net:8003/live/reda/reda/1500.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1353.ts
-#EXTINF:-1,FR: BEIN SPORTS 3
-http://iptvsbh.ddns.net:8003/live/reda/reda/1499.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1354.ts
-#EXTINF:-1,FR: SFR SPORT 1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1343.ts
-#EXTINF:-1,FR: SFR SPORT 2
-http://iptvsbh.ddns.net:8003/live/reda/reda/1344.ts
-#EXTINF:-1,FR: SFR SPORT 3
-http://iptvsbh.ddns.net:8003/live/reda/reda/1345.ts
-#EXTINF:-1,FR: EUROSPORT 1
-http://iptvsbh.ddns.net:8003/live/reda/reda/1349.ts
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1468.ts
-#EXTINF:-1,FR: EUROSPORT 2
-http://iptvsbh.ddns.net:8003/live/reda/reda/1322.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4
-http://iptvsbh.ddns.net:8003/live/reda/reda/1538.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 6
-http://iptvsbh.ddns.net:8003/live/reda/reda/1537.ts
-#EXTINF:-1,FR: FOOT+ 24/24
-http://iptvsbh.ddns.net:8003/live/reda/reda/1422.ts
-#EXTINF:-1,FR: INFOSPORT+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1513.ts
-#EXTINF:-1,FR: GOLF+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1466.ts
-#EXTINF:-1,FR: L'EQUIPE 21
-http://iptvsbh.ddns.net:8003/live/reda/reda/1514.ts
-#EXTINF:-1,FR: PLANETE+ CI
-http://iptvsbh.ddns.net:8003/live/reda/reda/1366.ts
-#EXTINF:-1,FR: PLANETE+ CI HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1534.ts
-#EXTINF:-1,FR: PLANETE+ A&E
-http://iptvsbh.ddns.net:8003/live/reda/reda/1323.ts
-#EXTINF:-1,FR: PLANETE+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1367.ts
-#EXTINF:-1,FR: PLANETE+ HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1462.ts
-#EXTINF:-1,FR: CANAL+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1331.ts
-#EXTINF:-1,FR: CANAL+ HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1474.ts
-#EXTINF:-1,FR: CANAL+ SPORT
-http://iptvsbh.ddns.net:8003/live/reda/reda/1359.ts
-#EXTINF:-1,FR: CANAL+ SPORT HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1473.ts
-#EXTINF:-1,FR: CANAL+ SERIES
-http://iptvsbh.ddns.net:8003/live/reda/reda/1319.ts
-#EXTINF:-1,FR: CANAL+ SERIES HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1496.ts
-#EXTINF:-1,FR: CANAL+ FAMILY
-http://iptvsbh.ddns.net:8003/live/reda/reda/1368.ts
-#EXTINF:-1,FR: CANAL+ FAMILY HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1425.ts
-#EXTINF:-1,FR: CANAL+ DECALE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1330.ts
-#EXTINF:-1,FR: CANAL+ DECALE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1497.ts
-#EXTINF:-1,FR: CANAL+ CINEMA
-http://iptvsbh.ddns.net:8003/live/reda/reda/1329.ts
-#EXTINF:-1,FR: CANAL+ CINEMA HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1498.ts
-#EXTINF:-1,FR: CINE+ PREMIER
-http://iptvsbh.ddns.net:8003/live/reda/reda/1333.ts
-#EXTINF:-1,FR: CINE+ PREMIER HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1482.ts
-#EXTINF:-1,FR: CINE+ EMOTION
-http://iptvsbh.ddns.net:8003/live/reda/reda/1370.ts
-#EXTINF:-1,FR: CINE+ EMOTION HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1424.ts
-#EXTINF:-1,FR: CINE+ CLASSIC
-http://iptvsbh.ddns.net:8003/live/reda/reda/1336.ts
-#EXTINF:-1,FR: CINE+ CLASSIC HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1495.ts
-#EXTINF:-1,FR: CINE+ FAMIZ
-http://iptvsbh.ddns.net:8003/live/reda/reda/1337.ts
-#EXTINF:-1,FR: CINE+ FAMIZ HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1494.ts
-#EXTINF:-1,FR: CINE+ FRISSON
-http://iptvsbh.ddns.net:8003/live/reda/reda/1332.ts
-#EXTINF:-1,FR: CINE+ FRISSON HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1493.ts
-#EXTINF:-1,FR: CINE POLAR
-http://iptvsbh.ddns.net:8003/live/reda/reda/1362.ts
-#EXTINF:-1,FR: CINE FX
-http://iptvsbh.ddns.net:8003/live/reda/reda/1472.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://iptvsbh.ddns.net:8003/live/reda/reda/1480.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1535.ts
-#EXTINF:-1,FR: SYFY
-http://iptvsbh.ddns.net:8003/live/reda/reda/1335.ts
-#EXTINF:-1,FR: ACTION
-http://iptvsbh.ddns.net:8003/live/reda/reda/1378.ts
-#EXTINF:-1,FR: ACTION HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1477.ts
-#EXTINF:-1,FR: SERIECLUB
-http://iptvsbh.ddns.net:8003/live/reda/reda/1334.ts
-#EXTINF:-1,FR: SERIECLUB HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1539.ts
-#EXTINF:-1,FR: SEASONS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1355.ts
-#EXTINF:-1,FR: COMEDIE+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1383.ts
-#EXTINF:-1,FR: OCS MAX
-http://iptvsbh.ddns.net:8003/live/reda/reda/1356.ts
-#EXTINF:-1,FR: OCS GEANTS
-http://iptvsbh.ddns.net:8003/live/reda/reda/1320.ts
-#EXTINF:-1,FR: OCS GEANTS HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1427.ts
-#EXTINF:-1,FR: OCS CITY
-http://iptvsbh.ddns.net:8003/live/reda/reda/1346.ts
-#EXTINF:-1,FR: OCS CHOC
-http://iptvsbh.ddns.net:8003/live/reda/reda/1340.ts
-#EXTINF:-1,FR: SCIENCE & VIE TV
-http://iptvsbh.ddns.net:8003/live/reda/reda/1379.ts
-#EXTINF:-1,FR: DISCOVERY CHANNEL
-http://iptvsbh.ddns.net:8003/live/reda/reda/1364.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1357.ts
-#EXTINF:-1,FR: ANIMAUX
-http://iptvsbh.ddns.net:8003/live/reda/reda/1318.ts
-#EXTINF:-1,FR: ANIMAUX HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1476.ts
-#EXTINF:-1,FR: RMC DECOUVERTE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1389.ts
-#EXTINF:-1,FR: RMC DECOUVERTE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1486.ts
-#EXTINF:-1,FR: TOUTE L'HISTOIRE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1420.ts
-#EXTINF:-1,FR: VOYAGE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1360.ts
-#EXTINF:-1,FR: VOYAGE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1459.ts
-#EXTINF:-1,FR: CHASSE & PECHE
-http://iptvsbh.ddns.net:8003/live/reda/reda/1386.ts
-#EXTINF:-1,FR: CHASSE & PECHE HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1419.ts
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
-http://iptvsbh.ddns.net:8003/live/reda/reda/1348.ts
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1339.ts
-#EXTINF:-1,FR: NAT GEO WILD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1358.ts
-#EXTINF:-1,FR: NAT GEO WILD HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1387.ts
-#EXTINF:-1,FR: NICKELODEON
-http://iptvsbh.ddns.net:8003/live/reda/reda/1388.ts
-#EXTINF:-1,FR: NICKELODEON HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1487.ts
-#EXTINF:-1,FR: NICKELODEON 4TEEN
-http://iptvsbh.ddns.net:8003/live/reda/reda/1488.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://iptvsbh.ddns.net:8003/live/reda/reda/1347.ts
-#EXTINF:-1,FR: DISNEY JUNIOR
-http://iptvsbh.ddns.net:8003/live/reda/reda/1361.ts
-#EXTINF:-1,FR: DISNEY CINEMA
-http://iptvsbh.ddns.net:8003/live/reda/reda/1418.ts
-#EXTINF:-1,FR: DISNEY XD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1492.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://iptvsbh.ddns.net:8003/live/reda/reda/1369.ts
-#EXTINF:-1,FR: ZOUZOUS TV
-http://iptvsbh.ddns.net:8003/live/reda/reda/1483.ts
-#EXTINF:-1,FR: PIWI+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1517.ts
-#EXTINF:-1,FR: TELETOON+
-http://iptvsbh.ddns.net:8003/live/reda/reda/1481.ts
-#EXTINF:-1,FR: TELETOON+ HD
-http://iptvsbh.ddns.net:8003/live/reda/reda/1461.ts
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4960.ts
+#EXTINF:-1,FR: ENORME TV
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4945.ts
+#EXTINF:-1,FR: Disney Cinema
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4944.ts
+#EXTINF:-1,FR: Discovery
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4940.ts
+#EXTINF:-1,FR: D17
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4932.ts
+#EXTINF:-1,FR: Cine Fil
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4954.ts
+#EXTINF:-1,FR: Cherie25 HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4956.ts
+#EXTINF:-1,FR: Cartoon Network HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4962.ts
+#EXTINF:-1,FR: Canal+ Cinema
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4970.ts
+#EXTINF:-1,FR: Canal+  Decale
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4967.ts
+#EXTINF:-1,FR: BFM business
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4946.ts
+#EXTINF:-1,FR: 6TER HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4961.ts
+#EXTINF:-1,FR: Arte HD
+http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/4942.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
