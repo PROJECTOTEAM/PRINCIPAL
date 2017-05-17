@@ -6,7 +6,50 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
+#EXTINF:-1, W9
+http://188.60.202.208:8080/play/w9
+#EXTINF:-1, Numero23
+http://188.60.202.208:8080/play/num23
+#EXTINF:-1, Cherie25
+http://188.60.202.208:8080/play/cherie25
+#EXTINF:-1, Cartoon Network
+http://188.60.202.208:8080/play/cnetw
+#EXTINF:-1, 6ter HD
+http://188.60.202.208:8080/play/6ter_HD
+#EXTINF:-1, France 3
+http://188.60.202.208:8080/play/france3
+#EXTINF:-1, C8
+http://188.60.202.208:8080/play/c8
+#EXTINF:-1, TF1
+http://188.60.202.208:8080/play/tf1
+#EXTINF:-1, France 5
+http://188.60.202.208:8080/play/france5
+#EXTINF:-1, Gulli
+http://188.60.202.208:8080/play/gulli
+#EXTINF:-1, TMC
+http://188.60.202.208:8080/play/tmc
+#EXTINF:-1, RTS UN
+http://188.60.202.208:8080/play/rts1
+#EXTINF:-1, RTS DEUX
+http://188.60.202.208:8080/play/rts2
+#EXTINF:-1, NT1
+http://188.60.202.208:8080/play/nt1
+#EXTINF:-1, RMC Decouverte HD
+http://188.60.202.208:8080/play/rmc
+#EXTINF:-1, France 2
+http://188.60.202.208:8080/play/france_2
+#EXTINF:-1, NRJ12
+http://188.60.202.208:8080/play/nrj12
+#EXTINF:-1, Arte HD
+http://188.60.202.208:8080/play/arte_HD
+#EXTINF:-1, M6 HD
+http://188.60.202.208:8080/play/m6
+#EXTINF:-1, HD1
+http://188.60.202.208:8080/play/hd1
+#EXTINF:-1, France O
+http://188.60.202.208:8080/play/franceo
+#EXTINF:-1, France 4
+http://188.60.202.208:8080/play/france4
 
 #EXTINF:-1,FR:TF1_HD
 http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/214.ts
