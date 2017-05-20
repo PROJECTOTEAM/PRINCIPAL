@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -16,134 +16,379 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTM3U
-#EXTINF:-1,PL: Polsat Sport News HD
-http://46.249.62.20:1824/play/a00u
-#EXTINF:-1,PL: 13 Ulica HD
-http://46.249.62.20:1824/play/a005
-#EXTINF:-1,PL: SciFi Universal
-http://46.249.62.20:1824/play/a00b
-#EXTINF:-1,PL: HBO HD
-http://46.249.62.20:1824/play/a00z
-#EXTINF:-1,PL: MiniMini+ HD
-http://46.249.62.20:1824/play/a00h
-#EXTINF:-1,PL: NATIONAL GEO HD
-http://46.249.62.20:1824/play/a00k
-#EXTINF:-1,PL: Universal HD
-http://46.249.62.20:1824/play/a003
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a009
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a00c
-#EXTINF:-1,PL: Eurosport 1 HD
-http://46.249.62.20:1824/play/a006
-#EXTINF:-1,PL: Nat Geo People HD
-http://46.249.62.20:1824/play/a00s
-#EXTINF:-1,PL: Fightbox HD
-http://46.249.62.20:1824/play/a007
-#EXTINF:-1,PL: Sundance HD
-http://46.249.62.20:1824/play/a002
-#EXTINF:-1,PL: TLC HD
-http://46.249.62.20:1824/play/a004
-#EXTINF:-1,PL: Discovery Science HD
-http://46.249.62.20:1824/play/a00y
-#EXTINF:-1,PL: TNT HD
-http://46.249.62.20:1824/play/a00q
-#EXTINF:-1,PL: FILMBOX EXTRA HD
-http://46.249.62.20:1824/play/a00j
-#EXTINF:-1,PL: Eurosport 2 HD
-http://46.249.62.20:1824/play/a012
-#EXTINF:-1,PL: STARS.TV
-http://46.249.62.20:1824/play/a00a
-#EXTINF:-1,PL: CBS Europa HD
-http://46.249.62.20:1824/play/a00w
-#EXTINF:-1,PL: CANAL+ HD
-http://46.249.62.20:1824/play/a00i
-#EXTINF:-1,PL: Cartoon Network HD
-http://46.249.62.20:1824/play/a00r
-#EXTINF:-1,PL: Disney Junior
-http://46.249.62.20:1824/play/a011
-#EXTINF:-1,PL: H2 HD
-http://46.249.62.20:1824/play/a008
-#EXTINF:-1,PL: Polsat Sport Fight HD
-http://46.249.62.20:1824/play/a013
-#EXTINF:-1,PL: CANAL+ SPORT HD
-http://46.249.62.20:1824/play/a00l
-#EXTINF:-1,PL: Extreme Sports HD
-http://46.249.62.20:1824/play/a00v
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,PL: CANAL+ HD
-http://46.249.62.20:1824/play/a00i
-#EXTINF:-1,PL: Disney Junior
-http://46.249.62.20:1824/play/a011
-#EXTINF:-1,PL: Eurosport 2 HD
-http://46.249.62.20:1824/play/a012
-#EXTINF:-1,PL: 13 Ulica HD
-http://46.249.62.20:1824/play/a005
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a009
-#EXTINF:-1,PL: H2 HD
-http://46.249.62.20:1824/play/a008
-#EXTINF:-1,PL: Cartoon Network HD
-http://46.249.62.20:1824/play/a00r
-#EXTINF:-1,PL: Eurosport 1 HD
-http://46.249.62.20:1824/play/a006
-#EXTINF:-1,PL: Nat Geo People HD
-http://46.249.62.20:1824/play/a00s
-#EXTINF:-1,PL: SciFi Universal
-http://46.249.62.20:1824/play/a00b
-#EXTINF:-1,PL: STARS.TV
-http://46.249.62.20:1824/play/a00a
-#EXTINF:-1,PL: TNT HD
-http://46.249.62.20:1824/play/a00q
-#EXTINF:-1,PL: CBS Europa HD
-http://46.249.62.20:1824/play/a00w
-#EXTINF:-1,PL: Polsat Sport Fight HD
-http://46.249.62.20:1824/play/a013
-#EXTINF:-1,PL: FILMBOX EXTRA HD
-http://46.249.62.20:1824/play/a00j
-#EXTINF:-1,PL: HBO HD
-http://46.249.62.20:1824/play/a00z
-#EXTINF:-1,PL: TLC HD
-http://46.249.62.20:1824/play/a004
-#EXTINF:-1,PL: Discovery Science HD
-http://46.249.62.20:1824/play/a00y
-#EXTINF:-1,PL: Polsat Sport News HD
-http://46.249.62.20:1824/play/a00u
-#EXTINF:-1,PL: Fightbox HD
-http://46.249.62.20:1824/play/a007
-#EXTINF:-1,PL: CANAL+ SPORT HD
-http://46.249.62.20:1824/play/a00l
-#EXTINF:-1,PL: Extreme Sports HD
-http://46.249.62.20:1824/play/a00v
-#EXTINF:-1,PL: Universal HD
-http://46.249.62.20:1824/play/a003
-#EXTINF:-1,PL: Sundance HD
-http://46.249.62.20:1824/play/a002
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a00c
-#EXTINF:-1,PL: MiniMini+ HD
-http://46.249.62.20:1824/play/a00h
-#EXTINF:-1,PL: NATIONAL GEO HD
-http://46.249.62.20:1824/play/a00k
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,13 Ulica HD PL
+http://clientportal.link:8080/live/cran/cran/15100.ts
+#EXTINF:-1,Adventure HD PL
+http://clientportal.link:8080/live/cran/cran/15205.ts
+#EXTINF:-1,AMC PL
+http://clientportal.link:8080/live/cran/cran/15218.ts
+#EXTINF:-1,AXN Black PL
+http://clientportal.link:8080/live/cran/cran/11512.ts
+#EXTINF:-1,AXN HD PL
+http://clientportal.link:8080/live/cran/cran/11699.ts
+#EXTINF:-1,AXN PL
+http://clientportal.link:8080/live/cran/cran/11511.ts
+#EXTINF:-1,AXN Spin HD PL
+http://clientportal.link:8080/live/cran/cran/11629.ts
+#EXTINF:-1,AXN White PL
+http://clientportal.link:8080/live/cran/cran/11513.ts
+#EXTINF:-1,DTX PL
+http://clientportal.link:8080/live/cran/cran/11196.ts
+#EXTINF:-1,Ale kino+ HD PL
+http://clientportal.link:8080/live/cran/cran/15219.ts
+#EXTINF:-1,Animal Planet HD PL
+http://clientportal.link:8080/live/cran/cran/13540.ts
+#EXTINF:-1,BBC Earth PL
+http://clientportal.link:8080/live/cran/cran/13538.ts
+#EXTINF:-1,BBC HD PL
+http://clientportal.link:8080/live/cran/cran/13537.ts
+#EXTINF:-1,Boomerang PL
+http://clientportal.link:8080/live/cran/cran/11522.ts
+#EXTINF:-1,CANAL+ 1 HD PL
+http://clientportal.link:8080/live/cran/cran/15204.ts
+#EXTINF:-1,CANAL+ DISCOVERY HD PL
+http://clientportal.link:8080/live/cran/cran/15217.ts
+#EXTINF:-1,CANAL+ FAMILY HD PL
+http://clientportal.link:8080/live/cran/cran/15216.ts
+#EXTINF:-1,CANAL+ FILM HD PL
+http://clientportal.link:8080/live/cran/cran/15215.ts
+#EXTINF:-1,CANAL+ SERIALE HD PL
+http://clientportal.link:8080/live/cran/cran/15214.ts
+#EXTINF:-1,CBS Drama PL
+http://clientportal.link:8080/live/cran/cran/11517.ts
+#EXTINF:-1,CBS Europa HD PL
+http://clientportal.link:8080/live/cran/cran/15202.ts
+#EXTINF:-1,CBS Reality PL
+http://clientportal.link:8080/live/cran/cran/11518.ts
+#EXTINF:-1,CC Family PL
+http://clientportal.link:8080/live/cran/cran/11704.ts
+#EXTINF:-1,CANAL+ HD PL
+http://clientportal.link:8080/live/cran/cran/13530.ts
+#EXTINF:-1,CANAL+ Sport HD PL
+http://clientportal.link:8080/live/cran/cran/13535.ts
+#EXTINF:-1,CANAL+ SPORT 2 HD PL
+http://clientportal.link:8080/live/cran/cran/15709.ts
+#EXTINF:-1,Cartoon Network HD PL
+http://clientportal.link:8080/live/cran/cran/15203.ts
+#EXTINF:-1,Cinemax HD PL
+http://clientportal.link:8080/live/cran/cran/15710.ts
+#EXTINF:-1,Cinemax 2 HD PL
+http://clientportal.link:8080/live/cran/cran/15099.ts
+#EXTINF:-1,Comedy Central Polska PL
+http://clientportal.link:8080/live/cran/cran/11707.ts
+#EXTINF:-1,Domo+ HD PL
+http://clientportal.link:8080/live/cran/cran/15199.ts
+#EXTINF:-1,Discovery Channel HD PL
+http://clientportal.link:8080/live/cran/cran/15213.ts
+#EXTINF:-1,Discovery Historia PL
+http://clientportal.link:8080/live/cran/cran/15098.ts
+#EXTINF:-1,Discovery ID PL
+http://clientportal.link:8080/live/cran/cran/11525.ts
+#EXTINF:-1,Discovery Life PL
+http://clientportal.link:8080/live/cran/cran/11520.ts
+#EXTINF:-1,Discovery HD PL
+http://clientportal.link:8080/live/cran/cran/11519.ts
+#EXTINF:-1,Discovery Science HD PL
+http://clientportal.link:8080/live/cran/cran/15201.ts
+#EXTINF:-1,Discovery Science PL
+http://clientportal.link:8080/live/cran/cran/11521.ts
+#EXTINF:-1,Discovery Turbo Xtra HD PL
+http://clientportal.link:8080/live/cran/cran/15212.ts
+#EXTINF:-1,Metro PL
+http://clientportal.link:8080/live/cran/cran/11195.ts
+#EXTINF:-1,Disney HD PL
+http://clientportal.link:8080/live/cran/cran/11523.ts
+#EXTINF:-1,Disney Junior PL
+http://clientportal.link:8080/live/cran/cran/15200.ts
+#EXTINF:-1,Disney XD PL
+http://clientportal.link:8080/live/cran/cran/11524.ts
+#EXTINF:-1,Eleven Extra HD PL
+http://clientportal.link:8080/live/cran/cran/15097.ts
+#EXTINF:-1,Eleven HD PL
+http://clientportal.link:8080/live/cran/cran/15198.ts
+#EXTINF:-1,Eleven Sports HD PL
+http://clientportal.link:8080/live/cran/cran/15197.ts
+#EXTINF:-1,8 TV PL
+http://clientportal.link:8080/live/cran/cran/11197.ts
+#EXTINF:-1,Focus TV PL
+http://clientportal.link:8080/live/cran/cran/15196.ts
+#EXTINF:-1,Eurosport 1 HD PL
+http://clientportal.link:8080/live/cran/cran/15096.ts
+#EXTINF:-1,Eurosport 2 HD PL
+http://clientportal.link:8080/live/cran/cran/15195.ts
+#EXTINF:-1,Extreme Sports HD PL
+http://clientportal.link:8080/live/cran/cran/15194.ts
+#EXTINF:-1,FightBox HD PL
+http://clientportal.link:8080/live/cran/cran/15095.ts
+#EXTINF:-1,Fightklub HD PL
+http://clientportal.link:8080/live/cran/cran/15193.ts
+#EXTINF:-1,FilmBox Extra HD PL
+http://clientportal.link:8080/live/cran/cran/15094.ts
+#EXTINF:-1,Filmbox Action PL
+http://clientportal.link:8080/live/cran/cran/11508.ts
+#EXTINF:-1,Filmbox Family PL
+http://clientportal.link:8080/live/cran/cran/11509.ts
+#EXTINF:-1,Filmbox PL
+http://clientportal.link:8080/live/cran/cran/11507.ts
+#EXTINF:-1,Filmbox Premium PL
+http://clientportal.link:8080/live/cran/cran/11510.ts
+#EXTINF:-1,Fokus TV PL
+http://clientportal.link:8080/live/cran/cran/12821.ts
+#EXTINF:-1,Fox Comedy HD PL
+http://clientportal.link:8080/live/cran/cran/11698.ts
+#EXTINF:-1,Fox Comedy PL
+http://clientportal.link:8080/live/cran/cran/11634.ts
+#EXTINF:-1,Fox HD PL
+http://clientportal.link:8080/live/cran/cran/11697.ts
+#EXTINF:-1,H2 HD PL
+http://clientportal.link:8080/live/cran/cran/15093.ts
+#EXTINF:-1,HBO 1 HD PL
+http://clientportal.link:8080/live/cran/cran/13526.ts
+#EXTINF:-1,HBO 2 HD PL
+http://clientportal.link:8080/live/cran/cran/13527.ts
+#EXTINF:-1,HBO 3 HD PL
+http://clientportal.link:8080/live/cran/cran/15092.ts
+#EXTINF:-1,HBO HD PL
+http://clientportal.link:8080/live/cran/cran/12812.ts
+#EXTINF:-1,HIP HOP TV PL
+http://clientportal.link:8080/live/cran/cran/12818.ts
+#EXTINF:-1,History HD PL
+http://clientportal.link:8080/live/cran/cran/15091.ts
+#EXTINF:-1,NOWA TV PL
+http://clientportal.link:8080/live/cran/cran/11193.ts
+#EXTINF:-1,Investigation Discovery HD PL
+http://clientportal.link:8080/live/cran/cran/15211.ts
+#EXTINF:-1,Kino Polska Muzyka PL
+http://clientportal.link:8080/live/cran/cran/15090.ts
+#EXTINF:-1,Kino Polska PL
+http://clientportal.link:8080/live/cran/cran/11192.ts
+#EXTINF:-1,Kuchnia HD PL
+http://clientportal.link:8080/live/cran/cran/13524.ts
+#EXTINF:-1,Kuchnia+ HD PL
+http://clientportal.link:8080/live/cran/cran/15210.ts
+#EXTINF:-1,Lifetime HD PL
+http://clientportal.link:8080/live/cran/cran/15089.ts
+#EXTINF:-1,MTV Live HD PL
+http://clientportal.link:8080/live/cran/cran/11703.ts
+#EXTINF:-1,MTV Polska PL
+http://clientportal.link:8080/live/cran/cran/11702.ts
+#EXTINF:-1,MTV ROCKS PL
+http://clientportal.link:8080/live/cran/cran/11635.ts
+#EXTINF:-1,Advanture HD PL
+http://clientportal.link:8080/live/cran/cran/11191.ts
+#EXTINF:-1,MiniMini+ HD PL
+http://clientportal.link:8080/live/cran/cran/15088.ts
+#EXTINF:-1,Motorwizja TV PL
+http://clientportal.link:8080/live/cran/cran/13523.ts
+#EXTINF:-1,NTL PL
+http://clientportal.link:8080/live/cran/cran/15190.ts
+#EXTINF:-1,National Geographic HD PL
+http://clientportal.link:8080/live/cran/cran/15087.ts
+#EXTINF:-1,Nat Geo PL
+http://clientportal.link:8080/live/cran/cran/11515.ts
+#EXTINF:-1,Nat Geo People HD PL
+http://clientportal.link:8080/live/cran/cran/15191.ts
+#EXTINF:-1,National Geographic Wild HD PL
+http://clientportal.link:8080/live/cran/cran/15711.ts
+#EXTINF:-1,Nat Geo Wild PL
+http://clientportal.link:8080/live/cran/cran/11516.ts
+#EXTINF:-1,Nick Jr Polska PL
+http://clientportal.link:8080/live/cran/cran/11706.ts
+#EXTINF:-1,Nickelodeon PL
+http://clientportal.link:8080/live/cran/cran/11705.ts
+#EXTINF:-1,Orange Sport PL
+http://clientportal.link:8080/live/cran/cran/11631.ts
+#EXTINF:-1,Power TV HD PL
+http://clientportal.link:8080/live/cran/cran/15186.ts
+#EXTINF:-1,Power TV PL
+http://clientportal.link:8080/live/cran/cran/15187.ts
+#EXTINF:-1,Hgtv HD  PL
+http://clientportal.link:8080/live/cran/cran/11188.ts
+#EXTINF:-1,Planete+ HD PL
+http://clientportal.link:8080/live/cran/cran/15208.ts
+#EXTINF:-1,Polo TV PL
+http://clientportal.link:8080/live/cran/cran/13517.ts
+#EXTINF:-1,Polonia 1 PL
+http://clientportal.link:8080/live/cran/cran/11711.ts
+#EXTINF:-1,POLSAT 2 HD PL
+http://clientportal.link:8080/live/cran/cran/12817.ts
+#EXTINF:-1,Polsat 2 PL
+http://clientportal.link:8080/live/cran/cran/11185.ts
+#EXTINF:-1,POLSAT Café HD PL
+http://clientportal.link:8080/live/cran/cran/11198.ts
+#EXTINF:-1,Hgtv PL
+http://clientportal.link:8080/live/cran/cran/11184.ts
+#EXTINF:-1,POLSAT Film HD PL
+http://clientportal.link:8080/live/cran/cran/15086.ts
+#EXTINF:-1,Polsat Film PL
+http://clientportal.link:8080/live/cran/cran/11183.ts
+#EXTINF:-1,POLSAT Food HD PL
+http://clientportal.link:8080/live/cran/cran/15189.ts
+#EXTINF:-1,Polsat HD PL
+http://clientportal.link:8080/live/cran/cran/11696.ts
+#EXTINF:-1,Polsat JimJam PL
+http://clientportal.link:8080/live/cran/cran/11710.ts
+#EXTINF:-1,Polsat News 2 PL
+http://clientportal.link:8080/live/cran/cran/11181.ts
+#EXTINF:-1,POLSAT News HD PL
+http://clientportal.link:8080/live/cran/cran/15085.ts
+#EXTINF:-1,Eska PL
+http://clientportal.link:8080/live/cran/cran/11182.ts
+#EXTINF:-1,Polsat PL
+http://clientportal.link:8080/live/cran/cran/11186.ts
+#EXTINF:-1,Polsat Play HD PL
+http://clientportal.link:8080/live/cran/cran/11177.ts
+#EXTINF:-1,Polsat Play PL
+http://clientportal.link:8080/live/cran/cran/11180.ts
+#EXTINF:-1,Polsat Romans PL
+http://clientportal.link:8080/live/cran/cran/11709.ts
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://clientportal.link:8080/live/cran/cran/11201.ts
+#EXTINF:-1,POLSAT Sport Fight HD PL
+http://clientportal.link:8080/live/cran/cran/15188.ts
+#EXTINF:-1,Polsat Sport HD PL
+http://clientportal.link:8080/live/cran/cran/11200.ts
+#EXTINF:-1,Super Polsat PL
+http://clientportal.link:8080/live/cran/cran/11199.ts
+#EXTINF:-1,POLSAT Viasat History HD PL
+http://clientportal.link:8080/live/cran/cran/15084.ts
+#EXTINF:-1,Puls 2 PL
+http://clientportal.link:8080/live/cran/cran/15185.ts
+#EXTINF:-1,Romance TV PL
+http://clientportal.link:8080/live/cran/cran/15207.ts
+#EXTINF:-1,Sportklub PL
+http://clientportal.link:8080/live/cran/cran/15083.ts
+#EXTINF:-1,STARS.TV PL
+http://clientportal.link:8080/live/cran/cran/15082.ts
+#EXTINF:-1,Sundance TV HD PL
+http://clientportal.link:8080/live/cran/cran/15081.ts
+#EXTINF:-1,TELE 5 PL
+http://clientportal.link:8080/live/cran/cran/11630.ts
+#EXTINF:-1,TLC HD PL
+http://clientportal.link:8080/live/cran/cran/15080.ts
+#EXTINF:-1,TLC PL
+http://clientportal.link:8080/live/cran/cran/11632.ts
+#EXTINF:-1,TNT HD PL
+http://clientportal.link:8080/live/cran/cran/15184.ts
+#EXTINF:-1,TNT PL
+http://clientportal.link:8080/live/cran/cran/11633.ts
+#EXTINF:-1,TO!TV PL
+http://clientportal.link:8080/live/cran/cran/15183.ts
+#EXTINF:-1,TTV HD PL
+http://clientportal.link:8080/live/cran/cran/15181.ts
+#EXTINF:-1,TV 4 HD PL
+http://clientportal.link:8080/live/cran/cran/11178.ts
+#EXTINF:-1,TV 4 PL
+http://clientportal.link:8080/live/cran/cran/11179.ts
+#EXTINF:-1,TVP INFO HD PL
+http://clientportal.link:8080/live/cran/cran/15078.ts
+#EXTINF:-1,TV6 PL
+http://clientportal.link:8080/live/cran/cran/11708.ts
+#EXTINF:-1,TVN 24 Biznes i Świat PL
+http://clientportal.link:8080/live/cran/cran/11175.ts
+#EXTINF:-1,TVN 24 HD PL
+http://clientportal.link:8080/live/cran/cran/15180.ts
+#EXTINF:-1,TVN 24 PL
+http://clientportal.link:8080/live/cran/cran/11171.ts
+#EXTINF:-1,TVN 24+ PL
+http://clientportal.link:8080/live/cran/cran/11170.ts
+#EXTINF:-1,TVN 7 HD PL
+http://clientportal.link:8080/live/cran/cran/15179.ts
+#EXTINF:-1,TVN Fabuła HD PL
+http://clientportal.link:8080/live/cran/cran/15178.ts
+#EXTINF:-1,TVN HD PL
+http://clientportal.link:8080/live/cran/cran/15177.ts
+#EXTINF:-1,TVN Meteo Active PL
+http://clientportal.link:8080/live/cran/cran/11174.ts
+#EXTINF:-1,TVN PL
+http://clientportal.link:8080/live/cran/cran/11176.ts
+#EXTINF:-1,TVN Style HD PL
+http://clientportal.link:8080/live/cran/cran/15176.ts
+#EXTINF:-1,TVN Style PL
+http://clientportal.link:8080/live/cran/cran/11173.ts
+#EXTINF:-1,TVN Turbo HD PL
+http://clientportal.link:8080/live/cran/cran/15175.ts
+#EXTINF:-1,TVN Turbo PL
+http://clientportal.link:8080/live/cran/cran/11172.ts
+#EXTINF:-1,TVN 7 PL
+http://clientportal.link:8080/live/cran/cran/13539.ts
+#EXTINF:-1,TVP 1 HD PL
+http://clientportal.link:8080/live/cran/cran/12810.ts
+#EXTINF:-1,TVP 2 HD PL
+http://clientportal.link:8080/live/cran/cran/12811.ts
+#EXTINF:-1,TVP 3 PL
+http://clientportal.link:8080/live/cran/cran/15077.ts
+#EXTINF:-1,TVP ABC PL
+http://clientportal.link:8080/live/cran/cran/15076.ts
+#EXTINF:-1,TVP HD PL
+http://clientportal.link:8080/live/cran/cran/12809.ts
+#EXTINF:-1,TVP Historia PL
+http://clientportal.link:8080/live/cran/cran/15075.ts
+#EXTINF:-1,TVP Info PL
+http://clientportal.link:8080/live/cran/cran/15074.ts
+#EXTINF:-1,TVP Seriale PL
+http://clientportal.link:8080/live/cran/cran/11514.ts
+#EXTINF:-1,TVP Sport HD PL
+http://clientportal.link:8080/live/cran/cran/12826.ts
+#EXTINF:-1,TVS PL
+http://clientportal.link:8080/live/cran/cran/12820.ts
+#EXTINF:-1,Trace Urban PL
+http://clientportal.link:8080/live/cran/cran/15079.ts
+#EXTINF:-1,Da Vinci Learning PL
+http://clientportal.link:8080/live/cran/cran/15182.ts
+#EXTINF:-1,Universal Channel HD PL
+http://clientportal.link:8080/live/cran/cran/15073.ts
+#EXTINF:-1,VH1 PL
+http://clientportal.link:8080/live/cran/cran/11701.ts
+#EXTINF:-1,VIVA Polska PL
+http://clientportal.link:8080/live/cran/cran/11700.ts
+#EXTINF:-1,VOX Music TV PL
+http://clientportal.link:8080/live/cran/cran/15174.ts
+#EXTINF:-1,Zest TV PL
+http://clientportal.link:8080/live/cran/cran/15072.ts
+#EXTINF:-1,nSport HD PL
+http://clientportal.link:8080/live/cran/cran/11190.ts
+#EXTINF:-1,nSport+ HD PL
+http://clientportal.link:8080/live/cran/cran/15209.ts
+#EXTINF:-1,teleTOON+ HD PL
+http://clientportal.link:8080/live/cran/cran/15206.ts
+#EXTINF:-1,Party TV eska PL
+http://clientportal.link:8080/live/cran/cran/16266.ts
+#EXTINF:-1,4Fun Dance PL
+http://clientportal.link:8080/live/cran/cran/16291.ts
+#EXTINF:-1,4Fun Gold Hits PL
+http://clientportal.link:8080/live/cran/cran/16290.ts
+#EXTINF:-1,4Fun.TV PL
+http://clientportal.link:8080/live/cran/cran/16289.ts
+#EXTINF:-1,CBS Action PL
+http://clientportal.link:8080/live/cran/cran/16288.ts
+#EXTINF:-1,Filmbox Arthouse PL
+http://clientportal.link:8080/live/cran/cran/16287.ts
+#EXTINF:-1,History PL
+http://clientportal.link:8080/live/cran/cran/16286.ts
+#EXTINF:-1,MuzoTV PL
+http://clientportal.link:8080/live/cran/cran/16285.ts
+#EXTINF:-1,Stopklatka TV PL
+http://clientportal.link:8080/live/cran/cran/16284.ts
+#EXTINF:-1,TV Republika PL
+http://clientportal.link:8080/live/cran/cran/16283.ts
+#EXTINF:-1,TVP Rozrywka PL
+http://clientportal.link:8080/live/cran/cran/16282.ts
+#EXTINF:-1,VOD 202 PL
+http://clientportal.link:8080/live/cran/cran/16281.ts
+#EXTINF:-1,VOD 204 PL
+http://clientportal.link:8080/live/cran/cran/16280.ts
+#EXTINF:-1,VOD 205 PL
+http://clientportal.link:8080/live/cran/cran/16279.ts
+#EXTINF:-1,VOD 206 PL
+http://clientportal.link:8080/live/cran/cran/16278.ts
+#EXTINF:-1,VOD 207 PL
+http://clientportal.link:8080/live/cran/cran/16277.ts
+#EXTINF:-1,VOD 208 PL
+http://clientportal.link:8080/live/cran/cran/16276.ts
+#EXTINF:-1,VOD 212 PL
+http://clientportal.link:8080/live/cran/cran/16275.ts
+#EXTINF:-1,Wellbeing PL
+http://clientportal.link:8080/live/cran/cran/16274.ts
+#EXTINF:-1,Zoom TV PL
+http://clientportal.link:8080/live/cran/cran/16271.ts

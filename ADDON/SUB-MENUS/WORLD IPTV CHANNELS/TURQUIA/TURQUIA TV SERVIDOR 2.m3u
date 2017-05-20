@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -9,124 +9,428 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-#EXTINF:-1,TR: VIP CHANNEL 1 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8520.ts
-#EXTINF:-1,TR: TIVIBU SPOR 4
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8506.ts
-#EXTINF:-1,TR: STAR TV SD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8510.ts
-#EXTINF:-1,TR: STAR TV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8509.ts
-#EXTINF:-1,TR: SMART SPOR HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8502.ts
-#EXTINF:-1,TR: Saran Sport HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8503.ts
-#EXTINF:-1,TR: POWER HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8507.ts
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC WILD HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8515.ts
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC PEOPLE HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8512.ts
-#EXTINF:-1,TR: KANAL D SD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8508.ts
-#EXTINF:-1,TR: EUROSPORT 1 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8516.ts
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/8514.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,TR: LIG TV 3
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/1746.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3402.ts
-#EXTINF:-1,TR: SKYTURK 360
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3397.ts
-#EXTINF:-1,TR: MovieMax Premier 2 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3415.ts
-#EXTINF:-1,TR: LIG TV 1 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3396.ts
-#EXTINF:-1,TR: TV 8 HD YEDEK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2954.ts
-#EXTINF:-1,TR: TV 8 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2953.ts
-#EXTINF:-1,TR: TRT TURK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2944.ts
-#EXTINF:-1,TR: TRT SPOR HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2974.ts
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2983.ts
-#EXTINF:-1,TR: SINETIVI KARNAVAL HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/3002.ts
-#EXTINF:-1,TR: SHOW TV YEDEK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2952.ts
+#EXTINF:-1,TR: SHOW HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6709.ts
 #EXTINF:-1,TR: SHOW TV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2951.ts
-#EXTINF:-1,TR: NTV SPOR HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2972.ts
-#EXTINF:-1,TR: KANAL A
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2960.ts
-#EXTINF:-1,TR: HABER TURK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2969.ts
-#EXTINF:-1,TR: FOX TV YEDEK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2950.ts
-#EXTINF:-1,TR: FOX TV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2949.ts
-#EXTINF:-1,TR: BLOOMBERGHT
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2967.ts
-#EXTINF:-1,TR: ATV YEDEK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2946.ts
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6708.ts
+#EXTINF:-1,TR: STAR TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6707.ts
+#EXTINF:-1,TR: Star HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6736.ts
+#EXTINF:-1,TR: Star TV HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6771.ts
+#EXTINF:-1,TR: KANAL D HD YEDEK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6772.ts
+#EXTINF:-1,TR: Kanal D HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6780.ts
 #EXTINF:-1,TR: ATV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/2945.ts
-#EXTINF:-1,TR: TIVIBUSPOR 1
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/581.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/582.ts
-#EXTINF:-1,TR: LIG TV 2 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/576.ts
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6791.ts
+#EXTINF:-1,(TR) Euro D
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6652.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6706.ts
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6781.ts
+#EXTINF:-1,TR: KANAL A HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6806.ts
+#EXTINF:-1,Lig TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/5649.ts
+#EXTINF:-1,Lig TV 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/5650.ts
+#EXTINF:-1,Lig TV 3
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/5651.ts
+#EXTINF:-1,Lig TV 4
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/5652.ts
+#EXTINF:-1,TR: Lig TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6680.ts
+#EXTINF:-1,TR: beINSport 1 HD TR
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6681.ts
+#EXTINF:-1,TR: beINSport 2 HD TR
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6682.ts
+#EXTINF:-1,TR: beINSport 3 HD TR
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6683.ts
+#EXTINF:-1,TR: Lig TV 4
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6684.ts
+#EXTINF:-1,TR:LIGTV4 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6757.ts
+#EXTINF:-1,TR: TIVIBU SPORT 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6687.ts
+#EXTINF:-1,TR: TIVIBU SPORT 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6688.ts
+#EXTINF:-1,TR: TIVIBU SPORT 3
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6689.ts
+#EXTINF:-1,TR: TIVIBU SPORT 4
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6690.ts
+#EXTINF:-1,TR:TVBU SPOR 3 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6747.ts
+#EXTINF:-1,TR:TVBU SPOR 4 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6746.ts
+#EXTINF:-1,TR:GALATASARAY TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6758.ts
+#EXTINF:-1,TR:FENERBAHCE TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6759.ts
+#EXTINF:-1,TR:BJK TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6761.ts
+#EXTINF:-1,TR: Bursaspor
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6692.ts
+#EXTINF:-1,TR:BURSASPOR TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6760.ts
+#EXTINF:-1,TR: A Spor HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6686.ts
+#EXTINF:-1,TR: PowerTurk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6799.ts
+#EXTINF:-1,TR: NTV Spor
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6685.ts
+#EXTINF:-1,TR: TRT Sport HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6796.ts
+#EXTINF:-1,TR: TRT SPOR
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6699.ts
+#EXTINF:-1,TR: Smart Spor 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6722.ts
+#EXTINF:-1,TR: Smart Spor 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6723.ts
+#EXTINF:-1,TR:TURKBOXTURK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6748.ts
+#EXTINF:-1,TR:TURKBOXPREMIUM
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6749.ts
+#EXTINF:-1,TR:TURKBOXMACERA
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6750.ts
+#EXTINF:-1,TR:TURKBOXGERMANY
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6751.ts
+#EXTINF:-1,TR:TURKBOXGERILIM
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6752.ts
+#EXTINF:-1,TR:TURKBOXCOMEDY
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6753.ts
+#EXTINF:-1,TR:TURKBOXCLASSIC
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6754.ts
+#EXTINF:-1,TR:TURKBOXAILE
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6755.ts
+#EXTINF:-1,TR:TURKBOXACTION
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6756.ts
+#EXTINF:-1,TR:SINETIVI_HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6765.ts
+#EXTINF:-1,TR:SINETIVI_ADRENALIN_2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6766.ts
+#EXTINF:-1,TR:SINETIVI_ADRENALIN
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6767.ts
+#EXTINF:-1,TR:SINETIVI_2 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6768.ts
+#EXTINF:-1,TR:SineMAX_Fear_HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6769.ts
+#EXTINF:-1,TR:Kral TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6691.ts
+#EXTINF:-1,TR:FILMBOX_2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6770.ts
+#EXTINF:-1,TR: NTV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6762.ts
+#EXTINF:-1,TR: YOL TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6794.ts
 #EXTINF:-1,TR: ULKE TV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/793.ts
-#EXTINF:-1,TR: TV EM
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/762.ts
-#EXTINF:-1,TR: TV 2 HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/792.ts
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6696.ts
+#EXTINF:-1,TR: TV2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6795.ts
+#EXTINF:-1,TR: TV 8 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6697.ts
+#EXTINF:-1,TR: TRT World
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6693.ts
+#EXTINF:-1,TR: TRT TÜRK HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6698.ts
+#EXTINF:-1,TR: TRT Okul
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6700.ts
+#EXTINF:-1,TR: TRT MUZIK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6701.ts
+#EXTINF:-1,TR: TRT Kurdi
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6702.ts
+#EXTINF:-1,TR: TRT HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6694.ts
 #EXTINF:-1,TR: TRT HABER HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/767.ts
-#EXTINF:-1,TR: KANAL D HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/777.ts
-#EXTINF:-1,TR: KANAL7
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/787.ts
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6797.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6703.ts
+#EXTINF:-1,TR: TRT COCUK HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6716.ts
+#EXTINF:-1,TR: TRT COCUK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6704.ts
+#EXTINF:-1,TR: TRT Belgesel
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6792.ts
+#EXTINF:-1,TR: TRT Avaz
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6793.ts
+#EXTINF:-1,TR: TRT ArapÃ§a
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6705.ts
+#EXTINF:-1,TR: Smart Çoçuk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6710.ts
+#EXTINF:-1,TR: Sinema TV 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6739.ts
+#EXTINF:-1,TR: Sinema 2 HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6740.ts
+#EXTINF:-1,TR: Sinema Korku
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6737.ts
+#EXTINF:-1,TR: Sinema Gold
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6738.ts
+#EXTINF:-1,TR: SEMERKAND TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6798.ts
+#EXTINF:-1,TR: Samanyolu TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6721.ts
+#EXTINF:-1,TR: Salon 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6726.ts
+#EXTINF:-1,TR: Salon 1 3D
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6724.ts
+#EXTINF:-1,TR: Salon 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6727.ts
+#EXTINF:-1,TR: Salon 2 3D
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6725.ts
+#EXTINF:-1,TR: Salon 3
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6728.ts
+#EXTINF:-1,TR: Salon 4
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6729.ts
+#EXTINF:-1,TR: Salon 5
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6730.ts
+#EXTINF:-1,TR: Salon 6
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6731.ts
+#EXTINF:-1,TR: Salon 7
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6732.ts
+#EXTINF:-1,TR: Salon 8
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6733.ts
+#EXTINF:-1,TR: Salon 9
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6734.ts
+#EXTINF:-1,TR: Salon 10
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6735.ts
+#EXTINF:-1,TR: Moviesmart Turk HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6717.ts
+#EXTINF:-1,TR: Moviesmart Platin HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6718.ts
+#EXTINF:-1,TR: Moviesmart Gold HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6719.ts
+#EXTINF:-1,TR: MovieSmart Family HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6763.ts
+#EXTINF:-1,TR: Moviesmart Action HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6720.ts
+#EXTINF:-1,TR: Minka GO
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6800.ts
+#EXTINF:-1,TR: Minka Cocuk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6801.ts
+#EXTINF:-1,TR: MINIKA COCUK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6802.ts
+#EXTINF:-1,TR:VIXX-TV-KORKU
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6741.ts
+#EXTINF:-1,TR:VIXX-TV-AKSIYON
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6742.ts
+#EXTINF:-1,TR:VIXX TV TURK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6743.ts
+#EXTINF:-1,TR:VIXX TV KOMEDI
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6744.ts
+#EXTINF:-1,TR:VIXX
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6745.ts
+#EXTINF:-1,TR: LOCA 3
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6804.ts
+#EXTINF:-1,TR: LOCA 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6803.ts
+#EXTINF:-1,TR: Kral Pop
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6764.ts
+#EXTINF:-1,TR: Kanal TÃ¼rk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6805.ts
+#EXTINF:-1,TR: Kanal 24
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6782.ts
+#EXTINF:-1,TR: ISTANBUL TV 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6783.ts
+#EXTINF:-1,TR: HALK TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6807.ts
 #EXTINF:-1,TR: HABER TURK HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/788.ts
-#EXTINF:-1,TR: FLASH TV
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/801.ts
-#EXTINF:-1,TR: FIL TV HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/765.ts
-#EXTINF:-1,TR: CARTOON NETWORK
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/763.ts
-#EXTINF:-1,TR: A SPOR HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/800.ts
-#EXTINF:-1,TR: A HABER HD
-http://1sn.ns1.name:18800/live/starseven18/norways2352gdd/799.ts
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6808.ts
+#EXTINF:-1,TR: FOX TV HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6784.ts
+#EXTINF:-1,TR: FOX HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6809.ts
+#EXTINF:-1,TR: Flash TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6785.ts
+#EXTINF:-1,TR: FIL TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6810.ts
+#EXTINF:-1,TR: Fanatik TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6786.ts
+#EXTINF:-1,TR: Dream TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6788.ts
+#EXTINF:-1,TR: DREAM TURK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6787.ts
+#EXTINF:-1,TR: Disney XD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6711.ts
+#EXTINF:-1,TR: Disney JR
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6712.ts
+#EXTINF:-1,TR: Disney Channel
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6713.ts
+#EXTINF:-1,TR: Digimax Animation
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6714.ts
+#EXTINF:-1,TR: CNN TURK HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6789.ts
+#EXTINF:-1,TR: Cartoon Network
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6715.ts
+#EXTINF:-1,TR: Beyaz TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6790.ts
+#EXTINF:-1,TR: BENGU TURK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6811.ts
+#EXTINF:-1,TR: Ballkan TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6812.ts
+#EXTINF:-1,TR: AKILLI TV  (Ammazing Videos)
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6679.ts
+#EXTINF:-1,TR:  Haber HD
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6695.ts
+#EXTINF:-1,TR | CINESTAR VIZYON 1
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6773.ts
+#EXTINF:-1,TR | CINESTAR TURK 2
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6774.ts
+#EXTINF:-1,TR | CINESTAR TURK
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6775.ts
+#EXTINF:-1,TR | CINESTAR KOMEDI
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6776.ts
+#EXTINF:-1,TR | CINESTAR GERILIM
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6777.ts
+#EXTINF:-1,TR | CINESTAR ANIMASYON
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6778.ts
+#EXTINF:-1,TR | CINESTAR AILE
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6779.ts
+#EXTINF:-1,(TR) Yaban TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6674.ts
+#EXTINF:-1,(TR) Ulusal Kanal
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6656.ts
+#EXTINF:-1,(TR) TRT Turk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6672.ts
+#EXTINF:-1,(TR) TRT Okul
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6678.ts
+#EXTINF:-1,(TR) TRT Muzik
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6671.ts
+#EXTINF:-1,(TR) TRT Cocuk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6677.ts
+#EXTINF:-1,(TR) TRT Belgesel
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6673.ts
+#EXTINF:-1,(TR) Planet Cocuk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6676.ts
+#EXTINF:-1,(TR) NTV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6654.ts
+#EXTINF:-1,(TR) Minika Go
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6675.ts
+#EXTINF:-1,(TR) KRT
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6667.ts
+#EXTINF:-1,(TR) Kral TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6670.ts
+#EXTINF:-1,(TR) Koza TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6668.ts
+#EXTINF:-1,(TR) Kanal T
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6666.ts
+#EXTINF:-1,(TR) Kanal B
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6665.ts
+#EXTINF:-1,(TR) Kanal A
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6664.ts
+#EXTINF:-1,(TR) Kanal 3
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6663.ts
+#EXTINF:-1,(TR) Halk TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6655.ts
+#EXTINF:-1,(TR) Ege TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6657.ts
+#EXTINF:-1,(TR) Edessa TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6661.ts
+#EXTINF:-1,(TR) DRT Denizli
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6659.ts
+#EXTINF:-1,(TR) Dream Turk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6669.ts
+#EXTINF:-1,(TR) Dost TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6660.ts
+#EXTINF:-1,(TR) CNN Turk
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6653.ts
+#EXTINF:-1,(TR) Aksu TV
+http://www.goldtv.al:8000/live/Hoxha/Hoxha/6658.ts
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TR- TRT1 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/232.ts
+#EXTINF:-1,TR- ATV HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/231.ts
+#EXTINF:-1,TR- STAR TV
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/196.ts
+#EXTINF:-1,TR-SHOW TV
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/195.ts
+#EXTINF:-1,TR-KANAL D
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/197.ts
+#EXTINF:-1,TR- Fox HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/198.ts
+#EXTINF:-1,TR- TV 8 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/199.ts
+#EXTINF:-1,TR-KANAL 7
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/201.ts
+#EXTINF:-1,TR- SALON 1 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/207.ts
+#EXTINF:-1,TR- SALON 2 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/208.ts
+#EXTINF:-1,TR- SALON 3 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/209.ts
+#EXTINF:-1,GIGAMAX TURK HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/382.ts
+#EXTINF:-1,GIGAMAX YESILCAM HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/333.ts
+#EXTINF:-1,GIGAMAX HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/331.ts
+#EXTINF:-1,GIGAMAX 2 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/332.ts
+#EXTINF:-1,TR- SineMAX_Fear_HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/252.ts
+#EXTINF:-1,TR- TRT SPOR
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/243.ts
+#EXTINF:-1,TR- NTV SPOR
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/247.ts
+#EXTINF:-1,TR- NTV_HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/357.ts
+#EXTINF:-1,TR- HABER TURK HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/358.ts
+#EXTINF:-1,TR- LIG TV HD 1
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/204.ts
+#EXTINF:-1,TR- LIGTV 2 HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/205.ts
+#EXTINF:-1,TR- CNN TURK
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/206.ts
+#EXTINF:-1,TR- Tivibu Spor
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/285.ts
+#EXTINF:-1,TR- TİVİBU SPOR 2
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/355.ts
+#EXTINF:-1,TR- Smart Spor HD 1
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/283.ts
+#EXTINF:-1,TR:VIASAT NATURA & VIASAT HISTORY
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/354.ts
+#EXTINF:-1,TR:NAT GEO WILD HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/351.ts
+#EXTINF:-1,TR:HISTORY HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/352.ts
+#EXTINF:-1,TR:  DA VINCI LEARNING HD
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/353.ts
+#EXTINF:-1,TR-BEYAZ TV
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/202.ts
+#EXTINF:-1,TR: cinema
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/257.ts
+#EXTINF:-1,TR- TRT COCUK
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/223.ts
+#EXTINF:-1,TR- NUMBER ONE TURK
+http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/218.ts
