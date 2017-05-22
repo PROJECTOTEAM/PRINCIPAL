@@ -1,222 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
-#EXTINF:-1,FR:TF1_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/214.ts
-#EXTINF:-1,FR:M6_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/213.ts
-#EXTINF:-1,FR:France2
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/212.ts
-#EXTINF:-1,FR:FRANCE3
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/211.ts
-#EXTINF:-1,FR:FRANCE4
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/210.ts
-#EXTINF:-1,FR:FRANCE5
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/209.ts
-#EXTINF:-1,FR:FRANCE_24
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/169.ts
-#EXTINF:-1,FR:Canal Cinema
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/193.ts
-#EXTINF:-1,FR:Canal Decale
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/194.ts
-#EXTINF:-1,FR:CANAL FAMILY
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/192.ts
-#EXTINF:-1,FR:CANAL HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/195.ts
-#EXTINF:-1,FR:Canal Series
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/191.ts
-#EXTINF:-1,FR:Cine Classic
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/185.ts
-#EXTINF:-1,FR:Cine emotion
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/188.ts
-#EXTINF:-1,FR:Cine Famiz
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/186.ts
-#EXTINF:-1,FR:Cine Frisson
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/187.ts
-#EXTINF:-1,FR:Cine Premier
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/189.ts
-#EXTINF:-1,FR:CANAL SPORT
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/190.ts
-#EXTINF:-1,FR:BEIN_SPORTS1
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/180.ts
-#EXTINF:-1,FR:BEIN_SPORTS2
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/179.ts
-#EXTINF:-1,FR:BEIN_SPORTS3
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/178.ts
-#EXTINF:-1,FR:Eurosport_1HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/157.ts
-#EXTINF:-1,FR:Eurosport_2HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/156.ts
-#EXTINF:-1,FR:Eurosport_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/158.ts
-#EXTINF:-1,FR:Foot_24
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/155.ts
-#EXTINF:-1,FR:Infosport_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/161.ts
-#EXTINF:-1,FR:Kombat-Sport
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/160.ts
-#EXTINF:-1,FR:L_Equipe_21
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/153.ts
-#EXTINF:-1,FR:SFR_SPORTS1HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/177.ts
-#EXTINF:-1,FR:SFR_SPORTS2HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/176.ts
-#EXTINF:-1,FR:SFR_SPORTS3HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/175.ts
-#EXTINF:-1,FR:SRF_1
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/113.ts
-#EXTINF:-1,FR:SRF_2
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/112.ts
-#EXTINF:-1,FR:13eme_Rue
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/171.ts
-#EXTINF:-1,FR:6ter
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/207.ts
-#EXTINF:-1,FR:AB_Moteurs
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/159.ts
-#EXTINF:-1,FR:ACTION
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/173.ts
-#EXTINF:-1,FR:Animaux_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/145.ts
-#EXTINF:-1,FR:ARTE
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/208.ts
-#EXTINF:-1,FR:CANAL_J
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/129.ts
-#EXTINF:-1,FR:BOOMERANG
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/127.ts
-#EXTINF:-1,FR:C-News
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/170.ts
-#EXTINF:-1,FR:C8
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/198.ts
-#EXTINF:-1,FR:Chasse-et-Peche
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/144.ts
-#EXTINF:-1,FR:Comedie
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/172.ts
-#EXTINF:-1,FR:Cstar
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/199.ts
-#EXTINF:-1,FR:Discovery_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/140.ts
-#EXTINF:-1,FR:DiscoverySciences
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/139.ts
-#EXTINF:-1,FR:Disney_Cinemagic
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/130.ts
-#EXTINF:-1,FR:Disney_Junior
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/131.ts
-#EXTINF:-1,FR:DISNEY_XD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/132.ts
-#EXTINF:-1,FR:Equidia_Live
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/154.ts
-#EXTINF:-1,FR:GameOne_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/151.ts
-#EXTINF:-1,FR:GULLI
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/135.ts
-#EXTINF:-1,FR:HD1
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/206.ts
-#EXTINF:-1,FR:HISTOIRE
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/168.ts
-#EXTINF:-1,FR:Ketnet
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/119.ts
-#EXTINF:-1,FR:La_Deux
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/125.ts
-#EXTINF:-1,FR:La_Trois_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/124.ts
-#EXTINF:-1,FR:La_Une
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/126.ts
-#EXTINF:-1,FR:NatGeo_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/142.ts
-#EXTINF:-1,FR:NatGeoWild_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/141.ts
-#EXTINF:-1,FR:Nickelodeon_Junior
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/133.ts
-#EXTINF:-1,FR:Nickloedon
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/134.ts
-#EXTINF:-1,FR:NRJ12
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/196.ts
-#EXTINF:-1,FR:NT1
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/200.ts
-#EXTINF:-1,FR:Numero23
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/201.ts
-#EXTINF:-1,FR:OCS CHOC HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/181.ts
-#EXTINF:-1,FR:OCS_CITY
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/182.ts
-#EXTINF:-1,FR:OCS_Geants
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/183.ts
-#EXTINF:-1,FR:OCS_Max
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/184.ts
-#EXTINF:-1,FR:Orange
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/167.ts
-#EXTINF:-1,FR:Orange_Aventure
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/165.ts
-#EXTINF:-1,FR:Orange_Comedie
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/164.ts
-#EXTINF:-1,FR:Orange_Documentaire
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/163.ts
-#EXTINF:-1,FR:Orange_horreur
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/166.ts
-#EXTINF:-1,FR:Paris Premiere
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/202.ts
-#EXTINF:-1,FR:Piwi
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/136.ts
-#EXTINF:-1,FR:Planete_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/148.ts
-#EXTINF:-1,FR:Planete-AE_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/146.ts
-#EXTINF:-1,FR:Planete-CI_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/147.ts
-#EXTINF:-1,FR:RSI_LA1_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/115.ts
-#EXTINF:-1,FR:RSI_LA2_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/114.ts
-#EXTINF:-1,FR:RTL_CLUB
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/120.ts
-#EXTINF:-1,FR:RTL_PLUG
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/121.ts
-#EXTINF:-1,FR:RTL_TV
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/123.ts
-#EXTINF:-1,FR:RTL_TVI
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/122.ts
-#EXTINF:-1,FR:RTL9
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/203.ts
-#EXTINF:-1,FR:RTS_Deux
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/116.ts
-#EXTINF:-1,FR:RTS_Un
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/117.ts
-#EXTINF:-1,FR:Sciences-et-Vie
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/143.ts
-#EXTINF:-1,FR:Serie_Club
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/174.ts
-#EXTINF:-1,FR:SYFY
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/197.ts
-#EXTINF:-1,FR:TC_Cinema
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/111.ts
-#EXTINF:-1,FR:TC_Prime
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/110.ts
-#EXTINF:-1,FR:TC_Sport1
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/108.ts
-#EXTINF:-1,FR:TC_Star
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/109.ts
-#EXTINF:-1,FR:TELETOON
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/138.ts
-#EXTINF:-1,FR:TiJi
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/128.ts
-#EXTINF:-1,FR:TMC
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/204.ts
-#EXTINF:-1,FR:TV5_monde
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/137.ts
-#EXTINF:-1,FR:Ushuaia_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/149.ts
-#EXTINF:-1,FR:Voot_Foot
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/118.ts
-#EXTINF:-1,FR:Voyage_HD
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/150.ts
-#EXTINF:-1,FR:W9
-http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/205.ts
 
 
 
@@ -228,302 +18,330 @@ http://151.80.105.190:8000/live/S4mRLSiV7b/hsj1XSplX6/205.ts
 
 
 
-#EXTINF:-1,13eme Rue HD FR
-http://clientportal.link:8080/live/cran/cran/2250.ts
-#EXTINF:-1,6ter HD FR
-http://clientportal.link:8080/live/cran/cran/3723.ts
-#EXTINF:-1,AB1 FR
-http://clientportal.link:8080/live/cran/cran/3731.ts
-#EXTINF:-1,AB1 HD FR
-http://clientportal.link:8080/live/cran/cran/13144.ts
-#EXTINF:-1,AB3 FR
-http://clientportal.link:8080/live/cran/cran/4470.ts
-#EXTINF:-1,Action FR
-http://clientportal.link:8080/live/cran/cran/4507.ts
-#EXTINF:-1,Animaux FR
-http://clientportal.link:8080/live/cran/cran/4469.ts
-#EXTINF:-1,Animaux HD FR
-http://clientportal.link:8080/live/cran/cran/13119.ts
-#EXTINF:-1,Arte HD FR
-http://clientportal.link:8080/live/cran/cran/3726.ts
-#EXTINF:-1,BFM TV FR
-http://clientportal.link:8080/live/cran/cran/3607.ts
-#EXTINF:-1,Be Curious TV HD FR
-http://clientportal.link:8080/live/cran/cran/13160.ts
-#EXTINF:-1,Boing HD FR
-http://clientportal.link:8080/live/cran/cran/13176.ts
-#EXTINF:-1,Boomerang FR
-http://clientportal.link:8080/live/cran/cran/2240.ts
-#EXTINF:-1,Canal Alpha HD FR
-http://clientportal.link:8080/live/cran/cran/13150.ts
-#EXTINF:-1,Canal J HD FR
-http://clientportal.link:8080/live/cran/cran/2239.ts
-#EXTINF:-1,Canal+ C8 HD FR
-http://clientportal.link:8080/live/cran/cran/2227.ts
-#EXTINF:-1,Canal+ CStar HD FR
-http://clientportal.link:8080/live/cran/cran/4459.ts
-#EXTINF:-1,Canal+ Cinema 1080P FR
-http://clientportal.link:8080/live/cran/cran/15283.ts
-#EXTINF:-1,Canal+ Cinema FR
-http://clientportal.link:8080/live/cran/cran/2207.ts
-#EXTINF:-1,Canal+ Cinema HD FR
-http://clientportal.link:8080/live/cran/cran/13131.ts
-#EXTINF:-1,Canal+ Decale FR
-http://clientportal.link:8080/live/cran/cran/3733.ts
-#EXTINF:-1,Canal+ Decale HD FR
-http://clientportal.link:8080/live/cran/cran/13134.ts
-#EXTINF:-1,Canal+ HD FR
-http://clientportal.link:8080/live/cran/cran/2206.ts
-#EXTINF:-1,Canal+ Family FR
-http://clientportal.link:8080/live/cran/cran/3735.ts
-#EXTINF:-1,Canal+ Family HD FR
-http://clientportal.link:8080/live/cran/cran/13132.ts
-#EXTINF:-1,Canal+ Series HD FR
-http://clientportal.link:8080/live/cran/cran/2211.ts
-#EXTINF:-1,Canal+ Sport 1080P FR
-http://clientportal.link:8080/live/cran/cran/15284.ts
-#EXTINF:-1,Canal+ Sport HD 1080P FR
-http://clientportal.link:8080/live/cran/cran/2210.ts
-#EXTINF:-1,Canal+ Sport HD FR
-http://clientportal.link:8080/live/cran/cran/13149.ts
-#EXTINF:-1,CanalPlay 1 HD FR
-http://clientportal.link:8080/live/cran/cran/6448.ts
-#EXTINF:-1,CanalPlay 2 HD FR
-http://clientportal.link:8080/live/cran/cran/6447.ts
-#EXTINF:-1,CanalPlay 3 HD FR
-http://clientportal.link:8080/live/cran/cran/6446.ts
-#EXTINF:-1,CanalPlay 4 HD FR
-http://clientportal.link:8080/live/cran/cran/6445.ts
-#EXTINF:-1,CanalPlay 5 HD FR
-http://clientportal.link:8080/live/cran/cran/6444.ts
-#EXTINF:-1,Cartoon Network HD FR
-http://clientportal.link:8080/live/cran/cran/2246.ts
-#EXTINF:-1,Chasse & Peche FR
-http://clientportal.link:8080/live/cran/cran/2257.ts
-#EXTINF:-1,Cherie 25 HD FR
-http://clientportal.link:8080/live/cran/cran/13158.ts
-#EXTINF:-1,Cine FX FR
-http://clientportal.link:8080/live/cran/cran/7806.ts
-#EXTINF:-1,Cine+ Classic HD FR
-http://clientportal.link:8080/live/cran/cran/2217.ts
-#EXTINF:-1,Cine+ Emotion HD FR
-http://clientportal.link:8080/live/cran/cran/2214.ts
-#EXTINF:-1,Cine+ Famiz HD FR
-http://clientportal.link:8080/live/cran/cran/2215.ts
-#EXTINF:-1,Cine+ Frisson HD FR
-http://clientportal.link:8080/live/cran/cran/2212.ts
-#EXTINF:-1,Cine+ Premier HD FR
-http://clientportal.link:8080/live/cran/cran/2213.ts
-#EXTINF:-1,Comedie+ FR
-http://clientportal.link:8080/live/cran/cran/3746.ts
-#EXTINF:-1,Comedie+ HD FR
-http://clientportal.link:8080/live/cran/cran/13146.ts
-#EXTINF:-1,Discovery Channel HD FR
-http://clientportal.link:8080/live/cran/cran/7579.ts
-#EXTINF:-1,Discovery Science HD FR
-http://clientportal.link:8080/live/cran/cran/7578.ts
-#EXTINF:-1,Disney Channel FR
-http://clientportal.link:8080/live/cran/cran/2241.ts
-#EXTINF:-1,Disney Channel HD FR
-http://clientportal.link:8080/live/cran/cran/13126.ts
-#EXTINF:-1,Disney Cinema FR
-http://clientportal.link:8080/live/cran/cran/13169.ts
-#EXTINF:-1,Disney Junior HD FR
-http://clientportal.link:8080/live/cran/cran/13170.ts
-#EXTINF:-1,Disney XD HD FR
-http://clientportal.link:8080/live/cran/cran/13171.ts
-#EXTINF:-1,E! HD FR
-http://clientportal.link:8080/live/cran/cran/2229.ts
-#EXTINF:-1,Equidia Live HD FR
-http://clientportal.link:8080/live/cran/cran/13181.ts
-#EXTINF:-1,EuroNews FR
-http://clientportal.link:8080/live/cran/cran/3751.ts
-#EXTINF:-1,Eurosport 1 HD FR
-http://clientportal.link:8080/live/cran/cran/2013.ts
-#EXTINF:-1,Eurosport 2 HD FR
-http://clientportal.link:8080/live/cran/cran/7572.ts
-#EXTINF:-1,Foot+ 24/24 FR
-http://clientportal.link:8080/live/cran/cran/7804.ts
-#EXTINF:-1,France 2 1080P FR
-http://clientportal.link:8080/live/cran/cran/14907.ts
-#EXTINF:-1,France 2 FR
-http://clientportal.link:8080/live/cran/cran/2200.ts
-#EXTINF:-1,France 24 FR
-http://clientportal.link:8080/live/cran/cran/3753.ts
-#EXTINF:-1,France 3 FR
-http://clientportal.link:8080/live/cran/cran/2201.ts
-#EXTINF:-1,France 4 FR
-http://clientportal.link:8080/live/cran/cran/2202.ts
-#EXTINF:-1,France 5 FR
-http://clientportal.link:8080/live/cran/cran/2203.ts
-#EXTINF:-1,France O FR
-http://clientportal.link:8080/live/cran/cran/3752.ts
-#EXTINF:-1,Game One HD FR
-http://clientportal.link:8080/live/cran/cran/7574.ts
-#EXTINF:-1,Golf+ HD FR
-http://clientportal.link:8080/live/cran/cran/13179.ts
-#EXTINF:-1,Gulli HD FR
-http://clientportal.link:8080/live/cran/cran/4465.ts
-#EXTINF:-1,HD1 FR
-http://clientportal.link:8080/live/cran/cran/13159.ts
-#EXTINF:-1,Histoire HD FR
-http://clientportal.link:8080/live/cran/cran/13166.ts
-#EXTINF:-1,Infosport+ HD FR
-http://clientportal.link:8080/live/cran/cran/7571.ts
-#EXTINF:-1,L'Equipe 21 FR
-http://clientportal.link:8080/live/cran/cran/4468.ts
-#EXTINF:-1,M6 HD FR
-http://clientportal.link:8080/live/cran/cran/3758.ts
-#EXTINF:-1,M6 Music FR
-http://clientportal.link:8080/live/cran/cran/4476.ts
-#EXTINF:-1,Elle Girl FR
-http://clientportal.link:8080/live/cran/cran/13189.ts
-#EXTINF:-1,Mangas FR
-http://clientportal.link:8080/live/cran/cran/2245.ts
-#EXTINF:-1,NRJ 12 FR
-http://clientportal.link:8080/live/cran/cran/3760.ts
-#EXTINF:-1,NT1 FR
-http://clientportal.link:8080/live/cran/cran/7561.ts
-#EXTINF:-1,Nat Geo Wild HD FR
-http://clientportal.link:8080/live/cran/cran/3606.ts
-#EXTINF:-1,National Geographic FR
-http://clientportal.link:8080/live/cran/cran/4467.ts
-#EXTINF:-1,Nick Jr. HD FR
-http://clientportal.link:8080/live/cran/cran/13173.ts
-#EXTINF:-1,Nickelodeon 4Teen HD 1080P FR
-http://clientportal.link:8080/live/cran/cran/15638.ts
-#EXTINF:-1,Nickelodeon HD FR
-http://clientportal.link:8080/live/cran/cran/13172.ts
-#EXTINF:-1,Numero 23 FR
-http://clientportal.link:8080/live/cran/cran/3750.ts
-#EXTINF:-1,Numero 23 HD FR
-http://clientportal.link:8080/live/cran/cran/13141.ts
-#EXTINF:-1,OCS Choc HD FR
-http://clientportal.link:8080/live/cran/cran/7576.ts
-#EXTINF:-1,OCS City HD FR
-http://clientportal.link:8080/live/cran/cran/3763.ts
-#EXTINF:-1,OCS Geants HD FR
-http://clientportal.link:8080/live/cran/cran/3762.ts
-#EXTINF:-1,OCS Max HD FR
-http://clientportal.link:8080/live/cran/cran/3761.ts
-#EXTINF:-1,PIWI+ HD FR
-http://clientportal.link:8080/live/cran/cran/13174.ts
-#EXTINF:-1,Paramount Channel HD FR
-http://clientportal.link:8080/live/cran/cran/13163.ts
-#EXTINF:-1,Paris Première HD FR
-http://clientportal.link:8080/live/cran/cran/2224.ts
-#EXTINF:-1,Planète+ Action & Experience FR
-http://clientportal.link:8080/live/cran/cran/2248.ts
-#EXTINF:-1,Planète+ Action & Experience HD FR
-http://clientportal.link:8080/live/cran/cran/13124.ts
-#EXTINF:-1,Planète+ Crime Investigation HD 1080P FR
-http://clientportal.link:8080/live/cran/cran/15639.ts
-#EXTINF:-1,Planète+ Crime Investigation HD FR
-http://clientportal.link:8080/live/cran/cran/2249.ts
-#EXTINF:-1,Planète+ HD FR
-http://clientportal.link:8080/live/cran/cran/2247.ts
-#EXTINF:-1,Polar FR
-http://clientportal.link:8080/live/cran/cran/7805.ts
-#EXTINF:-1,RMC Decouverte HD FR
-http://clientportal.link:8080/live/cran/cran/13157.ts
-#EXTINF:-1,RTBF La Deux FR
-http://clientportal.link:8080/live/cran/cran/4474.ts
-#EXTINF:-1,RTBF La Une HD FR
-http://clientportal.link:8080/live/cran/cran/4473.ts
-#EXTINF:-1,RTL9 FR
-http://clientportal.link:8080/live/cran/cran/3771.ts
-#EXTINF:-1,SFR Sport 1 HD FR
-http://clientportal.link:8080/live/cran/cran/13182.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://clientportal.link:8080/live/cran/cran/2251.ts
-#EXTINF:-1,SFR Sport 3 HD FR
-http://clientportal.link:8080/live/cran/cran/13148.ts
-#EXTINF:-1,SFR Sport 4K FR
-http://clientportal.link:8080/live/cran/cran/13153.ts
-#EXTINF:-1,SFR Sport 5 HD FR
-http://clientportal.link:8080/live/cran/cran/13151.ts
-#EXTINF:-1,Science & Vie TV FR
-http://clientportal.link:8080/live/cran/cran/7799.ts
-#EXTINF:-1,Science & Vie TV HD FR
-http://clientportal.link:8080/live/cran/cran/13115.ts
-#EXTINF:-1,Seasons HD FR
-http://clientportal.link:8080/live/cran/cran/13186.ts
-#EXTINF:-1,SerieClub HD FR
-http://clientportal.link:8080/live/cran/cran/2221.ts
-#EXTINF:-1,Sport 365 HD FR
-http://clientportal.link:8080/live/cran/cran/13152.ts
-#EXTINF:-1,Syfy HD FR
-http://clientportal.link:8080/live/cran/cran/2228.ts
-#EXTINF:-1,TCM Cinéma FR
-http://clientportal.link:8080/live/cran/cran/2218.ts
-#EXTINF:-1,TF1 1080P FR
-http://clientportal.link:8080/live/cran/cran/14906.ts
-#EXTINF:-1,TF1 HD FR
-http://clientportal.link:8080/live/cran/cran/2204.ts
-#EXTINF:-1,TIJI HD FR
-http://clientportal.link:8080/live/cran/cran/2237.ts
-#EXTINF:-1,TMC FR
-http://clientportal.link:8080/live/cran/cran/13164.ts
-#EXTINF:-1,TV5 MONDE Europe FR
-http://clientportal.link:8080/live/cran/cran/3769.ts
-#EXTINF:-1,TVBreizh FR
-http://clientportal.link:8080/live/cran/cran/2244.ts
-#EXTINF:-1,TVBreizh HD FR
-http://clientportal.link:8080/live/cran/cran/13125.ts
-#EXTINF:-1,TeleToon+ HD FR
-http://clientportal.link:8080/live/cran/cran/4466.ts
-#EXTINF:-1,Teva FR
-http://clientportal.link:8080/live/cran/cran/2225.ts
-#EXTINF:-1,Toute l'Histoire FR
-http://clientportal.link:8080/live/cran/cran/7798.ts
-#EXTINF:-1,Trek HD FR
-http://clientportal.link:8080/live/cran/cran/13185.ts
-#EXTINF:-1,Ushuaïa TV HD FR
-http://clientportal.link:8080/live/cran/cran/4491.ts
-#EXTINF:-1,Voyage HD FR
-http://clientportal.link:8080/live/cran/cran/13167.ts
-#EXTINF:-1,W9 FR
-http://clientportal.link:8080/live/cran/cran/3770.ts
-#EXTINF:-1,Weo TV FR
-http://clientportal.link:8080/live/cran/cran/4464.ts
-#EXTINF:-1,i-Télé HD FR
-http://clientportal.link:8080/live/cran/cran/13154.ts
+#EXTINF:-1,FR: France O
+http://ksportiptv.com:1557/live/123/123/2163.ts
+#EXTINF:-1,FR: France 2 HD
+http://ksportiptv.com:1557/live/123/123/949.ts
+#EXTINF:-1,FR: France 3 HD
+http://ksportiptv.com:1557/live/123/123/950.ts
+#EXTINF:-1,FR: France 4 HD
+http://ksportiptv.com:1557/live/123/123/951.ts
+#EXTINF:-1,FR: France 5 HD
+http://ksportiptv.com:1557/live/123/123/952.ts
+#EXTINF:-1,FR: iTele
+http://ksportiptv.com:1557/live/123/123/3834.ts
+#EXTINF:-1,FR: AB1
+http://ksportiptv.com:1557/live/123/123/3802.ts
+#EXTINF:-1,FR: TF1 HD
+http://ksportiptv.com:1557/live/123/123/1159.ts
+#EXTINF:-1,FR: W9 Music
+http://ksportiptv.com:1557/live/123/123/3804.ts
+#EXTINF:-1,FR: TV 5 Monde
+http://ksportiptv.com:1557/live/123/123/3833.ts
+#EXTINF:-1,FR: France 24 News
+http://ksportiptv.com:1557/live/123/123/3803.ts
+#EXTINF:-1,FR: Euronews fr
+http://ksportiptv.com:1557/live/123/123/3805.ts
+#EXTINF:-1,FR: RMC Decouverte
+http://ksportiptv.com:1557/live/123/123/4633.ts
+#EXTINF:-1,FR: Syfy HD
+http://ksportiptv.com:1557/live/123/123/7469.ts
+#EXTINF:-1,FR: LCP
+http://ksportiptv.com:1557/live/123/123/8583.ts
+#EXTINF:-1,FR: RTS LA UN HD
+http://ksportiptv.com:1557/live/123/123/3835.ts
+#EXTINF:-1,FR: RTS LA DEUX HD
+http://ksportiptv.com:1557/live/123/123/3836.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://ksportiptv.com:1557/live/123/123/2719.ts
+#EXTINF:-1,FR: 13eme Rue HD
+http://ksportiptv.com:1557/live/123/123/1211.ts
+#EXTINF:-1,FR: TMC
+http://ksportiptv.com:1557/live/123/123/1294.ts
+#EXTINF:-1,FR: Action
+http://ksportiptv.com:1557/live/123/123/1299.ts
+#EXTINF:-1,FR: Canal+ HD
+http://ksportiptv.com:1557/live/123/123/1639.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://ksportiptv.com:1557/live/123/123/2718.ts
+#EXTINF:-1,FR: Canal+ Cinema HD
+http://ksportiptv.com:1557/live/123/123/1209.ts
+#EXTINF:-1,FR: CANAL+ FAMILY HD
+http://ksportiptv.com:1557/live/123/123/1924.ts
+#EXTINF:-1,FR: Canal+ Decale HD
+http://ksportiptv.com:1557/live/123/123/1282.ts
+#EXTINF:-1,FR: Canal+ Series HD
+http://ksportiptv.com:1557/live/123/123/3036.ts
+#EXTINF:-1,FR: Cine+ Premier HD
+http://ksportiptv.com:1557/live/123/123/3028.ts
+#EXTINF:-1,FR: Cine+ Frisson HD
+http://ksportiptv.com:1557/live/123/123/3029.ts
+#EXTINF:-1,FR: Cine+ Emotion HD.
+http://ksportiptv.com:1557/live/123/123/3031.ts
+#EXTINF:-1,FR: Cine+ Club HD.
+http://ksportiptv.com:1557/live/123/123/910.ts
+#EXTINF:-1,FR: Cine+ Classic HD.
+http://ksportiptv.com:1557/live/123/123/3032.ts
+#EXTINF:-1,FR: Cine+ Star HD.
+http://ksportiptv.com:1557/live/123/123/1283.ts
+#EXTINF:-1,FR: Cine+ FX HD.
+http://ksportiptv.com:1557/live/123/123/3050.ts
+#EXTINF:-1,FR: Cine+ Polar HD
+http://ksportiptv.com:1557/live/123/123/1281.ts
+#EXTINF:-1,FR:Cine Comedie HD
+http://ksportiptv.com:1557/live/123/123/2721.ts
+#EXTINF:-1,FR: Cine+ Famiz
+http://ksportiptv.com:1557/live/123/123/1278.ts
+#EXTINF:-1,FR:Cine Action HD
+http://ksportiptv.com:1557/live/123/123/2722.ts
+#EXTINF:-1,FR: Serie Club
+http://ksportiptv.com:1557/live/123/123/2720.ts
+#EXTINF:-1,FR: TCM CINEMA
+http://ksportiptv.com:1557/live/123/123/908.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://ksportiptv.com:1557/live/123/123/1291.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+http://ksportiptv.com:1557/live/123/123/1292.ts
+#EXTINF:-1,FR: OCS CITY HD
+http://ksportiptv.com:1557/live/123/123/1923.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://ksportiptv.com:1557/live/123/123/2723.ts
+#EXTINF:-1,FR: Disney Channel
+http://ksportiptv.com:1557/live/123/123/1286.ts
+#EXTINF:-1,FR: Disney Cinema HD
+http://ksportiptv.com:1557/live/123/123/1285.ts
+#EXTINF:-1,FR: Piwi +
+http://ksportiptv.com:1557/live/123/123/1289.ts
+#EXTINF:-1,FR: ZOUZOU TV (petite)
+http://ksportiptv.com:1557/live/123/123/3831.ts
+#EXTINF:-1,FR: Canal J
+http://ksportiptv.com:1557/live/123/123/1287.ts
+#EXTINF:-1,FR: TIJI
+http://ksportiptv.com:1557/live/123/123/3832.ts
+#EXTINF:-1,FR: TeleToon+
+http://ksportiptv.com:1557/live/123/123/3799.ts
+#EXTINF:-1,FR: Nickelodeon Junior
+http://ksportiptv.com:1557/live/123/123/3793.ts
+#EXTINF:-1,FR: Nickelodeon
+http://ksportiptv.com:1557/live/123/123/3794.ts
+#EXTINF:-1,FR: Mangas
+http://ksportiptv.com:1557/live/123/123/3800.ts
+#EXTINF:-1,FR: Gulli
+http://ksportiptv.com:1557/live/123/123/3795.ts
+#EXTINF:-1,FR: Disney XD HD
+http://ksportiptv.com:1557/live/123/123/3792.ts
+#EXTINF:-1,FR: Disney Junior HD
+http://ksportiptv.com:1557/live/123/123/3791.ts
+#EXTINF:-1,FR: Cartoon Network HD
+http://ksportiptv.com:1557/live/123/123/3798.ts
+#EXTINF:-1,FR: Boomerang HD
+http://ksportiptv.com:1557/live/123/123/3796.ts
+#EXTINF:-1,FR: Boing HD
+http://ksportiptv.com:1557/live/123/123/3797.ts
+#EXTINF:-1,FR: Salle de cinéma (Les Gardiens de la Galaxie 2)
+http://ksportiptv.com:1557/live/123/123/9489.ts
+#EXTINF:-1,FR: CanalPlay Live (Joyeux Bordel)
+http://ksportiptv.com:1557/live/123/123/3287.ts
+#EXTINF:-1,FR: CanalPlay Live (Premier Contact aka Arrival)
+http://ksportiptv.com:1557/live/123/123/9556.ts
+#EXTINF:-1,FR: CanalPlay Live (Un Monde entre nous)
+http://ksportiptv.com:1557/live/123/123/9492.ts
+#EXTINF:-1,FR: CanalPlay Live (Ma famille t'adore déjà)
+http://ksportiptv.com:1557/live/123/123/3807.ts
+#EXTINF:-1,FR: CanalPlay Live (Lion)
+http://ksportiptv.com:1557/live/123/123/9484.ts
+#EXTINF:-1,FR: CanalPlay Live (Vaiana-la légende du bout du monde)
+http://ksportiptv.com:1557/live/123/123/3808.ts
+#EXTINF:-1,FR: CanalPlay Live (À fond)
+http://ksportiptv.com:1557/live/123/123/9469.ts
+#EXTINF:-1,FR: CanalPlay Live (Assassin's Creed)
+http://ksportiptv.com:1557/live/123/123/9459.ts
+#EXTINF:-1,FR: CanalPlay Live (Au nom De Ma Fille)
+http://ksportiptv.com:1557/live/123/123/9461.ts
+#EXTINF:-1,FR: CanalPlay Live (Beauté cachée)
+http://ksportiptv.com:1557/live/123/123/9470.ts
+#EXTINF:-1,FR: CanalPlay Live (Cigarettes et chocolat chaud)
+http://ksportiptv.com:1557/live/123/123/9475.ts
+#EXTINF:-1,FR: CanalPlay Live (Demain tout commence)
+http://ksportiptv.com:1557/live/123/123/9468.ts
+#EXTINF:-1,FR: CanalPlay Live (L'Ami François d'Assise et ses frères)
+http://ksportiptv.com:1557/live/123/123/9462.ts
+#EXTINF:-1,FR: CanalPlay Live (La Bataille géante de boules de neige)
+http://ksportiptv.com:1557/live/123/123/9478.ts
+#EXTINF:-1,FR: CanalPlay Live (Les mémoires d'un assassin international)
+http://ksportiptv.com:1557/live/123/123/9467.ts
+#EXTINF:-1,FR: CanalPlay Live (MonsterCars)
+http://ksportiptv.com:1557/live/123/123/9476.ts
+#EXTINF:-1,FR: CanalPlay Live (Papa Ou Maman 2)
+http://ksportiptv.com:1557/live/123/123/9466.ts
+#EXTINF:-1,FR: CanalPlay Live (Passengers)
+http://ksportiptv.com:1557/live/123/123/9452.ts
+#EXTINF:-1,FR: CanalPlay Live (Père Fils Thérapie)
+http://ksportiptv.com:1557/live/123/123/9473.ts
+#EXTINF:-1,FR: CanalPlay Live (Rogue One A Star Wars Story)
+http://ksportiptv.com:1557/live/123/123/9460.ts
+#EXTINF:-1,FR: CanalPlay Live (Tous en scène)
+http://ksportiptv.com:1557/live/123/123/3809.ts
+#EXTINF:-1,FR: CanalPlay Live (Les Têtes de l'emploi)
+http://ksportiptv.com:1557/live/123/123/3810.ts
+#EXTINF:-1,FR: CanalPlay Live (Underworld-Blood Wars)
+http://ksportiptv.com:1557/live/123/123/3811.ts
+#EXTINF:-1,FR: CanalPlay Live (Doctor Strange)
+http://ksportiptv.com:1557/live/123/123/3812.ts
+#EXTINF:-1,FR: CanalPlay Live (Alliés)
+http://ksportiptv.com:1557/live/123/123/3813.ts
+#EXTINF:-1,FR: CanalPlay Live (Les Trolls)
+http://ksportiptv.com:1557/live/123/123/3816.ts
+#EXTINF:-1,FR: CanalPlay Live (Jack Reacher:Never Go Back)
+http://ksportiptv.com:1557/live/123/123/3817.ts
+#EXTINF:-1,FR: CanalPlay Live (Mr Wolff)
+http://ksportiptv.com:1557/live/123/123/3828.ts
+#EXTINF:-1,FR: CanalPlay Live (Hors contrôle)
+http://ksportiptv.com:1557/live/123/123/3035.ts
+#EXTINF:-1,FR: CanalPlay Live (Sully)
+http://ksportiptv.com:1557/live/123/123/3043.ts
+#EXTINF:-1,FR: CanalPlay Live (Radin!)
+http://ksportiptv.com:1557/live/123/123/3042.ts
+#EXTINF:-1,FR: CanalPlay Live (La Fille du train)
+http://ksportiptv.com:1557/live/123/123/3041.ts
+#EXTINF:-1,FR: CanalPlay Live (Inferno)
+http://ksportiptv.com:1557/live/123/123/3040.ts
+#EXTINF:-1,FR: CanalPlay Live (Oppression)
+http://ksportiptv.com:1557/live/123/123/3039.ts
+#EXTINF:-1,FR: CanalPlay Live (Comme des bêtes)
+http://ksportiptv.com:1557/live/123/123/3829.ts
+#EXTINF:-1,FR: CanalPlay Live (Cigognes et compagnie)
+http://ksportiptv.com:1557/live/123/123/3830.ts
+#EXTINF:-1,FR: CanalPlay Live (Kickboxer-Vengeance)
+http://ksportiptv.com:1557/live/123/123/3038.ts
+#EXTINF:-1,FR: CanalPlay Live (Tamara)
+http://ksportiptv.com:1557/live/123/123/3049.ts
+#EXTINF:-1,FR: CanalPlay Live (Toro)
+http://ksportiptv.com:1557/live/123/123/3048.ts
+#EXTINF:-1,FR: CanalPlay Live (Miss Peregrine et les enfants particuliers)
+http://ksportiptv.com:1557/live/123/123/3047.ts
+#EXTINF:-1,FR: CanalPlay Live (Sausage Party +16ans)
+http://ksportiptv.com:1557/live/123/123/3046.ts
+#EXTINF:-1,FR: CanalPlay Live (Suicide Squad)
+http://ksportiptv.com:1557/live/123/123/3045.ts
+#EXTINF:-1,FR: CanalPlay Live (Brice 3)
+http://ksportiptv.com:1557/live/123/123/3044.ts
+#EXTINF:-1,FR: CanalPlay Live (Warcraft:Le commencement)
+http://ksportiptv.com:1557/live/123/123/3058.ts
+#EXTINF:-1,FR: CanalPlay Live (Nocturnal Animals)
+http://ksportiptv.com:1557/live/123/123/3626.ts
+#EXTINF:-1,FR: CanalPlay Live (X-Men:Apocalypse)
+http://ksportiptv.com:1557/live/123/123/3057.ts
+#EXTINF:-1,FR: CanalPlay Live (Snowden)
+http://ksportiptv.com:1557/live/123/123/3056.ts
+#EXTINF:-1,FR: CanalPlay Live (Extraction)
+http://ksportiptv.com:1557/live/123/123/3055.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Petit locataire)
+http://ksportiptv.com:1557/live/123/123/3054.ts
+#EXTINF:-1,FR: CanalPlay Live (Criminel)
+http://ksportiptv.com:1557/live/123/123/3053.ts
+#EXTINF:-1,FR: CanalPlay Live (Mechanic Résurrection)
+http://ksportiptv.com:1557/live/123/123/3052.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Voyage au Groenland)
+http://ksportiptv.com:1557/live/123/123/3051.ts
+#EXTINF:-1,FR: CanalPlay Live (Le Gang des Antillais)
+http://ksportiptv.com:1557/live/123/123/3819.ts
+#EXTINF:-1,FR: CanalPlay Live (La Fille de Brest)
+http://ksportiptv.com:1557/live/123/123/3820.ts
+#EXTINF:-1,FR: CanalPlay Live (Rupture pour tous)
+http://ksportiptv.com:1557/live/123/123/3821.ts
+#EXTINF:-1,FR: CanalPlay Live (xXx:Reactivated)
+http://ksportiptv.com:1557/live/123/123/3822.ts
+#EXTINF:-1,FR: CanalPlay Live (Revenger)
+http://ksportiptv.com:1557/live/123/123/3823.ts
+#EXTINF:-1,FR: CanalPlay Live (La Dream Team)
+http://ksportiptv.com:1557/live/123/123/3824.ts
+#EXTINF:-1,FR: CanalPlay Live (La Folle Histoire de Max et Léon)
+http://ksportiptv.com:1557/live/123/123/3825.ts
+#EXTINF:-1,FR: M6 HD
+http://ksportiptv.com:1557/live/123/123/985.ts
+#EXTINF:-1,FR: NT1
+http://ksportiptv.com:1557/live/123/123/1296.ts
+#EXTINF:-1,FR: Nrj12
+http://ksportiptv.com:1557/live/123/123/1297.ts
+#EXTINF:-1,FR: M6 Music
+http://ksportiptv.com:1557/live/123/123/3801.ts
+#EXTINF:-1,FR: Arte
+http://ksportiptv.com:1557/live/123/123/1298.ts
+#EXTINF:-1,FR: BFM TV
+http://ksportiptv.com:1557/live/123/123/8584.ts
+#EXTINF:-1,FR: BFM Sport
+http://ksportiptv.com:1557/live/123/123/8585.ts
+#EXTINF:-1,FR: C8
+http://ksportiptv.com:1557/live/123/123/8582.ts
+#EXTINF:-1,FR: AL Sace20
+http://ksportiptv.com:1557/live/123/123/8873.ts
+#EXTINF:-1,FR: France 24 en Anglais
+http://ksportiptv.com:1557/live/123/123/8869.ts
+#EXTINF:-1,FR: GONG
+http://ksportiptv.com:1557/live/123/123/8875.ts
+#EXTINF:-1,FR: La Chaine Normande
+http://ksportiptv.com:1557/live/123/123/8871.ts
+#EXTINF:-1,FR: WEO HD
+http://ksportiptv.com:1557/live/123/123/8872.ts
+#EXTINF:-1,FR: EuroNews
+http://ksportiptv.com:1557/live/123/123/920.ts
+#EXTINF:-1,FR: Nat Geo HD
+http://ksportiptv.com:1557/live/123/123/1290.ts
+#EXTINF:-1,FR: Animaux
+http://ksportiptv.com:1557/live/123/123/1300.ts
+#EXTINF:-1,FR: beIN SPORTS 5 MAX
+http://ksportiptv.com:1557/live/123/123/7471.ts
+#EXTINF:-1,FR: beIN SPORTS 6 MAX
+http://ksportiptv.com:1557/live/123/123/7472.ts
+#EXTINF:-1,FR: beIN SPORTS 7 MAX
+http://ksportiptv.com:1557/live/123/123/7473.ts
+#EXTINF:-1,FR: beIN SPORTS NBA
+http://ksportiptv.com:1557/live/123/123/7470.ts
+#EXTINF:-1,FR: MTV
+http://ksportiptv.com:1557/live/123/123/3059.ts
+#EXTINF:-1,FR: MTV Dance France HD
+http://ksportiptv.com:1557/live/123/123/6079.ts
+#EXTINF:-1,FR: MTV Rocks France HD
+http://ksportiptv.com:1557/live/123/123/6077.ts
+#EXTINF:-1,FR: SFR SPORT 1 HD
+http://ksportiptv.com:1557/live/123/123/7346.ts
+#EXTINF:-1,FR: SFR SPORT 2 HD
+http://ksportiptv.com:1557/live/123/123/7345.ts
+#EXTINF:-1,FR: SFR SPORT 3 HD
+http://ksportiptv.com:1557/live/123/123/7344.ts
+#EXTINF:-1,FR: SFR SPORT 4K
+http://ksportiptv.com:1557/live/123/123/7343.ts
+#EXTINF:-1,FR: Planete-HD
+http://ksportiptv.com:1557/live/123/123/2716.ts
+#EXTINF:-1,FR: Planete-A-and-E-HD
+http://ksportiptv.com:1557/live/123/123/2717.ts
+#EXTINF:-1,FR: National Geo Wild
+http://ksportiptv.com:1557/live/123/123/3023.ts
+#EXTINF:-1,FR: National Geo
+http://ksportiptv.com:1557/live/123/123/3024.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://ksportiptv.com:1557/live/123/123/3034.ts
+#EXTINF:-1,FR: HISTOIRE
+http://ksportiptv.com:1557/live/123/123/3026.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://ksportiptv.com:1557/live/123/123/3025.ts
+#EXTINF:-1,FR: HD1
+http://ksportiptv.com:1557/live/123/123/3027.ts
+#EXTINF:-1,FR: CHERIE 25
+http://ksportiptv.com:1557/live/123/123/3033.ts
+#EXTINF:-1,FR: Canal Plus Sport HD
+http://ksportiptv.com:1557/live/123/123/3037.ts
+#EXTINF:-1,FR: Foot + 24 HD
+http://ksportiptv.com:1557/live/123/123/1478.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR BeinSport 1 HD FR
-http://clientportal.link:8080/live/cran/cran/14977.ts
-#EXTINF:-1,beIN Sport 1 HD FR
-http://clientportal.link:8080/live/cran/cran/5522.ts
-#EXTINF:-1,FR BeinSport 2 HD FR
-http://clientportal.link:8080/live/cran/cran/14978.ts
-#EXTINF:-1,beIN Sport 2 HD FR
-http://clientportal.link:8080/live/cran/cran/3609.ts
-#EXTINF:-1,beIN Sports 2 HD 1080P FR
-http://clientportal.link:8080/live/cran/cran/15637.ts
-#EXTINF:-1,beIN Sport 3 HD FR
-http://clientportal.link:8080/live/cran/cran/4477.ts
-#EXTINF:-1,beIN Sports 3 HD 1080P FR
-http://clientportal.link:8080/live/cran/cran/15282.ts
-#EXTINF:-1,FR BeinSport 3 HD FR
-http://clientportal.link:8080/live/cran/cran/14979.ts
-#EXTINF:-1,beIN Sport 1 HD TR
-http://clientportal.link:8080/live/cran/cran/6412.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1,FR: Canal+ Sport HD
+http://ksportiptv.com:1557/live/123/123/1280.ts
+#EXTINF:-1,FR: beiN Sport 1 HD
+http://ksportiptv.com:1557/live/123/123/1476.ts
+#EXTINF:-1,FR: beiN Sport 2 HD
+http://ksportiptv.com:1557/live/123/123/1477.ts
+#EXTINF:-1,FR: beiN Sport 3 HD
+http://ksportiptv.com:1557/live/123/123/1208.ts

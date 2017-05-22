@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
@@ -14,498 +14,147 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,NPO 1 NL
 
-http://clientportal.link:8080/live/cran/cran/4142.ts
 
-#EXTINF:-1,NPO 1 HD NL
+#EXTINF:-1,NL: RTL7 HD
+http://ksportiptv.com:1557/live/123/123/1961.ts
+#EXTINF:-1,NL: RTL4_HD
+http://ksportiptv.com:1557/live/123/123/1963.ts
+#EXTINF:-1,NL: Nick Music
+http://ksportiptv.com:1557/live/123/123/8837.ts
+#EXTINF:-1,NL: MTV
+http://ksportiptv.com:1557/live/123/123/7313.ts
+#EXTINF:-1,NL: Extreme Sports
+http://ksportiptv.com:1557/live/123/123/2211.ts
+#EXTINF:-1,NL: National Geographic
+http://ksportiptv.com:1557/live/123/123/1969.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://ksportiptv.com:1557/live/123/123/1975.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://ksportiptv.com:1557/live/123/123/1976.ts
+#EXTINF:-1,NL: Golf_HD
+http://ksportiptv.com:1557/live/123/123/1977.ts
+#EXTINF:-1,NL RTL 7
+http://ksportiptv.com:1557/live/123/123/1942.ts
+#EXTINF:-1,NL RTL 5
+http://ksportiptv.com:1557/live/123/123/1941.ts
+#EXTINF:-1,NL Rtl 4
+http://ksportiptv.com:1557/live/123/123/1940.ts
+#EXTINF:-1,NL: NPO 1
+http://ksportiptv.com:1557/live/123/123/1943.ts
+#EXTINF:-1,NL: NPO 2
+http://ksportiptv.com:1557/live/123/123/1944.ts
+#EXTINF:-1,NL: NPO3
+http://ksportiptv.com:1557/live/123/123/1945.ts
+#EXTINF:-1,NL: HBO HD
+http://ksportiptv.com:1557/live/123/123/1947.ts
+#EXTINF:-1,NL: HBO 2 HD
+http://ksportiptv.com:1557/live/123/123/1983.ts
+#EXTINF:-1,NL: HBO 3 HD
+http://ksportiptv.com:1557/live/123/123/1982.ts
+#EXTINF:-1,NL: HBO 3
+http://ksportiptv.com:1557/live/123/123/1948.ts
+#EXTINF:-1,NL: Fox Sport 3
+http://ksportiptv.com:1557/live/123/123/1950.ts
+#EXTINF:-1,NL: Film 1 Action HD
+http://ksportiptv.com:1557/live/123/123/1985.ts
+#EXTINF:-1,NL: 13th Street NL
+http://ksportiptv.com:1557/live/123/123/1953.ts
+
+#EXTINF:-1,BE: VTM KAZOOM | KANAL Z
+http://ksportiptv.com:1557/live/123/123/2085.ts
+#EXTINF:-1,BE: Do It TV
+http://ksportiptv.com:1557/live/123/123/2086.ts
+#EXTINF:-1,BE: TVO
+http://ksportiptv.com:1557/live/123/123/2087.ts
+#EXTINF:-1,BE: TVL
+http://ksportiptv.com:1557/live/123/123/2088.ts
+#EXTINF:-1,BE: TV LUX
+http://ksportiptv.com:1557/live/123/123/2089.ts
+#EXTINF:-1,BE: RTL TVI
+http://ksportiptv.com:1557/live/123/123/2090.ts
+#EXTINF:-1,BELG: JIMJAM
+http://ksportiptv.com:1557/live/123/123/7926.ts
+#EXTINF:-1,BE: Plug RTL
+http://ksportiptv.com:1557/live/123/123/2091.ts
+#EXTINF:-1,BE: La Une
+http://ksportiptv.com:1557/live/123/123/2092.ts
+#EXTINF:-1,BE: La Trois
+http://ksportiptv.com:1557/live/123/123/2093.ts
+#EXTINF:-1,BE: La Deux
+http://ksportiptv.com:1557/live/123/123/2094.ts
+#EXTINF:-1,BE: CLUB RTL
+http://ksportiptv.com:1557/live/123/123/2095.ts
+#EXTINF:-1,BE: BE Cinema
+http://ksportiptv.com:1557/live/123/123/2083.ts
+#EXTINF:-1,BE: BE 1
+http://ksportiptv.com:1557/live/123/123/2084.ts
+#EXTINF:-1,BE: EEN HD
+http://ksportiptv.com:1557/live/123/123/4929.ts
+#EXTINF:-1,BE: VOO SPORTS/FOOT
+http://ksportiptv.com:1557/live/123/123/4931.ts
+#EXTINF:-1,BE: VTM HD
+http://ksportiptv.com:1557/live/123/123/4930.ts
+#EXTINF:-1,BE: 2BE
+http://ksportiptv.com:1557/live/123/123/2096.ts
+#EXTINF:-1,BE Tele Vesdre
+http://ksportiptv.com:1557/live/123/123/4767.ts
+#EXTINF:-1,BE: 192 T.V
+http://ksportiptv.com:1557/live/123/123/4764.ts
+#EXTINF:-1,BE: 2BE HD
+http://ksportiptv.com:1557/live/123/123/4774.ts
+#EXTINF:-1,BE:ATV Antwerpen
+http://ksportiptv.com:1557/live/123/123/8952.ts
+#EXTINF:-1,BE: Canvas HD
+http://ksportiptv.com:1557/live/123/123/4773.ts
+#EXTINF:-1,BE: Cinema 1
+http://ksportiptv.com:1557/live/123/123/4760.ts
+#EXTINF:-1,BE: Cinema 2
+http://ksportiptv.com:1557/live/123/123/4761.ts
+#EXTINF:-1,BE: Cinema Kids
+http://ksportiptv.com:1557/live/123/123/4762.ts
+#EXTINF:-1,BE: KADET
+http://ksportiptv.com:1557/live/123/123/4772.ts
+#EXTINF:-1,BE: Ketop12
+http://ksportiptv.com:1557/live/123/123/4771.ts
+#EXTINF:-1,BE: NRJ HITS TV
+http://ksportiptv.com:1557/live/123/123/8865.ts
+#EXTINF:-1,BE: Nat Geo HD
+http://ksportiptv.com:1557/live/123/123/4770.ts
+#EXTINF:-1,BE: RTC HD
+http://ksportiptv.com:1557/live/123/123/4766.ts
+#EXTINF:-1,BE: Vier HD
+http://ksportiptv.com:1557/live/123/123/4769.ts
+#EXTINF:-1,BE:BX1
+http://ksportiptv.com:1557/live/123/123/4763.ts
 
-http://clientportal.link:8080/live/cran/cran/12525.ts
 
-#EXTINF:-1,NPO 2 NL
 
-http://clientportal.link:8080/live/cran/cran/4143.ts
 
-#EXTINF:-1,NPO 2 HD NL
 
-http://clientportal.link:8080/live/cran/cran/12526.ts
 
-#EXTINF:-1,NPO 3 NL
 
-http://clientportal.link:8080/live/cran/cran/4144.ts
 
-#EXTINF:-1,NPO 3 HD NL
 
-http://clientportal.link:8080/live/cran/cran/12527.ts
 
-#EXTINF:-1,RTL 4 NL
 
-http://clientportal.link:8080/live/cran/cran/4149.ts
 
-#EXTINF:-1,RTL 4 HD NL
 
-http://clientportal.link:8080/live/cran/cran/12537.ts
 
-#EXTINF:-1,RTL 5 NL
 
-http://clientportal.link:8080/live/cran/cran/4150.ts
-
-#EXTINF:-1,RTL 5 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12536.ts
-
-#EXTINF:-1,SBS6 NL
-
-http://clientportal.link:8080/live/cran/cran/4147.ts
-
-#EXTINF:-1,SBS6 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12533.ts
-
-#EXTINF:-1,RTL 7 NL
-
-http://clientportal.link:8080/live/cran/cran/4151.ts
-
-#EXTINF:-1,RTL 7 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12535.ts
-
-#EXTINF:-1,RTL 8 NL
-
-http://clientportal.link:8080/live/cran/cran/4152.ts
-
-#EXTINF:-1,RTL 8 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12534.ts
-
-#EXTINF:-1,SBS9 NL
-
-http://clientportal.link:8080/live/cran/cran/4148.ts
-
-#EXTINF:-1,FOX NL
-
-http://clientportal.link:8080/live/cran/cran/4134.ts
-
-#EXTINF:-1,Net5 NL
-
-http://clientportal.link:8080/live/cran/cran/4145.ts
-
-#EXTINF:-1,Net5 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12528.ts
-
-#EXTINF:-1,Veronica Disney XD NL
-
-http://clientportal.link:8080/live/cran/cran/16296.ts
-
-#EXTINF:-1,Veronica / Disney XD HD NL
-
-http://clientportal.link:8080/live/cran/cran/12524.ts
-
-#EXTINF:-1,Nickelodeon NL
-
-http://clientportal.link:8080/live/cran/cran/2461.ts
-
-#EXTINF:-1,Comedy Central NL
-
-http://clientportal.link:8080/live/cran/cran/4137.ts
-
-#EXTINF:-1,Comedy Central Extra NL
-
-http://clientportal.link:8080/live/cran/cran/11239.ts
-
-#EXTINF:-1,MTV Music 24 NL
-
-http://clientportal.link:8080/live/cran/cran/4136.ts
-
-#EXTINF:-1,Extreme Sports NL
-
-http://clientportal.link:8080/live/cran/cran/11233.ts
-
-#EXTINF:-1,FOX Sports 1 NL
-
-http://clientportal.link:8080/live/cran/cran/15843.ts
-
-#EXTINF:-1,FOX Sports 1 HD NL
-
-http://clientportal.link:8080/live/cran/cran/4169.ts
-
-#EXTINF:-1,FOX Sports 2 NL
-
-http://clientportal.link:8080/live/cran/cran/4170.ts
-
-#EXTINF:-1,FOX Sports 2 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12530.ts
-
-#EXTINF:-1,FOX Sports 3 NL
-
-http://clientportal.link:8080/live/cran/cran/4171.ts
-
-#EXTINF:-1,FOX Sports 4 NL
-
-http://clientportal.link:8080/live/cran/cran/4172.ts
-
-#EXTINF:-1,FOX Sports 5 NL
-
-http://clientportal.link:8080/live/cran/cran/4173.ts
-
-#EXTINF:-1,FOX Sports 6 NL
-
-http://clientportal.link:8080/live/cran/cran/11231.ts
-
-#EXTINF:-1,Ziggo Sport Select NL
-
-http://clientportal.link:8080/live/cran/cran/4166.ts
-
-#EXTINF:-1,Ziggo Sport Select HD NL
-
-http://clientportal.link:8080/live/cran/cran/12523.ts
-
-#EXTINF:-1,Ziggo Sport Voetbal NL
-
-http://clientportal.link:8080/live/cran/cran/4167.ts
-
-#EXTINF:-1,Ziggo Sport Voetbal HD NL
-
-http://clientportal.link:8080/live/cran/cran/15803.ts
-
-#EXTINF:-1,Ziggo Sport Racing NL
-
-http://clientportal.link:8080/live/cran/cran/7009.ts
-
-#EXTINF:-1,Ziggo Sport Golf HD NL
-
-http://clientportal.link:8080/live/cran/cran/4168.ts
-
-#EXTINF:-1,Ziggo Sport Extra1 NL
-
-http://clientportal.link:8080/live/cran/cran/7007.ts
-
-#EXTINF:-1,Ziggo Sport Extra2 NL
-
-http://clientportal.link:8080/live/cran/cran/7008.ts
-
-#EXTINF:-1,Eurosport 1 NL
-
-http://clientportal.link:8080/live/cran/cran/11235.ts
-
-#EXTINF:-1,Eurosport 1 HD NL
-
-http://clientportal.link:8080/live/cran/cran/12532.ts
-
-#EXTINF:-1,Film1 Premiere NL
-
-http://clientportal.link:8080/live/cran/cran/4162.ts
-
-#EXTINF:-1,Film1 Premiere HD NL
-
-http://clientportal.link:8080/live/cran/cran/12531.ts
-
-#EXTINF:-1,Film1 Action NL
-
-http://clientportal.link:8080/live/cran/cran/4159.ts
-
-#EXTINF:-1,Film1 Family NL
-
-http://clientportal.link:8080/live/cran/cran/4160.ts
-
-#EXTINF:-1,Film1 Drama NL
-
-http://clientportal.link:8080/live/cran/cran/11232.ts
-
-#EXTINF:-1,Film1 Sundance NL
-
-http://clientportal.link:8080/live/cran/cran/4135.ts
-
-#EXTINF:-1,Discovery Channel NL
-
-http://clientportal.link:8080/live/cran/cran/4176.ts
-
-#EXTINF:-1,Investigation Discovery NL
-
-http://clientportal.link:8080/live/cran/cran/11229.ts
-
-#EXTINF:-1,Crime & Investigation NL
-
-http://clientportal.link:8080/live/cran/cran/11238.ts
-
-#EXTINF:-1,History HD NL
-
-http://clientportal.link:8080/live/cran/cran/11230.ts
-
-#EXTINF:-1,Travel Channel HD NL
-
-http://clientportal.link:8080/live/cran/cran/12490.ts
-
-#EXTINF:-1,National Geographic HD NL
-
-http://clientportal.link:8080/live/cran/cran/4140.ts
-
-#EXTINF:-1,Nat Geo Wild HD NL
-
-http://clientportal.link:8080/live/cran/cran/12499.ts
-
-#EXTINF:-1,Animal Planet NL
-
-http://clientportal.link:8080/live/cran/cran/11244.ts
-
-#EXTINF:-1,24 Kitchen NL
-
-http://clientportal.link:8080/live/cran/cran/11246.ts
-
-#EXTINF:-1,RTL Lounge NL
-
-http://clientportal.link:8080/live/cran/cran/11208.ts
-
-#EXTINF:-1,TLC NL
-
-http://clientportal.link:8080/live/cran/cran/11204.ts
-
-#EXTINF:-1,RTL Crime NL
-
-http://clientportal.link:8080/live/cran/cran/11209.ts
-
-#EXTINF:-1,RTL Z NL
-
-http://clientportal.link:8080/live/cran/cran/11206.ts
-
-#EXTINF:-1,Disney Channel NL
-
-http://clientportal.link:8080/live/cran/cran/11237.ts
-
-#EXTINF:-1,Disney Junior NL
-
-http://clientportal.link:8080/live/cran/cran/4141.ts
-
-#EXTINF:-1,Boomerang NL
-
-http://clientportal.link:8080/live/cran/cran/11242.ts
-
-#EXTINF:-1,Baby TV Ziggo NL
-
-http://clientportal.link:8080/live/cran/cran/11213.ts
-
-#EXTINF:-1,Nick Jr. NL
-
-http://clientportal.link:8080/live/cran/cran/11223.ts
-
-#EXTINF:-1,NPO Zapp
-
-http://clientportal.link:8080/live/cran/cran/4263.ts
-
-#EXTINF:-1,NPO Zappelin NL
-
-http://clientportal.link:8080/live/cran/cran/11217.ts
-
-#EXTINF:-1,NPO Cultura NL
-
-http://clientportal.link:8080/live/cran/cran/11218.ts
-
-#EXTINF:-1,NPO Nieuws NL
-
-http://clientportal.link:8080/live/cran/cran/11207.ts
-
-#EXTINF:-1,NPO Politiek NL
-
-http://clientportal.link:8080/live/cran/cran/12491.ts
-
-#EXTINF:-1,NPO101 NL
-
-http://clientportal.link:8080/live/cran/cran/4133.ts
-
-#EXTINF:-1,NPO Best NL
-
-http://clientportal.link:8080/live/cran/cran/4177.ts
-
-#EXTINF:-1,Omroep Brabant NL
-
-http://clientportal.link:8080/live/cran/cran/11216.ts
-
-#EXTINF:-1,Omroep Ede NL
-
-http://clientportal.link:8080/live/cran/cran/11221.ts
-
-#EXTINF:-1,Omroep Flevoland NL
-
-http://clientportal.link:8080/live/cran/cran/11215.ts
-
-#EXTINF:-1,Omroep Fryslan NL
-
-http://clientportal.link:8080/live/cran/cran/11247.ts
-
-#EXTINF:-1,Omroep Gelderland NL
-
-http://clientportal.link:8080/live/cran/cran/11214.ts
-
-#EXTINF:-1,Omroep Venlo NL
-
-http://clientportal.link:8080/live/cran/cran/11236.ts
-
-#EXTINF:-1,Omroep West NL
-
-http://clientportal.link:8080/live/cran/cran/12486.ts
-
-#EXTINF:-1,Omroep Zeeland NL
-
-http://clientportal.link:8080/live/cran/cran/11212.ts
-
-#EXTINF:-1,RTV Drenthe NL
-
-http://clientportal.link:8080/live/cran/cran/12489.ts
-
-#EXTINF:-1,RTV Noord NL
-
-http://clientportal.link:8080/live/cran/cran/12487.ts
-
-#EXTINF:-1,RTV Oost NL
-
-http://clientportal.link:8080/live/cran/cran/11203.ts
-
-#EXTINF:-1,RTV West NL
-
-http://clientportal.link:8080/live/cran/cran/11228.ts
-
-#EXTINF:-1,L1 TV NL
-
-http://clientportal.link:8080/live/cran/cran/11227.ts
-
-#EXTINF:-1,N1 Nijmegen NL
-
-http://clientportal.link:8080/live/cran/cran/11224.ts
-
-#EXTINF:-1,AT 5 NL
-
-http://clientportal.link:8080/live/cran/cran/11243.ts
-
-#EXTINF:-1,Be Cine BE
-
-http://clientportal.link:8080/live/cran/cran/11234.ts
-
-#EXTINF:-1,ONS NL
-
-http://clientportal.link:8080/live/cran/cran/11211.ts
-
-#EXTINF:-1,WOS NL
-
-http://clientportal.link:8080/live/cran/cran/11225.ts
-
-#EXTINF:-1,TV Oranje NL
-
-http://clientportal.link:8080/live/cran/cran/12493.ts
-
-#EXTINF:-1,192TV BE
-
-http://clientportal.link:8080/live/cran/cran/12505.ts
-
-#EXTINF:-1,Q2 HD BE
-
-http://clientportal.link:8080/live/cran/cran/10816.ts
-
-#EXTINF:-1,CAZ BE
-
-http://clientportal.link:8080/live/cran/cran/10815.ts
-
-#EXTINF:-1,Canvas HD BE
-
-http://clientportal.link:8080/live/cran/cran/10814.ts
-
-#EXTINF:-1,Cartoon Network BE
-
-http://clientportal.link:8080/live/cran/cran/12503.ts
-
-#EXTINF:-1,Club RTL BE
-
-http://clientportal.link:8080/live/cran/cran/8293.ts
-
-#EXTINF:-1,EDGE HD BE
-
-http://clientportal.link:8080/live/cran/cran/12504.ts
-
-#EXTINF:-1,één HD BE
-
-http://clientportal.link:8080/live/cran/cran/10813.ts
-
-#EXTINF:-1,Fine Living BE
-
-http://clientportal.link:8080/live/cran/cran/12497.ts
-
-#EXTINF:-1,Fine Living HD BE
-
-http://clientportal.link:8080/live/cran/cran/12498.ts
-
-#EXTINF:-1,Nat Geo HD BE
-
-http://clientportal.link:8080/live/cran/cran/12496.ts
-
-#EXTINF:-1,BE 1 BE
-
-http://clientportal.link:8080/live/cran/cran/12495.ts
-
-#EXTINF:-1,BE Series BE
-
-http://clientportal.link:8080/live/cran/cran/12494.ts
-
-#EXTINF:-1,JIM HD BE
-
-http://clientportal.link:8080/live/cran/cran/10812.ts
-
-#EXTINF:-1,Kadet BE
-
-http://clientportal.link:8080/live/cran/cran/12502.ts
-
-#EXTINF:-1,Ketnet BE
-
-http://clientportal.link:8080/live/cran/cran/10811.ts
-
-#EXTINF:-1,KetOp12 BE
-
-http://clientportal.link:8080/live/cran/cran/12501.ts
-
-#EXTINF:-1,La Deux BE
-
-http://clientportal.link:8080/live/cran/cran/8295.ts
-
-#EXTINF:-1,La Trois BE
-
-http://clientportal.link:8080/live/cran/cran/8294.ts
-
-#EXTINF:-1,La Une HD BE
-
-http://clientportal.link:8080/live/cran/cran/8296.ts
-
-#EXTINF:-1,National Geographic HD BE
-
-http://clientportal.link:8080/live/cran/cran/12500.ts
-
-#EXTINF:-1,Plug RTL BE
-
-http://clientportal.link:8080/live/cran/cran/9037.ts
-
-#EXTINF:-1,RTL TVI BE
-
-http://clientportal.link:8080/live/cran/cran/9038.ts
-
-#EXTINF:-1,Travel Channel HD BE
-
-http://clientportal.link:8080/live/cran/cran/12492.ts
-
-#EXTINF:-1,VIER HD BE
-
-http://clientportal.link:8080/live/cran/cran/10809.ts
-
-#EXTINF:-1,VIJF BE
-
-http://clientportal.link:8080/live/cran/cran/10808.ts
-
-#EXTINF:-1,Vitaya BE
-
-http://clientportal.link:8080/live/cran/cran/10807.ts
-
-#EXTINF:-1,vtm HD BE
-
-http://clientportal.link:8080/live/cran/cran/10806.ts
-
-#EXTINF:-1,VTM Kzoom BE
-
-http://clientportal.link:8080/live/cran/cran/10805.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://ksportiptv.com:1557/live/123/123/2294.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://ksportiptv.com:1557/live/123/123/2293.ts
+#EXTINF:-1,NL: Ziggo Sport Select
+http://ksportiptv.com:1557/live/123/123/8967.ts
+#EXTINF:-1,NL: ZiggoSport Golf
+http://ksportiptv.com:1557/live/123/123/8964.ts
+#EXTINF:-1,NL: ZiggoSport Racing
+http://ksportiptv.com:1557/live/123/123/8965.ts
+#EXTINF:-1,NL: ZiggoSport Voetbal
+http://ksportiptv.com:1557/live/123/123/8966.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://ksportiptv.com:1557/live/123/123/1973.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://ksportiptv.com:1557/live/123/123/1972.ts

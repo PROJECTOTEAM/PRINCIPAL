@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-04-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -150,269 +150,171 @@ http://185.53.161.147:8888/play/a02f
 
 
 
-
-
-#EXTINF:-1,#0 ES
-http://clientportal.link:8080/live/cran/cran/9411.ts
-#EXTINF:-1,#0 HD ES
-http://clientportal.link:8080/live/cran/cran/12734.ts
-#EXTINF:-1,40 TV ES
-http://clientportal.link:8080/live/cran/cran/5475.ts
-#EXTINF:-1,A&E ES
-http://clientportal.link:8080/live/cran/cran/5474.ts
-#EXTINF:-1,AMC ES
-http://clientportal.link:8080/live/cran/cran/9438.ts
-#EXTINF:-1,AMC HD ES
-http://clientportal.link:8080/live/cran/cran/12733.ts
-#EXTINF:-1,AXN ES
-http://clientportal.link:8080/live/cran/cran/5471.ts
-#EXTINF:-1,AXN HD ES
-http://clientportal.link:8080/live/cran/cran/12731.ts
-#EXTINF:-1,AXN White ES
-http://clientportal.link:8080/live/cran/cran/5470.ts
-#EXTINF:-1,AXN White HD ES
-http://clientportal.link:8080/live/cran/cran/12730.ts
-#EXTINF:-1,Animal Planet ES
-http://clientportal.link:8080/live/cran/cran/11606.ts
-#EXTINF:-1,Antena 3 ES
-http://clientportal.link:8080/live/cran/cran/5472.ts
-#EXTINF:-1,Antena 3 HD ES
-http://clientportal.link:8080/live/cran/cran/12732.ts
-#EXTINF:-1,Aragon TV ES
-http://clientportal.link:8080/live/cran/cran/9409.ts
-#EXTINF:-1,Baby TV ES
-http://clientportal.link:8080/live/cran/cran/9427.ts
-#EXTINF:-1,Barca TV ES
-http://clientportal.link:8080/live/cran/cran/5466.ts
-#EXTINF:-1,Boing ES
-http://clientportal.link:8080/live/cran/cran/9429.ts
-#EXTINF:-1,CLASSICA ES
-http://clientportal.link:8080/live/cran/cran/9437.ts
-#EXTINF:-1,Calle 13 ES
-http://clientportal.link:8080/live/cran/cran/5469.ts
-#EXTINF:-1,Calle 13 HD ES
-http://clientportal.link:8080/live/cran/cran/12728.ts
-#EXTINF:-1,Canal 24 Horas ES
-http://clientportal.link:8080/live/cran/cran/9410.ts
-#EXTINF:-1,Canal Cocina ES
-http://clientportal.link:8080/live/cran/cran/5456.ts
-#EXTINF:-1,Canal Decasa ES
-http://clientportal.link:8080/live/cran/cran/5460.ts
-#EXTINF:-1,Canal Panda ES
-http://clientportal.link:8080/live/cran/cran/9418.ts
-#EXTINF:-1,Canal Sur Andalucia ES
-http://clientportal.link:8080/live/cran/cran/5467.ts
-#EXTINF:-1,Canal+ Liga 2 ES
-http://clientportal.link:8080/live/cran/cran/9447.ts
-#EXTINF:-1,Caza y Pesca ES
-http://clientportal.link:8080/live/cran/cran/9426.ts
-#EXTINF:-1,Caza y Pesca HD ES
-http://clientportal.link:8080/live/cran/cran/13659.ts
-#EXTINF:-1,Clan TVE ES
-http://clientportal.link:8080/live/cran/cran/9428.ts
-#EXTINF:-1,Comedy Central ES
-http://clientportal.link:8080/live/cran/cran/9420.ts
-#EXTINF:-1,Comedy Central HD ES
-http://clientportal.link:8080/live/cran/cran/12711.ts
-#EXTINF:-1,Cosmo ES
-http://clientportal.link:8080/live/cran/cran/5473.ts
-#EXTINF:-1,Cosmo HD ES
-http://clientportal.link:8080/live/cran/cran/12710.ts
-#EXTINF:-1,Crimen & Investigacion ES
-http://clientportal.link:8080/live/cran/cran/9433.ts
-#EXTINF:-1,Cuatro ES
-http://clientportal.link:8080/live/cran/cran/5464.ts
-#EXTINF:-1,Cuatro HD ES
-http://clientportal.link:8080/live/cran/cran/12709.ts
-#EXTINF:-1,Discovery Channel ES
-http://clientportal.link:8080/live/cran/cran/5448.ts
-#EXTINF:-1,Disney Channel ES
-http://clientportal.link:8080/live/cran/cran/5446.ts
-#EXTINF:-1,Disney Channel HD ES
-http://clientportal.link:8080/live/cran/cran/12708.ts
-#EXTINF:-1,Disney Junior ES
-http://clientportal.link:8080/live/cran/cran/9431.ts
-#EXTINF:-1,Disney XD ES
-http://clientportal.link:8080/live/cran/cran/9430.ts
-#EXTINF:-1,Divinity ES
-http://clientportal.link:8080/live/cran/cran/9442.ts
-#EXTINF:-1,Energy ES
-http://clientportal.link:8080/live/cran/cran/9440.ts
-#EXTINF:-1,Eurosport 1 ES
-http://clientportal.link:8080/live/cran/cran/5410.ts
-#EXTINF:-1,Eurosport 1 HD ES
-http://clientportal.link:8080/live/cran/cran/12707.ts
-#EXTINF:-1,FDF ES
-http://clientportal.link:8080/live/cran/cran/9434.ts
-#EXTINF:-1,FOX ES
-http://clientportal.link:8080/live/cran/cran/5442.ts
-#EXTINF:-1,FOX HD ES
-http://clientportal.link:8080/live/cran/cran/13661.ts
-#EXTINF:-1,FOX Life ES
-http://clientportal.link:8080/live/cran/cran/5439.ts
-#EXTINF:-1,FOX News ES
-http://clientportal.link:8080/live/cran/cran/9443.ts
-#EXTINF:-1,Fox Life HD ES
-http://clientportal.link:8080/live/cran/cran/12706.ts
-#EXTINF:-1,Gol T ES
-http://clientportal.link:8080/live/cran/cran/9416.ts
-#EXTINF:-1,Historia ES
-http://clientportal.link:8080/live/cran/cran/9425.ts
-#EXTINF:-1,Hit TV ES
-http://clientportal.link:8080/live/cran/cran/9435.ts
-#EXTINF:-1,Hollywood ES
-http://clientportal.link:8080/live/cran/cran/5428.ts
-#EXTINF:-1,Hollywood HD ES
-http://clientportal.link:8080/live/cran/cran/12705.ts
-#EXTINF:-1,Iberalia TV ES
-http://clientportal.link:8080/live/cran/cran/9408.ts
-#EXTINF:-1,LTC ES
-http://clientportal.link:8080/live/cran/cran/9439.ts
-#EXTINF:-1,La 1 ES
-http://clientportal.link:8080/live/cran/cran/9404.ts
-#EXTINF:-1,La 1 HD ES
-http://clientportal.link:8080/live/cran/cran/12704.ts
-#EXTINF:-1,La 2 ES
-http://clientportal.link:8080/live/cran/cran/9405.ts
-#EXTINF:-1,La Sexta ES
-http://clientportal.link:8080/live/cran/cran/9406.ts
-#EXTINF:-1,La Sexta HD ES
-http://clientportal.link:8080/live/cran/cran/12703.ts
-#EXTINF:-1,LaLiga TV Bar ES
-http://clientportal.link:8080/live/cran/cran/5457.ts
-#EXTINF:-1,LaLiga TV Bar HD ES
-http://clientportal.link:8080/live/cran/cran/12718.ts
-#EXTINF:-1,MTV ES
-http://clientportal.link:8080/live/cran/cran/9448.ts
-#EXTINF:-1,MTV ROCKS ES
-http://clientportal.link:8080/live/cran/cran/9444.ts
-#EXTINF:-1,Mega HD ES
-http://clientportal.link:8080/live/cran/cran/16262.ts
-#EXTINF:-1,Mezzo Live HD ES
-http://clientportal.link:8080/live/cran/cran/12702.ts
-#EXTINF:-1,Movistar Acción ES
-http://clientportal.link:8080/live/cran/cran/5463.ts
-#EXTINF:-1,Movistar Acción HD ES
-http://clientportal.link:8080/live/cran/cran/12727.ts
-#EXTINF:-1,Movistar Cine Ñ ES
-http://clientportal.link:8080/live/cran/cran/5411.ts
-#EXTINF:-1,Movistar Comedia ES
-http://clientportal.link:8080/live/cran/cran/5462.ts
-#EXTINF:-1,Movistar Comedia HD ES
-http://clientportal.link:8080/live/cran/cran/12726.ts
-#EXTINF:-1,Movistar DCine ES
-http://clientportal.link:8080/live/cran/cran/5461.ts
-#EXTINF:-1,Movistar DCine HD ES
-http://clientportal.link:8080/live/cran/cran/12725.ts
-#EXTINF:-1,Movistar Deportes 1 ES
-http://clientportal.link:8080/live/cran/cran/5465.ts
-#EXTINF:-1,Movistar Deportes 1 HD ES
-http://clientportal.link:8080/live/cran/cran/12723.ts
-#EXTINF:-1,Movistar Deportes 2 ES
-http://clientportal.link:8080/live/cran/cran/9419.ts
-#EXTINF:-1,Movistar Deportes 2 HD ES
-http://clientportal.link:8080/live/cran/cran/12724.ts
-#EXTINF:-1,Movistar Estrenos ES
-http://clientportal.link:8080/live/cran/cran/9415.ts
-#EXTINF:-1,Movistar Estrenos HD ES
-http://clientportal.link:8080/live/cran/cran/12722.ts
-#EXTINF:-1,Movistar Formula 1 ES
-http://clientportal.link:8080/live/cran/cran/5445.ts
-#EXTINF:-1,Movistar Formula 1 HD ES
-http://clientportal.link:8080/live/cran/cran/12701.ts
-#EXTINF:-1,Movistar Fútbol ES
-http://clientportal.link:8080/live/cran/cran/5459.ts
-#EXTINF:-1,Movistar Fútbol HD ES
-http://clientportal.link:8080/live/cran/cran/12721.ts
-#EXTINF:-1,Movistar Golf ES
-http://clientportal.link:8080/live/cran/cran/5458.ts
-#EXTINF:-1,Movistar Golf HD ES
-http://clientportal.link:8080/live/cran/cran/12720.ts
-#EXTINF:-1,Movistar MotoGP ES
-http://clientportal.link:8080/live/cran/cran/5436.ts
-#EXTINF:-1,Movistar MotoGP HD ES
-http://clientportal.link:8080/live/cran/cran/12700.ts
-#EXTINF:-1,Movistar Partidazo ES
-http://clientportal.link:8080/live/cran/cran/5447.ts
-#EXTINF:-1,Movistar Partidazo HD ES
-http://clientportal.link:8080/live/cran/cran/12716.ts
-#EXTINF:-1,Movistar Series ES
-http://clientportal.link:8080/live/cran/cran/9413.ts
-#EXTINF:-1,Movistar Series HD ES
-http://clientportal.link:8080/live/cran/cran/13664.ts
-#EXTINF:-1,Movistar Series Xtra ES
-http://clientportal.link:8080/live/cran/cran/9414.ts
-#EXTINF:-1,Movistar Series Xtra HD ES
-http://clientportal.link:8080/live/cran/cran/12714.ts
-#EXTINF:-1,Movistar Xtra ES
-http://clientportal.link:8080/live/cran/cran/9412.ts
-#EXTINF:-1,Movistar Xtra HD ES
-http://clientportal.link:8080/live/cran/cran/12712.ts
-#EXTINF:-1,Nat Geo HD ES
-http://clientportal.link:8080/live/cran/cran/9441.ts
-#EXTINF:-1,Nat Geo Wild ES
-http://clientportal.link:8080/live/cran/cran/5476.ts
-#EXTINF:-1,Nat Geo Wild HD ES
-http://clientportal.link:8080/live/cran/cran/12698.ts
-#EXTINF:-1,National Geographic ES
-http://clientportal.link:8080/live/cran/cran/5455.ts
-#EXTINF:-1,National Geographic HD ES
-http://clientportal.link:8080/live/cran/cran/12699.ts
-#EXTINF:-1,Neox ES
-http://clientportal.link:8080/live/cran/cran/9421.ts
-#EXTINF:-1,Nick Jr. ES
-http://clientportal.link:8080/live/cran/cran/14247.ts
-#EXTINF:-1,Nickelodeon ES
-http://clientportal.link:8080/live/cran/cran/14248.ts
-#EXTINF:-1,Nickelodeon HD ES
-http://clientportal.link:8080/live/cran/cran/12697.ts
-#EXTINF:-1,Nova ES
-http://clientportal.link:8080/live/cran/cran/9422.ts
-#EXTINF:-1,Odisea ES
-http://clientportal.link:8080/live/cran/cran/9417.ts
-#EXTINF:-1,Paramount Channel ES
-http://clientportal.link:8080/live/cran/cran/9446.ts
-#EXTINF:-1,Real Madrid TV ES
-http://clientportal.link:8080/live/cran/cran/5420.ts
-#EXTINF:-1,Sol Musica ES
-http://clientportal.link:8080/live/cran/cran/9432.ts
-#EXTINF:-1,Syfy ES
-http://clientportal.link:8080/live/cran/cran/5417.ts
-#EXTINF:-1,Syfy HD ES
-http://clientportal.link:8080/live/cran/cran/12696.ts
-#EXTINF:-1,TCM ES
-http://clientportal.link:8080/live/cran/cran/9445.ts
-#EXTINF:-1,TCM HD ES
-http://clientportal.link:8080/live/cran/cran/12695.ts
-#EXTINF:-1,TNT ES
-http://clientportal.link:8080/live/cran/cran/9423.ts
-#EXTINF:-1,TNT HD ES
-http://clientportal.link:8080/live/cran/cran/12693.ts
-#EXTINF:-1,TV3 Catalunya ES
-http://clientportal.link:8080/live/cran/cran/9436.ts
-#EXTINF:-1,Taquilla 1 HD ES
-http://clientportal.link:8080/live/cran/cran/15615.ts
-#EXTINF:-1,Taquilla 2 HD ES
-http://clientportal.link:8080/live/cran/cran/15616.ts
-#EXTINF:-1,Taquilla 3 HD ES
-http://clientportal.link:8080/live/cran/cran/15617.ts
-#EXTINF:-1,Taquilla 4 HD ES
-http://clientportal.link:8080/live/cran/cran/15618.ts
-#EXTINF:-1,Taquilla 5 HD ES
-http://clientportal.link:8080/live/cran/cran/15619.ts
-#EXTINF:-1,Taquilla 6 HD ES
-http://clientportal.link:8080/live/cran/cran/15620.ts
-#EXTINF:-1,Telecinco ES
-http://clientportal.link:8080/live/cran/cran/5415.ts
-#EXTINF:-1,Telecinco HD ES
-http://clientportal.link:8080/live/cran/cran/12694.ts
-#EXTINF:-1,Teledeporte ES
-http://clientportal.link:8080/live/cran/cran/5414.ts
-#EXTINF:-1,Toros TV ES
-http://clientportal.link:8080/live/cran/cran/5437.ts
-#EXTINF:-1,Toros TV HD ES
-http://clientportal.link:8080/live/cran/cran/12713.ts
-#EXTINF:-1,Viajar ES
-http://clientportal.link:8080/live/cran/cran/9424.ts
-#EXTINF:-1,Viajar HD ES
-http://clientportal.link:8080/live/cran/cran/12717.ts
+#EXTINF:-1,ES: TVE LA 1 HD
+http://ksportiptv.com:1557/live/123/123/1770.ts
+#EXTINF:-1,ES: TVE LA 2
+http://ksportiptv.com:1557/live/123/123/1771.ts
+#EXTINF:-1,ES: TV3 Catalynia HD
+http://ksportiptv.com:1557/live/123/123/2145.ts
+#EXTINF:-1,ES: Antena 3
+http://ksportiptv.com:1557/live/123/123/1772.ts
+#EXTINF:-1,ES: Azteca Trece
+http://ksportiptv.com:1557/live/123/123/4632.ts
+#EXTINF:-1,ES: Cuatro
+http://ksportiptv.com:1557/live/123/123/1773.ts
+#EXTINF:-1,ES: N Cuatro HD
+http://ksportiptv.com:1557/live/123/123/2152.ts
+#EXTINF:-1,ES: Telecinco HD
+http://ksportiptv.com:1557/live/123/123/3630.ts
+#EXTINF:-1,ES: Telecinco
+http://ksportiptv.com:1557/live/123/123/1774.ts
+#EXTINF:-1,ES: la sexta HD
+http://ksportiptv.com:1557/live/123/123/2154.ts
+#EXTINF:-1,ES: Moviestar Portrada
+http://ksportiptv.com:1557/live/123/123/4631.ts
+#EXTINF:-1,ES: RTVA
+http://ksportiptv.com:1557/live/123/123/4630.ts
+#EXTINF:-1,ES: Baby TV
+http://ksportiptv.com:1557/live/123/123/3651.ts
+#EXTINF:-1,ES: BOING
+http://ksportiptv.com:1557/live/123/123/3650.ts
+#EXTINF:-1,ES: Anima Tv
+http://ksportiptv.com:1557/live/123/123/3674.ts
+#EXTINF:-1,ES: Disney XD
+http://ksportiptv.com:1557/live/123/123/3654.ts
+#EXTINF:-1,ES: Disney Junior
+http://ksportiptv.com:1557/live/123/123/3653.ts
+#EXTINF:-1,ES: Cartoon Network
+http://ksportiptv.com:1557/live/123/123/3652.ts
+#EXTINF:-1,ES: Nickelodeon
+http://ksportiptv.com:1557/live/123/123/3687.ts
+#EXTINF:-1,ES: Disney Channel
+http://ksportiptv.com:1557/live/123/123/2162.ts
+#EXTINF:-1,ES: SYFY
+http://ksportiptv.com:1557/live/123/123/2153.ts
+#EXTINF:-1,ES: FOX LIFE
+http://ksportiptv.com:1557/live/123/123/2158.ts
+#EXTINF:-1,ES: FOX Life HD
+http://ksportiptv.com:1557/live/123/123/3642.ts
+#EXTINF:-1,ES: FOX HD
+http://ksportiptv.com:1557/live/123/123/3641.ts
+#EXTINF:-1,ES: Fox
+http://ksportiptv.com:1557/live/123/123/2147.ts
+#EXTINF:-1,ES: AXN White HD
+http://ksportiptv.com:1557/live/123/123/3648.ts
+#EXTINF:-1,ES: AXN
+http://ksportiptv.com:1557/live/123/123/3649.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://ksportiptv.com:1557/live/123/123/3643.ts
+#EXTINF:-1,ES: Movistar Accion
+http://ksportiptv.com:1557/live/123/123/3632.ts
+#EXTINF:-1,ES: Movistar Comedia HD
+http://ksportiptv.com:1557/live/123/123/3633.ts
+#EXTINF:-1,ES: Movistar DCine
+http://ksportiptv.com:1557/live/123/123/3631.ts
+#EXTINF:-1,ES: Movistar Xtra
+http://ksportiptv.com:1557/live/123/123/3635.ts
+#EXTINF:-1,ES: Movistar Series Xtra
+http://ksportiptv.com:1557/live/123/123/3637.ts
+#EXTINF:-1,ES: Movistar Series
+http://ksportiptv.com:1557/live/123/123/3636.ts
+#EXTINF:-1,ES: Movistar Estrenos
+http://ksportiptv.com:1557/live/123/123/3634.ts
+#EXTINF:-1,ES: Canal HD
+http://ksportiptv.com:1557/live/123/123/3638.ts
+#EXTINF:-1,ES: TNT
+http://ksportiptv.com:1557/live/123/123/3646.ts
+#EXTINF:-1,ES: Comedy Central
+http://ksportiptv.com:1557/live/123/123/3640.ts
+#EXTINF:-1,ES: Paramount Channel
+http://ksportiptv.com:1557/live/123/123/3673.ts
+#EXTINF:-1,ES: Hollywood SD
+http://ksportiptv.com:1557/live/123/123/3645.ts
+#EXTINF:-1,ES: Hollywood HD
+http://ksportiptv.com:1557/live/123/123/3644.ts
+#EXTINF:-1,ES: Moviestar Series
+http://ksportiptv.com:1557/live/123/123/3678.ts
+#EXTINF:-1,ES: Televisa HD
+http://ksportiptv.com:1557/live/123/123/3679.ts
+#EXTINF:-1,ES: Energy
+http://ksportiptv.com:1557/live/123/123/3675.ts
+#EXTINF:-1,ES: TVE Clan
+http://ksportiptv.com:1557/live/123/123/3647.ts
+#EXTINF:-1,ES: Bein LaLiga
+http://ksportiptv.com:1557/live/123/123/3669.ts
+#EXTINF:-1,ES: Neox Tv
+http://ksportiptv.com:1557/live/123/123/3672.ts
+#EXTINF:-1,ES: National Geographic
+http://ksportiptv.com:1557/live/123/123/3676.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://ksportiptv.com:1557/live/123/123/3677.ts
+#EXTINF:-1,ES: Historia
+http://ksportiptv.com:1557/live/123/123/3682.ts
+#EXTINF:-1,ES: Toros Tv
+http://ksportiptv.com:1557/live/123/123/3668.ts
+#EXTINF:-1,ES: Viajar HD
+http://ksportiptv.com:1557/live/123/123/3683.ts
+#EXTINF:-1,ES: Odisea Tv
+http://ksportiptv.com:1557/live/123/123/3671.ts
+#EXTINF:-1,ES: Nova
+http://ksportiptv.com:1557/live/123/123/3667.ts
+#EXTINF:-1,ES: Mega
+http://ksportiptv.com:1557/live/123/123/3691.ts
+#EXTINF:-1,ES: MTV espana
+http://ksportiptv.com:1557/live/123/123/3690.ts
+#EXTINF:-1,ES: Proyecto 40
+http://ksportiptv.com:1557/live/123/123/2150.ts
+#EXTINF:-1,ES: Crimen y Investigation
+http://ksportiptv.com:1557/live/123/123/3689.ts
+#EXTINF:-1,ES: Cosmo HD
+http://ksportiptv.com:1557/live/123/123/3688.ts
+#EXTINF:-1,ES: Canal DeCasa
+http://ksportiptv.com:1557/live/123/123/3686.ts
+#EXTINF:-1,ES: Canal Cocina
+http://ksportiptv.com:1557/live/123/123/3684.ts
+#EXTINF:-1,ES: Movistar MotoGP
+http://ksportiptv.com:1557/live/123/123/3680.ts
+#EXTINF:-1,ES: Azteca Honduras
+http://ksportiptv.com:1557/live/123/123/8309.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://ksportiptv.com:1557/live/123/123/8308.ts
+#EXTINF:-1,ES: Sevilla Channel
+http://ksportiptv.com:1557/live/123/123/8343.ts
+#EXTINF:-1,ES: Telemadrid
+http://ksportiptv.com:1557/live/123/123/8307.ts
+#EXTINF:-1,ES: Telesur
+http://ksportiptv.com:1557/live/123/123/8358.ts
+#EXTINF:-1,ES: Movistar F1
+http://ksportiptv.com:1557/live/123/123/3681.ts
+#EXTINF:-1,ES: Andalucia Tv
+http://ksportiptv.com:1557/live/123/123/3670.ts
+#EXTINF:-1,ES: RealMadrid TV
+http://ksportiptv.com:1557/live/123/123/1589.ts
+#EXTINF:-1,ES: Taquilla 1
+http://ksportiptv.com:1557/live/123/123/2628.ts
+#EXTINF:-1,ES: Taquilla 2
+http://ksportiptv.com:1557/live/123/123/2629.ts
+#EXTINF:-1,ES: Taquilla 3
+http://ksportiptv.com:1557/live/123/123/2630.ts
+#EXTINF:-1,ES: Taquilla 4
+http://ksportiptv.com:1557/live/123/123/2631.ts
+#EXTINF:-1,ES: Taquilla 5
+http://ksportiptv.com:1557/live/123/123/3655.ts
+#EXTINF:-1,ES: Taquilla 6
+http://ksportiptv.com:1557/live/123/123/2632.ts
+#EXTINF:-1,ES: Taquilla 7
+http://ksportiptv.com:1557/live/123/123/3656.ts
+#EXTINF:-1,ES: Taquilla 8
+http://ksportiptv.com:1557/live/123/123/2633.ts
+#EXTINF:-1,ES: Taquilla 9
+http://ksportiptv.com:1557/live/123/123/3657.ts
+#EXTINF:-1,ES: Taquilla 10
+http://ksportiptv.com:1557/live/123/123/3658.ts
+#EXTINF:-1,ES: EUROSPORT
+http://ksportiptv.com:1557/live/123/123/2161.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://ksportiptv.com:1557/live/123/123/2149.ts
+#EXTINF:-1,ES: Bein Sport Espana
+http://ksportiptv.com:1557/live/123/123/2143.ts
+#EXTINF:-1,ES: Barca TV
+http://ksportiptv.com:1557/live/123/123/1585.ts

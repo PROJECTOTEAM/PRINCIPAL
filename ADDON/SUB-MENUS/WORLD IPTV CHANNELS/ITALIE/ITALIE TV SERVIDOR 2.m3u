@@ -1,548 +1,84 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,AXN Full HD IT
-http://clientportal.link:8080/live/cran/cran/14184.ts
-#EXTINF:-1,AXN HD IT
-http://clientportal.link:8080/live/cran/cran/4081.ts
-#EXTINF:-1,AXN SCIFI IT
-http://clientportal.link:8080/live/cran/cran/14167.ts
-#EXTINF:-1,Alice HD IT
-http://clientportal.link:8080/live/cran/cran/14186.ts
-#EXTINF:-1,Alice IT
-http://clientportal.link:8080/live/cran/cran/8986.ts
-#EXTINF:-1,Animal Planet HD IT
-http://clientportal.link:8080/live/cran/cran/14185.ts
-#EXTINF:-1,Animal Planet IT
-http://clientportal.link:8080/live/cran/cran/8985.ts
-#EXTINF:-1,Antenna 3 IT
-http://clientportal.link:8080/live/cran/cran/14211.ts
-#EXTINF:-1,Auto Moto TV IT
-http://clientportal.link:8080/live/cran/cran/14210.ts
-#EXTINF:-1,Bike Channel HD IT
-http://clientportal.link:8080/live/cran/cran/14183.ts
-#EXTINF:-1,Boing HD IT
-http://clientportal.link:8080/live/cran/cran/14182.ts
-#EXTINF:-1,Boing IT
-http://clientportal.link:8080/live/cran/cran/3712.ts
-#EXTINF:-1,CI Crime & Investigation Full HD IT
-http://clientportal.link:8080/live/cran/cran/14175.ts
-#EXTINF:-1,CI Crime & Investigation HD IT
-http://clientportal.link:8080/live/cran/cran/8979.ts
-#EXTINF:-1,CLB Classic Italia IT
-http://clientportal.link:8080/live/cran/cran/14178.ts
-#EXTINF:-1,Caccia & Pesca IT
-http://clientportal.link:8080/live/cran/cran/14181.ts
-#EXTINF:-1,Caccia e Pesca IT
-http://clientportal.link:8080/live/cran/cran/8984.ts
-#EXTINF:-1,Canale 5 Full HD IT
-http://clientportal.link:8080/live/cran/cran/14209.ts
-#EXTINF:-1,Canale 5 HD IT
-http://clientportal.link:8080/live/cran/cran/1666.ts
-#EXTINF:-1,Canale 8 HD IT
-http://clientportal.link:8080/live/cran/cran/14179.ts
-#EXTINF:-1,Canale 8 IT
-http://clientportal.link:8080/live/cran/cran/14180.ts
-#EXTINF:-1,Cartoon Network IT
-http://clientportal.link:8080/live/cran/cran/14176.ts
-#EXTINF:-1,Cartoonito HD IT
-http://clientportal.link:8080/live/cran/cran/14177.ts
-#EXTINF:-1,Cartoonito IT
-http://clientportal.link:8080/live/cran/cran/7030.ts
-#EXTINF:-1,Cielo HD IT
-http://clientportal.link:8080/live/cran/cran/14187.ts
-#EXTINF:-1,Cielo IT
-http://clientportal.link:8080/live/cran/cran/1671.ts
-#EXTINF:-1,DMAX IT
-http://clientportal.link:8080/live/cran/cran/5231.ts
-#EXTINF:-1,DeeJay TV HD IT
-http://clientportal.link:8080/live/cran/cran/14174.ts
-#EXTINF:-1,DeeJay TV IT
-http://clientportal.link:8080/live/cran/cran/8234.ts
-#EXTINF:-1,Discovery Channel Full HD IT
-http://clientportal.link:8080/live/cran/cran/14171.ts
-#EXTINF:-1,Discovery Channel HD IT
-http://clientportal.link:8080/live/cran/cran/3667.ts
-#EXTINF:-1,Discovery Science Full HD IT
-http://clientportal.link:8080/live/cran/cran/14173.ts
-#EXTINF:-1,Discovery Science HD IT
-http://clientportal.link:8080/live/cran/cran/8980.ts
-#EXTINF:-1,Discovery Travel & Living Full HD IT
-http://clientportal.link:8080/live/cran/cran/14172.ts
-#EXTINF:-1,Discovery Travel & Living IT
-http://clientportal.link:8080/live/cran/cran/8983.ts
-#EXTINF:-1,Discovery World IT
-http://clientportal.link:8080/live/cran/cran/6914.ts
-#EXTINF:-1,Disney Channel IT
-http://clientportal.link:8080/live/cran/cran/4377.ts
-#EXTINF:-1,Disney Junior IT
-http://clientportal.link:8080/live/cran/cran/14076.ts
-#EXTINF:-1,Disney XD IT
-http://clientportal.link:8080/live/cran/cran/7032.ts
-#EXTINF:-1,Dmax HD IT
-http://clientportal.link:8080/live/cran/cran/14168.ts
-#EXTINF:-1,E! IT
-http://clientportal.link:8080/live/cran/cran/14154.ts
-#EXTINF:-1,Europort 1 HD IT
-http://clientportal.link:8080/live/cran/cran/14188.ts
-#EXTINF:-1,Eurosport 1 IT
-http://clientportal.link:8080/live/cran/cran/4093.ts
-#EXTINF:-1,Eurosport 2 HD IT
-http://clientportal.link:8080/live/cran/cran/4094.ts
-#EXTINF:-1,Eurosport 2 IT
-http://clientportal.link:8080/live/cran/cran/14156.ts
-#EXTINF:-1,Explora HD IT
-http://clientportal.link:8080/live/cran/cran/14166.ts
-#EXTINF:-1,FOX Comedy HD IT
-http://clientportal.link:8080/live/cran/cran/4082.ts
-#EXTINF:-1,FOX HD IT
-http://clientportal.link:8080/live/cran/cran/3713.ts
-#EXTINF:-1,Focus HD IT
-http://clientportal.link:8080/live/cran/cran/14165.ts
-#EXTINF:-1,Focus IT
-http://clientportal.link:8080/live/cran/cran/8981.ts
-#EXTINF:-1,Fox Animation HD IT
-http://clientportal.link:8080/live/cran/cran/7862.ts
-#EXTINF:-1,Fox Comedy Full HD IT
-http://clientportal.link:8080/live/cran/cran/14164.ts
-#EXTINF:-1,Fox Crime HD IT
-http://clientportal.link:8080/live/cran/cran/14163.ts
-#EXTINF:-1,Fox Crime HD IT
-http://clientportal.link:8080/live/cran/cran/1683.ts
-#EXTINF:-1,Fox Full HD IT
-http://clientportal.link:8080/live/cran/cran/14162.ts
-#EXTINF:-1,Fox Life HD IT
-http://clientportal.link:8080/live/cran/cran/14161.ts
-#EXTINF:-1,Fox Life IT
-http://clientportal.link:8080/live/cran/cran/7868.ts
-#EXTINF:-1,Fox Sports HD IT
-http://clientportal.link:8080/live/cran/cran/5223.ts
-#EXTINF:-1,Frisbee HD IT
-http://clientportal.link:8080/live/cran/cran/14160.ts
-#EXTINF:-1,Frisbee IT
-http://clientportal.link:8080/live/cran/cran/7031.ts
-#EXTINF:-1,Gambero Rosso Full HD IT
-http://clientportal.link:8080/live/cran/cran/14159.ts
-#EXTINF:-1,Gambero Rosso IT
-http://clientportal.link:8080/live/cran/cran/8982.ts
-#EXTINF:-1,Giallo IT
-http://clientportal.link:8080/live/cran/cran/9006.ts
-#EXTINF:-1,History Full HD IT
-http://clientportal.link:8080/live/cran/cran/14158.ts
-#EXTINF:-1,History HD IT
-http://clientportal.link:8080/live/cran/cran/4089.ts
-#EXTINF:-1,Inter Channel IT
-http://clientportal.link:8080/live/cran/cran/14192.ts
-#EXTINF:-1,Iris HD IT
-http://clientportal.link:8080/live/cran/cran/14157.ts
-#EXTINF:-1,Iris IT
-http://clientportal.link:8080/live/cran/cran/5222.ts
-#EXTINF:-1,Italia 1 Full HD IT
-http://clientportal.link:8080/live/cran/cran/14191.ts
-#EXTINF:-1,Italia 1 IT
-http://clientportal.link:8080/live/cran/cran/5234.ts
-#EXTINF:-1,Juventus Channell IT
-http://clientportal.link:8080/live/cran/cran/14190.ts
-#EXTINF:-1,K2 IT
-http://clientportal.link:8080/live/cran/cran/14155.ts
-#EXTINF:-1,LA 5 IT
-http://clientportal.link:8080/live/cran/cran/14189.ts
-#EXTINF:-1,La5 IT
-http://clientportal.link:8080/live/cran/cran/3677.ts
-#EXTINF:-1,La7 IT
-http://clientportal.link:8080/live/cran/cran/14117.ts
-#EXTINF:-1,La7D IT
-http://clientportal.link:8080/live/cran/cran/14116.ts
-#EXTINF:-1,Lazio Channel IT
-http://clientportal.link:8080/live/cran/cran/14153.ts
-#EXTINF:-1,MTV Music IT
-http://clientportal.link:8080/live/cran/cran/9000.ts
-#EXTINF:-1,MTV8 IT
-http://clientportal.link:8080/live/cran/cran/14143.ts
-#EXTINF:-1,m2o tv IT
-http://clientportal.link:8080/live/cran/cran/9005.ts
-#EXTINF:-1,Man-Ga IT
-http://clientportal.link:8080/live/cran/cran/14196.ts
-#EXTINF:-1,Marcopolo HD IT
-http://clientportal.link:8080/live/cran/cran/14152.ts
-#EXTINF:-1,Marcopolo IT
-http://clientportal.link:8080/live/cran/cran/4083.ts
-#EXTINF:-1,Mediaset Extra IT
-http://clientportal.link:8080/live/cran/cran/14194.ts
-#EXTINF:-1,Mediaset Extra IT
-http://clientportal.link:8080/live/cran/cran/8239.ts
-#EXTINF:-1,Mediaset Italia 2  IT
-http://clientportal.link:8080/live/cran/cran/14193.ts
-#EXTINF:-1,Mediaset Italia Due IT
-http://clientportal.link:8080/live/cran/cran/8240.ts
-#EXTINF:-1,Mediaset TGCOM24 IT
-http://clientportal.link:8080/live/cran/cran/8238.ts
-#EXTINF:-1,Nat Geo People IT
-http://clientportal.link:8080/live/cran/cran/4088.ts
-#EXTINF:-1,Nat Geo Wild HD IT
-http://clientportal.link:8080/live/cran/cran/3666.ts
-#EXTINF:-1,National Geo Wild HD IT
-http://clientportal.link:8080/live/cran/cran/14142.ts
-#EXTINF:-1,National Geographic FHD IT
-http://clientportal.link:8080/live/cran/cran/14141.ts
-#EXTINF:-1,National Geographic IT
-http://clientportal.link:8080/live/cran/cran/3717.ts
-#EXTINF:-1,Nuvolari IT
-http://clientportal.link:8080/live/cran/cran/9003.ts
-#EXTINF:-1,Pesca e Caccia HD IT
-http://clientportal.link:8080/live/cran/cran/14140.ts
-#EXTINF:-1,Premium Action +24 HD IT
-http://clientportal.link:8080/live/cran/cran/14138.ts
-#EXTINF:-1,Premium Action +24 IT
-http://clientportal.link:8080/live/cran/cran/6903.ts
-#EXTINF:-1,Premium Action FHD IT
-http://clientportal.link:8080/live/cran/cran/14137.ts
-#EXTINF:-1,Premium Action HD IT
-http://clientportal.link:8080/live/cran/cran/6905.ts
-#EXTINF:-1,Premium Calcio 1 HD IT
-http://clientportal.link:8080/live/cran/cran/14136.ts
-#EXTINF:-1,Premium Calcio 1 IT
-http://clientportal.link:8080/live/cran/cran/6917.ts
-#EXTINF:-1,Premium Calcio 2 HD IT
-http://clientportal.link:8080/live/cran/cran/14135.ts
-#EXTINF:-1,Premium Calcio 2 IT
-http://clientportal.link:8080/live/cran/cran/6919.ts
-#EXTINF:-1,Premium Calcio 3 HD IT
-http://clientportal.link:8080/live/cran/cran/14134.ts
-#EXTINF:-1,Premium Calcio 3 IT
-http://clientportal.link:8080/live/cran/cran/6921.ts
-#EXTINF:-1,Premium Calcio 4 HD IT
-http://clientportal.link:8080/live/cran/cran/14133.ts
-#EXTINF:-1,Premium Calcio 4 IT
-http://clientportal.link:8080/live/cran/cran/6922.ts
-#EXTINF:-1,Premium Calcio 5 HD IT
-http://clientportal.link:8080/live/cran/cran/14132.ts
-#EXTINF:-1,Premium Calcio 5 IT
-http://clientportal.link:8080/live/cran/cran/6923.ts
-#EXTINF:-1,Premium Calcio 6 HD IT
-http://clientportal.link:8080/live/cran/cran/14131.ts
-#EXTINF:-1,Premium Calcio 6 IT
-http://clientportal.link:8080/live/cran/cran/6924.ts
-#EXTINF:-1,Premium Calcio 7 IT
-http://clientportal.link:8080/live/cran/cran/6925.ts
-#EXTINF:-1,Premium Calcio HD IT
-http://clientportal.link:8080/live/cran/cran/6916.ts
-#EXTINF:-1,Premium Calcio IT
-http://clientportal.link:8080/live/cran/cran/14130.ts
-#EXTINF:-1,Premium Cinema +24 HD IT
-http://clientportal.link:8080/live/cran/cran/14129.ts
-#EXTINF:-1,Premium Cinema 1 +24 IT
-http://clientportal.link:8080/live/cran/cran/6900.ts
-#EXTINF:-1,Premium Cinema 1 HD IT
-http://clientportal.link:8080/live/cran/cran/6897.ts
-#EXTINF:-1,Premium Cinema 2 +24 HD IT
-http://clientportal.link:8080/live/cran/cran/14128.ts
-#EXTINF:-1,Premium Cinema 2 +24 IT
-http://clientportal.link:8080/live/cran/cran/6899.ts
-#EXTINF:-1,Premium Cinema 2 HD IT
-http://clientportal.link:8080/live/cran/cran/6898.ts
-#EXTINF:-1,Premium Cinema 2 IT
-http://clientportal.link:8080/live/cran/cran/14127.ts
-#EXTINF:-1,Premium Cinema Comedy HD IT
-http://clientportal.link:8080/live/cran/cran/14126.ts
-#EXTINF:-1,Premium Cinema Comedy IT
-http://clientportal.link:8080/live/cran/cran/6902.ts
-#EXTINF:-1,Premium Cinema Emotion IT
-http://clientportal.link:8080/live/cran/cran/6901.ts
-#EXTINF:-1,Premium Cinema Energy HD IT
-http://clientportal.link:8080/live/cran/cran/14125.ts
-#EXTINF:-1,Premium Cinema Energy IT
-http://clientportal.link:8080/live/cran/cran/6904.ts
-#EXTINF:-1,Premium Cinema HD IT
-http://clientportal.link:8080/live/cran/cran/14124.ts
-#EXTINF:-1,Premium Crime +24 HD IT
-http://clientportal.link:8080/live/cran/cran/14123.ts
-#EXTINF:-1,Premium Crime +24 IT
-http://clientportal.link:8080/live/cran/cran/6910.ts
-#EXTINF:-1,Premium Crime FHD IT
-http://clientportal.link:8080/live/cran/cran/14114.ts
-#EXTINF:-1,Premium Crime HD IT
-http://clientportal.link:8080/live/cran/cran/6909.ts
-#EXTINF:-1,Premium Emotion HD IT
-http://clientportal.link:8080/live/cran/cran/14113.ts
-#EXTINF:-1,Premium Joi +24 IT
-http://clientportal.link:8080/live/cran/cran/11492.ts
-#EXTINF:-1,Premium Joi IT
-http://clientportal.link:8080/live/cran/cran/6908.ts
-#EXTINF:-1,Premium Joy +24 HD IT
-http://clientportal.link:8080/live/cran/cran/14112.ts
-#EXTINF:-1,Premium Joy IT
-http://clientportal.link:8080/live/cran/cran/14111.ts
-#EXTINF:-1,Premium Sport 1 IT
-http://clientportal.link:8080/live/cran/cran/14110.ts
-#EXTINF:-1,Premium Sport 2 FHD IT
-http://clientportal.link:8080/live/cran/cran/14108.ts
-#EXTINF:-1,Premium Sport 2 Full HD IT
-http://clientportal.link:8080/live/cran/cran/14109.ts
-#EXTINF:-1,Premium Sport 2 HD IT
-http://clientportal.link:8080/live/cran/cran/11497.ts
-#EXTINF:-1,Premium Sport 2 IT
-http://clientportal.link:8080/live/cran/cran/6894.ts
-#EXTINF:-1,Premium Sport FHD IT
-http://clientportal.link:8080/live/cran/cran/14105.ts
-#EXTINF:-1,Premium Sport Full HD IT
-http://clientportal.link:8080/live/cran/cran/14106.ts
-#EXTINF:-1,Premium Sport HD IT
-http://clientportal.link:8080/live/cran/cran/6896.ts
-#EXTINF:-1,Premium Sport IT
-http://clientportal.link:8080/live/cran/cran/11498.ts
-#EXTINF:-1,Premium Sports 2 IT
-http://clientportal.link:8080/live/cran/cran/14107.ts
-#EXTINF:-1,Premium Stories +24 IT
-http://clientportal.link:8080/live/cran/cran/14104.ts
-#EXTINF:-1,Premium Stories IT
-http://clientportal.link:8080/live/cran/cran/14103.ts
-#EXTINF:-1,Premium Studio Universal IT
-http://clientportal.link:8080/live/cran/cran/14102.ts
-#EXTINF:-1,QVC IT
-http://clientportal.link:8080/live/cran/cran/8995.ts
-#EXTINF:-1,RSI La 1 Full HD IT
-http://clientportal.link:8080/live/cran/cran/14198.ts
-#EXTINF:-1,RSI La 1 HD IT
-http://clientportal.link:8080/live/cran/cran/5229.ts
-#EXTINF:-1,RSI La 2 Full HD IT
-http://clientportal.link:8080/live/cran/cran/14197.ts
-#EXTINF:-1,RSI La 2 HD IT
-http://clientportal.link:8080/live/cran/cran/5228.ts
-#EXTINF:-1,Radio 105 TV IT
-http://clientportal.link:8080/live/cran/cran/5240.ts
-#EXTINF:-1,Radio Capital IT
-http://clientportal.link:8080/live/cran/cran/5238.ts
-#EXTINF:-1,Radio Montecarlo IT
-http://clientportal.link:8080/live/cran/cran/14208.ts
-#EXTINF:-1,Rai 1 HD IT
-http://clientportal.link:8080/live/cran/cran/14207.ts
-#EXTINF:-1,Rai 1 IT
-http://clientportal.link:8080/live/cran/cran/1662.ts
-#EXTINF:-1,Rai 2 HD IT
-http://clientportal.link:8080/live/cran/cran/14206.ts
-#EXTINF:-1,Rai 2 IT
-http://clientportal.link:8080/live/cran/cran/1663.ts
-#EXTINF:-1,Rai 3 HD IT
-http://clientportal.link:8080/live/cran/cran/14205.ts
-#EXTINF:-1,Rai 3 IT
-http://clientportal.link:8080/live/cran/cran/1664.ts
-#EXTINF:-1,Rai 3 TGR FVG IT
-http://clientportal.link:8080/live/cran/cran/8965.ts
-#EXTINF:-1,Rai 4 HD IT
-http://clientportal.link:8080/live/cran/cran/14204.ts
-#EXTINF:-1,Rai 4 IT
-http://clientportal.link:8080/live/cran/cran/1709.ts
-#EXTINF:-1,Rai 5 HD IT
-http://clientportal.link:8080/live/cran/cran/14203.ts
-#EXTINF:-1,Rai 5 IT
-http://clientportal.link:8080/live/cran/cran/3655.ts
-#EXTINF:-1,Rai Gulp HD IT
-http://clientportal.link:8080/live/cran/cran/14101.ts
-#EXTINF:-1,Rai Gulp IT
-http://clientportal.link:8080/live/cran/cran/8993.ts
-#EXTINF:-1,Rai Movie IT
-http://clientportal.link:8080/live/cran/cran/14100.ts
-#EXTINF:-1,Rai Movie  IT
-http://clientportal.link:8080/live/cran/cran/4108.ts
-#EXTINF:-1,Rai News 24 HD IT
-http://clientportal.link:8080/live/cran/cran/14099.ts
-#EXTINF:-1,Rai News 24 IT
-http://clientportal.link:8080/live/cran/cran/8996.ts
-#EXTINF:-1,Rai Premium HD IT
-http://clientportal.link:8080/live/cran/cran/14098.ts
-#EXTINF:-1,Rai Premium IT
-http://clientportal.link:8080/live/cran/cran/8999.ts
-#EXTINF:-1,Rai Scuola IT
-http://clientportal.link:8080/live/cran/cran/8998.ts
-#EXTINF:-1,Rai Sport 1 HD IT
-http://clientportal.link:8080/live/cran/cran/14202.ts
-#EXTINF:-1,Rai Sport 1 IT
-http://clientportal.link:8080/live/cran/cran/5230.ts
-#EXTINF:-1,Rai Sport 2 HD IT
-http://clientportal.link:8080/live/cran/cran/14201.ts
-#EXTINF:-1,Rai Sport 2 IT
-http://clientportal.link:8080/live/cran/cran/3708.ts
-#EXTINF:-1,Rai Yoyo IT
-http://clientportal.link:8080/live/cran/cran/8994.ts
-#EXTINF:-1,Real Giallo IT
-http://clientportal.link:8080/live/cran/cran/14097.ts
-#EXTINF:-1,Real Time HD IT
-http://clientportal.link:8080/live/cran/cran/14199.ts
-#EXTINF:-1,Real Time IT
-http://clientportal.link:8080/live/cran/cran/5237.ts
-#EXTINF:-1,Rete 4 HD IT
-http://clientportal.link:8080/live/cran/cran/14200.ts
-#EXTINF:-1,ReteQuattro IT
-http://clientportal.link:8080/live/cran/cran/2067.ts
-#EXTINF:-1,Senato della Repubblica IT
-http://clientportal.link:8080/live/cran/cran/8966.ts
-#EXTINF:-1,Sky 3D HD IT
-http://clientportal.link:8080/live/cran/cran/14096.ts
-#EXTINF:-1,Sky 3D IT
-http://clientportal.link:8080/live/cran/cran/9001.ts
-#EXTINF:-1,Sky Arte HD IT
-http://clientportal.link:8080/live/cran/cran/8987.ts
-#EXTINF:-1,Sky Atlantic FHD IT
-http://clientportal.link:8080/live/cran/cran/14095.ts
-#EXTINF:-1,Sky Atlantic HD IT
-http://clientportal.link:8080/live/cran/cran/1682.ts
-#EXTINF:-1,Sky Calcio 1 HD IT
-http://clientportal.link:8080/live/cran/cran/1693.ts
-#EXTINF:-1,Sky Calcio 1 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14094.ts
-#EXTINF:-1,Sky Calcio 2 HD IT
-http://clientportal.link:8080/live/cran/cran/1694.ts
-#EXTINF:-1,Sky Calcio 2 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14093.ts
-#EXTINF:-1,Sky Calcio 3 HD IT
-http://clientportal.link:8080/live/cran/cran/8967.ts
-#EXTINF:-1,Sky Calcio 3 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14092.ts
-#EXTINF:-1,Sky Calcio 4 HD IT
-http://clientportal.link:8080/live/cran/cran/8968.ts
-#EXTINF:-1,Sky Calcio 4 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14091.ts
-#EXTINF:-1,Sky Calcio 5 HD IT
-http://clientportal.link:8080/live/cran/cran/8969.ts
-#EXTINF:-1,Sky Calcio 5 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14090.ts
-#EXTINF:-1,Sky Calcio 6 HD IT
-http://clientportal.link:8080/live/cran/cran/8970.ts
-#EXTINF:-1,Sky Calcio 6 HD IT (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
-http://clientportal.link:8080/live/cran/cran/14089.ts
-#EXTINF:-1,Sky Cinema +1 FHD IT
-http://clientportal.link:8080/live/cran/cran/14085.ts
-#EXTINF:-1,Sky Cinema +1 HD IT
-http://clientportal.link:8080/live/cran/cran/7011.ts
-#EXTINF:-1,Sky Cinema +24 FHD IT
-http://clientportal.link:8080/live/cran/cran/14086.ts
-#EXTINF:-1,Sky Cinema +24 HD IT
-http://clientportal.link:8080/live/cran/cran/7012.ts
-#EXTINF:-1,Sky Cinema 1 FHD IT
-http://clientportal.link:8080/live/cran/cran/14084.ts
-#EXTINF:-1,Sky Cinema 1 HD IT
-http://clientportal.link:8080/live/cran/cran/4077.ts
-#EXTINF:-1,Sky Cinema Classic FHD IT
-http://clientportal.link:8080/live/cran/cran/14083.ts
-#EXTINF:-1,Sky Cinema Classics HD IT
-http://clientportal.link:8080/live/cran/cran/4076.ts
-#EXTINF:-1,Sky Cinema Comedy FHD IT
-http://clientportal.link:8080/live/cran/cran/14082.ts
-#EXTINF:-1,Sky Cinema Comedy HD IT
-http://clientportal.link:8080/live/cran/cran/2011.ts
-#EXTINF:-1,Sky Cinema Cult FHD IT
-http://clientportal.link:8080/live/cran/cran/14081.ts
-#EXTINF:-1,Sky Cinema Cult HD IT
-http://clientportal.link:8080/live/cran/cran/3635.ts
-#EXTINF:-1,Sky Cinema Family FHD IT
-http://clientportal.link:8080/live/cran/cran/14080.ts
-#EXTINF:-1,Sky Cinema Family HD IT
-http://clientportal.link:8080/live/cran/cran/2010.ts
-#EXTINF:-1,Sky Cinema HITS FHD IT
-http://clientportal.link:8080/live/cran/cran/14079.ts
-#EXTINF:-1,Sky Cinema Hits HD IT
-http://clientportal.link:8080/live/cran/cran/4074.ts
-#EXTINF:-1,Sky Cinema Max FHD IT
-http://clientportal.link:8080/live/cran/cran/14078.ts
-#EXTINF:-1,Sky Cinema Max HD IT
-http://clientportal.link:8080/live/cran/cran/1679.ts
-#EXTINF:-1,Sky Cinema Passion FHD IT
-http://clientportal.link:8080/live/cran/cran/14077.ts
-#EXTINF:-1,Sky Cinema Passion HD IT
-http://clientportal.link:8080/live/cran/cran/2009.ts
-#EXTINF:-1,Sky Fox Sport FHD IT
-http://clientportal.link:8080/live/cran/cran/14069.ts
-#EXTINF:-1,Sky Moto GP HD IT
-http://clientportal.link:8080/live/cran/cran/14075.ts
-#EXTINF:-1,Sky Primafila 1 HD Live IT
-http://clientportal.link:8080/live/cran/cran/1998.ts
-#EXTINF:-1,Sky Primafila 10 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2007.ts
-#EXTINF:-1,Sky Primafila 2 HD Live IT
-http://clientportal.link:8080/live/cran/cran/1999.ts
-#EXTINF:-1,Sky Primafila 3 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2000.ts
-#EXTINF:-1,Sky Primafila 4 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2001.ts
-#EXTINF:-1,Sky Primafila 5 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2002.ts
-#EXTINF:-1,Sky Primafila 6 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2003.ts
-#EXTINF:-1,Sky Primafila 7 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2004.ts
-#EXTINF:-1,Sky Primafila 8 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2005.ts
-#EXTINF:-1,Sky Primafila 9 HD Live IT
-http://clientportal.link:8080/live/cran/cran/2006.ts
-#EXTINF:-1,Sky Sport 1 FHD IT
-http://clientportal.link:8080/live/cran/cran/14074.ts
-#EXTINF:-1,Sky Sport 1 HD IT
-http://clientportal.link:8080/live/cran/cran/1687.ts
-#EXTINF:-1,Sky Sport 2 FHD IT
-http://clientportal.link:8080/live/cran/cran/14073.ts
-#EXTINF:-1,Sky Sport 2 HD IT
-http://clientportal.link:8080/live/cran/cran/1688.ts
-#EXTINF:-1,Sky Sport 24 FHD IT
-http://clientportal.link:8080/live/cran/cran/14072.ts
-#EXTINF:-1,Sky Sport 24 HD IT
-http://clientportal.link:8080/live/cran/cran/1686.ts
-#EXTINF:-1,Sky Sport 3 FHD IT
-http://clientportal.link:8080/live/cran/cran/14071.ts
-#EXTINF:-1,Sky Sport 3 HD IT
-http://clientportal.link:8080/live/cran/cran/1689.ts
-#EXTINF:-1,Sky Sport F1 FHD IT
-http://clientportal.link:8080/live/cran/cran/14070.ts
-#EXTINF:-1,Sky Sport F1 HD IT
-http://clientportal.link:8080/live/cran/cran/1691.ts
-#EXTINF:-1,Sky Sport MotoGP HD IT
-http://clientportal.link:8080/live/cran/cran/3639.ts
-#EXTINF:-1,Sky SuperCalcio HD IT
-http://clientportal.link:8080/live/cran/cran/1692.ts
-#EXTINF:-1,Sky Supercalcio FHD IT
-http://clientportal.link:8080/live/cran/cran/14068.ts
-#EXTINF:-1,Sky TG24 HD IT
-http://clientportal.link:8080/live/cran/cran/14122.ts
-#EXTINF:-1,Sky TG24 IT
-http://clientportal.link:8080/live/cran/cran/1674.ts
-#EXTINF:-1,Sky Uno FHD IT
-http://clientportal.link:8080/live/cran/cran/14067.ts
-#EXTINF:-1,Sky Uno HD IT
-http://clientportal.link:8080/live/cran/cran/1681.ts
-#EXTINF:-1,SportItalia IT
-http://clientportal.link:8080/live/cran/cran/14120.ts
-#EXTINF:-1,Studio Universal IT
-http://clientportal.link:8080/live/cran/cran/6906.ts
-#EXTINF:-1,Super Tennis HD IT
-http://clientportal.link:8080/live/cran/cran/14065.ts
-#EXTINF:-1,Super Tennis HD IT
-http://clientportal.link:8080/live/cran/cran/4084.ts
-#EXTINF:-1,Super! HD IT
-http://clientportal.link:8080/live/cran/cran/14066.ts
-#EXTINF:-1,Super! IT
-http://clientportal.link:8080/live/cran/cran/8991.ts
-#EXTINF:-1,TG Norba 24 IT
-http://clientportal.link:8080/live/cran/cran/8997.ts
-#EXTINF:-1,TV2000 IT
-http://clientportal.link:8080/live/cran/cran/9002.ts
-#EXTINF:-1,TV8 IT
-http://clientportal.link:8080/live/cran/cran/8235.ts
-#EXTINF:-1,TeleTicino HD IT
-http://clientportal.link:8080/live/cran/cran/9004.ts
-#EXTINF:-1,Top Crime IT
-http://clientportal.link:8080/live/cran/cran/8241.ts
-#EXTINF:-1,Video Berescia IT
-http://clientportal.link:8080/live/cran/cran/1697.ts
-#EXTINF:-1,Video Star TV IT
-http://clientportal.link:8080/live/cran/cran/9007.ts
-#EXTINF:-1,Virgin Radio TV IT
-http://clientportal.link:8080/live/cran/cran/5239.ts
-#EXTINF:-1,Wrestling IT
-http://clientportal.link:8080/live/cran/cran/14064.ts
+#EXTINF:-1,IT: San Marino Rtv Sport
+http://ksportiptv.com:1557/live/123/123/6227.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://ksportiptv.com:1557/live/123/123/2037.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://ksportiptv.com:1557/live/123/123/2038.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://ksportiptv.com:1557/live/123/123/6383.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://ksportiptv.com:1557/live/123/123/6382.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://ksportiptv.com:1557/live/123/123/3458.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://ksportiptv.com:1557/live/123/123/3459.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://ksportiptv.com:1557/live/123/123/3460.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://ksportiptv.com:1557/live/123/123/3461.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://ksportiptv.com:1557/live/123/123/4108.ts
+#EXTINF:-1,IT : Sky Calcio 8
+http://ksportiptv.com:1557/live/123/123/6216.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://ksportiptv.com:1557/live/123/123/2039.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ksportiptv.com:1557/live/123/123/3501.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/123/123/1107.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/123/123/1111.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/123/123/3955.ts
+#EXTINF:-1,IT: Sky Moto GP
+http://ksportiptv.com:1557/live/123/123/8271.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://ksportiptv.com:1557/live/123/123/1757.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://ksportiptv.com:1557/live/123/123/2122.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://ksportiptv.com:1557/live/123/123/3462.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://ksportiptv.com:1557/live/123/123/2135.ts
+#EXTINF:-1,IT: Premium Calcio 3 HD
+http://ksportiptv.com:1557/live/123/123/2136.ts
+#EXTINF:-1,IT: Premium Calcio 4 HD
+http://ksportiptv.com:1557/live/123/123/2137.ts
+#EXTINF:-1,IT: Premium Calcio 5 HD
+http://ksportiptv.com:1557/live/123/123/2138.ts
+#EXTINF:-1,IT: Premium Calcio 6 HD
+http://ksportiptv.com:1557/live/123/123/2139.ts
+#EXTINF:-1,IT: Juventus Channel
+http://ksportiptv.com:1557/live/123/123/4114.ts
+#EXTINF:-1,IT: Milan Channel
+http://ksportiptv.com:1557/live/123/123/3959.ts
+#EXTINF:-1,IT: INTER CHANNEL
+http://ksportiptv.com:1557/live/123/123/3418.ts
+#EXTINF:-1,IT: ROMA CHANNEL
+http://ksportiptv.com:1557/live/123/123/3419.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://ksportiptv.com:1557/live/123/123/1038.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://ksportiptv.com:1557/live/123/123/1039.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://ksportiptv.com:1557/live/123/123/2014.ts
+#EXTINF:-1,IT: Fox Sport HD Italia
+http://ksportiptv.com:1557/live/123/123/3954.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://ksportiptv.com:1557/live/123/123/2032.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://ksportiptv.com:1557/live/123/123/3956.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://ksportiptv.com:1557/live/123/123/3957.ts
+#EXTINF:-1,IT: Sport Italia
+http://ksportiptv.com:1557/live/123/123/2020.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/123/123/1693.ts

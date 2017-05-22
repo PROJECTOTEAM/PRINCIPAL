@@ -135,122 +135,629 @@ http://185.53.161.148:8888/play/a00o
 
 
 
-
-
-
-#EXTINF:-1,IT: PremiumCalcio1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11432.ts
-#EXTINF:-1,IT: PremiumCalcio2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11433.ts
-#EXTINF:-1,IT: PremiumCalcio3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11434.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA1
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11436.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA2
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11438.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA3
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11439.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA4
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11440.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA5
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11441.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA6
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11442.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA7
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11443.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA8
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11444.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA9
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11445.ts
-#EXTINF:-1,IT: SKY_PRIMAFILA10
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11437.ts
-#EXTINF:-1,IT: SkyCinema1HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11435.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://ksportiptv.com:1557/live/123/123/1034.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://ksportiptv.com:1557/live/123/123/1035.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://ksportiptv.com:1557/live/123/123/1036.ts
 #EXTINF:-1,IT: Rai 4 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3896.ts
+http://ksportiptv.com:1557/live/123/123/1651.ts
 #EXTINF:-1,IT: Rai 5 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3895.ts
-#EXTINF:-1,IT: Rai Sport 2 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3891.ts
+http://ksportiptv.com:1557/live/123/123/3535.ts
+#EXTINF:-1,IT: Rai 1
+http://ksportiptv.com:1557/live/123/123/3532.ts
+#EXTINF:-1,IT: Rai 2
+http://ksportiptv.com:1557/live/123/123/3533.ts
+#EXTINF:-1,IT: Rai 3
+http://ksportiptv.com:1557/live/123/123/3534.ts
+#EXTINF:-1,IT: Rai 4
+http://ksportiptv.com:1557/live/123/123/2012.ts
+#EXTINF:-1,IT: Rai 5
+http://ksportiptv.com:1557/live/123/123/2013.ts
 #EXTINF:-1,IT: Rai Premium
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3892.ts
-#EXTINF:-1,IT: Rai News 24
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3893.ts
-#EXTINF:-1,IT: ANIMAL PLANET
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11459.ts
-#EXTINF:-1,IT: CANALE 5 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11458.ts
-#EXTINF:-1,IT: CARTINITO
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11457.ts
-#EXTINF:-1,IT: NAT GEO WILD HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11456.ts
-#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11455.ts
-#EXTINF:-1,IT: RAI 1HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11447.ts
-#EXTINF:-1,IT: RAI 2HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11448.ts
-#EXTINF:-1,IT: RAI 3HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11449.ts
-#EXTINF:-1,IT: RAI 4HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11450.ts
-#EXTINF:-1,IT: RAI 5HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11451.ts
-#EXTINF:-1,IT: RAI SPORT 1HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11452.ts
-#EXTINF:-1,IT: RSI LA 1 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11453.ts
-#EXTINF:-1,IT: RSI LA 2 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11454.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/11460.ts
+http://ksportiptv.com:1557/live/123/123/2015.ts
 #EXTINF:-1,IT: Rai Movie
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3894.ts
-#EXTINF:-1,IT: Rai YoYo
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3890.ts
+http://ksportiptv.com:1557/live/123/123/1652.ts
+#EXTINF:-1,IT: Rai Storia
+http://ksportiptv.com:1557/live/123/123/9538.ts
+#EXTINF:-1,IT: Rai Scuola
+http://ksportiptv.com:1557/live/123/123/3415.ts
+#EXTINF:-1,IT: Rai Nettuno
+http://ksportiptv.com:1557/live/123/123/4625.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://ksportiptv.com:1557/live/123/123/3413.ts
+#EXTINF:-1,IT: Italia 1
+http://ksportiptv.com:1557/live/123/123/3538.ts
+#EXTINF:-1,IT: Italia 2 HD
+http://ksportiptv.com:1557/live/123/123/3432.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://ksportiptv.com:1557/live/123/123/2011.ts
+#EXTINF:-1,IT: Canale 5
+http://ksportiptv.com:1557/live/123/123/3536.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://ksportiptv.com:1557/live/123/123/2526.ts
+#EXTINF:-1,IT: Rete 4
+http://ksportiptv.com:1557/live/123/123/3537.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://ksportiptv.com:1557/live/123/123/3431.ts
+#EXTINF:-1,IT: IRIS
+http://ksportiptv.com:1557/live/123/123/2025.ts
+#EXTINF:-1,IT: Cielo
+http://ksportiptv.com:1557/live/123/123/2024.ts
+#EXTINF:-1,IT: LA5
+http://ksportiptv.com:1557/live/123/123/3430.ts
+#EXTINF:-1,IT: Quarta Rete TV
+http://ksportiptv.com:1557/live/123/123/3443.ts
+#EXTINF:-1,IT: Canale 8
+http://ksportiptv.com:1557/live/123/123/3621.ts
+#EXTINF:-1,IT: La 7 HD
+http://ksportiptv.com:1557/live/123/123/3421.ts
+#EXTINF:-1,IT: LA 7D
+http://ksportiptv.com:1557/live/123/123/2021.ts
+#EXTINF:-1,>>>>>Cartoni<<<<<
+http://ksportiptv.com:1557/live/123/123/3895.ts
 #EXTINF:-1,IT: Rai Gulp
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7361.ts
-#EXTINF:-1,IT: SKY TG 24
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7320.ts
-#EXTINF:-1,IT: SKY Cinema  24
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7343.ts
-#EXTINF:-1,IT: SKY Atlantic HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7355.ts
+http://ksportiptv.com:1557/live/123/123/2016.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://ksportiptv.com:1557/live/123/123/3414.ts
+#EXTINF:-1,IT: Boing
+http://ksportiptv.com:1557/live/123/123/3427.ts
+#EXTINF:-1,IT: K2
+http://ksportiptv.com:1557/live/123/123/2027.ts
+#EXTINF:-1,IT: Cartoonito
+http://ksportiptv.com:1557/live/123/123/3439.ts
+#EXTINF:-1,IT: Frisbee
+http://ksportiptv.com:1557/live/123/123/3425.ts
+#EXTINF:-1,IT: Super!
+http://ksportiptv.com:1557/live/123/123/2026.ts
+#EXTINF:-1,IT: MAN-GA
+http://ksportiptv.com:1557/live/123/123/3429.ts
+#EXTINF:-1,IT: Disney XD
+http://ksportiptv.com:1557/live/123/123/3437.ts
+#EXTINF:-1,IT: Disney Junior
+http://ksportiptv.com:1557/live/123/123/8274.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://ksportiptv.com:1557/live/123/123/3438.ts
+#EXTINF:-1,IT: Cartoon Network
+http://ksportiptv.com:1557/live/123/123/2028.ts
+#EXTINF:-1,IT: Masha e Orso Channel
+http://ksportiptv.com:1557/live/123/123/8128.ts
+#EXTINF:-1,IT: Masha and Bear
+http://ksportiptv.com:1557/live/123/123/3622.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://ksportiptv.com:1557/live/123/123/2068.ts
+#EXTINF:-1,>>>>>Sky Cinema<<<<<
+http://ksportiptv.com:1557/live/123/123/4219.ts
+#EXTINF:-1,IT: Sky Cinema 3D
+http://ksportiptv.com:1557/live/123/123/3624.ts
+#EXTINF:-1,IT: Sky Cinema 1
+http://ksportiptv.com:1557/live/123/123/1066.ts
+#EXTINF:-1,IT: Sky Cinema 1 +24 HD
+http://ksportiptv.com:1557/live/123/123/8598.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/123/123/8597.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://ksportiptv.com:1557/live/123/123/2041.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/123/123/2045.ts
 #EXTINF:-1,IT: Sky Cinema Max HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3340.ts
+http://ksportiptv.com:1557/live/123/123/1063.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://ksportiptv.com:1557/live/123/123/3410.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://ksportiptv.com:1557/live/123/123/3444.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://ksportiptv.com:1557/live/123/123/3433.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://ksportiptv.com:1557/live/123/123/2046.ts
 #EXTINF:-1,IT: Sky Uno HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7319.ts
-#EXTINF:-1,IT: SKY Cinema Max HD.
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7340.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3334.ts
-#EXTINF:-1,IT: Sky Fox Sports HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3339.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3350.ts
-#EXTINF:-1,IT: Premium Sport
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7371.ts
+http://ksportiptv.com:1557/live/123/123/3446.ts
 #EXTINF:-1,IT: Fox HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/3354.ts
+http://ksportiptv.com:1557/live/123/123/2051.ts
 #EXTINF:-1,IT: Fox Life HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7404.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7403.ts
+http://ksportiptv.com:1557/live/123/123/3617.ts
+#EXTINF:-1,IT: FOX CRIME HD ITA
+http://ksportiptv.com:1557/live/123/123/3616.ts
+#EXTINF:-1,IT: FOX ANIMATION
+http://ksportiptv.com:1557/live/123/123/3441.ts
 #EXTINF:-1,IT: Fox Comedy HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7405.ts
-#EXTINF:-1,IT: Discovery Travel&Living HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7408.ts
-#EXTINF:-1,IT: Canal 5 HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7414.ts
+http://ksportiptv.com:1557/live/123/123/3447.ts
+#EXTINF:-1,IT: AXN HD
+http://ksportiptv.com:1557/live/123/123/3614.ts
+#EXTINF:-1,IT: Paramount Channel Ita HD
+http://ksportiptv.com:1557/live/123/123/3619.ts
+#EXTINF:-1,>>>>>Premium Cinema<<<<<
+http://ksportiptv.com:1557/live/123/123/4220.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://ksportiptv.com:1557/live/123/123/3613.ts
+#EXTINF:-1,IT: Premium Cinema HD (ENG)
+http://ksportiptv.com:1557/live/123/123/1022.ts
+#EXTINF:-1,IT: Premium Cinema
+http://ksportiptv.com:1557/live/123/123/1019.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://ksportiptv.com:1557/live/123/123/2129.ts
+#EXTINF:-1,IT: Premium Cinema 24
+http://ksportiptv.com:1557/live/123/123/1020.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://ksportiptv.com:1557/live/123/123/1021.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://ksportiptv.com:1557/live/123/123/2130.ts
+#EXTINF:-1,IT: Premium Action HD
+http://ksportiptv.com:1557/live/123/123/1017.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://ksportiptv.com:1557/live/123/123/2132.ts
+#EXTINF:-1,IT: Premium Comedy HD
+http://ksportiptv.com:1557/live/123/123/2128.ts
+#EXTINF:-1,IT: Premium Comedy
+http://ksportiptv.com:1557/live/123/123/1023.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://ksportiptv.com:1557/live/123/123/2124.ts
+#EXTINF:-1,IT: Premium Energy +1
+http://ksportiptv.com:1557/live/123/123/1026.ts
+#EXTINF:-1,IT: Premium Emotion HD
+http://ksportiptv.com:1557/live/123/123/2125.ts
+#EXTINF:-1,IT: Premium Emotion
+http://ksportiptv.com:1557/live/123/123/1025.ts
+#EXTINF:-1,IT: Premium Joy HD
+http://ksportiptv.com:1557/live/123/123/2123.ts
+#EXTINF:-1,IT: Premium Joy
+http://ksportiptv.com:1557/live/123/123/1027.ts
+#EXTINF:-1,IT: Premium Joy +24
+http://ksportiptv.com:1557/live/123/123/2067.ts
+#EXTINF:-1,IT: Premium Stories
+http://ksportiptv.com:1557/live/123/123/1650.ts
+#EXTINF:-1,IT: TOP Crime Mediaset
+http://ksportiptv.com:1557/live/123/123/3416.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://ksportiptv.com:1557/live/123/123/2069.ts
+#EXTINF:-1,IT: Premium Crime 24 HD
+http://ksportiptv.com:1557/live/123/123/2127.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://ksportiptv.com:1557/live/123/123/2070.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://ksportiptv.com:1557/live/123/123/1024.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://ksportiptv.com:1557/live/123/123/3417.ts
+#EXTINF:-1,IT: Giallo
+http://ksportiptv.com:1557/live/123/123/3422.ts
+#EXTINF:-1,IT: Aldo Giovanni e Giacomo-Ammutta Muddica
+http://ksportiptv.com:1557/live/123/123/6294.ts
+#EXTINF:-1,IT: HERCULES 1
+http://ksportiptv.com:1557/live/123/123/6301.ts
+#EXTINF:-1,IT: HERCULES 2
+http://ksportiptv.com:1557/live/123/123/6302.ts
+#EXTINF:-1,IT: HERCULES 3
+http://ksportiptv.com:1557/live/123/123/6303.ts
+#EXTINF:-1,IT:----- Primafila Live -----
+http://ksportiptv.com:1557/live/123/123/6502.ts
+#EXTINF:-1,IT: Vetrina Primafila
+http://ksportiptv.com:1557/live/123/123/7119.ts
+#EXTINF:-1,IT: PRIMAFILA 1/2 Live (Split)
+http://ksportiptv.com:1557/live/123/123/7118.ts
+#EXTINF:-1,IT: PRIMAFILA 3/4 Live (Arrival)
+http://ksportiptv.com:1557/live/123/123/7117.ts
+#EXTINF:-1,IT: PRIMAFILA 5/6 Live (I Babysitter)
+http://ksportiptv.com:1557/live/123/123/7116.ts
+#EXTINF:-1,IT: PRIMAFILA 7/8 Live (Proprio Lui?)
+http://ksportiptv.com:1557/live/123/123/7115.ts
+#EXTINF:-1,IT: PRIMAFILA 9/10 Live (Assassin’s Creed)
+http://ksportiptv.com:1557/live/123/123/7114.ts
+#EXTINF:-1,IT: PRIMAFILA 11/12 Live (Miss Peregrine la casa dei ragazzi speciali)
+http://ksportiptv.com:1557/live/123/123/7113.ts
+#EXTINF:-1,IT: PRIMAFILA 13/14 Live (Neruda)
+http://ksportiptv.com:1557/live/123/123/7112.ts
+#EXTINF:-1,IT: PRIMAFILA 15/16 Live (Qua la zampa!)
+http://ksportiptv.com:1557/live/123/123/7111.ts
+#EXTINF:-1,IT: PRIMAFILA 17 Live (Animali Notturni)
+http://ksportiptv.com:1557/live/123/123/7110.ts
+#EXTINF:-1,IT: PRIMAFILA 18/19 Live (Collateral Beauty)
+http://ksportiptv.com:1557/live/123/123/7109.ts
+#EXTINF:-1,IT: PRIMAFILA PRO Live (Assassin’s Creed)
+http://ksportiptv.com:1557/live/123/123/7108.ts
+#EXTINF:-1,IT: PRIMAFILA PRO Live 3D (Oceania)
+http://ksportiptv.com:1557/live/123/123/8262.ts
+#EXTINF:-1,IT: PRIMAFILA PRO Live 3D (Sing)
+http://ksportiptv.com:1557/live/123/123/8258.ts
+#EXTINF:-1,IT: PRIMAFILA PRO Live 3D (Animali fantastici e dove trovarli 3D)
+http://ksportiptv.com:1557/live/123/123/8256.ts
+#EXTINF:-1,>>>>>FILM NEI CINEMA<<<<<
+http://ksportiptv.com:1557/live/123/123/4222.ts
+#EXTINF:-1,IT: Film in Sala LAST (Guardiani della Galassia Vol. 2 (2017)
+http://ksportiptv.com:1557/live/123/123/9502.ts
+#EXTINF:-1,IT: Film in Sala LAST (Insospettabili sospetti 2017)
+http://ksportiptv.com:1557/live/123/123/9561.ts
+#EXTINF:-1,IT: Film in Sala LAST (King Arthur Il potere della spada 2017)
+http://ksportiptv.com:1557/live/123/123/9580.ts
+#EXTINF:-1,IT: Film in Sala LAST (Ha già i tuoi occhi aka Il a déjà tes yeux 2017)
+http://ksportiptv.com:1557/live/123/123/9501.ts
+#EXTINF:-1,IT: Film in Sala LAST (Fast&Furious 8 2017)
+http://ksportiptv.com:1557/live/123/123/9504.ts
+#EXTINF:-1,IT: Film in Sala LAST (La Bella e la Bestia 2017)
+http://ksportiptv.com:1557/live/123/123/8247.ts
+#EXTINF:-1,IT: Film in Sala LAST (Kong: Skull Island 2017)
+http://ksportiptv.com:1557/live/123/123/8255.ts
+#EXTINF:-1,IT: Film in Sala LAST (La verità vi spiego sull’amore 2017)
+http://ksportiptv.com:1557/live/123/123/8475.ts
+#EXTINF:-1,IT: Film in Sala LAST (Logan The Wolverine 2017)
+http://ksportiptv.com:1557/live/123/123/8126.ts
+#EXTINF:-1,IT: Film in Sala LAST (Ghost in the Shell 2017)
+http://ksportiptv.com:1557/live/123/123/8759.ts
+#EXTINF:-1,IT: Film in Sala LAST (Power Rangers 2017)
+http://ksportiptv.com:1557/live/123/123/8760.ts
+#EXTINF:-1,IT: Film in Sala (XXX Il Ritorno Di Xander Cage 2017)
+http://ksportiptv.com:1557/live/123/123/9503.ts
+#EXTINF:-1,IT: Film in Sala (La La Land 2017)
+http://ksportiptv.com:1557/live/123/123/9560.ts
+#EXTINF:-1,IT: Film in Sala (Mamma o papà? 2017)
+http://ksportiptv.com:1557/live/123/123/1030.ts
+#EXTINF:-1,IT: Film in Sala (Absolutely Fabulous:Il film 2017)
+http://ksportiptv.com:1557/live/123/123/1031.ts
+#EXTINF:-1,IT: Film in Sala (Proprio Lui? 2017)
+http://ksportiptv.com:1557/live/123/123/1724.ts
+#EXTINF:-1,IT: Film in Sala (Le spie della porta accanto 2017)
+http://ksportiptv.com:1557/live/123/123/1725.ts
+#EXTINF:-1,IT: Film in Sala (Resident Evil The Final Chapter 2017)
+http://ksportiptv.com:1557/live/123/123/1726.ts
+#EXTINF:-1,IT: Film in Sala (L’ora legale 2017)
+http://ksportiptv.com:1557/live/123/123/2073.ts
+#EXTINF:-1,IT: Film in Sala (Smetto quando voglio: Masterclass 2017)
+http://ksportiptv.com:1557/live/123/123/1727.ts
+#EXTINF:-1,IT: Film in Sala (Lego Batman Il film 2017)
+http://ksportiptv.com:1557/live/123/123/1728.ts
+#EXTINF:-1,IT: Film in Sala (Cinquanta Sfumature Di Nero 2017)
+http://ksportiptv.com:1557/live/123/123/2076.ts
+#EXTINF:-1,IT: Film in Sala (John Wick Chapter 2)
+http://ksportiptv.com:1557/live/123/123/3525.ts
+#EXTINF:-1,IT: Film in Sala (Allied.Un’ombra nascosta 2017)
+http://ksportiptv.com:1557/live/123/123/3526.ts
+#EXTINF:-1,IT: Film in Sala (Mister Felicità 2017)
+http://ksportiptv.com:1557/live/123/123/3527.ts
+#EXTINF:-1,IT: Film in Sala (Sleepless Il Giustiziere 2017)
+http://ksportiptv.com:1557/live/123/123/3528.ts
+#EXTINF:-1,IT: Film in Sala (Death Race 2050 (2017)
+http://ksportiptv.com:1557/live/123/123/3529.ts
+#EXTINF:-1,IT: Film in Sala (Clinical 2017)
+http://ksportiptv.com:1557/live/123/123/3530.ts
+#EXTINF:-1,IT: Film in Sala (Fallen 2017)
+http://ksportiptv.com:1557/live/123/123/3531.ts
+#EXTINF:-1,IT: Film in Sala (Cross Wars 2017)
+http://ksportiptv.com:1557/live/123/123/7736.ts
+#EXTINF:-1,IT: Film in Sala (Split 2017)
+http://ksportiptv.com:1557/live/123/123/7738.ts
+#EXTINF:-1,>>>>>SCIENZA<<<<<
+http://ksportiptv.com:1557/live/123/123/4223.ts
+#EXTINF:-1,IT: Real Time
+http://ksportiptv.com:1557/live/123/123/2018.ts
+#EXTINF:-1,IT: Real Time +1
+http://ksportiptv.com:1557/live/123/123/3965.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://ksportiptv.com:1557/live/123/123/2126.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://ksportiptv.com:1557/live/123/123/1018.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://ksportiptv.com:1557/live/123/123/2134.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://ksportiptv.com:1557/live/123/123/2058.ts
+#EXTINF:-1,IT: National Geographic HD
+http://ksportiptv.com:1557/live/123/123/2061.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://ksportiptv.com:1557/live/123/123/3442.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://ksportiptv.com:1557/live/123/123/2060.ts
+#EXTINF:-1,IT: Discovery Focus
+http://ksportiptv.com:1557/live/123/123/2023.ts
+#EXTINF:-1,IT: History Channel
+http://ksportiptv.com:1557/live/123/123/2063.ts
+#EXTINF:-1,IT: AutoMoto TV
+http://ksportiptv.com:1557/live/123/123/9539.ts
+#EXTINF:-1,IT: Fishing Tv italiano
+http://ksportiptv.com:1557/live/123/123/3967.ts
+#EXTINF:-1,IT: Animal Planet HD
+http://ksportiptv.com:1557/live/123/123/3428.ts
+#EXTINF:-1,IT: Dmax HD
+http://ksportiptv.com:1557/live/123/123/2019.ts
+#EXTINF:-1,IT: Dmax
+http://ksportiptv.com:1557/live/123/123/3424.ts
+#EXTINF:-1,IT: Dmax  1
+http://ksportiptv.com:1557/live/123/123/3423.ts
+#EXTINF:-1,IT: QVC Italia
+http://ksportiptv.com:1557/live/123/123/9537.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://ksportiptv.com:1557/live/123/123/3448.ts
+#EXTINF:-1,IT: Marco polo
+http://ksportiptv.com:1557/live/123/123/2017.ts
 #EXTINF:-1,IT: Alice
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7416.ts
-#EXTINF:-1,IT: Sky Fox
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7400.ts
-#EXTINF:-1,IT: Mediaset Iris
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7395.ts
-#EXTINF:-1,IT: Discovery channel HD
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7410.ts
-#EXTINF:-1,IT: Sky Primafila 8
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7327.ts
-#EXTINF:-1,IT: Sky Primafila 10
-http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/7337.ts
+http://ksportiptv.com:1557/live/123/123/3440.ts
+#EXTINF:-1,>>>>>Notizie<<<<<
+http://ksportiptv.com:1557/live/123/123/4226.ts
+#EXTINF:-1,IT: Rai News 24
+http://ksportiptv.com:1557/live/123/123/3969.ts
+#EXTINF:-1,IT: Sky TG 24
+http://ksportiptv.com:1557/live/123/123/3968.ts
+#EXTINF:-1,IT: SkyTG24
+http://ksportiptv.com:1557/live/123/123/4214.ts
+#EXTINF:-1,IT: TG Norba 24
+http://ksportiptv.com:1557/live/123/123/4157.ts
+#EXTINF:-1,IT: TG Com 24 Premium
+http://ksportiptv.com:1557/live/123/123/3970.ts
+#EXTINF:-1,IT: Euronews Italiano
+http://ksportiptv.com:1557/live/123/123/3971.ts
+#EXTINF:-1,IT: Il Meteo Italia Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1,IT: Il Meteo Italia Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1,IT: Il Meteo Italia Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1,>>>>>Canali Regionali<<<<<
+http://ksportiptv.com:1557/live/123/123/4225.ts
+#EXTINF:-1,IT: Tele Arena Siena
+http://ksportiptv.com:1557/live/123/123/4148.ts
+#EXTINF:-1,IT: Video Calabria
+http://ksportiptv.com:1557/live/123/123/4201.ts
+#EXTINF:-1,IT: TeleBari Tv
+http://ksportiptv.com:1557/live/123/123/3962.ts
+#EXTINF:-1,IT: Sardegna Uno TV
+http://ksportiptv.com:1557/live/123/123/3972.ts
+#EXTINF:-1,IT: TeleNorba TV
+http://ksportiptv.com:1557/live/123/123/3963.ts
+#EXTINF:-1,IT: Video Tolento
+http://ksportiptv.com:1557/live/123/123/4212.ts
+#EXTINF:-1,IT: Video 33 TV
+http://ksportiptv.com:1557/live/123/123/4173.ts
+#EXTINF:-1,IT: Antenna 3 TV
+http://ksportiptv.com:1557/live/123/123/3966.ts
+#EXTINF:-1,IT: Vera TV
+http://ksportiptv.com:1557/live/123/123/4211.ts
+#EXTINF:-1,IT: TV Luna
+http://ksportiptv.com:1557/live/123/123/4203.ts
+#EXTINF:-1,IT: Tv Avicenza
+http://ksportiptv.com:1557/live/123/123/4171.ts
+#EXTINF:-1,IT: TRM TV
+http://ksportiptv.com:1557/live/123/123/4213.ts
+#EXTINF:-1,IT: Trentino TV
+http://ksportiptv.com:1557/live/123/123/4174.ts
+#EXTINF:-1,IT: Luna tv Sport
+http://ksportiptv.com:1557/live/123/123/4208.ts
+#EXTINF:-1,IT: TeleVenezia
+http://ksportiptv.com:1557/live/123/123/4170.ts
+#EXTINF:-1,IT: TeleTicino
+http://ksportiptv.com:1557/live/123/123/4162.ts
+#EXTINF:-1,IT: TeleRadioSciacca
+http://ksportiptv.com:1557/live/123/123/4196.ts
+#EXTINF:-1,IT: Quarta Rete Blu TV
+http://ksportiptv.com:1557/live/123/123/4199.ts
+#EXTINF:-1,IT: TelePace Tv
+http://ksportiptv.com:1557/live/123/123/4169.ts
+#EXTINF:-1,IT: Topolino Cip e Ciop Paperino
+http://ksportiptv.com:1557/live/123/123/4215.ts
+#EXTINF:-1,IT: TeleDehonTV
+http://ksportiptv.com:1557/live/123/123/4197.ts
+#EXTINF:-1,IT: TeleColor
+http://ksportiptv.com:1557/live/123/123/4181.ts
+#EXTINF:-1,IT: Tele Video Agrigento
+http://ksportiptv.com:1557/live/123/123/4194.ts
+#EXTINF:-1,IT: Tele Nord
+http://ksportiptv.com:1557/live/123/123/4151.ts
+#EXTINF:-1,IT: Tele Padova Telecitt
+http://ksportiptv.com:1557/live/123/123/4168.ts
+#EXTINF:-1,IT: Teleromagna News
+http://ksportiptv.com:1557/live/123/123/4206.ts
+#EXTINF:-1,IT: Tele Milano
+http://ksportiptv.com:1557/live/123/123/4150.ts
+#EXTINF:-1,IT: Tele Boario
+http://ksportiptv.com:1557/live/123/123/4163.ts
+#EXTINF:-1,IT: TcsTV
+http://ksportiptv.com:1557/live/123/123/4192.ts
+#EXTINF:-1,IT: Suedtirol TV
+http://ksportiptv.com:1557/live/123/123/4175.ts
+#EXTINF:-1,IT: RtpTV
+http://ksportiptv.com:1557/live/123/123/4190.ts
+#EXTINF:-1,IT: ReteBiella TV
+http://ksportiptv.com:1557/live/123/123/4172.ts
+#EXTINF:-1,IT: Julie Italia
+http://ksportiptv.com:1557/live/123/123/4155.ts
+#EXTINF:-1,IT: Alto Adige
+http://ksportiptv.com:1557/live/123/123/4147.ts
+#EXTINF:-1,IT: Alpa Uno TV
+http://ksportiptv.com:1557/live/123/123/4179.ts
+#EXTINF:-1,IT: ReteSole Lazio
+http://ksportiptv.com:1557/live/123/123/4153.ts
+#EXTINF:-1,IT: ReteSole Umbria
+http://ksportiptv.com:1557/live/123/123/3961.ts
+#EXTINF:-1,IT: Orler TV
+http://ksportiptv.com:1557/live/123/123/4200.ts
+#EXTINF:-1,IT: Onda TV
+http://ksportiptv.com:1557/live/123/123/4154.ts
+#EXTINF:-1,IT: Antenna Sicilia TV
+http://ksportiptv.com:1557/live/123/123/4180.ts
+#EXTINF:-1,IT: Fano TV
+http://ksportiptv.com:1557/live/123/123/4210.ts
+#EXTINF:-1,IT: Tele Chiara
+http://ksportiptv.com:1557/live/123/123/4209.ts
+#EXTINF:-1,IT: Esperia TV
+http://ksportiptv.com:1557/live/123/123/4202.ts
+#EXTINF:-1,IT: Eden TV
+http://ksportiptv.com:1557/live/123/123/4167.ts
+#EXTINF:-1,IT: Primocanale TV
+http://ksportiptv.com:1557/live/123/123/4177.ts
+#EXTINF:-1,IT: Di TV 1
+http://ksportiptv.com:1557/live/123/123/4164.ts
+#EXTINF:-1,IT: Di TV 2
+http://ksportiptv.com:1557/live/123/123/4165.ts
+#EXTINF:-1,IT: Di TV 3
+http://ksportiptv.com:1557/live/123/123/4166.ts
+#EXTINF:-1,IT: CTS TV
+http://ksportiptv.com:1557/live/123/123/4187.ts
+#EXTINF:-1,IT: Canale 7 Ita
+http://ksportiptv.com:1557/live/123/123/4160.ts
+#EXTINF:-1,IT: Tele8
+http://ksportiptv.com:1557/live/123/123/4193.ts
+#EXTINF:-1,IT: Canale8
+http://ksportiptv.com:1557/live/123/123/4182.ts
+#EXTINF:-1,IT: Videostar Tv
+http://ksportiptv.com:1557/live/123/123/4176.ts
+#EXTINF:-1,IT: E20 Sicilia
+http://ksportiptv.com:1557/live/123/123/4188.ts
+#EXTINF:-1,IT: Napoli TV 21
+http://ksportiptv.com:1557/live/123/123/4158.ts
+#EXTINF:-1,IT: Napoli Canale 21 TV
+http://ksportiptv.com:1557/live/123/123/3964.ts
+#EXTINF:-1,IT: Canale 21 Lazio
+http://ksportiptv.com:1557/live/123/123/4205.ts
+#EXTINF:-1,IT: Canale 21 Campania
+http://ksportiptv.com:1557/live/123/123/4204.ts
+#EXTINF:-1,IT: Canale 33
+http://ksportiptv.com:1557/live/123/123/4183.ts
+#EXTINF:-1,IT: Canale 46
+http://ksportiptv.com:1557/live/123/123/4178.ts
+#EXTINF:-1,IT: Rete 55 Live
+http://ksportiptv.com:1557/live/123/123/4161.ts
+#EXTINF:-1,IT: Vitalia1
+http://ksportiptv.com:1557/live/123/123/4184.ts
+#EXTINF:-1,IT: Vitalia2
+http://ksportiptv.com:1557/live/123/123/4185.ts
+#EXTINF:-1,IT: Vitalia3
+http://ksportiptv.com:1557/live/123/123/4186.ts
+#EXTINF:-1,IT: Studio 100
+http://ksportiptv.com:1557/live/123/123/4156.ts
+#EXTINF:-1,IT: VisualRadio TV (musica)
+http://ksportiptv.com:1557/live/123/123/4622.ts
+#EXTINF:-1,IT: Teleromagna
+http://ksportiptv.com:1557/live/123/123/4616.ts
+#EXTINF:-1,IT: Video Brescia
+http://ksportiptv.com:1557/live/123/123/4645.ts
+#EXTINF:-1,IT: TVRS
+http://ksportiptv.com:1557/live/123/123/4621.ts
+#EXTINF:-1,IT: TeleSardegna
+http://ksportiptv.com:1557/live/123/123/4650.ts
+#EXTINF:-1,IT: Venezia Ponte Rialto Dal Vivo
+http://ksportiptv.com:1557/live/123/123/4652.ts
+#EXTINF:-1,IT: Le fiabe Disney 1
+http://ksportiptv.com:1557/live/123/123/4655.ts
+#EXTINF:-1,IT: Le fiabe Disney 2
+http://ksportiptv.com:1557/live/123/123/4656.ts
+#EXTINF:-1,IT: Le fiabe Disney 3
+http://ksportiptv.com:1557/live/123/123/4657.ts
+#EXTINF:-1,IT: TV2000
+http://ksportiptv.com:1557/live/123/123/4623.ts
+#EXTINF:-1,IT: TeleSondrioNews
+http://ksportiptv.com:1557/live/123/123/4619.ts
+#EXTINF:-1,IT: TeleSondrio Livigno
+http://ksportiptv.com:1557/live/123/123/4620.ts
+#EXTINF:-1,IT: TeleMonteNeve
+http://ksportiptv.com:1557/live/123/123/4641.ts
+#EXTINF:-1,IT: TeleMIa
+http://ksportiptv.com:1557/live/123/123/4643.ts
+#EXTINF:-1,IT: Tele Studio Modena
+http://ksportiptv.com:1557/live/123/123/4642.ts
+#EXTINF:-1,IT: Radio Radicale TV
+http://ksportiptv.com:1557/live/123/123/4626.ts
+#EXTINF:-1,IT: Lucania TV
+http://ksportiptv.com:1557/live/123/123/4618.ts
+#EXTINF:-1,IT: History Lab
+http://ksportiptv.com:1557/live/123/123/4638.ts
+#EXTINF:-1,IT: CNBC Class
+http://ksportiptv.com:1557/live/123/123/4629.ts
+#EXTINF:-1,IT: Canale10
+http://ksportiptv.com:1557/live/123/123/4637.ts
+#EXTINF:-1,IT: Brescia Tv
+http://ksportiptv.com:1557/live/123/123/4617.ts
+#EXTINF:-1,IT: Studio 1
+http://ksportiptv.com:1557/live/123/123/4636.ts
+#EXTINF:-1,IT: Radio Radicale Senato TV
+http://ksportiptv.com:1557/live/123/123/4628.ts
+#EXTINF:-1,IT: Radio Radicale Camera TV
+http://ksportiptv.com:1557/live/123/123/4627.ts
+#EXTINF:-1,IT: m2o (musica)
+http://ksportiptv.com:1557/live/123/123/4624.ts
+#EXTINF:-1,IT: For Music TV
+http://ksportiptv.com:1557/live/123/123/4726.ts
+#EXTINF:-1,IT: Radio Bruno TV (musica)
+http://ksportiptv.com:1557/live/123/123/4664.ts
+#EXTINF:-1,IT: Radio Taormina TV (musica)
+http://ksportiptv.com:1557/live/123/123/4665.ts
+#EXTINF:-1,IT: Super TV
+http://ksportiptv.com:1557/live/123/123/4728.ts
+#EXTINF:-1,IT: Tele Argento
+http://ksportiptv.com:1557/live/123/123/4727.ts
+#EXTINF:-1,IT: Caffe Tv 24
+http://ksportiptv.com:1557/live/123/123/8844.ts
+#EXTINF:-1,IT: CastroVilllari Calabria
+http://ksportiptv.com:1557/live/123/123/8853.ts
+#EXTINF:-1,IT: Company TV
+http://ksportiptv.com:1557/live/123/123/8843.ts
+#EXTINF:-1,IT: Friuli Venezia Giulia_Sportelevision (friuli e veneto)
+http://ksportiptv.com:1557/live/123/123/8856.ts
+#EXTINF:-1,IT: Liguria Imperia TV (imperia e savona)
+http://ksportiptv.com:1557/live/123/123/8858.ts
+#EXTINF:-1,IT: Teleliguria Sud
+http://ksportiptv.com:1557/live/123/123/9543.ts
+#EXTINF:-1,IT: Lombardia Saronno TV (saronno)
+http://ksportiptv.com:1557/live/123/123/8859.ts
+#EXTINF:-1,IT: Lombardia TV
+http://ksportiptv.com:1557/live/123/123/8860.ts
+#EXTINF:-1,IT: Rete7 EmigliaRomana
+http://ksportiptv.com:1557/live/123/123/8855.ts
+#EXTINF:-1,IT: TeleColore
+http://ksportiptv.com:1557/live/123/123/8845.ts
+#EXTINF:-1,IT: TeleJonio
+http://ksportiptv.com:1557/live/123/123/8846.ts
+#EXTINF:-1,IT: TeleMonteNeve3
+http://ksportiptv.com:1557/live/123/123/8847.ts
+#EXTINF:-1,IT: TeleNuova2
+rtmp://54.228.254.95/live/myStream
+#EXTINF:-1,IT: TeleReporter
+http://ksportiptv.com:1557/live/123/123/8848.ts
+#EXTINF:-1,IT: TeleReporter Sicilia
+http://ksportiptv.com:1557/live/123/123/8849.ts
+#EXTINF:-1,IT: TeleRoma 56 Lazio
+http://ksportiptv.com:1557/live/123/123/8857.ts
+#EXTINF:-1,IT: TeleStar1
+http://ksportiptv.com:1557/live/123/123/8850.ts
+#EXTINF:-1,IT: Televaldarno RTV38
+http://ksportiptv.com:1557/live/123/123/8841.ts
+#EXTINF:-1,IT: Cremona 1
+http://ksportiptv.com:1557/live/123/123/9648.ts
+#EXTINF:-1,IT: Primarete Lombardia
+http://ksportiptv.com:1557/live/123/123/9646.ts
+#EXTINF:-1,IT: Radio Nr.1 TV
+http://ksportiptv.com:1557/live/123/123/9649.ts
+#EXTINF:-1,IT: Radio Tv Azzura
+http://ksportiptv.com:1557/live/123/123/9651.ts
+#EXTINF:-1,IT: Radio Universal TV
+http://ksportiptv.com:1557/live/123/123/9652.ts
+#EXTINF:-1,IT: Sportelevision
+http://ksportiptv.com:1557/live/123/123/9645.ts
+#EXTINF:-1,IT: Tele Pordenone
+http://ksportiptv.com:1557/live/123/123/9644.ts
+#EXTINF:-1,IT: Telecolor Lombardia
+http://ksportiptv.com:1557/live/123/123/9647.ts
+#EXTINF:-1,IT: TeleGi
+http://ksportiptv.com:1557/live/123/123/9650.ts
+#EXTINF:-1,IT: Teleromagna Lifestyle
+http://ksportiptv.com:1557/live/123/123/9643.ts
+#EXTINF:-1,IT: Teleromagna Mia
+http://ksportiptv.com:1557/live/123/123/9642.ts
+#EXTINF:-1,IT: Tv Campane
+http://ksportiptv.com:1557/live/123/123/8851.ts
+#EXTINF:-1,IT: Umbria TV
+http://ksportiptv.com:1557/live/123/123/8842.ts
+#EXTINF:-1,IT: VideoLina
+http://ksportiptv.com:1557/live/123/123/8852.ts
+#EXTINF:-1,IT: Radio Bruno TV
+http://ksportiptv.com:1557/live/123/123/9640.ts
+#EXTINF:-1,IT: Tele Diogene
+http://ksportiptv.com:1557/live/123/123/9641.ts
+#EXTINF:-1,IT: OTTO 8fm TV (music)
+http://ksportiptv.com:1557/live/123/123/4639.ts
+#EXTINF:-1,IT: RTL 102.5 TV (musica)
+http://ksportiptv.com:1557/live/123/123/4640.ts
+#EXTINF:-1,IT: RTV 105
+http://ksportiptv.com:1557/live/123/123/4216.ts
+#EXTINF:-1,IT: RadioMonteCarlo
+http://ksportiptv.com:1557/live/123/123/4217.ts
+#EXTINF:-1,IT: Radio Norba TV
+http://ksportiptv.com:1557/live/123/123/4198.ts
+#EXTINF:-1,IT: Radio Italia TV
+http://ksportiptv.com:1557/live/123/123/3420.ts

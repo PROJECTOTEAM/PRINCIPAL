@@ -1,1046 +1,492 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,&tv HD UK
-http://clientportal.link:8080/live/cran/cran/15062.ts
-#EXTINF:-1,3e UK
-http://clientportal.link:8080/live/cran/cran/3953.ts
-#EXTINF:-1,4Music UK
-http://clientportal.link:8080/live/cran/cran/1951.ts
-#EXTINF:-1,4seven UK
-http://clientportal.link:8080/live/cran/cran/3961.ts
-#EXTINF:-1,5 STAR+1 UK
-http://clientportal.link:8080/live/cran/cran/14732.ts
-#EXTINF:-1,5 USA+1 UK
-http://clientportal.link:8080/live/cran/cran/14731.ts
-#EXTINF:-1,5STAR UK
-http://clientportal.link:8080/live/cran/cran/9908.ts
-#EXTINF:-1,5USA UK
-http://clientportal.link:8080/live/cran/cran/2652.ts
-#EXTINF:-1,AAJ TAK UK
-http://clientportal.link:8080/live/cran/cran/14854.ts
-#EXTINF:-1,ABN TV UK
-http://clientportal.link:8080/live/cran/cran/14813.ts
-#EXTINF:-1,ABP News UK
-http://clientportal.link:8080/live/cran/cran/14853.ts
-#EXTINF:-1,AIT Int'l UK
-http://clientportal.link:8080/live/cran/cran/14976.ts
-#EXTINF:-1,AMC from BT UK
-http://clientportal.link:8080/live/cran/cran/14779.ts
-#EXTINF:-1,ARY QTV UK
-http://clientportal.link:8080/live/cran/cran/14900.ts
-#EXTINF:-1,ASTRO SuperSport 1 UK
-http://clientportal.link:8080/live/cran/cran/8010.ts
-#EXTINF:-1,ASTRO SuperSport 2 UK
-http://clientportal.link:8080/live/cran/cran/8011.ts
-#EXTINF:-1,ASTRO SuperSport 3 UK
-http://clientportal.link:8080/live/cran/cran/8012.ts
-#EXTINF:-1,ASTRO SuperSport 4 UK
-http://clientportal.link:8080/live/cran/cran/8013.ts
-#EXTINF:-1,Aastha UK
-http://clientportal.link:8080/live/cran/cran/15061.ts
-#EXTINF:-1,Ahlulbayt TV UK
-http://clientportal.link:8080/live/cran/cran/15060.ts
-#EXTINF:-1,Akaal Channel UK
-http://clientportal.link:8080/live/cran/cran/14975.ts
-#EXTINF:-1,Al Arabiya UK
-http://clientportal.link:8080/live/cran/cran/14852.ts
-#EXTINF:-1,Alibi Ireland UK
-http://clientportal.link:8080/live/cran/cran/3954.ts
-#EXTINF:-1,Alibi UK
-http://clientportal.link:8080/live/cran/cran/14974.ts
-#EXTINF:-1,Animal Planet +1 UK
-http://clientportal.link:8080/live/cran/cran/14850.ts
-#EXTINF:-1,Animal Planet UK
-http://clientportal.link:8080/live/cran/cran/2683.ts
-#EXTINF:-1,At the Races UK
-http://clientportal.link:8080/live/cran/cran/1997.ts
-#EXTINF:-1,BBC ALBA UK
-http://clientportal.link:8080/live/cran/cran/14703.ts
-#EXTINF:-1,BBC NEWS HD 1080p UK
-http://clientportal.link:8080/live/cran/cran/14701.ts
-#EXTINF:-1,BBC News UK
-http://clientportal.link:8080/live/cran/cran/4020.ts
-#EXTINF:-1,BBC One CI UK
-http://clientportal.link:8080/live/cran/cran/14700.ts
-#EXTINF:-1,BBC One E Mid UK
-http://clientportal.link:8080/live/cran/cran/14699.ts
-#EXTINF:-1,BBC One East E UK
-http://clientportal.link:8080/live/cran/cran/14698.ts
-#EXTINF:-1,BBC One East W UK
-http://clientportal.link:8080/live/cran/cran/14697.ts
-#EXTINF:-1,BBC One N West UK
-http://clientportal.link:8080/live/cran/cran/14696.ts
-#EXTINF:-1,BBC One NE&C UK
-http://clientportal.link:8080/live/cran/cran/14695.ts
-#EXTINF:-1,BBC One NI HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14693.ts
-#EXTINF:-1,BBC One NI UK
-http://clientportal.link:8080/live/cran/cran/14694.ts
-#EXTINF:-1,BBC One Oxford UK
-http://clientportal.link:8080/live/cran/cran/14692.ts
-#EXTINF:-1,BBC One S East UK
-http://clientportal.link:8080/live/cran/cran/14691.ts
-#EXTINF:-1,BBC One S West UK
-http://clientportal.link:8080/live/cran/cran/14690.ts
-#EXTINF:-1,BBC One Scotland HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14688.ts
-#EXTINF:-1,BBC One Scotland  UK
-http://clientportal.link:8080/live/cran/cran/14689.ts
-#EXTINF:-1,BBC One South UK
-http://clientportal.link:8080/live/cran/cran/14687.ts
-#EXTINF:-1,BBC One W Mid UK
-http://clientportal.link:8080/live/cran/cran/14686.ts
-#EXTINF:-1,BBC One Wales HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14685.ts
-#EXTINF:-1,BBC One West UK
-http://clientportal.link:8080/live/cran/cran/14684.ts
-#EXTINF:-1,BBC One Yk&Li UK
-http://clientportal.link:8080/live/cran/cran/14683.ts
-#EXTINF:-1,BBC One Yorks UK
-http://clientportal.link:8080/live/cran/cran/14682.ts
-#EXTINF:-1,BBC Parliament UK
-http://clientportal.link:8080/live/cran/cran/14681.ts
-#EXTINF:-1,BBC Red Button 1 UK
-http://clientportal.link:8080/live/cran/cran/1996.ts
-#EXTINF:-1,BBC Two NI UK
-http://clientportal.link:8080/live/cran/cran/14680.ts
-#EXTINF:-1,BBC Two Scotland UK
-http://clientportal.link:8080/live/cran/cran/14679.ts
-#EXTINF:-1,BBC Two Wales UK
-http://clientportal.link:8080/live/cran/cran/14678.ts
-#EXTINF:-1,BBC1 HD UK
-http://clientportal.link:8080/live/cran/cran/1994.ts
-#EXTINF:-1,BBC1 UK
-http://clientportal.link:8080/live/cran/cran/3580.ts
-#EXTINF:-1,BBC1 Wales UK
-http://clientportal.link:8080/live/cran/cran/12355.ts
-#EXTINF:-1,BBC2 HD UK
-http://clientportal.link:8080/live/cran/cran/12347.ts
-#EXTINF:-1,BBC2 UK
-http://clientportal.link:8080/live/cran/cran/3581.ts
-#EXTINF:-1,BBC4 HD UK
-http://clientportal.link:8080/live/cran/cran/1993.ts
-#EXTINF:-1,BBC4 UK
-http://clientportal.link:8080/live/cran/cran/14702.ts
-#EXTINF:-1,BEN UK
-http://clientportal.link:8080/live/cran/cran/14972.ts
-#EXTINF:-1,BET  UK
-http://clientportal.link:8080/live/cran/cran/14848.ts
-#EXTINF:-1,BOX Upfront UK
-http://clientportal.link:8080/live/cran/cran/4014.ts
-#EXTINF:-1,BT SPORTS 1 HD 1080P
-http://clientportal.link:8080/live/cran/cran/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://clientportal.link:8080/live/cran/cran/1991.ts
-#EXTINF:-1,BT Sport 1 UK
-http://clientportal.link:8080/live/cran/cran/3586.ts
-#EXTINF:-1,BT SPORTS 2 HD 1080P
-http://clientportal.link:8080/live/cran/cran/14658.ts
-#EXTINF:-1,BT Sport 2 HD UK
-http://clientportal.link:8080/live/cran/cran/1992.ts
-#EXTINF:-1,BT Sport 2 UK
-http://clientportal.link:8080/live/cran/cran/3588.ts
-#EXTINF:-1,BT SPORTS 3 HD 1080P
-http://clientportal.link:8080/live/cran/cran/14659.ts
-#EXTINF:-1,BT Sports 3 HD
-http://clientportal.link:8080/live/cran/cran/14903.ts
-#EXTINF:-1,BT Sport 3 UK
-http://clientportal.link:8080/live/cran/cran/1965.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://clientportal.link:8080/live/cran/cran/2673.ts
-#EXTINF:-1,BT Sport EXTRA UK
-http://clientportal.link:8080/live/cran/cran/2682.ts
-#EXTINF:-1,BT Sport Espn HD UK
-http://clientportal.link:8080/live/cran/cran/1980.ts
-#EXTINF:-1,BT Sport Extra 1  UK
-http://clientportal.link:8080/live/cran/cran/14778.ts
-#EXTINF:-1,BT Sport Extra 2 UK
-http://clientportal.link:8080/live/cran/cran/14809.ts
-#EXTINF:-1,BT Sport Extra 3 UK
-http://clientportal.link:8080/live/cran/cran/14808.ts
-#EXTINF:-1,BT Sport Extra 4 UK
-http://clientportal.link:8080/live/cran/cran/14807.ts
-#EXTINF:-1,BT Sport Extra 6 UK
-http://clientportal.link:8080/live/cran/cran/14806.ts
-#EXTINF:-1,BT Sport Mosaic 2 UK
-http://clientportal.link:8080/live/cran/cran/14805.ts
-#EXTINF:-1,BT Sport Mosaic UK
-http://clientportal.link:8080/live/cran/cran/14777.ts
-#EXTINF:-1,Baby TV UK
-http://clientportal.link:8080/live/cran/cran/11425.ts
-#EXTINF:-1,Believe TV UK
-http://clientportal.link:8080/live/cran/cran/15058.ts
-#EXTINF:-1,Best Direct UK
-http://clientportal.link:8080/live/cran/cran/14849.ts
-#EXTINF:-1,Bike UK
-http://clientportal.link:8080/live/cran/cran/14811.ts
-#EXTINF:-1,Bloomberg TV UK
-http://clientportal.link:8080/live/cran/cran/8298.ts
-#EXTINF:-1,Boomerang UK
-http://clientportal.link:8080/live/cran/cran/1962.ts
-#EXTINF:-1,Boomerang+1 UK
-http://clientportal.link:8080/live/cran/cran/14730.ts
-#EXTINF:-1,Box Hits UK
-http://clientportal.link:8080/live/cran/cran/1953.ts
-#EXTINF:-1,BoxNation UK
-http://clientportal.link:8080/live/cran/cran/4010.ts
-#EXTINF:-1,Brit Asia TV UK
-http://clientportal.link:8080/live/cran/cran/15057.ts
-#EXTINF:-1,British Muslim UK
-http://clientportal.link:8080/live/cran/cran/14971.ts
-#EXTINF:-1,CAPITAL TV UK
-http://clientportal.link:8080/live/cran/cran/15056.ts
-#EXTINF:-1,CBBC HD UK
-http://clientportal.link:8080/live/cran/cran/12348.ts
-#EXTINF:-1,CBBC UK
-http://clientportal.link:8080/live/cran/cran/14677.ts
-#EXTINF:-1,CBS Action UK
-http://clientportal.link:8080/live/cran/cran/3944.ts
-#EXTINF:-1,CBS Drama UK
-http://clientportal.link:8080/live/cran/cran/3945.ts
-#EXTINF:-1,CBS Reality +1 UK
-http://clientportal.link:8080/live/cran/cran/14776.ts
-#EXTINF:-1,CBS Reality UK
-http://clientportal.link:8080/live/cran/cran/3946.ts
-#EXTINF:-1,CBeebies HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14676.ts
-#EXTINF:-1,CBeebies UK
-http://clientportal.link:8080/live/cran/cran/3582.ts
-#EXTINF:-1,CCTV News UK
-http://clientportal.link:8080/live/cran/cran/14970.ts
-#EXTINF:-1,CITV UK
-http://clientportal.link:8080/live/cran/cran/9588.ts
-#EXTINF:-1,CNBC UK
-http://clientportal.link:8080/live/cran/cran/14968.ts
-#EXTINF:-1,CNN HD UK
-http://clientportal.link:8080/live/cran/cran/14726.ts
-#EXTINF:-1,CNN UK
-http://clientportal.link:8080/live/cran/cran/3995.ts
-#EXTINF:-1,Cartoon Network UK
-http://clientportal.link:8080/live/cran/cran/3967.ts
-#EXTINF:-1,Cartoon Network+1 UK
-http://clientportal.link:8080/live/cran/cran/14727.ts
-#EXTINF:-1,Cartoonito UK
-http://clientportal.link:8080/live/cran/cran/14763.ts
-#EXTINF:-1,Challenge +1 UK
-http://clientportal.link:8080/live/cran/cran/14944.ts
-#EXTINF:-1,Challenge UK
-http://clientportal.link:8080/live/cran/cran/14945.ts
-#EXTINF:-1,Channel 4 +1 London UK
-http://clientportal.link:8080/live/cran/cran/14895.ts
-#EXTINF:-1,Channel 4 +1 Midlands UK
-http://clientportal.link:8080/live/cran/cran/14894.ts
-#EXTINF:-1,Channel 4 +1 North UK
-http://clientportal.link:8080/live/cran/cran/14892.ts
-#EXTINF:-1,Channel 4 +1 Northern Ireland UK
-http://clientportal.link:8080/live/cran/cran/14891.ts
-#EXTINF:-1,Channel 4 +1 Scotland UK
-http://clientportal.link:8080/live/cran/cran/14890.ts
-#EXTINF:-1,Channel 4 +1 South & East UK
-http://clientportal.link:8080/live/cran/cran/14893.ts
-#EXTINF:-1,Channel 4 London UK
-http://clientportal.link:8080/live/cran/cran/2681.ts
-#EXTINF:-1,Channel 4 Midlands UK
-http://clientportal.link:8080/live/cran/cran/14889.ts
-#EXTINF:-1,Channel 4 North UK
-http://clientportal.link:8080/live/cran/cran/14888.ts
-#EXTINF:-1,Channel 4 Northern Ireland UK
-http://clientportal.link:8080/live/cran/cran/14887.ts
-#EXTINF:-1,Channel 4 Scotland UK
-http://clientportal.link:8080/live/cran/cran/14886.ts
-#EXTINF:-1,Channel 4 South & East UK
-http://clientportal.link:8080/live/cran/cran/14885.ts
-#EXTINF:-1,Channel 44 UK
-http://clientportal.link:8080/live/cran/cran/15055.ts
-#EXTINF:-1,Channel 5 UK
-http://clientportal.link:8080/live/cran/cran/2680.ts
-#EXTINF:-1,Channel 5+1 UK
-http://clientportal.link:8080/live/cran/cran/14729.ts
-#EXTINF:-1,Channel 5HD UK
-http://clientportal.link:8080/live/cran/cran/14728.ts
-#EXTINF:-1,Channel AKA UK
-http://clientportal.link:8080/live/cran/cran/14804.ts
-#EXTINF:-1,Channel i UK
-http://clientportal.link:8080/live/cran/cran/14969.ts
-#EXTINF:-1,Channels 24 UK
-http://clientportal.link:8080/live/cran/cran/14803.ts
-#EXTINF:-1,Chart Show TV UK
-http://clientportal.link:8080/live/cran/cran/14884.ts
-#EXTINF:-1,Chartshow Hits UK
-http://clientportal.link:8080/live/cran/cran/14883.ts
-#EXTINF:-1,Chelsea TV UK
-http://clientportal.link:8080/live/cran/cran/1990.ts
-#EXTINF:-1,Chilled TV UK
-http://clientportal.link:8080/live/cran/cran/15053.ts
-#EXTINF:-1,Clubland TV UK
-http://clientportal.link:8080/live/cran/cran/15051.ts
-#EXTINF:-1,Colors UK
-http://clientportal.link:8080/live/cran/cran/1988.ts
-#EXTINF:-1,Comedy Central Extra UK
-http://clientportal.link:8080/live/cran/cran/2668.ts
-#EXTINF:-1,Comedy Central Ireland UK
-http://clientportal.link:8080/live/cran/cran/14846.ts
-#EXTINF:-1,Comedy Central UK
-http://clientportal.link:8080/live/cran/cran/3948.ts
-#EXTINF:-1,ComedyCentral +1 UK
-http://clientportal.link:8080/live/cran/cran/14847.ts
-#EXTINF:-1,ComedyXtra +1 UK
-http://clientportal.link:8080/live/cran/cran/14845.ts
-#EXTINF:-1,ComedyXtra Ireland UK
-http://clientportal.link:8080/live/cran/cran/14844.ts
-#EXTINF:-1,ComedyXtra UK
-http://clientportal.link:8080/live/cran/cran/14762.ts
-#EXTINF:-1,Craft Extra UK
-http://clientportal.link:8080/live/cran/cran/14882.ts
-#EXTINF:-1,Create & Craft UK
-http://clientportal.link:8080/live/cran/cran/15048.ts
-#EXTINF:-1,Crime Investigation +1 UK
-http://clientportal.link:8080/live/cran/cran/14942.ts
-#EXTINF:-1,Crime Investigation UK
-http://clientportal.link:8080/live/cran/cran/14943.ts
-#EXTINF:-1,DM Plus TV UK
-http://clientportal.link:8080/live/cran/cran/14966.ts
-#EXTINF:-1,DMAX +1 UK
-http://clientportal.link:8080/live/cran/cran/14840.ts
-#EXTINF:-1,DMAX UK
-http://clientportal.link:8080/live/cran/cran/1983.ts
-#EXTINF:-1,Dave Ireland UK
-http://clientportal.link:8080/live/cran/cran/1987.ts
-#EXTINF:-1,Dave UK
-http://clientportal.link:8080/live/cran/cran/14967.ts
-#EXTINF:-1,Dave ja vu UK
-http://clientportal.link:8080/live/cran/cran/11424.ts
-#EXTINF:-1,Disc Science +1 UK
-http://clientportal.link:8080/live/cran/cran/14842.ts
-#EXTINF:-1,Discovery +1 UK
-http://clientportal.link:8080/live/cran/cran/14770.ts
-#EXTINF:-1,Discovery Channel UK
-http://clientportal.link:8080/live/cran/cran/1986.ts
-#EXTINF:-1,Discovery History +1 UK
-http://clientportal.link:8080/live/cran/cran/14843.ts
-#EXTINF:-1,Discovery History UK
-http://clientportal.link:8080/live/cran/cran/1985.ts
-#EXTINF:-1,Discovery Home&Health UK
-http://clientportal.link:8080/live/cran/cran/14833.ts
-#EXTINF:-1,Discovery Investigation UK
-http://clientportal.link:8080/live/cran/cran/3982.ts
-#EXTINF:-1,Discovery Ireland UK
-http://clientportal.link:8080/live/cran/cran/14769.ts
-#EXTINF:-1,Discovery Science UK
-http://clientportal.link:8080/live/cran/cran/2679.ts
-#EXTINF:-1,Discovery Shed UK
-http://clientportal.link:8080/live/cran/cran/14841.ts
-#EXTINF:-1,Discovery Turbo UK
-http://clientportal.link:8080/live/cran/cran/3978.ts
-#EXTINF:-1,Discovery World UK
-http://clientportal.link:8080/live/cran/cran/2678.ts
-#EXTINF:-1,Disney Channel UK
-http://clientportal.link:8080/live/cran/cran/1984.ts
-#EXTINF:-1,Disney Junior UK
-http://clientportal.link:8080/live/cran/cran/3969.ts
-#EXTINF:-1,Disney XD UK
-http://clientportal.link:8080/live/cran/cran/2675.ts
-#EXTINF:-1,Drama UK
-http://clientportal.link:8080/live/cran/cran/3957.ts
-#EXTINF:-1,Dunya News UK
-http://clientportal.link:8080/live/cran/cran/14881.ts
-#EXTINF:-1,E! +1  UK
-http://clientportal.link:8080/live/cran/cran/14802.ts
-#EXTINF:-1,E! Ireland UK
-http://clientportal.link:8080/live/cran/cran/14801.ts
-#EXTINF:-1,E! UK
-http://clientportal.link:8080/live/cran/cran/3966.ts
-#EXTINF:-1,E4 +1 UK
-http://clientportal.link:8080/live/cran/cran/14880.ts
-#EXTINF:-1,E4 UK
-http://clientportal.link:8080/live/cran/cran/2674.ts
-#EXTINF:-1,ETV1 UK
-http://clientportal.link:8080/live/cran/cran/14675.ts
-#EXTINF:-1,ETV1 UK
-http://clientportal.link:8080/live/cran/cran/10195.ts
-#EXTINF:-1,ETV2 UK
-http://clientportal.link:8080/live/cran/cran/14674.ts
-#EXTINF:-1,ETV5 UK
-http://clientportal.link:8080/live/cran/cran/14673.ts
-#EXTINF:-1,ETV6 UK
-http://clientportal.link:8080/live/cran/cran/14672.ts
-#EXTINF:-1,EWTN Catholic UK
-http://clientportal.link:8080/live/cran/cran/15046.ts
-#EXTINF:-1,Eden +1 UK
-http://clientportal.link:8080/live/cran/cran/14839.ts
-#EXTINF:-1,Eden UK
-http://clientportal.link:8080/live/cran/cran/14965.ts
-#EXTINF:-1,Eman Channel UK
-http://clientportal.link:8080/live/cran/cran/14800.ts
-#EXTINF:-1,Eurosport 1 HD UK
-http://clientportal.link:8080/live/cran/cran/13091.ts
-#EXTINF:-1,Eurosport 1 UK
-http://clientportal.link:8080/live/cran/cran/3590.ts
-#EXTINF:-1,Eurosport 2 HD UK
-http://clientportal.link:8080/live/cran/cran/13092.ts
-#EXTINF:-1,Eurosport 2 UK
-http://clientportal.link:8080/live/cran/cran/3591.ts
-#EXTINF:-1,FOX News UK
-http://clientportal.link:8080/live/cran/cran/11429.ts
-#EXTINF:-1,FOX UK
-http://clientportal.link:8080/live/cran/cran/2656.ts
-#EXTINF:-1,Fight Sports UK
-http://clientportal.link:8080/live/cran/cran/14449.ts
-#EXTINF:-1,Film4  +1 UK
-http://clientportal.link:8080/live/cran/cran/14879.ts
-#EXTINF:-1,Film4 UK
-http://clientportal.link:8080/live/cran/cran/1979.ts
-#EXTINF:-1,Flava UK
-http://clientportal.link:8080/live/cran/cran/3565.ts
-#EXTINF:-1,Flow TV UK
-http://clientportal.link:8080/live/cran/cran/15044.ts
-#EXTINF:-1,Food Network UK
-http://clientportal.link:8080/live/cran/cran/3991.ts
-#EXTINF:-1,Food Netwrk +1 UK
-http://clientportal.link:8080/live/cran/cran/14878.ts
-#EXTINF:-1,Forces TV UK
-http://clientportal.link:8080/live/cran/cran/12354.ts
-#EXTINF:-1,FrontRunner UK
-http://clientportal.link:8080/live/cran/cran/15043.ts
-#EXTINF:-1,GEO TEZ UK
-http://clientportal.link:8080/live/cran/cran/15041.ts
-#EXTINF:-1,GEO TV UK
-http://clientportal.link:8080/live/cran/cran/14838.ts
-#EXTINF:-1,GINX eSportsTV UK
-http://clientportal.link:8080/live/cran/cran/3583.ts
-#EXTINF:-1,GOD Channel UK
-http://clientportal.link:8080/live/cran/cran/15040.ts
-#EXTINF:-1,GOLD +1 UK
-http://clientportal.link:8080/live/cran/cran/14836.ts
-#EXTINF:-1,GOLD UK
-http://clientportal.link:8080/live/cran/cran/14963.ts
-#EXTINF:-1,GR SHOP UK
-http://clientportal.link:8080/live/cran/cran/15038.ts
-#EXTINF:-1,Gems TV UK
-http://clientportal.link:8080/live/cran/cran/14877.ts
-#EXTINF:-1,Glory TV UK
-http://clientportal.link:8080/live/cran/cran/14837.ts
-#EXTINF:-1,Gold Ireland UK
-http://clientportal.link:8080/live/cran/cran/1977.ts
-#EXTINF:-1,Good Food UK
-http://clientportal.link:8080/live/cran/cran/3990.ts
-#EXTINF:-1,Gospel Channel UK
-http://clientportal.link:8080/live/cran/cran/15039.ts
-#EXTINF:-1,H2 UK
-http://clientportal.link:8080/live/cran/cran/3569.ts
-#EXTINF:-1,Heart TV UK
-http://clientportal.link:8080/live/cran/cran/15037.ts
-#EXTINF:-1,Hidayat TV UK
-http://clientportal.link:8080/live/cran/cran/14962.ts
-#EXTINF:-1,High Street TV 3 UK
-http://clientportal.link:8080/live/cran/cran/15035.ts
-#EXTINF:-1,High Street TV UK
-http://clientportal.link:8080/live/cran/cran/15036.ts
-#EXTINF:-1,History +1 UK
-http://clientportal.link:8080/live/cran/cran/14941.ts
-#EXTINF:-1,History UK
-http://clientportal.link:8080/live/cran/cran/3976.ts
-#EXTINF:-1,Hochanda UK
-http://clientportal.link:8080/live/cran/cran/15034.ts
-#EXTINF:-1,Home & Leisure UK
-http://clientportal.link:8080/live/cran/cran/14960.ts
-#EXTINF:-1,Home +1 UK
-http://clientportal.link:8080/live/cran/cran/14834.ts
-#EXTINF:-1,Home Ireland UK
-http://clientportal.link:8080/live/cran/cran/3993.ts
-#EXTINF:-1,Home UK
-http://clientportal.link:8080/live/cran/cran/14961.ts
-#EXTINF:-1,Horror Channel UK
-http://clientportal.link:8080/live/cran/cran/3941.ts
-#EXTINF:-1,Horror ch +1  UK
-http://clientportal.link:8080/live/cran/cran/14774.ts
-#EXTINF:-1,Horse & Country UK
-http://clientportal.link:8080/live/cran/cran/14832.ts
-#EXTINF:-1,ID +1 UK
-http://clientportal.link:8080/live/cran/cran/14831.ts
-#EXTINF:-1,IQRA BANGLA UK
-http://clientportal.link:8080/live/cran/cran/14959.ts
-#EXTINF:-1,ITV 1 Westcountry South West UK
-http://clientportal.link:8080/live/cran/cran/14725.ts
-#EXTINF:-1,ITV Border UK
-http://clientportal.link:8080/live/cran/cran/14724.ts
-#EXTINF:-1,ITV Box Office 1 HD UK
-http://clientportal.link:8080/live/cran/cran/15873.ts
-#EXTINF:-1,ITV Box Office 1 HD UK 1080P
-http://clientportal.link:8080/live/cran/cran/15866.ts
-#EXTINF:-1,ITV Box Office 1 UK
-http://clientportal.link:8080/live/cran/cran/15874.ts
-#EXTINF:-1,ITV Box Office 2 HD UK
-http://clientportal.link:8080/live/cran/cran/15872.ts
-#EXTINF:-1,ITV Box Office 2 HD UK 1080P
-http://clientportal.link:8080/live/cran/cran/15865.ts
-#EXTINF:-1,ITV Box Office 3 HD UK
-http://clientportal.link:8080/live/cran/cran/15871.ts
-#EXTINF:-1,ITV Box Office 4 HD UK
-http://clientportal.link:8080/live/cran/cran/15870.ts
-#EXTINF:-1,ITV Box Office 5 HD UK
-http://clientportal.link:8080/live/cran/cran/15869.ts
-#EXTINF:-1,ITV Box Office 6 HD UK
-http://clientportal.link:8080/live/cran/cran/15868.ts
-#EXTINF:-1,ITV Box Office 7 HD UK
-http://clientportal.link:8080/live/cran/cran/15867.ts
-#EXTINF:-1,ITV Central West HD UK
-http://clientportal.link:8080/live/cran/cran/14722.ts
-#EXTINF:-1,ITV Central West+1 UK
-http://clientportal.link:8080/live/cran/cran/14723.ts
-#EXTINF:-1,ITV Encore UK
-http://clientportal.link:8080/live/cran/cran/8076.ts
-#EXTINF:-1,ITV Encore+1 UK
-http://clientportal.link:8080/live/cran/cran/14721.ts
-#EXTINF:-1,ITV HD UK
-http://clientportal.link:8080/live/cran/cran/1995.ts
-#EXTINF:-1,ITV Meridian South East HD UK
-http://clientportal.link:8080/live/cran/cran/14717.ts
-#EXTINF:-1,ITV Meridian South East UK
-http://clientportal.link:8080/live/cran/cran/14718.ts
-#EXTINF:-1,ITV Meridian South UK
-http://clientportal.link:8080/live/cran/cran/14719.ts
-#EXTINF:-1,ITV Tyne Tees UK
-http://clientportal.link:8080/live/cran/cran/14716.ts
-#EXTINF:-1,ITV Westcountry South West+1 UK
-http://clientportal.link:8080/live/cran/cran/14715.ts
-#EXTINF:-1,ITV Yorkshire West HD UK
-http://clientportal.link:8080/live/cran/cran/14713.ts
-#EXTINF:-1,ITV Yorkshire West UK
-http://clientportal.link:8080/live/cran/cran/14714.ts
-#EXTINF:-1,ITV1 UK
-http://clientportal.link:8080/live/cran/cran/3576.ts
-#EXTINF:-1,ITV2 HD UK
-http://clientportal.link:8080/live/cran/cran/12345.ts
-#EXTINF:-1,ITV2 UK
-http://clientportal.link:8080/live/cran/cran/3577.ts
-#EXTINF:-1,ITV2+1 UK
-http://clientportal.link:8080/live/cran/cran/14712.ts
-#EXTINF:-1,ITV3 HD UK
-http://clientportal.link:8080/live/cran/cran/14292.ts
-#EXTINF:-1,ITV3 UK
-http://clientportal.link:8080/live/cran/cran/3578.ts
-#EXTINF:-1,ITV3+1 UK
-http://clientportal.link:8080/live/cran/cran/14711.ts
-#EXTINF:-1,ITV4 HD UK
-http://clientportal.link:8080/live/cran/cran/12346.ts
-#EXTINF:-1,ITV4 UK
-http://clientportal.link:8080/live/cran/cran/3579.ts
-#EXTINF:-1,ITV4+1 UK
-http://clientportal.link:8080/live/cran/cran/14671.ts
-#EXTINF:-1,ITVBe UK
-http://clientportal.link:8080/live/cran/cran/9587.ts
-#EXTINF:-1,ITVBe+1 UK
-http://clientportal.link:8080/live/cran/cran/14710.ts
-#EXTINF:-1,Ideal Extra UK
-http://clientportal.link:8080/live/cran/cran/15033.ts
-#EXTINF:-1,Inside HD UK
-http://clientportal.link:8080/live/cran/cran/14293.ts
-#EXTINF:-1,Inspiration UK
-http://clientportal.link:8080/live/cran/cran/15032.ts
-#EXTINF:-1,Inspiration  UK
-http://clientportal.link:8080/live/cran/cran/14810.ts
-#EXTINF:-1,Islam Ch Urdu UK
-http://clientportal.link:8080/live/cran/cran/15031.ts
-#EXTINF:-1,Islam Channel UK
-http://clientportal.link:8080/live/cran/cran/15030.ts
-#EXTINF:-1,JML Direct UK
-http://clientportal.link:8080/live/cran/cran/14830.ts
-#EXTINF:-1,Kerrang! TV UK
-http://clientportal.link:8080/live/cran/cran/12353.ts
-#EXTINF:-1,Kiss UK
-http://clientportal.link:8080/live/cran/cran/1952.ts
-#EXTINF:-1,Kix +1 UK
-http://clientportal.link:8080/live/cran/cran/14875.ts
-#EXTINF:-1,Kix UK
-http://clientportal.link:8080/live/cran/cran/14876.ts
-#EXTINF:-1,Lifetime +1 UK
-http://clientportal.link:8080/live/cran/cran/14940.ts
-#EXTINF:-1,Lifetime UK
-http://clientportal.link:8080/live/cran/cran/14759.ts
-#EXTINF:-1,Liverpool FC TV UK
-http://clientportal.link:8080/live/cran/cran/3568.ts
-#EXTINF:-1,London Live UK
-http://clientportal.link:8080/live/cran/cran/14958.ts
-#EXTINF:-1,MATV National UK
-http://clientportal.link:8080/live/cran/cran/15029.ts
-#EXTINF:-1,MTV +1 UK
-http://clientportal.link:8080/live/cran/cran/14768.ts
-#EXTINF:-1,MTV Base UK
-http://clientportal.link:8080/live/cran/cran/7319.ts
-#EXTINF:-1,MTV Classic UK
-http://clientportal.link:8080/live/cran/cran/7320.ts
-#EXTINF:-1,MTV Dance UK
-http://clientportal.link:8080/live/cran/cran/7318.ts
-#EXTINF:-1,MTV Hits UK
-http://clientportal.link:8080/live/cran/cran/7317.ts
-#EXTINF:-1,MTV Music +1 UK
-http://clientportal.link:8080/live/cran/cran/14767.ts
-#EXTINF:-1,MTV Music UK
-http://clientportal.link:8080/live/cran/cran/7316.ts
-#EXTINF:-1,MTV Rocks UK
-http://clientportal.link:8080/live/cran/cran/7315.ts
-#EXTINF:-1,MTV UK
-http://clientportal.link:8080/live/cran/cran/2670.ts
-#EXTINF:-1,MUTV HD UK
-http://clientportal.link:8080/live/cran/cran/2655.ts
-#EXTINF:-1,MUTV UK
-http://clientportal.link:8080/live/cran/cran/14939.ts
-#EXTINF:-1,Madani Channel UK
-http://clientportal.link:8080/live/cran/cran/14957.ts
-#EXTINF:-1,Made In Bristol UK
-http://clientportal.link:8080/live/cran/cran/14874.ts
-#EXTINF:-1,Made In Leeds UK
-http://clientportal.link:8080/live/cran/cran/14873.ts
-#EXTINF:-1,Made In Tn&Wr UK
-http://clientportal.link:8080/live/cran/cran/14956.ts
-#EXTINF:-1,Magic UK
-http://clientportal.link:8080/live/cran/cran/14872.ts
-#EXTINF:-1,More4 +1 UK
-http://clientportal.link:8080/live/cran/cran/14871.ts
-#EXTINF:-1,More4 UK
-http://clientportal.link:8080/live/cran/cran/4000.ts
-#EXTINF:-1,Motors TV UK
-http://clientportal.link:8080/live/cran/cran/4009.ts
-#EXTINF:-1,Movies 24 UK
-http://clientportal.link:8080/live/cran/cran/14797.ts
-#EXTINF:-1,Movies4Men UK
-http://clientportal.link:8080/live/cran/cran/1971.ts
-#EXTINF:-1,My Channel UK
-http://clientportal.link:8080/live/cran/cran/15027.ts
-#EXTINF:-1,My5 UK
-http://clientportal.link:8080/live/cran/cran/14709.ts
-#EXTINF:-1,NOW Music UK
-http://clientportal.link:8080/live/cran/cran/15024.ts
-#EXTINF:-1,Nat Geo +1 UK
-http://clientportal.link:8080/live/cran/cran/14938.ts
-#EXTINF:-1,Nat Geo Wild UK
-http://clientportal.link:8080/live/cran/cran/1968.ts
-#EXTINF:-1,National Geographic UK
-http://clientportal.link:8080/live/cran/cran/3561.ts
-#EXTINF:-1,News18 UK
-http://clientportal.link:8080/live/cran/cran/15026.ts
-#EXTINF:-1,Nick Jr +1 UK
-http://clientportal.link:8080/live/cran/cran/14829.ts
-#EXTINF:-1,Nick Jr Peppa UK
-http://clientportal.link:8080/live/cran/cran/14828.ts
-#EXTINF:-1,Nick Jr. UK
-http://clientportal.link:8080/live/cran/cran/2669.ts
-#EXTINF:-1,Nickelodeon +1 UK
-http://clientportal.link:8080/live/cran/cran/14937.ts
-#EXTINF:-1,Nickelodeon UK
-http://clientportal.link:8080/live/cran/cran/14825.ts
-#EXTINF:-1,Nicktoons UK
-http://clientportal.link:8080/live/cran/cran/14824.ts
-#EXTINF:-1,Noor TV UK
-http://clientportal.link:8080/live/cran/cran/15025.ts
-#EXTINF:-1,Notts TV UK
-http://clientportal.link:8080/live/cran/cran/14955.ts
-#EXTINF:-1,Oireachtas TV UK
-http://clientportal.link:8080/live/cran/cran/14936.ts
-#EXTINF:-1,Olive TV UK
-http://clientportal.link:8080/live/cran/cran/14796.ts
-#EXTINF:-1,Ove World Tv UK
-http://clientportal.link:8080/live/cran/cran/14772.ts
-#EXTINF:-1,PBS America UK
-http://clientportal.link:8080/live/cran/cran/14870.ts
-#EXTINF:-1,PCNE Chinese UK
-http://clientportal.link:8080/live/cran/cran/15023.ts
-#EXTINF:-1,POP +1 UK
-http://clientportal.link:8080/live/cran/cran/14868.ts
-#EXTINF:-1,POP MAX UK
-http://clientportal.link:8080/live/cran/cran/14867.ts
-#EXTINF:-1,POP UK
-http://clientportal.link:8080/live/cran/cran/14869.ts
-#EXTINF:-1,PREMIER 1 UK (match time)
-http://clientportal.link:8080/live/cran/cran/13087.ts
-#EXTINF:-1,PREMIER 2 UK (match time)
-http://clientportal.link:8080/live/cran/cran/13088.ts
-#EXTINF:-1,PREMIER 3 UK (match time)
-http://clientportal.link:8080/live/cran/cran/13089.ts
-#EXTINF:-1,PREMIER 4 UK (match time)
-http://clientportal.link:8080/live/cran/cran/13090.ts
-#EXTINF:-1,PTC PUNJABI UK
-http://clientportal.link:8080/live/cran/cran/15020.ts
-#EXTINF:-1,Pick +1  UK
-http://clientportal.link:8080/live/cran/cran/14758.ts
-#EXTINF:-1,Pick UK
-http://clientportal.link:8080/live/cran/cran/3958.ts
-#EXTINF:-1,Premier HD UK
-http://clientportal.link:8080/live/cran/cran/1981.ts
-#EXTINF:-1,Premier Sports UK
-http://clientportal.link:8080/live/cran/cran/3584.ts
-#EXTINF:-1,Psychic Today UK
-http://clientportal.link:8080/live/cran/cran/14771.ts
-#EXTINF:-1,QUEST +1 UK
-http://clientportal.link:8080/live/cran/cran/14823.ts
-#EXTINF:-1,QUEST UK
-http://clientportal.link:8080/live/cran/cran/3959.ts
-#EXTINF:-1,QVC UK
-http://clientportal.link:8080/live/cran/cran/14935.ts
-#EXTINF:-1,ROK UK
-http://clientportal.link:8080/live/cran/cran/14954.ts
-#EXTINF:-1,RT HD UK
-http://clientportal.link:8080/live/cran/cran/3923.ts
-#EXTINF:-1,RT UK
-http://clientportal.link:8080/live/cran/cran/14821.ts
-#EXTINF:-1,RT. One +1 UK
-http://clientportal.link:8080/live/cran/cran/14929.ts
-#EXTINF:-1,RT. One UK
-http://clientportal.link:8080/live/cran/cran/14930.ts
-#EXTINF:-1,RT.2 UK
-http://clientportal.link:8080/live/cran/cran/14928.ts
-#EXTINF:-1,RT.jr UK
-http://clientportal.link:8080/live/cran/cran/14927.ts
-#EXTINF:-1,RTÉ News Now UK
-http://clientportal.link:8080/live/cran/cran/11423.ts
-#EXTINF:-1,RTÉ One UK
-http://clientportal.link:8080/live/cran/cran/1966.ts
-#EXTINF:-1,RTÉ2 UK
-http://clientportal.link:8080/live/cran/cran/1967.ts
-#EXTINF:-1,Racing UK
-http://clientportal.link:8080/live/cran/cran/3585.ts
-#EXTINF:-1,Racing UK HD UK
-http://clientportal.link:8080/live/cran/cran/15019.ts
-#EXTINF:-1,Real Lives +1 UK
-http://clientportal.link:8080/live/cran/cran/14931.ts
-#EXTINF:-1,Real Lives UK
-http://clientportal.link:8080/live/cran/cran/11430.ts
-#EXTINF:-1,Really UK
-http://clientportal.link:8080/live/cran/cran/3947.ts
-#EXTINF:-1,Retail TV UK
-http://clientportal.link:8080/live/cran/cran/14822.ts
-#EXTINF:-1,RishteyCine UK
-http://clientportal.link:8080/live/cran/cran/15017.ts
-#EXTINF:-1,Rocks & Co 1 UK
-http://clientportal.link:8080/live/cran/cran/15016.ts
-#EXTINF:-1,SKY SPORTS 1 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14651.ts
-#EXTINF:-1,SKY SPORTS 2 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14652.ts
-#EXTINF:-1,SKY SPORTS 3 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14653.ts
-#EXTINF:-1,SKY SPORTS 4 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14654.ts
-#EXTINF:-1,SKY SPORTS 5 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14655.ts
-#EXTINF:-1,SKY SPORTS F1 HD 1080P UK
-http://clientportal.link:8080/live/cran/cran/14656.ts
-#EXTINF:-1,SONY SAB UK
-http://clientportal.link:8080/live/cran/cran/14820.ts
-#EXTINF:-1,STV East UK
-http://clientportal.link:8080/live/cran/cran/14708.ts
-#EXTINF:-1,STV East+1 UK
-http://clientportal.link:8080/live/cran/cran/14707.ts
-#EXTINF:-1,STV Edinburgh UK
-http://clientportal.link:8080/live/cran/cran/14953.ts
-#EXTINF:-1,STV Glasgow UK
-http://clientportal.link:8080/live/cran/cran/14952.ts
-#EXTINF:-1,STV North UK
-http://clientportal.link:8080/live/cran/cran/14706.ts
-#EXTINF:-1,STV West UK
-http://clientportal.link:8080/live/cran/cran/14705.ts
-#EXTINF:-1,Safeer TV UK
-http://clientportal.link:8080/live/cran/cran/14793.ts
-#EXTINF:-1,Sangat UK
-http://clientportal.link:8080/live/cran/cran/15015.ts
-#EXTINF:-1,Scuzz UK
-http://clientportal.link:8080/live/cran/cran/14866.ts
-#EXTINF:-1,Setanta UK
-http://clientportal.link:8080/live/cran/cran/13093.ts
-#EXTINF:-1,Showcase 3 UK
-http://clientportal.link:8080/live/cran/cran/14792.ts
-#EXTINF:-1,Showcase UK
-http://clientportal.link:8080/live/cran/cran/15014.ts
-#EXTINF:-1,Sky 1 UK
-http://clientportal.link:8080/live/cran/cran/3571.ts
-#EXTINF:-1,Sky 2 UK
-http://clientportal.link:8080/live/cran/cran/3573.ts
-#EXTINF:-1,Sky Arts UK
-http://clientportal.link:8080/live/cran/cran/1963.ts
-#EXTINF:-1,Sky Atlantic UK
-http://clientportal.link:8080/live/cran/cran/3562.ts
-#EXTINF:-1,Sky Christmas UK
-http://clientportal.link:8080/live/cran/cran/15047.ts
-#EXTINF:-1,Sky Hits  UK
-http://clientportal.link:8080/live/cran/cran/14755.ts
-#EXTINF:-1,Sky Living UK
-http://clientportal.link:8080/live/cran/cran/3567.ts
-#EXTINF:-1,Sky Movies Action & Adventure HD UK
-http://clientportal.link:8080/live/cran/cran/1961.ts
-#EXTINF:-1,Sky Movies Action & Adventure UK
-http://clientportal.link:8080/live/cran/cran/3559.ts
-#EXTINF:-1,Sky Movies Comedy  UK
-http://clientportal.link:8080/live/cran/cran/3563.ts
-#EXTINF:-1,Sky Movies Crime & Thriller UK
-http://clientportal.link:8080/live/cran/cran/1955.ts
-#EXTINF:-1,Sky Movies Disney UK
-http://clientportal.link:8080/live/cran/cran/3927.ts
-#EXTINF:-1,Sky Movies Drama & Romance  UK
-http://clientportal.link:8080/live/cran/cran/1960.ts
-#EXTINF:-1,Sky Movies Family UK
-http://clientportal.link:8080/live/cran/cran/3566.ts
-#EXTINF:-1,Sky Movies Family  UK
-http://clientportal.link:8080/live/cran/cran/3926.ts
-#EXTINF:-1,Sky Movies Greats UK
-http://clientportal.link:8080/live/cran/cran/1959.ts
-#EXTINF:-1,Sky Movies Premiere UK
-http://clientportal.link:8080/live/cran/cran/1958.ts
-#EXTINF:-1,Sky Movies Sci-Fi & Horror HD uk
-http://clientportal.link:8080/live/cran/cran/1957.ts
-#EXTINF:-1,Sky Movies Select UK
-http://clientportal.link:8080/live/cran/cran/14765.ts
-#EXTINF:-1,Sky News UK
-http://clientportal.link:8080/live/cran/cran/3570.ts
-#EXTINF:-1,Sky Premier +1 UK
-http://clientportal.link:8080/live/cran/cran/14766.ts
-#EXTINF:-1,Sky Sports 1 (a) UK
-http://clientportal.link:8080/live/cran/cran/14753.ts
-#EXTINF:-1,Sky Sports 1 (b) UK
-http://clientportal.link:8080/live/cran/cran/14752.ts
-#EXTINF:-1,Sky Sports 1 (c) UK
-http://clientportal.link:8080/live/cran/cran/14751.ts
-#EXTINF:-1,Sky Sports 1 HD UK
-http://clientportal.link:8080/live/cran/cran/5600.ts
-#EXTINF:-1,Sky Sports 1 UK
-http://clientportal.link:8080/live/cran/cran/3593.ts
-#EXTINF:-1,Sky Sports 2 (a) UK
-http://clientportal.link:8080/live/cran/cran/14750.ts
-#EXTINF:-1,Sky Sports 2 (b) UK
-http://clientportal.link:8080/live/cran/cran/14749.ts
-#EXTINF:-1,Sky Sports 2 (c) UK
-http://clientportal.link:8080/live/cran/cran/14748.ts
-#EXTINF:-1,Sky Sports 2 HD UK
-http://clientportal.link:8080/live/cran/cran/5601.ts
-#EXTINF:-1,Sky Sports 2 UK
-http://clientportal.link:8080/live/cran/cran/3595.ts
-#EXTINF:-1,Sky Sports 3 (a) UK
-http://clientportal.link:8080/live/cran/cran/14747.ts
-#EXTINF:-1,Sky Sports 3 (b) UK
-http://clientportal.link:8080/live/cran/cran/14746.ts
-#EXTINF:-1,Sky Sports 3 (c) UK
-http://clientportal.link:8080/live/cran/cran/14745.ts
-#EXTINF:-1,Sky Sports 3 HD UK
-http://clientportal.link:8080/live/cran/cran/3598.ts
-#EXTINF:-1,Sky Sports 3 UK
-http://clientportal.link:8080/live/cran/cran/3597.ts
-#EXTINF:-1,Sky Sports 4 (a) UK
-http://clientportal.link:8080/live/cran/cran/14744.ts
-#EXTINF:-1,Sky Sports 4 (b) UK
-http://clientportal.link:8080/live/cran/cran/14743.ts
-#EXTINF:-1,Sky Sports 4 HD UK
-http://clientportal.link:8080/live/cran/cran/3600.ts
-#EXTINF:-1,Sky Sports 4 UK
-http://clientportal.link:8080/live/cran/cran/3599.ts
-#EXTINF:-1,Sky Sports 5 (a) UK
-http://clientportal.link:8080/live/cran/cran/14742.ts
-#EXTINF:-1,Sky Sports 5 (b) UK
-http://clientportal.link:8080/live/cran/cran/14741.ts
-#EXTINF:-1,Sky Sports 5 (c) UK
-http://clientportal.link:8080/live/cran/cran/14740.ts
-#EXTINF:-1,Sky Sports 5 HD UK
-http://clientportal.link:8080/live/cran/cran/4458.ts
-#EXTINF:-1,Sky Sports 5 UK
-http://clientportal.link:8080/live/cran/cran/3601.ts
-#EXTINF:-1,Sky Sports Box Office  UK
-http://clientportal.link:8080/live/cran/cran/14756.ts
-#EXTINF:-1,Sky Sports F1 (a) UK
-http://clientportal.link:8080/live/cran/cran/14739.ts
-#EXTINF:-1,Sky Sports F1 HD UK
-http://clientportal.link:8080/live/cran/cran/3603.ts
-#EXTINF:-1,Sky Sports F1 UK
-http://clientportal.link:8080/live/cran/cran/3602.ts
-#EXTINF:-1,Sky Sports Mix HD UK
-http://clientportal.link:8080/live/cran/cran/14902.ts
-#EXTINF:-1,Sky Sports Mix UK
-http://clientportal.link:8080/live/cran/cran/14926.ts
-#EXTINF:-1,Sky Sports News HD UK
-http://clientportal.link:8080/live/cran/cran/1954.ts
-#EXTINF:-1,Sky1 +1 UK
-http://clientportal.link:8080/live/cran/cran/14738.ts
-#EXTINF:-1,Sky2 (a) UK
-http://clientportal.link:8080/live/cran/cran/14737.ts
-#EXTINF:-1,SkyNws Arabia UK
-http://clientportal.link:8080/live/cran/cran/14925.ts
-#EXTINF:-1,SonLife UK
-http://clientportal.link:8080/live/cran/cran/15013.ts
-#EXTINF:-1,Sony Channel +1 UK
-http://clientportal.link:8080/live/cran/cran/14791.ts
-#EXTINF:-1,Sony Channel UK
-http://clientportal.link:8080/live/cran/cran/12349.ts
-#EXTINF:-1,Sony Movies +1 UK
-http://clientportal.link:8080/live/cran/cran/14789.ts
-#EXTINF:-1,Sony Movies UK
-http://clientportal.link:8080/live/cran/cran/14790.ts
-#EXTINF:-1,Spike UK
-http://clientportal.link:8080/live/cran/cran/11428.ts
-#EXTINF:-1,Star Gold UK
-http://clientportal.link:8080/live/cran/cran/12351.ts
-#EXTINF:-1,Star Jalsha UK
-http://clientportal.link:8080/live/cran/cran/12352.ts
-#EXTINF:-1,Star Life OK UK
-http://clientportal.link:8080/live/cran/cran/12350.ts
-#EXTINF:-1,Star Plus UK
-http://clientportal.link:8080/live/cran/cran/14788.ts
-#EXTINF:-1,Star Utsav UK
-http://clientportal.link:8080/live/cran/cran/14787.ts
-#EXTINF:-1,Starz TV UK
-http://clientportal.link:8080/live/cran/cran/14865.ts
-#EXTINF:-1,Syfy +1  UK
-http://clientportal.link:8080/live/cran/cran/14786.ts
-#EXTINF:-1,Syfy UK
-http://clientportal.link:8080/live/cran/cran/3939.ts
-#EXTINF:-1,TBN UK UK
-http://clientportal.link:8080/live/cran/cran/15008.ts
-#EXTINF:-1,TCM +1  UK
-http://clientportal.link:8080/live/cran/cran/14785.ts
-#EXTINF:-1,TCM UK
-http://clientportal.link:8080/live/cran/cran/14736.ts
-#EXTINF:-1,TG4 UK
-http://clientportal.link:8080/live/cran/cran/4005.ts
-#EXTINF:-1,TJC Choice UK
-http://clientportal.link:8080/live/cran/cran/15005.ts
-#EXTINF:-1,TJC UK
-http://clientportal.link:8080/live/cran/cran/15006.ts
-#EXTINF:-1,TLC +1 UK
-http://clientportal.link:8080/live/cran/cran/14819.ts
-#EXTINF:-1,TLC Europe UK
-http://clientportal.link:8080/live/cran/cran/15501.ts
-#EXTINF:-1,TLC Ireland UK
-http://clientportal.link:8080/live/cran/cran/14764.ts
-#EXTINF:-1,TLC UK
-http://clientportal.link:8080/live/cran/cran/4027.ts
-#EXTINF:-1,TV One UK
-http://clientportal.link:8080/live/cran/cran/15059.ts
-#EXTINF:-1,TV Warehouse UK
-http://clientportal.link:8080/live/cran/cran/14816.ts
-#EXTINF:-1,TV3 +1 UK
-http://clientportal.link:8080/live/cran/cran/14924.ts
-#EXTINF:-1,TV3 UK
-http://clientportal.link:8080/live/cran/cran/14735.ts
-#EXTINF:-1,TVC News +1 UK
-http://clientportal.link:8080/live/cran/cran/14949.ts
-#EXTINF:-1,TVC News UK
-http://clientportal.link:8080/live/cran/cran/14950.ts
-#EXTINF:-1,Takbeer TV UK
-http://clientportal.link:8080/live/cran/cran/15009.ts
-#EXTINF:-1,Thane UK
-http://clientportal.link:8080/live/cran/cran/15007.ts
-#EXTINF:-1,The Vault UK
-http://clientportal.link:8080/live/cran/cran/14864.ts
-#EXTINF:-1,Times Now UK
-http://clientportal.link:8080/live/cran/cran/14951.ts
-#EXTINF:-1,Tiny Pop UK
-http://clientportal.link:8080/live/cran/cran/9898.ts
-#EXTINF:-1,Travel Channel +1 UK
-http://clientportal.link:8080/live/cran/cran/14784.ts
-#EXTINF:-1,Travel Channel UK
-http://clientportal.link:8080/live/cran/cran/14818.ts
-#EXTINF:-1,Tristar UK
-http://clientportal.link:8080/live/cran/cran/14817.ts
-#EXTINF:-1,Tru TV 1 UK
-http://clientportal.link:8080/live/cran/cran/14863.ts
-#EXTINF:-1,True Christmas +1 UK
-http://clientportal.link:8080/live/cran/cran/14857.ts
-#EXTINF:-1,True Christmas UK
-http://clientportal.link:8080/live/cran/cran/14862.ts
-#EXTINF:-1,True Crime +1 UK
-http://clientportal.link:8080/live/cran/cran/14860.ts
-#EXTINF:-1,True Crime UK
-http://clientportal.link:8080/live/cran/cran/14861.ts
-#EXTINF:-1,True Ent +1 UK
-http://clientportal.link:8080/live/cran/cran/14858.ts
-#EXTINF:-1,True Ent UK
-http://clientportal.link:8080/live/cran/cran/14859.ts
-#EXTINF:-1,True Movies 1 UK
-http://clientportal.link:8080/live/cran/cran/2661.ts
-#EXTINF:-1,True Movies 2 UK
-http://clientportal.link:8080/live/cran/cran/2662.ts
-#EXTINF:-1,UTV Ireland UK
-http://clientportal.link:8080/live/cran/cran/11426.ts
-#EXTINF:-1,UTV UK
-http://clientportal.link:8080/live/cran/cran/14704.ts
-#EXTINF:-1,Ummah CH UK
-http://clientportal.link:8080/live/cran/cran/15003.ts
-#EXTINF:-1,Universal +1  UK
-http://clientportal.link:8080/live/cran/cran/14782.ts
-#EXTINF:-1,Universal Ireland UK
-http://clientportal.link:8080/live/cran/cran/14781.ts
-#EXTINF:-1,Universal UK
-http://clientportal.link:8080/live/cran/cran/14783.ts
-#EXTINF:-1,V Channel UK
-http://clientportal.link:8080/live/cran/cran/14948.ts
-#EXTINF:-1,VH1 UK
-http://clientportal.link:8080/live/cran/cran/3943.ts
-#EXTINF:-1,VICELAND UK
-http://clientportal.link:8080/live/cran/cran/14923.ts
-#EXTINF:-1,Venus TV UK
-http://clientportal.link:8080/live/cran/cran/14947.ts
-#EXTINF:-1,ViVa UK
-http://clientportal.link:8080/live/cran/cran/7322.ts
-#EXTINF:-1,Vintage TV UK
-http://clientportal.link:8080/live/cran/cran/14780.ts
-#EXTINF:-1,W +1 UK
-http://clientportal.link:8080/live/cran/cran/14815.ts
-#EXTINF:-1,W Ireland UK
-http://clientportal.link:8080/live/cran/cran/11427.ts
-#EXTINF:-1,W UK
-http://clientportal.link:8080/live/cran/cran/14946.ts
-#EXTINF:-1,YESTERDAY +1 UK
-http://clientportal.link:8080/live/cran/cran/14814.ts
-#EXTINF:-1,Yesterday UK
-http://clientportal.link:8080/live/cran/cran/3962.ts
-#EXTINF:-1,YourTV UK
-http://clientportal.link:8080/live/cran/cran/14856.ts
-#EXTINF:-1,alibi +1 UK
-http://clientportal.link:8080/live/cran/cran/14851.ts
-#EXTINF:-1,eir Sport 1 UK
-http://clientportal.link:8080/live/cran/cran/12343.ts
-#EXTINF:-1,eir Sport 2 UK
-http://clientportal.link:8080/live/cran/cran/12344.ts
-#EXTINF:-1,euronews UK
-http://clientportal.link:8080/live/cran/cran/14964.ts
-#EXTINF:-1,mov4men +1 UK
-http://clientportal.link:8080/live/cran/cran/14798.ts
-#EXTINF:-1,revelation UK
-http://clientportal.link:8080/live/cran/cran/15018.ts
-#EXTINF:-1,mta-muslim tv UK
-http://clientportal.link:8080/live/cran/cran/15028.ts
-#EXTINF:-1,▬ Premier League ▬
-http://clientportal.link:8080/live/cran/cran/16402.ts
-#EXTINF:-1,Sky Net Sports UK
-http://clientportal.link:8080/live/cran/cran/13515.ts
-#EXTINF:-1,Sky Net Sports 1 UK
-http://clientportal.link:8080/live/cran/cran/13514.ts
-#EXTINF:-1,Sky Net Sports 2 UK
-http://clientportal.link:8080/live/cran/cran/10919.ts
-#EXTINF:-1,Sky Net Sports 3 UK
-http://clientportal.link:8080/live/cran/cran/10918.ts
-#EXTINF:-1,Sky Net Sports 4 UK
-http://clientportal.link:8080/live/cran/cran/10917.ts
-#EXTINF:-1,Sky Net Sports 5 UK
-http://clientportal.link:8080/live/cran/cran/10916.ts
-#EXTINF:-1,Sky Net Sports 6 UK
-http://clientportal.link:8080/live/cran/cran/10915.ts
-#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8403.ts
-#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8404.ts
-#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8405.ts
-#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8406.ts
-#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8407.ts
-#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL) UK
-http://clientportal.link:8080/live/cran/cran/8408.ts
-#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK
-http://clientportal.link:8080/live/cran/cran/8409.ts
+
+
+
+
+
+
+#EXTINF:-1,USA: NFL Now
+http://ksportiptv.com:1557/live/123/123/4145.ts
+#EXTINF:-1,USA: NFL Network HD
+http://ksportiptv.com:1557/live/123/123/2391.ts
+#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
+http://ksportiptv.com:1557/live/123/123/4232.ts
+#EXTINF:-1,USA: ESPN
+http://ksportiptv.com:1557/live/123/123/4140.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://ksportiptv.com:1557/live/123/123/4290.ts
+#EXTINF:-1,USA: ESPN 3 TRE
+http://ksportiptv.com:1557/live/123/123/4681.ts
+#EXTINF:-1,USA: ESPN NEWS
+http://ksportiptv.com:1557/live/123/123/4724.ts
+#EXTINF:-1,USA: BT SPORT | ESPN
+http://ksportiptv.com:1557/live/123/123/4231.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://ksportiptv.com:1557/live/123/123/4229.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE
+http://ksportiptv.com:1557/live/123/123/4228.ts
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://ksportiptv.com:1557/live/123/123/4233.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://ksportiptv.com:1557/live/123/123/4227.ts
+#EXTINF:-1,USA: WEATHERNATION
+http://ksportiptv.com:1557/live/123/123/4691.ts
+#EXTINF:-1,USA: CBS HD-US
+http://ksportiptv.com:1557/live/123/123/4658.ts
+#EXTINF:-1,USA: WWE Network
+http://ksportiptv.com:1557/live/123/123/2424.ts
+#EXTINF:-1,USA: TRAVEL CHANNEL
+http://ksportiptv.com:1557/live/123/123/4230.ts
+#EXTINF:-1,USA: Versus | NBA
+http://ksportiptv.com:1557/live/123/123/2426.ts
+#EXTINF:-1,USA: TLC
+http://ksportiptv.com:1557/live/123/123/2427.ts
+#EXTINF:-1,USA: TBS HD
+http://ksportiptv.com:1557/live/123/123/2380.ts
+#EXTINF:-1,USA: HISTORY HD
+http://ksportiptv.com:1557/live/123/123/4130.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://ksportiptv.com:1557/live/123/123/4129.ts
+#EXTINF:-1,USA: MTV LIVE HD
+http://ksportiptv.com:1557/live/123/123/4128.ts
+#EXTINF:-1,USA: NAT GEO HD
+http://ksportiptv.com:1557/live/123/123/4144.ts
+#EXTINF:-1,USA: MTV LIVE USA
+http://ksportiptv.com:1557/live/123/123/6941.ts
+#EXTINF:-1,USA: MTV HD
+http://ksportiptv.com:1557/live/123/123/4127.ts
+#EXTINF:-1,USA: SPIKE TV
+http://ksportiptv.com:1557/live/123/123/4142.ts
+#EXTINF:-1,USA: CBS News
+http://ksportiptv.com:1557/live/123/123/4141.ts
+#EXTINF:-1,USA: AMC
+http://ksportiptv.com:1557/live/123/123/4138.ts
+#EXTINF:-1,USA: USA Network
+http://ksportiptv.com:1557/live/123/123/4292.ts
+#EXTINF:-1,USA: CW 11 HD
+http://ksportiptv.com:1557/live/123/123/4291.ts
+#EXTINF:-1,USA: T.N.T
+http://ksportiptv.com:1557/live/123/123/4139.ts
+#EXTINF:-1,USA: TBS
+http://ksportiptv.com:1557/live/123/123/4143.ts
+#EXTINF:-1,USA: CNN HD
+http://ksportiptv.com:1557/live/123/123/2406.ts
+#EXTINF:-1,USA: CNN
+http://ksportiptv.com:1557/live/123/123/2454.ts
+#EXTINF:-1,USA: CNN HD INTERNATIONAL
+http://ksportiptv.com:1557/live/123/123/2423.ts
+#EXTINF:-1,USA: EURO NEWS
+http://ksportiptv.com:1557/live/123/123/4692.ts
+#EXTINF:-1,USA: FOX NY
+http://ksportiptv.com:1557/live/123/123/4286.ts
+#EXTINF:-1,USA: BLOOMBERG TV
+http://ksportiptv.com:1557/live/123/123/4683.ts
+#EXTINF:-1,USA: Astro Sports 4
+http://ksportiptv.com:1557/live/123/123/4287.ts
+#EXTINF:-1,USA: Astro Sports 3
+http://ksportiptv.com:1557/live/123/123/4288.ts
+#EXTINF:-1,USA: Astro Sports 2
+http://ksportiptv.com:1557/live/123/123/4289.ts
+#EXTINF:-1,USA: Starz West
+http://ksportiptv.com:1557/live/123/123/2381.ts
+#EXTINF:-1,USA: GRIT TV MOVIES
+http://ksportiptv.com:1557/live/123/123/2383.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://ksportiptv.com:1557/live/123/123/2384.ts
+#EXTINF:-1,USA: Starz East
+http://ksportiptv.com:1557/live/123/123/2385.ts
+#EXTINF:-1,USA: Starz Comedy
+http://ksportiptv.com:1557/live/123/123/2386.ts
+#EXTINF:-1,USA: Starz Cinema
+http://ksportiptv.com:1557/live/123/123/2387.ts
+#EXTINF:-1,USA: SportsNet One HD
+http://ksportiptv.com:1557/live/123/123/2388.ts
+#EXTINF:-1,USA: Showtime HDTV
+http://ksportiptv.com:1557/live/123/123/2390.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://ksportiptv.com:1557/live/123/123/2389.ts
+#EXTINF:-1,USA: NBC HD
+http://ksportiptv.com:1557/live/123/123/2440.ts
+#EXTINF:-1,USA: NBCSN HD
+http://ksportiptv.com:1557/live/123/123/2392.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2439.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2438.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2437.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2436.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2435.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2434.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://ksportiptv.com:1557/live/123/123/2433.ts
+#EXTINF:-1,VIP:|USA: * NBA TV LEAGUE PASS LIVE DURING GAMES ONLY *
+http://ksportiptv.com:1557/live/123/123/8441.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 1
+http://ksportiptv.com:1557/live/123/123/8440.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 2
+http://ksportiptv.com:1557/live/123/123/8439.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 3
+http://ksportiptv.com:1557/live/123/123/8438.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 4
+http://ksportiptv.com:1557/live/123/123/8437.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 5
+http://ksportiptv.com:1557/live/123/123/8436.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 6
+http://ksportiptv.com:1557/live/123/123/8435.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 7
+http://ksportiptv.com:1557/live/123/123/8434.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 8
+http://ksportiptv.com:1557/live/123/123/8433.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 9
+http://ksportiptv.com:1557/live/123/123/8432.ts
+#EXTINF:-1,VIP:|USA: NBA LEAGUE PASS 10
+http://ksportiptv.com:1557/live/123/123/8431.ts
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://ksportiptv.com:1557/live/123/123/2393.ts
+#EXTINF:-1,USA: MLB HD
+http://ksportiptv.com:1557/live/123/123/2395.ts
+#EXTINF:-1,USA: Music Choice RAP
+http://ksportiptv.com:1557/live/123/123/8839.ts
+#EXTINF:-1,USA: Music Choice Rap2k
+http://ksportiptv.com:1557/live/123/123/8840.ts
+#EXTINF:-1,USA: LIFE TIME
+http://ksportiptv.com:1557/live/123/123/2396.ts
+#EXTINF:-1,USA: DISNEY JR HD
+http://ksportiptv.com:1557/live/123/123/2397.ts
+#EXTINF:-1,USA: HBO ZONE
+http://ksportiptv.com:1557/live/123/123/2445.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://ksportiptv.com:1557/live/123/123/2398.ts
+#EXTINF:-1,USA: HBO HD
+http://ksportiptv.com:1557/live/123/123/2447.ts
+#EXTINF:-1,USA: HBO 2 COMEDY
+http://ksportiptv.com:1557/live/123/123/2399.ts
+#EXTINF:-1,USA: HALLMARK HD
+http://ksportiptv.com:1557/live/123/123/2400.ts
+#EXTINF:-1,USA: NBA TV
+http://ksportiptv.com:1557/live/123/123/2449.ts
+#EXTINF:-1,USA: FX HD
+http://ksportiptv.com:1557/live/123/123/2401.ts
+#EXTINF:-1,USA: Fox News
+http://ksportiptv.com:1557/live/123/123/2403.ts
+#EXTINF:-1,USA: Fight Sport 1
+http://ksportiptv.com:1557/live/123/123/2450.ts
+#EXTINF:-1,USA: Starz Encore East
+http://ksportiptv.com:1557/live/123/123/2404.ts
+#EXTINF:-1,USA: Starz Encore HD
+http://ksportiptv.com:1557/live/123/123/2405.ts
+#EXTINF:-1,USA: Fight Sport 2
+http://ksportiptv.com:1557/live/123/123/2453.ts
+#EXTINF:-1,USA: CITY HD
+http://ksportiptv.com:1557/live/123/123/2407.ts
+#EXTINF:-1,USA: Cinemax East
+http://ksportiptv.com:1557/live/123/123/2408.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://ksportiptv.com:1557/live/123/123/2409.ts
+#EXTINF:-1,USA: MOVIETIME
+http://ksportiptv.com:1557/live/123/123/4679.ts
+#EXTINF:-1,USA: CW Channel 11
+http://ksportiptv.com:1557/live/123/123/2455.ts
+#EXTINF:-1,USA: CBSN News
+http://ksportiptv.com:1557/live/123/123/2457.ts
+#EXTINF:-1,USA: FOX SPORTS TWO HD
+http://ksportiptv.com:1557/live/123/123/4660.ts
+#EXTINF:-1,USA: LIFETIME HD
+http://ksportiptv.com:1557/live/123/123/4680.ts
+#EXTINF:-1,USA: CAPITAL TV
+http://ksportiptv.com:1557/live/123/123/4694.ts
+#EXTINF:-1,USA: HEART TV
+http://ksportiptv.com:1557/live/123/123/4693.ts
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://ksportiptv.com:1557/live/123/123/4702.ts
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://ksportiptv.com:1557/live/123/123/4703.ts
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://ksportiptv.com:1557/live/123/123/4704.ts
+#EXTINF:-1,USA: The Weather Channel
+http://ksportiptv.com:1557/live/123/123/4695.ts
+#EXTINF:-1,USA: University of California TV
+http://ksportiptv.com:1557/live/123/123/4690.ts
+#EXTINF:-1,USA: Bravo HD
+http://ksportiptv.com:1557/live/123/123/2410.ts
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://ksportiptv.com:1557/live/123/123/4706.ts
+#EXTINF:-1,USA: A&E HD
+http://ksportiptv.com:1557/live/123/123/4707.ts
+#EXTINF:-1,USA: AL JAZEERA U.S HD
+http://ksportiptv.com:1557/live/123/123/4718.ts
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://ksportiptv.com:1557/live/123/123/4721.ts
+#EXTINF:-1,USA: BEIN SPORTS U.S.A
+http://ksportiptv.com:1557/live/123/123/4712.ts
+#EXTINF:-1,USA: NICKELODEON KIDS
+http://ksportiptv.com:1557/live/123/123/4709.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://ksportiptv.com:1557/live/123/123/4708.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://ksportiptv.com:1557/live/123/123/4713.ts
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://ksportiptv.com:1557/live/123/123/4725.ts
+#EXTINF:-1,USA: Crime & Investigation
+http://ksportiptv.com:1557/live/123/123/4717.ts
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://ksportiptv.com:1557/live/123/123/4714.ts
+#EXTINF:-1,USA: E! Network HD
+http://ksportiptv.com:1557/live/123/123/4715.ts
+#EXTINF:-1,USA: FOOD NETWORK
+http://ksportiptv.com:1557/live/123/123/4705.ts
+#EXTINF:-1,USA: NBC GOLF
+http://ksportiptv.com:1557/live/123/123/4719.ts
+#EXTINF:-1,USA: NHL NETWORK
+http://ksportiptv.com:1557/live/123/123/4723.ts
+#EXTINF:-1,USA: RT DOCUMENTARY
+http://ksportiptv.com:1557/live/123/123/4720.ts
+#EXTINF:-1,USA: SYFY HD
+http://ksportiptv.com:1557/live/123/123/4711.ts
+#EXTINF:-1,USA: TRUE MOVIES
+http://ksportiptv.com:1557/live/123/123/4722.ts
+#EXTINF:-1,USA: TV SERIES
+http://ksportiptv.com:1557/live/123/123/4710.ts
+#EXTINF:-1,USA: Big Ten Network HD
+http://ksportiptv.com:1557/live/123/123/2411.ts
+#EXTINF:-1,USA: P.B.S Kids
+http://ksportiptv.com:1557/live/123/123/4682.ts
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://ksportiptv.com:1557/live/123/123/6368.ts
+#EXTINF:-1,USA: Toon Kids
+http://ksportiptv.com:1557/live/123/123/3720.ts
+#EXTINF:-1,USA: Cinemax 5 Max
+http://ksportiptv.com:1557/live/123/123/5164.ts
+#EXTINF:-1,USA: CNBC HD
+http://ksportiptv.com:1557/live/123/123/5163.ts
+#EXTINF:-1,USA: GSN TV
+http://ksportiptv.com:1557/live/123/123/5159.ts
+#EXTINF:-1,USA: HBO Family HD
+http://ksportiptv.com:1557/live/123/123/5158.ts
+#EXTINF:-1,USA: 24/7 SOUTHPARK HD SERIES
+http://ksportiptv.com:1557/live/123/123/6356.ts
+#EXTINF:-1,USA: BOX OFFICE MOVIES
+http://ksportiptv.com:1557/live/123/123/9605.ts
+#EXTINF:-1,USA: THE WALKING DEAD
+http://ksportiptv.com:1557/live/123/123/6354.ts
+#EXTINF:-1,USA: DEPORTES HD
+http://ksportiptv.com:1557/live/123/123/6359.ts
+#EXTINF:-1,USA: FOX SOCCER SUN HD
+http://ksportiptv.com:1557/live/123/123/6358.ts
+#EXTINF:-1,USA: MSNBC HD
+http://ksportiptv.com:1557/live/123/123/6357.ts
+#EXTINF:-1,USA: HGTV HD
+http://ksportiptv.com:1557/live/123/123/5157.ts
+#EXTINF:-1,USA: NHLTV NETWORK HD
+http://ksportiptv.com:1557/live/123/123/5161.ts
+#EXTINF:-1,USA: LMN HDTV
+http://ksportiptv.com:1557/live/123/123/5156.ts
+#EXTINF:-1,USA: MY9 TV
+http://ksportiptv.com:1557/live/123/123/5155.ts
+#EXTINF:-1,USA: NFL Network HDTV 1080i
+http://ksportiptv.com:1557/live/123/123/5154.ts
+#EXTINF:-1,USA: NICK HD (kids)
+http://ksportiptv.com:1557/live/123/123/5153.ts
+#EXTINF:-1,USA: NICKTOONS
+http://ksportiptv.com:1557/live/123/123/5152.ts
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
+http://ksportiptv.com:1557/live/123/123/5151.ts
+#EXTINF:-1,USA: Showtime Extreme HD
+http://ksportiptv.com:1557/live/123/123/5150.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://ksportiptv.com:1557/live/123/123/5149.ts
+#EXTINF:-1,USA: TENNIS HD
+http://ksportiptv.com:1557/live/123/123/5148.ts
+#EXTINF:-1,USA: TRU TV
+http://ksportiptv.com:1557/live/123/123/5147.ts
+#EXTINF:-1,USA: TV SKY ONE
+http://ksportiptv.com:1557/live/123/123/5146.ts
+#EXTINF:-1,USA: VH1 HD
+http://ksportiptv.com:1557/live/123/123/5145.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://ksportiptv.com:1557/live/123/123/2416.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://ksportiptv.com:1557/live/123/123/2417.ts
+#EXTINF:-1,USA: AFN News
+http://ksportiptv.com:1557/live/123/123/2418.ts
+#EXTINF:-1,USA: AFN Movie
+http://ksportiptv.com:1557/live/123/123/2419.ts
+#EXTINF:-1,USA: Redbull TV
+http://ksportiptv.com:1557/live/123/123/8352.ts
+#EXTINF:-1,USA: AFN Family Movie
+http://ksportiptv.com:1557/live/123/123/2420.ts
+#EXTINF:-1,USA: ABC FAMILY/SPARK
+http://ksportiptv.com:1557/live/123/123/2421.ts
+#EXTINF:-1,USA: ABC
+http://ksportiptv.com:1557/live/123/123/1928.ts
+#EXTINF:-1,USA: MTV HITS LA
+http://ksportiptv.com:1557/live/123/123/7475.ts
+#EXTINF:-1,USA: ABC News
+http://ksportiptv.com:1557/live/123/123/2462.ts
+#EXTINF:-1,USA: ABC Action News
+http://ksportiptv.com:1557/live/123/123/2422.ts
+#EXTINF:-1,USA: ABC HD
+http://ksportiptv.com:1557/live/123/123/2463.ts
+#EXTINF:-1,USA: FOX MOTOSPORT
+http://ksportiptv.com:1557/live/123/123/4699.ts
+#EXTINF:-1,USA: NASA TV HD
+http://ksportiptv.com:1557/live/123/123/4697.ts
+#EXTINF:-1,USA: NASA TV MEDIA HD
+http://ksportiptv.com:1557/live/123/123/4698.ts
+#EXTINF:-1,USA: HSN YT LIVE 1080p HD
+http://ksportiptv.com:1557/live/123/123/4754.ts
+#EXTINF:-1,USA: NEWSMAX YT LIVE HD
+http://ksportiptv.com:1557/live/123/123/4755.ts
+#EXTINF:-1,USA: KIDS READING TV
+http://ksportiptv.com:1557/live/123/123/4817.ts
+#EXTINF:-1,USA: QVC Beauty IQ
+http://ksportiptv.com:1557/live/123/123/4824.ts
+#EXTINF:-1,USA: QVC Live
+http://ksportiptv.com:1557/live/123/123/4823.ts
+#EXTINF:-1,USA: QVC Plus
+http://ksportiptv.com:1557/live/123/123/4825.ts
+#EXTINF:-1,USA: Americas Auction TV
+http://ksportiptv.com:1557/live/123/123/4822.ts
+#EXTINF:-1,CA : Sportnet Pacific HD
+http://ksportiptv.com:1557/live/123/123/4020.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://ksportiptv.com:1557/live/123/123/4284.ts
+#EXTINF:-1,CA : MTV_CANADA
+http://ksportiptv.com:1557/live/123/123/4283.ts
+#EXTINF:-1,CA : HBO_CA
+http://ksportiptv.com:1557/live/123/123/4282.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://ksportiptv.com:1557/live/123/123/4281.ts
+#EXTINF:-1,CA : ABC HD
+http://ksportiptv.com:1557/live/123/123/4285.ts
+#EXTINF:-1,CA :YTV HD
+http://ksportiptv.com:1557/live/123/123/4021.ts
+#EXTINF:-1,CA: Super Ecran 1
+http://ksportiptv.com:1557/live/123/123/8899.ts
+#EXTINF:-1,CA: Super Ecran 2
+http://ksportiptv.com:1557/live/123/123/8900.ts
+#EXTINF:-1,CA: Super Ecran 3
+http://ksportiptv.com:1557/live/123/123/8901.ts
+#EXTINF:-1,CA: Super Ecran 4
+http://ksportiptv.com:1557/live/123/123/8902.ts
+#EXTINF:-1,CA : World Fishing TV
+http://ksportiptv.com:1557/live/123/123/4022.ts
+#EXTINF:-1,CA : w network
+http://ksportiptv.com:1557/live/123/123/4023.ts
+#EXTINF:-1,CA : Vrak TV HD
+http://ksportiptv.com:1557/live/123/123/4024.ts
+#EXTINF:-1,CA : tree house
+http://ksportiptv.com:1557/live/123/123/4025.ts
+#EXTINF:-1,CA : Travel Channel HD
+http://ksportiptv.com:1557/live/123/123/4026.ts
+#EXTINF:-1,CA : TMN TV
+http://ksportiptv.com:1557/live/123/123/4027.ts
+#EXTINF:-1,CA : Teletoon HD
+http://ksportiptv.com:1557/live/123/123/4028.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://ksportiptv.com:1557/live/123/123/4030.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://ksportiptv.com:1557/live/123/123/4031.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://ksportiptv.com:1557/live/123/123/4032.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://ksportiptv.com:1557/live/123/123/4034.ts
+#EXTINF:-1,CA: SportsNet 360
+http://ksportiptv.com:1557/live/123/123/8898.ts
+#EXTINF:-1,CA: SportsNet East
+http://ksportiptv.com:1557/live/123/123/8897.ts
+#EXTINF:-1,CA : Spike HD
+http://ksportiptv.com:1557/live/123/123/4035.ts
+#EXTINF:-1,CA : slice
+http://ksportiptv.com:1557/live/123/123/4036.ts
+#EXTINF:-1,CA : silver screen classics
+http://ksportiptv.com:1557/live/123/123/4037.ts
+#EXTINF:-1,CA : shopping channel
+http://ksportiptv.com:1557/live/123/123/4038.ts
+#EXTINF:-1,CA : RDS2 HD TV
+http://ksportiptv.com:1557/live/123/123/4040.ts
+#EXTINF:-1,CA : rds 2
+http://ksportiptv.com:1557/live/123/123/4041.ts
+#EXTINF:-1,CA : Peachtree HDTV
+http://ksportiptv.com:1557/live/123/123/4042.ts
+#EXTINF:-1,CA : own (oprah winfrew network)
+http://ksportiptv.com:1557/live/123/123/4043.ts
+#EXTINF:-1,CA : omni 2
+http://ksportiptv.com:1557/live/123/123/4044.ts
+#EXTINF:-1,CA : omni 1
+http://ksportiptv.com:1557/live/123/123/4045.ts
+#EXTINF:-1,CA : nick
+http://ksportiptv.com:1557/live/123/123/4047.ts
+#EXTINF:-1,CA : much music
+http://ksportiptv.com:1557/live/123/123/4048.ts
+#EXTINF:-1,CA : MTV Canada HD
+http://ksportiptv.com:1557/live/123/123/4049.ts
+#EXTINF:-1,CA : Movietime TV
+http://ksportiptv.com:1557/live/123/123/4050.ts
+#EXTINF:-1,CA : ici rdi
+http://ksportiptv.com:1557/live/123/123/4052.ts
+#EXTINF:-1,CA : ici artv
+http://ksportiptv.com:1557/live/123/123/4053.ts
+#EXTINF:-1,CA : History_HD
+http://ksportiptv.com:1557/live/123/123/4054.ts
+#EXTINF:-1,CA : gsn
+http://ksportiptv.com:1557/live/123/123/4055.ts
+#EXTINF:-1,CA : golf channel
+http://ksportiptv.com:1557/live/123/123/4056.ts
+#EXTINF:-1,CA : G4 HD
+http://ksportiptv.com:1557/live/123/123/4057.ts
+#EXTINF:-1,CA : fyi
+http://ksportiptv.com:1557/live/123/123/4058.ts
+#EXTINF:-1,CA : fxx hd
+http://ksportiptv.com:1557/live/123/123/4059.ts
+#EXTINF:-1,CA : fox news
+http://ksportiptv.com:1557/live/123/123/4060.ts
+#EXTINF:-1,CA : fox 25 hd
+http://ksportiptv.com:1557/live/123/123/4061.ts
+#EXTINF:-1,CA : E! HD
+http://ksportiptv.com:1557/live/123/123/4063.ts
+#EXTINF:-1,CA : deja view
+http://ksportiptv.com:1557/live/123/123/4064.ts
+#EXTINF:-1,CA : ctv toronto
+http://ksportiptv.com:1557/live/123/123/4065.ts
+#EXTINF:-1,CA: CP24 HD (BackUp)
+http://ksportiptv.com:1557/live/123/123/8273.ts
+#EXTINF:-1,CA : CP24 TV
+http://ksportiptv.com:1557/live/123/123/4066.ts
+#EXTINF:-1,CA : country music television
+http://ksportiptv.com:1557/live/123/123/4067.ts
+#EXTINF:-1,CA : cottage life
+http://ksportiptv.com:1557/live/123/123/4068.ts
+#EXTINF:-1,CA : Comedy Gold TV
+http://ksportiptv.com:1557/live/123/123/4069.ts
+#EXTINF:-1,CA : City TV Vancouver
+http://ksportiptv.com:1557/live/123/123/4070.ts
+#EXTINF:-1,CA : CHCH HD
+http://ksportiptv.com:1557/live/123/123/4071.ts
+#EXTINF:-1,CA : cbc toronto
+http://ksportiptv.com:1557/live/123/123/4072.ts
+#EXTINF:-1,CA/USA : CartoonNetwork
+http://ksportiptv.com:1557/live/123/123/4073.ts
+#EXTINF:-1,CA : Bnn HDTV
+http://ksportiptv.com:1557/live/123/123/4075.ts
+#EXTINF:-1,CA : Bravo HDTV
+http://ksportiptv.com:1557/live/123/123/4074.ts
+#EXTINF:-1,CA : BET -  black entertainment television
+http://ksportiptv.com:1557/live/123/123/4076.ts
+#EXTINF:-1,CA : abc spark
+http://ksportiptv.com:1557/live/123/123/4077.ts
+#EXTINF:-1,****SWEDISH TV****
+http://ksportiptv.com:1557/live/123/123/835.ts
 
 
 
@@ -1060,232 +506,299 @@ http://clientportal.link:8080/live/cran/cran/8409.ts
 
 
 
-
-
-
-#EXTINF:-1,Fox Sports South US
-http://clientportal.link:8080/live/cran/cran/13693.ts
-#EXTINF:-1,5 StarMAX US
-http://clientportal.link:8080/live/cran/cran/13681.ts
-#EXTINF:-1,ActionMAX US
-http://clientportal.link:8080/live/cran/cran/13682.ts
-#EXTINF:-1,Cinemax East US
-http://clientportal.link:8080/live/cran/cran/13680.ts
-#EXTINF:-1,Ion US
-http://clientportal.link:8080/live/cran/cran/13683.ts
-#EXTINF:-1,HBO 2 US
-http://clientportal.link:8080/live/cran/cran/13684.ts
-#EXTINF:-1,HBO HD US
-http://clientportal.link:8080/live/cran/cran/13685.ts
-#EXTINF:-1,HBO Family US
-http://clientportal.link:8080/live/cran/cran/13686.ts
-#EXTINF:-1,HGTV US
-http://clientportal.link:8080/live/cran/cran/13835.ts
-#EXTINF:-1,NBCSN Golf Channel US
-http://clientportal.link:8080/live/cran/cran/13687.ts
-#EXTINF:-1,NFL Network / Now US
-http://clientportal.link:8080/live/cran/cran/13691.ts
-#EXTINF:-1,NFL Network Now US
-http://clientportal.link:8080/live/cran/cran/13690.ts
-#EXTINF:-1,NHL Network US
-http://clientportal.link:8080/live/cran/cran/13688.ts
-#EXTINF:-1,Fox Sports West US
-http://clientportal.link:8080/live/cran/cran/13692.ts
-#EXTINF:-1,Showtime 2 US
-http://clientportal.link:8080/live/cran/cran/13667.ts
-#EXTINF:-1,Ion Life US
-http://clientportal.link:8080/live/cran/cran/13671.ts
-#EXTINF:-1,Showtime Extreme US
-http://clientportal.link:8080/live/cran/cran/13670.ts
-#EXTINF:-1,Showtime US
-http://clientportal.link:8080/live/cran/cran/13666.ts
-#EXTINF:-1,Showtime Showcase US
-http://clientportal.link:8080/live/cran/cran/13669.ts
-#EXTINF:-1,Showtime West US
-http://clientportal.link:8080/live/cran/cran/13668.ts
-#EXTINF:-1,Starz Cinema US
-http://clientportal.link:8080/live/cran/cran/13676.ts
-#EXTINF:-1,Starz Comedy US
-http://clientportal.link:8080/live/cran/cran/13675.ts
-#EXTINF:-1,Starz East US
-http://clientportal.link:8080/live/cran/cran/13679.ts
-#EXTINF:-1,Starz Edge US
-http://clientportal.link:8080/live/cran/cran/13677.ts
-#EXTINF:-1,Starz Encore US
-http://clientportal.link:8080/live/cran/cran/13672.ts
-#EXTINF:-1,Starz In Black US
-http://clientportal.link:8080/live/cran/cran/13673.ts
-#EXTINF:-1,Family Jr. CAN
-http://clientportal.link:8080/live/cran/cran/13674.ts
-#EXTINF:-1,Starz West US
-http://clientportal.link:8080/live/cran/cran/13678.ts
-#EXTINF:-1,Willow Cricket US
-http://clientportal.link:8080/live/cran/cran/13689.ts
-#EXTINF:-1,A&E US
-http://clientportal.link:8080/live/cran/cran/10350.ts
-#EXTINF:-1,ABC HD US
-http://clientportal.link:8080/live/cran/cran/9026.ts
-#EXTINF:-1,AMC HD US
-http://clientportal.link:8080/live/cran/cran/13104.ts
-#EXTINF:-1,Bravo US
-http://clientportal.link:8080/live/cran/cran/10704.ts
-#EXTINF:-1,C-SPAN 1 US
-http://clientportal.link:8080/live/cran/cran/10701.ts
-#EXTINF:-1,C-SPAN 2 US
-http://clientportal.link:8080/live/cran/cran/10702.ts
-#EXTINF:-1,C-SPAN 3 US
-http://clientportal.link:8080/live/cran/cran/10703.ts
-#EXTINF:-1,Cartoon Network HD US
-http://clientportal.link:8080/live/cran/cran/13103.ts
-#EXTINF:-1,CBS Action US
-http://clientportal.link:8080/live/cran/cran/10349.ts
-#EXTINF:-1,CBS Drama US
-http://clientportal.link:8080/live/cran/cran/10348.ts
-#EXTINF:-1,CBS HD US
-http://clientportal.link:8080/live/cran/cran/10347.ts
-#EXTINF:-1,CBS Reality US
-http://clientportal.link:8080/live/cran/cran/10346.ts
-#EXTINF:-1,CNBC US
-http://clientportal.link:8080/live/cran/cran/9028.ts
-#EXTINF:-1,CNN US
-http://clientportal.link:8080/live/cran/cran/9029.ts
-#EXTINF:-1,Comedy Central HD US
-http://clientportal.link:8080/live/cran/cran/13102.ts
-#EXTINF:-1,DIY Network HD US
-http://clientportal.link:8080/live/cran/cran/13101.ts
-#EXTINF:-1,E! US
-http://clientportal.link:8080/live/cran/cran/9021.ts
-#EXTINF:-1,ESPN 1 US
-http://clientportal.link:8080/live/cran/cran/9023.ts
-#EXTINF:-1,ESPN 2 US
-http://clientportal.link:8080/live/cran/cran/9022.ts
-#EXTINF:-1,FOX Sports HD US
-http://clientportal.link:8080/live/cran/cran/9076.ts
-#EXTINF:-1,FOX News US
-http://clientportal.link:8080/live/cran/cran/13100.ts
-#EXTINF:-1,FOX Sports 1 US
-http://clientportal.link:8080/live/cran/cran/9031.ts
-#EXTINF:-1,FOX Sports 2 US
-http://clientportal.link:8080/live/cran/cran/9030.ts
-#EXTINF:-1,Qubo US
-http://clientportal.link:8080/live/cran/cran/13099.ts
-#EXTINF:-1,FX HD US
-http://clientportal.link:8080/live/cran/cran/13098.ts
-#EXTINF:-1,FXX HD US
-http://clientportal.link:8080/live/cran/cran/13097.ts
-#EXTINF:-1,Golf Channel HD US
-http://clientportal.link:8080/live/cran/cran/9020.ts
-#EXTINF:-1,Golf Channel US
-http://clientportal.link:8080/live/cran/cran/9080.ts
-#EXTINF:-1,H2 US
-http://clientportal.link:8080/live/cran/cran/9019.ts
-#EXTINF:-1,Hallmark Channel US
-http://clientportal.link:8080/live/cran/cran/9025.ts
-#EXTINF:-1,HBO 1 US
-http://clientportal.link:8080/live/cran/cran/9018.ts
-#EXTINF:-1,HBO Comedy US
-http://clientportal.link:8080/live/cran/cran/9017.ts
-#EXTINF:-1,HBO Signature US
-http://clientportal.link:8080/live/cran/cran/9016.ts
-#EXTINF:-1,HBO Zone US
-http://clientportal.link:8080/live/cran/cran/9015.ts
-#EXTINF:-1,HIFI US
-http://clientportal.link:8080/live/cran/cran/9014.ts
-#EXTINF:-1,Lifetime US
-http://clientportal.link:8080/live/cran/cran/9078.ts
-#EXTINF:-1,Lifetime HD US
-http://clientportal.link:8080/live/cran/cran/13096.ts
-#EXTINF:-1,MLB Network US
-http://clientportal.link:8080/live/cran/cran/10699.ts
-#EXTINF:-1,Get Tv US
-http://clientportal.link:8080/live/cran/cran/10698.ts
-#EXTINF:-1,NBA TV US
-http://clientportal.link:8080/live/cran/cran/9010.ts
-#EXTINF:-1,NBC US
-http://clientportal.link:8080/live/cran/cran/9009.ts
-#EXTINF:-1,NBC Sports Network US
-http://clientportal.link:8080/live/cran/cran/9008.ts
-#EXTINF:-1,NFL Network US
-http://clientportal.link:8080/live/cran/cran/9077.ts
-#EXTINF:-1,Nick US
-http://clientportal.link:8080/live/cran/cran/9012.ts
-#EXTINF:-1,Space US
-http://clientportal.link:8080/live/cran/cran/9085.ts
-#EXTINF:-1,Spike US
-http://clientportal.link:8080/live/cran/cran/13107.ts
-#EXTINF:-1,Sportsnet 360 US
-http://clientportal.link:8080/live/cran/cran/10700.ts
-#EXTINF:-1,Univision Deportes US
-http://clientportal.link:8080/live/cran/cran/10343.ts
-#EXTINF:-1,Sportsnet One US
-http://clientportal.link:8080/live/cran/cran/10344.ts
-#EXTINF:-1,Sportsnet World US
-http://clientportal.link:8080/live/cran/cran/10342.ts
-#EXTINF:-1,Sportsnet Ontario US
-http://clientportal.link:8080/live/cran/cran/10345.ts
-#EXTINF:-1,Star z Cinema US
-http://clientportal.link:8080/live/cran/cran/9027.ts
-#EXTINF:-1,Syfy HD US
-http://clientportal.link:8080/live/cran/cran/13095.ts
-#EXTINF:-1,TBS US
-http://clientportal.link:8080/live/cran/cran/13106.ts
-#EXTINF:-1,TNT HD US
-http://clientportal.link:8080/live/cran/cran/13094.ts
-#EXTINF:-1,TSN1 US
-http://clientportal.link:8080/live/cran/cran/9032.ts
-#EXTINF:-1,TSN2 US
-http://clientportal.link:8080/live/cran/cran/9033.ts
-#EXTINF:-1,TSN3 US
-http://clientportal.link:8080/live/cran/cran/9034.ts
-#EXTINF:-1,TSN4 US
-http://clientportal.link:8080/live/cran/cran/9035.ts
-#EXTINF:-1,TSN5 US
-http://clientportal.link:8080/live/cran/cran/9036.ts
-#EXTINF:-1,USA Network HD US
-http://clientportal.link:8080/live/cran/cran/13105.ts
-#EXTINF:-1,VH1 Classic US
-http://clientportal.link:8080/live/cran/cran/12059.ts
-#EXTINF:-1,VH1 US
-http://clientportal.link:8080/live/cran/cran/12058.ts
-#EXTINF:-1,Sport 1 HD US
-http://clientportal.link:8080/live/cran/cran/7325.ts
-#EXTINF:-1,Animal Planet HD US
-http://clientportal.link:8080/live/cran/cran/12060.ts
-#EXTINF:-1,Nick Jr. US
-http://clientportal.link:8080/live/cran/cran/12061.ts
-#EXTINF:-1,MTV Rocks US
-http://clientportal.link:8080/live/cran/cran/12062.ts
-#EXTINF:-1,MTV Hits US
-http://clientportal.link:8080/live/cran/cran/12063.ts
-#EXTINF:-1,MTV Dance US
-http://clientportal.link:8080/live/cran/cran/12064.ts
-#EXTINF:-1,Discovery Channel US
-http://clientportal.link:8080/live/cran/cran/15717.ts
-#EXTINF:-1,FOX HD US
-http://clientportal.link:8080/live/cran/cran/15716.ts
-#EXTINF:-1,History HD US
-http://clientportal.link:8080/live/cran/cran/15712.ts
-#EXTINF:-1,National Geographic HD US
-http://clientportal.link:8080/live/cran/cran/15714.ts
-#EXTINF:-1,The CW HD US
-http://clientportal.link:8080/live/cran/cran/15718.ts
-#EXTINF:-1,PBS US
-http://clientportal.link:8080/live/cran/cran/15715.ts
-#EXTINF:-1,FreeForm HD US
-http://clientportal.link:8080/live/cran/cran/14294.ts
-#EXTINF:-1,MY9 US
-http://clientportal.link:8080/live/cran/cran/15713.ts
-#EXTINF:-1,OWN US
-http://clientportal.link:8080/live/cran/cran/16295.ts
-#EXTINF:-1,TNT US
-http://clientportal.link:8080/live/cran/cran/15366.ts
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,UK: BBC 1 HD
+http://ksportiptv.com:1557/live/123/123/878.ts
+#EXTINF:-1,UK:BBC_one
+http://ksportiptv.com:1557/live/123/123/1838.ts
+#EXTINF:-1,UK:BBC Two
+http://ksportiptv.com:1557/live/123/123/1839.ts
+#EXTINF:-1,UK:CBBC Three
+http://ksportiptv.com:1557/live/123/123/1840.ts
+#EXTINF:-1,UK:BBC News
+http://ksportiptv.com:1557/live/123/123/1841.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://ksportiptv.com:1557/live/123/123/1745.ts
+#EXTINF:-1,UK: More4
+http://ksportiptv.com:1557/live/123/123/3777.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://ksportiptv.com:1557/live/123/123/1742.ts
+#EXTINF:-1,UK: RTE Two
+http://ksportiptv.com:1557/live/123/123/3759.ts
+#EXTINF:-1,UK: RTE One
+http://ksportiptv.com:1557/live/123/123/3758.ts
+#EXTINF:-1,UK: RTE 3 J.R
+http://ksportiptv.com:1557/live/123/123/3760.ts
+#EXTINF:-1,UK: 3E Ireland
+http://ksportiptv.com:1557/live/123/123/3780.ts
+#EXTINF:-1,UK: E!
+http://ksportiptv.com:1557/live/123/123/3779.ts
+#EXTINF:-1,UK: Itv Encore
+http://ksportiptv.com:1557/live/123/123/3778.ts
+#EXTINF:-1,UK: ITV 1
+http://ksportiptv.com:1557/live/123/123/1267.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://ksportiptv.com:1557/live/123/123/1266.ts
+#EXTINF:-1,UK: ITV 3
+http://ksportiptv.com:1557/live/123/123/1265.ts
+#EXTINF:-1,UK: ITV 4
+http://ksportiptv.com:1557/live/123/123/1264.ts
+#EXTINF:-1,UK: Watch
+http://ksportiptv.com:1557/live/123/123/1738.ts
+#EXTINF:-1,UK: TV Nasa
+http://ksportiptv.com:1557/live/123/123/1568.ts
+#EXTINF:-1,UK: TLC-IRELAND
+http://ksportiptv.com:1557/live/123/123/1746.ts
+#EXTINF:-1,UK: SYFY
+http://ksportiptv.com:1557/live/123/123/3770.ts
+#EXTINF:-1,UK:FOX
+http://ksportiptv.com:1557/live/123/123/1783.ts
+#EXTINF:-1,UK: FOX SD.
+http://ksportiptv.com:1557/live/123/123/3776.ts
+#EXTINF:-1,UK: TCM (film)
+http://ksportiptv.com:1557/live/123/123/3757.ts
+#EXTINF:-1,UK:Life Time
+http://ksportiptv.com:1557/live/123/123/1831.ts
+#EXTINF:-1,UK: Comedy Central
+http://ksportiptv.com:1557/live/123/123/2709.ts
+#EXTINF:-1,UK: Sky One HD
+http://ksportiptv.com:1557/live/123/123/1833.ts
+#EXTINF:-1,UK: SKY Two HD
+http://ksportiptv.com:1557/live/123/123/1259.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+http://ksportiptv.com:1557/live/123/123/1258.ts
+#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
+http://ksportiptv.com:1557/live/123/123/8249.ts
+#EXTINF:-1,UK: SKY Movies Premier HD
+http://ksportiptv.com:1557/live/123/123/1253.ts
+#EXTINF:-1,UK: Sky Movies  Premiere
+http://ksportiptv.com:1557/live/123/123/1748.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+http://ksportiptv.com:1557/live/123/123/1060.ts
+#EXTINF:-1,UK: Sky Movies Hits Showcase HD
+http://ksportiptv.com:1557/live/123/123/1795.ts
+#EXTINF:-1,UK: SkyShowcase
+http://ksportiptv.com:1557/live/123/123/2712.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://ksportiptv.com:1557/live/123/123/1747.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://ksportiptv.com:1557/live/123/123/2708.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://ksportiptv.com:1557/live/123/123/1096.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://ksportiptv.com:1557/live/123/123/1694.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance.
+http://ksportiptv.com:1557/live/123/123/1794.ts
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+http://ksportiptv.com:1557/live/123/123/1251.ts
+#EXTINF:-1,UK: Sky Thriller
+http://ksportiptv.com:1557/live/123/123/1805.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
+http://ksportiptv.com:1557/live/123/123/1252.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+http://ksportiptv.com:1557/live/123/123/1098.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://ksportiptv.com:1557/live/123/123/1099.ts
+#EXTINF:-1,UK: SkySelect
+http://ksportiptv.com:1557/live/123/123/2714.ts
+#EXTINF:-1,UK: HBO Comedy HD
+http://ksportiptv.com:1557/live/123/123/3768.ts
+#EXTINF:-1,UK: HBO
+http://ksportiptv.com:1557/live/123/123/3766.ts
+#EXTINF:-1,UK: Gold TV
+http://ksportiptv.com:1557/live/123/123/3775.ts
+#EXTINF:-1,UK: SKY Movies Disney HD
+http://ksportiptv.com:1557/live/123/123/1255.ts
+#EXTINF:-1,UK:Disney XD
+http://ksportiptv.com:1557/live/123/123/1832.ts
+#EXTINF:-1,UK: Disney Junior
+http://ksportiptv.com:1557/live/123/123/1271.ts
+#EXTINF:-1,UK: Cartoon Network
+http://ksportiptv.com:1557/live/123/123/2378.ts
+#EXTINF:-1,UK: NIck JR
+http://ksportiptv.com:1557/live/123/123/1672.ts
+#EXTINF:-1,UK: Nickelodeon
+http://ksportiptv.com:1557/live/123/123/1261.ts
+#EXTINF:-1,UK: NickToons
+http://ksportiptv.com:1557/live/123/123/3748.ts
+#EXTINF:-1,UK: Nick JR+1
+http://ksportiptv.com:1557/live/123/123/3750.ts
+#EXTINF:-1,UK: Nick JR Peppa
+http://ksportiptv.com:1557/live/123/123/3751.ts
+#EXTINF:-1,UK: BoomeRang
+http://ksportiptv.com:1557/live/123/123/891.ts
+#EXTINF:-1,UK: Baby TV
+http://ksportiptv.com:1557/live/123/123/2927.ts
+#EXTINF:-1,UK: Movies4Man1
+http://ksportiptv.com:1557/live/123/123/3764.ts
+#EXTINF:-1,UK: Movies4Man
+http://ksportiptv.com:1557/live/123/123/3763.ts
+#EXTINF:-1,UK: Movies24
+http://ksportiptv.com:1557/live/123/123/3774.ts
+#EXTINF:-1,UK: CBS Action
+http://ksportiptv.com:1557/live/123/123/1277.ts
+#EXTINF:-1,UK: CBS Drama
+http://ksportiptv.com:1557/live/123/123/1276.ts
+#EXTINF:-1,UK: CBS Reality
+http://ksportiptv.com:1557/live/123/123/1275.ts
+#EXTINF:-1,UK: True Movies 1
+http://ksportiptv.com:1557/live/123/123/2710.ts
+#EXTINF:-1,UK: True Movies 2
+http://ksportiptv.com:1557/live/123/123/2711.ts
+#EXTINF:-1,UK: Film 4 HD
+http://ksportiptv.com:1557/live/123/123/2715.ts
+#EXTINF:-1,UK:Film 4
+http://ksportiptv.com:1557/live/123/123/1813.ts
+#EXTINF:-1,UK: Channel 4
+http://ksportiptv.com:1557/live/123/123/1820.ts
+#EXTINF:-1,UK_Sky Arts
+http://ksportiptv.com:1557/live/123/123/1782.ts
+#EXTINF:-1,UK:Alibi
+http://ksportiptv.com:1557/live/123/123/1793.ts
+#EXTINF:-1,UK: Star LifeOK (hindi)
+http://ksportiptv.com:1557/live/123/123/3781.ts
+#EXTINF:-1,UK: Star Gold
+http://ksportiptv.com:1557/live/123/123/3771.ts
+#EXTINF:-1,UK: Sony Max
+http://ksportiptv.com:1557/live/123/123/3782.ts
+#EXTINF:-1,UK: SONY TV
+http://ksportiptv.com:1557/live/123/123/3761.ts
+#EXTINF:-1,UK: Sony Sab
+http://ksportiptv.com:1557/live/123/123/3772.ts
+#EXTINF:-1,UK: Sony Movie
+http://ksportiptv.com:1557/live/123/123/3773.ts
+#EXTINF:-1,UK: DW English
+http://ksportiptv.com:1557/live/123/123/8948.ts
+#EXTINF:-1,UK: Hunting Channel
+http://ksportiptv.com:1557/live/123/123/8954.ts
+#EXTINF:-1,UK: Insight HD
+http://ksportiptv.com:1557/live/123/123/8950.ts
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY
+http://ksportiptv.com:1557/live/123/123/8957.ts
+#EXTINF:-1,UK: Russia Today News
+http://ksportiptv.com:1557/live/123/123/8949.ts
+#EXTINF:-1,UK: Channel AKA
+http://ksportiptv.com:1557/live/123/123/7299.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://ksportiptv.com:1557/live/123/123/7389.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://ksportiptv.com:1557/live/123/123/7390.ts
+#EXTINF:-1,UK: FLAVA
+http://ksportiptv.com:1557/live/123/123/7456.ts
+#EXTINF:-1,UK: Sky MotoGP
+http://ksportiptv.com:1557/live/123/123/8272.ts
+#EXTINF:-1,UK: MTV
+http://ksportiptv.com:1557/live/123/123/7311.ts
+#EXTINF:-1,UK: MTV Base HD
+http://ksportiptv.com:1557/live/123/123/6082.ts
+#EXTINF:-1,UK: MTV Classic
+http://ksportiptv.com:1557/live/123/123/7312.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://ksportiptv.com:1557/live/123/123/6083.ts
+#EXTINF:-1,UK: MTV EUROPE HD
+http://ksportiptv.com:1557/live/123/123/7289.ts
+#EXTINF:-1,UK: MTV Hits HD
+http://ksportiptv.com:1557/live/123/123/6084.ts
+#EXTINF:-1,UK: MTV Live HD
+http://ksportiptv.com:1557/live/123/123/6085.ts
+#EXTINF:-1,UK: MTV Rocks HD
+http://ksportiptv.com:1557/live/123/123/6086.ts
+#EXTINF:-1,UK: VH1 CLASSIC
+http://ksportiptv.com:1557/live/123/123/7294.ts
+#EXTINF:-1,UK: MTV Rocks
+http://ksportiptv.com:1557/live/123/123/3756.ts
+#EXTINF:-1,UK: MTV Music
+http://ksportiptv.com:1557/live/123/123/3755.ts
+#EXTINF:-1,UK: MTV Hits
+http://ksportiptv.com:1557/live/123/123/3754.ts
+#EXTINF:-1,UK: MTV Dance
+http://ksportiptv.com:1557/live/123/123/3753.ts
+#EXTINF:-1,UK: MTV Base
+http://ksportiptv.com:1557/live/123/123/3752.ts
+#EXTINF:-1,UK:5 USA
+http://ksportiptv.com:1557/live/123/123/1824.ts
+#EXTINF:-1,UK:Travel
+http://ksportiptv.com:1557/live/123/123/1802.ts
+#EXTINF:-1,UK:TLC
+http://ksportiptv.com:1557/live/123/123/1803.ts
+#EXTINF:-1,UK:Sky News
+http://ksportiptv.com:1557/live/123/123/1829.ts
+#EXTINF:-1,UK: BET Star
+http://ksportiptv.com:1557/live/123/123/6081.ts
+#EXTINF:-1,UK:Good Food
+http://ksportiptv.com:1557/live/123/123/1791.ts
+#EXTINF:-1,UK:Quest
+http://ksportiptv.com:1557/live/123/123/1807.ts
+#EXTINF:-1,UK:PICK
+http://ksportiptv.com:1557/live/123/123/1808.ts
+#EXTINF:-1,UK: REALLY
+http://ksportiptv.com:1557/live/123/123/1935.ts
+#EXTINF:-1,UK: ITVBE
+http://ksportiptv.com:1557/live/123/123/1936.ts
+#EXTINF:-1,UK: China History Channel
+http://ksportiptv.com:1557/live/123/123/8876.ts
+#EXTINF:-1,UK: Russia Today Documetary
+http://ksportiptv.com:1557/live/123/123/8863.ts
+#EXTINF:-1,UK:Discovery Turbo
+http://ksportiptv.com:1557/live/123/123/1815.ts
+#EXTINF:-1,UK:Discovery Science
+http://ksportiptv.com:1557/live/123/123/1816.ts
+#EXTINF:-1,UK:Discovery Home Health
+http://ksportiptv.com:1557/live/123/123/1817.ts
+#EXTINF:-1,UK:Discovery
+http://ksportiptv.com:1557/live/123/123/1818.ts
+#EXTINF:-1,UK: Discovery Channel
+http://ksportiptv.com:1557/live/123/123/1673.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://ksportiptv.com:1557/live/123/123/1262.ts
+#EXTINF:-1,UK: National Geographic Channel
+http://ksportiptv.com:1557/live/123/123/1322.ts
+#EXTINF:-1,UK: Discovery History
+http://ksportiptv.com:1557/live/123/123/1274.ts
+#EXTINF:-1,UK: Discovery History +1
+http://ksportiptv.com:1557/live/123/123/7468.ts
+#EXTINF:-1,UK: History Channel
+http://ksportiptv.com:1557/live/123/123/1268.ts
+#EXTINF:-1,UK:Animal Planet
+http://ksportiptv.com:1557/live/123/123/1822.ts
+#EXTINF:-1,UK:Dave
+http://ksportiptv.com:1557/live/123/123/1790.ts
+#EXTINF:-1,UK: Chelsea TV
+http://ksportiptv.com:1557/live/123/123/1835.ts
+#EXTINF:-1,UK:At The Races
+http://ksportiptv.com:1557/live/123/123/1821.ts
+#EXTINF:-1,UK: Sky Sports Box Office PPV live during events
+http://ksportiptv.com:1557/live/123/123/9338.ts
+#EXTINF:-1,UK: Sky Sports MIX HD
+http://ksportiptv.com:1557/live/123/123/7342.ts
+#EXTINF:-1,UK: Sky Sport News HD
+http://ksportiptv.com:1557/live/123/123/1675.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://ksportiptv.com:1557/live/123/123/7400.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://ksportiptv.com:1557/live/123/123/7401.ts
+#EXTINF:-1,UK: BT Sports 3 HD
+http://ksportiptv.com:1557/live/123/123/4807.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://ksportiptv.com:1557/live/123/123/7402.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://ksportiptv.com:1557/live/123/123/7383.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://ksportiptv.com:1557/live/123/123/7384.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://ksportiptv.com:1557/live/123/123/7385.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://ksportiptv.com:1557/live/123/123/7386.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://ksportiptv.com:1557/live/123/123/7387.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://ksportiptv.com:1557/live/123/123/7388.ts
+#EXTINF:-1,UK: BT Sport | ESPN HD
+http://ksportiptv.com:1557/live/123/123/7404.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/123/123/1120.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://ksportiptv.com:1557/live/123/123/1671.ts
+#EXTINF:-1,UK: Setanta Sport
+http://ksportiptv.com:1557/live/123/123/2745.ts
+#EXTINF:-1,UK: EuroSport 2
+http://ksportiptv.com:1557/live/123/123/921.ts
