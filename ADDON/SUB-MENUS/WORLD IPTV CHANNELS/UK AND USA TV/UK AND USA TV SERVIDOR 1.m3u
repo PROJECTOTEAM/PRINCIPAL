@@ -8,72 +8,167 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2730.jpg”,ABC
+http://208.86.19.123:8080/live/104.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png”,CBS
+http://208.86.19.13:8080/live/101.stream/index.m3u8
 
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://ksportiptv.com:1557/live/123/123/2432.ts
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://ksportiptv.com:1557/live/123/123/2431.ts
-#EXTINF:-1,USA: Tsn-Sport 3 HD
-http://ksportiptv.com:1557/live/123/123/2430.ts
-#EXTINF:-1,USA: Tsn-Sport 4 HD
-http://ksportiptv.com:1557/live/123/123/2429.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://ksportiptv.com:1557/live/123/123/2428.ts
-#EXTINF:-1,USA: AFN Sports HD
-http://ksportiptv.com:1557/live/123/123/2412.ts
-#EXTINF:-1,USA: AFN Sports
-http://ksportiptv.com:1557/live/123/123/2414.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://ksportiptv.com:1557/live/123/123/2413.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://ksportiptv.com:1557/live/123/123/2402.ts
-#EXTINF:-1,USA: ESPN 1
-http://ksportiptv.com:1557/live/123/123/2618.ts
-#EXTINF:-1,UK:BT Sports 1
-http://ksportiptv.com:1557/live/123/123/1837.ts
-#EXTINF:-1,UK:BT Sports 2
-http://ksportiptv.com:1557/live/123/123/1836.ts
-#EXTINF:-1,UK:BT Sports 1 HD
-http://ksportiptv.com:1557/live/123/123/892.ts
-#EXTINF:-1,UK:BT Sports 2 HD
-http://ksportiptv.com:1557/live/123/123/1386.ts
-#EXTINF:-1,UK: Manchester United TV
-http://ksportiptv.com:1557/live/123/123/1830.ts
-#EXTINF:-1,UK: Liverpool FC
-http://ksportiptv.com:1557/live/123/123/2614.ts
-#EXTINF:-1,UK: Sky Sport 1
-http://ksportiptv.com:1557/live/123/123/1109.ts
-#EXTINF:-1,UK: Sky Sport 2 HD
-http://ksportiptv.com:1557/live/123/123/1112.ts
-#EXTINF:-1,UK: SKY Sport 2
-http://ksportiptv.com:1557/live/123/123/1113.ts
-#EXTINF:-1,UK: Sky Sport 3 HD
-http://ksportiptv.com:1557/live/123/123/1115.ts
-#EXTINF:-1,UK: Sky Sport 3
-http://ksportiptv.com:1557/live/123/123/1116.ts
-#EXTINF:-1,UK: Sky Sport 4
-http://ksportiptv.com:1557/live/123/123/1388.ts
-#EXTINF:-1,UK: Sky Sport 5 HD
-http://ksportiptv.com:1557/live/123/123/1119.ts
-#EXTINF:-1,UK:Sky Sports F1
-http://ksportiptv.com:1557/live/123/123/1796.ts
-#EXTINF:-1,UK:Sky Sports 1
-http://ksportiptv.com:1557/live/123/123/1799.ts
-#EXTINF:-1,UK:Sky Sports 2
-http://ksportiptv.com:1557/live/123/123/1798.ts
-#EXTINF:-1,UK:Sky Sports 3
-http://ksportiptv.com:1557/live/123/123/1797.ts
-#EXTINF:-1,UK:Sky Sports 4
-http://ksportiptv.com:1557/live/123/123/1828.ts
-#EXTINF:-1,UK:Sky Sports 5
-http://ksportiptv.com:1557/live/123/123/1827.ts
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2126_2.jpg”,NBC
+http://208.86.19.123:8080/live/102.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/1236.jpg”,PBS
+http://208.86.19.13:8080/live/108.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/pePkOtd.jpg”,WWOR (My 9)
+http://208.86.19.13:8080/live/105.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/RIuoFeP.jpg”,PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/P4gM8FY.jpg”,WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/P4gM8FY.jpg”,WLIW 21
+http://208.86.19.123:8080/live/107.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/1593.png”,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://stocklogos-pd.s3.amazonaws.com/tbstop.jpg”,TBS
+http://208.86.19.123:8080/live/201.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2737.jpg”,USA Network
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/n7u8y4s.jpg”,BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/lJ3Oes3.jpg”,Ion Television
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg”,Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/208.jpg”,Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png”,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png”,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/Ee2tD7U.png”,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/TjHh4PW.png”,CNN
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/QVvBPKr.jpg”,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/6957.jpeg”,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg”,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-logo=”https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg”,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png”,Fox News [Geo]
+http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png”,Fox News
+http://46.249.55.237:4545/play/a016
+
+#EXTINF:-1 tvg-logo=”https://www.bbgdirect.com/Content/images/VOA-logo.png”,VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3251.jpg”,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3250.gif”,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3249.png”,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg”,Newsmax TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+
+#EXTINF:-1 tvg-logo=”https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg”,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/H00wiqw.jpg”,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3144.jpg”,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo=”https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg”,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg”,TWiT.TV
+http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png”,ESPN [Off]
+http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/9095.png”,NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-logo=”http://i.imgur.com/9LtjkGW.jpg”,Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/5249.jpg”,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg”,Pac-12 Washington
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg”,Pac-12 Los Angeles
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg”,Pac-12 Oregon
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg”,Pac-12 Arizona
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg”,Pac-12 Mountain
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 tvg-logo=”http://www.freeetv.com/images/01_logo/cmc_tv.jpg”,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-logo=”http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg”,HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300×200.jpg”,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-logo=”https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”,CBN News
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://logonoid.com/images/tbn-logo.png”,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1 tvg-logo=”http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png”,NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg”,Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 
 
 
