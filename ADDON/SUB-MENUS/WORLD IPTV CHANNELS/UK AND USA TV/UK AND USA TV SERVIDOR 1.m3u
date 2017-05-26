@@ -643,3 +643,188 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/485.ts
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="2" tvg-name="HRT 4" tvg-logo="images/hrt4.png" group-title="Hrvatski",HRT 4 - HRT 4
+http://srv6.max-iptv.ru:2801/live?channelId=2&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="3" tvg-name="Grand Televizija" tvg-logo="images/grandtv.png" group-title="Muzicki",Grand Televizija - Grand Televizija
+http://srv6.max-iptv.ru:2801/live?channelId=3&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="4" tvg-name="Kanal 6" tvg-logo="images/kanal6.png" group-title="Bosanski",Kanal 6 - Kanal 6
+http://distribucija.alpha-one.net:94/live?channelId=4&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="5" tvg-name="Al Jazeera" tvg-logo="images/aljazeera.png" group-title="Bosanski",Al Jazeera - Al Jazeera
+http://distribucija.alpha-one.net:94/live?channelId=5&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="10" tvg-name="Pink Western" tvg-logo="images/pinkwestern.png" group-title="Pink Media",Pink Western - Pink Western
+http://srv1.max-iptv.ru:8088/live?channelId=10&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="13" tvg-name="Pink Music 2" tvg-logo="images/pinkmusic.png" group-title="Pink Media",Pink Music 2 - Pink Music 2
+http://cms.narodnatv.info:80/live?channelId=13&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="15" tvg-name="Face TV HD" tvg-logo="images/face.png" group-title="Bosanski",Face TV HD - Face TV HD
+http://srv1.max-iptv.ru:8088/live?channelId=15&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="21" tvg-name="BHT 1" tvg-logo="images/bht1.png" group-title="Bosanski",BHT 1 - BHT 1
+http://srv2.max-iptv.ru:8088/live?channelId=21&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="23" tvg-name="Pink BH" tvg-logo="images/pinkbih.png" group-title="Bosanski",Pink BH - Pink  BH
+http://srv8.max-iptv.ru:80/live?channelId=23&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="24" tvg-name="Pink Folk" tvg-logo="images/pinkfolk1.png" group-title="Pink Media",Pink Folk - Pink Folk
+http://srv2.max-iptv.ru:8088/live?channelId=24&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="25" tvg-name="Pink Folk 2" tvg-logo="images/pinkfolk2.png" group-title="Pink Media",Pink Folk 2 - Pink Folk 2
+http://distribucija.alpha-one.net:94/live?channelId=25&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="33" tvg-name="Pink Horor" tvg-logo="images/pinkhoror.png" group-title="Pink Media",Pink Horor - Pink Horor
+http://srv8.max-iptv.ru:80/live?channelId=33&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="35" tvg-name="Pink Movies 2" tvg-logo="images/pinkmovies2.png" group-title="Pink Media",Pink Movies 2 - Pink Movies 2
+http://srv7.max-iptv.ru:8888/live?channelId=35&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="36" tvg-name="Pink Movies 3" tvg-logo="images/pinkmovies3.png" group-title="Pink Media",Pink Movies 3 - Pink Movies 3
+http://srv8.max-iptv.ru:80/live?channelId=36&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="39" tvg-name="Pink Premium" tvg-logo="images/pinkpremium.png" group-title="Pink Media",Pink Premium - Pink Premium
+http://distribucija.alpha-one.net:94/live?channelId=39&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="40" tvg-name="Pink Reality" tvg-logo="images/pinkreality.png" group-title="Pink Media",Pink Reality - Pink Reality
+http://srv7.max-iptv.ru:8888/live?channelId=40&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="43" tvg-name="Pink Zabava" tvg-logo="images/pinkzabava.png" group-title="Pink Media",Pink Zabava - Pink Zabava
+http://srv1.max-iptv.ru:8088/live?channelId=43&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="51" tvg-name="Minimax" tvg-logo="images/Minimax.png" group-title="Djeciji",Minimax - Minimax
+http://srv7.max-iptv.ru:8888/live?channelId=51&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="56" tvg-name="TV 1000" tvg-logo="images/tv1000.png" group-title="Filmovi & Serije",TV 1000 - TV 1000
+http://distribucija.alpha-one.net:94/live?channelId=56&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="60" tvg-name="Doma" tvg-logo="images/doma.png" group-title="Hrvatski",Doma - Doma
+http://distribucija.alpha-one.net:94/live?channelId=60&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="61" tvg-name="HRT 1" tvg-logo="images/hrt1.png" group-title="Hrvatski",HRT 1 - HRT 1
+http://srv1.max-iptv.ru:8088/live?channelId=61&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="62" tvg-name="HRT 2" tvg-logo="images/hrt2.png" group-title="Hrvatski",HRT 2 - HRT 2
+http://srv1.max-iptv.ru:8088/live?channelId=62&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="63" tvg-name="HRT 3" tvg-logo="images/hrt3.png" group-title="Hrvatski",HRT 3 - HRT 3
+http://distribucija.alpha-one.net:94/live?channelId=63&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="65" tvg-name="FTV" tvg-logo="images/ftv.png" group-title="Bosanski",FTV - FTV
+http://cms.narodnatv.info:80/live?channelId=65&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="67" tvg-name="Nova SR" tvg-logo="images/novars.png" group-title="Srpski",Nova SR - Nova SR
+http://srv7.max-iptv.ru:8888/live?channelId=67&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="68" tvg-name="HBO Adria" tvg-logo="images/hboadrija.png" group-title="Filmovi & Serije",HBO Adria - HBO Adria
+http://distribucija.alpha-one.net:94/live?channelId=68&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="69" tvg-name="HBO Comedy" tvg-logo="images/hbocomedy.png" group-title="Filmovi & Serije",HBO Comedy - HBO Comedy
+http://srv7.max-iptv.ru:8888/live?channelId=69&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="73" tvg-name="TV 1" tvg-logo="images/tv1.png" group-title="Bosanski",TV 1 - TV 1
+http://distribucija.alpha-one.net:94/live?channelId=73&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="75" tvg-name="NTV IC Kakanj" tvg-logo="images/ntvickakanj.png" group-title="Bosanski",NTV IC Kakanj - NTV IC Kakanj
+http://distribucija.alpha-one.net:94/live?channelId=75&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="77" tvg-name="Arena Sport 1 SR" tvg-logo="images/arenasport1.png" group-title="Sportski",Arena Sport 1 SR - Arena Sport 1 SR
+http://cms.narodnatv.info:80/live?channelId=77&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="78" tvg-name="Arena Sport HD 1 CRO" tvg-logo="images/arenasport1hr.png" group-title="Sportski",Arena Sport HD 1 CRO - Arena Sport HD 1 CRO
+http://distribucija.alpha-one.net:94/live?channelId=78&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="80" tvg-name="Arena Sport HD 2 CRO" tvg-logo="images/arena2hrhd.png" group-title="Sportski",Arena Sport HD 2 CRO - Arena Sport HD 2 CRO
+http://distribucija.alpha-one.net:94/live?channelId=80&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="81" tvg-name="Arena Sport 3 SR" tvg-logo="images/arenasport3.png" group-title="Sportski",Arena Sport 3 SR - Arena Sport 3 SR
+http://distribucija.alpha-one.net:94/live?channelId=81&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="83" tvg-name="Arena Sport 4 SR" tvg-logo="images/arenasport4.png" group-title="Sportski",Arena Sport 4 SR - Arena Sport 4 SR
+http://srv1.max-iptv.ru:8088/live?channelId=83&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="84" tvg-name="ARENA SPORT 4 HD CRO" tvg-logo="images/arena4hr.png" group-title="Sportski",ARENA SPORT 4 HD CRO - ARENA SPORT 4 HD CRO
+http://distribucija.alpha-one.net:94/live?channelId=84&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="85" tvg-name="Arena Sport 5 SR" tvg-logo="images/arena5.png" group-title="Sportski",Arena Sport 5 SR - Arena Sport 5 SR
+http://distribucija.alpha-one.net:94/live?channelId=85&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="87" tvg-name="B92" tvg-logo="images/b92.png" group-title="Srpski",B92 - B92
+http://srv1.max-iptv.ru:8088/live?channelId=87&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="89" tvg-name="Cinemax" tvg-logo="images/cinemax.png" group-title="Filmovi & Serije",Cinemax - Cinemax
+http://srv8.max-iptv.ru:80/live?channelId=89&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="90" tvg-name="Cinemax 2" tvg-logo="images/cinemax2.png" group-title="Filmovi & Serije",Cinemax 2 - Cinemax 2
+http://srv7.max-iptv.ru:8888/live?channelId=90&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="91" tvg-name="Cinestar Premiere" tvg-logo="images/cinestarpremiere.png" group-title="Filmovi & Serije",Cinestar Premiere - Cinestar Premiere
+http://srv8.max-iptv.ru:80/live?channelId=91&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="92" tvg-name="Cinestar Premiere 2" tvg-logo="images/cinestartv.png" group-title="Filmovi & Serije",Cinestar Premiere 2 - Cinestar Premiere 2
+http://srv8.max-iptv.ru:80/live?channelId=92&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="100" tvg-name="Klasik TV" tvg-logo="images/klasik.png" group-title="Filmovi & Serije",Klasik TV - Klasik TV
+http://srv8.max-iptv.ru:80/live?channelId=100&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="105" tvg-name="RTS 2" tvg-logo="images/rts2.png" group-title="Srpski",RTS 2 - RTS 2
+http://srv2.max-iptv.ru:8088/live?channelId=105&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="106" tvg-name="Prva" tvg-logo="images/prva.png" group-title="Srpski",Prva - Prva
+http://srv8.max-iptv.ru:80/live?channelId=106&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="107" tvg-name="Prva Plus" tvg-logo="images/prvaplus.png" group-title="Srpski",Prva Plus - Prva Plus
+http://srv2.max-iptv.ru:8088/live?channelId=107&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="116" tvg-name="OTV Valentino" tvg-logo="images/pinkmusic.png" group-title="Muzicki",OTV Valentino - OTV Valentino
+http://srv6.max-iptv.ru:2801/live?channelId=116&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="122" tvg-name="RTRS" tvg-logo="images/rtrs.png" group-title="Srpski",RTRS - RTRS
+http://srv2.max-iptv.ru:8088/live?channelId=122&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="126" tvg-name="Pink M" tvg-logo="images/pinkm.png" group-title="Crnogorski",Pink M - Pink M
+http://srv8.max-iptv.ru:80/live?channelId=126&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="127" tvg-name="Pink Film" tvg-logo="images/pinkfilm.png" group-title="Filmovi & Serije",Pink Film - Pink Film
+http://srv1.max-iptv.ru:8088/live?channelId=127&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="128" tvg-name="Pink 3" tvg-logo="images/pink3.png" group-title="Pink Media",Pink 3 - Pink 3
+http://srv1.max-iptv.ru:8088/live?channelId=128&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="129" tvg-name="Pink" tvg-logo="images/pink.png" group-title="Pink Media",Pink - Pink
+http://distribucija.alpha-one.net:94/live?channelId=129&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="130" tvg-name="OBN" tvg-logo="images/obn.png" group-title="Bosanski",OBN - OBN
+http://srv2.max-iptv.ru:8088/live?channelId=130&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="133" tvg-name="TV TK" tvg-logo="images/tk.png" group-title="Bosanski",TV TK - TV TK
+http://distribucija.alpha-one.net:94/live?channelId=133&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="134" tvg-name="Slon Extra" tvg-logo="images/slonextra.png" group-title="Bosanski",Slon Extra - Slon Extra
+http://distribucija.alpha-one.net:94/live?channelId=134&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="136" tvg-name="Sitel" tvg-logo="images/sitel.png" group-title="Makedonski",Sitel - Sitel
+http://srv7.max-iptv.ru:8888/live?channelId=136&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="138" tvg-name="Pink Pedia" tvg-logo="images/pinkpedia.png" group-title="Pink Media",Pink Pedia - Pink Pedia
+http://srv1.max-iptv.ru:8088/live?channelId=138&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="161" tvg-name="BN Music" tvg-logo="images/bnmus.png" group-title="Muzicki",BN Music - BN Music
+http://srv8.max-iptv.ru:80/live?channelId=161&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="162" tvg-name="RTV Novi Pazar" tvg-logo="images/novi-pazar.png" group-title="Bosanski",RTV Novi Pazar - RTV Novi Pazar
+http://distribucija.alpha-one.net:94/live?channelId=162&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="176" tvg-name="MTV Igman" tvg-logo="images/igman.png" group-title="Bosanski",MTV Igman - MTV Igman
+http://cms.narodnatv.info:80/live?channelId=176&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="188" tvg-name="RTS HD" tvg-logo="images/rtshd.png" group-title="Srpski",RTS HD - RTS HD
+http://srv1.max-iptv.ru:8088/live?channelId=188&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="245" tvg-name="Sandzak TV" tvg-logo="images/sandzak.png" group-title="Bosanski",Sandzak TV - Sandzak TV
+http://distribucija.alpha-one.net:94/live?channelId=245&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="283" tvg-name="Pink Srbija" tvg-logo="images/pink.png" group-title="Srpski",Pink Srbija - Pink Srbija
+http://srv1.max-iptv.ru:8088/live?channelId=283&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="328" tvg-name="Hayat TV" tvg-logo="images/hayat.png" group-title="Bosanski",Hayat TV - Hayat TV
+http://distribucija.alpha-one.net:94/live?channelId=328&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="367" tvg-name="NTV 101 Prijedor" tvg-logo="images/ntv101prijedor.png" group-title="Bosanski",NTV 101 Prijedor - NTV 101 Prijedor
+http://srv7.max-iptv.ru:8888/live?channelId=367&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="415" tvg-name="Izvorna Muzika" tvg-logo="images/izvornamuzika.png" group-title="Muzicki",Izvorna Muzika - Izvorna
+http://distribucija.alpha-one.net:94/live?channelId=415&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="452" tvg-name="RTV USK" tvg-logo="images/rtvusk.png" group-title="Bosanski",RTV USK - RTV USK
+http://srv7.max-iptv.ru:8888/live?channelId=452&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="456" tvg-name="RTCG Sat" tvg-logo="images/rtcgsat.png" group-title="Crnogorski",RTCG Sat - RTCG Sat
+http://srv7.max-iptv.ru:8888/live?channelId=456&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="458" tvg-name="Pink Fight Network" tvg-logo="images/pinkfight.png" group-title="Pink Media",Pink Fight Network - Pink Fight
+http://srv1.max-iptv.ru:8088/live?channelId=458&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="521" tvg-name="Discovery ID" tvg-logo="images/DiscoveryID.png" group-title="Dokumantarci",Discovery ID - Discovery ID
+http://distribucija.alpha-one.net:94/live?channelId=521&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="860" tvg-name="MiR TV HD" tvg-logo="/noicon.png" group-title="Bosanski",MiR TV HD - MiR TV HD
+http://cms.narodnatv.info:80/live?channelId=860&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="864" tvg-name="RTV CG 1" tvg-logo="/images/rtvcg1.png" group-title="Crnogorski",RTV CG 1 - RTV CG 1
+http://srv1.max-iptv.ru:8088/live?channelId=864&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+#EXTINF:-1 tvg-id="880" tvg-name="BHT" tvg-logo="/images/bht1.png" group-title="Bosanski",BHT - BHT
+http://srv1.max-iptv.ru:8088/live?channelId=880&uid=182&deviceUser=Faruk&devicePass=Hodza1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
