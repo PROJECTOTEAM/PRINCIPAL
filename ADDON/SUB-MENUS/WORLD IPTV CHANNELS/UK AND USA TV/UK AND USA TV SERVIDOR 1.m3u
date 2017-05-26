@@ -6,425 +6,638 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2730.jpg”,ABC
-http://208.86.19.123:8080/live/104.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png”,CBS
-http://208.86.19.13:8080/live/101.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2126_2.jpg”,NBC
-http://208.86.19.123:8080/live/102.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/1236.jpg”,PBS
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/pePkOtd.jpg”,WWOR (My 9)
-http://208.86.19.13:8080/live/105.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/RIuoFeP.jpg”,PIX 11
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/P4gM8FY.jpg”,WLIW 21
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/P4gM8FY.jpg”,WLIW 21
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/1593.png”,TNT
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://stocklogos-pd.s3.amazonaws.com/tbstop.jpg”,TBS
-http://208.86.19.123:8080/live/201.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/2737.jpg”,USA Network
-http://208.86.19.123:8080/live/11.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/n7u8y4s.jpg”,BBC America
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/lJ3Oes3.jpg”,Ion Television
-http://208.86.19.123:8080/live/109.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg”,Freeform
-http://208.86.19.13:8080/live/27.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/208.jpg”,Discovery
-http://208.86.19.13:8080/live/31.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png”,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png”,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/Ee2tD7U.png”,Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/TjHh4PW.png”,CNN
-http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/QVvBPKr.jpg”,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/6957.jpeg”,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg”,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-
-#EXTINF:-1 tvg-logo=”https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg”,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png”,Fox News [Geo]
-http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png”,Fox News
-http://46.249.55.237:4545/play/a016
-
-#EXTINF:-1 tvg-logo=”https://www.bbgdirect.com/Content/images/VOA-logo.png”,VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3251.jpg”,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3250.gif”,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3249.png”,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg”,Newsmax TV
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
-
-#EXTINF:-1 tvg-logo=”https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg”,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/H00wiqw.jpg”,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/3144.jpg”,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1 tvg-logo=”https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg”,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg”,TWiT.TV
-http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png”,ESPN [Off]
-http://stream.i4atv.info/ggwpl/live2.m3u8
-
-#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 tvg-logo=”http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg”,NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/9095.png”,NFL Now
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
-
-#EXTINF:-1 tvg-logo=”http://i.imgur.com/9LtjkGW.jpg”,Olympic Channel HD
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-
-#EXTINF:-1 tvg-logo=”http://channelpear.com/images/media/5249.jpg”,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg”,Pac-12 Washington
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg”,Pac-12 Los Angeles
-http://xrxs.net/video/live-p12losa-2328.m3u8
-
-#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg”,Pac-12 Oregon
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
-#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg”,Pac-12 Arizona
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-
-#EXTINF:-1 tvg-logo=”http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg”,Pac-12 Mountain
-http://xrxs.net/video/live-p12moun-2328.m3u8
-
-#EXTINF:-1 tvg-logo=”http://www.freeetv.com/images/01_logo/cmc_tv.jpg”,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1 tvg-logo=”http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg”,HSN
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300×200.jpg”,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-
-#EXTINF:-1 tvg-logo=”https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”,CBN News
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://logonoid.com/images/tbn-logo.png”,TBN
-http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-
-#EXTINF:-1 tvg-logo=”http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png”,NRB Network
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=”https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg”,Hillsong Channel
-http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
-
-
-
-#EXTINF:-1,FASHION ONE
-http://183.88.212.205:8010/play/a01v
-#EXTINF:-1,CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,ZEE TV
-http://183.88.212.205:8010/play/a01z
-#EXTINF:-1,CNBC
-http://183.88.212.205:8010/play/a02c
-#EXTINF:-1,CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,MRTV
-http://183.88.212.205:8010/play/a013
-#EXTINF:-1,NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,CCTV 9
-http://183.88.212.205:8010/play/a02b
-#EXTINF:-1,MNTV
-http://183.88.212.205:8010/play/a017
-#EXTINF:-1,FOX SPORTS 1
-http://183.88.212.205:8010/play/a02m
-#EXTINF:-1,SKYNET SPORTS-2
-http://183.88.212.205:8010/play/a02k
-#EXTINF:-1,NHK WORLD PREMIUM
-http://183.88.212.205:8010/play/a027
-#EXTINF:-1,STATE&DIVISION HLUTTAW
-http://183.88.212.205:8010/play/a03h
-#EXTINF:-1,ZEE CINEMA ME
-http://183.88.212.205:8010/play/a01n
-#EXTINF:-1,BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f
-#EXTINF:-1,BUDDHA
-http://183.88.212.205:8010/play/a012
-#EXTINF:-1,HISTORY HD
-http://183.88.212.205:8010/play/a00y
-#EXTINF:-1,ITV CHOICE
-http://183.88.212.205:8010/play/a038
-#EXTINF:-1,SHOPPING CHANNEL
-http://183.88.212.205:8010/play/a00p
-#EXTINF:-1,NICKELODEON
-http://183.88.212.205:8010/play/a01f
-#EXTINF:-1,DISCOVERY TLC
-http://183.88.212.205:8010/play/a032
-#EXTINF:-1,SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v
-#EXTINF:-1,CHANNEL ONE
-http://183.88.212.205:8010/play/a019
-#EXTINF:-1,SKYNET KNOWLEDGE
-http://183.88.212.205:8010/play/a02w
-#EXTINF:-1,FIGHT SPORTS HD
-http://183.88.212.205:8010/play/a00z
-#EXTINF:-1,AGRICULTURE/FOREST
-http://183.88.212.205:8010/play/a03q
-#EXTINF:-1,EDUCATION CHANNEL
-http://183.88.212.205:8010/play/a03p
-#EXTINF:-1,CH-V
-http://183.88.212.205:8010/play/a01p
-#EXTINF:-1,E!
-http://183.88.212.205:8010/play/a03o
-#EXTINF:-1,FOX SPORTS 3
-http://183.88.212.205:8010/play/a02o
-#EXTINF:-1,SKYNET-HD-PAY PER VIEW
-http://183.88.212.205:8010/play/a00w
-#EXTINF:-1,SKY NEWS
-http://183.88.212.205:8010/play/a00e
-#EXTINF:-1,HADAYA
-http://183.88.212.205:8010/play/a01g
-#EXTINF:-1,DMAX
-http://183.88.212.205:8010/play/a035
-#EXTINF:-1,WORLD DRAMA
-http://183.88.212.205:8010/play/a01x
-#EXTINF:-1,DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n
-#EXTINF:-1,BBC EARTH
-http://183.88.212.205:8010/play/a03e
-#EXTINF:-1,UNIVERSAL SD
-http://183.88.212.205:8010/play/a03m
-#EXTINF:-1,SKYNET MUSIC
-http://183.88.212.205:8010/play/a01o
-#EXTINF:-1,CNAI
-http://183.88.212.205:8010/play/a02f
-#EXTINF:-1,ASN
-http://183.88.212.205:8010/play/a02p
-#EXTINF:-1,M-BIZ
-http://183.88.212.205:8010/play/a018
-#EXTINF:-1,H2
-http://183.88.212.205:8010/play/a03k
-#EXTINF:-1,SKYNET CARTOON
-http://183.88.212.205:8010/play/a01d
-#EXTINF:-1,MOTORVISION
-http://183.88.212.205:8010/play/a03j
-#EXTINF:-1,MYANMAR MOVIES
-http://183.88.212.205:8010/play/a01h
-#EXTINF:-1,MYANMAR ARTS
-http://183.88.212.205:8010/play/a01i
-#EXTINF:-1,SUN TV
-http://183.88.212.205:8010/play/a00o
-#EXTINF:-1,FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
-#EXTINF:-1,SKYNET SPORTS-6
-http://183.88.212.205:8010/play/a00c
-#EXTINF:-1,EDGE SPORTS
-http://183.88.212.205:8010/play/a03i
-#EXTINF:-1,HOME CHANNEL
-http://183.88.212.205:8010/play/a03t
-#EXTINF:-1,BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g
-#EXTINF:-1,OUTDOOR CHANNEL
-http://183.88.212.205:8010/play/a03d
-#EXTINF:-1,DISCOVERY HD WORLD
-http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,CNN
-http://183.88.212.205:8010/play/a00l
-#EXTINF:-1,HBO
-http://183.88.212.205:8010/play/a00m
-#EXTINF:-1,EURO SPORTS NEWS
-http://183.88.212.205:8010/play/a00g
-#EXTINF:-1,INTERNATIONAL DRAMA
-http://183.88.212.205:8010/play/a01y
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l
-#EXTINF:-1,MTV LIVE HD
-http://183.88.212.205:8010/play/a00s
-#EXTINF:-1,GLOBALNET
-http://183.88.212.205:8010/play/a039
-#EXTINF:-1,CCTV 4
-http://183.88.212.205:8010/play/a02a
-#EXTINF:-1,DISCOVERY KIDS
-http://183.88.212.205:8010/play/a036
-#EXTINF:-1,HLUTTAW
-http://183.88.212.205:8010/play/a037
-#EXTINF:-1,CI
-http://183.88.212.205:8010/play/a00j
-#EXTINF:-1,FOX SPORTS 2
-http://183.88.212.205:8010/play/a02n
-#EXTINF:-1,DISNEY JUNIOR ASIA
-http://183.88.212.205:8010/play/a02u
-#EXTINF:-1,DISCOVERY
-http://183.88.212.205:8010/play/a031
-#EXTINF:-1,SKYNET SPORTS-3
-http://183.88.212.205:8010/play/a02l
-#EXTINF:-1,WORLD MOVIES
-http://183.88.212.205:8010/play/a01k
-#EXTINF:-1,AXN
-http://183.88.212.205:8010/play/a00i
-#EXTINF:-1,NHK WORLD TV
-http://183.88.212.205:8010/play/a028
-#EXTINF:-1,FRANCE 24
-http://183.88.212.205:8010/play/a02h
-#EXTINF:-1,NICKJR
-http://183.88.212.205:8010/play/a01c
-#EXTINF:-1,SKYNET SPORTS HD
-http://183.88.212.205:8010/play/a00r
-#EXTINF:-1,SKYNET SPORTS-4
-http://183.88.212.205:8010/play/a00a
-#EXTINF:-1,FX
-http://183.88.212.205:8010/play/a023
-#EXTINF:-1,TINE-YIN-THAR
-http://183.88.212.205:8010/play/a03s
-#EXTINF:-1,EVE
-http://183.88.212.205:8010/play/a033
-#EXTINF:-1,NAT GEO MUSIC
-http://183.88.212.205:8010/play/a01q
-#EXTINF:-1,DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,HBO HD
-http://183.88.212.205:8010/play/a00u
-#EXTINF:-1,CCTV NEWS
-http://183.88.212.205:8010/play/a029
-#EXTINF:-1,BABY TV
-http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,MONEY CHANNEL
-http://183.88.212.205:8010/play/a02s
-#EXTINF:-1,MTV SEA
-http://183.88.212.205:8010/play/a01t
-#EXTINF:-1,UP TO DATE
-http://183.88.212.205:8010/play/a03a
-#EXTINF:-1,GOLF
-http://183.88.212.205:8010/play/a02q
-#EXTINF:-1,LIFETIME
-http://183.88.212.205:8010/play/a03l
-#EXTINF:-1,DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034
-#EXTINF:-1,DISNEY XD
-http://183.88.212.205:8010/play/a00x
-#EXTINF:-1,NGC WILD
-http://183.88.212.205:8010/play/a02y
-#EXTINF:-1,ASIAN MOVIES
-http://183.88.212.205:8010/play/a01j
-#EXTINF:-1,PHOENIX INFO NEWS
-http://183.88.212.205:8010/play/a02i
-#EXTINF:-1,DWTV
-http://183.88.212.205:8010/play/a02g
-#EXTINF:-1,EURO SPORTS
-http://183.88.212.205:8010/play/a00d
-#EXTINF:-1,STAR CHINESE MOVIES
-http://183.88.212.205:8010/play/a02e
-#EXTINF:-1,MRTV ENTERTAINTMENT
-http://183.88.212.205:8010/play/a015
-#EXTINF:-1,BLOOMBERG
-http://183.88.212.205:8010/play/a02d
-#EXTINF:-1,SKYNET SPORTS-1
-http://183.88.212.205:8010/play/a02j
-#EXTINF:-1,CHANNEL 9
-http://183.88.212.205:8010/play/a01a
-#EXTINF:-1,ANIMAL PLANET
-http://183.88.212.205:8010/play/a030
-#EXTINF:-1,ARIRANG
-http://183.88.212.205:8010/play/a026
-#EXTINF:-1,KBS WORLD
-http://183.88.212.205:8010/play/a025
-#EXTINF:-1,MWD
-http://183.88.212.205:8010/play/a014
-#EXTINF:-1,M
-http://183.88.212.205:8010/play/a024
-#EXTINF:-1,FOX SPORTS NEWS
-http://183.88.212.205:8010/play/a022
-#EXTINF:-1,STAR WORLD
-http://183.88.212.205:8010/play/a021
-#EXTINF:-1,FYI,
-http://183.88.212.205:8010/play/a00k
-#EXTINF:-1,FOX CRIME
-http://183.88.212.205:8010/play/a020
-#EXTINF:-1,MITV
-http://183.88.212.205:8010/play/a016
-#EXTINF:-1,ZING
-http://183.88.212.205:8010/play/a01r
-#EXTINF:-1,COMEDY CENTRAL
-http://183.88.212.205:8010/play/a03b
-#EXTINF:-1,RED BY HBO
-http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,NGC
-http://183.88.212.205:8010/play/a02x
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
-#EXTINF:-1,HEALTH
-http://183.88.212.205:8010/play/a03r
-#EXTINF:-1,SKYNET SPORTS-5
-http://183.88.212.205:8010/play/a00b
-#EXTINF:-1,MTV CHINA
-http://183.88.212.205:8010/play/a01s
-#EXTINF:-1,SKYNET TEEN
-http://183.88.212.205:8010/play/a01u
-#EXTINF:-1,SKYNET LIVE CHANNEL
-http://183.88.212.205:8010/play/a02r
-#EXTINF:-1,FOX NEWS
-http://183.88.212.205:8010/play/a00f
-#EXTINF:-1,ANIMAX
-http://183.88.212.205:8010/play/a00h
+#EXTINF:0,ABN TV
+http://80.25.87.6:9910/stream/channelid/2105078829?ticket=989B7F8D23B631F57ED2E8F1617BC610B34F7238&profile=pass
+#EXTINF:0,AMC from BT
+http://80.25.87.6:9910/stream/channelid/2009677525?ticket=6ECA7ACE8929F83C7C7FB6172FCBF9035A25E9D1&profile=pass
+#EXTINF:0,Babenation
+http://80.25.87.6:9910/stream/channelid/546570394?ticket=6BAA894210326A7DC8CC437600D31E952DA6B281&profile=pass
+#EXTINF:0,BBC NEWS
+http://80.25.87.6:9910/stream/channelid/964836481?ticket=AE2787BC7A881BDABBFB3F3F1784E9E907EE75B7&profile=pass
+#EXTINF:0,BBC One HD
+http://80.25.87.6:9910/stream/channelid/1051745421?ticket=52E8C0B765B46E06B25F18421DFE181A9EBE76F8&profile=pass
+#EXTINF:0,BBC One NI
+http://80.25.87.6:9910/stream/channelid/314336604?ticket=087F5428B6BE41F4E1D26C5CC3569B1868186F84&profile=pass
+#EXTINF:0,BBC One Oxford
+http://80.25.87.6:9910/stream/channelid/249607257?ticket=0E01D14FFB67E1F5013920E0CE3CC43EAC6BC883&profile=pass
+#EXTINF:0,BBC One S West
+http://80.25.87.6:9910/stream/channelid/1133440804?ticket=44B75FF4DFCEF7AF3E841707ADBF0E1F395A622F&profile=pass
+#EXTINF:0,BBC One South
+http://80.25.87.6:9910/stream/channelid/1839090708?ticket=1EE17B8419C518316663836D1E3B4AAFEAC020D5&profile=pass
+#EXTINF:0,BBC Two NI
+http://80.25.87.6:9910/stream/channelid/1026527813?ticket=0F4638BFBC443C3A25A0D3A6C895D29FA3536857&profile=pass
+#EXTINF:0,BT Sport 1
+http://80.25.87.6:9910/stream/channelid/724667607?ticket=E5614D0E43CA7E3B5B4A1864409A254D7F2B73A1&profile=pass
+#EXTINF:0,CAPITAL TV
+http://80.25.87.6:9910/stream/channelid/613674784?ticket=4C322ED4E225FB5D44C693033D903F9A4782D941&profile=pass
+#EXTINF:0,CBBC
+http://80.25.87.6:9910/stream/channelid/1235801755?ticket=A89B7D777E79D5A7EEAD50E9152EC87097FE02B8&profile=pass
+#EXTINF:0,CBS Action
+http://80.25.87.6:9910/stream/channelid/1104551528?ticket=C2EAA4D8A56853A8847EFBC7D64DF550951D587C&profile=pass
+#EXTINF:0,CBS Drama
+http://80.25.87.6:9910/stream/channelid/1523564515?ticket=DB96B76ADCC02DF003E07BFB807EA0C911C6CFE9&profile=pass
+#EXTINF:0,CBS Reality
+http://80.25.87.6:9910/stream/channelid/1878765390?ticket=9344F5B8F56BFA6590D6005D5DE2AD4761BAB9D0&profile=pass
+#EXTINF:0,CBS Reality+1
+http://80.25.87.6:9910/stream/channelid/1453297280?ticket=C0758B8716C19537BCE87A1547D8F0A3316A7C6A&profile=pass
+#EXTINF:0,Channel AKA
+http://80.25.87.6:9910/stream/channelid/735137330?ticket=35A3D9349308DD3C9299940F50B27785E7321082&profile=pass
+#EXTINF:0,Chart Show TV
+http://80.25.87.6:9910/stream/channelid/1775121331?ticket=3B6C651DFFE46508FCF4AE86BD03FF39B212A44B&profile=pass
+#EXTINF:0,Chartshow Hits
+http://80.25.87.6:9910/stream/channelid/79169016?ticket=B8F1F966280C44FC5AB25548A56E6DCEB393502F&profile=pass
+#EXTINF:0,Chilled 90s
+http://80.25.87.6:9910/stream/channelid/1741424864?ticket=F47CF705369A62E27C97305F3B418FA0EA33A0B6&profile=pass
+#EXTINF:0,Clubland TV
+http://80.25.87.6:9910/stream/channelid/1185556454?ticket=8674674EBBC1D0B77F88621E96475AC0C21545FD&profile=pass
+#EXTINF:0,Eman Channel
+http://80.25.87.6:9910/stream/channelid/669454787?ticket=12AE5906A594F1E13248262F5605C470FF01C25E&profile=pass
+#EXTINF:0,Flava
+http://80.25.87.6:9910/stream/channelid/1801366247?ticket=261DE692B2CCF4A122FEFF1B015FF59248A1B7B9&profile=pass
+#EXTINF:0,Food Network
+http://80.25.87.6:9910/stream/channelid/616350194?ticket=AA6109954AE0074D005C039E0C5129C47C364DB5&profile=pass
+#EXTINF:0,Food Netwrk+1
+http://80.25.87.6:9910/stream/channelid/1951957732?ticket=B21CA7CC448FDEE19F1890757320D092E5F51FC7&profile=pass
+#EXTINF:0,FRANCE Eng
+http://80.25.87.6:9910/stream/channelid/1720065417?ticket=741F53DA2878B48550AA2B5792EE0A92B79B518A&profile=pass
+#EXTINF:0,Heart TV
+http://80.25.87.6:9910/stream/channelid/82193812?ticket=7A8253214131DB882F09E3A315B8CA3B32CDD33D&profile=pass
+#EXTINF:0,Hillsong
+http://80.25.87.6:9910/stream/channelid/1085184769?ticket=FFD53C0940730E9502A138581444518D26FF9624&profile=pass
+#EXTINF:0,horror ch+1
+http://80.25.87.6:9910/stream/channelid/1035393511?ticket=E0ABDD1D615F5AEE97CC0A19CDB5776E717425F4&profile=pass
+#EXTINF:0,horror channel
+http://80.25.87.6:9910/stream/channelid/131036402?ticket=F49DA75809582CBAA7DB63CAC3C1D709DAC18773&profile=pass
+#EXTINF:0,ITV +1
+http://80.25.87.6:9910/stream/channelid/1382808869?ticket=62DD72068138A3F2C108F1B0346BD84C6E0AD718&profile=pass
+#EXTINF:0,ITV Encore+1
+http://80.25.87.6:9910/stream/channelid/988376674?ticket=AE8947770B04ABCA8FF46FD84C28CDEDF5C7B129&profile=pass
+#EXTINF:0,ITV3
+http://80.25.87.6:9910/stream/channelid/29314692?ticket=41019971F876C80DF6317C2F930B114FB1E25A5D&profile=pass
+#EXTINF:0,ITV3+1
+http://80.25.87.6:9910/stream/channelid/704362853?ticket=DA8C484999FBCE1DBB2B2BC1D78ED9D6A42FD6F0&profile=pass
+#EXTINF:0,Kix
+http://80.25.87.6:9910/stream/channelid/63438257?ticket=ADD8FDFCC6F190B9B013C0C593F498E3D5084547&profile=pass
+#EXTINF:0,Kix+1
+http://80.25.87.6:9910/stream/channelid/1390518786?ticket=4E5632940DB5C598D104DF3A27BE8EEACC1A0C62&profile=pass
+#EXTINF:0,Lucky Star
+http://80.25.87.6:9910/stream/channelid/852995763?ticket=1A5190F43B018F65F1C2B962729B0A1446030D00&profile=pass
+#EXTINF:0,Made In Cardiff
+http://80.25.87.6:9910/stream/channelid/1978840697?ticket=96313B8778AFD012EA57F143E8435849E551BD88&profile=pass
+#EXTINF:0,mov4men+1
+http://80.25.87.6:9910/stream/channelid/1746111179?ticket=356D1339E419E6286D93B265BD3CDE827297D2F2&profile=pass
+#EXTINF:0,movies4men
+http://80.25.87.6:9910/stream/channelid/575576427?ticket=E82FCDE5C825A6FDA607EDD784DD710A41EF859F&profile=pass
+#EXTINF:0,My Channel
+http://80.25.87.6:9910/stream/channelid/1726937723?ticket=FD9D40E5D3ADD6C151A3F3FD09A650CF0B1F7294&profile=pass
+#EXTINF:0,PBS America
+http://80.25.87.6:9910/stream/channelid/1749070024?ticket=A5B98A3A2D2B89AAF7E0A0D0591B3BD0937D69A8&profile=pass
+#EXTINF:0,POP
+http://80.25.87.6:9910/stream/channelid/142786971?ticket=7123549CACD47A45FDCA1F54B4CD3AE43597FE1C&profile=pass
+#EXTINF:0,POP+1
+http://80.25.87.6:9910/stream/channelid/136432646?ticket=B41C3D640E83997080120FCA12F53137C99CFF0E&profile=pass
+#EXTINF:0,Quest Red
+http://80.25.87.6:9910/stream/channelid/237839892?ticket=DA804E19609CD5F1ED5B1298F87E580960AB1492&profile=pass
+#EXTINF:0,Quest Red+1
+http://80.25.87.6:9910/stream/channelid/513368957?ticket=0D66A96F831CEA7E933D0CB53DDE7F403F4DE266&profile=pass
+#EXTINF:0,S4C
+http://80.25.87.6:9910/stream/channelid/2096175951?ticket=98E78943A6436F86304626127B12636D855B1E63&profile=pass
+#EXTINF:0,Scuzz
+http://80.25.87.6:9910/stream/channelid/2029462085?ticket=BEBB3F40ABDA2A79CA221A5B135E133032F854F3&profile=pass
+#EXTINF:0,Starz TV
+http://80.25.87.6:9910/stream/channelid/512998921?ticket=4C65587CD85AB8592B573B479678E268929563E0&profile=pass
+#EXTINF:0,The Vault
+http://80.25.87.6:9910/stream/channelid/91565160?ticket=1017FECD69CD20AF0A08517949E8D0D8C5E52044&profile=pass
+#EXTINF:0,Tiny Pop
+http://80.25.87.6:9910/stream/channelid/421638546?ticket=45AD6DD001F2E9B6406C5B7B1174483E705BBED8&profile=pass
+#EXTINF:0,Tiny Pop +1
+http://80.25.87.6:9910/stream/channelid/1796407694?ticket=D06185CE1E1EF681DEE2E8EA2AA5B035B63F3F83&profile=pass
+#EXTINF:0,Travel Ch +1
+http://80.25.87.6:9910/stream/channelid/547972491?ticket=A129A91A170C6DEB00A5ECDA072268ED7634B23A&profile=pass
+#EXTINF:0,tru TV
+http://80.25.87.6:9910/stream/channelid/327095175?ticket=E251CD64B57DE3F94A6FFBC7C9F426BB8DB1011E&profile=pass
+#EXTINF:0,tru TV+1
+http://80.25.87.6:9910/stream/channelid/1140841638?ticket=EDE2E8291EA0D393346441E1A388D6C7DC75E415&profile=pass
+#EXTINF:0,True Crime
+http://80.25.87.6:9910/stream/channelid/1039418473?ticket=6399C7B27CEBC5183B69A48AB96A6F7161C24F97&profile=pass
+#EXTINF:0,True Ent
+http://80.25.87.6:9910/stream/channelid/1335017070?ticket=9A6A9416C3CF15B00B2985564B05B55D6D38762E&profile=pass
+#EXTINF:0,True Ent +1
+http://80.25.87.6:9910/stream/channelid/794074412?ticket=5DDDAE09E07D576CFE454F3D6D890D6E239B7075&profile=pass
+#EXTINF:0,True Movies
+http://80.25.87.6:9910/stream/channelid/1591020291?ticket=768796BD26027F1CDC193EAC94D2E2DC27138554&profile=pass
+#EXTINF:0,True Movies+1
+http://80.25.87.6:9910/stream/channelid/834043764?ticket=E3300F42DAFCB4173645B7A75BCCD0D17FD21EEE&profile=pass
+#EXTINF:0,UTV
+http://80.25.87.6:9910/stream/channelid/933243735?ticket=2B52DD143715594AA2C39D9828A5FD25E64B9559&profile=pass
+#EXTINF:0,Vintage TV
+http://80.25.87.6:9910/stream/channelid/500029616?ticket=FF84AFD0252DFAB51D5CBF7CAE37890DB0361D77&profile=pass
+#EXTINF:0,YourTV
+http://80.25.87.6:9910/stream/channelid/1533669872?ticket=0AFFC5B68560FD0C5A774EB0745580A2305B263C&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9910/stream/channelid/241947801?ticket=7FCB2AD127439A876C6BB59C0D2C7CB475C7F65A&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9910/stream/channelid/372204203?ticket=BC6034DD42973AEE74EC7D29B8483DC1A1A29BBB&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9910/stream/channelid/1252307974?ticket=D8CD6A7ED9C4EBD1DEE938AFE96C8F62A859A765&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9910/stream/channelid/1548047993?ticket=027E2D3136C1184CB08A452EA922AD7F7AD6BF03&profile=pass
+#EXTM3U
+#EXTINF:0,5 USA
+http://80.25.87.6:9970/stream/channelid/1929591013?ticket=2A9CDC70AB5727241E8A1A9481A5BEE3EA719A4F&profile=pass
+#EXTINF:0,5 USA +1
+http://80.25.87.6:9970/stream/channelid/1491543313?ticket=755F470A8E55DE36BDFAA362D316D3E4973951F6&profile=pass
+#EXTINF:0,5STAR
+http://80.25.87.6:9970/stream/channelid/1368295326?ticket=657D83E3FE2C66EACC3C14C3C31248D6AF7B27E9&profile=pass
+#EXTINF:0,5STAR +1
+http://80.25.87.6:9970/stream/channelid/364641999?ticket=88DA6C388E7BDF19DBFF1550844DE8EC0B07BF4E&profile=pass
+#EXTINF:0,AD Sport 1 HD
+http://80.25.87.6:9970/stream/channelid/1543041396?ticket=E0F06DF7236DF95B29B0815436B42AE49065C04F&profile=pass
+#EXTINF:0,AD Sport 2
+http://80.25.87.6:9970/stream/channelid/1726721421?ticket=6549AD58C6598170949C79F9F55C69EF3278A4B9&profile=pass
+#EXTINF:0,Channel 4 +1
+http://80.25.87.6:9970/stream/channelid/355610947?ticket=2D8F70D9ACAEC3AF0F046E689FF4B33FA0D64729&profile=pass
+#EXTINF:0,Channel 5
+http://80.25.87.6:9970/stream/channelid/1049018982?ticket=C62B87DE339172BBAB33EFF3E88B2E0D8B360043&profile=pass
+#EXTINF:0,Channel 5+1
+http://80.25.87.6:9970/stream/channelid/1416340143?ticket=5D718B4ED5EB82E797251B16DC10A9F7C4D3724C&profile=pass
+#EXTINF:0,Cuatro
+http://80.25.87.6:9970/stream/channelid/259540934?ticket=FDF19FF1BC90C79A75FB6D8D6DA715EAE11BAE24&profile=pass
+#EXTINF:0,Disney Channel
+http://80.25.87.6:9970/stream/channelid/987696723?ticket=3C6D1854AE06CD158FD62D674F931FE38DAB790B&profile=pass
+#EXTINF:0,Divinity
+http://80.25.87.6:9970/stream/channelid/1282677495?ticket=9149E3C616418DD595137B2DA7EF9B91440AC65D&profile=pass
+#EXTINF:0,DKISS
+http://80.25.87.6:9970/stream/channelid/1303332231?ticket=F02258E425A69A526A8F09A3781A456F3D760F16&profile=pass
+#EXTINF:0,DMAX
+http://80.25.87.6:9970/stream/channelid/459605356?ticket=DD91482C8C846504CDCFC3098C6A328FFE4EECFD&profile=pass
+#EXTINF:0,E4
+http://80.25.87.6:9970/stream/channelid/1878943179?ticket=9BD8CBE4DFB6D4BC8C409968664A50220F32E097&profile=pass
+#EXTINF:0,E4+1
+http://80.25.87.6:9970/stream/channelid/1726504728?ticket=0C22C981DB2499F34C794AB2C46F513CFFF2D8B7&profile=pass
+#EXTINF:0,EURONEWS FRENCH SD
+http://80.25.87.6:9970/stream/channelid/213569351?ticket=53922E9500C2EFC52CF35A74E4B905E1DF5A08AE&profile=pass
+#EXTINF:0,Eurosport 1 Deutschland
+http://80.25.87.6:9970/stream/channelid/948333305?ticket=76A1025155E2B254CBE5AEA9FEA8CB29D2D3C1B2&profile=pass
+#EXTINF:0,FDF
+http://80.25.87.6:9970/stream/channelid/1177399347?ticket=D118A16D99D0FCA837B73507B0A5802FC3A62B87&profile=pass
+#EXTINF:0,Film4
+http://80.25.87.6:9970/stream/channelid/417167914?ticket=E7FD68B3A4AAA7C28ED96B25208FA817D02DF0EC&profile=pass
+#EXTINF:0,HSE24 EXTRA
+http://80.25.87.6:9970/stream/channelid/1306178206?ticket=274480C3A00858DEC798BFAE3AF56722313F793D&profile=pass
+#EXTINF:0,LA TIENDA EN CASA
+http://80.25.87.6:9970/stream/channelid/1186782716?ticket=02C0DA5D7C7A2E8B0FD3542C9CC66A4386A4EFE1&profile=pass
+#EXTINF:0,Lux Mallorca
+http://80.25.87.6:9970/stream/channelid/1411766382?ticket=153E35324DCE95C69C98AB8BD3D78D7337EF0090&profile=pass
+#EXTINF:0,Mallorca Sunshine Radio
+http://80.25.87.6:9970/stream/channelid/1432645882?ticket=8A0078B8A6D8E9B467C8B6FF98DF31A175AA41B1&profile=pass
+#EXTINF:0,More4
+http://80.25.87.6:9970/stream/channelid/2071090365?ticket=A1DBDD51935E5BE7F341769AEC6A7677CB58164E&profile=pass
+#EXTINF:0,My5
+http://80.25.87.6:9970/stream/channelid/876889350?ticket=4429E3957215CD3896E2FC442461DF95B36FB99A&profile=pass
+#EXTINF:0,PARAMOUNT CHANNEL
+http://80.25.87.6:9970/stream/channelid/1263210522?ticket=2D09BFD839704627867D842289059137834CD50D&profile=pass
+#EXTINF:0,RTL Austria
+http://80.25.87.6:9970/stream/channelid/1572406255?ticket=0DA1769438646BCB26B9592E574076C19BCA808B&profile=pass
+#EXTINF:0,RTL2 Austria
+http://80.25.87.6:9970/stream/channelid/1023212375?ticket=8971FB8A5572A9E052537CC81D9F2B2C03C65CBC&profile=pass
+#EXTINF:0,Spike
+http://80.25.87.6:9970/stream/channelid/171400961?ticket=890076C277F27DA15DBF3EEED5291C8692BB0192&profile=pass
+#EXTINF:0,SUPER RTL A
+http://80.25.87.6:9970/stream/channelid/555777256?ticket=098233D5EBC3713A8237862EE47FF843A552E8B5&profile=pass
+#EXTINF:0,tdp
+http://80.25.87.6:9970/stream/channelid/670466819?ticket=2A8CBB86B90648B1B6291D3289C2163F8A5105DD&profile=pass
+#EXTINF:0,tdp HD
+http://80.25.87.6:9970/stream/channelid/1258808993?ticket=0D039D1D7CC3D218A3C04CC7EDDC6A7201235B6F&profile=pass
+#EXTINF:0,Telecinco
+http://80.25.87.6:9970/stream/channelid/677309809?ticket=D4F6CFDC8947CC244FD429C337EAE09949922789&profile=pass
+#EXTINF:0,TEN
+http://80.25.87.6:9970/stream/channelid/1686683409?ticket=B5933EF88A282A2FF493C55152C6204C2A90F286&profile=pass
+#EXTINF:0,VOX Austria
+http://80.25.87.6:9970/stream/channelid/1584947218?ticket=2E95C12762094A36C73730BF97568B591B827584&profile=pass
+#EXTINF:0,VOX CH
+http://80.25.87.6:9970/stream/channelid/141377266?ticket=F9258F1CB1D8374331CBE65AAE421F1FDD0B9AA8&profile=pass
+#EXTINF:0,YAS Sports
+http://80.25.87.6:9970/stream/channelid/1531470318?ticket=8598803468615F14AD6858B30DF68244FA98F262&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/32048254?ticket=2C5DF700443C299F5A75D0F38AEA5C849C4A4C91&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/58969648?ticket=5FF9B479E414EF8890DF6FB3247FDC155046EAA0&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/203604865?ticket=9761355B352F7AB6813FB6B17DE2E8DC1982DC4C&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/383833737?ticket=9E4B99122E2C95850E077FA3BFE2085B00B1BE30&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/621132931?ticket=0725BE409B360CFAF63EFA23CA3E03CC8B187DF1&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/755586981?ticket=DC6C91CF8191BF1D95F8484DFD592DDF33110578&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/848402601?ticket=C333C14AA4BAC7314886E4B4EECCE9C018F24C21&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1021302166?ticket=2A682E07A720509B6D387D05A094E7FBF95662DF&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1039126870?ticket=87549C658FDC7E9726CA0E421C2FEA41660BB22A&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1180832133?ticket=8E186C90B4CA1CF7AF65279F537C5F62E0F33D30&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1199931906?ticket=AA4E1817D2B8C41CB03F0EA4322603F4437B5C83&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1346331943?ticket=82539940D1CD161EA4CA8CA77292B2DC2A29229D&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1595839415?ticket=4202F9F7170B65691CCBB385DD2DB681CAD72262&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1648047033?ticket=0905E9C466E2D0EB03E15246A07D4AE30E1FD1AB&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1706146129?ticket=63B40CB2EA03DA817762C270446BF2D79A170D33&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1841140202?ticket=D7F4476B1E1865A74107048EA92A7946427D4405&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1903592168?ticket=9CFA6230017FC90AB807A77E99916EF704F17519&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1941756422?ticket=9F237E0AC0141B10879A7517ED64C6E29647BA2B&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/1983253438?ticket=A34547CDBD35C7E2FB659A8A2D046ED8DF681F88&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/2043596014?ticket=79E2AD6FD3666E66A412B468DE7BE544CF260B89&profile=pass
+#EXTINF:0,{name-not-set}
+http://80.25.87.6:9970/stream/channelid/2082752142?ticket=7C1B3AC7666E14CB0DE905E136A03479A5A0B9D4&profile=pass
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,A&E free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/672.ts
+#EXTINF:-1,AnimalPlanet free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/671.ts
+#EXTINF:-1,BBC AMERICA free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/628.ts
+#EXTINF:-1,bet free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/630.ts
+#EXTINF:-1,CartoonNetwork free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/670.ts
+#EXTINF:-1,cbs free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/669.ts
+#EXTINF:-1,cbs news free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/653.ts
+#EXTINF:-1,cnn free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/668.ts
+#EXTINF:-1,ComedyCentral free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/667.ts
+#EXTINF:-1,COOKING CHANNEL free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/627.ts
+#EXTINF:-1,cw free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/666.ts
+#EXTINF:-1,Destination America free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/621.ts
+#EXTINF:-1,Discovery free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.ts
+#EXTINF:-1,DiscoveryScience free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/651.ts
+#EXTINF:-1,diy free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/650.ts
+#EXTINF:-1,E! free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/655.ts
+#EXTINF:-1,ESPN2 free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/616.ts
+#EXTINF:-1,FOOD NETWORK free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/626.ts
+#EXTINF:-1,fox free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/665.ts
+#EXTINF:-1,FOXSPORT1  free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/625.ts
+#EXTINF:-1,fx free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/664.ts
+#EXTINF:-1,fxx free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/635.ts
+#EXTINF:-1,fyi free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/643.ts
+#EXTINF:-1,h2 free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/633.ts
+#EXTINF:-1,HBO COMEDY free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/624.ts
+#EXTINF:-1,HBO FAMILY free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/623.ts
+#EXTINF:-1,hbo free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/634.ts
+#EXTINF:-1,HBO SIGNATURE free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/642.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/641.ts
+#EXTINF:-1,life time free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/663.ts
+#EXTINF:-1,lifetime movie network free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/649.ts
+#EXTINF:-1,MLB Live 1 free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/721.ts
+#EXTINF:-1,MLB Live 2 free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/720.ts
+#EXTINF:-1,MLB Network free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/719.ts
+#EXTINF:-1,MSNBC free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/640.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/718.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/717.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/716.ts
+#EXTINF:-1,nba tv free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/639.ts
+#EXTINF:-1,nbc free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/662.ts
+#EXTINF:-1,nfl network free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/632.ts
+#EXTINF:-1,NFLNOW free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/622.ts
+#EXTINF:-1,pbs free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/660.ts
+#EXTINF:-1,showtime free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/638.ts
+#EXTINF:-1,spike free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/659.ts
+#EXTINF:-1,STARZ CINEMA free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/636.ts
+#EXTINF:-1,STARZ EAST free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/637.ts
+#EXTINF:-1,syfy free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/658.ts
+#EXTINF:-1,tbs free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/657.ts
+#EXTINF:-1,tnt free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/656.ts
+#EXTINF:-1,trutv free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/648.ts
+#EXTINF:-1,tv land free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/654.ts
+#EXTINF:-1,UnivisionDeportes free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/617.ts
+#EXTINF:-1,Velocity free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/646.ts
+#EXTINF:-1,wwe free
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/631.ts
+#EXTINF:-1,[COLOR gold][B]....FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/809.ts
+#EXTINF:-1,[COLOR gold][B]...FOR MORE CONTENT UPGARDE.[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/808.ts
+#EXTINF:-1,[COLOR gold][B]...FOR MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/810.ts
+#EXTINF:-1,[COLOR gold][B]...FOR MORE CONTENT. UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/813.ts
+#EXTINF:-1,[COLOR gold][B]...FOR MORE. CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/812.ts
+#EXTINF:-1,[COLOR gold][B]...FOR. MORE CONTENT UPGARDE[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/811.ts
+#EXTINF:-1,[COLOR gold][B]...FOR MORE CONTENT UPGARDE..[COLOR white] TO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/816.ts
+#EXTINF:-1,[COLOR gold][B]PREMIUM CLIENTS ONLY.[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/815.ts
+#EXTINF:-1,[COLOR gold][B]PREMIUM CLIENTS ONLY[COLOR white] GO PREMIUM $5 PER MONTH[/B][/COLOR]
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/814.ts
+#EXTINF:-1,free  BNN
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/806.ts
+#EXTINF:-1,free  CARTOON NETWORK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/805.ts
+#EXTINF:-1,free  CBC TORONTO
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/804.ts
+#EXTINF:-1,free  CHCH
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/803.ts
+#EXTINF:-1,free  CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/802.ts
+#EXTINF:-1,free  COMEDY GOLD
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/801.ts
+#EXTINF:-1,free  COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/800.ts
+#EXTINF:-1,free  CP24
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/799.ts
+#EXTINF:-1,free  CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/798.ts
+#EXTINF:-1,free  DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/797.ts
+#EXTINF:-1,free  E!
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/796.ts
+#EXTINF:-1,free  FYI
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/794.ts
+#EXTINF:-1,free  G4
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/793.ts
+#EXTINF:-1,free  GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/792.ts
+#EXTINF:-1,free  GOLF CHANNEL
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/790.ts
+#EXTINF:-1,free  GSN
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/789.ts
+#EXTINF:-1,MOVIE TIME FREE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/787.ts
+#EXTINF:-1,free  MTV CANADA
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/786.ts
+#EXTINF:-1,free  MUCH MUSIC
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/785.ts
+#EXTINF:-1,free  NICK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/783.ts
+#EXTINF:-1,free  OLN
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/782.ts
+#EXTINF:-1,free  OWN (OPRAH WINFREY NETWORK)
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/781.ts
+#EXTINF:-1,free  PEACHTREE TV
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/780.ts
+#EXTINF:-1,free  SILVER SCREEN CLASSICS
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/779.ts
+#EXTINF:-1,free  SLICE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/778.ts
+#EXTINF:-1,free  SPIKE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/777.ts
+#EXTINF:-1,free  SPORTSNET WORLD HD
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/776.ts
+#EXTINF:-1,free  TELETOON
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/775.ts
+#EXTINF:-1,free  THE MOVIE NETWORK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/774.ts
+#EXTINF:-1,free  TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/773.ts
+#EXTINF:-1,free  TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/772.ts
+#EXTINF:-1,free  VRAK TV
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/771.ts
+#EXTINF:-1,free  W NETWORK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/770.ts
+#EXTINF:-1,free  WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/769.ts
+#EXTINF:-1,free  YTV
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/768.ts
+#EXTINF:-1,TelemundoFREE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/615.ts
+#EXTINF:-1,RT HD
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/822.ts
+#EXTINF:-1,TPK  MUSIC BRIT HITS
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/849.ts
+#EXTINF:-1,TPK  MUSIC DANCE EDM
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/848.ts
+#EXTINF:-1,TPK  MUSIC HIP HOP & R & B
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/847.ts
+#EXTINF:-1,TPK  MUSIC HIT LIST
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/846.ts
+#EXTINF:-1,TPK  MUSIC INDIE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/845.ts
+#EXTINF:-1,TPK  MUSIC KIDS ONLY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/844.ts
+#EXTINF:-1,TPK  MUSIC LATINO POP
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/843.ts
+#EXTINF:-1,TPK  MUSIC MEXICAAN
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/841.ts
+#EXTINF:-1,TPK  MUSIC POP & COUNTRY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/840.ts
+#EXTINF:-1,TPK  MUSIC POP HITS
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/839.ts
+#EXTINF:-1,TPK  MUSIC R&B SOUL
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/838.ts
+#EXTINF:-1,TPK  MUSIC RAP 2K
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/836.ts
+#EXTINF:-1,TPK MUSIC RAP
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/837.ts
+#EXTINF:-1,TPK  MUSIC ROCK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/835.ts
+#EXTINF:-1,TPK MUSIC THROWBACK JAMZ
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/833.ts
+#EXTINF:-1,TPK  MUSIC TODAYS COUNTRY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/832.ts
+#EXTINF:-1,TPK  MUSIC TODDLER TUNES
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/831.ts
+#EXTINF:-1,TPK MUSIC MC PLAY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/842.ts
+#EXTINF:-1,TPK  MUSIC TEEN BEATS
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/834.ts
+#EXTINF:-1,TPK  MUSIC Y2K
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/828.ts
+#EXTINF:-1,TPK MUSIC ALTERNATIVE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/826.ts
+#EXTINF:-1,TPK MUSIC TROPICALES
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/830.ts
+#EXTINF:-1,SyFy Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1079.ts
+#EXTINF:-1,13 TV LATINO
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
+#EXTINF:-1,360 TV LATINO
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,7 TV Región de Murcia LATINO
+http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
+#EXTINF:-1,8 TV LATINO
+rtmp://178.33.113.212/8TV/8aldia-directe
+#EXTINF:-1,A&E Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1127.ts
+#EXTINF:-1,Agape TV LATINO
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+#EXTINF:-1,Animal Planet Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1126.ts
+#EXTINF:-1,Aragon TV LATINO
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,ATB Bolivia LATINO
+http://192.99.38.174:1935/envivo/atb/playlist.m3u8
+#EXTINF:-1,AXN Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1125.ts
+#EXTINF:-1,Azteca 13 LATINO
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Bolivia al Aire LATINO
+rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
+#EXTINF:-1,C5N LATINO
+http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,C7 Jalisco LATINO
+http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
+#EXTINF:-1,Capital 21 CDMX LATINO
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,Capital TV LATINO
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,Carolina TV LATINO
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1123.ts
+#EXTINF:-1,Castilla la Mancha TV LATINO
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,NatGeo Wild Latinoamerica
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/1094.ts
+#EXTINF:-1,Navarra TV LATINO
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:-1,Niu TV LATINO
+http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Ocho TV LATINO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+#EXTINF:-1,Pacifico Television Virtual LATINO
+rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
+#EXTINF:-1,PAT LATINO
+http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
+#EXTINF:-1,Patagonia TV LATINO
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,PDVSA TV LATINO
+rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
+#EXTINF:-1,Promar TV  LATINO
+http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
+#EXTINF:-1,Proyecto 40 LATINO
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,QM Noticias LATINO
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
+#EXTINF:-1,]RBC Online LATINO
+rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
+#EXTINF:-1,RCG Televisión LATINO
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+#EXTINF:-1,Red Advenir LATINO
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
+#EXTINF:-1,CA -  YTV
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/484.ts
+#EXTINF:-1,CA - CHCH
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/519.ts
+#EXTINF:-1,CA -  CITY VANCOUVER
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/518.ts
+#EXTINF:-1,CA - COMEDY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/517.ts
+#EXTINF:-1,CA - COTTAGE LIFE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/516.ts
+#EXTINF:-1,CA -  CP24
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/515.ts
+#EXTINF:-1,CA - CTV TORONTO
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/514.ts
+#EXTINF:-1,CA - DEJA VIEW
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/513.ts
+#EXTINF:-1,CA -  E!
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/512.ts
+#EXTINF:-1,CA EVASION
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/511.ts
+#EXTINF:-1,CA FYI
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/510.ts
+#EXTINF:-1,CA G4
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/509.ts
+#EXTINF:-1,CA GLOBAL TV CALGARY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/508.ts
+#EXTINF:-1,CA TRAVEL CHANNEL
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/489.ts
+#EXTINF:-1,CA TREE HOUSE
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/488.ts
+#EXTINF:-1,CA VRAK TV
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/487.ts
+#EXTINF:-1,CA W NETWORK
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/486.ts
+#EXTINF:-1,CA WORLD FISHING
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/485.ts
 
 
 

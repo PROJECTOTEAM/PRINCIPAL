@@ -1,59 +1,71 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,PL: TVP 1 HD
-http://ksportiptv.com:1557/live/123/123/3873.ts
-#EXTINF:-1,PL: TVP 2 HD
-http://ksportiptv.com:1557/live/123/123/3874.ts
-#EXTINF:-1,PL: TVP Polonia
-http://ksportiptv.com:1557/live/123/123/3071.ts
-#EXTINF:-1,PL: Polsat HD
-http://ksportiptv.com:1557/live/123/123/3066.ts
-#EXTINF:-1,PL: Polsat 2
-http://ksportiptv.com:1557/live/123/123/3875.ts
+#EXTINF:-1,PL: Disney Junior
+http://46.249.62.20:1824/play/a01s
+#EXTINF:-1,PL: Nat Geo People HD
+http://46.249.62.20:1824/play/a01j
 #EXTINF:-1,PL: Universal HD
-http://ksportiptv.com:1557/live/123/123/3876.ts
-#EXTINF:-1,PL: Da Vinci Learning
-http://ksportiptv.com:1557/live/123/123/3877.ts
-#EXTINF:-1,PL: Extreme Sports
-http://ksportiptv.com:1557/live/123/123/8142.ts
-#EXTINF:-1,PL: TVN Style
-http://ksportiptv.com:1557/live/123/123/8143.ts
-#EXTINF:-1,PL: TVN 24
-http://ksportiptv.com:1557/live/123/123/3070.ts
-#EXTINF:-1,PL: Canal + Film HD
-http://ksportiptv.com:1557/live/123/123/3080.ts
-#EXTINF:-1,PL: FILMBOX
-http://ksportiptv.com:1557/live/123/123/3069.ts
-#EXTINF:-1,PL: Polsat Play
-http://ksportiptv.com:1557/live/123/123/3068.ts
-#EXTINF:-1,PL: Polsat News
-http://ksportiptv.com:1557/live/123/123/3067.ts
-#EXTINF:-1,PL: Polsat Film
-http://ksportiptv.com:1557/live/123/123/3072.ts
-#EXTINF:-1,PL: Polsat Cafe
-http://ksportiptv.com:1557/live/123/123/3065.ts
-#EXTINF:-1,PL: MiniMini HD
-http://ksportiptv.com:1557/live/123/123/3064.ts
-#EXTINF:-1,PL: Kino Polska
-http://ksportiptv.com:1557/live/123/123/3073.ts
+http://46.249.62.20:1824/play/a026
+#EXTINF:-1,PL: Lifetime HD
+http://46.249.62.20:1824/play/a02c
+#EXTINF:-1,PL: 13 Ulica HD
+http://46.249.62.20:1824/play/a02j
+#EXTINF:-1,PL: Eurosport 2 HD
+http://46.249.62.20:1824/play/a01t
+#EXTINF:-1,PL: Fightbox HD
+http://46.249.62.20:1824/play/a02a
+#EXTINF:-1,PL: Polsat Sport News HD
+http://46.249.62.20:1824/play/a01l
+#EXTINF:-1,PL: Eurosport 1 HD
+http://46.249.62.20:1824/play/a029
+#EXTINF:-1,PL: FILMBOX EXTRA HD
+http://46.249.62.20:1824/play/a021
+#EXTINF:-1,PL: Golf Channel
+http://46.249.62.20:1824/play/a02d
+#EXTINF:-1,PL: SciFi Universal
+http://46.249.62.20:1824/play/a02f
+#EXTINF:-1,PL: H2 HD
+http://46.249.62.20:1824/play/a02b
+#EXTINF:-1,PL: E! Entertainment
+http://46.249.62.20:1824/play/a02h
+#EXTINF:-1,PL: TLC HD
+http://46.249.62.20:1824/play/a027
+#EXTINF:-1,PL: Cartoon Network HD
+http://46.249.62.20:1824/play/a01i
+#EXTINF:-1,PL: Lifetime HD
+http://46.249.62.20:1824/play/a02g
+#EXTINF:-1,PL: Sundance HD
+http://46.249.62.20:1824/play/a025
+#EXTINF:-1,PL: 13 Ulica HD
+http://46.249.62.20:1824/play/a028
+#EXTINF:-1,PL: NATIONAL GEO HD
+http://46.249.62.20:1824/play/a022
+#EXTINF:-1,PL: TNT HD
+http://46.249.62.20:1824/play/a01h
+#EXTINF:-1,PL: CANAL+ SPORT HD
+http://46.249.62.20:1824/play/a023
+#EXTINF:-1,PL: CANAL+ HD
+http://46.249.62.20:1824/play/a020
+#EXTINF:-1,PL: MiniMini+ HD
+http://46.249.62.20:1824/play/a01y
+#EXTINF:-1,PL: Eurosport 2 HD
+http://46.249.62.20:1824/play/a01o
+#EXTINF:-1,PL: Discovery Science HD
+http://46.249.62.20:1824/play/a01p
+#EXTINF:-1,PL: CBS Europa HD
+http://46.249.62.20:1824/play/a01n
+#EXTINF:-1,PL: CANAL+ HD
+http://46.249.62.20:1824/play/a01w
+#EXTINF:-1,PL: Extreme Sports HD
+http://46.249.62.20:1824/play/a01m
+#EXTINF:-1,STARS.TV
+http://46.249.62.20:1824/play/a02e
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://46.249.62.20:1824/play/a01u
 #EXTINF:-1,PL: HBO HD
-http://ksportiptv.com:1557/live/123/123/3074.ts
-#EXTINF:-1,PL: HBO 2HD
-http://ksportiptv.com:1557/live/123/123/3075.ts
-#EXTINF:-1,PL: Canal Plus HD Seriale
-http://ksportiptv.com:1557/live/123/123/3063.ts
-#EXTINF:-1,PL: FilmBox Premium
-http://ksportiptv.com:1557/live/123/123/3076.ts
-#EXTINF:-1,PL: Canal Discovery HD
-http://ksportiptv.com:1557/live/123/123/3062.ts
-#EXTINF:-1,PL: AXN HD
-http://ksportiptv.com:1557/live/123/123/3061.ts
-#EXTINF:-1,PL: Nat Geo
-http://ksportiptv.com:1557/live/123/123/3060.ts
+http://46.249.62.20:1824/play/a01q

@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,60 +11,209 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-#EXTINF:-1,Ard 1 (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/368.ts
-#EXTINF:-1,DE: VOX HD
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/365.ts
-#EXTINF:-1,DE: KABEL 1
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/364.ts
-#EXTINF:-1,DE- SKY CINEMA COMEDY HD
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/381.ts
-#EXTINF:-1,DE- Sky Emotion
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/380.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/366.ts
-#EXTINF:-1,DE: Sky Hits
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/169.ts
-#EXTINF:-1,Sky Cinema HD (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/85.ts
-#EXTINF:-1,Sky Action HD (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/86.ts
-#EXTINF:-1,De: Sky Bundesliga 1
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/159.ts
-#EXTINF:-1,DE- SKY SELECT 1
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/104.ts
-#EXTINF:-1,De: Sky Sport 1
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/160.ts
-#EXTINF:-1,De: Sky Sport 2
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/161.ts
-#EXTINF:-1,DE: AXN HD
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/367.ts
-#EXTINF:-1,DE-  Disney XD HD
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/363.ts
-#EXTINF:-1,EUROSPORT 1 DE
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/77.ts
-#EXTINF:-1,Zdf (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/84.ts
-#EXTINF:-1,SKY FOX  (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/89.ts
-#EXTINF:-1,RTL 2 (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/168.ts
-#EXTINF:-1,RTL (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/167.ts
-#EXTINF:-1,Pro 7 HD (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/81.ts
-#EXTINF:-1,N24 (DE)
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/163.ts
-#EXTINF:-1,DE-SUPER_RTL_HD
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/191.ts
-#EXTINF:-1,DE- Orf 1
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/106.ts
-#EXTINF:-1,DE- Orf 2
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/95.ts
-#EXTINF:-1,DE- NATIONAL GEO
-http://gigasip.dyndns.tv:3838/live/live:vipmserver/skype8756/90.ts
+#EXTINF:-1,DE:Sky_3D
+http://universeiptv.com:8000/live/murad/murad123/1593.ts
+#EXTINF:-1,DE:Sky_Action
+http://universeiptv.com:8000/live/murad/murad123/595.ts
+#EXTINF:-1,DE:Sky_Atlantic_HD
+http://universeiptv.com:8000/live/murad/murad123/816.ts
+#EXTINF:-1,DE:Sky_Cinema
+http://universeiptv.com:8000/live/murad/murad123/600.ts
+#EXTINF:-1,DE:Sky_Cinema-24
+http://universeiptv.com:8000/live/murad/murad123/599.ts
+#EXTINF:-1,DE:Sky_Comedy
+http://universeiptv.com:8000/live/murad/murad123/598.ts
+#EXTINF:-1,DE:Sky_Emotion
+http://universeiptv.com:8000/live/murad/murad123/818.ts
+#EXTINF:-1,DE:Sky_Hits_HD
+http://universeiptv.com:8000/live/murad/murad123/1371.ts
+#EXTINF:-1,DE:Sky_Krimi
+http://universeiptv.com:8000/live/murad/murad123/597.ts
+#EXTINF:-1,DE:Sky_Nostalgie
+http://universeiptv.com:8000/live/murad/murad123/3187.ts
+#EXTINF:-1,DE:Sky_Planet_HD
+http://universeiptv.com:8000/live/murad/murad123/2074.ts
+#EXTINF:-1,DE:Sky_Sports_HD_1
+http://universeiptv.com:8000/live/murad/murad123/606.ts
+#EXTINF:-1,DE:Sky_Sports_HD_1_(Backup1)
+http://universeiptv.com:8000/live/murad/murad123/2625.ts
+#EXTINF:-1,DE:Sky_Sports_HD_2
+http://universeiptv.com:8000/live/murad/murad123/607.ts
+#EXTINF:-1,DE:Sky_Sports_HD_2_(Backup1)
+http://universeiptv.com:8000/live/murad/murad123/2624.ts
+#EXTINF:-1,DE:Sky_Sport_Austria_HD
+http://universeiptv.com:8000/live/murad/murad123/2077.ts
+#EXTINF:-1,DE:Sky_Sport_Plus_1_HD
+http://universeiptv.com:8000/live/murad/murad123/2079.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD
+http://universeiptv.com:8000/live/murad/murad123/601.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD_(Backup1)
+http://universeiptv.com:8000/live/murad/murad123/2622.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_1_HD_(Backup2)
+http://universeiptv.com:8000/live/murad/murad123/2623.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_2_HD
+http://universeiptv.com:8000/live/murad/murad123/1999.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_3_HD_(Match_Time_only)
+http://universeiptv.com:8000/live/murad/murad123/2940.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_4_HD_(Match_Time_only)
+http://universeiptv.com:8000/live/murad/murad123/2939.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_5_HD_(Match_Time_only)
+http://universeiptv.com:8000/live/murad/murad123/2938.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_6_HD_(Match_Time_only)
+http://universeiptv.com:8000/live/murad/murad123/2937.ts
+#EXTINF:-1,DE:SKY_Sport_News_HD
+http://universeiptv.com:8000/live/murad/murad123/2078.ts
+#EXTINF:-1,DE:SKY_SELECT_1_HD
+http://universeiptv.com:8000/live/murad/murad123/870.ts
+#EXTINF:-1,DE:SKY_SELECT_2_HD
+http://universeiptv.com:8000/live/murad/murad123/871.ts
+#EXTINF:-1,DE:SKY_SELECT_3_HD
+http://universeiptv.com:8000/live/murad/murad123/872.ts
+#EXTINF:-1,DE:SKY_SELECT_4_HD
+http://universeiptv.com:8000/live/murad/murad123/873.ts
+#EXTINF:-1,DE:SKY_SELECT_5_HD
+http://universeiptv.com:8000/live/murad/murad123/2055.ts
+#EXTINF:-1,DE:SKY_SELECT_6_HD
+http://universeiptv.com:8000/live/murad/murad123/2056.ts
+#EXTINF:-1,DE:SKY_SELECT_7_HD
+http://universeiptv.com:8000/live/murad/murad123/2057.ts
+#EXTINF:-1,DE:SKY_SELECT_8_HD
+http://universeiptv.com:8000/live/murad/murad123/2058.ts
+#EXTINF:-1,DE:13_Street_HD
+http://universeiptv.com:8000/live/murad/murad123/603.ts
+#EXTINF:-1,DE:3SAT_HD
+http://universeiptv.com:8000/live/murad/murad123/1920.ts
+#EXTINF:-1,DE:ARD_1
+http://universeiptv.com:8000/live/murad/murad123/605.ts
+#EXTINF:-1,DE:ARD_1_(SD)
+http://universeiptv.com:8000/live/murad/murad123/3646.ts
+#EXTINF:-1,DE:austria_24
+http://universeiptv.com:8000/live/murad/murad123/2530.ts
+#EXTINF:-1,DE:AXN
+http://universeiptv.com:8000/live/murad/murad123/833.ts
+#EXTINF:-1,DE:Boomerang
+http://universeiptv.com:8000/live/murad/murad123/2620.ts
+#EXTINF:-1,DE:Cartoon_Network
+http://universeiptv.com:8000/live/murad/murad123/2619.ts
+#EXTINF:-1,DE:DAS_ERSTE
+http://universeiptv.com:8000/live/murad/murad123/3668.ts
+#EXTINF:-1,DE:Discovery
+http://universeiptv.com:8000/live/murad/murad123/2621.ts
+#EXTINF:-1,DE:Deluxe-Music-hd
+http://universeiptv.com:8000/live/murad/murad123/2567.ts
+#EXTINF:-1,DE:Disney_Channel_HD
+http://universeiptv.com:8000/live/murad/murad123/2082.ts
+#EXTINF:-1,DE:Disney_Cinemagic_HD
+http://universeiptv.com:8000/live/murad/murad123/2083.ts
+#EXTINF:-1,DE:Disney_Junior_HD
+http://universeiptv.com:8000/live/murad/murad123/823.ts
+#EXTINF:-1,DE:DMAX
+http://universeiptv.com:8000/live/murad/murad123/1652.ts
+#EXTINF:-1,DE:Eurosport_HD
+http://universeiptv.com:8000/live/murad/murad123/2081.ts
+#EXTINF:-1,DE:Eurosport_2_HD
+http://universeiptv.com:8000/live/murad/murad123/2174.ts
+#EXTINF:-1,DE:Fox_HD
+http://universeiptv.com:8000/live/murad/murad123/604.ts
+#EXTINF:-1,DE:History_HD
+http://universeiptv.com:8000/live/murad/murad123/822.ts
+#EXTINF:-1,DE:KABEL1
+http://universeiptv.com:8000/live/murad/murad123/79.ts
+#EXTINF:-1,DE:Kika
+http://universeiptv.com:8000/live/murad/murad123/1591.ts
+#EXTINF:-1,DE:Kinowelt_Tv
+http://universeiptv.com:8000/live/murad/murad123/2639.ts
+#EXTINF:-1,DE:MGM_HD
+http://universeiptv.com:8000/live/murad/murad123/602.ts
+#EXTINF:-1,DE:Motorvision_TV
+http://universeiptv.com:8000/live/murad/murad123/2080.ts
+#EXTINF:-1,DE:National_Geo_HD
+http://universeiptv.com:8000/live/murad/murad123/830.ts
+#EXTINF:-1,DE:Nat_Geo_People
+http://universeiptv.com:8000/live/murad/murad123/3517.ts
+#EXTINF:-1,DE:Nat_Geo_Wild
+http://universeiptv.com:8000/live/murad/murad123/3428.ts
+#EXTINF:-1,DE:NDR_Schleswig
+http://universeiptv.com:8000/live/murad/murad123/3230.ts
+#EXTINF:-1,DE:Nickelodeon
+http://universeiptv.com:8000/live/murad/murad123/3498.ts
+#EXTINF:-1,DE:N24_HD
+http://universeiptv.com:8000/live/murad/murad123/831.ts
+#EXTINF:-1,DE:N-TV
+http://universeiptv.com:8000/live/murad/murad123/1656.ts
+#EXTINF:-1,DE:ORF_1
+http://universeiptv.com:8000/live/murad/murad123/1650.ts
+#EXTINF:-1,DE:ORF_2
+http://universeiptv.com:8000/live/murad/murad123/1651.ts
+#EXTINF:-1,DE:ORF_3
+http://universeiptv.com:8000/live/murad/murad123/2529.ts
+#EXTINF:-1,DE:ORF_Sport
+http://universeiptv.com:8000/live/murad/murad123/2041.ts
+#EXTINF:-1,DE:Pro7
+http://universeiptv.com:8000/live/murad/murad123/80.ts
+#EXTINF:-1,DE:Pro7_Fun
+http://universeiptv.com:8000/live/murad/murad123/3503.ts
+#EXTINF:-1,DE:Pro7_Maxx
+http://universeiptv.com:8000/live/murad/murad123/1554.ts
+#EXTINF:-1,DE:Puls_4
+http://universeiptv.com:8000/live/murad/murad123/3675.ts
+#EXTINF:-1,DE:Romance_TV_HD
+http://universeiptv.com:8000/live/murad/murad123/817.ts
+#EXTINF:-1,DE:RTL
+http://universeiptv.com:8000/live/murad/murad123/81.ts
+#EXTINF:-1,DE:RTL2
+http://universeiptv.com:8000/live/murad/murad123/82.ts
+#EXTINF:-1,DE:RTL_Nitro
+http://universeiptv.com:8000/live/murad/murad123/1653.ts
+#EXTINF:-1,DE:RTL_LIVING
+http://universeiptv.com:8000/live/murad/murad123/1756.ts
+#EXTINF:-1,DE:RTL_Crime_HD
+http://universeiptv.com:8000/live/murad/murad123/2076.ts
+#EXTINF:-1,DE:SUPER_RTL
+http://universeiptv.com:8000/live/murad/murad123/83.ts
+#EXTINF:-1,DE:Sat_1
+http://universeiptv.com:8000/live/murad/murad123/596.ts
+#EXTINF:-1,DE:Sat_1_Gold
+http://universeiptv.com:8000/live/murad/murad123/1757.ts
+#EXTINF:-1,DE:SRF_1_HD
+http://universeiptv.com:8000/live/murad/murad123/2071.ts
+#EXTINF:-1,DE:SRF_2_HD
+http://universeiptv.com:8000/live/murad/murad123/2072.ts
+#EXTINF:-1,DE:Tele-5-hd
+http://universeiptv.com:8000/live/murad/murad123/2566.ts
+#EXTINF:-1,DE:Tlc-hd
+http://universeiptv.com:8000/live/murad/murad123/2565.ts
+#EXTINF:-1,DE:TNT_Comedy
+http://universeiptv.com:8000/live/murad/murad123/3189.ts
+#EXTINF:-1,DE:TNT_Film
+http://universeiptv.com:8000/live/murad/murad123/1649.ts
+#EXTINF:-1,DE:TNT-glitz-hd
+http://universeiptv.com:8000/live/murad/murad123/2564.ts
+#EXTINF:-1,DE:Servus_TV
+http://universeiptv.com:8000/live/murad/murad123/3672.ts
+#EXTINF:-1,DE:Sky_TNT_Serie
+http://universeiptv.com:8000/live/murad/murad123/608.ts
+#EXTINF:-1,DE:Sixx_HD
+http://universeiptv.com:8000/live/murad/murad123/829.ts
+#EXTINF:-1,DE:Spiegel_Geschichte_HD
+http://universeiptv.com:8000/live/murad/murad123/1557.ts
+#EXTINF:-1,DE:Syfy_HD
+http://universeiptv.com:8000/live/murad/murad123/832.ts
+#EXTINF:-1,DE:Sport1_US_HD
+http://universeiptv.com:8000/live/murad/murad123/819.ts
+#EXTINF:-1,DE:Sport-DigitaL_HD
+http://universeiptv.com:8000/live/murad/murad123/820.ts
+#EXTINF:-1,DE:Universal_HD
+http://universeiptv.com:8000/live/murad/murad123/3188.ts
+#EXTINF:-1,DE:Viva_Comedy_Central
+http://universeiptv.com:8000/live/murad/murad123/1654.ts
+#EXTINF:-1,DE:VOX
+http://universeiptv.com:8000/live/murad/murad123/84.ts
+#EXTINF:-1,DE:WDR
+http://universeiptv.com:8000/live/murad/murad123/1655.ts
+#EXTINF:-1,DE:ZDF
+http://universeiptv.com:8000/live/murad/murad123/1592.ts
+#EXTINF:-1,DE:ZDF_(SD)
+http://universeiptv.com:8000/live/murad/murad123/3645.ts
+#EXTINF:-1,DE:ZEE_ONE
+http://universeiptv.com:8000/live/murad/murad123/3427.ts

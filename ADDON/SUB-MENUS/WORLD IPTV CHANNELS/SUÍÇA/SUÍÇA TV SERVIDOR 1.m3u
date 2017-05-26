@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -13,43 +13,13 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-#EXTINF:-1,CH:  Teleclub Sport 1
-http://ksportiptv.com:1557/live/123/123/2208.ts
-#EXTINF:-1,CH: Teleclub Sport 2
-http://ksportiptv.com:1557/live/123/123/2209.ts
-#EXTINF:-1,CH: Teleclub Sport 3
-http://ksportiptv.com:1557/live/123/123/2210.ts
-#EXTINF:-1,CH: Teleclub Star
-http://ksportiptv.com:1557/live/123/123/2205.ts
-#EXTINF:-1,CH: Teleclub Prime
-http://ksportiptv.com:1557/live/123/123/2206.ts
-#EXTINF:-1,CH: Teleclub Cinema
-http://ksportiptv.com:1557/live/123/123/2207.ts
-#EXTINF:-1,CH: RSI LA1 HD
-http://ksportiptv.com:1557/live/123/123/9453.ts
-#EXTINF:-1,CH: RSI LA2 HD
-http://ksportiptv.com:1557/live/123/123/1919.ts
-#EXTINF:-1,CH: TVO
-http://ksportiptv.com:1557/live/123/123/2955.ts
-#EXTINF:-1,CH: TeleBielingue.
-http://ksportiptv.com:1557/live/123/123/2957.ts
-#EXTINF:-1,CH: TeleBärn
-http://ksportiptv.com:1557/live/123/123/2958.ts
-#EXTINF:-1,CH: TELE ZURICH
-http://ksportiptv.com:1557/live/123/123/2954.ts
-#EXTINF:-1,CH: Die Neue Zeit TV
-http://ksportiptv.com:1557/live/123/123/9427.ts
-#EXTINF:-1,CH: KANAL 9 (deutsch)
-http://ksportiptv.com:1557/live/123/123/2956.ts
-#EXTINF:-1,CH: KANAL 9 (francais)
-http://ksportiptv.com:1557/live/123/123/9425.ts
-#EXTINF:-1,CH: Tele M1 (Mittelland)
-http://ksportiptv.com:1557/live/123/123/9422.ts
-#EXTINF:-1,CH: Tele1
-http://ksportiptv.com:1557/live/123/123/9424.ts
-#EXTINF:-1,CH: Telebasel
-http://ksportiptv.com:1557/live/123/123/9421.ts
+#EXTINF:-1,SWISS:Teleclub_Cinema
+http://universeiptv.com:8000/live/murad/murad123/3172.ts
+#EXTINF:-1,SWISS:Teleclub_Prime
+http://universeiptv.com:8000/live/murad/murad123/3173.ts
+#EXTINF:-1,SWISS:Teleclub_Sport1
+http://universeiptv.com:8000/live/murad/murad123/3174.ts
+#EXTINF:-1,SWISS:Teleclub_Sport2
+http://universeiptv.com:8000/live/murad/murad123/3175.ts
+#EXTINF:-1,SWISS:Teleclub_Star
+http://universeiptv.com:8000/live/murad/murad123/3176.ts
