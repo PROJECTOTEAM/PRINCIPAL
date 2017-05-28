@@ -17,7 +17,7 @@
 
 <plugin>
 <name>[COLOR lavenderblush]DOCUMENTARIOS WORLD[/COLOR]</name>
-<link>script.module.docstvsupertuga.addon/</link>
+<link>plugin://script.module.docstvsupertuga.addon/</link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart22.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon11.jpg</thumbnail>
 </plugin>
