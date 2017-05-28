@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -10,53 +10,51 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,PL:CANAL_FAMILY
-http://universeiptv.com:8000/live/murad/murad123/1928.ts
-#EXTINF:-1,PL:CANAL_FILM
-http://universeiptv.com:8000/live/murad/murad123/1927.ts
-#EXTINF:-1,PL:CANAL_Plus_SPORT
-http://universeiptv.com:8000/live/murad/murad123/2469.ts
-#EXTINF:-1,PL:CANAL_Plus_SPORT_2
-http://universeiptv.com:8000/live/murad/murad123/1926.ts
-#EXTINF:-1,PL:CANAL_SERIALE
-http://universeiptv.com:8000/live/murad/murad123/1922.ts
-#EXTINF:-1,PL:CINEMAX
-http://universeiptv.com:8000/live/murad/murad123/2660.ts
-#EXTINF:-1,PL:Da_Vinci_Learning
-http://universeiptv.com:8000/live/murad/murad123/1941.ts
-#EXTINF:-1,PL:Discovery_Turbo_Xtra
-http://universeiptv.com:8000/live/murad/murad123/1940.ts
-#EXTINF:-1,PL:Eleven_Extra_HD
-http://universeiptv.com:8000/live/murad/murad123/1935.ts
-#EXTINF:-1,PL:Eleven_HD
-http://universeiptv.com:8000/live/murad/murad123/1939.ts
-#EXTINF:-1,PL:Eleven_Sports_HD
-http://universeiptv.com:8000/live/murad/murad123/1938.ts
-#EXTINF:-1,PL:Filmbox
-http://universeiptv.com:8000/live/murad/murad123/2468.ts
-#EXTINF:-1,PL:HBO
-http://universeiptv.com:8000/live/murad/murad123/1937.ts
-#EXTINF:-1,PL:History
-http://universeiptv.com:8000/live/murad/murad123/1936.ts
-#EXTINF:-1,PL:Mini_Mini
-http://universeiptv.com:8000/live/murad/murad123/1934.ts
-#EXTINF:-1,PL:N_Sport
-http://universeiptv.com:8000/live/murad/murad123/1925.ts
-#EXTINF:-1,PL:Planete
-http://universeiptv.com:8000/live/murad/murad123/1933.ts
-#EXTINF:-1,PL:Polsat
-http://universeiptv.com:8000/live/murad/murad123/1931.ts
-#EXTINF:-1,PL:Polsat_Cafe
-http://universeiptv.com:8000/live/murad/murad123/1930.ts
-#EXTINF:-1,PL:Polsat_Film
-http://universeiptv.com:8000/live/murad/murad123/1929.ts
-#EXTINF:-1,PL:Polsat_Sport_Extra_HD
-http://universeiptv.com:8000/live/murad/murad123/2659.ts
-#EXTINF:-1,PL:Polsat_Sport_HD
-http://universeiptv.com:8000/live/murad/murad123/1932.ts
-#EXTINF:-1,PL:TVN_Turbo
-http://universeiptv.com:8000/live/murad/murad123/1924.ts
-#EXTINF:-1,PL:TVP_SPORT
-http://universeiptv.com:8000/live/murad/murad123/1923.ts
+#EXTINF:-1,PL: TVP 1 HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3873.ts
+#EXTINF:-1,PL: TVP 2 HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3874.ts
+#EXTINF:-1,FR: MTV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3059.ts
+#EXTINF:-1,PL: TVP Polonia
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3071.ts
+#EXTINF:-1,PL: Polsat HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3066.ts
+#EXTINF:-1,PL: Polsat 2
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3875.ts
+#EXTINF:-1,PL: Universal HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3876.ts
+#EXTINF:-1,PL: Da Vinci Learning
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3877.ts
+#EXTINF:-1,PL: TVN 24
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3070.ts
+#EXTINF:-1,PL: Canal + Film HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3080.ts
+#EXTINF:-1,PL: FILMBOX
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3069.ts
+#EXTINF:-1,PL: Polsat Play
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3068.ts
+#EXTINF:-1,PL: Polsat News
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3067.ts
+#EXTINF:-1,PL: Polsat Film
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3072.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3065.ts
+#EXTINF:-1,PL: MiniMini HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3064.ts
+#EXTINF:-1,PL: Kino Polska
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3073.ts
+#EXTINF:-1,PL: HBO HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3074.ts
+#EXTINF:-1,PL: HBO 2HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3075.ts
+#EXTINF:-1,PL: Canal Plus HD Seriale
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3063.ts
+#EXTINF:-1,PL: FilmBox Premium
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3076.ts
+#EXTINF:-1,PL: Canal Discovery HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3062.ts
+#EXTINF:-1,PL: AXN HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3061.ts
+#EXTINF:-1,PL: Nat Geo
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3060.ts

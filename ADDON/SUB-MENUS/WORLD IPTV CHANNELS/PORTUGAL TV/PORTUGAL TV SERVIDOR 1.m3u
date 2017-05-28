@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -10,108 +10,169 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,PT:BTV_1_HD
-http://universeiptv.com:8000/live/murad/murad123/1719.ts
-#EXTINF:-1,PT:Bloomberg
-http://universeiptv.com:8000/live/murad/murad123/2273.ts
-#EXTINF:-1,PT:Canal_Panda
-http://universeiptv.com:8000/live/murad/murad123/2309.ts
-#EXTINF:-1,PT:Canal_Toros
-http://universeiptv.com:8000/live/murad/murad123/2276.ts
-#EXTINF:-1,PT:CARTOON_NETWORK
-http://universeiptv.com:8000/live/murad/murad123/2290.ts
-#EXTINF:-1,PT:CAZA_y_PESCA
-http://universeiptv.com:8000/live/murad/murad123/2272.ts
-#EXTINF:-1,PT:EURONEWS
-http://universeiptv.com:8000/live/murad/murad123/2286.ts
-#EXTINF:-1,PT:EUROSPORT
-http://universeiptv.com:8000/live/murad/murad123/2285.ts
-#EXTINF:-1,PT:EUROSPORT_2
-http://universeiptv.com:8000/live/murad/murad123/2284.ts
-#EXTINF:-1,PT:E_ENTERTAINMENT
-http://universeiptv.com:8000/live/murad/murad123/2287.ts
-#EXTINF:-1,PT:FOX_TV
-http://universeiptv.com:8000/live/murad/murad123/1537.ts
-#EXTINF:-1,PT:FOX_MOVIES
-http://universeiptv.com:8000/live/murad/murad123/1538.ts
-#EXTINF:-1,PT:FOX_COMEDY
-http://universeiptv.com:8000/live/murad/murad123/2283.ts
+#EXTINF:-1,PT:RTP 1 HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2993.ts
+#EXTINF:-1,PT: RTP 1
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2166.ts
+#EXTINF:-1,PT: RTP 2
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2167.ts
+#EXTINF:-1,PT: RTP 3
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2168.ts
+#EXTINF:-1,PT:RTP 3
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2975.ts
+#EXTINF:-1,PT: RTP Madeira
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2170.ts
+#EXTINF:-1,PT: RTP Memoria
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2169.ts
+#EXTINF:-1,PT: RTP Acores
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2172.ts
+#EXTINF:-1,PT: RTP Africa
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2171.ts
+#EXTINF:-1,PT: TV Record
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2994.ts
+#EXTINF:-1,PT: AXN Black HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3711.ts
+#EXTINF:-1,PT: Fox HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2193.ts
+#EXTINF:-1,PT: Fox Life HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2194.ts
+#EXTINF:-1,PT: Fox Movies
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3002.ts
+#EXTINF:-1,PT: Fox Comedy
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2996.ts
+#EXTINF:-1,PT: Fox Crime
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2195.ts
+#EXTINF:-1,PT: Cine Mundo
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2183.ts
+#EXTINF:-1,PT: SYFY HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2992.ts
+#EXTINF:-1,PT: SYFY SD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3709.ts
+#EXTINF:-1,PT: AXN White HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2192.ts
+#EXTINF:-1,PT: AXN.HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3710.ts
+#EXTINF:-1,PT: AXN HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2191.ts
 #EXTINF:-1,PT:HOLLYWOOD
-http://universeiptv.com:8000/live/murad/murad123/1536.ts
-#EXTINF:-1,PT:JIMJAM
-http://universeiptv.com:8000/live/murad/murad123/2282.ts
-#EXTINF:-1,PT:MOTORS_TV
-http://universeiptv.com:8000/live/murad/murad123/2307.ts
-#EXTINF:-1,PT:MOTORVISION
-http://universeiptv.com:8000/live/murad/murad123/2281.ts
-#EXTINF:-1,PT:MOV_HD
-http://universeiptv.com:8000/live/murad/murad123/2302.ts
-#EXTINF:-1,PT:National_Geographic_Wild
-http://universeiptv.com:8000/live/murad/murad123/1539.ts
-#EXTINF:-1,PT:Odisseia
-http://universeiptv.com:8000/live/murad/murad123/2305.ts
-#EXTINF:-1,PT:PFC
-http://universeiptv.com:8000/live/murad/murad123/2280.ts
-#EXTINF:-1,PT:Porto_Canal
-http://universeiptv.com:8000/live/murad/murad123/1721.ts
-#EXTINF:-1,PT:REAL_MADRID
-http://universeiptv.com:8000/live/murad/murad123/2304.ts
-#EXTINF:-1,PT:RTP_1
-http://universeiptv.com:8000/live/murad/murad123/2296.ts
-#EXTINF:-1,PT:RTP_2
-http://universeiptv.com:8000/live/murad/murad123/2297.ts
-#EXTINF:-1,PT:RTP_3
-http://universeiptv.com:8000/live/murad/murad123/2298.ts
-#EXTINF:-1,PT:RTP_ACORES
-http://universeiptv.com:8000/live/murad/murad123/2301.ts
-#EXTINF:-1,PT:RTP_AFRICA
-http://universeiptv.com:8000/live/murad/murad123/2300.ts
-#EXTINF:-1,PT:RTP_INTERNACIONAL
-http://universeiptv.com:8000/live/murad/murad123/2299.ts
-#EXTINF:-1,PT:RTP_MEMORIA
-http://universeiptv.com:8000/live/murad/murad123/2303.ts
-#EXTINF:-1,PT:SIC
-http://universeiptv.com:8000/live/murad/murad123/2291.ts
-#EXTINF:-1,PT:SIC_CARAS
-http://universeiptv.com:8000/live/murad/murad123/2295.ts
-#EXTINF:-1,PT:SIC_MULHER
-http://universeiptv.com:8000/live/murad/murad123/2293.ts
-#EXTINF:-1,PT:SIC_NOTICIAS
-http://universeiptv.com:8000/live/murad/murad123/2292.ts
-#EXTINF:-1,PT:SIC_Radical
-http://universeiptv.com:8000/live/murad/murad123/2294.ts
-#EXTINF:-1,PT:SPORT_TV_1_HD
-http://universeiptv.com:8000/live/murad/murad123/1545.ts
-#EXTINF:-1,PT:SPORT_TV_2_HD
-http://universeiptv.com:8000/live/murad/murad123/1546.ts
-#EXTINF:-1,PT:SPORT_TV_3_HD
-http://universeiptv.com:8000/live/murad/murad123/1547.ts
-#EXTINF:-1,PT:SPORT_TV_4_HD
-http://universeiptv.com:8000/live/murad/murad123/1548.ts
-#EXTINF:-1,PT:SPORT_TV_5_HD
-http://universeiptv.com:8000/live/murad/murad123/3671.ts
-#EXTINF:-1,PT:SPORTING_TV
-http://universeiptv.com:8000/live/murad/murad123/1544.ts
-#EXTINF:-1,PT:TV_CINE_1
-http://universeiptv.com:8000/live/murad/murad123/1540.ts
-#EXTINF:-1,PT:TV_CINE_2
-http://universeiptv.com:8000/live/murad/murad123/1541.ts
-#EXTINF:-1,PT:TV_CINE_3
-http://universeiptv.com:8000/live/murad/murad123/1542.ts
-#EXTINF:-1,PT:TV_CINE_4
-http://universeiptv.com:8000/live/murad/murad123/1543.ts
-#EXTINF:-1,PT:TV_Series_HD
-http://universeiptv.com:8000/live/murad/murad123/1985.ts
-#EXTINF:-1,PT:SYFY
-http://universeiptv.com:8000/live/murad/murad123/2278.ts
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2965.ts
+#EXTINF:-1,PT: MOV HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3717.ts
+#EXTINF:-1,PT: TV Cine 1
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2178.ts
+#EXTINF:-1,PT: TV Cine 2
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2179.ts
+#EXTINF:-1,PT: TV Cine 3
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2180.ts
+#EXTINF:-1,PT: TV Cine 4
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2181.ts
+#EXTINF:-1,PT:BABY TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3006.ts
+#EXTINF:-1,PT:CANAL PANDA
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3000.ts
+#EXTINF:-1,PT:PANDA BIGGS
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2978.ts
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2999.ts
+#EXTINF:-1,PT:NICKELODEON
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2995.ts
+#EXTINF:-1,PT: Nickelodeon
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2198.ts
+#EXTINF:-1,PT: Disney JR
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3713.ts
+#EXTINF:-1,PT:JIM JAM
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2981.ts
+#EXTINF:-1,PT: Sic Kids
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3718.ts
+#EXTINF:-1,PT: MCS EXTREME
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2970.ts
+#EXTINF:-1,PT: Porto Canal
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3016.ts
+#EXTINF:-1,PT: Sic Radical
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3714.ts
+#EXTINF:-1,PT: NBA TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3716.ts
+#EXTINF:-1,PT: LIfestyle TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3715.ts
+#EXTINF:-1,PT:TVI REALITY
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2968.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2969.ts
 #EXTINF:-1,PT:TLC
-http://universeiptv.com:8000/live/murad/murad123/2277.ts
-#EXTINF:-1,PT:Tvi
-http://universeiptv.com:8000/live/murad/murad123/3698.ts
-#EXTINF:-1,PT:Tvi_24
-http://universeiptv.com:8000/live/murad/murad123/1720.ts
-#EXTINF:-1,PT:TV_GLOBO
-http://universeiptv.com:8000/live/murad/murad123/2275.ts
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2962.ts
+#EXTINF:-1,PT:SPORTING TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2973.ts
+#EXTINF:-1,PT:SIC CARAS
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2974.ts
+#EXTINF:-1,PT:REDE TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2976.ts
+#EXTINF:-1,PT:Q CANAL
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2977.ts
+#EXTINF:-1,PT:PFC HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2963.ts
+#EXTINF:-1,PT:CBS REALITY
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2989.ts
+#EXTINF:-1,PT: TV CINE 1 HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3010.ts
+#EXTINF:-1,PT:MOTORVISION HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2980.ts
+#EXTINF:-1,PT:MOTORVISION
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2964.ts
+#EXTINF:-1,PT:GLOBO TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2982.ts
+#EXTINF:-1,PT:FUEL TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2966.ts
+#EXTINF:-1,PT:EUROSPORT
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2988.ts
+#EXTINF:-1,PT: Kombat Sports
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2997.ts
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3012.ts
+#EXTINF:-1,PT: TVI REALITY
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3001.ts
+#EXTINF:-1,PT:CACAVISION HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2985.ts
+#EXTINF:-1,PT: CACA E PESCA
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3014.ts
+#EXTINF:-1,PT: ENTERTAINMENT
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2991.ts
+#EXTINF:-1,PT:BIGGS
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3003.ts
+#EXTINF:-1,PT: Sic
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2173.ts
+#EXTINF:-1,PT: Sic Noticias
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2174.ts
+#EXTINF:-1,PT: Sic Mulher
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2175.ts
+#EXTINF:-1,PT:A&E
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3007.ts
+#EXTINF:-1,PT: TVI
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4924.ts
+#EXTINF:-1,PT: Tvi 24
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2176.ts
+#EXTINF:-1,PT: Historia
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2190.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2196.ts
+#EXTINF:-1,PT:TRAVEL CHANNEL HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2971.ts
+#EXTINF:-1,PT: Canal Panda
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2202.ts
+#EXTINF:-1,PT:24KITCHEN HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3015.ts
+#EXTINF:-1,PT: Euronews
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2177.ts
+#EXTINF:-1,PT: Benfica TV
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2188.ts
+#EXTINF:-1,PT:BENFICA TV 1 HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3005.ts
+#EXTINF:-1,PT:BENFICA TV 2
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3004.ts
+#EXTINF:-1,PT:CHELSEA TV HD
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2984.ts
+#EXTINF:-1,PT:VH1 CLASSIC
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3018.ts
 #EXTINF:-1,PT:VH1
-http://universeiptv.com:8000/live/murad/murad123/2274.ts
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3019.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2979.ts
