@@ -7,7 +7,7 @@
 
 
 <dir>
-<name>[COLOR lavenderblush]DOCUMENTARIOS PT-BR[/COLOR]</name>
+<name>[COLOR greenyellow]DOCUMENTARIOS PT-BR[/COLOR]</name>
 <link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/DOCUMENTARIOS/DOCUMENTARIOS%20PT-BR.xml</link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart22.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon13.jpg</thumbnail>
@@ -16,7 +16,7 @@
 
 
 <plugin>
-<name>[COLOR lavenderblush]DOCUMENTARIOS WORLD[/COLOR]</name>
+<name>[COLOR greenyellow]DOCUMENTARIOS WORLD[/COLOR]</name>
 <link>plugin://script.module.docstvsupertuga.addon/</link>
 <fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart22.jpg</fanart>
 <thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon11.jpg</thumbnail>
