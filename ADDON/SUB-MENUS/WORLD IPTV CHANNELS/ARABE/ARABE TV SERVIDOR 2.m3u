@@ -1,465 +1,1017 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,Aljazeera
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/1155.ts
-#EXTINF:-1,Al_Arabiya
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5047.ts
-#EXTINF:-1,Medi1_Tv
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/136.ts
-#EXTINF:-1,2M_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/389.ts
-#EXTINF:-1,euronews_arabic
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5054.ts
-#EXTINF:-1,Sky_News_Arabia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5055.ts
-#EXTINF:-1,France_24_(in_Arabic)
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5050.ts
-#EXTINF:-1,France_24_(en_Francais)
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5052.ts
-#EXTINF:-1,France_24_(in_English)
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5051.ts
-#EXTINF:-1,Al_Jazeera_Documentary_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5062.ts
-#EXTINF:-1,ABU_DHABI_NATGEO
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5063.ts
-#EXTINF:-1,MBC_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/123.ts
-#EXTINF:-1,MBC_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/124.ts
-#EXTINF:-1,MBC_3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/125.ts
-#EXTINF:-1,MBC_4
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/126.ts
-#EXTINF:-1,MBC_Action
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/127.ts
-#EXTINF:-1,MBC_DRAMA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/131.ts
-#EXTINF:-1,MBC_MAX
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/1151.ts
-#EXTINF:-1,MBC_MASR
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/527.ts
-#EXTINF:-1,MBC_MASR_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/526.ts
-#EXTINF:-1,MBC_bollywood
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/631.ts
-#EXTINF:-1,MBC _Drama_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5849.ts
-#EXTINF:-1,MBC_VARIETY_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5851.ts
-#EXTINF:-1,cbc
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5081.ts
-#EXTINF:-1,CBC_SOFRA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5083.ts
-#EXTINF:-1,CBC_eXtra
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5084.ts
-#EXTINF:-1,CBC_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5085.ts
-#EXTINF:-1,CBC_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5082.ts
-#EXTINF:-1,B4U_Plus
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5192.ts
-#EXTINF:-1,B4U_Aflam
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5193.ts
-#EXTINF:-1,Echourouk_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5854.ts
-#EXTINF:-1,Al_Emarat_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5881.ts
-#EXTINF:-1,beIN_SPORTS_News_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5833.ts
-#EXTINF:-1,ALMAGARIBIA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5057.ts
-#EXTINF:-1,beIN_SPORTS_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5905.ts
-#EXTINF:-1,Baynounah_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5884.ts
-#EXTINF:-1,Alhayat_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5163.ts
-#EXTINF:-1,Alhayat
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5162.ts
-#EXTINF:-1,Mehwer
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5217.ts
-#EXTINF:-1,SAMA_DUBAI_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5886.ts
-#EXTINF:-1,SAMIRA_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5079.ts
-#EXTINF:-1,Dubai_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5885.ts
-#EXTINF:-1,Rotana_Aflam_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5878.ts
-#EXTINF:-1,Rotana_Music_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5874.ts
-#EXTINF:-1,Rotana_Masriya_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5879.ts
-#EXTINF:-1,Rotana_Khalijeah_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5875.ts
-#EXTINF:-1,ENNAHAR_TV_ALGERIE
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5072.ts
-#EXTINF:-1,ENNAHAR_LAKI
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5071.ts
-#EXTINF:-1,Panorama_Drama2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5096.ts
-#EXTINF:-1,Panorama_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5095.ts
-#EXTINF:-1,Rotana_Classic_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5876.ts
-#EXTINF:-1,ART_Hikeyet_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5158.ts
-#EXTINF:-1,Abu_Dhabi_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5110.ts
-#EXTINF:-1,ART_Hikeyet_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5157.ts
-#EXTINF:-1,ART_Cinema
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5159.ts
-#EXTINF:-1,ART_AFLAM_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5161.ts
-#EXTINF:-1,ART_AFLAM_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5160.ts
-#EXTINF:-1,Al-Nahar_One
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5888.ts
-#EXTINF:-1,Al-Nahar_Al_Youm
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5887.ts
-#EXTINF:-1,Dubai_Zaman
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5108.ts
-#EXTINF:-1,Dubai_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5106.ts
-#EXTINF:-1,Dubai_sama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5111.ts
-#EXTINF:-1,dubai_one
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5107.ts
-#EXTINF:-1,Dubai_Noor
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5109.ts
-#EXTINF:-1,DREAM_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5167.ts
-#EXTINF:-1,AD_DRAMA_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5882.ts
-#EXTINF:-1,Abu_Dhabi_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5880.ts
-#EXTINF:-1,MOGA_Cinema
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5923.ts
-#EXTINF:-1,Al-Nahar__2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5889.ts
-#EXTINF:-1,Rotana_Cinema_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5877.ts
-#EXTINF:-1,Al_AOULA_Inter
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/388.ts
-#EXTINF:-1,Al_Aoula_Inter_L
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/386.ts
-#EXTINF:-1,Assadissa
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/382.ts
-#EXTINF:-1,Tamazight
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/381.ts
-#EXTINF:-1,LBC_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5892.ts
-#EXTINF:-1,ZWEINA_BALADNA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5222.ts
-#EXTINF:-1,ZITOUNA_HEDAYA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5102.ts
-#EXTINF:-1,Zee_alwan
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5223.ts
-#EXTINF:-1,ZEE_AFLAM
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5224.ts
-#EXTINF:-1,Zaytouna_Tunisia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5101.ts
-#EXTINF:-1,ZAD_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5134.ts
-#EXTINF:-1,TV_Coran
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5133.ts
-#EXTINF:-1,TUNISNA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5099.ts
-#EXTINF:-1,Tunisia_Nat_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5105.ts
-#EXTINF:-1,Tunisia_Nat_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5104.ts
-#EXTINF:-1,TRT_KURDI
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5181.ts
-#EXTINF:-1,TOYOR_BABY
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5155.ts
-#EXTINF:-1,TOYOR_AL_JANAH
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5156.ts
-#EXTINF:-1,TOKTOK_CIMA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5212.ts
-#EXTINF:-1,TIME_TAXI
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5113.ts
-#EXTINF:-1,TIME_QURAN
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5132.ts
-#EXTINF:-1,TIME_FILM
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5112.ts
-#EXTINF:-1,teveza_TUNISIA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5100.ts
-#EXTINF:-1,ten
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5114.ts
-#EXTINF:-1,Teleliban_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5150.ts
-#EXTINF:-1,Tayba
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5130.ts
-#EXTINF:-1,Tarteel_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5129.ts
-#EXTINF:-1,Tanasuh_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5213.ts
-#EXTINF:-1,Al_Maghribia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5873.ts
-#EXTINF:-1,Syrian_Drama_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5169.ts
-#EXTINF:-1,Sudan-OUS
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5189.ts
-#EXTINF:-1,Sudan_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5187.ts
-#EXTINF:-1,SUDAN
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5186.ts
-#EXTINF:-1,SPACETOON_ARABIC
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5153.ts
-#EXTINF:-1,Saudi_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5185.ts
-#EXTINF:-1,Saudi_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5184.ts
-#EXTINF:-1,Sama_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5215.ts
-#EXTINF:-1,Quran
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5128.ts
-#EXTINF:-1,Qatar_TV_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5216.ts
-#EXTINF:-1,Palestine_Live
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5191.ts
-#EXTINF:-1,Palestine
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5190.ts
-#EXTINF:-1,Numidia_News_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5049.ts
-#EXTINF:-1,Nile_Sport
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5143.ts
-#EXTINF:-1,Nessma_Tunisia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5097.ts
-#EXTINF:-1,MTV_LEBANON
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5148.ts
-#EXTINF:-1,Melody_classic
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5165.ts
-#EXTINF:-1,ZAYTOONA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5867.ts
-#EXTINF:-1,YAS_Sports_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5913.ts
-#EXTINF:-1,TV5_Monde_Maghreb_Orient_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5838.ts
-#EXTINF:-1,Tunisie_Televsion_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5868.ts
-#EXTINF:-1,Telvza_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5866.ts
-#EXTINF:-1,STCINEMA1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5904.ts
-#EXTINF:-1,Saudi_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5924.ts
-#EXTINF:-1,Saudi_Sport_2_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5910.ts
-#EXTINF:-1,Saudi_Sport_1_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5909.ts
-#EXTINF:-1,Saudi_2_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5925.ts
-#EXTINF:-1,Ressala_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5897.ts
-#EXTINF:-1,PROGRAMME_NATIONAL
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5853.ts
-#EXTINF:-1,Nile_tv
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5899.ts
-#EXTINF:-1,Nile_Life
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5900.ts
-#EXTINF:-1,Nile_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5901.ts
-#EXTINF:-1,Nile_Cinema
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5902.ts
-#EXTINF:-1,Moga_Comedy_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5922.ts
-#EXTINF:-1,Majid_Kids_TV_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5920.ts
-#EXTINF:-1,KTV_Sport
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5919.ts
-#EXTINF:-1,First_TV_TUNISIA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5871.ts
-#EXTINF:-1,Elhiwar_Ettounsi_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5869.ts
-#EXTINF:-1,El_Adjwaa_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5857.ts
-#EXTINF:-1,DZAIR_5
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5861.ts
-#EXTINF:-1,DZAIR_4
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5860.ts
-#EXTINF:-1,Dzair_3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5859.ts
-#EXTINF:-1,Dzair_25
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5862.ts
-#EXTINF:-1,Dubai_Sports_4
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5918.ts
-#EXTINF:-1,DUBAI_SPORTS_1__HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5916.ts
-#EXTINF:-1,DUBAI_RACING_1_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5917.ts
-#EXTINF:-1,DARBKA_AFLAM
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5891.ts
-#EXTINF:-1,Cairo_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5903.ts
-#EXTINF:-1,BZAF_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5863.ts
-#EXTINF:-1,BerbereTV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5858.ts
-#EXTINF:-1,Bahrain_Sport_1_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5914.ts
-#EXTINF:-1,BAHIA_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5864.ts
-#EXTINF:-1,ATTESSIA_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5870.ts
-#EXTINF:-1,Almajd_04
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5896.ts
-#EXTINF:-1,Almajd_03
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5895.ts
-#EXTINF:-1,Almajd_02
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5894.ts
-#EXTINF:-1,Almajd_01
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5893.ts
-#EXTINF:-1,AlAfasy
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5898.ts
-#EXTINF:-1,AL_SHARQIYA_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5883.ts
-#EXTINF:-1,Ajyal_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5921.ts
-#EXTINF:-1,AD_Sport_2_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5912.ts
-#EXTINF:-1,AD_Sport_1_HD
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5911.ts
-#EXTINF:-1,MEKKAH_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5126.ts
-#EXTINF:-1,MBC_Pro_Sports_4
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5140.ts
-#EXTINF:-1,MBC_Pro_Sports_3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5139.ts
-#EXTINF:-1,MBC_Pro_Sports_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5138.ts
-#EXTINF:-1,MBC_Pro_Sports_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5137.ts
-#EXTINF:-1,LibyaTV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5170.ts
-#EXTINF:-1,LIBYA_ONE
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5172.ts
-#EXTINF:-1,LIBYA_ALRASMEYA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5171.ts
-#EXTINF:-1,LIBYA_AHRAR
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5173.ts
-#EXTINF:-1,LDC_Lebanon
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5149.ts
-#EXTINF:-1,LBC_Sat
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5219.ts
-#EXTINF:-1,Kuwait_Xtra
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5178.ts
-#EXTINF:-1,Kuwait_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5174.ts
-#EXTINF:-1,Kuwait_Ethraa
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5176.ts
-#EXTINF:-1,Kuwait_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5175.ts
-#EXTINF:-1,KTV_CH2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5180.ts
-#EXTINF:-1,KTV_CH1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5179.ts
-#EXTINF:-1,Jordan_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5151.ts
-#EXTINF:-1,Iqraa
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5125.ts
-#EXTINF:-1,hannibal_Tunisia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5098.ts
-#EXTINF:-1,Future_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5220.ts
-#EXTINF:-1,FIRST_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5208.ts
-#EXTINF:-1,ENTV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5227.ts
-#EXTINF:-1,ELMOURITANIA_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5204.ts
-#EXTINF:-1,ELMOURITANIA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5205.ts
-#EXTINF:-1,EL-DJAZAIRIA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5074.ts
-#EXTINF:-1,El_Heddaf_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5075.ts
-#EXTINF:-1,Echourouk_News
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5069.ts
-#EXTINF:-1,Echorouk_benna_TV_dz
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5070.ts
-#EXTINF:-1,Dzair_News
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5077.ts
-#EXTINF:-1,Dzaier_tv
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5078.ts
-#EXTINF:-1,DHABI_SPORT2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5142.ts
-#EXTINF:-1,DHABI_SPORT1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5141.ts
-#EXTINF:-1,CNBC_Arabiya
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5060.ts
-#EXTINF:-1,CARTOON_NETWORK
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5154.ts
-#EXTINF:-1,A3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5065.ts
-#EXTINF:-1,Canal_Algerie
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5064.ts
-#EXTINF:-1,beur
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5080.ts
-#EXTINF:-1,Belal_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5207.ts
-#EXTINF:-1,Bein_Movies_1
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5144.ts
-#EXTINF:-1,Bein_Movies_2
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5145.ts
-#EXTINF:-1,Bein_Movies_3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5146.ts
-#EXTINF:-1,Bein_Movies_4
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5147.ts
-#EXTINF:-1,BBC_Arabic
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5056.ts
-#EXTINF:-1,Baraeem
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5152.ts
-#EXTINF:-1,Bahrain_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5206.ts
-#EXTINF:-1,Bahrain_Quran
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5124.ts
-#EXTINF:-1,Bahrain_International
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5058.ts
-#EXTINF:-1,Attesisa_Tunisia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5103.ts
-#EXTINF:-1,Assadissa
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5123.ts
-#EXTINF:-1,Arriadia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5135.ts
-#EXTINF:-1,ALRAYYAN_2_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5195.ts
-#EXTINF:-1,AlRai
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5197.ts
-#EXTINF:-1,ALjanoubia
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5200.ts
-#EXTINF:-1,AlHurra
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5183.ts
-#EXTINF:-1,Alhayat_We_Alnas
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5164.ts
-#EXTINF:-1,Aleqtisadiah
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5198.ts
-#EXTINF:-1,AlAmaken_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5199.ts
-#EXTINF:-1,Al-Majd3
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5119.ts
-#EXTINF:-1,Al_Resala
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5117.ts
-#EXTINF:-1,Al_Rasoul_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5122.ts
-#EXTINF:-1,AL_RAHMA
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5116.ts
-#EXTINF:-1,Al_Nahar_Sport
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5136.ts
-#EXTINF:-1,Al_Nahar_Drama
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5196.ts
-#EXTINF:-1,al_majd
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5118.ts
-#EXTINF:-1,Al_Hiwar_TV
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5194.ts
-#EXTINF:-1,Al_Haqiqa
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5121.ts
-#EXTINF:-1,Al_Falstiniah
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5203.ts
-#EXTINF:-1,Al_EKhbaria
-http://163.172.15.23:8000/live/MEN7e4GTD40/kljgYwEXGAh/5053.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,New AR: Zitouna TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5562.ts
+#EXTINF:-1,New AR: Zitouna Hedaya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5569.ts
+#EXTINF:-1,New AR: Zee Alwan
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5570.ts
+#EXTINF:-1,New AR: Zee Aflam
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5571.ts
+#EXTINF:-1,New AR: ZAD TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5572.ts
+#EXTINF:-1,New AR: Yaman Shabab
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5555.ts
+#EXTINF:-1,New AR: Wanasah
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5573.ts
+#EXTINF:-1,New AR: Tunisna
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5574.ts
+#EXTINF:-1,New AR: Tunisie Televsion 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5636.ts
+#EXTINF:-1,New AR: Tunisia Nat 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5637.ts
+#EXTINF:-1,New AR: Tunisia Nat 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5638.ts
+#EXTINF:-1,New AR: TRT Kurdi
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5639.ts
+#EXTINF:-1,New AR: TRT El Arabiya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5640.ts
+#EXTINF:-1,New AR: Toyor Aljannah
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5641.ts
+#EXTINF:-1,New AR: Top Cinema
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5642.ts
+#EXTINF:-1,New AR: Toktok Aflam
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5643.ts
+#EXTINF:-1,New AR: TNN Tunisia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5644.ts
+#EXTINF:-1,New AR: Time comedy
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5645.ts
+#EXTINF:-1,New AR: Time Cinema
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5646.ts
+#EXTINF:-1,New AR: Tawazon
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5647.ts
+#EXTINF:-1,New AR: Syrian Eduction
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5648.ts
+#EXTINF:-1,New AR: Syria FM
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5649.ts
+#EXTINF:-1,New AR: Syria Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5650.ts
+#EXTINF:-1,New AR: Star Cinema 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5651.ts
+#EXTINF:-1,New AR: Star Cinema 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5652.ts
+#EXTINF:-1,New AR: Space Toon
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5653.ts
+#EXTINF:-1,New AR: Sky News Arabic
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5563.ts
+#EXTINF:-1,New AR: Semsem
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5654.ts
+#EXTINF:-1,New AR: Saudi for Suneh
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5655.ts
+#EXTINF:-1,New AR: Saudi for Quran
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5656.ts
+#EXTINF:-1,New AR: Sat-7 Kids
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5657.ts
+#EXTINF:-1,New AR: Samira TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5658.ts
+#EXTINF:-1,New AR: Sama Syria TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5659.ts
+#EXTINF:-1,New AR: Sama Dubai
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5660.ts
+#EXTINF:-1,New AR: Sada ElBalad Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5661.ts
+#EXTINF:-1,New AR: Sada El Balad Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5662.ts
+#EXTINF:-1,New AR: Russia Alyaum
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5663.ts
+#EXTINF:-1,New AR: Roya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5664.ts
+#EXTINF:-1,New AR: Rotana Masriya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5665.ts
+#EXTINF:-1,New AR: Rotana Khalijiah
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5666.ts
+#EXTINF:-1,New AR: Rotana Clip
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5667.ts
+#EXTINF:-1,New AR: Rotana Classic
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5668.ts
+#EXTINF:-1,New AR: Rotana Cinema KSA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5669.ts
+#EXTINF:-1,New AR: Rotana Cinema EGY
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5670.ts
+#EXTINF:-1,New AR: Rotana Aflam
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5671.ts
+#EXTINF:-1,New AR: Rotana
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5672.ts
+#EXTINF:-1,New AR: Ronahi TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5673.ts
+#EXTINF:-1,New AR: Qatar TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5674.ts
+#EXTINF:-1,New AR: Qatar today
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5675.ts
+#EXTINF:-1,New AR: Pelistank
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5676.ts
+#EXTINF:-1,New AR: Panorama Drama 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5677.ts
+#EXTINF:-1,New AR: Panorama Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5678.ts
+#EXTINF:-1,New AR: Palestine
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5679.ts
+#EXTINF:-1,New AR: ONTV Egypt
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5680.ts
+#EXTINF:-1,New AR: On TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5681.ts
+#EXTINF:-1,New AR: Numidia News TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5682.ts
+#EXTINF:-1,New AR: Noor El Sham
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5683.ts
+#EXTINF:-1,New AR: Noor El Cham
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5684.ts
+#EXTINF:-1,New AR: Noor Dubai
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5685.ts
+#EXTINF:-1,New AR: Nile Sport
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5686.ts
+#EXTINF:-1,New AR: Nile News
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5687.ts
+#EXTINF:-1,New AR: Nile Life
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5688.ts
+#EXTINF:-1,New AR: Nile Family
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5689.ts
+#EXTINF:-1,New AR: Nile Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5690.ts
+#EXTINF:-1,New AR: Nile Culture
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5691.ts
+#EXTINF:-1,New AR: Nile Comedy
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5692.ts
+#EXTINF:-1,New AR: Nile Cinema
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5693.ts
+#EXTINF:-1,New AR: Nessma
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5564.ts
+#EXTINF:-1,New AR: Moga Comedy TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5694.ts
+#EXTINF:-1,New AR: Mody Kids
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5695.ts
+#EXTINF:-1,New AR: Melody Classic
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5696.ts
+#EXTINF:-1,New AR: Medi1 TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5697.ts
+#EXTINF:-1,New AR: Mecca Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5698.ts
+#EXTINF:-1,new AR: MBC Variety HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5956.ts
+#EXTINF:-1,New AR: MBC Pro SP HD 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5699.ts
+#EXTINF:-1,New AR: MBC Pro SP HD 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5700.ts
+#EXTINF:-1,New AR: MBC MAX HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5701.ts
+#EXTINF:-1,New AR: MBC Max
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5702.ts
+#EXTINF:-1,New AR: MBC Drama HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5703.ts
+#EXTINF:-1,New AR: MBC Drama  7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5704.ts
+#EXTINF:-1,New AR: MBC Drama  4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5705.ts
+#EXTINF:-1,New AR: MBC Drama  2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5706.ts
+#EXTINF:-1,New AR: MBC Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5707.ts
+#EXTINF:-1,New AR: MBC Bollywood  7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5708.ts
+#EXTINF:-1,New AR: MBC Bollywood
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5709.ts
+#EXTINF:-1,New AR: MBC Action HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5710.ts
+#EXTINF:-1,New AR: MBC Action
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5711.ts
+#EXTINF:-1,New AR: MBC 4 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5712.ts
+#EXTINF:-1,New AR: MBC 4  7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5713.ts
+#EXTINF:-1,New AR: MBC 4  4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5714.ts
+#EXTINF:-1,New AR: MBC 4  2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5715.ts
+#EXTINF:-1,New AR: MBC 4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5716.ts
+#EXTINF:-1,New AR: MBC 3 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5717.ts
+#EXTINF:-1,New AR: MBC 3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5718.ts
+#EXTINF:-1,New AR: MBC 2 hd
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5719.ts
+#EXTINF:-1,New AR: MBC 2  7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5720.ts
+#EXTINF:-1,New AR: MBC 2  4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5721.ts
+#EXTINF:-1,New AR: MBC 2  2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5722.ts
+#EXTINF:-1,New AR: MBC 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5723.ts
+#EXTINF:-1,New AR: MBC 1HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5724.ts
+#EXTINF:-1,New AR: MBC 1  7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5725.ts
+#EXTINF:-1,New AR: MBC 1  4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5726.ts
+#EXTINF:-1,New AR: MBC 1  2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5727.ts
+#EXTINF:-1,New AR: MBC 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5728.ts
+#EXTINF:-1,New AR: Mazzika
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5567.ts
+#EXTINF:-1,New AR: Maspero Zaman
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5729.ts
+#EXTINF:-1,New AR: Majed
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5730.ts
+#EXTINF:-1,New AR: Libya TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5731.ts
+#EXTINF:-1,New AR: Karbala TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5732.ts
+#EXTINF:-1,New AR: Karameesh
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5733.ts
+#EXTINF:-1,New AR: Kana TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5734.ts
+#EXTINF:-1,New AR: Jordan Deretna
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5735.ts
+#EXTINF:-1,New AR: Jordan
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5736.ts
+#EXTINF:-1,New AR: Jeem
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5737.ts
+#EXTINF:-1,New AR: Iraqia Sport
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5738.ts
+#EXTINF:-1,New AR: Iraqia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5739.ts
+#EXTINF:-1,New AR: Iqraa
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5740.ts
+#EXTINF:-1,New AR: Hona Al Quds
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5741.ts
+#EXTINF:-1,New AR: Heya Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5742.ts
+#EXTINF:-1,New AR: Hawacom
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5743.ts
+#EXTINF:-1,New AR: Hannibal
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5744.ts
+#EXTINF:-1,New AR: Gear One
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5745.ts
+#EXTINF:-1,New AR: Funoon
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5746.ts
+#EXTINF:-1,New AR: Fujairah TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5747.ts
+#EXTINF:-1,New AR: France 24
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5748.ts
+#EXTINF:-1,New AR: FM TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5749.ts
+#EXTINF:-1,New AR: First TV Tunisia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5750.ts
+#EXTINF:-1,New AR: Fatafeet
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5568.ts
+#EXTINF:-1,New AR: Ettounsia TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5751.ts
+#EXTINF:-1,New AR: Ennahar Laki
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5752.ts
+#EXTINF:-1,New AR: Ennahar
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5753.ts
+#EXTINF:-1,New AR: Elhiwar Ettounsi TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5754.ts
+#EXTINF:-1,New AR: El Hoggar
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5755.ts
+#EXTINF:-1,New AR: El Bilad TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5756.ts
+#EXTINF:-1,New AR: Echourouk Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5757.ts
+#EXTINF:-1,New AR: DZair TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5758.ts
+#EXTINF:-1,New AR: Dzair 24
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5759.ts
+#EXTINF:-1,New AR: DW Arabia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5556.ts
+#EXTINF:-1,New AR: Dubai Zaman
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5760.ts
+#EXTINF:-1,New AR: Dubai Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5761.ts
+#EXTINF:-1,New AR: Dubai One
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5762.ts
+#EXTINF:-1,New AR: Dubai Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5763.ts
+#EXTINF:-1,New AR: Dream2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5764.ts
+#EXTINF:-1,New AR: Dijlah TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5765.ts
+#EXTINF:-1,New AR: CNN
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5766.ts
+#EXTINF:-1,New AR: Citrus TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5767.ts
+#EXTINF:-1,New AR: Cinema Pro
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5768.ts
+#EXTINF:-1,New AR: Cinema 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5769.ts
+#EXTINF:-1,New AR: Cinema 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5770.ts
+#EXTINF:-1,New AR: Cima
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5771.ts
+#EXTINF:-1,New AR: Check In TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5772.ts
+#EXTINF:-1,New AR: CBC Sofra
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5773.ts
+#EXTINF:-1,New AR: CBC Extra
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5774.ts
+#EXTINF:-1,New AR: CBC Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5775.ts
+#EXTINF:-1,New AR: CBC 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5776.ts
+#EXTINF:-1,New AR: CBC
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5777.ts
+#EXTINF:-1,New AR: Cartoon Network
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5778.ts
+#EXTINF:-1,New AR: Canal Algerie
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5779.ts
+#EXTINF:-1,New AR: Bzaf TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5780.ts
+#EXTINF:-1,New AR: Belad Haramen
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5781.ts
+#EXTINF:-1,New AR: Bein Sports News
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5782.ts
+#EXTINF:-1,New AR: Bein Movies 3 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5783.ts
+#EXTINF:-1,New AR: Bein Movies 2 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5784.ts
+#EXTINF:-1,New AR: Bein Movies 1 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5785.ts
+#EXTINF:-1,New AR: BBC Arabic
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5786.ts
+#EXTINF:-1,New AR: Baraem
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5787.ts
+#EXTINF:-1,New AR: Bahrain TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5557.ts
+#EXTINF:-1,New AR: Baghdad TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5788.ts
+#EXTINF:-1,New AR: B4U Aflam
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5789.ts
+#EXTINF:-1,New AR: ART Hekayat 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5791.ts
+#EXTINF:-1,New AR: ART Hekayat 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5565.ts
+#EXTINF:-1,New AR: ART Cinema
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5792.ts
+#EXTINF:-1,New AR: ART Aflam 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5566.ts
+#EXTINF:-1,New AR: ART Aflam 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5793.ts
+#EXTINF:-1,New AR: Arrabica Music
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5558.ts
+#EXTINF:-1,New AR: Algerie 5
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5800.ts
+#EXTINF:-1,New AR: Algerie 4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5801.ts
+#EXTINF:-1,New AR: Algerie 3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5802.ts
+#EXTINF:-1,New AR: Al thanya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5796.ts
+#EXTINF:-1,New AR: Al Tassiaa
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5790.ts
+#EXTINF:-1,New AR: Al Sumaria TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5804.ts
+#EXTINF:-1,New AR: Al Shargah Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5559.ts
+#EXTINF:-1,New AR: Al Saha
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5805.ts
+#EXTINF:-1,New AR: Al Riadia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5794.ts
+#EXTINF:-1,New AR: Al Resala
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5806.ts
+#EXTINF:-1,New AR: Al Rai
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5807.ts
+#EXTINF:-1,New AR: Al Rahma
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5808.ts
+#EXTINF:-1,New AR: Al Rafiden
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5809.ts
+#EXTINF:-1,New AR: Al Rabiaa
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5795.ts
+#EXTINF:-1,New AR: Al Oula Masr
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5810.ts
+#EXTINF:-1,New AR: Al Oula Maroc
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5811.ts
+#EXTINF:-1,New AR: Al Nahar Noor
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5812.ts
+#EXTINF:-1,New AR: Al Nahar Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5813.ts
+#EXTINF:-1,New AR: Al Nahar Cinema
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5814.ts
+#EXTINF:-1,New AR: Al Nahar Al Youm
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5815.ts
+#EXTINF:-1,New AR: Al Nahar 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5816.ts
+#EXTINF:-1,New AR: Al Nahar
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5817.ts
+#EXTINF:-1,New AR: Al Mustakila
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5818.ts
+#EXTINF:-1,New AR: Al masriya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5819.ts
+#EXTINF:-1,New AR: Al masalah
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5797.ts
+#EXTINF:-1,New AR: Al Majd 04
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5820.ts
+#EXTINF:-1,New AR: Al Majd 03
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5821.ts
+#EXTINF:-1,New AR: Al Majd 02
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5822.ts
+#EXTINF:-1,New AR: Al Majd 01
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5823.ts
+#EXTINF:-1,New AR: Al Majd
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5824.ts
+#EXTINF:-1,New AR: Al Maghribia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5825.ts
+#EXTINF:-1,New AR: Al kitab
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5826.ts
+#EXTINF:-1,New AR: Al Khabar TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5827.ts
+#EXTINF:-1,New AR: AL Kawthar
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5828.ts
+#EXTINF:-1,New AR: Al Kahera WalNas
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5829.ts
+#EXTINF:-1,New AR: Al Kahera Wal Nas  2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5830.ts
+#EXTINF:-1,New AR: Al Kahera Wal Nas
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5831.ts
+#EXTINF:-1,New AR: Al Jazeera Mubasher
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5832.ts
+#EXTINF:-1,New AR: Al Jazeera English
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5833.ts
+#EXTINF:-1,New AR: Al Jazeera Doc
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5834.ts
+#EXTINF:-1,New AR: Al Jazeera
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5835.ts
+#EXTINF:-1,New AR: Al janoubia
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5836.ts
+#EXTINF:-1,New AR: Al Itejah TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5837.ts
+#EXTINF:-1,New AR: Al Insen TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5798.ts
+#EXTINF:-1,New AR: Al Hurra Iraq
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5838.ts
+#EXTINF:-1,New AR: Al hayat We Alnas
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5799.ts
+#EXTINF:-1,New AR: Al Hayat 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5839.ts
+#EXTINF:-1,New AR: Al Hayat
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5840.ts
+#EXTINF:-1,New AR: Al Ghadeer
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5841.ts
+#EXTINF:-1,New AR: Al Forat
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5842.ts
+#EXTINF:-1,New AR: Al Fayhaa TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5843.ts
+#EXTINF:-1,New AR: Al Fallujah
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5844.ts
+#EXTINF:-1,New AR: Al Fajr
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5561.ts
+#EXTINF:-1,New AR: Al Emarat TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5845.ts
+#EXTINF:-1,New AR: Al Asrar TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5846.ts
+#EXTINF:-1,http://46.105.115.49:8492/Al_Arabia_Hadath/index.m3u8
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5847.ts
+#EXTINF:-1,New AR: Al Arabiya
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5848.ts
+#EXTINF:-1,New AR: Al Anwar 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5849.ts
+#EXTINF:-1,New AR: Al Anwar
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5803.ts
+#EXTINF:-1,New AR: Ajman TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5850.ts
+#EXTINF:-1,New AR: Ahlulbayt
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5560.ts
+#EXTINF:-1,New AR: Aghanina TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5851.ts
+#EXTINF:-1,New AR: Aghani
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5852.ts
+#EXTINF:-1,New AR: Abu Dhabi TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5853.ts
+#EXTINF:-1,New AR: Abu Dhabi Sport 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5854.ts
+#EXTINF:-1,New AR: Abu Dhabi Sport 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5855.ts
+#EXTINF:-1,New AR: Abu Dhabi Nat Geo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5856.ts
+#EXTINF:-1,New AR: Abu Dhabi Drama
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5857.ts
+#EXTINF:-1,New AR: 2m
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5858.ts
+#EXTINF:-1,Musique et mode
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5945.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/2629.ts
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
+http://vip.tuguj.net:8000/live/0808/0808/2630.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://vip.tuguj.net:8000/live/0808/0808/2631.ts
+#EXTINF:-1,AR: BEIN SPORTS 4 HD
+http://vip.tuguj.net:8000/live/0808/0808/2632.ts
+#EXTINF:-1,AR: BEIN SPORTS 5 HD
+http://vip.tuguj.net:8000/live/0808/0808/2633.ts
+#EXTINF:-1,AR: BEIN SPORTS 6 HD
+http://vip.tuguj.net:8000/live/0808/0808/2634.ts
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
+http://vip.tuguj.net:8000/live/0808/0808/2635.ts
+#EXTINF:-1,AR: BEIN SPORTS 8 HD
+http://vip.tuguj.net:8000/live/0808/0808/2636.ts
+#EXTINF:-1,AR: BEIN SPORTS 9 HD
+http://vip.tuguj.net:8000/live/0808/0808/2637.ts
+#EXTINF:-1,AR: BEIN SPORTS 10 HD
+http://vip.tuguj.net:8000/live/0808/0808/2638.ts
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+http://vip.tuguj.net:8000/live/0808/0808/2639.ts
+#EXTINF:-1,(AR) BEIN SPORTS 12 HD
+http://vip.tuguj.net:8000/live/0808/0808/2640.ts
+#EXTINF:-1,(AR) BEIN SPORTS 13 HD
+http://vip.tuguj.net:8000/live/0808/0808/2641.ts
+#EXTINF:-1,AR: Al Kass Sport 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/4543.ts
+#EXTINF:-1,AR: Al Kass Sport 2 HD
+http://vip.tuguj.net:8000/live/0808/0808/4542.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+http://vip.tuguj.net:8000/live/0808/0808/4551.ts
+#EXTINF:-1,AR: MBC Pro Sport 2
+http://vip.tuguj.net:8000/live/0808/0808/4550.ts
+#EXTINF:-1,AR: MBC Pro Sport 3
+http://vip.tuguj.net:8000/live/0808/0808/4549.ts
+#EXTINF:-1,AR: MBC Pro Sport 4
+http://vip.tuguj.net:8000/live/0808/0808/4548.ts
+#EXTINF:-1,=== >> AR TLH << ===
+http://vip.tuguj.net:8000/live/0808/0808/4904.ts
+#EXTINF:-1,AF: Eri-TV
+http://vip.tuguj.net:8000/live/0808/0808/5089.ts
+#EXTINF:-1,AF: Sudan TV
+http://vip.tuguj.net:8000/live/0808/0808/5088.ts
+#EXTINF:-1,AR Rotana Masrya
+http://vip.tuguj.net:8000/live/0808/0808/4887.ts
+#EXTINF:-1,AR:2M TV
+http://vip.tuguj.net:8000/live/0808/0808/4903.ts
+#EXTINF:-1,AR:AbuDhabi Drama
+http://vip.tuguj.net:8000/live/0808/0808/4836.ts
+#EXTINF:-1,AR:AbuDhabi Emarat
+http://vip.tuguj.net:8000/live/0808/0808/4837.ts
+#EXTINF:-1,AR:AbuDhabi Nat Geo
+http://vip.tuguj.net:8000/live/0808/0808/4835.ts
+#EXTINF:-1,AR:AL Bilad
+http://vip.tuguj.net:8000/live/0808/0808/4844.ts
+#EXTINF:-1,AR:Alhayat 1
+http://vip.tuguj.net:8000/live/0808/0808/4840.ts
+#EXTINF:-1,AR:Alhayat 2
+http://vip.tuguj.net:8000/live/0808/0808/4839.ts
+#EXTINF:-1,AR:Almaghrebia TV
+http://vip.tuguj.net:8000/live/0808/0808/4902.ts
+#EXTINF:-1,AR:Alnahar Drama
+http://vip.tuguj.net:8000/live/0808/0808/4841.ts
+#EXTINF:-1,AR:Alnahar Masr
+http://vip.tuguj.net:8000/live/0808/0808/4842.ts
+#EXTINF:-1,AR:Alnahar Sport
+http://vip.tuguj.net:8000/live/0808/0808/4843.ts
+#EXTINF:-1,AR:Aoula HD
+http://vip.tuguj.net:8000/live/0808/0808/4901.ts
+#EXTINF:-1,AR:Arriadhia
+http://vip.tuguj.net:8000/live/0808/0808/4845.ts
+#EXTINF:-1,AR:ART Aflam1
+http://vip.tuguj.net:8000/live/0808/0808/4847.ts
+#EXTINF:-1,AR:ART Aflam2
+http://vip.tuguj.net:8000/live/0808/0808/4846.ts
+#EXTINF:-1,AR:ART Cinema
+http://vip.tuguj.net:8000/live/0808/0808/4848.ts
+#EXTINF:-1,AR:ART Hekayat1
+http://vip.tuguj.net:8000/live/0808/0808/4850.ts
+#EXTINF:-1,AR:ART Hekayat2
+http://vip.tuguj.net:8000/live/0808/0808/4849.ts
+#EXTINF:-1,AR:Assadissa
+http://vip.tuguj.net:8000/live/0808/0808/4900.ts
+#EXTINF:-1,AR:Beur TV
+http://vip.tuguj.net:8000/live/0808/0808/4851.ts
+#EXTINF:-1,AR:Cairo Drama
+http://vip.tuguj.net:8000/live/0808/0808/4852.ts
+#EXTINF:-1,AR:CBC 1
+http://vip.tuguj.net:8000/live/0808/0808/4854.ts
+#EXTINF:-1,AR:CBC 2
+http://vip.tuguj.net:8000/live/0808/0808/4853.ts
+#EXTINF:-1,AR:CBC Drama
+http://vip.tuguj.net:8000/live/0808/0808/4856.ts
+#EXTINF:-1,AR:CBC Extra
+http://vip.tuguj.net:8000/live/0808/0808/4855.ts
+#EXTINF:-1,AR:CBC Sofra
+http://vip.tuguj.net:8000/live/0808/0808/4857.ts
+#EXTINF:-1,AR:Dream 1
+http://vip.tuguj.net:8000/live/0808/0808/4859.ts
+#EXTINF:-1,AR:Dream 2
+http://vip.tuguj.net:8000/live/0808/0808/4858.ts
+#EXTINF:-1,AR:Dubai Drama
+http://vip.tuguj.net:8000/live/0808/0808/4861.ts
+#EXTINF:-1,AR:Dubai One
+http://vip.tuguj.net:8000/live/0808/0808/4862.ts
+#EXTINF:-1,AR:Dubai Sport
+http://vip.tuguj.net:8000/live/0808/0808/4860.ts
+#EXTINF:-1,AR:Dubai TV
+http://vip.tuguj.net:8000/live/0808/0808/4863.ts
+#EXTINF:-1,AR:Dubai Zaman
+http://vip.tuguj.net:8000/live/0808/0808/4864.ts
+#EXTINF:-1,AR:Dzair News
+http://vip.tuguj.net:8000/live/0808/0808/4865.ts
+#EXTINF:-1,AR:Dzair TV
+http://vip.tuguj.net:8000/live/0808/0808/4866.ts
+#EXTINF:-1,AR:Echourok News
+http://vip.tuguj.net:8000/live/0808/0808/4867.ts
+#EXTINF:-1,AR:Echourok TV
+http://vip.tuguj.net:8000/live/0808/0808/4868.ts
+#EXTINF:-1,AR:Ennahar TV
+http://vip.tuguj.net:8000/live/0808/0808/4869.ts
+#EXTINF:-1,AR:Ettounsia
+http://vip.tuguj.net:8000/live/0808/0808/4870.ts
+#EXTINF:-1,AR:First
+http://vip.tuguj.net:8000/live/0808/0808/4871.ts
+#EXTINF:-1,AR:Hannibal
+http://vip.tuguj.net:8000/live/0808/0808/4872.ts
+#EXTINF:-1,AR:KBC
+http://vip.tuguj.net:8000/live/0808/0808/4873.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SYRIA █ ▇ ▆ ▅ ▄ ▃
+http://vip.tuguj.net:8000/live/0808/0808/5415.ts
+#EXTINF:-1,(AR) SYRIA MEDICAL
+http://vip.tuguj.net:8000/live/0808/0808/4963.ts
+#EXTINF:-1,AR : Syria Edu
+http://vip.tuguj.net:8000/live/0808/0808/5403.ts
+#EXTINF:-1,AR: NABD SYRIA TV
+http://vip.tuguj.net:8000/live/0808/0808/5404.ts
+#EXTINF:-1,AR: Orient News
+http://vip.tuguj.net:8000/live/0808/0808/5405.ts
+#EXTINF:-1,AR: SAMA SYRIA
+http://vip.tuguj.net:8000/live/0808/0808/5410.ts
+#EXTINF:-1,AR: Souria Al Oula
+http://vip.tuguj.net:8000/live/0808/0808/5406.ts
+#EXTINF:-1,AR: Souriya News
+http://vip.tuguj.net:8000/live/0808/0808/5408.ts
+#EXTINF:-1,AR: SYRIA ALAOULA
+http://vip.tuguj.net:8000/live/0808/0808/5412.ts
+#EXTINF:-1,AR: Souriya Drama
+http://vip.tuguj.net:8000/live/0808/0808/5407.ts
+#EXTINF:-1,AR: SYRIA DRAMA
+http://vip.tuguj.net:8000/live/0808/0808/5413.ts
+#EXTINF:-1,AR: Syria Edu
+http://vip.tuguj.net:8000/live/0808/0808/5409.ts
+#EXTINF:-1,AR: Syria Souryana
+http://vip.tuguj.net:8000/live/0808/0808/5411.ts
+#EXTINF:-1,AR: SYRIA TV
+http://vip.tuguj.net:8000/live/0808/0808/5414.ts
+#EXTINF:-1,AR:MBC 1
+http://vip.tuguj.net:8000/live/0808/0808/4899.ts
+#EXTINF:-1,AR:MBC 2
+http://vip.tuguj.net:8000/live/0808/0808/4898.ts
+#EXTINF:-1,AR:MBC 3
+http://vip.tuguj.net:8000/live/0808/0808/4897.ts
+#EXTINF:-1,AR:MBC 4
+http://vip.tuguj.net:8000/live/0808/0808/4896.ts
+#EXTINF:-1,AR:MBC Action
+http://vip.tuguj.net:8000/live/0808/0808/4895.ts
+#EXTINF:-1,AR:MBC Bollywood
+http://vip.tuguj.net:8000/live/0808/0808/4894.ts
+#EXTINF:-1,AR:MBC Drama
+http://vip.tuguj.net:8000/live/0808/0808/4893.ts
+#EXTINF:-1,AR:MBC Masr
+http://vip.tuguj.net:8000/live/0808/0808/4891.ts
+#EXTINF:-1,AR:MBC Masr 2
+http://vip.tuguj.net:8000/live/0808/0808/4890.ts
+#EXTINF:-1,AR:MBC Max
+http://vip.tuguj.net:8000/live/0808/0808/4892.ts
+#EXTINF:-1,AR:Medi 1 TV
+http://vip.tuguj.net:8000/live/0808/0808/4889.ts
+#EXTINF:-1,AR:Nessma
+http://vip.tuguj.net:8000/live/0808/0808/4874.ts
+#EXTINF:-1,AR:Nile Cinema
+http://vip.tuguj.net:8000/live/0808/0808/4876.ts
+#EXTINF:-1,AR:Nile Comedy
+http://vip.tuguj.net:8000/live/0808/0808/4877.ts
+#EXTINF:-1,AR:Nile Sport
+http://vip.tuguj.net:8000/live/0808/0808/4875.ts
+#EXTINF:-1,AR:Rotana Aflam
+http://vip.tuguj.net:8000/live/0808/0808/4888.ts
+#EXTINF:-1,AR:Rotana Cinema
+http://vip.tuguj.net:8000/live/0808/0808/4880.ts
+#EXTINF:-1,AR:Rotana Classic
+http://vip.tuguj.net:8000/live/0808/0808/4881.ts
+#EXTINF:-1,AR:Rotana Clip
+http://vip.tuguj.net:8000/live/0808/0808/4878.ts
+#EXTINF:-1,AR:Rotana Music
+http://vip.tuguj.net:8000/live/0808/0808/4879.ts
+#EXTINF:-1,AR:Sama Dubai
+http://vip.tuguj.net:8000/live/0808/0808/4882.ts
+#EXTINF:-1,AR:Samira TV
+http://vip.tuguj.net:8000/live/0808/0808/4883.ts
+#EXTINF:-1,AR:Saudi Quran
+http://vip.tuguj.net:8000/live/0808/0808/4838.ts
+#EXTINF:-1,AR:Tounesna
+http://vip.tuguj.net:8000/live/0808/0808/4884.ts
+#EXTINF:-1,AR:Tunisia 1
+http://vip.tuguj.net:8000/live/0808/0808/4886.ts
+#EXTINF:-1,AR:Tunisia 2
+http://vip.tuguj.net:8000/live/0808/0808/4885.ts
+#EXTINF:-1,=== >> AR TFN << ===
+http://vip.tuguj.net:8000/live/0808/0808/5087.ts
+#EXTINF:-1,(AR) 24 NEWS
+http://vip.tuguj.net:8000/live/0808/0808/4990.ts
+#EXTINF:-1,(AR) ABENCENA TV
+http://vip.tuguj.net:8000/live/0808/0808/4932.ts
+#EXTINF:-1,(AR) ADAM W HAWAA
+http://vip.tuguj.net:8000/live/0808/0808/4933.ts
+#EXTINF:-1,(AR) Ajial
+http://vip.tuguj.net:8000/live/0808/0808/5055.ts
+#EXTINF:-1,(AR) AL AOULA INTER
+http://vip.tuguj.net:8000/live/0808/0808/5086.ts
+#EXTINF:-1,(AR) AL AOULA LAAYOUNE
+http://vip.tuguj.net:8000/live/0808/0808/5085.ts
+#EXTINF:-1,(AR) AL ARABIYA
+http://vip.tuguj.net:8000/live/0808/0808/5024.ts
+#EXTINF:-1,(AR) AL DAFRAH
+http://vip.tuguj.net:8000/live/0808/0808/4972.ts
+#EXTINF:-1,(AR) AL DAWAEIA
+http://vip.tuguj.net:8000/live/0808/0808/4934.ts
+#EXTINF:-1,(AR) Al Ekhbaria
+http://vip.tuguj.net:8000/live/0808/0808/5061.ts
+#EXTINF:-1,(AR) Al Eqtisadia
+http://vip.tuguj.net:8000/live/0808/0808/5060.ts
+#EXTINF:-1,(AR) AL ETJAH TV
+http://vip.tuguj.net:8000/live/0808/0808/4935.ts
+#EXTINF:-1,(AR) AL HAQIQA
+http://vip.tuguj.net:8000/live/0808/0808/5025.ts
+#EXTINF:-1,(AR) Al Haramien
+http://vip.tuguj.net:8000/live/0808/0808/5059.ts
+#EXTINF:-1,(AR) AL IRAQIYA TV
+http://vip.tuguj.net:8000/live/0808/0808/4994.ts
+#EXTINF:-1,(AR) AL JADEED
+http://vip.tuguj.net:8000/live/0808/0808/5076.ts
+#EXTINF:-1,(AR) AL JANOUBIA
+http://vip.tuguj.net:8000/live/0808/0808/4936.ts
+#EXTINF:-1,(AR) Al Jazeera Documentary
+http://vip.tuguj.net:8000/live/0808/0808/4995.ts
+#EXTINF:-1,(AR) Al JAZEERA ENGLISH
+http://vip.tuguj.net:8000/live/0808/0808/5048.ts
+#EXTINF:-1,(AR) Al Jazeera Satellite Channel
+http://vip.tuguj.net:8000/live/0808/0808/4996.ts
+#EXTINF:-1,(AR) AL MAGHRIBIA
+http://vip.tuguj.net:8000/live/0808/0808/5082.ts
+#EXTINF:-1,(AR) AL MANAR
+http://vip.tuguj.net:8000/live/0808/0808/4937.ts
+#EXTINF:-1,(AR) Al Mayadeen
+http://vip.tuguj.net:8000/live/0808/0808/4997.ts
+#EXTINF:-1,(AR) AL NAEEM
+http://vip.tuguj.net:8000/live/0808/0808/4939.ts
+#EXTINF:-1,(AR) AL NOUJABA
+http://vip.tuguj.net:8000/live/0808/0808/4973.ts
+#EXTINF:-1,(AR) AL RESALAH
+http://vip.tuguj.net:8000/live/0808/0808/4930.ts
+#EXTINF:-1,(AR) Al Riyadiah Satellite
+http://vip.tuguj.net:8000/live/0808/0808/5058.ts
+#EXTINF:-1,(AR) AL RUQYA 2
+http://vip.tuguj.net:8000/live/0808/0808/4931.ts
+#EXTINF:-1,(AR) AL SEHA WALJAMAL
+http://vip.tuguj.net:8000/live/0808/0808/4991.ts
+#EXTINF:-1,(AR) Al Siera Al Nabaweia
+http://vip.tuguj.net:8000/live/0808/0808/5057.ts
+#EXTINF:-1,(AR) AL SOYOOF
+http://vip.tuguj.net:8000/live/0808/0808/4992.ts
+#EXTINF:-1,(AR) Al Thakafeyia
+http://vip.tuguj.net:8000/live/0808/0808/5056.ts
+#EXTINF:-1,(AR) AL THAQALAYN TV
+http://vip.tuguj.net:8000/live/0808/0808/4998.ts
+#EXTINF:-1,(AR) AL WAAD CHANNEL
+http://vip.tuguj.net:8000/live/0808/0808/4974.ts
+#EXTINF:-1,(AR) Al Wilayah TV
+http://vip.tuguj.net:8000/live/0808/0808/4999.ts
+#EXTINF:-1,(AR) ALAAN TV
+http://vip.tuguj.net:8000/live/0808/0808/4940.ts
+#EXTINF:-1,(AR) ALDIYAR SAT
+http://vip.tuguj.net:8000/live/0808/0808/4975.ts
+#EXTINF:-1,(AR) ALGERIE 3
+http://vip.tuguj.net:8000/live/0808/0808/5071.ts
+#EXTINF:-1,(AR) ALHAYAH ALAAN
+http://vip.tuguj.net:8000/live/0808/0808/4976.ts
+#EXTINF:-1,(AR) Alruqia TV
+http://vip.tuguj.net:8000/live/0808/0808/5000.ts
+#EXTINF:-1,(AR) ALTHANYA
+http://vip.tuguj.net:8000/live/0808/0808/4977.ts
+#EXTINF:-1,(AR) Ariana Afghanistan TV
+http://vip.tuguj.net:8000/live/0808/0808/5001.ts
+#EXTINF:-1,(AR) ARRABIA
+http://vip.tuguj.net:8000/live/0808/0808/4978.ts
+#EXTINF:-1,(AR) ARRABIAA
+http://vip.tuguj.net:8000/live/0808/0808/5083.ts
+#EXTINF:-1,(AR) ARRYADIA
+http://vip.tuguj.net:8000/live/0808/0808/4979.ts
+#EXTINF:-1,(AR) ASHOROOQ TV
+http://vip.tuguj.net:8000/live/0808/0808/5072.ts
+#EXTINF:-1,(AR) Atfal  mawaheb
+http://vip.tuguj.net:8000/live/0808/0808/5002.ts
+#EXTINF:-1,(AR) BAHIA TV
+http://vip.tuguj.net:8000/live/0808/0808/5004.ts
+#EXTINF:-1,(AR) BBC ARABIC
+http://vip.tuguj.net:8000/live/0808/0808/5026.ts
+#EXTINF:-1,(AR) BEIN MOVIES 1
+http://vip.tuguj.net:8000/live/0808/0808/5042.ts
+#EXTINF:-1,(AR) BEIN MOVIES 2
+http://vip.tuguj.net:8000/live/0808/0808/5041.ts
+#EXTINF:-1,(AR) BERBERE JEUNESSE
+http://vip.tuguj.net:8000/live/0808/0808/5064.ts
+#EXTINF:-1,(AR) BERBERE MUSIC
+http://vip.tuguj.net:8000/live/0808/0808/5065.ts
+#EXTINF:-1,(AR) BERBERE TELEVISION
+http://vip.tuguj.net:8000/live/0808/0808/5066.ts
+#EXTINF:-1,(AR) CAIRO CINEMA
+http://vip.tuguj.net:8000/live/0808/0808/5020.ts
+#EXTINF:-1,(AR) CANAL ALGERIE
+http://vip.tuguj.net:8000/live/0808/0808/5073.ts
+#EXTINF:-1,(AR) CARTOON NETWORK ARABIA
+http://vip.tuguj.net:8000/live/0808/0808/4970.ts
+#EXTINF:-1,(AR) CINEMA PRO
+http://vip.tuguj.net:8000/live/0808/0808/4941.ts
+#EXTINF:-1,(AR) CNBC ARABIYA
+http://vip.tuguj.net:8000/live/0808/0808/5027.ts
+#EXTINF:-1,(AR) DUBAI AL OULA
+http://vip.tuguj.net:8000/live/0808/0808/5019.ts
+#EXTINF:-1,(AR) DW-TV ARABIA
+http://vip.tuguj.net:8000/live/0808/0808/5028.ts
+#EXTINF:-1,(AR) DZAIR 7
+http://vip.tuguj.net:8000/live/0808/0808/5070.ts
+#EXTINF:-1,(AR) DZAIR16
+http://vip.tuguj.net:8000/live/0808/0808/5067.ts
+#EXTINF:-1,(AR) EL SHARQ
+http://vip.tuguj.net:8000/live/0808/0808/4971.ts
+#EXTINF:-1,(AR) Elhiwar Ettounsi TV
+http://vip.tuguj.net:8000/live/0808/0808/5078.ts
+#EXTINF:-1,(AR) ETIHAD TV
+http://vip.tuguj.net:8000/live/0808/0808/5006.ts
+#EXTINF:-1,(AR) EURONEWS
+http://vip.tuguj.net:8000/live/0808/0808/4942.ts
+#EXTINF:-1,(AR) ICC IRAN
+http://vip.tuguj.net:8000/live/0808/0808/5007.ts
+#EXTINF:-1,(AR) IFILM ENGLISH
+http://vip.tuguj.net:8000/live/0808/0808/4943.ts
+#EXTINF:-1,(AR) IQRAA
+http://vip.tuguj.net:8000/live/0808/0808/5077.ts
+#EXTINF:-1,(AR) IRAQ NOW
+http://vip.tuguj.net:8000/live/0808/0808/4980.ts
+#EXTINF:-1,(AR) IRIB 3 IRAN
+http://vip.tuguj.net:8000/live/0808/0808/5043.ts
+#EXTINF:-1,(AR) JANNAH TV
+http://vip.tuguj.net:8000/live/0808/0808/4981.ts
+#EXTINF:-1,(AR) JORDAN ALHURRA
+http://vip.tuguj.net:8000/live/0808/0808/4982.ts
+#EXTINF:-1,(AR) JORDAN NOW
+http://vip.tuguj.net:8000/live/0808/0808/4983.ts
+#EXTINF:-1,(AR) JORDAN SPORT
+http://vip.tuguj.net:8000/live/0808/0808/4944.ts
+#EXTINF:-1,(AR) JORDAN TV
+http://vip.tuguj.net:8000/live/0808/0808/5047.ts
+#EXTINF:-1,(AR) KITABAT TV
+http://vip.tuguj.net:8000/live/0808/0808/4945.ts
+#EXTINF:-1,(AR) KUWAIT DERETNA
+http://vip.tuguj.net:8000/live/0808/0808/4950.ts
+#EXTINF:-1,(AR) LAAYOUNE TV
+http://vip.tuguj.net:8000/live/0808/0808/4984.ts
+#EXTINF:-1,(AR) LBC SAT
+http://vip.tuguj.net:8000/live/0808/0808/5036.ts
+#EXTINF:-1,(AR) LDC LEBANON
+http://vip.tuguj.net:8000/live/0808/0808/5034.ts
+#EXTINF:-1,(AR) LIBYA 218 TV
+http://vip.tuguj.net:8000/live/0808/0808/4985.ts
+#EXTINF:-1,(AR) MECCA TV
+http://vip.tuguj.net:8000/live/0808/0808/4957.ts
+#EXTINF:-1,(AR) MEDI 1 TV
+http://vip.tuguj.net:8000/live/0808/0808/5084.ts
+#EXTINF:-1,(AR) MELODY CLASSIC
+http://vip.tuguj.net:8000/live/0808/0808/4954.ts
+#EXTINF:-1,(AR) MODERN SPORTS
+http://vip.tuguj.net:8000/live/0808/0808/4958.ts
+#EXTINF:-1,(AR) MovieMaxx
+http://vip.tuguj.net:8000/live/0808/0808/5008.ts
+#EXTINF:-1,(AR) MTA 3 AL ARABIYAH
+http://vip.tuguj.net:8000/live/0808/0808/4955.ts
+#EXTINF:-1,(AR) MTV Lebanon
+http://vip.tuguj.net:8000/live/0808/0808/5035.ts
+#EXTINF:-1,(AR) NILE DRAMA
+http://vip.tuguj.net:8000/live/0808/0808/5044.ts
+#EXTINF:-1,(AR) NILE LIFE
+http://vip.tuguj.net:8000/live/0808/0808/5045.ts
+#EXTINF:-1,(AR) NOOR JORDAN
+http://vip.tuguj.net:8000/live/0808/0808/4959.ts
+#EXTINF:-1,(AR) Noursat
+http://vip.tuguj.net:8000/live/0808/0808/5009.ts
+#EXTINF:-1,(AR) OSN Movies Action HD
+http://vip.tuguj.net:8000/live/0808/0808/5038.ts
+#EXTINF:-1,(AR) OSN Movies Premiere HD
+http://vip.tuguj.net:8000/live/0808/0808/5039.ts
+#EXTINF:-1,(AR) OSN_MOVIES_HD
+http://vip.tuguj.net:8000/live/0808/0808/5040.ts
+#EXTINF:-1,(AR) OTV LEBANON
+http://vip.tuguj.net:8000/live/0808/0808/5033.ts
+#EXTINF:-1,(AR) PANORAMA DRAMA
+http://vip.tuguj.net:8000/live/0808/0808/5050.ts
+#EXTINF:-1,(AR) PANORAMA DRAMA 2
+http://vip.tuguj.net:8000/live/0808/0808/5049.ts
+#EXTINF:-1,(AR) PANORAMA FILM
+http://vip.tuguj.net:8000/live/0808/0808/5051.ts
+#EXTINF:-1,(AR) PANORAMA FOOD
+http://vip.tuguj.net:8000/live/0808/0808/5052.ts
+#EXTINF:-1,(AR) Payam e Afghan TV
+http://vip.tuguj.net:8000/live/0808/0808/5011.ts
+#EXTINF:-1,(AR) PEACE TV
+http://vip.tuguj.net:8000/live/0808/0808/4968.ts
+#EXTINF:-1,(AR) Persian Star 1
+http://vip.tuguj.net:8000/live/0808/0808/5012.ts
+#EXTINF:-1,(AR) Persian Star 2
+http://vip.tuguj.net:8000/live/0808/0808/5013.ts
+#EXTINF:-1,(AR) QATAR TODAY
+http://vip.tuguj.net:8000/live/0808/0808/4960.ts
+#EXTINF:-1,(AR) QATAR TV1
+http://vip.tuguj.net:8000/live/0808/0808/5030.ts
+#EXTINF:-1,(AR) ROTANA CINEMA KSA
+http://vip.tuguj.net:8000/live/0808/0808/5074.ts
+#EXTINF:-1,(AR) ROTANA KHALIJAH
+http://vip.tuguj.net:8000/live/0808/0808/5075.ts
+#EXTINF:-1,(AR) ROYA TV
+http://vip.tuguj.net:8000/live/0808/0808/5046.ts
+#EXTINF:-1,(AR) RUSIYA AL-YAUM
+http://vip.tuguj.net:8000/live/0808/0808/4969.ts
+#EXTINF:-1,(AR) SAMA JORDAN
+http://vip.tuguj.net:8000/live/0808/0808/4961.ts
+#EXTINF:-1,(AR) SAT 7 ARABIC
+http://vip.tuguj.net:8000/live/0808/0808/5014.ts
+#EXTINF:-1,(AR) SAT 7 KIDS
+http://vip.tuguj.net:8000/live/0808/0808/5015.ts
+#EXTINF:-1,(AR) SAUDI 24
+http://vip.tuguj.net:8000/live/0808/0808/5054.ts
+#EXTINF:-1,(AR) SAUDI CHANNEL 1
+http://vip.tuguj.net:8000/live/0808/0808/5063.ts
+#EXTINF:-1,(AR) Saudi Channel 2
+http://vip.tuguj.net:8000/live/0808/0808/5062.ts
+#EXTINF:-1,(AR) SEHRAYA
+http://vip.tuguj.net:8000/live/0808/0808/5031.ts
+#EXTINF:-1,(AR) SHARQIYA NEWS
+http://vip.tuguj.net:8000/live/0808/0808/4986.ts
+#EXTINF:-1,(AR) SKY NEWS ARABIA
+http://vip.tuguj.net:8000/live/0808/0808/5032.ts
+#EXTINF:-1,(AR) STAR CINEMA 1
+http://vip.tuguj.net:8000/live/0808/0808/5023.ts
+#EXTINF:-1,(AR) STAR CINEMA 2
+http://vip.tuguj.net:8000/live/0808/0808/5022.ts
+#EXTINF:-1,(AR) SURYANA TV
+http://vip.tuguj.net:8000/live/0808/0808/5016.ts
+#EXTINF:-1,(AR) TAMAZIGHT
+http://vip.tuguj.net:8000/live/0808/0808/5081.ts
+#EXTINF:-1,(AR) TELE LIBAN
+http://vip.tuguj.net:8000/live/0808/0808/5037.ts
+#EXTINF:-1,(AR) TIME COMEDY
+http://vip.tuguj.net:8000/live/0808/0808/5021.ts
+#EXTINF:-1,(AR) TMTV
+http://vip.tuguj.net:8000/live/0808/0808/5017.ts
+#EXTINF:-1,(AR) TOK TOK CINEMA
+http://vip.tuguj.net:8000/live/0808/0808/4987.ts
+#EXTINF:-1,(AR) TOYOR JANNAH
+http://vip.tuguj.net:8000/live/0808/0808/5053.ts
+#EXTINF:-1,(AR) TRT ARAPCA
+http://vip.tuguj.net:8000/live/0808/0808/5018.ts
+#EXTINF:-1,(AR) TURKMENELI 2 TV
+http://vip.tuguj.net:8000/live/0808/0808/4993.ts
+#EXTINF:-1,(AR) TV CORAN CZ
+http://vip.tuguj.net:8000/live/0808/0808/4964.ts
+#EXTINF:-1,(AR) TV TAMAZIGHT
+http://vip.tuguj.net:8000/live/0808/0808/5069.ts
+#EXTINF:-1,(AR) WASEELA TV
+http://vip.tuguj.net:8000/live/0808/0808/4965.ts
+#EXTINF:-1,(AR) ZAHRA ENNAHAR TV
+http://vip.tuguj.net:8000/live/0808/0808/4967.ts
+#EXTINF:-1,(AR) ZEE AFLAM
+http://vip.tuguj.net:8000/live/0808/0808/4988.ts
+#EXTINF:-1,(AR) ZEE ALWAN
+http://vip.tuguj.net:8000/live/0808/0808/4989.ts

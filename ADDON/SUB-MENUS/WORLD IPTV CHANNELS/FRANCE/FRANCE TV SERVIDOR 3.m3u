@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -23,183 +23,137 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-#EXTINF:-1,FR:13EME_RUE_HD
-http://universeiptv.com:8000/live/murad/murad123/3220.ts
-#EXTINF:-1,FR:AB_1
-http://universeiptv.com:8000/live/murad/murad123/2547.ts
+#EXTINF:-1,FR:HD1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3085.ts
+#EXTINF:-1,FR:Foot 24
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1482.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1473.ts
+#EXTINF:-1,FR:CANAL   SERIES
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3093.ts
+#EXTINF:-1,FR:CANAL   CINEMA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3094.ts
 #EXTINF:-1,FR:Action
-http://universeiptv.com:8000/live/murad/murad123/890.ts
-#EXTINF:-1,FR:Animaux_hd
-http://universeiptv.com:8000/live/murad/murad123/876.ts
-#EXTINF:-1,FR:ARTE
-http://universeiptv.com:8000/live/murad/murad123/1372.ts
-#EXTINF:-1,FR:BeinSport_1
-http://universeiptv.com:8000/live/murad/murad123/980.ts
-#EXTINF:-1,FR:BeinSport_2
-http://universeiptv.com:8000/live/murad/murad123/981.ts
-#EXTINF:-1,FR:BeinSport_3
-http://universeiptv.com:8000/live/murad/murad123/982.ts
-#EXTINF:-1,FR:BeinSport_MAX_4
-http://universeiptv.com:8000/live/murad/murad123/983.ts
-#EXTINF:-1,FR:BeinSport_MAX_5
-http://universeiptv.com:8000/live/murad/murad123/984.ts
-#EXTINF:-1,FR:BeinSport_MAX_6
-http://universeiptv.com:8000/live/murad/murad123/985.ts
-#EXTINF:-1,FR:BeinSport_MAX_7
-http://universeiptv.com:8000/live/murad/murad123/986.ts
-#EXTINF:-1,FR:BeinSport_MAX_8
-http://universeiptv.com:8000/live/murad/murad123/987.ts
-#EXTINF:-1,FR:CANAL_CINEMA_HD
-http://universeiptv.com:8000/live/murad/murad123/856.ts
-#EXTINF:-1,FR:CANAL_DECALE_HD
-http://universeiptv.com:8000/live/murad/murad123/855.ts
-#EXTINF:-1,FR:CANAL_FAMILY_HD
-http://universeiptv.com:8000/live/murad/murad123/1374.ts
-#EXTINF:-1,FR:CANAL_HD
-http://universeiptv.com:8000/live/murad/murad123/854.ts
-#EXTINF:-1,FR:Canal_J
-http://universeiptv.com:8000/live/murad/murad123/892.ts
-#EXTINF:-1,FR:CANAL_SPORT_HD
-http://universeiptv.com:8000/live/murad/murad123/853.ts
-#EXTINF:-1,FR:Cartoon_Network
-http://universeiptv.com:8000/live/murad/murad123/2257.ts
-#EXTINF:-1,FR:Chasse_Et_Peche
-http://universeiptv.com:8000/live/murad/murad123/857.ts
-#EXTINF:-1,FR:CINE_CLASSIC
-http://universeiptv.com:8000/live/murad/murad123/848.ts
-#EXTINF:-1,FR:CINE_EMOTION
-http://universeiptv.com:8000/live/murad/murad123/1373.ts
-#EXTINF:-1,FR:CINE_FAMIZ
-http://universeiptv.com:8000/live/murad/murad123/851.ts
-#EXTINF:-1,FR:CINE_FRISSON
-http://universeiptv.com:8000/live/murad/murad123/850.ts
-#EXTINF:-1,FR:Cine_FX
-http://universeiptv.com:8000/live/murad/murad123/886.ts
-#EXTINF:-1,FR:CINE_POLAR
-http://universeiptv.com:8000/live/murad/murad123/847.ts
-#EXTINF:-1,FR:CINE_PREMIER_HD
-http://universeiptv.com:8000/live/murad/murad123/849.ts
-#EXTINF:-1,FR:COMEDIE
-http://universeiptv.com:8000/live/murad/murad123/3219.ts
-#EXTINF:-1,FR:D17
-http://universeiptv.com:8000/live/murad/murad123/2157.ts
-#EXTINF:-1,FR:D8
-http://universeiptv.com:8000/live/murad/murad123/2156.ts
-#EXTINF:-1,FR:Discovery
-http://universeiptv.com:8000/live/murad/murad123/877.ts
-#EXTINF:-1,FR:DISCOVERY_SCIENCE
-http://universeiptv.com:8000/live/murad/murad123/3221.ts
-#EXTINF:-1,FR:Disney
-http://universeiptv.com:8000/live/murad/murad123/878.ts
-#EXTINF:-1,FR:Disney_Junior
-http://universeiptv.com:8000/live/murad/murad123/889.ts
-#EXTINF:-1,FR:EQUIDIA_LIVE
-http://universeiptv.com:8000/live/murad/murad123/3225.ts
-#EXTINF:-1,FR:EUROSPORT
-http://universeiptv.com:8000/live/murad/murad123/2531.ts
-#EXTINF:-1,FR:EUROSPORT_2
-http://universeiptv.com:8000/live/murad/murad123/3470.ts
-#EXTINF:-1,FR:Foot24
-http://universeiptv.com:8000/live/murad/murad123/1635.ts
-#EXTINF:-1,FR:FRANCE_2
-http://universeiptv.com:8000/live/murad/murad123/842.ts
-#EXTINF:-1,FR:FRANCE_3
-http://universeiptv.com:8000/live/murad/murad123/843.ts
-#EXTINF:-1,FR:France_4
-http://universeiptv.com:8000/live/murad/murad123/844.ts
-#EXTINF:-1,FR:France_5
-http://universeiptv.com:8000/live/murad/murad123/845.ts
-#EXTINF:-1,FR:France_O
-http://universeiptv.com:8000/live/murad/murad123/846.ts
-#EXTINF:-1,FR:Game_One
-http://universeiptv.com:8000/live/murad/murad123/3118.ts
-#EXTINF:-1,FR:Golf
-http://universeiptv.com:8000/live/murad/murad123/3229.ts
-#EXTINF:-1,FR:GULLI
-http://universeiptv.com:8000/live/murad/murad123/893.ts
-#EXTINF:-1,FR:Infosport
-http://universeiptv.com:8000/live/murad/murad123/879.ts
-#EXTINF:-1,FR:Kombat_Sport
-http://universeiptv.com:8000/live/murad/murad123/2177.ts
-#EXTINF:-1,FR:L-EQUIPE_21
-http://universeiptv.com:8000/live/murad/murad123/3224.ts
-#EXTINF:-1,FR:M6
-http://universeiptv.com:8000/live/murad/murad123/880.ts
-#EXTINF:-1,FR:M6_Music
-http://universeiptv.com:8000/live/murad/murad123/2545.ts
-#EXTINF:-1,FR:MANGAS
-http://universeiptv.com:8000/live/murad/murad123/2589.ts
-#EXTINF:-1,FR:Nat_Geo
-http://universeiptv.com:8000/live/murad/murad123/881.ts
-#EXTINF:-1,FR:NAT_GEO_WILD
-http://universeiptv.com:8000/live/murad/murad123/3222.ts
-#EXTINF:-1,FR:NRJ12
-http://universeiptv.com:8000/live/murad/murad123/882.ts
-#EXTINF:-1,FR:NUMERO_23
-http://universeiptv.com:8000/live/murad/murad123/3314.ts
-#EXTINF:-1,FR:OCS_CHOC
-http://universeiptv.com:8000/live/murad/murad123/989.ts
-#EXTINF:-1,FR:OCS_CITY
-http://universeiptv.com:8000/live/murad/murad123/991.ts
-#EXTINF:-1,FR:OCS_GEANT
-http://universeiptv.com:8000/live/murad/murad123/988.ts
-#EXTINF:-1,FR:OCS_MAX
-http://universeiptv.com:8000/live/murad/murad123/990.ts
-#EXTINF:-1,FR:OL_TV
-http://universeiptv.com:8000/live/murad/murad123/2544.ts
-#EXTINF:-1,FR:Paris_Premiere
-http://universeiptv.com:8000/live/murad/murad123/2543.ts
-#EXTINF:-1,FR:PIWI
-http://universeiptv.com:8000/live/murad/murad123/891.ts
-#EXTINF:-1,FR:Planete
-http://universeiptv.com:8000/live/murad/murad123/883.ts
-#EXTINF:-1,FR:Planete_A_and_E
-http://universeiptv.com:8000/live/murad/murad123/3117.ts
-#EXTINF:-1,FR:Planete_CI
-http://universeiptv.com:8000/live/murad/murad123/2158.ts
-#EXTINF:-1,FR:RTL9
-http://universeiptv.com:8000/live/murad/murad123/885.ts
-#EXTINF:-1,FR:SFR_SPORT_1
-http://universeiptv.com:8000/live/murad/murad123/2725.ts
-#EXTINF:-1,FR:SFR_SPORT_2
-http://universeiptv.com:8000/live/murad/murad123/2726.ts
-#EXTINF:-1,FR:SFR_SPORT_3
-http://universeiptv.com:8000/live/murad/murad123/3315.ts
-#EXTINF:-1,FR:SFR_SPORT_4k
-http://universeiptv.com:8000/live/murad/murad123/3313.ts
-#EXTINF:-1,FR:Syfy
-http://universeiptv.com:8000/live/murad/murad123/2546.ts
-#EXTINF:-1,FR:TELETOON_HD
-http://universeiptv.com:8000/live/murad/murad123/3223.ts
-#EXTINF:-1,FR:TF1
-http://universeiptv.com:8000/live/murad/murad123/887.ts
-#EXTINF:-1,FR:TIJI
-http://universeiptv.com:8000/live/murad/murad123/888.ts
-#EXTINF:-1,FR:Tout_LHistoire
-http://universeiptv.com:8000/live/murad/murad123/884.ts
-#EXTINF:-1,FR:Ushuaia_HD
-http://universeiptv.com:8000/live/murad/murad123/895.ts
-#EXTINF:-1,FR:W9
-http://universeiptv.com:8000/live/murad/murad123/894.ts
-#EXTINF:-1,FR:A_LA_CARTE_1
-http://universeiptv.com:8000/live/murad/murad123/1608.ts
-#EXTINF:-1,FR:A_LA_CARTE_2
-http://universeiptv.com:8000/live/murad/murad123/1609.ts
-#EXTINF:-1,FR:A_LA_CARTE_3
-http://universeiptv.com:8000/live/murad/murad123/1610.ts
-#EXTINF:-1,FR:A_LA_CARTE_4
-http://universeiptv.com:8000/live/murad/murad123/2163.ts
-#EXTINF:-1,FR:A_LA_CARTE_5
-http://universeiptv.com:8000/live/murad/murad123/2164.ts
-
-
-
-
-
-
-
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3106.ts
+#EXTINF:-1,FR: Ushuaia TV HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1803.ts
+#EXTINF:-1,FR: TMC
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1775.ts
+#EXTINF:-1,FR: TF1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1484.ts
+#EXTINF:-1,FR: SCIENCE & VIE
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1467.ts
+#EXTINF:-1,FR: RTL 9
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1777.ts
+#EXTINF:-1,FR: Planete  CI HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1783.ts
+#EXTINF:-1,FR: PIWI
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1477.ts
+#EXTINF:-1,FR: OCS Max
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1816.ts
+#EXTINF:-1,FR: OCS City
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1779.ts
+#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1465.ts
+#EXTINF:-1,FR: Nat Geo Wild
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1464.ts
+#EXTINF:-1,FR: Nat Geo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1781.ts
+#EXTINF:-1,FR: Mangas
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1782.ts
+#EXTINF:-1,FR: M6 Music
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1784.ts
+#EXTINF:-1,FR: M6 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1485.ts
+#EXTINF:-1,FR: L'equipe 21*
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1804.ts
+#EXTINF:-1,FR: GULLI
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1468.ts
+#EXTINF:-1,FR: France 5
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1486.ts
+#EXTINF:-1,FR: France 4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1487.ts
+#EXTINF:-1,FR: France 3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1488.ts
+#EXTINF:-1,FR: France 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1489.ts
+#EXTINF:-1,FR: france  2 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1818.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1490.ts
+#EXTINF:-1,FR: DISNEY_CINEMA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3777.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1474.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1466.ts
+#EXTINF:-1,FR: Cine  Premier
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1785.ts
+#EXTINF:-1,FR: Cine   Emotion HD*
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1805.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1786.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1480.ts
+#EXTINF:-1,FR: CANAL J
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1476.ts
+#EXTINF:-1,FR: Canal  Sport HD*
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1787.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1792.ts
+#EXTINF:-1,FR: Canal  Sport
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3109.ts
+#EXTINF:-1,FR: CANAL  HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1463.ts
+#EXTINF:-1,FR: Canal  Frisson
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1788.ts
+#EXTINF:-1,FR: Canal  Famiz HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1789.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1793.ts
+#EXTINF:-1,FR: Canal  Classic HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1790.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1491.ts
+#EXTINF:-1,FR: Canal   Series HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1791.ts
+#EXTINF:-1,FR: Canal   Decale HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1493.ts
+#EXTINF:-1,FR: Canal
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1492.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1494.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1495.ts
+#EXTINF:-1,FR: beIN Sport 3 HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1800.ts
+#EXTINF:-1,FR: Action
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1801.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1806.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1807.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1808.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1809.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1810.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1811.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1812.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1813.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1814.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1815.ts
+#EXTINF:-1,FR: 6TER HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1780.ts
+#EXTINF:-1,FR: 13 Rue
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1802.ts
+#EXTINF:-1,FR_FRANCE_3HD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1817.ts
+#EXTINF:-1,FR_BFM_Business
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3121.ts

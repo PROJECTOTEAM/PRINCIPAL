@@ -1,109 +1,210 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,2stv Senegal AF
-http://clientportal.link:8080/live/cran/cran/13497.ts
-#EXTINF:-1,ABN AF
-http://clientportal.link:8080/live/cran/cran/13468.ts
-#EXTINF:-1,AIT International AF
-http://clientportal.link:8080/live/cran/cran/13467.ts
-#EXTINF:-1,ANN7 South Africa AF
-http://clientportal.link:8080/live/cran/cran/13487.ts
-#EXTINF:-1,Africable TV AF
-http://clientportal.link:8080/live/cran/cran/13466.ts
-#EXTINF:-1,Africa24 AF
-http://clientportal.link:8080/live/cran/cran/13498.ts
-#EXTINF:-1,Afrique TV AF
-http://clientportal.link:8080/live/cran/cran/13480.ts
-#EXTINF:-1,BEN Television AF
-http://clientportal.link:8080/live/cran/cran/13464.ts
-#EXTINF:-1,CBC Television AF
-http://clientportal.link:8080/live/cran/cran/13462.ts
-#EXTINF:-1,CrTV Cameroon AF
-http://clientportal.link:8080/live/cran/cran/13456.ts
-#EXTINF:-1,Cine Plus AF
-http://clientportal.link:8080/live/cran/cran/13478.ts
-#EXTINF:-1,Dtv AF
-http://clientportal.link:8080/live/cran/cran/13486.ts
-#EXTINF:-1,Emmanuel TV AF
-http://clientportal.link:8080/live/cran/cran/13477.ts
-#EXTINF:-1,Ebru TV Kenya AF
-http://clientportal.link:8080/live/cran/cran/13481.ts
-#EXTINF:-1,GTV Ghana AF
-http://clientportal.link:8080/live/cran/cran/13485.ts
-#EXTINF:-1,Gabon Television AF
-http://clientportal.link:8080/live/cran/cran/13445.ts
-#EXTINF:-1,GTV Sports Plus Ghana AF
-http://clientportal.link:8080/live/cran/cran/13469.ts
-#EXTINF:-1,Joy News AF
-http://clientportal.link:8080/live/cran/cran/13459.ts
-#EXTINF:-1,KEDU TV AF
-http://clientportal.link:8080/live/cran/cran/13475.ts
-#EXTINF:-1,LC2 International AF
-http://clientportal.link:8080/live/cran/cran/13458.ts
-#EXTINF:-1,‎Lamp Fall TV AF
-http://clientportal.link:8080/live/cran/cran/13495.ts
-#EXTINF:-1,NollyWood French AF
-http://clientportal.link:8080/live/cran/cran/13473.ts
-#EXTINF:-1,NollyWood Movies AF
-http://clientportal.link:8080/live/cran/cran/13474.ts
-#EXTINF:-1,ORTB TV AF
-http://clientportal.link:8080/live/cran/cran/13453.ts
-#EXTINF:-1,ORTM AF
-http://clientportal.link:8080/live/cran/cran/13465.ts
-#EXTINF:-1,Olé TFM AF
-http://clientportal.link:8080/live/cran/cran/13441.ts
-#EXTINF:-1,PlanetTV AF
-http://clientportal.link:8080/live/cran/cran/13479.ts
-#EXTINF:-1,RTB AF
-http://clientportal.link:8080/live/cran/cran/13440.ts
-#EXTINF:-1,RTG AF
-http://clientportal.link:8080/live/cran/cran/13461.ts
-#EXTINF:-1,RTI 1 Senegal AF
-http://clientportal.link:8080/live/cran/cran/13489.ts
-#EXTINF:-1,RTI 2 Senegal AF
-http://clientportal.link:8080/live/cran/cran/13503.ts
-#EXTINF:-1,RTS1 Senegal AF
-http://clientportal.link:8080/live/cran/cran/13502.ts
-#EXTINF:-1,Rave TV AF
-http://clientportal.link:8080/live/cran/cran/13449.ts
-#EXTINF:-1,Sen TV AF
-http://clientportal.link:8080/live/cran/cran/13451.ts
-#EXTINF:-1,TFM AF
-http://clientportal.link:8080/live/cran/cran/13490.ts
-#EXTINF:-1,TFM Religions AF
-http://clientportal.link:8080/live/cran/cran/13443.ts
-#EXTINF:-1,TPA Angola AF
-http://clientportal.link:8080/live/cran/cran/13472.ts
-#EXTINF:-1,TV Continental Nigeria AF
-http://clientportal.link:8080/live/cran/cran/13476.ts
-#EXTINF:-1,Tele Chad AF
-http://clientportal.link:8080/live/cran/cran/13452.ts
-#EXTINF:-1,télé-ecole AF
-http://clientportal.link:8080/live/cran/cran/13484.ts
-#EXTINF:-1,VoxAfrica AF
-http://clientportal.link:8080/live/cran/cran/13470.ts
-#EXTINF:-1,Walf TV Senegal AF
-http://clientportal.link:8080/live/cran/cran/13454.ts
-#EXTINF:-1,Wazobia TV AF
-http://clientportal.link:8080/live/cran/cran/13496.ts
-#EXTINF:-1,ZTV Ghana AF
-http://clientportal.link:8080/live/cran/cran/13448.ts
-#EXTINF:-1,Adom TV Ghana AF
-http://clientportal.link:8080/live/cran/cran/16268.ts
-#EXTINF:-1,Kessben TV AF
-http://clientportal.link:8080/live/cran/cran/16269.ts
-#EXTINF:-1,Royal Television AF
-http://clientportal.link:8080/live/cran/cran/16270.ts
-
-
-
-
-
+#EXTINF:-1,AFRICA MUSICA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4450.ts
+#EXTINF:-1,AFR: TVC News ( Nigeria )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4382.ts
+#EXTINF:-1,AFR: TV Mana Maputo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4384.ts
+#EXTINF:-1,AFR: TV Man Maputo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4424.ts
+#EXTINF:-1,AFR: TV Continental Nigeria
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4425.ts
+#EXTINF:-1,AFR: Tv Continental ( Nigeria )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4385.ts
+#EXTINF:-1,AFR: RTI 1 ( Cote Avoire )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4390.ts
+#EXTINF:-1,AFR: Prestige TV ( ghana )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4393.ts
+#EXTINF:-1,AFR: Neema TV Congo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4428.ts
+#EXTINF:-1,AFR: IL TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4430.ts
+#EXTINF:-1,AFR: Enorme TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4433.ts
+#EXTINF:-1,AFR: Dunamis TV ( Nigeria )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4403.ts
+#EXTINF:-1,AFR: Continental TV ( ghana )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4406.ts
+#EXTINF:-1,AFR: Canal 2 International ( Cameroun )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4410.ts
+#EXTINF:-1,AFR: ANN ( South Africa )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4412.ts
+#EXTINF:-1,AFR: Africa Tv 4 ( sudan )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4417.ts
+#EXTINF:-1,AFR: Africa Tv 4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4435.ts
+#EXTINF:-1,AFR: Africa Tv 3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4436.ts
+#EXTINF:-1,AFR: Africa TV 2 ( sudan )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4419.ts
+#EXTINF:-1,AFR: Africa TV ( Ghana )
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4421.ts
+#EXTINF:-1,AFR-CNA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2868.ts
+#EXTINF:-1,AFR-Canal 2 Info (CMR)
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3591.ts
+#EXTINF:-1,AFR-Africa:TV Man¨¢-Maputo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3592.ts
+#EXTINF:-1,AFG:Tuti TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4788.ts
+#EXTINF:-1,AFG: ZARIN TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4860.ts
+#EXTINF:-1,AFG: TOLO NEWS
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4771.ts
+#EXTINF:-1,AFG: TOLO
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4770.ts
+#EXTINF:-1,AFG: TAMADON TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4777.ts
+#EXTINF:-1,AFG: SROOD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4778.ts
+#EXTINF:-1,AFG: SHAMSHAD
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4779.ts
+#EXTINF:-1,AFG: RAH E FARDA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4861.ts
+#EXTINF:-1,AFG: PASHTO TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4782.ts
+#EXTINF:-1,AFG: PARLIMENT TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4862.ts
+#EXTINF:-1,AFG: NOORIN TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4863.ts
+#EXTINF:-1,AFG: NOOR TELEVISION
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4864.ts
+#EXTINF:-1,AFG: NEGAAH
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4784.ts
+#EXTINF:-1,AFG: LEMAR
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4785.ts
+#EXTINF:-1,AFG: KHURSHID TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4786.ts
+#EXTINF:-1,AFG: Kayhan TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4790.ts
+#EXTINF:-1,AFG: Jawan TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4781.ts
+#EXTINF:-1,AFG: Dari 24
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4865.ts
+#EXTINF:-1,AFG: ATV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4772.ts
+#EXTINF:-1,AFG: ATN USA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4773.ts
+#EXTINF:-1,AFG: ATN NEWS
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4774.ts
+#EXTINF:-1,AFG: ATN EUROPE
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4775.ts
+#EXTINF:-1,AFG: ATN AFGHAN
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4776.ts
+#EXTINF:-1,AFG: Aryana TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4783.ts
+#EXTINF:-1,AFG: Aria Music
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4866.ts
+#EXTINF:-1,AFG: Arezo
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4780.ts
+#EXTINF:-1,AFG: Afghan TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4789.ts
+#EXTINF:-1,AFG: Afghan Theatre
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4791.ts
+#EXTINF:-1,AFG: 1TV AFGHAN
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4769.ts
+#EXTINF:-1,AF:VOX AFRICA AF
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4518.ts
+#EXTINF:-1,AF:CRTV AF
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4515.ts
+#EXTINF:-1,AF: TV3 Ghana (NOT 24H)*
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4452.ts
+#EXTINF:-1,AF: Tayba Tv
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3601.ts
+#EXTINF:-1,AF: SNTV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4439.ts
+#EXTINF:-1,AF: KALSAN TV
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4447.ts
+#EXTINF:-1,AF: Ghana Entertainment Channel
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4463.ts
+#EXTINF:-1,AF: ANN7 SOUTH AFRICA
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4471.ts
+#EXTINF:-1,AF: Africa TV3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3604.ts
+#EXTINF:-1,AF: Africa TV1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3602.ts
+#EXTINF:-1,AF: 2STV - Senegal
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3758.ts
+#EXTINF:-1,9
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2230.ts
+#EXTINF:-1,8
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2229.ts
+#EXTINF:-1,7
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2228.ts
+#EXTINF:-1,6
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2227.ts
+#EXTINF:-1,5
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2226.ts
+#EXTINF:-1,49
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2270.ts
+#EXTINF:-1,47
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2268.ts
+#EXTINF:-1,45
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2266.ts
+#EXTINF:-1,44
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2265.ts
+#EXTINF:-1,43
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2264.ts
+#EXTINF:-1,42
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2263.ts
+#EXTINF:-1,41
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2262.ts
+#EXTINF:-1,40
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2261.ts
+#EXTINF:-1,4
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2225.ts
+#EXTINF:-1,39
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2260.ts
+#EXTINF:-1,32
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2253.ts
+#EXTINF:-1,31
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2252.ts
+#EXTINF:-1,30
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2251.ts
+#EXTINF:-1,3
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2224.ts
+#EXTINF:-1,29
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2250.ts
+#EXTINF:-1,28
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2249.ts
+#EXTINF:-1,27
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2248.ts
+#EXTINF:-1,26
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2247.ts
+#EXTINF:-1,25
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2246.ts
+#EXTINF:-1,24
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2245.ts
+#EXTINF:-1,23
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2244.ts
+#EXTINF:-1,21
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2242.ts
+#EXTINF:-1,20
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2241.ts
+#EXTINF:-1,2
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2223.ts
+#EXTINF:-1,19
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2240.ts
+#EXTINF:-1,18
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2239.ts
+#EXTINF:-1,17
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2238.ts
+#EXTINF:-1,16
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2237.ts
+#EXTINF:-1,14
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2235.ts
+#EXTINF:-1,13
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2234.ts
+#EXTINF:-1,12
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2233.ts
+#EXTINF:-1,10
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2231.ts
+#EXTINF:-1,1
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2222.ts
 

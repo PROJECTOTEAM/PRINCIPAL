@@ -1,204 +1,209 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:-1,DE_Disney_Channel_HD
-http://we-you-iptv.tv:8000/live/1111/1111/965.ts
-#EXTINF:-1,DE: Sky Germany TNT Serie HD
-http://we-you-iptv.tv:8000/live/1111/1111/935.ts
-#EXTINF:-1,DE: Sony HD
-http://we-you-iptv.tv:8000/live/1111/1111/951.ts
-#EXTINF:-1,DE: TLC
-http://we-you-iptv.tv:8000/live/1111/1111/949.ts
-#EXTINF:-1,DE: 3sat HD
-http://we-you-iptv.tv:8000/live/1111/1111/6034.ts
+#EXTINF:-1,DE: Munchen TV
+http://vip.tuguj.net:8000/live/0808/0808/5787.ts
+#EXTINF:-1,DE: 3Sat HD
+http://vip.tuguj.net:8000/live/0808/0808/5229.ts
 #EXTINF:-1,DE: ARD HD
-http://we-you-iptv.tv:8000/live/1111/1111/6053.ts
+http://vip.tuguj.net:8000/live/0808/0808/5230.ts
 #EXTINF:-1,DE: Arte HD
-http://we-you-iptv.tv:8000/live/1111/1111/6033.ts
-#EXTINF:-1,DE: CARTOON NETWORK
-http://we-you-iptv.tv:8000/live/1111/1111/923.ts
-#EXTINF:-1,DE: Das Erste HD
-http://we-you-iptv.tv:8000/live/1111/1111/6052.ts
-#EXTINF:-1,DE: DISCOVERY_HD
-http://we-you-iptv.tv:8000/live/1111/1111/966.ts
-#EXTINF:-1,DE: Disney_Cinemagic_HD
-http://we-you-iptv.tv:8000/live/1111/1111/964.ts
-#EXTINF:-1,DE: FOX
-http://we-you-iptv.tv:8000/live/1111/1111/6037.ts
-#EXTINF:-1,DE: Fox serie
-http://we-you-iptv.tv:8000/live/1111/1111/6039.ts
-#EXTINF:-1,DE: FOX_HD
-http://we-you-iptv.tv:8000/live/1111/1111/963.ts
+http://vip.tuguj.net:8000/live/0808/0808/5228.ts
 #EXTINF:-1,DE: Kabel 1 HD
-http://we-you-iptv.tv:8000/live/1111/1111/6036.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://we-you-iptv.tv:8000/live/1111/1111/6043.ts
-#EXTINF:-1,DE: NATIONAL_GEO_WILD_HD
-http://we-you-iptv.tv:8000/live/1111/1111/961.ts
-#EXTINF:-1,DE: National_Geographic
-http://we-you-iptv.tv:8000/live/1111/1111/962.ts
-#EXTINF:-1,DE: Prosieben HD
-http://we-you-iptv.tv:8000/live/1111/1111/6042.ts
-#EXTINF:-1,DE: ProSieben MAXX HD
-http://we-you-iptv.tv:8000/live/1111/1111/6041.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://we-you-iptv.tv:8000/live/1111/1111/6046.ts
-#EXTINF:-1,DE: RTL HD
-http://we-you-iptv.tv:8000/live/1111/1111/6049.ts
-#EXTINF:-1,DE: RTL Passion HD
-http://we-you-iptv.tv:8000/live/1111/1111/954.ts
-#EXTINF:-1,DE: RTL PLUS
-http://we-you-iptv.tv:8000/live/1111/1111/6047.ts
-#EXTINF:-1,DE: RTL Television
-http://we-you-iptv.tv:8000/live/1111/1111/6048.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://we-you-iptv.tv:8000/live/1111/1111/6051.ts
-#EXTINF:-1,DE: Sky Sport 11 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/936.ts
-#EXTINF:-1,DE: Sky Sport 7 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/955.ts
-#EXTINF:-1,DE: Sky Sport 6 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/956.ts
-#EXTINF:-1,DE: Sky Sport 5 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/957.ts
-#EXTINF:-1,DE: Sky Sport 4 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/958.ts
-#EXTINF:-1,DE: TNT Comedy
-http://we-you-iptv.tv:8000/live/1111/1111/950.ts
-#EXTINF:-1,DE: Rtl passion
-http://we-you-iptv.tv:8000/live/1111/1111/6234.ts
-#EXTINF:-1,DE: RTL Nitro
-http://we-you-iptv.tv:8000/live/1111/1111/6235.ts
-#EXTINF:-1,DE: Rtl Living
-http://we-you-iptv.tv:8000/live/1111/1111/6236.ts
-#EXTINF:-1,DE: Sky Sport 8 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/960.ts
-#EXTINF:-1,DE: Sky Sport 3 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/959.ts
-#EXTINF:-1,DE: Sport 1 US
-http://we-you-iptv.tv:8000/live/1111/1111/953.ts
-#EXTINF:-1,DE: Spiegel TV Geschichte
-http://we-you-iptv.tv:8000/live/1111/1111/952.ts
-#EXTINF:-1,DE: SKY_SELECT_1_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6066.ts
-#EXTINF:-1,DE: SKY_SELECT_2_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6063.ts
-#EXTINF:-1,DE: Zee One
-http://we-you-iptv.tv:8000/live/1111/1111/948.ts
-#EXTINF:-1,DE: SKY_SELECT_3_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6061.ts
-#EXTINF:-1,DE: Super Rtl
-http://we-you-iptv.tv:8000/live/1111/1111/947.ts
-#EXTINF:-1,DE: SKY_SELECT_4_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6060.ts
-#EXTINF:-1,DE: SKY TNT FILM
-http://we-you-iptv.tv:8000/live/1111/1111/946.ts
-#EXTINF:-1,DE: SKY_SELECT_5_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6059.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 1 HD
-http://we-you-iptv.tv:8000/live/1111/1111/945.ts
-#EXTINF:-1,DE: SKY_SELECT_6_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6058.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/944.ts
-#EXTINF:-1,DE: SKY_SELECT_7_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6057.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/943.ts
-#EXTINF:-1,DE: SKY_SELECT_8_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6056.ts
-#EXTINF:-1,DE: SKY_SELECT_9_HD
-http://we-you-iptv.tv:8000/live/1111/1111/6055.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/942.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/941.ts
-#EXTINF:-1,DE: Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
-http://we-you-iptv.tv:8000/live/1111/1111/940.ts
-#EXTINF:-1,DE: Sport_digital_HD
-http://we-you-iptv.tv:8000/live/1111/1111/939.ts
-#EXTINF:-1,DE: SRF 2 HD
-http://we-you-iptv.tv:8000/live/1111/1111/922.ts
-#EXTINF:-1,DE: Super RTL HD
-http://we-you-iptv.tv:8000/live/1111/1111/6045.ts
-#EXTINF:-1,DE: SYFY
-http://we-you-iptv.tv:8000/live/1111/1111/937.ts
-#EXTINF:-1,DE: TNT Film
-http://we-you-iptv.tv:8000/live/1111/1111/901.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://we-you-iptv.tv:8000/live/1111/1111/904.ts
-#EXTINF:-1,DE: Vox HD
-http://we-you-iptv.tv:8000/live/1111/1111/6040.ts
+http://vip.tuguj.net:8000/live/0808/0808/5238.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5235.ts
+#EXTINF:-1,DE: PRO  7 HD
+http://vip.tuguj.net:8000/live/0808/0808/5241.ts
+#EXTINF:-1,DE: PRO 7 FUN HD
+http://vip.tuguj.net:8000/live/0808/0808/5240.ts
+#EXTINF:-1,DE: RTL HD 1080P
+http://vip.tuguj.net:8000/live/0808/0808/5247.ts
+#EXTINF:-1,DE: RTL 2 HD 1080P
+http://vip.tuguj.net:8000/live/0808/0808/5245.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://vip.tuguj.net:8000/live/0808/0808/5244.ts
+#EXTINF:-1,DE: RTL Plus
+http://vip.tuguj.net:8000/live/0808/0808/5246.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://vip.tuguj.net:8000/live/0808/0808/5426.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5243.ts
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://vip.tuguj.net:8000/live/0808/0808/5242.ts
+#EXTINF:-1,DE: SIXX HD 1080P
+http://vip.tuguj.net:8000/live/0808/0808/5233.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://vip.tuguj.net:8000/live/0808/0808/5236.ts
+#EXTINF:-1,DE: VOX  HD
+http://vip.tuguj.net:8000/live/0808/0808/5239.ts
 #EXTINF:-1,DE: ZDF HD
-http://we-you-iptv.tv:8000/live/1111/1111/6050.ts
-#EXTINF:-1,DE: ZDF Neo
-http://we-you-iptv.tv:8000/live/1111/1111/6032.ts
-#EXTINF:-1,DE:-FOX HD
-http://we-you-iptv.tv:8000/live/1111/1111/925.ts
-#EXTINF:-1,DE: RTL Crime
-http://we-you-iptv.tv:8000/live/1111/1111/886.ts
-#EXTINF:-1,DE:Das-Erste-HD
-http://we-you-iptv.tv:8000/live/1111/1111/921.ts
-#EXTINF:-1,DE:Discovery-HD
-http://we-you-iptv.tv:8000/live/1111/1111/920.ts
-#EXTINF:-1,DE:DISNE-JUNIOR
-http://we-you-iptv.tv:8000/live/1111/1111/919.ts
-#EXTINF:-1,DE:DISNEY-XD
-http://we-you-iptv.tv:8000/live/1111/1111/917.ts
-#EXTINF:-1,DE:KABEL-1HD
-http://we-you-iptv.tv:8000/live/1111/1111/916.ts
-#EXTINF:-1,DE:Motorvision
-http://we-you-iptv.tv:8000/live/1111/1111/914.ts
-#EXTINF:-1,DE:N24-News
-http://we-you-iptv.tv:8000/live/1111/1111/913.ts
-#EXTINF:-1,DE:NATIONAL-GEOGRAPHIC-HD
-http://we-you-iptv.tv:8000/live/1111/1111/912.ts
-#EXTINF:-1,DE:NATIONAL-GEOWILD-HD
-http://we-you-iptv.tv:8000/live/1111/1111/911.ts
-#EXTINF:-1,DE:ORF-1HD
-http://we-you-iptv.tv:8000/live/1111/1111/910.ts
-#EXTINF:-1,DE:ORF-2HD
-http://we-you-iptv.tv:8000/live/1111/1111/909.ts
-#EXTINF:-1,DE:Pro-7
-http://we-you-iptv.tv:8000/live/1111/1111/908.ts
-#EXTINF:-1,DE: Sixx HD
-http://we-you-iptv.tv:8000/live/1111/1111/907.ts
-#EXTINF:-1,DE: Sat 1
-http://we-you-iptv.tv:8000/live/1111/1111/906.ts
-#EXTINF:-1,DE:RTL-HD
-http://we-you-iptv.tv:8000/live/1111/1111/905.ts
-#EXTINF:-1,DE:RTL-Nitro
-http://we-you-iptv.tv:8000/live/1111/1111/903.ts
-#EXTINF:-1,DE:RTL-PASSION-HD
-http://we-you-iptv.tv:8000/live/1111/1111/902.ts
-#EXTINF:-1,DE:Sixx
-http://we-you-iptv.tv:8000/live/1111/1111/900.ts
-#EXTINF:-1,DE:Sky-Atlantic-HD
-http://we-you-iptv.tv:8000/live/1111/1111/898.ts
-#EXTINF:-1,DE:SKY-CINEMA-24HD
-http://we-you-iptv.tv:8000/live/1111/1111/897.ts
-#EXTINF:-1,DE:Sky-Cinema-HD
-http://we-you-iptv.tv:8000/live/1111/1111/896.ts
-#EXTINF:-1,DE:SKY-Comedy-HD
-http://we-you-iptv.tv:8000/live/1111/1111/895.ts
-#EXTINF:-1,DE:Sky-Emotion
-http://we-you-iptv.tv:8000/live/1111/1111/894.ts
-#EXTINF:-1,DE: Romance TV HD
-http://we-you-iptv.tv:8000/live/1111/1111/893.ts
-#EXTINF:-1,DE:SRF1_HD
-http://we-you-iptv.tv:8000/live/1111/1111/938.ts
-#EXTINF:-1,DE:SUPER-RTL-HD
-http://we-you-iptv.tv:8000/live/1111/1111/892.ts
-#EXTINF:-1,DE:Syfy-HD
-http://we-you-iptv.tv:8000/live/1111/1111/891.ts
+http://vip.tuguj.net:8000/live/0808/0808/5232.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://vip.tuguj.net:8000/live/0808/0808/5231.ts
+#EXTINF:-1,=== >> KINO << ===
+http://vip.tuguj.net:8000/live/0808/0808/5279.ts
+#EXTINF:-1,DE: Kino welt HD
+http://vip.tuguj.net:8000/live/0808/0808/5261.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5270.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://vip.tuguj.net:8000/live/0808/0808/5268.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://vip.tuguj.net:8000/live/0808/0808/5276.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://vip.tuguj.net:8000/live/0808/0808/5267.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://vip.tuguj.net:8000/live/0808/0808/5272.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://vip.tuguj.net:8000/live/0808/0808/5278.ts
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://vip.tuguj.net:8000/live/0808/0808/5274.ts
+#EXTINF:-1,DE: Sky Emotion
+http://vip.tuguj.net:8000/live/0808/0808/5266.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://vip.tuguj.net:8000/live/0808/0808/5264.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5260.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://vip.tuguj.net:8000/live/0808/0808/5259.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://vip.tuguj.net:8000/live/0808/0808/5258.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://vip.tuguj.net:8000/live/0808/0808/5257.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://vip.tuguj.net:8000/live/0808/0808/5256.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://vip.tuguj.net:8000/live/0808/0808/5255.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://vip.tuguj.net:8000/live/0808/0808/5254.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://vip.tuguj.net:8000/live/0808/0808/5253.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://vip.tuguj.net:8000/live/0808/0808/5252.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://vip.tuguj.net:8000/live/0808/0808/5262.ts
+#EXTINF:-1,DE: TNT Film
+http://vip.tuguj.net:8000/live/0808/0808/5263.ts
+#EXTINF:-1,=== >> UNTERHALTUNG << ===
+http://vip.tuguj.net:8000/live/0808/0808/5298.ts
+#EXTINF:-1,DE: 13TH Street HD
+http://vip.tuguj.net:8000/live/0808/0808/5287.ts
+#EXTINF:-1,DE: AXN HD
+http://vip.tuguj.net:8000/live/0808/0808/5288.ts
+#EXTINF:-1,DE: E! ENTERTAINMENT
+http://vip.tuguj.net:8000/live/0808/0808/5281.ts
 #EXTINF:-1,DE: Pro 7 Maxx
-http://we-you-iptv.tv:8000/live/1111/1111/888.ts
-#EXTINF:-1,DE:ZDF
-http://we-you-iptv.tv:8000/live/1111/1111/887.ts
+http://vip.tuguj.net:8000/live/0808/0808/5282.ts
+#EXTINF:-1,DE: Romance TV HD
+http://vip.tuguj.net:8000/live/0808/0808/5280.ts
+#EXTINF:-1,DE: RTL Living HD
+http://vip.tuguj.net:8000/live/0808/0808/5284.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://vip.tuguj.net:8000/live/0808/0808/5283.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5296.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://vip.tuguj.net:8000/live/0808/0808/5294.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://vip.tuguj.net:8000/live/0808/0808/5293.ts
+#EXTINF:-1,DE: Sky Krimi
+http://vip.tuguj.net:8000/live/0808/0808/5291.ts
+#EXTINF:-1,DE: Sony Enterainment HD
+http://vip.tuguj.net:8000/live/0808/0808/5289.ts
+#EXTINF:-1,DE: SyFy HD
+http://vip.tuguj.net:8000/live/0808/0808/5292.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://vip.tuguj.net:8000/live/0808/0808/5286.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://vip.tuguj.net:8000/live/0808/0808/5290.ts
+#EXTINF:-1,=== >> SPORT << ===
+http://vip.tuguj.net:8000/live/0808/0808/5325.ts
+#EXTINF:-1,DE: EuroSport 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5321.ts
+#EXTINF:-1,DE: Motorvision HD
+http://vip.tuguj.net:8000/live/0808/0808/5324.ts
+#EXTINF:-1,DE: Sky Sport  Austria
+http://vip.tuguj.net:8000/live/0808/0808/5318.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://vip.tuguj.net:8000/live/0808/0808/4791.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5316.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://vip.tuguj.net:8000/live/0808/0808/5315.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://vip.tuguj.net:8000/live/0808/0808/5306.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://vip.tuguj.net:8000/live/0808/0808/5305.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://vip.tuguj.net:8000/live/0808/0808/5304.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://vip.tuguj.net:8000/live/0808/0808/5303.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://vip.tuguj.net:8000/live/0808/0808/5302.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://vip.tuguj.net:8000/live/0808/0808/5301.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://vip.tuguj.net:8000/live/0808/0808/5713.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://vip.tuguj.net:8000/live/0808/0808/5714.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://vip.tuguj.net:8000/live/0808/0808/5715.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://vip.tuguj.net:8000/live/0808/0808/5716.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://vip.tuguj.net:8000/live/0808/0808/5317.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://vip.tuguj.net:8000/live/0808/0808/5319.ts
+#EXTINF:-1,DE: Sport Digital HD
+http://vip.tuguj.net:8000/live/0808/0808/5322.ts
+#EXTINF:-1,=== >> KULTUR << ===
+http://vip.tuguj.net:8000/live/0808/0808/5337.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://vip.tuguj.net:8000/live/0808/0808/5335.ts
+#EXTINF:-1,DE: History Channel HD
+http://vip.tuguj.net:8000/live/0808/0808/5332.ts
+#EXTINF:-1,DE: Kabel 1 Doku
+http://vip.tuguj.net:8000/live/0808/0808/5328.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://vip.tuguj.net:8000/live/0808/0808/5331.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://vip.tuguj.net:8000/live/0808/0808/5333.ts
+#EXTINF:-1,DE: National Geographic HD
+http://vip.tuguj.net:8000/live/0808/0808/5336.ts
+#EXTINF:-1,DE: Phoenix
+http://vip.tuguj.net:8000/live/0808/0808/5327.ts
+#EXTINF:-1,DE: Spiegel Tv Geschichte HD
+http://vip.tuguj.net:8000/live/0808/0808/5330.ts
+#EXTINF:-1,DE: ZDF Neo HD
+http://vip.tuguj.net:8000/live/0808/0808/5326.ts
+#EXTINF:-1,=== >> KiNDER << ===
+http://vip.tuguj.net:8000/live/0808/0808/5351.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://vip.tuguj.net:8000/live/0808/0808/5350.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://vip.tuguj.net:8000/live/0808/0808/5347.ts
+#EXTINF:-1,DE: Disney Junior
+http://vip.tuguj.net:8000/live/0808/0808/5349.ts
+#EXTINF:-1,DE: Disney XD
+http://vip.tuguj.net:8000/live/0808/0808/5348.ts
+#EXTINF:-1,DE: KIKA HD
+http://vip.tuguj.net:8000/live/0808/0808/5342.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://vip.tuguj.net:8000/live/0808/0808/5344.ts
+#EXTINF:-1,DE: Boomerang
+http://vip.tuguj.net:8000/live/0808/0808/5346.ts
+#EXTINF:-1,DE: Super RTL HD
+http://vip.tuguj.net:8000/live/0808/0808/5343.ts
+#EXTINF:-1,DE: Toggo Plus
+http://vip.tuguj.net:8000/live/0808/0808/5345.ts
+#EXTINF:-1,=== >> lNFORMATiON << ===
+http://vip.tuguj.net:8000/live/0808/0808/5340.ts
+#EXTINF:-1,DE: N-TV HD
+http://vip.tuguj.net:8000/live/0808/0808/5338.ts
+#EXTINF:-1,DE: N24
+http://vip.tuguj.net:8000/live/0808/0808/5339.ts

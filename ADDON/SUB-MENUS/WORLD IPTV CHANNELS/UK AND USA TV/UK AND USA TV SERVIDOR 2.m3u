@@ -91,680 +91,419 @@ http://185.62.86.6:8081/hls/my5.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1,BBC One
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/42.ts
+#EXTINF:-1,BBC Two
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/43.ts
+#EXTINF:-1,BBC Four
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/585.ts
+#EXTINF:-1,BBC Alba
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1005.ts
+#EXTINF:-1,Channel 4 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/44.ts
+#EXTINF:-1,Channel 5 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/45.ts
+#EXTINF:-1,iTV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/53.ts
+#EXTINF:-1,iTV 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/52.ts
+#EXTINF:-1,iTV 3
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/54.ts
+#EXTINF:-1,iTV 4
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/51.ts
+#EXTINF:-1,iTVBe
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/50.ts
+#EXTINF:-1,iTV Encore
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/446.ts
+#EXTINF:-1,My5
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/592.ts
+#EXTINF:-1,Pick
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/569.ts
+#EXTINF:-1,Sky One
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/487.ts
+#EXTINF:-1,Sky Two
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/488.ts
+#EXTINF:-1,RTÉ One
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/49.ts
+#EXTINF:-1,RTÉ Two
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/48.ts
+#EXTINF:-1,TV3
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1127.ts
+#EXTINF:-1,TG4
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1029.ts
+#EXTINF:-1,Really
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/570.ts
+#EXTINF:-1,Yesterday
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/586.ts
+#EXTINF:-1,E!
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/46.ts
+#EXTINF:-1,E4
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/47.ts
+#EXTINF:-1,Lifetime
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/280.ts
+#EXTINF:-1,5Star
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/459.ts
+#EXTINF:-1,5USA
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/460.ts
+#EXTINF:-1,Vintage TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1140.ts
+#EXTINF:-1,Quest
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/279.ts
+#EXTINF:-1,Gold
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/479.ts
+#EXTINF:-1,Comedy Central
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1133.ts
+#EXTINF:-1,Comedy Central Extra
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1134.ts
+#EXTINF:-1,Dave
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1135.ts
+#EXTINF:-1,Fox
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1137.ts
+#EXTINF:-1,TLC
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/278.ts
+#EXTINF:-1,CBS Action
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/315.ts
+#EXTINF:-1,CBS Drama
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/313.ts
+#EXTINF:-1,CBS Reality
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/314.ts
+#EXTINF:-1,Horror Channel
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/482.ts
+#EXTINF:-1,Watch
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/292.ts
+#EXTINF:-1,Challenge
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/596.ts
+#EXTINF:-1,tru TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/590.ts
+#EXTINF:-1,=-=-=-= PAY PER VIEW =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/566.ts
+#EXTINF:-1,BOX OFFICE HD 1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/463.ts
+#EXTINF:-1,BOX OFFICE HD 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/464.ts
+#EXTINF:-1,BOX OFFICE HD 3
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/466.ts
+#EXTINF:-1,BOX OFFICE 3D
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/465.ts
+#EXTINF:-1,Sky Sports BoxOff ( ppv events Only )
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/9.ts
+#EXTINF:-1,Box Nation
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/21.ts
+#EXTINF:-1,=-=-=-= UK LIFESTYLE&CULTURE =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/294.ts
+#EXTINF:-1,Sky Arts 1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/274.ts
+#EXTINF:-1,Home & Health
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/316.ts
+#EXTINF:-1,Food Network
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/477.ts
+#EXTINF:-1,Travel Channel
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/277.ts
+#EXTINF:-1,Travel Channel +1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1009.ts
+#EXTINF:-1,Discovery Shed
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/471.ts
+#EXTINF:-1,=-= UK CINEMA =-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/276.ts
+#EXTINF:-1,Sky Atlantic HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/39.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/60.ts
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/58.ts
+#EXTINF:-1,Sky Movies Premiere
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/299.ts
+#EXTINF:-1,Sky Cinema Family
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/59.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/63.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1030.ts
+#EXTINF:-1,Sky Movies Greats
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/61.ts
+#EXTINF:-1,Sky Movies ScFi/Horror
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/62.ts
+#EXTINF:-1,Sky Movies Select
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1031.ts
+#EXTINF:-1,Sky Movies Disney
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/438.ts
+#EXTINF:-1,True Movies
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1013.ts
+#EXTINF:-1,True Movies +1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1014.ts
+#EXTINF:-1,Mov4men
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/568.ts
+#EXTINF:-1,Movies 24+
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/567.ts
+#EXTINF:-1,Universal Channel
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/589.ts
+#EXTINF:-1,Drama
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/474.ts
+#EXTINF:-1,AMC
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1131.ts
+#EXTINF:-1,More 4
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1136.ts
+#EXTINF:-1,TCM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1138.ts
+#EXTINF:-1,SyFy
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/489.ts
+#EXTINF:-1,=-=-=-= UK DOCUMENTARIES =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/297.ts
+#EXTINF:-1,ID
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/483.ts
+#EXTINF:-1,Animal Planet
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/456.ts
+#EXTINF:-1,Discovery History
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/312.ts
+#EXTINF:-1,Discovery Channel
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/457.ts
+#EXTINF:-1,Discovery Science
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/317.ts
+#EXTINF:-1,Discovery Turbo
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/318.ts
+#EXTINF:-1,Dmax
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/473.ts
+#EXTINF:-1,National Geographic
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/305.ts
+#EXTINF:-1,NAT GEO Wild
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/445.ts
+#EXTINF:-1,Crime+Investigation
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/559.ts
+#EXTINF:-1,History
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/480.ts
+#EXTINF:-1,=-=-=-= UK MUSIC =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/296.ts
+#EXTINF:-1,Heart TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/481.ts
+#EXTINF:-1,ClubLand
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/303.ts
+#EXTINF:-1,4Music
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/458.ts
+#EXTINF:-1,MTV Base
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/300.ts
+#EXTINF:-1,MTV Classic
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/485.ts
+#EXTINF:-1,MTV Hits
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1016.ts
+#EXTINF:-1,MTV Live HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/486.ts
+#EXTINF:-1,MTV Rocks
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1015.ts
+#EXTINF:-1,MTV Dance
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/301.ts
+#EXTINF:-1,MTV Music
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/302.ts
+#EXTINF:-1,VH1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1139.ts
+#EXTINF:-1,Scuzz
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1142.ts
+#EXTINF:-1,The Vault
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1141.ts
+#EXTINF:-1,=-=-=-= UK NEWS =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/295.ts
+#EXTINF:-1,Al Jazeera News HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/552.ts
+#EXTINF:-1,BBC Parliament
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/555.ts
+#EXTINF:-1,Sky News
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/285.ts
+#EXTINF:-1,BBC News
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/462.ts
+#EXTINF:-1,EuroNews
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/476.ts
+#EXTINF:-1,Fox News US
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/478.ts
+#EXTINF:-1,CNN News
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/470.ts
+#EXTINF:-1,=-= KIDS =-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/298.ts
+#EXTINF:-1,Disney Junior
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/562.ts
+#EXTINF:-1,NickToons
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/560.ts
+#EXTINF:-1,RTEjr
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/561.ts
+#EXTINF:-1,Baby TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/307.ts
+#EXTINF:-1,Cartoon Network
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/556.ts
+#EXTINF:-1,KiX Cartoon
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/467.ts
+#EXTINF:-1,Nickelodeon
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/310.ts
+#EXTINF:-1,CBeebies
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/469.ts
+#EXTINF:-1,BoomeRang
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/306.ts
+#EXTINF:-1,Nick JR
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/308.ts
+#EXTINF:-1,Nick Jr +1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1132.ts
+#EXTINF:-1,Nick JR Too
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/309.ts
+#EXTINF:-1,Disney XD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/472.ts
+#EXTINF:-1,POP
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1032.ts
+#EXTINF:-1,Tiny POP
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1033.ts
+#EXTINF:-1,CiTV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/557.ts
+#EXTINF:-1,CBBC
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/468.ts
+#EXTINF:-1,=-= ASIAN =-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1125.ts
+#EXTINF:-1,SET ASIA
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1123.ts
+#EXTINF:-1,Sony Max
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1124.ts
+#EXTINF:-1,B4U Movies
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1126.ts
+#EXTINF:-1,ZEE Cinema HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1129.ts
+#EXTINF:-1,ZEE Punjabi
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1130.ts
+#EXTINF:-1,ZEE TV HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1128.ts
+#EXTINF:-1,=-=-=-= SPORT CHANNELS =-=-=-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/22.ts
+#EXTINF:-1,Sky Sports News HQ
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/7.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/2.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/3.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/5.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/6.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/8.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/439.ts
+#EXTINF:-1,BT Sport 1 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/31.ts
+#EXTINF:-1,BT Sport 2 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/32.ts
+#EXTINF:-1,BT Sport 3 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/33.ts
+#EXTINF:-1,BT Sport ESPN
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/36.ts
+#EXTINF:-1,Premiere Sports
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/447.ts
+#EXTINF:-1,British Eurosport 1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1011.ts
+#EXTINF:-1,British Eurosport 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1012.ts
+#EXTINF:-1,EuroSport 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1010.ts
+#EXTINF:-1,Chelsea TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/304.ts
+#EXTINF:-1,LFC TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/443.ts
+#EXTINF:-1,MU TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/444.ts
+#EXTINF:-1,Racing UK
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/440.ts
+#EXTINF:-1,Eir Sport 1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/65.ts
+#EXTINF:-1,Eir Sport 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/475.ts
+#EXTINF:-1,MotorSport TV
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/484.ts
+#EXTINF:-1,At The Races
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/288.ts
+#EXTINF:-1,BeinSports 1 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/12.ts
+#EXTINF:-1,BeinSports 2 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/13.ts
+#EXTINF:-1,BeinSports 3 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/14.ts
+#EXTINF:-1,BeinSports 4 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/15.ts
+#EXTINF:-1,BeinSports 5 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/16.ts
+#EXTINF:-1,BeinSports 6 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/17.ts
+#EXTINF:-1,BeinSports 7 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/18.ts
+#EXTINF:-1,BeinSports 8 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/19.ts
+#EXTINF:-1,BeinSports 9 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/20.ts
+#EXTINF:-1,BeinSports 10 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/11.ts
+#EXTINF:-1,BeinSports 11 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1006.ts
+#EXTINF:-1,TSN 1 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/23.ts
+#EXTINF:-1,TSN 2 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/25.ts
+#EXTINF:-1,TSN 3 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/26.ts
+#EXTINF:-1,TSN 4 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/441.ts
+#EXTINF:-1,TSN 5 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/442.ts
+#EXTINF:-1,Fox Sports 1 HD US
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/29.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/30.ts
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: BBC 1 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/878.ts
-#EXTINF:-1,UK:BBC_one
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1838.ts
-#EXTINF:-1,UK:BBC Two
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1839.ts
-#EXTINF:-1,UK:CBBC Three
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1840.ts
-#EXTINF:-1,UK:BBC News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1841.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1745.ts
-#EXTINF:-1,UK: More4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3777.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1742.ts
-#EXTINF:-1,UK: RTE Two
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3759.ts
-#EXTINF:-1,UK: RTE One
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3758.ts
-#EXTINF:-1,UK: RTE 3 J.R
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3760.ts
-#EXTINF:-1,UK: 3E Ireland
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3780.ts
-#EXTINF:-1,UK: E!
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3779.ts
-#EXTINF:-1,UK: Itv Encore
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3778.ts
-#EXTINF:-1,UK: ITV 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1267.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1266.ts
-#EXTINF:-1,UK: ITV 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1265.ts
-#EXTINF:-1,UK: ITV 4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1264.ts
-#EXTINF:-1,UK: Watch
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1738.ts
-#EXTINF:-1,USA: ABC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1928.ts
-#EXTINF:-1,UK: TV Nasa
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1568.ts
-#EXTINF:-1,UK: TLC-IRELAND
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1746.ts
-#EXTINF:-1,FR: EuroNews
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/920.ts
-#EXTINF:-1,UK: SYFY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3770.ts
-#EXTINF:-1,UK:FOX
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1783.ts
-#EXTINF:-1,UK: FOX SD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3776.ts
-#EXTINF:-1,UK: TCM (film)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3757.ts
-#EXTINF:-1,UK:Life Time
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1831.ts
-#EXTINF:-1,UK: Comedy Central
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2709.ts
-#EXTINF:-1,UK: Sky One HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1833.ts
-#EXTINF:-1,UK: SKY Two HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1259.ts
-#EXTINF:-1,UK: SKY Atlantic HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1258.ts
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1253.ts
-#EXTINF:-1,UK: Sky Movies  Premiere
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1748.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1060.ts
-#EXTINF:-1,UK: Sky Movies Hits Showcase HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1795.ts
-#EXTINF:-1,UK: SkyShowcase
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2712.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1747.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2708.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1096.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1694.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1794.ts
-#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1251.ts
-#EXTINF:-1,UK: Sky Thriller
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1805.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1252.ts
-#EXTINF:-1,UK: Sky Movies Greats HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1098.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1099.ts
-#EXTINF:-1,UK: SkySelect
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2714.ts
-#EXTINF:-1,UK: HBO Comedy HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3768.ts
-#EXTINF:-1,UK: HBO
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3766.ts
-#EXTINF:-1,UK: Gold TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3775.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1255.ts
-#EXTINF:-1,UK:Disney XD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1832.ts
-#EXTINF:-1,UK: Disney Junior
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1271.ts
-#EXTINF:-1,UK: Cartoon Network
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2378.ts
-#EXTINF:-1,UK: NIck JR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1672.ts
-#EXTINF:-1,UK: Nickelodeon
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1261.ts
-#EXTINF:-1,UK: NickToons
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3748.ts
-#EXTINF:-1,UK: Nick JR+1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3750.ts
-#EXTINF:-1,UK: Nick JR Peppa
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3751.ts
-#EXTINF:-1,UK: BoomeRang
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/891.ts
-#EXTINF:-1,UK: Baby TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2927.ts
-#EXTINF:-1,UK: Movies4Man1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3764.ts
-#EXTINF:-1,UK: Movies4Man
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3763.ts
-#EXTINF:-1,UK: Movies24
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3774.ts
-#EXTINF:-1,UK: CBS Action
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1277.ts
-#EXTINF:-1,UK: CBS Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1276.ts
-#EXTINF:-1,UK: CBS Reality
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1275.ts
-#EXTINF:-1,UK: True Movies 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2710.ts
-#EXTINF:-1,UK: True Movies 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2711.ts
-#EXTINF:-1,UK: Film 4 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2715.ts
-#EXTINF:-1,UK:Film 4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1813.ts
-#EXTINF:-1,UK: Channel 4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1820.ts
-#EXTINF:-1,UK_Sky Arts
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1782.ts
-#EXTINF:-1,UK:Alibi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1793.ts
-#EXTINF:-1,UK: Star LifeOK (hindi)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3781.ts
-#EXTINF:-1,UK: Star Gold
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3771.ts
-#EXTINF:-1,UK: SONY TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3761.ts
-#EXTINF:-1,UK: Sony Sab
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3772.ts
-#EXTINF:-1,UK: Sony Movie
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3773.ts
-#EXTINF:-1,UK: Sony Max
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3782.ts
-#EXTINF:-1,UK: MTV Rocks
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3756.ts
-#EXTINF:-1,UK: MTV Music
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3755.ts
-#EXTINF:-1,UK: MTV Hits
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3754.ts
-#EXTINF:-1,UK: MTV Dance
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3753.ts
-#EXTINF:-1,UK: MTV Base
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3752.ts
-#EXTINF:-1,UK:5 USA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1824.ts
-#EXTINF:-1,UK:Travel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1802.ts
-#EXTINF:-1,UK:TLC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1803.ts
-#EXTINF:-1,UK:Sky News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1829.ts
-#EXTINF:-1,UK:Good Food
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1791.ts
-#EXTINF:-1,UK:Quest
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1807.ts
-#EXTINF:-1,UK:PICK
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1808.ts
-#EXTINF:-1,UK: REALLY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1935.ts
-#EXTINF:-1,UK: ITVBE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1936.ts
-#EXTINF:-1,UK:Discovery Turbo
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1815.ts
-#EXTINF:-1,UK:Discovery Science
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1816.ts
-#EXTINF:-1,UK:Discovery Home Health
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1817.ts
-#EXTINF:-1,UK:Discovery
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1818.ts
-#EXTINF:-1,UK: Discovery Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1673.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1262.ts
-#EXTINF:-1,UK: National Geographic Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1322.ts
-#EXTINF:-1,FR: Nat Geo HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1290.ts
-#EXTINF:-1,UK: Discovery History
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1274.ts
-#EXTINF:-1,UK: History Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1268.ts
-#EXTINF:-1,UK:Animal Planet
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1822.ts
-#EXTINF:-1,UK:Dave
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1790.ts
-#EXTINF:-1,UK: Chelsea TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1835.ts
-#EXTINF:-1,UK:At The Races
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1821.ts
-#EXTINF:-1,UK: Sky Sport News HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1675.ts
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1120.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1671.ts
-#EXTINF:-1,UK: Setanta Sport
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2745.ts
-#EXTINF:-1,UK: EuroSport 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/921.ts
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,USA: NYC - NEWS 12 Traffic & Weather
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4671.ts
-#EXTINF:-1,USA: NFL Now
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4145.ts
-#EXTINF:-1,USA: NFL Network HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2391.ts
-#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4232.ts
-#EXTINF:-1,USA: ESPN
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4140.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4290.ts
-#EXTINF:-1,USA: ESPN 3 TRE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4681.ts
-#EXTINF:-1,USA: ESPN NEWS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4724.ts
-#EXTINF:-1,USA: BT SPORT | ESPN
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4231.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4229.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4228.ts
-#EXTINF:-1,USA: FOX SPORTS ONE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4233.ts
-#EXTINF:-1,USA: ANIMAL PLANET
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4227.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4691.ts
-#EXTINF:-1,USA: CBS HD-US
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4658.ts
-#EXTINF:-1,USA: WWE Network
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2424.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4230.ts
-#EXTINF:-1,USA: Versus | NBA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2426.ts
-#EXTINF:-1,USA: TLC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2427.ts
-#EXTINF:-1,USA: TBS HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2380.ts
-#EXTINF:-1,USA: HISTORY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4130.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4129.ts
-#EXTINF:-1,USA: MTV LIVE HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4128.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4144.ts
-#EXTINF:-1,USA: MTV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4127.ts
-#EXTINF:-1,USA: SPIKE TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4142.ts
-#EXTINF:-1,USA: CBS News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4141.ts
-#EXTINF:-1,USA: AMC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4138.ts
-#EXTINF:-1,USA: USA Network
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4292.ts
-#EXTINF:-1,USA: CW 11 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4291.ts
-#EXTINF:-1,USA: T.N.T
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4139.ts
-#EXTINF:-1,USA: TBS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4143.ts
-#EXTINF:-1,USA: CNN HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2406.ts
-#EXTINF:-1,USA: CNN
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2454.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2423.ts
-#EXTINF:-1,USA: EURO NEWS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4692.ts
-#EXTINF:-1,USA: FOX NY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4286.ts
-#EXTINF:-1,USA: BLOOMBERG TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4683.ts
-#EXTINF:-1,USA: Astro Sports 4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4287.ts
-#EXTINF:-1,USA: Astro Sports 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4288.ts
-#EXTINF:-1,USA: Astro Sports 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4289.ts
-#EXTINF:-1,USA: Starz West
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2381.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2383.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2384.ts
-#EXTINF:-1,USA: Starz East
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2385.ts
-#EXTINF:-1,USA: Starz Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2386.ts
-#EXTINF:-1,USA: Starz Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2387.ts
-#EXTINF:-1,USA: SportsNet One HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2388.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2389.ts
-#EXTINF:-1,USA: Showtime HDTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2390.ts
-#EXTINF:-1,USA: NBCSN HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2392.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2433.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2434.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2435.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2436.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2437.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2438.ts
-#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2439.ts
-#EXTINF:-1,USA: NBC HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2440.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2393.ts
-#EXTINF:-1,USA: MLB HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2395.ts
-#EXTINF:-1,USA: LIFE TIME
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2396.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2397.ts
-#EXTINF:-1,USA: HBO ZONE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2445.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2398.ts
-#EXTINF:-1,USA: HBO HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2447.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2399.ts
-#EXTINF:-1,USA: HALLMARK HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2400.ts
-#EXTINF:-1,USA: NBA TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2449.ts
-#EXTINF:-1,USA: FX HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2401.ts
-#EXTINF:-1,USA: Fox News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2403.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2450.ts
-#EXTINF:-1,USA: Starz Encore East
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2404.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2405.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2453.ts
-#EXTINF:-1,USA: CITY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2407.ts
-#EXTINF:-1,USA: Cinemax East
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2408.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2409.ts
-#EXTINF:-1,USA: MOVIETIME
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4679.ts
-#EXTINF:-1,USA: CW Channel 11
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2455.ts
-#EXTINF:-1,USA: CBSN News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2457.ts
-#EXTINF:-1,USA: FOX SPORTS TWO HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4660.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4680.ts
-#EXTINF:-1,USA: CAPITAL TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4694.ts
-#EXTINF:-1,USA: HEART TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4693.ts
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4702.ts
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4703.ts
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4704.ts
-#EXTINF:-1,USA: The Weather Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4695.ts
-#EXTINF:-1,USA: News 12 Bronx (NYC)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4685.ts
-#EXTINF:-1,USA: News 12 Brooklyn (NYC)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4686.ts
-#EXTINF:-1,USA: News 12 Connecticut (LIVE)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4687.ts
-#EXTINF:-1,USA: News 12 Long Island(Stream 1)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4684.ts
-#EXTINF:-1,USA: News 12 New Jersey (LIVE)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4688.ts
-#EXTINF:-1,USA: News 12 New Jersey (Weather Live)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4689.ts
-#EXTINF:-1,USA: University of California TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4690.ts
-#EXTINF:-1,USA: Bravo HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2410.ts
-#EXTINF:-1,USA: Cinemax 5 Star Max
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4706.ts
-#EXTINF:-1,USA: A&E HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4707.ts
-#EXTINF:-1,USA: AL JAZEERA U.S HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4718.ts
-#EXTINF:-1,USA: BBC WORLD NEWS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4721.ts
-#EXTINF:-1,USA: BEIN SPORTS U.S.A
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4712.ts
-#EXTINF:-1,USA: NICKELODEON KIDS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4709.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4708.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4713.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4725.ts
-#EXTINF:-1,USA: Crime & Investigation
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4717.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4714.ts
-#EXTINF:-1,USA: E! Network HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4715.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4705.ts
-#EXTINF:-1,USA: NBC GOLF
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4719.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4723.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4720.ts
-#EXTINF:-1,USA: SYFY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4711.ts
-#EXTINF:-1,USA: TRUE MOVIES
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4722.ts
-#EXTINF:-1,USA: TV SERIES
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4710.ts
-#EXTINF:-1,USA: Big Ten Network HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2411.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4682.ts
-#EXTINF:-1,USA: Toon Kids
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3720.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5164.ts
-#EXTINF:-1,USA: CNBC HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5163.ts
-#EXTINF:-1,USA: GSN TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5159.ts
-#EXTINF:-1,USA: HBO Family HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5158.ts
-#EXTINF:-1,USA: HGTV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5157.ts
-#EXTINF:-1,USA: NHLTV NETWORK HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5161.ts
-#EXTINF:-1,USA: LMN HDTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5156.ts
-#EXTINF:-1,USA: MY9 TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5155.ts
-#EXTINF:-1,USA: NFL Network HDTV 1080i
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5154.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5153.ts
-#EXTINF:-1,USA: NICKTOONS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5152.ts
-#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5151.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5150.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5149.ts
-#EXTINF:-1,USA: TENNIS HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5148.ts
-#EXTINF:-1,USA: TRU TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5147.ts
-#EXTINF:-1,USA: TV SKY ONE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5146.ts
-#EXTINF:-1,USA: VH1 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/5145.ts
-#EXTINF:-1,USA: AFN Prime Pacific
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2416.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2417.ts
-#EXTINF:-1,USA: AFN News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2418.ts
-#EXTINF:-1,USA: AFN Movie
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2419.ts
-#EXTINF:-1,USA: AFN Family Movie
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2420.ts
-#EXTINF:-1,USA: ABC FAMILY/SPARK
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2421.ts
-#EXTINF:-1,USA: ABC News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2462.ts
-#EXTINF:-1,USA: ABC Action News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2422.ts
-#EXTINF:-1,USA: ABC HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2463.ts
-#EXTINF:-1,USA: FOX MOTOSPORT
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4699.ts
-#EXTINF:-1,USA: NASA TV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4697.ts
-#EXTINF:-1,USA: NASA TV MEDIA HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4698.ts
-#EXTINF:-1,USA: HSN YT LIVE 1080p HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4754.ts
-#EXTINF:-1,USA: NEWSMAX YT LIVE HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4755.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4817.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4824.ts
-#EXTINF:-1,USA: QVC Live
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4823.ts
-#EXTINF:-1,USA: QVC Plus
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4825.ts
-#EXTINF:-1,USA: Americas Auction TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4822.ts
-#EXTINF:-1,CA : Sportnet Pacific HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4020.ts
-#EXTINF:-1,CA : NBA TV_CA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4284.ts
-#EXTINF:-1,CA : MTV_CANADA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4283.ts
-#EXTINF:-1,CA : HBO_CA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4282.ts
-#EXTINF:-1,CA : HBO 2_CA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4281.ts
-#EXTINF:-1,CA : ABC HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4285.ts
-#EXTINF:-1,CA :YTV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4021.ts
-#EXTINF:-1,CA : World Fishing TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4022.ts
-#EXTINF:-1,CA : w network
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4023.ts
-#EXTINF:-1,CA : Vrak TV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4024.ts
-#EXTINF:-1,CA : tree house
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4025.ts
-#EXTINF:-1,CA : Travel Channel HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4026.ts
-#EXTINF:-1,CA : TMN TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4027.ts
-#EXTINF:-1,CA : Teletoon HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4028.ts
-#EXTINF:-1,CA : sportsnet world hd
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4030.ts
-#EXTINF:-1,CA : Sportsnet West HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4031.ts
-#EXTINF:-1,CA : Sportsnet One HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4032.ts
-#EXTINF:-1,CA : Sportnet Ontario HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4034.ts
-#EXTINF:-1,CA : Spike HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4035.ts
-#EXTINF:-1,CA : slice
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4036.ts
-#EXTINF:-1,CA : silver screen classics
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4037.ts
-#EXTINF:-1,CA : shopping channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4038.ts
-#EXTINF:-1,CA : RDS2 HD TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4040.ts
-#EXTINF:-1,CA : rds 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4041.ts
-#EXTINF:-1,CA : Peachtree HDTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4042.ts
-#EXTINF:-1,CA : own (oprah winfrew network)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4043.ts
-#EXTINF:-1,CA : omni 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4044.ts
-#EXTINF:-1,CA : omni 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4045.ts
-#EXTINF:-1,CA : nick
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4047.ts
-#EXTINF:-1,CA : much music
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4048.ts
-#EXTINF:-1,CA : MTV Canada HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4049.ts
-#EXTINF:-1,CA : Movietime TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4050.ts
-#EXTINF:-1,CA : ici rdi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4052.ts
-#EXTINF:-1,CA : ici artv
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4053.ts
-#EXTINF:-1,CA : History_HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4054.ts
-#EXTINF:-1,CA : gsn
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4055.ts
-#EXTINF:-1,CA : golf channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4056.ts
-#EXTINF:-1,CA : G4 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4057.ts
-#EXTINF:-1,CA : fyi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4058.ts
-#EXTINF:-1,CA : fxx hd
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4059.ts
-#EXTINF:-1,CA : fox news
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4060.ts
-#EXTINF:-1,CA : fox 25 hd
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4061.ts
-#EXTINF:-1,CA : E! HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4063.ts
-#EXTINF:-1,CA : deja view
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4064.ts
-#EXTINF:-1,CA : ctv toronto
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4065.ts
-#EXTINF:-1,CA: CP24 HD (BackUp)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/8273.ts
-#EXTINF:-1,CA : CP24 TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4066.ts
-#EXTINF:-1,CA : country music television
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4067.ts
-#EXTINF:-1,CA : cottage life
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4068.ts
-#EXTINF:-1,CA : Comedy Gold TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4069.ts
-#EXTINF:-1,CA : City TV Vancouver
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4070.ts
-#EXTINF:-1,CA : CHCH HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4071.ts
-#EXTINF:-1,CA : cbc toronto
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4072.ts
-#EXTINF:-1,CA/USA : CartoonNetwork
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4073.ts
-#EXTINF:-1,CA : Bnn HDTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4075.ts
-#EXTINF:-1,CA : Bravo HDTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4074.ts
-#EXTINF:-1,CA : BET -  black entertainment television
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4076.ts
-#EXTINF:-1,CA : abc spark
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4077.ts
+#EXTINF:-1,=-= UK RADIO =-=
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1043.ts
+#EXTINF:-1,3FM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1045.ts
+#EXTINF:-1,BBC Radio 1
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1042.ts
+#EXTINF:-1,BBC Radio 3
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1049.ts
+#EXTINF:-1,BBC Radio 4 Extra
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1050.ts
+#EXTINF:-1,BBC Radio Berkshire
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1053.ts
+#EXTINF:-1,BBC Radio Bristol
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1054.ts
+#EXTINF:-1,BBC Radio Cornwall
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1055.ts
+#EXTINF:-1,BBC Radio Gloucestershire
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1056.ts
+#EXTINF:-1,BBC Radio Guernsey
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1057.ts
+#EXTINF:-1,BBC Radio Leicester
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1058.ts
+#EXTINF:-1,BBC WM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1059.ts
+#EXTINF:-1,Bridge FM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1060.ts
+#EXTINF:-1,BSJ.FM - Best Smooth Jazz
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1061.ts
+#EXTINF:-1,Burnside Radio
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1062.ts
+#EXTINF:-1,Cheesy FM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1063.ts
+#EXTINF:-1,Chill.
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1064.ts
+#EXTINF:-1,Chris Country
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1065.ts
+#EXTINF:-1,Classic FM
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1066.ts
+#EXTINF:-1,Coast and County Radio
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1067.ts
+#EXTINF:-1,Absolute Classic Rock
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1041.ts
+#EXTINF:-1,ABN Radio
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1046.ts
+#EXTINF:-1,BBC 1Xtra
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1044.ts
+#EXTINF:-1,BBC 5 live
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1051.ts
+#EXTINF:-1,BBC 6 Music
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1052.ts
+#EXTINF:-1,BBC Newcastle
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1047.ts
+#EXTINF:-1,BBC Radio 2
+http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1048.ts
