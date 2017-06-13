@@ -1,53 +1,160 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,PT:SIC Radical
-http://vip.tuguj.net:8000/live/0808/0808/4156.ts
-#EXTINF:-1,PT:SIC Noticias
-http://vip.tuguj.net:8000/live/0808/0808/4157.ts
-#EXTINF:-1,PT:RTP Memoria
-http://vip.tuguj.net:8000/live/0808/0808/4153.ts
-#EXTINF:-1,PT:RTP Madeira
-http://vip.tuguj.net:8000/live/0808/0808/4151.ts
-#EXTINF:-1,PT:RTP Africa
-http://vip.tuguj.net:8000/live/0808/0808/4150.ts
-#EXTINF:-1,PT:RTP Acores
-http://vip.tuguj.net:8000/live/0808/0808/4152.ts
-#EXTINF:-1,PT:Panda
-http://vip.tuguj.net:8000/live/0808/0808/4148.ts
-#EXTINF:-1,PT:Odisseia
-http://vip.tuguj.net:8000/live/0808/0808/4161.ts
-#EXTINF:-1,PT:AXN HD
-http://vip.tuguj.net:8000/live/0808/0808/4182.ts
-#EXTINF:-1,PT:BTV 1
-http://vip.tuguj.net:8000/live/0808/0808/4170.ts
-#EXTINF:-1,PT:BTV 2
-http://vip.tuguj.net:8000/live/0808/0808/4171.ts
-#EXTINF:-1,PT:RTP 1
-http://vip.tuguj.net:8000/live/0808/0808/4145.ts
-#EXTINF:-1,PT:RTP 2
-http://vip.tuguj.net:8000/live/0808/0808/4146.ts
-#EXTINF:-1,PT:RTP 3
-http://vip.tuguj.net:8000/live/0808/0808/4147.ts
-#EXTINF:-1,PT:Sport TV1
-http://vip.tuguj.net:8000/live/0808/0808/4175.ts
-#EXTINF:-1,PT:Sport TV2
-http://vip.tuguj.net:8000/live/0808/0808/4176.ts
-#EXTINF:-1,PT:Sport TV3
-http://vip.tuguj.net:8000/live/0808/0808/4177.ts
-#EXTINF:-1,PT:TVI
-http://vip.tuguj.net:8000/live/0808/0808/4155.ts
-#EXTINF:-1,PT:TVC 1
-http://vip.tuguj.net:8000/live/0808/0808/4162.ts
-#EXTINF:-1,PT:TVC 2
-http://vip.tuguj.net:8000/live/0808/0808/4167.ts
-#EXTINF:-1,PT:TVC 3
-http://vip.tuguj.net:8000/live/0808/0808/4149.ts
-#EXTINF:-1,PT:TVI 24
-http://vip.tuguj.net:8000/live/0808/0808/4154.ts
+#EXTM3U
+#EXTINF:0,PT: RTP1
+http://newtv.dyndns.org:25461/live/toze/moreira/1.ts
+#EXTINF:0,PT: RTP2
+http://newtv.dyndns.org:25461/live/toze/moreira/2.ts
+#EXTINF:0,PT: SIC
+http://newtv.dyndns.org:25461/live/toze/moreira/3.ts
+#EXTINF:0,PT: TVI
+http://newtv.dyndns.org:25461/live/toze/moreira/4.ts
+#EXTINF:0,PT: Porto Canal
+http://newtv.dyndns.org:25461/live/toze/moreira/118.ts
+#EXTINF:0,PT: RTP 3 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/117.ts
+#EXTINF:0,PT: RTP Africa
+http://newtv.dyndns.org:25461/live/toze/moreira/122.ts
+#EXTINF:0,PT: RTP Memoria
+http://newtv.dyndns.org:25461/live/toze/moreira/121.ts
+#EXTINF:0,PT: SIC Caras
+http://newtv.dyndns.org:25461/live/toze/moreira/123.ts
+#EXTINF:0,PT: SIC Kids
+http://newtv.dyndns.org:25461/live/toze/moreira/119.ts
+#EXTINF:0,PT: TVI 24
+http://newtv.dyndns.org:25461/live/toze/moreira/6.ts
+#EXTINF:0,PT: SIC NOTICIAS
+http://newtv.dyndns.org:25461/live/toze/moreira/5.ts
+#EXTINF:0,PT: CmTV
+http://newtv.dyndns.org:25461/live/toze/moreira/7.ts
+#EXTINF:0,PT: TVI Reality
+http://newtv.dyndns.org:25461/live/toze/moreira/62.ts
+#EXTINF:0,PT: TVI Ficção
+http://newtv.dyndns.org:25461/live/toze/moreira/63.ts
+#EXTINF:0,PT: TV Cine 1
+http://newtv.dyndns.org:25461/live/toze/moreira/8.ts
+#EXTINF:0,PT: TV Cine 2
+http://newtv.dyndns.org:25461/live/toze/moreira/9.ts
+#EXTINF:0,PT: TV Cine 3
+http://newtv.dyndns.org:25461/live/toze/moreira/10.ts
+#EXTINF:0,PT: TV Cine 4
+http://newtv.dyndns.org:25461/live/toze/moreira/11.ts
+#EXTINF:0,PT: TV Series
+http://newtv.dyndns.org:25461/live/toze/moreira/124.ts
+#EXTINF:0,PT: Hollywood HD
+http://newtv.dyndns.org:25461/live/toze/moreira/75.ts
+#EXTINF:0,PT: MOV HD
+http://newtv.dyndns.org:25461/live/toze/moreira/72.ts
+#EXTINF:0,PT: SyFy HD
+http://newtv.dyndns.org:25461/live/toze/moreira/67.ts
+#EXTINF:0,PT: AXN BLACK HD
+http://newtv.dyndns.org:25461/live/toze/moreira/248.ts
+#EXTINF:0,PT: AXN HD
+http://newtv.dyndns.org:25461/live/toze/moreira/246.ts
+#EXTINF:0,PT: AXN WHITE HD
+http://newtv.dyndns.org:25461/live/toze/moreira/247.ts
+#EXTINF:0,PT: CINEMUNDO
+http://newtv.dyndns.org:25461/live/toze/moreira/244.ts
+#EXTINF:0,PT: FOX HD
+http://newtv.dyndns.org:25461/live/toze/moreira/61.ts
+#EXTINF:0,PT: FOX COMEDY HD
+http://newtv.dyndns.org:25461/live/toze/moreira/250.ts
+#EXTINF:0,PT: FOX CRIME HD
+http://newtv.dyndns.org:25461/live/toze/moreira/249.ts
+#EXTINF:0,PT: Fox Live HD
+http://newtv.dyndns.org:25461/live/toze/moreira/251.ts
+#EXTINF:0,PT: FOX MOVIES
+http://newtv.dyndns.org:25461/live/toze/moreira/245.ts
+#EXTINF:0,PT: SPORTTV 1
+http://newtv.dyndns.org:25461/live/toze/moreira/12.ts
+#EXTINF:0,PT: SPORT TV 1 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/13.ts
+#EXTINF:0,PT: SportTV 2
+http://newtv.dyndns.org:25461/live/toze/moreira/14.ts
+#EXTINF:0,PT: SPORT TV 2 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/15.ts
+#EXTINF:0,PT: SportTV 3
+http://newtv.dyndns.org:25461/live/toze/moreira/16.ts
+#EXTINF:0,PT: SPORT TV 3 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/125.ts
+#EXTINF:0,PT: SportTV 4
+http://newtv.dyndns.org:25461/live/toze/moreira/17.ts
+#EXTINF:0,PT: SPORT TV 4 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/18.ts
+#EXTINF:0,PT: SPORT TV 5
+http://newtv.dyndns.org:25461/live/toze/moreira/19.ts
+#EXTINF:0,PT: SPORT TV 5 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/126.ts
+#EXTINF:0,PT: SPORT TV + HD
+http://newtv.dyndns.org:25461/live/toze/moreira/20.ts
+#EXTINF:0,PT: BTV1
+http://newtv.dyndns.org:25461/live/toze/moreira/21.ts
+#EXTINF:0,PT: BTV 1 HD
+http://newtv.dyndns.org:25461/live/toze/moreira/22.ts
+#EXTINF:0,PT: Sporting TV HD
+http://newtv.dyndns.org:25461/live/toze/moreira/66.ts
+#EXTINF:0,PT: PFC
+http://newtv.dyndns.org:25461/live/toze/moreira/68.ts
+#EXTINF:0,PT: Eurosport HD
+http://newtv.dyndns.org:25461/live/toze/moreira/76.ts
+#EXTINF:0,PT: Eurosport 2 Extra
+http://newtv.dyndns.org:25461/live/toze/moreira/475.ts
+#EXTINF:0,PT: A BOLA
+http://newtv.dyndns.org:25461/live/toze/moreira/24.ts
+#EXTINF:0,PT: Toros TV
+http://newtv.dyndns.org:25461/live/toze/moreira/78.ts
+#EXTINF:0,PT: Disney Channel
+http://newtv.dyndns.org:25461/live/toze/moreira/64.ts
+#EXTINF:0,PT: Disney Junior
+http://newtv.dyndns.org:25461/live/toze/moreira/65.ts
+#EXTINF:0,PT: Nickelodeon
+http://newtv.dyndns.org:25461/live/toze/moreira/70.ts
+#EXTINF:0,PT: Panda Biggs
+http://newtv.dyndns.org:25461/live/toze/moreira/69.ts
+#EXTINF:0,PT: Canal Panda
+http://newtv.dyndns.org:25461/live/toze/moreira/26.ts
+#EXTINF:0,PT: Cartoon Network Portugal
+http://newtv.dyndns.org:25461/live/toze/moreira/27.ts
+#EXTINF:0,PT: DISCOVERY
+http://newtv.dyndns.org:25461/live/toze/moreira/253.ts
+#EXTINF:0,PT: Discovery Showcase
+http://newtv.dyndns.org:25461/live/toze/moreira/254.ts
+#EXTINF:0,PT: HISTORIA
+http://newtv.dyndns.org:25461/live/toze/moreira/255.ts
+#EXTINF:0,PT: National Geographic Channel
+http://newtv.dyndns.org:25461/live/toze/moreira/71.ts
+#EXTINF:0,PT: NAT GEO WILD
+http://newtv.dyndns.org:25461/live/toze/moreira/252.ts
+#EXTINF:0,PT: MCM POP
+http://newtv.dyndns.org:25461/live/toze/moreira/28.ts
+#EXTINF:0,PT: MTV PORTUGAL
+http://newtv.dyndns.org:25461/live/toze/moreira/261.ts
+#EXTINF:0,PT: VEVO 1
+http://newtv.dyndns.org:25461/live/toze/moreira/260.ts
+#EXTINF:0,PT: VEVO 2
+http://newtv.dyndns.org:25461/live/toze/moreira/259.ts
+#EXTINF:0,PT: VEVO 3
+http://newtv.dyndns.org:25461/live/toze/moreira/258.ts
+#EXTINF:0,PT: VH1
+http://newtv.dyndns.org:25461/live/toze/moreira/256.ts
+#EXTINF:0,PT: VH1 CLASSIC
+http://newtv.dyndns.org:25461/live/toze/moreira/257.ts
+#EXTINF:0,PT: Trace Urban
+http://newtv.dyndns.org:25461/live/toze/moreira/59.ts
+#EXTINF:0,PT: Odisseia
+http://newtv.dyndns.org:25461/live/toze/moreira/23.ts
+#EXTINF:0,PT: Caça e Pesca
+http://newtv.dyndns.org:25461/live/toze/moreira/73.ts
+#EXTINF:0,PT: CaçaVision
+http://newtv.dyndns.org:25461/live/toze/moreira/74.ts
+#EXTINF:0,PT: Globo
+http://newtv.dyndns.org:25461/live/toze/moreira/77.ts
+#EXTINF:0,PT: Globo Premium
+http://newtv.dyndns.org:25461/live/toze/moreira/474.ts
+#EXTINF:0,PT: TV Record
+http://newtv.dyndns.org:25461/live/toze/moreira/60.ts
