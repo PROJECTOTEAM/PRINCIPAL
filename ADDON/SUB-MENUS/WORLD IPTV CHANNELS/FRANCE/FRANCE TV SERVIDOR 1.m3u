@@ -1,385 +1,495 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,Trek 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3027.ts
-#EXTINF:-1,TV Breizh 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3017.ts
-#EXTINF:-1,Vivolta 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3020.ts
-#EXTINF:-1,Nickelodeon 
-http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3038.ts
-#EXTINF:-1,FR_TF1
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/200.ts
-#EXTINF:-1,FR_M6
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/201.ts
-#EXTINF:-1,FR_FRANCE2
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/202.ts
-#EXTINF:-1,FR_FRANCE3
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/203.ts
-#EXTINF:-1,FR_FRANCE4
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/204.ts
-#EXTINF:-1,FR_FRANCE5
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/205.ts
-#EXTINF:-1,FR_FRANCE_O
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/206.ts
-#EXTINF:-1,FR_C8
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/210.ts
-#EXTINF:-1,FR_CStar
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/211.ts
-#EXTINF:-1,FR_HD1
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/209.ts
-#EXTINF:-1,FR_NT1
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/207.ts
-#EXTINF:-1,FR_6TER_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/208.ts
-#EXTINF:-1,FR_W9
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/212.ts
-#EXTINF:-1,FR_TMC
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/274.ts
-#EXTINF:-1,FR_ARTE
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/215.ts
-#EXTINF:-1,FR_RTL9_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/213.ts
-#EXTINF:-1,FR_AB1_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/214.ts
-#EXTINF:-1,FR_Cherie25HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/291.ts
-#EXTINF:-1,FR_Teva_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/269.ts
-#EXTINF:-1,FR_TV_BREIZH
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/216.ts
-#EXTINF:-1,FR_13eme_Rue
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/273.ts
-#EXTINF:-1,FR_PARIS_PREMIERE_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/271.ts
-#EXTINF:-1,FR_NRJ12
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/290.ts
-#EXTINF:-1,FR_BFM_TV
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/218.ts
-#EXTINF:-1,FR_I-Tele
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/217.ts
-#EXTINF:-1,FR_Euronews_FR
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/220.ts
-#EXTINF:-1,FR_CANAL_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/226.ts
-#EXTINF:-1,FR_CANAL_DECALE_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/229.ts
-#EXTINF:-1,FR_CANAL_CINEMA_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/230.ts
-#EXTINF:-1,FR_CANAL_SPORT_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/227.ts
-#EXTINF:-1,FR_CANAL_FAMILY_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/228.ts
-#EXTINF:-1,FR_CANAL_SERIE_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/231.ts
-#EXTINF:-1,FR_CINE_PREMIER
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/232.ts
-#EXTINF:-1,FR_CINE_EMOTION
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/235.ts
-#EXTINF:-1,FR_CINE_FAMIZ
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/234.ts
-#EXTINF:-1,FR_CINE_FRISSON
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/233.ts
-#EXTINF:-1,FR_CINE_CLASSIC
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/236.ts
-#EXTINF:-1,FR_Cine_Club
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/237.ts
-#EXTINF:-1,FR_CINEFX
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/239.ts
-#EXTINF:-1,FR_CINE_POLAR_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/238.ts
-#EXTINF:-1,FR_OCS_CHOC_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/244.ts
-#EXTINF:-1,FR_OCS_City
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/243.ts
-#EXTINF:-1,FR_OCS_Geants_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/242.ts
-#EXTINF:-1,FR_OCS_MAX
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/241.ts
-#EXTINF:-1,FR_Action_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/240.ts
-#EXTINF:-1,FR_COMEDIE_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/268.ts
-#EXTINF:-1,FR_SERIE_CLUB
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/267.ts
-#EXTINF:-1,FR_PARAMOUNT_CHANNEL_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/272.ts
-#EXTINF:-1,FR_E!_Entertainement
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/265.ts
-#EXTINF:-1,FR_TCM_CINEMA
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/275.ts
-#EXTINF:-1,FR_Syfy_HD
-http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/270.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR: France O
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2163.ts
-#EXTINF:-1,FR: France 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/949.ts
-#EXTINF:-1,FR: France 3 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/950.ts
-#EXTINF:-1,FR: France 4 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/951.ts
-#EXTINF:-1,FR: France 5 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/952.ts
-#EXTINF:-1,FR: iTele
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3834.ts
-#EXTINF:-1,FR: AB1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3802.ts
-#EXTINF:-1,FR: TF1 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1159.ts
-#EXTINF:-1,FR: W9 Music
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3804.ts
-#EXTINF:-1,FR: TV 5 Monde
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3833.ts
-#EXTINF:-1,FR: France 24 News
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3803.ts
-#EXTINF:-1,FR: Euronews fr
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3805.ts
-#EXTINF:-1,FR: RMC Decouverte
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4633.ts
-#EXTINF:-1,FR: RTS LA UN HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3835.ts
-#EXTINF:-1,FR: RTS LA DEUX HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3836.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2719.ts
-#EXTINF:-1,FR: 13eme Rue HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1211.ts
+#EXTM3U
+#EXTINF:-1,France24 [360p]
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1,France24 [576p]
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_700.m3u8
+#EXTINF:-1,France24 [576p]
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1,France24 [576p]
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_1200.m3u8
+#EXTINF:-1,France24 [576p]
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,FR: Ushuaia TV HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1803.ts
 #EXTINF:-1,FR: TMC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1294.ts
-#EXTINF:-1,FR: Action
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1299.ts
-#EXTINF:-1,FR: Canal+ HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1639.ts
-#EXTINF:-1,FR: Paris Premiere HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2718.ts
-#EXTINF:-1,FR: Canal+ Cinema HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1209.ts
-#EXTINF:-1,FR: CANAL+ FAMILY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1924.ts
-#EXTINF:-1,FR: Canal+ Decale HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1282.ts
-#EXTINF:-1,FR: Canal+ Series HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3036.ts
-#EXTINF:-1,FR: Cine+ Premier HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3028.ts
-#EXTINF:-1,FR: Cine+ Frisson HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3029.ts
-#EXTINF:-1,FR: Cine+ Emotion HD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3031.ts
-#EXTINF:-1,FR: Cine+ Club HD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/910.ts
-#EXTINF:-1,FR: Cine+ Classic HD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3032.ts
-#EXTINF:-1,FR: Cine+ Star HD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1283.ts
-#EXTINF:-1,FR: Cine+ FX HD.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3050.ts
-#EXTINF:-1,FR: Cine+ Polar HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1281.ts
-#EXTINF:-1,FR:Cine Comedie HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2721.ts
-#EXTINF:-1,FR: Cine+ Famiz
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1278.ts
-#EXTINF:-1,FR:Cine Action HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2722.ts
-#EXTINF:-1,FR: Serie Club
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2720.ts
-#EXTINF:-1,FR: TCM CINEMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/908.ts
-#EXTINF:-1,FR: OCS MAX HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1291.ts
-#EXTINF:-1,FR: OCS GEANTS HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1292.ts
-#EXTINF:-1,FR: OCS CITY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1923.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2723.ts
-#EXTINF:-1,FR: Disney Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1286.ts
-#EXTINF:-1,FR: Disney Cinema HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1285.ts
-#EXTINF:-1,FR: Piwi +
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1289.ts
-#EXTINF:-1,FR: ZOUZOU TV (petite)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3831.ts
-#EXTINF:-1,FR: Canal J
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1287.ts
-#EXTINF:-1,FR: TIJI
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3832.ts
-#EXTINF:-1,FR: TeleToon+
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3799.ts
-#EXTINF:-1,FR: Nickelodeon Junior
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3793.ts
-#EXTINF:-1,FR: Nickelodeon
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3794.ts
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1775.ts
+#EXTINF:-1,FR: RTL 9
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1777.ts
+#EXTINF:-1,FR: Planete  CI HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1783.ts
+#EXTINF:-1,FR: OCS Max
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1816.ts
+#EXTINF:-1,FR: OCS City
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1779.ts
+#EXTINF:-1,FR: Nat Geo
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1781.ts
 #EXTINF:-1,FR: Mangas
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3800.ts
-#EXTINF:-1,FR: Gulli
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3795.ts
-#EXTINF:-1,FR: Disney XD HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3792.ts
-#EXTINF:-1,FR: Disney Junior HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3791.ts
-#EXTINF:-1,FR: Cartoon Network HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3798.ts
-#EXTINF:-1,FR: Boomerang HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3796.ts
-#EXTINF:-1,FR: Boing HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3797.ts
-#EXTINF:-1,FR: CanalPlay Live (Joyeux Bordel)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3287.ts
-#EXTINF:-1,FR: CanalPlay Live (Ma famille t'adore déjà)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3807.ts
-#EXTINF:-1,FR: CanalPlay Live (Vaiana-la légende du bout du monde)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3808.ts
-#EXTINF:-1,FR: CanalPlay Live (Tous en scène)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3809.ts
-#EXTINF:-1,FR: CanalPlay Live (Les Têtes de l'emploi)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3810.ts
-#EXTINF:-1,FR: CanalPlay Live (Underworld-Blood Wars)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3811.ts
-#EXTINF:-1,FR: CanalPlay Live (Doctor Strange)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3812.ts
-#EXTINF:-1,FR: CanalPlay Live (Alliés)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3813.ts
-#EXTINF:-1,FR: CanalPlay Live (Les Trolls)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3816.ts
-#EXTINF:-1,FR: CanalPlay Live (Jack Reacher:Never Go Back)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3817.ts
-#EXTINF:-1,FR: CanalPlay Live (Mr Wolff)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3828.ts
-#EXTINF:-1,FR: CanalPlay Live (Hors contrôle)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3035.ts
-#EXTINF:-1,FR: CanalPlay Live (Sully)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3043.ts
-#EXTINF:-1,FR: CanalPlay Live (Radin!)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3042.ts
-#EXTINF:-1,FR: CanalPlay Live (La Fille du train)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3041.ts
-#EXTINF:-1,FR: CanalPlay Live (Inferno)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3040.ts
-#EXTINF:-1,FR: CanalPlay Live (Oppression)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3039.ts
-#EXTINF:-1,FR: CanalPlay Live (Comme des bêtes)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3829.ts
-#EXTINF:-1,FR: CanalPlay Live (Cigognes et compagnie)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3830.ts
-#EXTINF:-1,FR: CanalPlay Live (Kickboxer-Vengeance)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3038.ts
-#EXTINF:-1,FR: CanalPlay Live (Tamara)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3049.ts
-#EXTINF:-1,FR: CanalPlay Live (Toro)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3048.ts
-#EXTINF:-1,FR: CanalPlay Live (Miss Peregrine et les enfants particuliers)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3047.ts
-#EXTINF:-1,FR: CanalPlay Live (Sausage Party +16ans)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3046.ts
-#EXTINF:-1,FR: CanalPlay Live (Suicide Squad)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3045.ts
-#EXTINF:-1,FR: CanalPlay Live (Brice 3)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3044.ts
-#EXTINF:-1,FR: CanalPlay Live (Warcraft:Le commencement)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3058.ts
-#EXTINF:-1,FR: CanalPlay Live (Nocturnal Animals)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3626.ts
-#EXTINF:-1,FR: CanalPlay Live (X-Men:Apocalypse)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3057.ts
-#EXTINF:-1,FR: CanalPlay Live (Snowden)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3056.ts
-#EXTINF:-1,FR: CanalPlay Live (Extraction)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3055.ts
-#EXTINF:-1,FR: CanalPlay Live (Le Petit locataire)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3054.ts
-#EXTINF:-1,FR: CanalPlay Live (Criminel)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3053.ts
-#EXTINF:-1,FR: CanalPlay Live (Mechanic Résurrection)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3052.ts
-#EXTINF:-1,FR: CanalPlay Live (Le Voyage au Groenland)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3051.ts
-#EXTINF:-1,FR: CanalPlay Live (Le Gang des Antillais)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3819.ts
-#EXTINF:-1,FR: CanalPlay Live (La Fille de Brest)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3820.ts
-#EXTINF:-1,FR: CanalPlay Live (Rupture pour tous)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3821.ts
-#EXTINF:-1,FR: CanalPlay Live (xXx:Reactivated)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3822.ts
-#EXTINF:-1,FR: CanalPlay Live (La Dream Team)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3824.ts
-#EXTINF:-1,FR: CanalPlay Live (La Folle Histoire de Max et Léon)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3825.ts
-#EXTINF:-1,FR: M6 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/985.ts
-#EXTINF:-1,FR: NT1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1296.ts
-#EXTINF:-1,FR: Nrj12
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1297.ts
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1782.ts
 #EXTINF:-1,FR: M6 Music
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3801.ts
-#EXTINF:-1,FR: Arte
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1298.ts
-#EXTINF:-1,FR: Animaux
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1300.ts
-#EXTINF:-1,FR: Planete-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2716.ts
-#EXTINF:-1,FR: Planete-A-and-E-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2717.ts
-#EXTINF:-1,FR: National Geo Wild
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3023.ts
-#EXTINF:-1,FR: National Geo
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3024.ts
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1784.ts
+#EXTINF:-1,FR: L'equipe 21*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1804.ts
+#EXTINF:-1,FR: Cine  Premier
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1785.ts
+#EXTINF:-1,FR: Cine   Emotion HD*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1805.ts
 #EXTINF:-1,FR: Chasse & Peche
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3034.ts
-#EXTINF:-1,FR: HISTOIRE
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3026.ts
-#EXTINF:-1,FR: DISCOVERY HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3025.ts
-#EXTINF:-1,FR: HD1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3027.ts
-#EXTINF:-1,FR: CHERIE 25
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3033.ts
-#EXTINF:-1,FR: Canal Plus Sport HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3037.ts
-#EXTINF:-1,FR: Foot + 24 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1478.ts
-
-
-
-
-
-
-
-
-
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1786.ts
+#EXTINF:-1,FR: Canal  Sport HD*
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1787.ts
+#EXTINF:-1,FR: Canal  Sport HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1792.ts
+#EXTINF:-1,FR: Canal  Frisson
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1788.ts
+#EXTINF:-1,FR: Canal  Famiz HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1789.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1793.ts
+#EXTINF:-1,FR: Canal  Classic HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1790.ts
+#EXTINF:-1,FR: Canal   Series HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1791.ts
+#EXTINF:-1,FR: beIN Sport 3 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1800.ts
+#EXTINF:-1,FR: Action
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1801.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1806.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1807.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1808.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1809.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1810.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1811.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1812.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1813.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1814.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1815.ts
+#EXTINF:-1,FR: 6TER HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1780.ts
+#EXTINF:-1,FR: 13 Rue
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1802.ts
+#EXTINF:-1,FR:Foot 24
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1482.ts
+#EXTINF:-1,FR:DISNEY CINEMA
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1473.ts
+#EXTINF:-1,FR: TF1
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1484.ts
+#EXTINF:-1,FR: SCIENCE & VIE
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1467.ts
+#EXTINF:-1,FR: PIWI
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1477.ts
+#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1465.ts
+#EXTINF:-1,FR: Nat Geo Wild
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1464.ts
+#EXTINF:-1,FR: M6 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1485.ts
+#EXTINF:-1,FR: GULLI
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1468.ts
+#EXTINF:-1,FR: France 5
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1486.ts
+#EXTINF:-1,FR: France 4
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1487.ts
+#EXTINF:-1,FR: France 3
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1488.ts
+#EXTINF:-1,FR: France 2
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1489.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1490.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1474.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1466.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1480.ts
+#EXTINF:-1,FR: CANAL J
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1476.ts
+#EXTINF:-1,FR: CANAL  HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1463.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1491.ts
+#EXTINF:-1,FR: Canal   Decale HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1493.ts
+#EXTINF:-1,FR: Canal
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1492.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1494.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1495.ts
+#EXTINF:-1,FR|TV5_MONDE_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/748.ts
+#EXTINF:-1,FR|TF1_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/749.ts
+#EXTINF:-1,FR|Teva_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/750.ts
+#EXTINF:-1,FR|RTL_9
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/751.ts
+#EXTINF:-1,FR|PLANETE_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/752.ts
+#EXTINF:-1,FR|France_3_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/755.ts
+#EXTINF:-1,FR|France_2_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/754.ts
+#EXTINF:-1,FR|France_24_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/753.ts
+#EXTINF:-1,FR|CANAL_SPORT_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/737.ts
+#EXTINF:-1,FR|BFM_Sport
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/738.ts
+#EXTINF:-1,FR_CANAL_PLAY_1
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/739.ts
+#EXTINF:-1,FR_CANAL_PLAY_2
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/740.ts
+#EXTINF:-1,FR_CANAL_PLAY_4
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/741.ts
+#EXTINF:-1,FR_CANAL_PLAY_5
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/742.ts
+#EXTINF:-1,FR_CANAL_PLAY_6
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/743.ts
+#EXTINF:-1,FR_CANAL_PLAY_7
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/744.ts
+#EXTINF:-1,FR_CANAL_PLAY_8
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/745.ts
+#EXTINF:-1,FR_CANAL_PLAY_9
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/746.ts
+#EXTINF:-1,FR_CANAL_PLAY_10
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/747.ts
+#EXTINF:-1,FR_BeIN_SPORTS_1_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/734.ts
+#EXTINF:-1,FR_BeIN_SPORTS_2_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/735.ts
+#EXTINF:-1,FR_BeIN_SPORTS_3_HD
+http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/736.ts
+#EXTINF:-1,-------|FR CINEMA PRIVE|-------
+#EXTINF:-1,FR|CANAL+HD
+http://topiptv.net:5890/live/abdou1/abdou1/2594.ts
+#EXTINF:-1,FR|CANAL+SERIES HD
+http://topiptv.net:5890/live/abdou1/abdou1/333.ts
+#EXTINF:-1,FR|CANAL+FAMILY HD
+http://topiptv.net:5890/live/abdou1/abdou1/335.ts
+#EXTINF:-1,FR|CANAL+CINEMA HD
+http://topiptv.net:5890/live/abdou1/abdou1/332.ts
+#EXTINF:-1,FR|CINE+ FRISSON HD
+http://topiptv.net:5890/live/abdou1/abdou1/338.ts
+#EXTINF:-1,FR|CINE+ PREMIER HD
+http://topiptv.net:5890/live/abdou1/abdou1/334.ts
+#EXTINF:-1,-----|FRANCE|------
+http://topiptv.net:5890/live/abdou1/abdou1/1496.ts
+#EXTINF:-1,FR|TF1 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1775.ts
+#EXTINF:-1,FR|TF1
+http://topiptv.net:5890/live/abdou1/abdou1/322.ts
+#EXTINF:-1,FR|FRANCE 2 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1776.ts
+#EXTINF:-1,FR|France 2
+http://topiptv.net:5890/live/abdou1/abdou1/312.ts
+#EXTINF:-1,FR|FRANCE 3 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1814.ts
+#EXTINF:-1,FR|France 3
+http://topiptv.net:5890/live/abdou1/abdou1/313.ts
+#EXTINF:-1,FR|France 4
+http://topiptv.net:5890/live/abdou1/abdou1/314.ts
+#EXTINF:-1,FR|France 5
+http://topiptv.net:5890/live/abdou1/abdou1/315.ts
+#EXTINF:-1,FR|France O
+http://topiptv.net:5890/live/abdou1/abdou1/316.ts
+#EXTINF:-1,FR|M6 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1777.ts
+#EXTINF:-1,FR|M6
+http://topiptv.net:5890/live/abdou1/abdou1/320.ts
+#EXTINF:-1,FR|W9 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1778.ts
+#EXTINF:-1,FR|W9
+http://topiptv.net:5890/live/abdou1/abdou1/319.ts
+#EXTINF:-1,FR|C8
+http://topiptv.net:5890/live/abdou1/abdou1/321.ts
+#EXTINF:-1,FR|C STAR
+http://topiptv.net:5890/live/abdou1/abdou1/1008.ts
+#EXTINF:-1,FR|6TER HD
+http://topiptv.net:5890/live/abdou1/abdou1/825.ts
+#EXTINF:-1,FR|6TER
+http://topiptv.net:5890/live/abdou1/abdou1/1811.ts
+#EXTINF:-1,FR|RTS Un
+http://topiptv.net:5890/live/abdou1/abdou1/995.ts
+#EXTINF:-1,FR|RTS Deux
+http://topiptv.net:5890/live/abdou1/abdou1/1653.ts
+#EXTINF:-1,--|FR INFO|--
+http://topiptv.net:5890/live/abdou1/abdou1/1497.ts
+#EXTINF:-1,FR|I-tele
+http://topiptv.net:5890/live/abdou1/abdou1/1479.ts
+#EXTINF:-1,FR|bfm
+http://topiptv.net:5890/live/abdou1/abdou1/1105.ts
+#EXTINF:-1,FR|Euronews
+http://topiptv.net:5890/live/abdou1/abdou1/1484.ts
+#EXTINF:-1,FR|France24
+http://topiptv.net:5890/live/abdou1/abdou1/1486.ts
+#EXTINF:-1,--|FR SPORT|--
+http://topiptv.net:5890/live/abdou1/abdou1/1491.ts
+#EXTINF:-1,FR|beIN|SPORTS 1HD
+http://topiptv.net:5890/live/abdou1/abdou1/21.ts
+#EXTINF:-1,FR|beIN|SPORTS 2HD
+http://topiptv.net:5890/live/abdou1/abdou1/22.ts
+#EXTINF:-1,FR|beIN|SPORTS 3HD
+http://topiptv.net:5890/live/abdou1/abdou1/829.ts
+#EXTINF:-1,FR|beIN SPORTS HD1
+http://topiptv.net:5890/live/abdou1/abdou1/1780.ts
+#EXTINF:-1,FR|beIN SPORTS HD2
+http://topiptv.net:5890/live/abdou1/abdou1/1781.ts
+#EXTINF:-1,FR|beIN SPORTS HD3
+http://topiptv.net:5890/live/abdou1/abdou1/2593.ts
+#EXTINF:-1,FR|BeIN Sports MAX 4
+http://topiptv.net:5890/live/abdou1/abdou1/1303.ts
+#EXTINF:-1,FR|BeIN Sports MAX 5
+http://topiptv.net:5890/live/abdou1/abdou1/1304.ts
+#EXTINF:-1,FR|BeIN Sports MAX 6
+http://topiptv.net:5890/live/abdou1/abdou1/1305.ts
+#EXTINF:-1,FR|BeIN Sports MAX 7
+http://topiptv.net:5890/live/abdou1/abdou1/1306.ts
+#EXTINF:-1,FR|BeIN Sports MAX 8
+http://topiptv.net:5890/live/abdou1/abdou1/1307.ts
+#EXTINF:-1,FR|CANAL+SPORT HD
+http://topiptv.net:5890/live/abdou1/abdou1/1779.ts
+#EXTINF:-1,FR|CANAL+ SPORT HD
+http://topiptv.net:5890/live/abdou1/abdou1/339.ts
+#EXTINF:-1,FR|SFR SPORTS 1HD
+http://topiptv.net:5890/live/abdou1/abdou1/2590.ts
+#EXTINF:-1,FR|SFR SPORTS 2HD
+http://topiptv.net:5890/live/abdou1/abdou1/1267.ts
+#EXTINF:-1,FR|SFR SPORTS 3HD
+http://topiptv.net:5890/live/abdou1/abdou1/2595.ts
+#EXTINF:-1,FR|SFR SPORTS 5 HD
+http://topiptv.net:5890/live/abdou1/abdou1/4194.ts
+#EXTINF:-1,FR|Foot+ 24/24
+http://topiptv.net:5890/live/abdou1/abdou1/1631.ts
+#EXTINF:-1,FR|GOLF+HD
+http://topiptv.net:5890/live/abdou1/abdou1/1782.ts
+#EXTINF:-1,FR|INFOSPORT+
+http://topiptv.net:5890/live/abdou1/abdou1/873.ts
+#EXTINF:-1,FR|Kombat Sport
+http://topiptv.net:5890/live/abdou1/abdou1/3124.ts
+#EXTINF:-1,FR|Eurosport HD
+http://topiptv.net:5890/live/abdou1/abdou1/872.ts
+#EXTINF:-1,FR|Eurosport 2 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1103.ts
+#EXTINF:-1,FR|L EQUIPE 21
+http://topiptv.net:5890/live/abdou1/abdou1/326.ts
+#EXTINF:-1,FR|Equidia Live
+http://topiptv.net:5890/live/abdou1/abdou1/1774.ts
+#EXTINF:-1,--|FR CINEMA|--
+http://topiptv.net:5890/live/abdou1/abdou1/1493.ts
+#EXTINF:-1,FR|CANAL+
+http://topiptv.net:5890/live/abdou1/abdou1/331.ts
+#EXTINF:-1,FR|SERIE CLUB HD
+http://topiptv.net:5890/live/abdou1/abdou1/329.ts
+#EXTINF:-1,FR|serie club
+http://topiptv.net:5890/live/abdou1/abdou1/1833.ts
+#EXTINF:-1,FR|CANAL+ SERIE
+http://topiptv.net:5890/live/abdou1/abdou1/1832.ts
+#EXTINF:-1,FR|Canal cinema
+http://topiptv.net:5890/live/abdou1/abdou1/1803.ts
+#EXTINF:-1,FR|Canal+ family
+http://topiptv.net:5890/live/abdou1/abdou1/1804.ts
+#EXTINF:-1,FR|Cine Premier
+http://topiptv.net:5890/live/abdou1/abdou1/1805.ts
+#EXTINF:-1,FR|CINE+FRISSON
+http://topiptv.net:5890/live/abdou1/abdou1/3217.ts
+#EXTINF:-1,FR|CINE+ EMOTION
+http://topiptv.net:5890/live/abdou1/abdou1/336.ts
+#EXTINF:-1,FR|CINÉ POLAR
+http://topiptv.net:5890/live/abdou1/abdou1/1216.ts
+#EXTINF:-1,FR|CINÉ FX
+http://topiptv.net:5890/live/abdou1/abdou1/1217.ts
+#EXTINF:-1,FR|CINE+ CLASSIC
+http://topiptv.net:5890/live/abdou1/abdou1/1218.ts
+#EXTINF:-1,FR|Ciné +Famiz
+http://topiptv.net:5890/live/abdou1/abdou1/827.ts
+#EXTINF:-1,FR|CANAL+ DECALE
+http://topiptv.net:5890/live/abdou1/abdou1/337.ts
+#EXTINF:-1,FR|TCM Cinema
+http://topiptv.net:5890/live/abdou1/abdou1/1891.ts
+#EXTINF:-1,FR|OCS MAX
+http://topiptv.net:5890/live/abdou1/abdou1/1100.ts
+#EXTINF:-1,FR|OCS GEANTS
+http://topiptv.net:5890/live/abdou1/abdou1/1101.ts
+#EXTINF:-1,FR|OCS CHOC
+http://topiptv.net:5890/live/abdou1/abdou1/1102.ts
+#EXTINF:-1,FR|OCS CITY
+http://topiptv.net:5890/live/abdou1/abdou1/824.ts
+#EXTINF:-1,FR|OCS HORREUR
+http://topiptv.net:5890/live/abdou1/abdou1/2019.ts
+#EXTINF:-1,FR|OCS AVENTURE
+http://topiptv.net:5890/live/abdou1/abdou1/2021.ts
+#EXTINF:-1,FR|OCS ACTION
+http://topiptv.net:5890/live/abdou1/abdou1/2020.ts
+#EXTINF:-1,FR|OCS GO COMEDIE
+http://topiptv.net:5890/live/abdou1/abdou1/2017.ts
+#EXTINF:-1,FR|OCS DOCUMENTAIRE
+http://topiptv.net:5890/live/abdou1/abdou1/2018.ts
+#EXTINF:-1,--|FR DIVERTISSE|--
+http://topiptv.net:5890/live/abdou1/abdou1/1495.ts
+#EXTINF:-1,FR|AB1 HD
+http://topiptv.net:5890/live/abdou1/abdou1/1786.ts
+#EXTINF:-1,FR|HD 1
+http://topiptv.net:5890/live/abdou1/abdou1/1185.ts
+#EXTINF:-1,FR|TMC HD
+http://topiptv.net:5890/live/abdou1/abdou1/1123.ts
+#EXTINF:-1,FR|TMC
+http://topiptv.net:5890/live/abdou1/abdou1/1816.ts
+#EXTINF:-1,FR|NT1 HD
+http://topiptv.net:5890/live/abdou1/abdou1/926.ts
+#EXTINF:-1,FR|NT1
+http://topiptv.net:5890/live/abdou1/abdou1/1834.ts
+#EXTINF:-1,FR|Teva
+http://topiptv.net:5890/live/abdou1/abdou1/1513.ts
+#EXTINF:-1,FR|E! HD
+http://topiptv.net:5890/live/abdou1/abdou1/1124.ts
+#EXTINF:-1,FR|RTL 9
+http://topiptv.net:5890/live/abdou1/abdou1/318.ts
+#EXTINF:-1,FR|TV BREIZH
+http://topiptv.net:5890/live/abdou1/abdou1/1773.ts
+#EXTINF:-1,FR|Numero 23
+http://topiptv.net:5890/live/abdou1/abdou1/1772.ts
+#EXTINF:-1,FR|NRJ12
+http://topiptv.net:5890/live/abdou1/abdou1/823.ts
+#EXTINF:-1,FR|Syfy Universal HD
+http://topiptv.net:5890/live/abdou1/abdou1/328.ts
+#EXTINF:-1,FR|ACTION HD
+http://topiptv.net:5890/live/abdou1/abdou1/317.ts
+#EXTINF:-1,FR|13EME RUE HD
+http://topiptv.net:5890/live/abdou1/abdou1/826.ts
+#EXTINF:-1,FR|PARIS PREMIERE
+http://topiptv.net:5890/live/abdou1/abdou1/1186.ts
+#EXTINF:-1,FR|Paramount Channel
+http://topiptv.net:5890/live/abdou1/abdou1/1630.ts
+#EXTINF:-1,FR|Cherie 25
+http://topiptv.net:5890/live/abdou1/abdou1/1125.ts
+#EXTINF:-1,FR|COMEDIE+
+http://topiptv.net:5890/live/abdou1/abdou1/340.ts
+#EXTINF:-1,FR|Comedie +
+http://topiptv.net:5890/live/abdou1/abdou1/1806.ts
+#EXTINF:-1,FR|Enorme-TV
+http://topiptv.net:5890/live/abdou1/abdou1/1017.ts
+#EXTINF:-1,FR|Arte
+http://topiptv.net:5890/live/abdou1/abdou1/324.ts
+#EXTINF:-1,FR|Wéo HD
+http://topiptv.net:5890/live/abdou1/abdou1/1556.ts
+#EXTINF:-1,FR|Monaco Info
+http://topiptv.net:5890/live/abdou1/abdou1/1552.ts
+#EXTINF:-1,--|FR MUSIC|--
+http://topiptv.net:5890/live/abdou1/abdou1/1510.ts
+#EXTINF:-1,FR|MTV
+http://topiptv.net:5890/live/abdou1/abdou1/1509.ts
+#EXTINF:-1,FR|Virgin
+http://topiptv.net:5890/live/abdou1/abdou1/1265.ts
+#EXTINF:-1,FR|NRJ HITS HD
+http://topiptv.net:5890/live/abdou1/abdou1/4195.ts
+#EXTINF:-1,FR|M6 MUSIC
+http://topiptv.net:5890/live/abdou1/abdou1/1187.ts
+#EXTINF:-1,--|FR DOCUMENTAIRE|--
+http://topiptv.net:5890/live/abdou1/abdou1/1492.ts
+#EXTINF:-1,FR|PLANETE
+http://topiptv.net:5890/live/abdou1/abdou1/345.ts
+#EXTINF:-1,FR|PLANETE CI HD
+http://topiptv.net:5890/live/abdou1/abdou1/346.ts
+#EXTINF:-1,FR|Planete+ CI HD
+http://topiptv.net:5890/live/abdou1/abdou1/1807.ts
+#EXTINF:-1,FR|PLANETE A&E
+http://topiptv.net:5890/live/abdou1/abdou1/347.ts
+#EXTINF:-1,FR|VOYAGE HD
+http://topiptv.net:5890/live/abdou1/abdou1/925.ts
+#EXTINF:-1,FR|DISCOVERY  HD
+http://topiptv.net:5890/live/abdou1/abdou1/342.ts
+#EXTINF:-1,FR|Discovery HD
+http://topiptv.net:5890/live/abdou1/abdou1/1810.ts
+#EXTINF:-1,FR|Discovery Science
+http://topiptv.net:5890/live/abdou1/abdou1/1831.ts
+#EXTINF:-1,FR|DISCOVERY SCIENCE HD
+http://topiptv.net:5890/live/abdou1/abdou1/913.ts
+#EXTINF:-1,FR|TREK HD
+http://topiptv.net:5890/live/abdou1/abdou1/1783.ts
+#EXTINF:-1,FR|SEASON HD
+http://topiptv.net:5890/live/abdou1/abdou1/1784.ts
+#EXTINF:-1,FR|SCIENCES ET VIE HD
+http://topiptv.net:5890/live/abdou1/abdou1/2074.ts
+#EXTINF:-1,FR|Science et Vie
+http://topiptv.net:5890/live/abdou1/abdou1/1150.ts
+#EXTINF:-1,FR|NAT GEO WILD HD
+http://topiptv.net:5890/live/abdou1/abdou1/343.ts
+#EXTINF:-1,FR|NATIONAL GEOGRAPHIC HD
+http://topiptv.net:5890/live/abdou1/abdou1/344.ts
+#EXTINF:-1,FR|National Geo HD
+http://topiptv.net:5890/live/abdou1/abdou1/1809.ts
+#EXTINF:-1,FR|Chasse et Pêche
+http://topiptv.net:5890/live/abdou1/abdou1/330.ts
+#EXTINF:-1,FR|Animaux hd
+http://topiptv.net:5890/live/abdou1/abdou1/325.ts
+#EXTINF:-1,FR|Animaux
+http://topiptv.net:5890/live/abdou1/abdou1/1808.ts
+#EXTINF:-1,FR|USHUAIA TV
+http://topiptv.net:5890/live/abdou1/abdou1/828.ts
+#EXTINF:-1,FR|RMC Decouverte HD
+http://topiptv.net:5890/live/abdou1/abdou1/1009.ts
+#EXTINF:-1,FR|toute l'histoire
+http://topiptv.net:5890/live/abdou1/abdou1/1737.ts
+#EXTINF:-1,--|FR ENFANT|--
+http://topiptv.net:5890/live/abdou1/abdou1/1494.ts
+#EXTINF:-1,FR|Zouzous
+http://topiptv.net:5890/live/abdou1/abdou1/1898.ts
+#EXTINF:-1,FR|GameOne
+http://topiptv.net:5890/live/abdou1/abdou1/1839.ts
+#EXTINF:-1,FR|NICKELODEON HD
+http://topiptv.net:5890/live/abdou1/abdou1/1787.ts
+#EXTINF:-1,FR|NICK JR
+http://topiptv.net:5890/live/abdou1/abdou1/1785.ts
+#EXTINF:-1,FR|Gulli
+http://topiptv.net:5890/live/abdou1/abdou1/327.ts
+#EXTINF:-1,FR|MANGAS
+http://topiptv.net:5890/live/abdou1/abdou1/1035.ts
+#EXTINF:-1,FR|TéléTOON
+http://topiptv.net:5890/live/abdou1/abdou1/1264.ts
+#EXTINF:-1,FR|DisneyJunior HD
+http://topiptv.net:5890/live/abdou1/abdou1/341.ts
+#EXTINF:-1,FR|DISNEY CHANNEL
+http://topiptv.net:5890/live/abdou1/abdou1/921.ts
+#EXTINF:-1,FR|DISNEY CINEMA
+http://topiptv.net:5890/live/abdou1/abdou1/1104.ts
+#EXTINF:-1,FR|PIWI+
+http://topiptv.net:5890/live/abdou1/abdou1/819.ts
+#EXTINF:-1,FR|CARTOON NETWORK
+http://topiptv.net:5890/live/abdou1/abdou1/822.ts
+#EXTINF:-1,FR|Boomerang
+http://topiptv.net:5890/live/abdou1/abdou1/868.ts
+#EXTINF:-1,FR|CANAL J
+http://topiptv.net:5890/live/abdou1/abdou1/820.ts
+#EXTINF:-1,FR|Tiji
+http://topiptv.net:5890/live/abdou1/abdou1/871.ts
+#EXTINF:-1,--|FR PPV|--
+http://topiptv.net:5890/live/abdou1/abdou1/1490.ts
+#EXTINF:-1,FR|CANALPLAY 1
+http://topiptv.net:5890/live/abdou1/abdou1/1037.ts
+#EXTINF:-1,FR|CANALPLAY 2
+http://topiptv.net:5890/live/abdou1/abdou1/1038.ts
+#EXTINF:-1,FR|CANALPLAY3
+http://topiptv.net:5890/live/abdou1/abdou1/1039.ts
+#EXTINF:-1,FR|CANAPLAY 4
+http://topiptv.net:5890/live/abdou1/abdou1/1040.ts
+#EXTINF:-1,FR|CANALPLAY 5
+http://topiptv.net:5890/live/abdou1/abdou1/1041.ts
+#EXTINF:-1,FR|CANALPLAY 6
+http://topiptv.net:5890/live/abdou1/abdou1/1036.ts
