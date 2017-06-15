@@ -1,495 +1,420 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 14-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 16-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTM3U
-#EXTINF:-1,France24 [360p]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1,France24 [576p]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_700.m3u8
-#EXTINF:-1,France24 [576p]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1,France24 [576p]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_1200.m3u8
-#EXTINF:-1,France24 [576p]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1,FR: Ushuaia TV HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1803.ts
-#EXTINF:-1,FR: TMC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1775.ts
-#EXTINF:-1,FR: RTL 9
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1777.ts
-#EXTINF:-1,FR: Planete  CI HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1783.ts
-#EXTINF:-1,FR: OCS Max
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1816.ts
-#EXTINF:-1,FR: OCS City
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1779.ts
-#EXTINF:-1,FR: Nat Geo
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1781.ts
-#EXTINF:-1,FR: Mangas
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1782.ts
-#EXTINF:-1,FR: M6 Music
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1784.ts
-#EXTINF:-1,FR: L'equipe 21*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1804.ts
-#EXTINF:-1,FR: Cine  Premier
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1785.ts
-#EXTINF:-1,FR: Cine   Emotion HD*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1805.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1786.ts
-#EXTINF:-1,FR: Canal  Sport HD*
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1787.ts
-#EXTINF:-1,FR: Canal  Sport HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1792.ts
-#EXTINF:-1,FR: Canal  Frisson
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1788.ts
-#EXTINF:-1,FR: Canal  Famiz HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1789.ts
-#EXTINF:-1,FR: Canal  Decale HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1793.ts
-#EXTINF:-1,FR: Canal  Classic HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1790.ts
-#EXTINF:-1,FR: Canal   Series HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1791.ts
-#EXTINF:-1,FR: beIN Sport 3 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1800.ts
-#EXTINF:-1,FR: Action
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1801.ts
-#EXTINF:-1,FR: A LA CARTE 9
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1806.ts
-#EXTINF:-1,FR: A LA CARTE 8
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1807.ts
-#EXTINF:-1,FR: A LA CARTE 7
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1808.ts
-#EXTINF:-1,FR: A LA CARTE 6
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1809.ts
-#EXTINF:-1,FR: A LA CARTE 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1810.ts
-#EXTINF:-1,FR: A LA CARTE 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1811.ts
-#EXTINF:-1,FR: A LA CARTE 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1812.ts
-#EXTINF:-1,FR: A LA CARTE 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1813.ts
-#EXTINF:-1,FR: A LA CARTE 10
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1814.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1815.ts
-#EXTINF:-1,FR: 6TER HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1780.ts
-#EXTINF:-1,FR: 13 Rue
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1802.ts
-#EXTINF:-1,FR:Foot 24
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1482.ts
-#EXTINF:-1,FR:DISNEY CINEMA
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1473.ts
-#EXTINF:-1,FR: TF1
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1484.ts
-#EXTINF:-1,FR: SCIENCE & VIE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1467.ts
-#EXTINF:-1,FR: PIWI
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1477.ts
-#EXTINF:-1,FR: NATIONAL  GEOGRAPHIC
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1465.ts
-#EXTINF:-1,FR: Nat Geo Wild
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1464.ts
-#EXTINF:-1,FR: M6 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1485.ts
-#EXTINF:-1,FR: GULLI
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1468.ts
-#EXTINF:-1,FR: France 5
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1486.ts
-#EXTINF:-1,FR: France 4
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1487.ts
-#EXTINF:-1,FR: France 3
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1488.ts
-#EXTINF:-1,FR: France 2
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1489.ts
-#EXTINF:-1,FR: Eurosport 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1490.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1474.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1466.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1480.ts
-#EXTINF:-1,FR: CANAL J
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1476.ts
-#EXTINF:-1,FR: CANAL  HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1463.ts
-#EXTINF:-1,FR: Canal  Cinema HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1491.ts
-#EXTINF:-1,FR: Canal   Decale HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1493.ts
-#EXTINF:-1,FR: Canal
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1492.ts
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1494.ts
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://sang.dynsite.tm:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/1495.ts
-#EXTINF:-1,FR|TV5_MONDE_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/748.ts
-#EXTINF:-1,FR|TF1_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/749.ts
-#EXTINF:-1,FR|Teva_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/750.ts
-#EXTINF:-1,FR|RTL_9
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/751.ts
-#EXTINF:-1,FR|PLANETE_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/752.ts
-#EXTINF:-1,FR|France_3_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/755.ts
-#EXTINF:-1,FR|France_2_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/754.ts
-#EXTINF:-1,FR|France_24_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/753.ts
-#EXTINF:-1,FR|CANAL_SPORT_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/737.ts
-#EXTINF:-1,FR|BFM_Sport
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/738.ts
-#EXTINF:-1,FR_CANAL_PLAY_1
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/739.ts
-#EXTINF:-1,FR_CANAL_PLAY_2
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/740.ts
-#EXTINF:-1,FR_CANAL_PLAY_4
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/741.ts
-#EXTINF:-1,FR_CANAL_PLAY_5
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/742.ts
-#EXTINF:-1,FR_CANAL_PLAY_6
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/743.ts
-#EXTINF:-1,FR_CANAL_PLAY_7
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/744.ts
-#EXTINF:-1,FR_CANAL_PLAY_8
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/745.ts
-#EXTINF:-1,FR_CANAL_PLAY_9
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/746.ts
-#EXTINF:-1,FR_CANAL_PLAY_10
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/747.ts
-#EXTINF:-1,FR_BeIN_SPORTS_1_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/734.ts
-#EXTINF:-1,FR_BeIN_SPORTS_2_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/735.ts
-#EXTINF:-1,FR_BeIN_SPORTS_3_HD
-http://www.turkiptv.club:8000/live/skype:esolso/iptvserveri.com/736.ts
-#EXTINF:-1,-------|FR CINEMA PRIVE|-------
-#EXTINF:-1,FR|CANAL+HD
-http://topiptv.net:5890/live/abdou1/abdou1/2594.ts
-#EXTINF:-1,FR|CANAL+SERIES HD
-http://topiptv.net:5890/live/abdou1/abdou1/333.ts
-#EXTINF:-1,FR|CANAL+FAMILY HD
-http://topiptv.net:5890/live/abdou1/abdou1/335.ts
-#EXTINF:-1,FR|CANAL+CINEMA HD
-http://topiptv.net:5890/live/abdou1/abdou1/332.ts
-#EXTINF:-1,FR|CINE+ FRISSON HD
-http://topiptv.net:5890/live/abdou1/abdou1/338.ts
-#EXTINF:-1,FR|CINE+ PREMIER HD
-http://topiptv.net:5890/live/abdou1/abdou1/334.ts
-#EXTINF:-1,-----|FRANCE|------
-http://topiptv.net:5890/live/abdou1/abdou1/1496.ts
-#EXTINF:-1,FR|TF1 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1775.ts
-#EXTINF:-1,FR|TF1
-http://topiptv.net:5890/live/abdou1/abdou1/322.ts
-#EXTINF:-1,FR|FRANCE 2 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1776.ts
-#EXTINF:-1,FR|France 2
-http://topiptv.net:5890/live/abdou1/abdou1/312.ts
-#EXTINF:-1,FR|FRANCE 3 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1814.ts
-#EXTINF:-1,FR|France 3
-http://topiptv.net:5890/live/abdou1/abdou1/313.ts
-#EXTINF:-1,FR|France 4
-http://topiptv.net:5890/live/abdou1/abdou1/314.ts
-#EXTINF:-1,FR|France 5
-http://topiptv.net:5890/live/abdou1/abdou1/315.ts
-#EXTINF:-1,FR|France O
-http://topiptv.net:5890/live/abdou1/abdou1/316.ts
-#EXTINF:-1,FR|M6 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1777.ts
-#EXTINF:-1,FR|M6
-http://topiptv.net:5890/live/abdou1/abdou1/320.ts
-#EXTINF:-1,FR|W9 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1778.ts
-#EXTINF:-1,FR|W9
-http://topiptv.net:5890/live/abdou1/abdou1/319.ts
-#EXTINF:-1,FR|C8
-http://topiptv.net:5890/live/abdou1/abdou1/321.ts
-#EXTINF:-1,FR|C STAR
-http://topiptv.net:5890/live/abdou1/abdou1/1008.ts
-#EXTINF:-1,FR|6TER HD
-http://topiptv.net:5890/live/abdou1/abdou1/825.ts
-#EXTINF:-1,FR|6TER
-http://topiptv.net:5890/live/abdou1/abdou1/1811.ts
-#EXTINF:-1,FR|RTS Un
-http://topiptv.net:5890/live/abdou1/abdou1/995.ts
-#EXTINF:-1,FR|RTS Deux
-http://topiptv.net:5890/live/abdou1/abdou1/1653.ts
-#EXTINF:-1,--|FR INFO|--
-http://topiptv.net:5890/live/abdou1/abdou1/1497.ts
-#EXTINF:-1,FR|I-tele
-http://topiptv.net:5890/live/abdou1/abdou1/1479.ts
-#EXTINF:-1,FR|bfm
-http://topiptv.net:5890/live/abdou1/abdou1/1105.ts
-#EXTINF:-1,FR|Euronews
-http://topiptv.net:5890/live/abdou1/abdou1/1484.ts
-#EXTINF:-1,FR|France24
-http://topiptv.net:5890/live/abdou1/abdou1/1486.ts
-#EXTINF:-1,--|FR SPORT|--
-http://topiptv.net:5890/live/abdou1/abdou1/1491.ts
-#EXTINF:-1,FR|beIN|SPORTS 1HD
-http://topiptv.net:5890/live/abdou1/abdou1/21.ts
-#EXTINF:-1,FR|beIN|SPORTS 2HD
-http://topiptv.net:5890/live/abdou1/abdou1/22.ts
-#EXTINF:-1,FR|beIN|SPORTS 3HD
-http://topiptv.net:5890/live/abdou1/abdou1/829.ts
-#EXTINF:-1,FR|beIN SPORTS HD1
-http://topiptv.net:5890/live/abdou1/abdou1/1780.ts
-#EXTINF:-1,FR|beIN SPORTS HD2
-http://topiptv.net:5890/live/abdou1/abdou1/1781.ts
-#EXTINF:-1,FR|beIN SPORTS HD3
-http://topiptv.net:5890/live/abdou1/abdou1/2593.ts
-#EXTINF:-1,FR|BeIN Sports MAX 4
-http://topiptv.net:5890/live/abdou1/abdou1/1303.ts
-#EXTINF:-1,FR|BeIN Sports MAX 5
-http://topiptv.net:5890/live/abdou1/abdou1/1304.ts
-#EXTINF:-1,FR|BeIN Sports MAX 6
-http://topiptv.net:5890/live/abdou1/abdou1/1305.ts
-#EXTINF:-1,FR|BeIN Sports MAX 7
-http://topiptv.net:5890/live/abdou1/abdou1/1306.ts
-#EXTINF:-1,FR|BeIN Sports MAX 8
-http://topiptv.net:5890/live/abdou1/abdou1/1307.ts
-#EXTINF:-1,FR|CANAL+SPORT HD
-http://topiptv.net:5890/live/abdou1/abdou1/1779.ts
-#EXTINF:-1,FR|CANAL+ SPORT HD
-http://topiptv.net:5890/live/abdou1/abdou1/339.ts
-#EXTINF:-1,FR|SFR SPORTS 1HD
-http://topiptv.net:5890/live/abdou1/abdou1/2590.ts
-#EXTINF:-1,FR|SFR SPORTS 2HD
-http://topiptv.net:5890/live/abdou1/abdou1/1267.ts
-#EXTINF:-1,FR|SFR SPORTS 3HD
-http://topiptv.net:5890/live/abdou1/abdou1/2595.ts
-#EXTINF:-1,FR|SFR SPORTS 5 HD
-http://topiptv.net:5890/live/abdou1/abdou1/4194.ts
-#EXTINF:-1,FR|Foot+ 24/24
-http://topiptv.net:5890/live/abdou1/abdou1/1631.ts
-#EXTINF:-1,FR|GOLF+HD
-http://topiptv.net:5890/live/abdou1/abdou1/1782.ts
-#EXTINF:-1,FR|INFOSPORT+
-http://topiptv.net:5890/live/abdou1/abdou1/873.ts
-#EXTINF:-1,FR|Kombat Sport
-http://topiptv.net:5890/live/abdou1/abdou1/3124.ts
-#EXTINF:-1,FR|Eurosport HD
-http://topiptv.net:5890/live/abdou1/abdou1/872.ts
-#EXTINF:-1,FR|Eurosport 2 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1103.ts
-#EXTINF:-1,FR|L EQUIPE 21
-http://topiptv.net:5890/live/abdou1/abdou1/326.ts
-#EXTINF:-1,FR|Equidia Live
-http://topiptv.net:5890/live/abdou1/abdou1/1774.ts
-#EXTINF:-1,--|FR CINEMA|--
-http://topiptv.net:5890/live/abdou1/abdou1/1493.ts
-#EXTINF:-1,FR|CANAL+
-http://topiptv.net:5890/live/abdou1/abdou1/331.ts
-#EXTINF:-1,FR|SERIE CLUB HD
-http://topiptv.net:5890/live/abdou1/abdou1/329.ts
-#EXTINF:-1,FR|serie club
-http://topiptv.net:5890/live/abdou1/abdou1/1833.ts
-#EXTINF:-1,FR|CANAL+ SERIE
-http://topiptv.net:5890/live/abdou1/abdou1/1832.ts
-#EXTINF:-1,FR|Canal cinema
-http://topiptv.net:5890/live/abdou1/abdou1/1803.ts
-#EXTINF:-1,FR|Canal+ family
-http://topiptv.net:5890/live/abdou1/abdou1/1804.ts
-#EXTINF:-1,FR|Cine Premier
-http://topiptv.net:5890/live/abdou1/abdou1/1805.ts
-#EXTINF:-1,FR|CINE+FRISSON
-http://topiptv.net:5890/live/abdou1/abdou1/3217.ts
-#EXTINF:-1,FR|CINE+ EMOTION
-http://topiptv.net:5890/live/abdou1/abdou1/336.ts
-#EXTINF:-1,FR|CINÉ POLAR
-http://topiptv.net:5890/live/abdou1/abdou1/1216.ts
-#EXTINF:-1,FR|CINÉ FX
-http://topiptv.net:5890/live/abdou1/abdou1/1217.ts
-#EXTINF:-1,FR|CINE+ CLASSIC
-http://topiptv.net:5890/live/abdou1/abdou1/1218.ts
-#EXTINF:-1,FR|Ciné +Famiz
-http://topiptv.net:5890/live/abdou1/abdou1/827.ts
-#EXTINF:-1,FR|CANAL+ DECALE
-http://topiptv.net:5890/live/abdou1/abdou1/337.ts
-#EXTINF:-1,FR|TCM Cinema
-http://topiptv.net:5890/live/abdou1/abdou1/1891.ts
-#EXTINF:-1,FR|OCS MAX
-http://topiptv.net:5890/live/abdou1/abdou1/1100.ts
-#EXTINF:-1,FR|OCS GEANTS
-http://topiptv.net:5890/live/abdou1/abdou1/1101.ts
-#EXTINF:-1,FR|OCS CHOC
-http://topiptv.net:5890/live/abdou1/abdou1/1102.ts
-#EXTINF:-1,FR|OCS CITY
-http://topiptv.net:5890/live/abdou1/abdou1/824.ts
-#EXTINF:-1,FR|OCS HORREUR
-http://topiptv.net:5890/live/abdou1/abdou1/2019.ts
-#EXTINF:-1,FR|OCS AVENTURE
-http://topiptv.net:5890/live/abdou1/abdou1/2021.ts
-#EXTINF:-1,FR|OCS ACTION
-http://topiptv.net:5890/live/abdou1/abdou1/2020.ts
-#EXTINF:-1,FR|OCS GO COMEDIE
-http://topiptv.net:5890/live/abdou1/abdou1/2017.ts
-#EXTINF:-1,FR|OCS DOCUMENTAIRE
-http://topiptv.net:5890/live/abdou1/abdou1/2018.ts
-#EXTINF:-1,--|FR DIVERTISSE|--
-http://topiptv.net:5890/live/abdou1/abdou1/1495.ts
-#EXTINF:-1,FR|AB1 HD
-http://topiptv.net:5890/live/abdou1/abdou1/1786.ts
-#EXTINF:-1,FR|HD 1
-http://topiptv.net:5890/live/abdou1/abdou1/1185.ts
-#EXTINF:-1,FR|TMC HD
-http://topiptv.net:5890/live/abdou1/abdou1/1123.ts
-#EXTINF:-1,FR|TMC
-http://topiptv.net:5890/live/abdou1/abdou1/1816.ts
-#EXTINF:-1,FR|NT1 HD
-http://topiptv.net:5890/live/abdou1/abdou1/926.ts
-#EXTINF:-1,FR|NT1
-http://topiptv.net:5890/live/abdou1/abdou1/1834.ts
-#EXTINF:-1,FR|Teva
-http://topiptv.net:5890/live/abdou1/abdou1/1513.ts
-#EXTINF:-1,FR|E! HD
-http://topiptv.net:5890/live/abdou1/abdou1/1124.ts
-#EXTINF:-1,FR|RTL 9
-http://topiptv.net:5890/live/abdou1/abdou1/318.ts
-#EXTINF:-1,FR|TV BREIZH
-http://topiptv.net:5890/live/abdou1/abdou1/1773.ts
-#EXTINF:-1,FR|Numero 23
-http://topiptv.net:5890/live/abdou1/abdou1/1772.ts
-#EXTINF:-1,FR|NRJ12
-http://topiptv.net:5890/live/abdou1/abdou1/823.ts
-#EXTINF:-1,FR|Syfy Universal HD
-http://topiptv.net:5890/live/abdou1/abdou1/328.ts
-#EXTINF:-1,FR|ACTION HD
-http://topiptv.net:5890/live/abdou1/abdou1/317.ts
-#EXTINF:-1,FR|13EME RUE HD
-http://topiptv.net:5890/live/abdou1/abdou1/826.ts
-#EXTINF:-1,FR|PARIS PREMIERE
-http://topiptv.net:5890/live/abdou1/abdou1/1186.ts
-#EXTINF:-1,FR|Paramount Channel
-http://topiptv.net:5890/live/abdou1/abdou1/1630.ts
-#EXTINF:-1,FR|Cherie 25
-http://topiptv.net:5890/live/abdou1/abdou1/1125.ts
-#EXTINF:-1,FR|COMEDIE+
-http://topiptv.net:5890/live/abdou1/abdou1/340.ts
-#EXTINF:-1,FR|Comedie +
-http://topiptv.net:5890/live/abdou1/abdou1/1806.ts
-#EXTINF:-1,FR|Enorme-TV
-http://topiptv.net:5890/live/abdou1/abdou1/1017.ts
-#EXTINF:-1,FR|Arte
-http://topiptv.net:5890/live/abdou1/abdou1/324.ts
-#EXTINF:-1,FR|Wéo HD
-http://topiptv.net:5890/live/abdou1/abdou1/1556.ts
-#EXTINF:-1,FR|Monaco Info
-http://topiptv.net:5890/live/abdou1/abdou1/1552.ts
-#EXTINF:-1,--|FR MUSIC|--
-http://topiptv.net:5890/live/abdou1/abdou1/1510.ts
-#EXTINF:-1,FR|MTV
-http://topiptv.net:5890/live/abdou1/abdou1/1509.ts
-#EXTINF:-1,FR|Virgin
-http://topiptv.net:5890/live/abdou1/abdou1/1265.ts
-#EXTINF:-1,FR|NRJ HITS HD
-http://topiptv.net:5890/live/abdou1/abdou1/4195.ts
-#EXTINF:-1,FR|M6 MUSIC
-http://topiptv.net:5890/live/abdou1/abdou1/1187.ts
-#EXTINF:-1,--|FR DOCUMENTAIRE|--
-http://topiptv.net:5890/live/abdou1/abdou1/1492.ts
-#EXTINF:-1,FR|PLANETE
-http://topiptv.net:5890/live/abdou1/abdou1/345.ts
-#EXTINF:-1,FR|PLANETE CI HD
-http://topiptv.net:5890/live/abdou1/abdou1/346.ts
-#EXTINF:-1,FR|Planete+ CI HD
-http://topiptv.net:5890/live/abdou1/abdou1/1807.ts
-#EXTINF:-1,FR|PLANETE A&E
-http://topiptv.net:5890/live/abdou1/abdou1/347.ts
-#EXTINF:-1,FR|VOYAGE HD
-http://topiptv.net:5890/live/abdou1/abdou1/925.ts
-#EXTINF:-1,FR|DISCOVERY  HD
-http://topiptv.net:5890/live/abdou1/abdou1/342.ts
-#EXTINF:-1,FR|Discovery HD
-http://topiptv.net:5890/live/abdou1/abdou1/1810.ts
-#EXTINF:-1,FR|Discovery Science
-http://topiptv.net:5890/live/abdou1/abdou1/1831.ts
-#EXTINF:-1,FR|DISCOVERY SCIENCE HD
-http://topiptv.net:5890/live/abdou1/abdou1/913.ts
-#EXTINF:-1,FR|TREK HD
-http://topiptv.net:5890/live/abdou1/abdou1/1783.ts
-#EXTINF:-1,FR|SEASON HD
-http://topiptv.net:5890/live/abdou1/abdou1/1784.ts
-#EXTINF:-1,FR|SCIENCES ET VIE HD
-http://topiptv.net:5890/live/abdou1/abdou1/2074.ts
-#EXTINF:-1,FR|Science et Vie
-http://topiptv.net:5890/live/abdou1/abdou1/1150.ts
-#EXTINF:-1,FR|NAT GEO WILD HD
-http://topiptv.net:5890/live/abdou1/abdou1/343.ts
-#EXTINF:-1,FR|NATIONAL GEOGRAPHIC HD
-http://topiptv.net:5890/live/abdou1/abdou1/344.ts
-#EXTINF:-1,FR|National Geo HD
-http://topiptv.net:5890/live/abdou1/abdou1/1809.ts
-#EXTINF:-1,FR|Chasse et Pêche
-http://topiptv.net:5890/live/abdou1/abdou1/330.ts
-#EXTINF:-1,FR|Animaux hd
-http://topiptv.net:5890/live/abdou1/abdou1/325.ts
-#EXTINF:-1,FR|Animaux
-http://topiptv.net:5890/live/abdou1/abdou1/1808.ts
-#EXTINF:-1,FR|USHUAIA TV
-http://topiptv.net:5890/live/abdou1/abdou1/828.ts
-#EXTINF:-1,FR|RMC Decouverte HD
-http://topiptv.net:5890/live/abdou1/abdou1/1009.ts
-#EXTINF:-1,FR|toute l'histoire
-http://topiptv.net:5890/live/abdou1/abdou1/1737.ts
-#EXTINF:-1,--|FR ENFANT|--
-http://topiptv.net:5890/live/abdou1/abdou1/1494.ts
-#EXTINF:-1,FR|Zouzous
-http://topiptv.net:5890/live/abdou1/abdou1/1898.ts
-#EXTINF:-1,FR|GameOne
-http://topiptv.net:5890/live/abdou1/abdou1/1839.ts
-#EXTINF:-1,FR|NICKELODEON HD
-http://topiptv.net:5890/live/abdou1/abdou1/1787.ts
-#EXTINF:-1,FR|NICK JR
-http://topiptv.net:5890/live/abdou1/abdou1/1785.ts
-#EXTINF:-1,FR|Gulli
-http://topiptv.net:5890/live/abdou1/abdou1/327.ts
-#EXTINF:-1,FR|MANGAS
-http://topiptv.net:5890/live/abdou1/abdou1/1035.ts
-#EXTINF:-1,FR|TéléTOON
-http://topiptv.net:5890/live/abdou1/abdou1/1264.ts
-#EXTINF:-1,FR|DisneyJunior HD
-http://topiptv.net:5890/live/abdou1/abdou1/341.ts
-#EXTINF:-1,FR|DISNEY CHANNEL
-http://topiptv.net:5890/live/abdou1/abdou1/921.ts
-#EXTINF:-1,FR|DISNEY CINEMA
-http://topiptv.net:5890/live/abdou1/abdou1/1104.ts
-#EXTINF:-1,FR|PIWI+
-http://topiptv.net:5890/live/abdou1/abdou1/819.ts
-#EXTINF:-1,FR|CARTOON NETWORK
-http://topiptv.net:5890/live/abdou1/abdou1/822.ts
-#EXTINF:-1,FR|Boomerang
-http://topiptv.net:5890/live/abdou1/abdou1/868.ts
-#EXTINF:-1,FR|CANAL J
-http://topiptv.net:5890/live/abdou1/abdou1/820.ts
-#EXTINF:-1,FR|Tiji
-http://topiptv.net:5890/live/abdou1/abdou1/871.ts
-#EXTINF:-1,--|FR PPV|--
-http://topiptv.net:5890/live/abdou1/abdou1/1490.ts
-#EXTINF:-1,FR|CANALPLAY 1
-http://topiptv.net:5890/live/abdou1/abdou1/1037.ts
-#EXTINF:-1,FR|CANALPLAY 2
-http://topiptv.net:5890/live/abdou1/abdou1/1038.ts
-#EXTINF:-1,FR|CANALPLAY3
-http://topiptv.net:5890/live/abdou1/abdou1/1039.ts
-#EXTINF:-1,FR|CANAPLAY 4
-http://topiptv.net:5890/live/abdou1/abdou1/1040.ts
-#EXTINF:-1,FR|CANALPLAY 5
-http://topiptv.net:5890/live/abdou1/abdou1/1041.ts
-#EXTINF:-1,FR|CANALPLAY 6
-http://topiptv.net:5890/live/abdou1/abdou1/1036.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TF1 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/94.ts
+#EXTINF:-1,France 2 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/139.ts
+#EXTINF:-1,France 3 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/137.ts
+#EXTINF:-1,France 4 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/136.ts
+#EXTINF:-1,France 5 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/113.ts
+#EXTINF:-1,M6 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/378.ts
+#EXTINF:-1,Arte HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/145.ts
+#EXTINF:-1,C8 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/171.ts
+#EXTINF:-1,W9 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/91.ts
+#EXTINF:-1,TMC HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/93.ts
+#EXTINF:-1,HD1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/134.ts
+#EXTINF:-1,NRJ 12 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1647.ts
+#EXTINF:-1,13eme Rue
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/152.ts
+#EXTINF:-1,NT1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/127.ts
+#EXTINF:-1,Paris premiere
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/125.ts
+#EXTINF:-1,6Ter HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/151.ts
+#EXTINF:-1,C STAR HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/157.ts
+#EXTINF:-1,CNEWS HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/132.ts
+#EXTINF:-1,RTL 9 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2343.ts
+#EXTINF:-1,France O HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/140.ts
+#EXTINF:-1,Lequipe 21 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/143.ts
+#EXTINF:-1,INFOSPORT+
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/133.ts
+#EXTINF:-1,Numero  23
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2282.ts
+#EXTINF:-1,France 24
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/138.ts
+#EXTINF:-1,Cherie 25 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/164.ts
+#EXTINF:-1,France info HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3180.ts
+#EXTINF:-1,BFM TV HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/131.ts
+#EXTINF:-1,BFM Business
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1720.ts
+#EXTINF:-1,BFM SPORT HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2283.ts
+#EXTINF:-1,SPORT 365 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3179.ts
+#EXTINF:-1,LCI
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2286.ts
+#EXTINF:-1,Euronews
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2284.ts
+#EXTINF:-1,TV5 Monde
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2285.ts
+#EXTINF:-1,LCP
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2287.ts
+#EXTINF:-1,TV BREIZH
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/92.ts
+#EXTINF:-1,Syfy HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/95.ts
+#EXTINF:-1,E ! Entertainment
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2856.ts
+#EXTINF:-1,TEVA HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1644.ts
+#EXTINF:-1,Comedie+ HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/158.ts
+#EXTINF:-1,TCM HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1643.ts
+#EXTINF:-1,CANAL+ HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/170.ts
+#EXTINF:-1,Canal+ Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3943.ts
+#EXTINF:-1,CANAL+ DECALE HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/169.ts
+#EXTINF:-1,Canal+ Decale Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3944.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/166.ts
+#EXTINF:-1,Canal+ Cinema Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3942.ts
+#EXTINF:-1,CANAL+ FAMILY HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/168.ts
+#EXTINF:-1,Canal+ Family Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3939.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/167.ts
+#EXTINF:-1,Canal+ Sport Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3941.ts
+#EXTINF:-1,CANAL+ SERIES HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/122.ts
+#EXTINF:-1,Canal+ Series Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3940.ts
+#EXTINF:-1,Cine+ Premier HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/161.ts
+#EXTINF:-1,Cine+ Famiz HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/159.ts
+#EXTINF:-1,Cine+ Frisson HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/162.ts
+#EXTINF:-1,Cine+ Emotion HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/163.ts
+#EXTINF:-1,Cine+ Classic HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/121.ts
+#EXTINF:-1,OCS Max HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/109.ts
+#EXTINF:-1,OCS City HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/111.ts
+#EXTINF:-1,OCS Choc HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/112.ts
+#EXTINF:-1,OCS Geant HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/110.ts
+#EXTINF:-1,Orange Cinema Disney
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5608.ts
+#EXTINF:-1,Orange cinema action
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5605.ts
+#EXTINF:-1,Orange cinema Aventure
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5606.ts
+#EXTINF:-1,Orange cinema comedie
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5611.ts
+#EXTINF:-1,Orange Cinema Horreur
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5609.ts
+#EXTINF:-1,Orange Cinema Doc
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5610.ts
+#EXTINF:-1,CINE FX
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1617.ts
+#EXTINF:-1,CINE Polar
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/160.ts
+#EXTINF:-1,Serie Club
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1648.ts
+#EXTINF:-1,Action
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/150.ts
+#EXTINF:-1,Paramount Channel HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/126.ts
+#EXTINF:-1,RMC Decouverte HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/98.ts
+#EXTINF:-1,Planete+ HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/609.ts
+#EXTINF:-1,PLANETE+ CI
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/123.ts
+#EXTINF:-1,Planete+ AE HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/124.ts
+#EXTINF:-1,Crime District
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3540.ts
+#EXTINF:-1,National Geographic HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/128.ts
+#EXTINF:-1,NatGeo Wild HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/129.ts
+#EXTINF:-1,Discovery HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/156.ts
+#EXTINF:-1,Discovery Science HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/120.ts
+#EXTINF:-1,Discovery Investigation
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5566.ts
+#EXTINF:-1,Orange Enquetes exclusives
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5607.ts
+#EXTINF:-1,Science et Vie TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/97.ts
+#EXTINF:-1,Voyage HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/89.ts
+#EXTINF:-1,ANIMAUX
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/149.ts
+#EXTINF:-1,USHUAIA TV HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/90.ts
+#EXTINF:-1,Trek TV HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1719.ts
+#EXTINF:-1,Museum HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5738.ts
+#EXTINF:-1,Histoire HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2848.ts
+#EXTINF:-1,Toute l'Histoire
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1645.ts
+#EXTINF:-1,Seasons hd
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/96.ts
+#EXTINF:-1,Chasse et pêche HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/165.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/377.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/376.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/608.ts
+#EXTINF:-1,SFR SPORT 4K
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3471.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1728.ts
+#EXTINF:-1,Eurosport HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/142.ts
+#EXTINF:-1,Eurosport 2 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/114.ts
+#EXTINF:-1,Foot+ 24/24 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/141.ts
+#EXTINF:-1,GOLF+ HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/135.ts
+#EXTINF:-1,AB Moteurs
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1616.ts
+#EXTINF:-1,Equidia Live HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/144.ts
+#EXTINF:-1,Equidia life
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2327.ts
+#EXTINF:-1,Elle Girl
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2329.ts
+#EXTINF:-1,ENF | TIJI HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/115.ts
+#EXTINF:-1,ENF | PIWI
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/146.ts
+#EXTINF:-1,ENF | Zouzous TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1195.ts
+#EXTINF:-1,ENF | Teletoon+
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/116.ts
+#EXTINF:-1,ENF | Gulli
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/117.ts
+#EXTINF:-1,ENF | Boomerang
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/155.ts
+#EXTINF:-1,Boing
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/119.ts
+#EXTINF:-1,ENF | Cartoon Network
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1640.ts
+#EXTINF:-1,ENF | NICKELODEON
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/148.ts
+#EXTINF:-1,ENF | Nickeleodeon Junior
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/147.ts
+#EXTINF:-1,ENF | Disney Channel HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/154.ts
+#EXTINF:-1,ENF | Disney Channel +1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1721.ts
+#EXTINF:-1,ENF | Disney Cinema HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2732.ts
+#EXTINF:-1,ENF | Disney Junior HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1646.ts
+#EXTINF:-1,ENF | Disney XD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1725.ts
+#EXTINF:-1,ENF | CANAL J HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1804.ts
+#EXTINF:-1,ENF | MANGA
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/153.ts
+#EXTINF:-1,ENF | J One
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1641.ts
+#EXTINF:-1,GAME ONE
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1787.ts
+#EXTINF:-1,AB1 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2345.ts
+#EXTINF:-1,MCM HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2325.ts
+#EXTINF:-1,NRJ HITS HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2938.ts
+#EXTINF:-1,Trace urban
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3968.ts
+#EXTINF:-1,Ofive
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2843.ts
+#EXTINF:-1,M6 Music
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/130.ts
+#EXTINF:-1,MTV FRANCE HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3181.ts
+#EXTINF:-1,MTV Hits HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1642.ts
+#EXTINF:-1,MTV Base HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1805.ts
+#EXTINF:-1,MTV Dance HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1806.ts
+#EXTINF:-1,MTV ROCK
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3470.ts
+#EXTINF:-1,Clubbing TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2324.ts
+#EXTINF:-1,BET TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2347.ts
+#EXTINF:-1,BRAVA HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2323.ts
+#EXTINF:-1,Virgin TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2344.ts
+#EXTINF:-1,GONG TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1615.ts
+#EXTINF:-1,WEO TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1716.ts
+#EXTINF:-1,A LA CARTE 1 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/108.ts
+#EXTINF:-1,A LA CARTE 2 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/107.ts
+#EXTINF:-1,A LA CARTE 3 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/106.ts
+#EXTINF:-1,A LA CARTE 4 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/105.ts
+#EXTINF:-1,A LA CARTE 5 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/104.ts
+#EXTINF:-1,A LA CARTE 6 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/103.ts
+#EXTINF:-1,A LA CARTE 7 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/102.ts
+#EXTINF:-1,A la Carte 8
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/101.ts
+#EXTINF:-1,A LA CARTE 9 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/100.ts
+#EXTINF:-1,A LA CARTE 10 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/99.ts
+#EXTINF:-1,CANAL PLAY 1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1613.ts
+#EXTINF:-1,CANAL PLAY 2
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/1614.ts
+#EXTINF:-1,CANAL PLAY 3
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2193.ts
+#EXTINF:-1,CANAL PLAY 4
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2192.ts
+#EXTINF:-1,CANAL PLAY 5
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2191.ts
+#EXTINF:-1,CANAL PLAY 6
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2190.ts
+#EXTINF:-1,CANAL PLAY 7
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2189.ts
+#EXTINF:-1,CANAL PLAY 8
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2188.ts
+#EXTINF:-1,CANAL PLAY 9
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2187.ts
+#EXTINF:-1,CANAL PLAY 10
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2200.ts
+#EXTINF:-1,CANAL PLAY 11
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2199.ts
+#EXTINF:-1,CANAL PLAY 12
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2198.ts
+#EXTINF:-1,CANAL PLAY 13
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2197.ts
+#EXTINF:-1,CANAL PLAY 14
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2196.ts
+#EXTINF:-1,OCS GO Cine+ 1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5597.ts
+#EXTINF:-1,OCS GO Cine+ 2
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5598.ts
+#EXTINF:-1,OCS GO Cine+ 3
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5599.ts
+#EXTINF:-1,OCS GO Cine+ 4
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5600.ts
+#EXTINF:-1,OCS GO Cine+ 5
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5601.ts
+#EXTINF:-1,OCS GO Cine+ 6
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5602.ts
+#EXTINF:-1,OCS GO Cine+ 7
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5603.ts
+#EXTINF:-1,OCS GO Cine+ 8
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5604.ts
+#EXTINF:-1,Orange Premium 1
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5617.ts
+#EXTINF:-1,Orange Premium 2
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5618.ts
+#EXTINF:-1,Orange Premium 3
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5619.ts
+#EXTINF:-1,Orange Premium 4
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5620.ts
+#EXTINF:-1,Orange Premium 5
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5621.ts
+#EXTINF:-1,Orange Premium 6
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/5622.ts
+#EXTINF:-1,Orange Premium 7
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2878.ts
+#EXTINF:-1,Mirabelle TV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/2342.ts
+#EXTINF:-1,Tébéo TV Bretagne
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3537.ts
+#EXTINF:-1,TV7 Bordeaux
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3546.ts
+#EXTINF:-1,Grand Lille
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3535.ts
+#EXTINF:-1,La chaine normande
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3542.ts
+#EXTINF:-1,Alsace 20
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3543.ts
+#EXTINF:-1,Vosges Television
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3547.ts
+#EXTINF:-1,ILTV
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3544.ts
+#EXTINF:-1,FR | Bein Sport 1 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/589.ts
+#EXTINF:-1,FR | Bein Sport 1 Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3969.ts
+#EXTINF:-1,FR | Bein Sport 2 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/590.ts
+#EXTINF:-1,FR | Bein Sport 2 Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3970.ts
+#EXTINF:-1,FR | Bein Sport 3 HD
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/591.ts
+#EXTINF:-1,FR | Bein Sport 3 Low
+http://atlasip.ddns.net:8000/live/86333794968445/1593574628/3971.ts
