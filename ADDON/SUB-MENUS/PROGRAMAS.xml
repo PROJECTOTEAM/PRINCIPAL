@@ -3,16 +3,9 @@
 <layoutype>thumbnail</layoutype>
 
 
-<dir>
-<name>[COLOR white]JOGOS E EMULADORES[/COLOR]</name>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/ADDON/SUB-MENUS/PROGRAMAS/JOGOS%20E%20EMULADORES.xml</link>
-<thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon11.jpg</thumbnail>
-<fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart13.jpg</fanart>
-</dir>
-
 <plugin>
 <name>[COLOR white]PROJECT X WIZARD[/COLOR]</name>
-<link>plugin://plugin.video.projectxwizard/</link>
+<link>plugin://projectx.wizard/</link>
 <thumbnail>http://i35.servimg.com/u/f35/19/44/91/43/icon10.png</thumbnail>
 <fanart>http://i35.servimg.com/u/f35/19/44/91/43/fanart12.jpg</fanart>
 </plugin>
