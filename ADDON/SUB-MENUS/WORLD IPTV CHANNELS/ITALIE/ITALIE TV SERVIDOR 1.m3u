@@ -1,101 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,IT: Rai 1
-http://194.88.104.81:8000/live/Santos/Santos/6506.ts
-#EXTINF:-1,IT: Rai 2
-http://194.88.104.81:8000/live/Santos/Santos/6505.ts
-#EXTINF:-1,IT: Rai 3
-http://194.88.104.81:8000/live/Santos/Santos/6504.ts
-#EXTINF:-1,IT: Rai 4
-http://194.88.104.81:8000/live/Santos/Santos/6503.ts
-#EXTINF:-1,IT: Rai 5
-http://194.88.104.81:8000/live/Santos/Santos/6502.ts
-#EXTINF:-1,IT: Rai MOVIE HD
-http://194.88.104.81:8000/live/Santos/Santos/6501.ts
-#EXTINF:-1,IT: Rai PREMIUM
-http://194.88.104.81:8000/live/Santos/Santos/6500.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://194.88.104.81:8000/live/Santos/Santos/6499.ts
-#EXTINF:-1,IT: Rai YOYO HD
-http://194.88.104.81:8000/live/Santos/Santos/6498.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://194.88.104.81:8000/live/Santos/Santos/6494.ts
-#EXTINF:-1,IT: Sky Cinema 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6493.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://194.88.104.81:8000/live/Santos/Santos/6492.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://194.88.104.81:8000/live/Santos/Santos/6491.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://194.88.104.81:8000/live/Santos/Santos/6490.ts
-#EXTINF:-1,IT: Sky Cinema MAX  HD
-http://194.88.104.81:8000/live/Santos/Santos/6489.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://194.88.104.81:8000/live/Santos/Santos/6488.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://194.88.104.81:8000/live/Santos/Santos/6530.ts
-#EXTINF:-1,IT: Cartoon Network
-http://194.88.104.81:8000/live/Santos/Santos/6529.ts
-#EXTINF:-1,IT: Eurosport 1
-http://194.88.104.81:8000/live/Santos/Santos/6528.ts
-#EXTINF:-1,IT: Eurosport 2
-http://194.88.104.81:8000/live/Santos/Santos/6527.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://194.88.104.81:8000/live/Santos/Santos/6526.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://194.88.104.81:8000/live/Santos/Santos/6525.ts
-#EXTINF:-1,IT: FOX HD
-http://194.88.104.81:8000/live/Santos/Santos/6524.ts
-#EXTINF:-1,IT: Iris
-http://194.88.104.81:8000/live/Santos/Santos/6523.ts
-#EXTINF:-1,IT: Italia 1
-http://194.88.104.81:8000/live/Santos/Santos/6522.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://194.88.104.81:8000/live/Santos/Santos/6521.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://194.88.104.81:8000/live/Santos/Santos/6520.ts
-#EXTINF:-1,IT: Premium Action 24
-http://194.88.104.81:8000/live/Santos/Santos/6519.ts
-#EXTINF:-1,IT: Premium Cinema 24
-http://194.88.104.81:8000/live/Santos/Santos/6518.ts
-#EXTINF:-1,IT: Premium Cinema 2 /24
-http://194.88.104.81:8000/live/Santos/Santos/6517.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6516.ts
-#EXTINF:-1,IT: Premium Cinema Action HD
-http://194.88.104.81:8000/live/Santos/Santos/6515.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://194.88.104.81:8000/live/Santos/Santos/6514.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://194.88.104.81:8000/live/Santos/Santos/6513.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://194.88.104.81:8000/live/Santos/Santos/6512.ts
-#EXTINF:-1,IT: Premium Cinema Joi
-http://194.88.104.81:8000/live/Santos/Santos/6511.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://194.88.104.81:8000/live/Santos/Santos/6510.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://194.88.104.81:8000/live/Santos/Santos/6509.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://194.88.104.81:8000/live/Santos/Santos/6508.ts
-#EXTINF:-1,IT: Premium Joi
-http://194.88.104.81:8000/live/Santos/Santos/6507.ts
-#EXTINF:-1,IT: Rete4
-http://194.88.104.81:8000/live/Santos/Santos/6497.ts
-#EXTINF:-1,IT: RSI LA1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6496.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6495.ts
-#EXTINF:-1,IT: Studio Universal
-http://194.88.104.81:8000/live/Santos/Santos/6487.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://194.88.104.81:8000/live/Santos/Santos/6486.ts
-#EXTINF:-1,IT: Top Crime
-http://194.88.104.81:8000/live/Santos/Santos/6485.ts
+#EXTINF:-1,Rai Movie
+http://144.2.100.111:8000/play/a009
+#EXTINF:-1,Rai 5
+http://144.2.100.111:8000/play/a00e
+#EXTINF:-1,ab3
+http://144.2.100.111:8000/play/a005
+#EXTINF:-1,RTL9
+http://144.2.100.111:8000/play/a006
+#EXTINF:-1,Rai Sport 2
+http://144.2.100.111:8000/play/a007
+#EXTINF:-1,Rai 1
+http://144.2.100.111:8000/play/a00a
+#EXTINF:-1,NT1 HD
+http://144.2.100.111:8000/play/a002
+#EXTINF:-1,Rai 3
+http://144.2.100.111:8000/play/a00c
+#EXTINF:-1,Rai Premium
+http://144.2.100.111:8000/play/a008
+#EXTINF:-1,France0
+http://144.2.100.111:8000/play/a001
+#EXTINF:-1,Rai 4
+http://144.2.100.111:8000/play/a00d
+#EXTINF:-1,D17
+http://144.2.100.111:8000/play/a003
+#EXTINF:-1,6ter
+http://144.2.100.111:8000/play/a004
+#EXTINF:-1,Rai 2
+http://144.2.100.111:8000/play/a00b
