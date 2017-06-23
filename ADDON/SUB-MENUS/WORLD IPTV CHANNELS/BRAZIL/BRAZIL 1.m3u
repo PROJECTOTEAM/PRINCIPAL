@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -13,31 +13,133 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,BR: TVE TV BRASIL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3883.ts
-#EXTINF:-1,BR: Vem e Ve TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3888.ts
-#EXTINF:-1,BR: Tv Escola
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3885.ts
-#EXTINF:-1,BR: TV Diario
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3886.ts
-#EXTINF:-1,BR: Cançao Nova
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3880.ts
-#EXTINF:-1,BR: REDE TV RONDONIA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3116.ts
-#EXTINF:-1,BR: REDE GOSPEL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3117.ts
-#EXTINF:-1,BR: Mana Sat
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3119.ts
-#EXTINF:-1,BR: Conexabor TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3120.ts
-#EXTINF:-1,BR: Canal Do Boi TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3121.ts
-#EXTINF:-1,BR: Brazil 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3123.ts
-#EXTINF:-1,BR: Azteca 13 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3124.ts
-#EXTINF:-1,BR: Aparceida
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3125.ts
+#EXTINF:-1,BR: Discovery Kids
+http://194.88.104.81:8000/live/Santos/Santos/6943.ts
+#EXTINF:-1,BR: Investigação Discovery
+http://194.88.104.81:8000/live/Santos/Santos/6944.ts
+#EXTINF:-1,BR: Rede TV
+http://194.88.104.81:8000/live/Santos/Santos/6945.ts
+#EXTINF:-1,BR: Band HD
+http://194.88.104.81:8000/live/Santos/Santos/6592.ts
+#EXTINF:-1,BR: BH News
+http://194.88.104.81:8000/live/Santos/Santos/6591.ts
+#EXTINF:-1,BR: BIS
+http://194.88.104.81:8000/live/Santos/Santos/6590.ts
+#EXTINF:-1,BR: Canal Do Boi
+http://194.88.104.81:8000/live/Santos/Santos/6589.ts
+#EXTINF:-1,BR: Discovery Channel HD
+http://194.88.104.81:8000/live/Santos/Santos/6588.ts
+#EXTINF:-1,BR: Discovery Civilization
+http://194.88.104.81:8000/live/Santos/Santos/6587.ts
+#EXTINF:-1,BR: Disney Jr
+http://194.88.104.81:8000/live/Santos/Santos/6586.ts
+#EXTINF:-1,BR: Fox Sports
+http://194.88.104.81:8000/live/Santos/Santos/6585.ts
+#EXTINF:-1,BR: History Channel
+http://194.88.104.81:8000/live/Santos/Santos/6584.ts
+#EXTINF:-1,BR: Nick Jr
+http://194.88.104.81:8000/live/Santos/Santos/6583.ts
+#EXTINF:-1,BR: PFC
+http://194.88.104.81:8000/live/Santos/Santos/6582.ts
+#EXTINF:-1,BR: SporTV1
+http://194.88.104.81:8000/live/Santos/Santos/6581.ts
+#EXTINF:-1,BR: SporTV2
+http://194.88.104.81:8000/live/Santos/Santos/6537.ts
+#EXTINF:-1,BR: SporTV3
+http://194.88.104.81:8000/live/Santos/Santos/6580.ts
+#EXTINF:-1,BR: Telecine Action HD
+http://194.88.104.81:8000/live/Santos/Santos/6579.ts
+#EXTINF:-1,BR: Telecine Cult
+http://194.88.104.81:8000/live/Santos/Santos/6578.ts
+#EXTINF:-1,BR: Telecine Fun
+http://194.88.104.81:8000/live/Santos/Santos/6577.ts
+#EXTINF:-1,BR: Telecine Premium HD
+http://194.88.104.81:8000/live/Santos/Santos/6576.ts
+#EXTINF:-1,BR: Telecine Pipoca HD
+http://194.88.104.81:8000/live/Santos/Santos/6534.ts
+#EXTINF:-1,BR: Telecine Touch
+http://194.88.104.81:8000/live/Santos/Santos/6533.ts
+#EXTINF:-1,BR: TV Aparecida
+http://194.88.104.81:8000/live/Santos/Santos/6575.ts
+#EXTINF:-1,BR: TV Escola
+http://194.88.104.81:8000/live/Santos/Santos/6574.ts
+#EXTINF:-1,BR: TV Geral
+http://194.88.104.81:8000/live/Santos/Santos/6573.ts
+#EXTINF:-1,BR: AXN HD
+http://194.88.104.81:8000/live/Santos/Santos/6572.ts
+#EXTINF:-1,BR: Band News
+http://194.88.104.81:8000/live/Santos/Santos/6571.ts
+#EXTINF:-1,BR: Band Sports
+http://194.88.104.81:8000/live/Santos/Santos/6570.ts
+#EXTINF:-1,BR: Boomerang
+http://194.88.104.81:8000/live/Santos/Santos/6569.ts
+#EXTINF:-1,BR: Canal Sony
+http://194.88.104.81:8000/live/Santos/Santos/6568.ts
+#EXTINF:-1,BR: Cartoon Network
+http://194.88.104.81:8000/live/Santos/Santos/6567.ts
+#EXTINF:-1,BR: Combate
+http://194.88.104.81:8000/live/Santos/Santos/6566.ts
+#EXTINF:-1,BR: Discovery H&H
+http://194.88.104.81:8000/live/Santos/Santos/6565.ts
+#EXTINF:-1,BR: Discovery Turbo
+http://194.88.104.81:8000/live/Santos/Santos/6564.ts
+#EXTINF:-1,BR: Disney XD
+http://194.88.104.81:8000/live/Santos/Santos/6563.ts
+#EXTINF:-1,BR: E!
+http://194.88.104.81:8000/live/Santos/Santos/6562.ts
+#EXTINF:-1,BR: EI Maxx 2 HD
+http://194.88.104.81:8000/live/Santos/Santos/6561.ts
+#EXTINF:-1,BR: EI Maxx HD
+http://194.88.104.81:8000/live/Santos/Santos/6560.ts
+#EXTINF:-1,BR: ESPN
+http://194.88.104.81:8000/live/Santos/Santos/6559.ts
+#EXTINF:-1,BR: ESPN Brasil
+http://194.88.104.81:8000/live/Santos/Santos/6558.ts
+#EXTINF:-1,BR: Fish Tv
+http://194.88.104.81:8000/live/Santos/Santos/6557.ts
+#EXTINF:-1,BR: FOX
+http://194.88.104.81:8000/live/Santos/Santos/6556.ts
+#EXTINF:-1,BR: Fox Sport 2
+http://194.88.104.81:8000/live/Santos/Santos/6555.ts
+#EXTINF:-1,BR: Globo News
+http://194.88.104.81:8000/live/Santos/Santos/6554.ts
+#EXTINF:-1,BR: Globo SP
+http://194.88.104.81:8000/live/Santos/Santos/6553.ts
+#EXTINF:-1,BR: GNT
+http://194.88.104.81:8000/live/Santos/Santos/6552.ts
+#EXTINF:-1,BR: H2
+http://194.88.104.81:8000/live/Santos/Santos/6551.ts
+#EXTINF:-1,BR: HBO
+http://194.88.104.81:8000/live/Santos/Santos/6550.ts
+#EXTINF:-1,BR: HBO 2
+http://194.88.104.81:8000/live/Santos/Santos/6549.ts
+#EXTINF:-1,BR: HBO Family
+http://194.88.104.81:8000/live/Santos/Santos/6548.ts
+#EXTINF:-1,BR: HBO Plus
+http://194.88.104.81:8000/live/Santos/Santos/6547.ts
+#EXTINF:-1,BR: HBO Signature
+http://194.88.104.81:8000/live/Santos/Santos/6546.ts
+#EXTINF:-1,BR: Max
+http://194.88.104.81:8000/live/Santos/Santos/6545.ts
+#EXTINF:-1,BR: National Geographic
+http://194.88.104.81:8000/live/Santos/Santos/6544.ts
+#EXTINF:-1,BR: Premiere 1
+http://194.88.104.81:8000/live/Santos/Santos/6543.ts
+#EXTINF:-1,BR: Premiere 2
+http://194.88.104.81:8000/live/Santos/Santos/6542.ts
+#EXTINF:-1,BR: Premiere 3
+http://194.88.104.81:8000/live/Santos/Santos/6541.ts
+#EXTINF:-1,BR: Record HD
+http://194.88.104.81:8000/live/Santos/Santos/6540.ts
+#EXTINF:-1,BR: Record News
+http://194.88.104.81:8000/live/Santos/Santos/6539.ts
+#EXTINF:-1,BR: SBT HD
+http://194.88.104.81:8000/live/Santos/Santos/6538.ts
+#EXTINF:-1,BR: SYFY
+http://194.88.104.81:8000/live/Santos/Santos/6536.ts
+#EXTINF:-1,BR: TCM
+http://194.88.104.81:8000/live/Santos/Santos/6535.ts
+#EXTINF:-1,BR: TLC
+http://194.88.104.81:8000/live/Santos/Santos/6532.ts
+#EXTINF:-1,BR: VIVA
+http://194.88.104.81:8000/live/Santos/Santos/6531.ts
