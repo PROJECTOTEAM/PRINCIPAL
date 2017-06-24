@@ -525,19 +525,22 @@
 </item>
 
 
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>[COLOR white]NACIONAIS[/COLOR]</title>
-<thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/ICONS/S%C3%89RIES-NACIONAIS.png</thumbnail>
-<fanart>http://img01.deviantart.net/19da/i/2013/118/d/a/vikings_wallpaper_by_iamsointense-d62xwvb.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/S%C3%89RIES/NACIONAIS.xml</externallink>
-</item>
-
-
-
-<item>
-<title>PRÓXIMA PÁGINA</title>
-<link>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/FILMES/NACIONAIS2.xml</link>
+<title>[COLOR white]PRÓXIMA PÁGINA[/COLOR]</title>
 <fanart>https://i11.servimg.com/u/f11/19/44/91/43/fanart10.jpg</fanart>
 <thumbnail>https://i11.servimg.com/u/f11/19/44/91/43/next10.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/vod/FILMES/NACIONAIS2.xml</externallink>
 </item>
+
