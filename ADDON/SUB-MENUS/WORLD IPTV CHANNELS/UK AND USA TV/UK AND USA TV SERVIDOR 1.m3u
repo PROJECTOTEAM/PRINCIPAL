@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 24-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -14,183 +14,208 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
 #EXTM3U
-#EXTINF:-1 group-title=”Streams”,NBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/1.mpegts
-#EXTINF:-1 group-title=”Streams”,A&E
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/2.mpegts
-#EXTINF:-1 group-title=”Streams”,AMC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/3.mpegts
-#EXTINF:-1 group-title=”Streams”,ABC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/4.mpegts
-#EXTINF:-1 group-title=”Streams”,E!
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/5.mpegts
-#EXTINF:-1 group-title=”Streams”,Bravo
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/86.mpegts
-#EXTINF:-1 group-title=”Streams”,FOX
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/6.mpegts
-#EXTINF:-1 group-title=”Streams”,SYFY
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/7.mpegts
-#EXTINF:-1 group-title=”Streams”,SPIKE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/8.mpegts
-#EXTINF:-1 group-title=”Streams”,TBS
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/9.mpegts
-#EXTINF:-1 group-title=”Streams”,TNT
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/10.mpegts
-#EXTINF:-1 group-title=”Streams”,LMN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/12.mpegts
-#EXTINF:-1 group-title=”Streams”,HallMark Channel
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/13.mpegts
-#EXTINF:-1 group-title=”Streams”,TruTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/14.mpegts
-#EXTINF:-1 group-title=”Streams”,TLC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/11.mpegts
-#EXTINF:-1 group-title=”Streams”,OWN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/15.mpegts
-#EXTINF:-1 group-title=”Streams”,BBC AMERICA
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/16.mpegts
-#EXTINF:-1 group-title=”Streams”,CITY TV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/17.mpegts
-#EXTINF:-1 group-title=”Streams”,CTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/18.mpegts
-#EXTINF:-1 group-title=”Streams”,Comedy Central
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/19.mpegts
-#EXTINF:-1 group-title=”Streams”,Lifetime
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/20.mpegts
-#EXTINF:-1 group-title=”Streams”,CBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/21.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/22.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/23.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO COMEDY
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/24.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO ZONE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/25.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO SIGNATURE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/26.mpegts
-#EXTINF:-1 group-title=”Streams”,HBO FAMILY
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/27.mpegts
-#EXTINF:-1 group-title=”Streams”,SHOWTIME
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/28.mpegts
-#EXTINF:-1 group-title=”Streams”,SHOWTIME 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/29.mpegts
-#EXTINF:-1 group-title=”Streams”,SHOWTIME SHOWCASE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/30.mpegts
-#EXTINF:-1 group-title=”Streams”,Starz East
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/31.mpegts
-#EXTINF:-1 group-title=”Streams”,Startz Edge
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/33.mpegts
-#EXTINF:-1 group-title=”Streams”,Starz Cinema
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/34.mpegts
-#EXTINF:-1 group-title=”Streams”,Starz Encore
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/35.mpegts
-#EXTINF:-1 group-title=”Streams”,Starz Comedy
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/36.mpegts
-#EXTINF:-1 group-title=”Streams”,Cinemax East
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/39.mpegts
-#EXTINF:-1 group-title=”Streams”,Cinemax 5 StarMax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/40.mpegts
-#EXTINF:-1 group-title=”Streams”,Cinemax ActionMax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/41.mpegts
-#EXTINF:-1 group-title=”Streams”,Cinemax Moremax
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/42.mpegts
-#EXTINF:-1 group-title=”Streams”,Space
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/43.mpegts
-#EXTINF:-1 group-title=”Streams”,ESPN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/45.mpegts
-#EXTINF:-1 group-title=”Streams”,ESPN 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/46.mpegts
-#EXTINF:-1 group-title=”Streams”,ESPN NU
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/47.mpegts
-#EXTINF:-1 group-title=”Streams”,NBC SN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/48.mpegts
-#EXTINF:-1 group-title=”Streams”,CBS SN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/49.mpegts
-#EXTINF:-1 group-title=”Streams”,Fox Sports 1
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/50.mpegts
-#EXTINF:-1 group-title=”Streams”,Fox Sports 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/51.mpegts
-#EXTINF:-1 group-title=”Streams”,NBA TV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/52.mpegts
-#EXTINF:-1 group-title=”Streams”,MLB Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/53.mpegts
-#EXTINF:-1 group-title=”Streams”,NFL Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/54.mpegts
-#EXTINF:-1 group-title=”Streams”,NFL Now
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/55.mpegts
-#EXTINF:-1 group-title=”Streams”,NHL
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/56.mpegts
-#EXTINF:-1 group-title=”Streams”,WWE Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/57.mpegts
-#EXTINF:-1 group-title=”Streams”,TSN1
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/58.mpegts
-#EXTINF:-1 group-title=”Streams”,TSN 2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/59.mpegts
-#EXTINF:-1 group-title=”Streams”,TSN 3
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/60.mpegts
-#EXTINF:-1 group-title=”Streams”,TSN4
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/61.mpegts
-#EXTINF:-1 group-title=”Streams”,TSN5
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/62.mpegts
-#EXTINF:-1 group-title=”Streams”,SPORTSNET ONE
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/63.mpegts
-#EXTINF:-1 group-title=”Streams”,SPORTSNET ONTARIO
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/64.mpegts
-#EXTINF:-1 group-title=”Streams”,SPORTS WORLD
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/65.mpegts
-#EXTINF:-1 group-title=”Streams”,SPORTSNET 360
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/66.mpegts
-#EXTINF:-1 group-title=”Streams”,SPORTSNET PACIFIC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/67.mpegts
-#EXTINF:-1 group-title=”Streams”,CNN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts
-#EXTINF:-1 group-title=”Streams”,CBC News
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/69.mpegts
-#EXTINF:-1 group-title=”Streams”,CNBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/70.mpegts
-#EXTINF:-1 group-title=”Streams”,MSNBC
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/71.mpegts
-#EXTINF:-1 group-title=”Streams”,FOX NEWS
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/72.mpegts
-#EXTINF:-1 group-title=”Streams”,Fox Business
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/74.mpegts
-#EXTINF:-1 group-title=”Streams”,History
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/75.mpegts
-#EXTINF:-1 group-title=”Streams”,H2
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/76.mpegts
-#EXTINF:-1 group-title=”Streams”,National Geographic
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/77.mpegts
-#EXTINF:-1 group-title=”Streams”,Nat Geo Wild
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/78.mpegts
-#EXTINF:-1 group-title=”Streams”,Animal Planet
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/79.mpegts
-#EXTINF:-1 group-title=”Streams”,Investigation Discovery
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/80.mpegts
-#EXTINF:-1 group-title=”Streams”,Velocity
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/81.mpegts
-#EXTINF:-1 group-title=”Streams”,Love Nature
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/82.mpegts
-#EXTINF:-1 group-title=”Streams”,Food Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/83.mpegts
-#EXTINF:-1 group-title=”Streams”,HGTV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/84.mpegts
-#EXTINF:-1 group-title=”Streams”,DYI Network
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/85.mpegts
-#EXTINF:-1 group-title=”Streams”,Super Channel 1
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/87.mpegts
-#EXTINF:-1 group-title=”Streams”,Super Channel 3
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/89.mpegts
-#EXTINF:-1 group-title=”Streams”,FreeForm
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/91.mpegts
-#EXTINF:-1 group-title=”Streams”,Comedy Canada
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/92.mpegts
-#EXTINF:-1 group-title=”Streams”,ABC Spark
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/93.mpegts
-#EXTINF:-1 group-title=”Streams”,Slice TV
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/94.mpegts
-#EXTINF:-1 group-title=”Streams”,Showcase Canada
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/95.mpegts
+#EXTINF:0,BBC One HD
+http://185.22.78.73:9001/play/a00d
+#EXTINF:0,BBC One NI HD
+http://185.22.78.73:9001/play/a00c
+#EXTINF:0,CBBC HD
+http://185.22.78.73:9001/play/a00b
+#EXTINF:0,BBC Two HD
+http://185.22.78.73:9001/play/a00e
+#EXTINF:0,Spike + 1
+http://185.22.78.73:9002/play/a008
+#EXTINF:0,Channel 5HD
+http://185.22.78.73:9002/play/a007
+#EXTINF:0,5 USA
+http://185.22.78.73:9002/play/a004
+#EXTINF:0,5STAR
+http://185.22.78.73:9002/play/a005
+#EXTINF:0,Spike
+http://185.22.78.73:9002/play/a002
+#EXTINF:0,5STAR +1
+http://185.22.78.73:9002/play/a009
+#EXTINF:0,5 USA +1
+http://185.22.78.73:9002/play/a00a
+#EXTINF:0,My5
+http://185.22.78.73:9002/play/a006
+#EXTINF:0,Channel 5
+http://185.22.78.73:9002/play/a003
+#EXTINF:0,BBC One Wal HD
+http://185.22.78.73:9003/play/a003
+#EXTINF:0,BBC One ScotHD
+http://185.22.78.73:9003/play/a002
+#EXTINF:0,BBC Four HD
+http://185.22.78.73:9003/play/a007
+#EXTINF:0,CBeebies HD
+http://185.22.78.73:9003/play/a00b
+#EXTINF:0,BBC NEWS HD
+http://185.22.78.73:9003/play/a004
+#EXTINF:0,ITV
+http://185.22.78.73:9004/play/a00a
+#EXTINF:0,ITV Central West
+http://185.22.78.73:9004/play/a008
+#EXTINF:0,ITV4
+http://185.22.78.73:9004/play/a006
+#EXTINF:0,ITV2
+http://185.22.78.73:9004/play/a005
+#EXTINF:0,ITV Granada
+http://185.22.78.73:9004/play/a004
+#EXTINF:0,ITV London
+http://185.22.78.73:9004/play/a002
+#EXTINF:0,ITV4+1
+http://185.22.78.73:9004/play/a00c
+#EXTINF:0,ITVi Stream 44
+http://185.22.78.73:9004/play/a00b
+#EXTINF:0,ITV Anglia East
+http://185.22.78.73:9004/play/a003
+#EXTINF:0,ITVBe
+http://185.22.78.73:9004/play/a009
+#EXTINF:0,ITV London HD
+http://185.22.78.73:9005/play/a006
+#EXTINF:0,ITV Meridian East HD
+http://185.22.78.73:9005/play/a004
+#EXTINF:0,ITV Yorkshire West HD
+http://185.22.78.73:9005/play/a003
+#EXTINF:0,ITV Central West HD
+http://185.22.78.73:9005/play/a005
+#EXTINF:0,Channel 4 HD
+http://185.22.78.73:9006/play/a003
+#EXTINF:0,4seven
+http://185.22.78.73:9006/play/a002
+#EXTINF:3000,movies4men
+http://185.22.78.73:9007/play/a002
+#EXTINF:0,mov4men+1
+http://185.22.78.73:9007/play/a003
+#EXTINF:0,Peace TV Urdu
+http://185.22.78.73:9007/play/a004
+#EXTINF:0,Newstalk
+http://185.22.78.73:9007/play/a008
+#EXTINF:0,More4
+http://185.22.78.73:9008/play/a003
+#EXTINF:0,E4
+http://185.22.78.73:9008/play/a002
+#EXTINF:0,E4+1
+http://185.22.78.73:9008/play/a006
+#EXTINF:0,Channel 4 +1
+http://185.22.78.73:9008/play/a005
+#EXTINF:0,The Vault
+http://185.22.78.73:9009/play/a007
+#EXTINF:0,Starz TV
+http://185.22.78.73:9009/play/a003
+#EXTINF:0,Scuzz
+http://185.22.78.73:9009/play/a008
+#EXTINF:0,True Ent
+http://185.22.78.73:9009/play/a00b
+#EXTINF:0,True Ent +1
+http://185.22.78.73:9009/play/a00e
+#EXTINF:0,Chart Show TV
+http://185.22.78.73:9009/play/a002
+#EXTINF:0,True Movies
+http://185.22.78.73:9009/play/a004
+#EXTINF:0,POP+1
+http://185.22.78.73:9009/play/a00d
+#EXTINF:0,tru TV
+http://185.22.78.73:9009/play/a00c
+#EXTINF:0,Kix
+http://185.22.78.73:9009/play/a00a
+#EXTINF:0,Chartshow Hits
+http://185.22.78.73:9009/play/a009
+#EXTINF:0,POP
+http://185.22.78.73:9009/play/a005
+#EXTINF:0,Tiny Pop
+http://185.22.78.73:9009/play/a006
+#EXTINF:0,CBS Drama
+http://185.22.78.73:9010/play/a002
+#EXTINF:0,horror channel
+http://185.22.78.73:9010/play/a003
+#EXTINF:0,CBS Action
+http://185.22.78.73:9010/play/a006
+#EXTINF:0,High Street TV 2
+http://185.22.78.73:9010/play/a00c
+#EXTINF:0,Psychic Today
+http://185.22.78.73:9010/play/a008
+#EXTINF:0,Babestation Blue
+http://185.22.78.73:9010/play/a004
+#EXTINF:0,CBS Reality
+http://185.22.78.73:9010/play/a005
+#EXTINF:0,CBS Reality+1
+http://185.22.78.73:9010/play/a009
+#EXTINF:0,horror ch+1
+http://185.22.78.73:9010/play/a00a
+#EXTINF:0,Lucky Star
+http://185.22.78.73:9010/play/a00b
+#EXTINF:0,S4C
+http://185.22.78.73:9010/play/a007
+#EXTINF:0,Food Netwrk+1
+http://185.22.78.73:9011/play/a00c
+#EXTINF:0,Food Network
+http://185.22.78.73:9011/play/a005
+#EXTINF:0,Dunya News
+http://185.22.78.73:9011/play/a009
+#EXTINF:0,New Vision +1
+http://185.22.78.73:9011/play/a00d
+#EXTINF:0,Gems TV
+http://185.22.78.73:9011/play/a00a
+#EXTINF:0,True Crime
+http://185.22.78.73:9011/play/a002
+#EXTINF:0,TV5 MONDE
+http://185.22.78.73:9011/play/a003
+#EXTINF:0,Babenation
+http://185.22.78.73:9011/play/a004
+#EXTINF:0,FRANCE Eng
+http://185.22.78.73:9011/play/a006
+#EXTINF:0,PBS America
+http://185.22.78.73:9011/play/a008
+#EXTINF:0,Craft Extra
+http://185.22.78.73:9011/play/a00b
+#EXTINF:0,YourTV
+http://185.22.78.73:9011/play/a007
+#EXTINF:3900,Channel 4 Northern Ireland
+http://185.22.78.73:9012/play/a006
+#EXTINF:0,Channel 4 South & East
+http://185.22.78.73:9012/play/a003
+#EXTINF:0,More4 +1
+http://185.22.78.73:9012/play/a00b
+#EXTINF:0,Channel 4 London
+http://185.22.78.73:9012/play/a002
+#EXTINF:0,4Music
+http://185.22.78.73:9012/play/a009
+#EXTINF:0,Film4 +1
+http://185.22.78.73:9012/play/a00a
+#EXTINF:0,Channel 4 Scotland
+http://185.22.78.73:9012/play/a007
+#EXTINF:0,Channel 4 North
+http://185.22.78.73:9012/play/a005
+#EXTINF:0,Channel 4 Midlands
+http://185.22.78.73:9012/play/a004
+#EXTINF:0,Film4
+http://185.22.78.73:9012/play/a008
+#EXTINF:0,Forces TV
+http://185.22.78.73:9013/play/a003
+#EXTINF:0,Challenge+1
+http://185.22.78.73:9013/play/a005
+#EXTINF:0,Challenge
+http://185.22.78.73:9013/play/a002
+#EXTINF:0,Drama
+http://185.22.78.73:9014/play/a003
+#EXTINF:0,Really
+http://185.22.78.73:9014/play/a004
+#EXTINF:0,YESTERDAY
+http://185.22.78.73:9014/play/a002
+#EXTINF:1800,Pick
+http://185.22.78.73:9015/play/a00i
+#EXTINF:0,Sky News
+http://185.22.78.73:9015/play/a00h
+#EXTINF:0,Box Hits
+http://185.22.78.73:9016/play/a002
+#EXTINF:0,Box Upfront
+http://185.22.78.73:9016/play/a006
+#EXTINF:0,Magic
+http://185.22.78.73:9016/play/a007
+#EXTINF:0,Kerrang!
+http://185.22.78.73:9016/play/a004
+#EXTINF:0,KISS
+http://185.22.78.73:9016/play/a005
+#EXTINF:0,The Box
+http://185.22.78.73:9016/play/a003
