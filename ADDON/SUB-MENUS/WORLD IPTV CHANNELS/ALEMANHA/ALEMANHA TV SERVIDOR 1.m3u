@@ -1,165 +1,77 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,DE: Sky Select HD 1
-http://194.88.104.81:8000/live/Santos/Santos/6367.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://194.88.104.81:8000/live/Santos/Santos/6366.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://194.88.104.81:8000/live/Santos/Santos/6365.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://194.88.104.81:8000/live/Santos/Santos/6364.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://194.88.104.81:8000/live/Santos/Santos/6363.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://194.88.104.81:8000/live/Santos/Santos/6362.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://194.88.104.81:8000/live/Santos/Santos/6361.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://194.88.104.81:8000/live/Santos/Santos/6360.ts
-#EXTINF:-1,DE: 13Street HD
-http://194.88.104.81:8000/live/Santos/Santos/6359.ts
-#EXTINF:-1,DE: 3SAT HD
-http://194.88.104.81:8000/live/Santos/Santos/6358.ts
-#EXTINF:-1,DE: Arte HD
-http://194.88.104.81:8000/live/Santos/Santos/6357.ts
-#EXTINF:-1,DE: Austria 24
-http://194.88.104.81:8000/live/Santos/Santos/6356.ts
-#EXTINF:-1,DE: AXN ACTION HD
-http://194.88.104.81:8000/live/Santos/Santos/6355.ts
-#EXTINF:-1,DE: BR HD
-http://194.88.104.81:8000/live/Santos/Santos/6354.ts
-#EXTINF:-1,DE: Das Erste
-http://194.88.104.81:8000/live/Santos/Santos/6353.ts
-#EXTINF:-1,DE: Deluxe Music
-http://194.88.104.81:8000/live/Santos/Santos/6352.ts
-#EXTINF:-1,DE: Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/6351.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://194.88.104.81:8000/live/Santos/Santos/6350.ts
-#EXTINF:-1,DE: Disney XD
-http://194.88.104.81:8000/live/Santos/Santos/6349.ts
-#EXTINF:-1,DE: DMAX
-http://194.88.104.81:8000/live/Santos/Santos/6348.ts
-#EXTINF:-1,DE: Euronews
-http://194.88.104.81:8000/live/Santos/Santos/6347.ts
-#EXTINF:-1,DE: Fox HD
-http://194.88.104.81:8000/live/Santos/Santos/6346.ts
-#EXTINF:-1,DE: HALLE TV
-http://194.88.104.81:8000/live/Santos/Santos/6345.ts
-#EXTINF:-1,DE: History HD
-http://194.88.104.81:8000/live/Santos/Santos/6344.ts
-#EXTINF:-1,DE: KABEL 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6343.ts
-#EXTINF:-1,DE: Kika HD
-http://194.88.104.81:8000/live/Santos/Santos/6342.ts
-#EXTINF:-1,DE: MAGDEBURG
-http://194.88.104.81:8000/live/Santos/Santos/6341.ts
-#EXTINF:-1,DE: N24 HD
-http://194.88.104.81:8000/live/Santos/Santos/6340.ts
-#EXTINF:-1,DE: Nat.Geo HD
-http://194.88.104.81:8000/live/Santos/Santos/6339.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://194.88.104.81:8000/live/Santos/Santos/6338.ts
-#EXTINF:-1,DE: N-TV
-http://194.88.104.81:8000/live/Santos/Santos/6337.ts
-#EXTINF:-1,DE: ORF 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6336.ts
-#EXTINF:-1,DE: ORF 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6335.ts
-#EXTINF:-1,DE: Pro 7 HD
-http://194.88.104.81:8000/live/Santos/Santos/6334.ts
-#EXTINF:-1,DE: RTL
-http://194.88.104.81:8000/live/Santos/Santos/6333.ts
-#EXTINF:-1,DE: RTL 2
-http://194.88.104.81:8000/live/Santos/Santos/6332.ts
-#EXTINF:-1,DE: RTL NITRO HD
-http://194.88.104.81:8000/live/Santos/Santos/6331.ts
-#EXTINF:-1,DE: RTL PASSION
-http://194.88.104.81:8000/live/Santos/Santos/6330.ts
-#EXTINF:-1,DE: RTL SUPER
-http://194.88.104.81:8000/live/Santos/Santos/6329.ts
-#EXTINF:-1,DE: Sat 1
-http://194.88.104.81:8000/live/Santos/Santos/6328.ts
-#EXTINF:-1,DE: SAT 1 Gold
-http://194.88.104.81:8000/live/Santos/Santos/6327.ts
-#EXTINF:-1,DE: SERVUS TV HD
-http://194.88.104.81:8000/live/Santos/Santos/6326.ts
-#EXTINF:-1,DE: Sixx HD
-http://194.88.104.81:8000/live/Santos/Santos/6325.ts
-#EXTINF:-1,DE: Sky Action
-http://194.88.104.81:8000/live/Santos/Santos/6324.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://194.88.104.81:8000/live/Santos/Santos/6323.ts
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://194.88.104.81:8000/live/Santos/Santos/6322.ts
-#EXTINF:-1,DE: Sky Bundesliga 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6321.ts
-#EXTINF:-1,DE: Sky Bundesliga 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6320.ts
-#EXTINF:-1,DE: Sky Bundesliga 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6319.ts
-#EXTINF:-1,DE: Sky Bundesliga 4HD
-http://194.88.104.81:8000/live/Santos/Santos/6318.ts
-#EXTINF:-1,DE: Sky Bundesliga 5HD
-http://194.88.104.81:8000/live/Santos/Santos/6317.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://194.88.104.81:8000/live/Santos/Santos/6316.ts
-#EXTINF:-1,DE: Sky Bundesliga 9HD
-http://194.88.104.81:8000/live/Santos/Santos/6315.ts
-#EXTINF:-1,DE: Sky Cinema
-http://194.88.104.81:8000/live/Santos/Santos/6314.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://194.88.104.81:8000/live/Santos/Santos/6313.ts
-#EXTINF:-1,DE: Sky Cinema + 24
-http://194.88.104.81:8000/live/Santos/Santos/6312.ts
-#EXTINF:-1,DE: Sky Comedy
-http://194.88.104.81:8000/live/Santos/Santos/6311.ts
-#EXTINF:-1,DE: Sky Discovery HD
-http://194.88.104.81:8000/live/Santos/Santos/6310.ts
-#EXTINF:-1,DE: Sky Emotion
-http://194.88.104.81:8000/live/Santos/Santos/6309.ts
-#EXTINF:-1,DE: Sky Hits
-http://194.88.104.81:8000/live/Santos/Santos/6308.ts
-#EXTINF:-1,DE: Sky Krimi
-http://194.88.104.81:8000/live/Santos/Santos/6307.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://194.88.104.81:8000/live/Santos/Santos/6306.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6291.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://194.88.104.81:8000/live/Santos/Santos/6304.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://194.88.104.81:8000/live/Santos/Santos/6303.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://194.88.104.81:8000/live/Santos/Santos/6305.ts
-#EXTINF:-1,DE: Sky Sport News
-http://194.88.104.81:8000/live/Santos/Santos/6290.ts
-#EXTINF:-1,DE: Sport1
-http://194.88.104.81:8000/live/Santos/Santos/6302.ts
-#EXTINF:-1,DE: Sport1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6301.ts
-#EXTINF:-1,DE: SWR HD
-http://194.88.104.81:8000/live/Santos/Santos/6300.ts
-#EXTINF:-1,DE: Syfy HD
-http://194.88.104.81:8000/live/Santos/Santos/6299.ts
-#EXTINF:-1,DE: VOX HD
-http://194.88.104.81:8000/live/Santos/Santos/6298.ts
-#EXTINF:-1,DE: ZDF HD
-http://194.88.104.81:8000/live/Santos/Santos/6297.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://194.88.104.81:8000/live/Santos/Santos/6296.ts
-#EXTINF:-1,DE: ZDF Kultur
-http://194.88.104.81:8000/live/Santos/Santos/6295.ts
-#EXTINF:-1,DE: ZDF Neo HD
-http://194.88.104.81:8000/live/Santos/Santos/6294.ts
-#EXTINF:-1,DE: Classica
-http://194.88.104.81:8000/live/Santos/Santos/6293.ts
-#EXTINF:-1,DE: MGM
-http://194.88.104.81:8000/live/Santos/Santos/6292.ts
-#EXTINF:-1,DE: TNT Serie
-http://194.88.104.81:8000/live/Santos/Santos/6289.ts
-#EXTINF:-1,DE: WDR
-http://194.88.104.81:8000/live/Santos/Santos/6288.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,3SAT
+http://185.53.163.214:9401
+#EXTINF:-1,KIKA
+http://185.53.163.214:2402
+#EXTINF:-1,Nat Geo
+http://185.53.163.214:9500
+#EXTINF:-1,Discovery
+http://185.53.163.214:9501
+#EXTINF:-1,Discovery
+http://185.53.163.214:9502
+#EXTINF:-1,Sky Cinema
+http://185.53.163.214:9503
+#EXTINF:-1,Sky Cinema
+http://185.53.163.214:9504
+#EXTINF:-1,Sky Sport 1
+http://185.53.163.214:9505
+#EXTINF:-1,Sky Sport 1
+http://185.53.163.214:9506
+#EXTINF:-1,Sky Cinema
+http://185.53.163.214:9507
+#EXTINF:-1,RTL
+http://185.53.163.214:9600
+#EXTINF:-1,RTL2
+http://185.53.163.214:9601
+#EXTINF:-1,Super RTL
+http://185.53.163.214:9602
+#EXTINF:-1,VOX
+http://185.53.163.214:9603
+#EXTINF:-1,RTL Nitro
+http://185.53.163.214:9604
+#EXTINF:-1,n-tv
+http://185.53.163.214:9605
+#EXTINF:-1,TLC
+http://185.53.163.214:9700
+#EXTINF:-1,Sixx
+http://185.53.163.214:9701
+#EXTINF:-1,Disney
+http://185.53.163.214:9702
+#EXTINF:-1,Sat1
+http://185.53.163.214:9800
+#EXTINF:-1,PRO7
+http://185.53.163.214:9801
+#EXTINF:-1,Kabel eins
+http://185.53.163.214:9802
+#EXTINF:-1,Sat1 Gold
+http://185.53.163.214:9803
