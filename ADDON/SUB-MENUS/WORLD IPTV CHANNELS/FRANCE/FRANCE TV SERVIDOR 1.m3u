@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -10,193 +10,127 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR: TF1 HD
-http://194.88.104.81:8000/live/Santos/Santos/6399.ts
-#EXTINF:-1,FR: France 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6423.ts
-#EXTINF:-1,FR: France 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6422.ts
-#EXTINF:-1,FR: France 4HD
-http://194.88.104.81:8000/live/Santos/Santos/6421.ts
-#EXTINF:-1,FR: France 5HD
-http://194.88.104.81:8000/live/Santos/Santos/6420.ts
-#EXTINF:-1,FR: M6
-http://194.88.104.81:8000/live/Santos/Santos/6415.ts
-#EXTINF:-1,FR: Arte
-http://194.88.104.81:8000/live/Santos/Santos/6392.ts
-#EXTINF:-1,FR: C8
-http://194.88.104.81:8000/live/Santos/Santos/6438.ts
-#EXTINF:-1,FR: W9
-http://194.88.104.81:8000/live/Santos/Santos/6368.ts
-#EXTINF:-1,FR: TMC HD
-http://194.88.104.81:8000/live/Santos/Santos/6397.ts
-#EXTINF:-1,FR: NT1
-http://194.88.104.81:8000/live/Santos/Santos/6411.ts
-#EXTINF:-1,FR: NRJ12
-http://194.88.104.81:8000/live/Santos/Santos/6412.ts
-#EXTINF:-1,FR: LCP HD
-http://194.88.104.81:8000/live/Santos/Santos/6935.ts
-#EXTINF:-1,FR: LCI HD
-http://194.88.104.81:8000/live/Santos/Santos/6934.ts
-#EXTINF:-1,FR: BFM
-http://194.88.104.81:8000/live/Santos/Santos/6440.ts
-#EXTINF:-1,FR: LA UNE HD
-http://194.88.104.81:8000/live/Santos/Santos/6416.ts
-#EXTINF:-1,FR: Ushuaa
-http://194.88.104.81:8000/live/Santos/Santos/6369.ts
-#EXTINF:-1,FR: Gulli
-http://194.88.104.81:8000/live/Santos/Santos/6377.ts
-#EXTINF:-1,FR: France Ô HD
-http://194.88.104.81:8000/live/Santos/Santos/6419.ts
-#EXTINF:-1,FR: D8
-http://194.88.104.81:8000/live/Santos/Santos/6430.ts
-#EXTINF:-1,FR: L'equipe 21 HD
-http://194.88.104.81:8000/live/Santos/Santos/6417.ts
-#EXTINF:-1,FR: L'équipe 21
-http://194.88.104.81:8000/live/Santos/Santos/6376.ts
-#EXTINF:-1,FR: Syfy
-http://194.88.104.81:8000/live/Santos/Santos/6370.ts
-#EXTINF:-1,FR: Mangas
-http://194.88.104.81:8000/live/Santos/Santos/6936.ts
-#EXTINF:-1,FR: MANGAS HD
-http://194.88.104.81:8000/live/Santos/Santos/6937.ts
-#EXTINF:-1,FR: TV BREIZH HD
-http://194.88.104.81:8000/live/Santos/Santos/6941.ts
-#EXTINF:-1,FR: TV5
-http://194.88.104.81:8000/live/Santos/Santos/6396.ts
+#EXTINF:-1,FR: SFR SPORT 1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/9248.ts
+#EXTINF:-1,FR: SFR SPORT 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/9247.ts
+#EXTINF:-1,FR: SFR SPORT 3
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/9246.ts
+#EXTINF:-1,FR:  SFR Sport 5 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/9245.ts
+#EXTINF:-1,FR:  Cine horreur HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6321.ts
+#EXTINF:-1,FR: 13eme Rue HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6342.ts
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6272.ts
+#EXTINF:-1,FR: A LA CARTE 11 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6263.ts
+#EXTINF:-1,FR: A LA CARTE 12 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6262.ts
+#EXTINF:-1,FR: A LA CARTE 13 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6261.ts
+#EXTINF:-1,FR: A LA CARTE 14 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6260.ts
+#EXTINF:-1,FR: A LA CARTE 15 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6259.ts
+#EXTINF:-1,FR: A LA CARTE 16 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6258.ts
+#EXTINF:-1,FR: A LA CARTE 17 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6257.ts
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6271.ts
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6270.ts
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6269.ts
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6268.ts
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6267.ts
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6266.ts
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6265.ts
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6264.ts
+#EXTINF:-1,FR: AB1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6352.ts
 #EXTINF:-1,FR: Action
-http://194.88.104.81:8000/live/Santos/Santos/6394.ts
-#EXTINF:-1,FR: Paris Première
-http://194.88.104.81:8000/live/Santos/Santos/6373.ts
-#EXTINF:-1,FR: TEVA HD
-http://194.88.104.81:8000/live/Santos/Santos/6400.ts
-#EXTINF:-1,FR: RTL 9
-http://194.88.104.81:8000/live/Santos/Santos/6372.ts
-#EXTINF:-1,FR: 13 eme Rue
-http://194.88.104.81:8000/live/Santos/Santos/6395.ts
-#EXTINF:-1,FR: TIJI
-http://194.88.104.81:8000/live/Santos/Santos/6398.ts
-#EXTINF:-1,FR: Planète +
-http://194.88.104.81:8000/live/Santos/Santos/6408.ts
-#EXTINF:-1,FR: Planete + A&E
-http://194.88.104.81:8000/live/Santos/Santos/6407.ts
-#EXTINF:-1,FR: Planète + CI
-http://194.88.104.81:8000/live/Santos/Santos/6406.ts
-#EXTINF:-1,FR: NAT GEO WILD
-http://194.88.104.81:8000/live/Santos/Santos/6414.ts
-#EXTINF:-1,FR: National Geographic
-http://194.88.104.81:8000/live/Santos/Santos/6413.ts
-#EXTINF:-1,FR: SCIENCES & VIE TV
-http://194.88.104.81:8000/live/Santos/Santos/6405.ts
-#EXTINF:-1,FR: Discovery
-http://194.88.104.81:8000/live/Santos/Santos/6380.ts
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6340.ts
 #EXTINF:-1,FR: Animaux
-http://194.88.104.81:8000/live/Santos/Santos/6393.ts
-#EXTINF:-1,FR: Boomerang
-http://194.88.104.81:8000/live/Santos/Santos/6391.ts
-#EXTINF:-1,FR: Chasse & Pêche
-http://194.88.104.81:8000/live/Santos/Santos/6384.ts
-#EXTINF:-1,FR: Series Club HD
-http://194.88.104.81:8000/live/Santos/Santos/6371.ts
-#EXTINF:-1,FR: BOING HD
-http://194.88.104.81:8000/live/Santos/Santos/6439.ts
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6251.ts
+#EXTINF:-1,FR: Arte
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6252.ts
+#EXTINF:-1,FR: Boing HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6300.ts
+#EXTINF:-1,FR: Boomerang HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6301.ts
+#EXTINF:-1,FR: BoxOffice 1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6290.ts
+#EXTINF:-1,FR: BoxOffice 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6289.ts
+#EXTINF:-1,FR: Canal  Cinema HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6336.ts
+#EXTINF:-1,FR: Canal  Decale HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6334.ts
+#EXTINF:-1,FR: CANAL  FAMILY HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6335.ts
+#EXTINF:-1,FR: Canal  HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6339.ts
+#EXTINF:-1,FR: Canal  Series HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6333.ts
 #EXTINF:-1,FR: Canal J
-http://194.88.104.81:8000/live/Santos/Santos/6435.ts
-#EXTINF:-1,FR: Cartoon Network
-http://194.88.104.81:8000/live/Santos/Santos/6434.ts
-#EXTINF:-1,FR: Disney Channel
-http://194.88.104.81:8000/live/Santos/Santos/6379.ts
-#EXTINF:-1,FR: Disney Cinemagic
-http://194.88.104.81:8000/live/Santos/Santos/6429.ts
-#EXTINF:-1,FR: Disney Junior
-http://194.88.104.81:8000/live/Santos/Santos/6428.ts
-#EXTINF:-1,FR: Disney XD
-http://194.88.104.81:8000/live/Santos/Santos/6427.ts
-#EXTINF:-1,FR: Comdie +
-http://194.88.104.81:8000/live/Santos/Santos/6431.ts
-#EXTINF:-1,FR: TéléToon +
-http://194.88.104.81:8000/live/Santos/Santos/6401.ts
-#EXTINF:-1,FR: Canal +  HD
-http://194.88.104.81:8000/live/Santos/Santos/6437.ts
-#EXTINF:-1,FR: Canal + Decale
-http://194.88.104.81:8000/live/Santos/Santos/6390.ts
-#EXTINF:-1,FR: Canal + Family
-http://194.88.104.81:8000/live/Santos/Santos/6388.ts
-#EXTINF:-1,FR: Canal + Séries
-http://194.88.104.81:8000/live/Santos/Santos/6386.ts
-#EXTINF:-1,FR: Canal + Cinema
-http://194.88.104.81:8000/live/Santos/Santos/6436.ts
-#EXTINF:-1,FR: Canal + Sport
-http://194.88.104.81:8000/live/Santos/Santos/6385.ts
-#EXTINF:-1,FR: Cine + Emotion HD
-http://194.88.104.81:8000/live/Santos/Santos/6433.ts
-#EXTINF:-1,FR: Cine + Emotion
-http://194.88.104.81:8000/live/Santos/Santos/6389.ts
-#EXTINF:-1,FR: Cine + Premier HD
-http://194.88.104.81:8000/live/Santos/Santos/6432.ts
-#EXTINF:-1,FR: Cine + Premier
-http://194.88.104.81:8000/live/Santos/Santos/6387.ts
-#EXTINF:-1,FR: Cine + Classic HD
-http://194.88.104.81:8000/live/Santos/Santos/6383.ts
-#EXTINF:-1,FR: Cine + Famiz HD
-http://194.88.104.81:8000/live/Santos/Santos/6382.ts
-#EXTINF:-1,FR: Cine + Frisson
-http://194.88.104.81:8000/live/Santos/Santos/6381.ts
-#EXTINF:-1,FR: Paramount Channel
-http://194.88.104.81:8000/live/Santos/Santos/6938.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://194.88.104.81:8000/live/Santos/Santos/6939.ts
-#EXTINF:-1,FR: TCM CINEMA HD
-http://194.88.104.81:8000/live/Santos/Santos/6940.ts
-#EXTINF:-1,FR: OCS City
-http://194.88.104.81:8000/live/Santos/Santos/6410.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://194.88.104.81:8000/live/Santos/Santos/6409.ts
-#EXTINF:-1,FR: OCS Max HD
-http://194.88.104.81:8000/live/Santos/Santos/6375.ts
-#EXTINF:-1,FR: OSC CHOC HD
-http://194.88.104.81:8000/live/Santos/Santos/6374.ts
-#EXTINF:-1,FR: E! ENTERTAINMENT
-http://194.88.104.81:8000/live/Santos/Santos/6426.ts
-#EXTINF:-1,FR: Foot +
-http://194.88.104.81:8000/live/Santos/Santos/6424.ts
-#EXTINF:-1,FR: InfoSport +
-http://194.88.104.81:8000/live/Santos/Santos/6418.ts
-#EXTINF:-1,FR: Eurosport 1
-http://194.88.104.81:8000/live/Santos/Santos/6425.ts
-#EXTINF:-1,FR: Eurosport 2
-http://194.88.104.81:8000/live/Santos/Santos/6378.ts
-#EXTINF:-1,FR: SFR 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6404.ts
-#EXTINF:-1,FR: SFR 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6403.ts
-#EXTINF:-1,FR: SFR 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6402.ts
-#EXTINF:-1,FR: BeinSports 1HD
-http://194.88.104.81:8000/live/Santos/Santos/6443.ts
-#EXTINF:-1,FR: BeinSports 2HD
-http://194.88.104.81:8000/live/Santos/Santos/6442.ts
-#EXTINF:-1,FR: BeinSports 3HD
-http://194.88.104.81:8000/live/Santos/Santos/6441.ts
-#EXTINF:-1,FR: BeIN Sports Max 4
-http://194.88.104.81:8000/live/Santos/Santos/6928.ts
-#EXTINF:-1,FR: BeIN Sports Max 5
-http://194.88.104.81:8000/live/Santos/Santos/6929.ts
-#EXTINF:-1,FR: BeIN Sports Max 6
-http://194.88.104.81:8000/live/Santos/Santos/6930.ts
-#EXTINF:-1,FR: BeIN Sports Max 7
-http://194.88.104.81:8000/live/Santos/Santos/6931.ts
-#EXTINF:-1,FR: BeIN Sports Max 8
-http://194.88.104.81:8000/live/Santos/Santos/6932.ts
-#EXTINF:-1,FR: BeIN Sports Max 9
-http://194.88.104.81:8000/live/Santos/Santos/6933.ts
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6311.ts
+#EXTINF:-1,FR: CANAL PLAY 1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6288.ts
+#EXTINF:-1,FR: CANAL PLAY 10
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6278.ts
+#EXTINF:-1,FR: CANAL PLAY 11
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6277.ts
+#EXTINF:-1,FR: Euronews fr
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6348.ts
+#EXTINF:-1,FR: Foot   24 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6240.ts
+#EXTINF:-1,FR: France 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6357.ts
+#EXTINF:-1,FR: France 24 News
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6349.ts
+#EXTINF:-1,FR: France 3 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6356.ts
+#EXTINF:-1,FR: France 4 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6355.ts
+#EXTINF:-1,FR: France 5 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6354.ts
+#EXTINF:-1,FR: France O
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6358.ts
+#EXTINF:-1,FR: TeleToon
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6309.ts
+#EXTINF:-1,FR: TF1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6351.ts
+#EXTINF:-1,FR: TIJI
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6310.ts
+#EXTINF:-1,FR: TMC
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6341.ts
+#EXTINF:-1,FR: W9 Music
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6350.ts
+#EXTINF:-1,FR: ZOUZOU TV (petite)
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6312.ts
+#EXTINF:-1,FR: TV5MONDE
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8287.ts
+#EXTINF:-1,FR:Cine Action HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6322.ts
+#EXTINF:-1,FR:Cine Comedie HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6324.ts
+#EXTINF:-1,FR: Alsace20
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8292.ts
+#EXTINF:-1,FR: Gong
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8290.ts
+#EXTINF:-1,FR: MONACO INFOS
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8291.ts
+#EXTINF:-1,FR: TElE Sambre
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8288.ts
+#EXTINF:-1,FR: TV Lux
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8289.ts
+#EXTINF:-1,FR: WEO HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8293.ts

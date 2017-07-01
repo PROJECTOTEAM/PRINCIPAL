@@ -87,423 +87,357 @@ http://185.62.86.6:8081/hls/my5.m3u8
 
 
 
-
-
-
-
-#EXTM3U
-#EXTINF:-1,BBC One
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/42.ts
-#EXTINF:-1,BBC Two
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/43.ts
-#EXTINF:-1,BBC Four
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/585.ts
-#EXTINF:-1,BBC Alba
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1005.ts
-#EXTINF:-1,Channel 4 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/44.ts
-#EXTINF:-1,Channel 5 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/45.ts
-#EXTINF:-1,iTV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/53.ts
-#EXTINF:-1,iTV 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/52.ts
-#EXTINF:-1,iTV 3
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/54.ts
-#EXTINF:-1,iTV 4
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/51.ts
-#EXTINF:-1,iTVBe
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/50.ts
-#EXTINF:-1,iTV Encore
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/446.ts
-#EXTINF:-1,My5
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/592.ts
-#EXTINF:-1,Pick
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/569.ts
-#EXTINF:-1,Sky One
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/487.ts
-#EXTINF:-1,Sky Two
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/488.ts
-#EXTINF:-1,RTÉ One
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/49.ts
-#EXTINF:-1,RTÉ Two
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/48.ts
-#EXTINF:-1,TV3
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1127.ts
-#EXTINF:-1,TG4
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1029.ts
-#EXTINF:-1,Really
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/570.ts
-#EXTINF:-1,Yesterday
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/586.ts
-#EXTINF:-1,E!
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/46.ts
-#EXTINF:-1,E4
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/47.ts
-#EXTINF:-1,Lifetime
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/280.ts
-#EXTINF:-1,5Star
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/459.ts
-#EXTINF:-1,5USA
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/460.ts
-#EXTINF:-1,Vintage TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1140.ts
-#EXTINF:-1,Quest
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/279.ts
-#EXTINF:-1,Gold
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/479.ts
-#EXTINF:-1,Comedy Central
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1133.ts
-#EXTINF:-1,Comedy Central Extra
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1134.ts
-#EXTINF:-1,Dave
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1135.ts
-#EXTINF:-1,Fox
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1137.ts
-#EXTINF:-1,TLC
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/278.ts
-#EXTINF:-1,CBS Action
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/315.ts
-#EXTINF:-1,CBS Drama
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/313.ts
-#EXTINF:-1,CBS Reality
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/314.ts
-#EXTINF:-1,Horror Channel
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/482.ts
+#EXTINF:-1,ITV
+http://s1.iptv66.tv/live/1870256194682/1870256194682/170.ts
+#EXTINF:-1,ITV 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/106.ts
+#EXTINF:-1,ITV 3
+http://s1.iptv66.tv/live/1870256194682/1870256194682/268.ts
+#EXTINF:-1,ITV 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/269.ts
+#EXTINF:-1,TG 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/270.ts
+#EXTINF:-1,4 Seven
+http://s1.iptv66.tv/live/1870256194682/1870256194682/291.ts
+#EXTINF:-1,Channel 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/271.ts
+#EXTINF:-1,Channel 5
+http://s1.iptv66.tv/live/1870256194682/1870256194682/272.ts
+#EXTINF:-1,SKY Living
+http://s1.iptv66.tv/live/1870256194682/1870256194682/273.ts
 #EXTINF:-1,Watch
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/292.ts
-#EXTINF:-1,Challenge
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/596.ts
-#EXTINF:-1,tru TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/590.ts
-#EXTINF:-1,=-=-=-= PAY PER VIEW =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/566.ts
-#EXTINF:-1,BOX OFFICE HD 1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/463.ts
-#EXTINF:-1,BOX OFFICE HD 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/464.ts
-#EXTINF:-1,BOX OFFICE HD 3
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/466.ts
-#EXTINF:-1,BOX OFFICE 3D
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/465.ts
-#EXTINF:-1,Sky Sports BoxOff ( ppv events Only )
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/9.ts
-#EXTINF:-1,Box Nation
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/21.ts
-#EXTINF:-1,=-=-=-= UK LIFESTYLE&CULTURE =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/294.ts
-#EXTINF:-1,Sky Arts 1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/274.ts
-#EXTINF:-1,Home & Health
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/316.ts
-#EXTINF:-1,Food Network
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/477.ts
-#EXTINF:-1,Travel Channel
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/277.ts
-#EXTINF:-1,Travel Channel +1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1009.ts
-#EXTINF:-1,Discovery Shed
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/471.ts
-#EXTINF:-1,=-= UK CINEMA =-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/276.ts
-#EXTINF:-1,Sky Atlantic HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/39.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/60.ts
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/58.ts
-#EXTINF:-1,Sky Movies Premiere
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/299.ts
-#EXTINF:-1,Sky Cinema Family
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/59.ts
-#EXTINF:-1,Sky Movies Crime & Thriller
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/63.ts
-#EXTINF:-1,Sky Movies Comedy HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1030.ts
-#EXTINF:-1,Sky Movies Greats
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/61.ts
-#EXTINF:-1,Sky Movies ScFi/Horror
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/62.ts
-#EXTINF:-1,Sky Movies Select
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1031.ts
-#EXTINF:-1,Sky Movies Disney
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/438.ts
-#EXTINF:-1,True Movies
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1013.ts
-#EXTINF:-1,True Movies +1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1014.ts
-#EXTINF:-1,Mov4men
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/568.ts
-#EXTINF:-1,Movies 24+
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/567.ts
-#EXTINF:-1,Universal Channel
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/589.ts
-#EXTINF:-1,Drama
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/474.ts
-#EXTINF:-1,AMC
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1131.ts
+http://s1.iptv66.tv/live/1870256194682/1870256194682/274.ts
+#EXTINF:-1,Gold
+http://s1.iptv66.tv/live/1870256194682/1870256194682/275.ts
+#EXTINF:-1,Dave
+http://s1.iptv66.tv/live/1870256194682/1870256194682/276.ts
+#EXTINF:-1,SKY One
+http://s1.iptv66.tv/live/1870256194682/1870256194682/277.ts
+#EXTINF:-1,SKY Atlantic
+http://s1.iptv66.tv/live/1870256194682/1870256194682/278.ts
+#EXTINF:-1,E4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/279.ts
 #EXTINF:-1,More 4
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1136.ts
-#EXTINF:-1,TCM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1138.ts
-#EXTINF:-1,SyFy
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/489.ts
-#EXTINF:-1,=-=-=-= UK DOCUMENTARIES =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/297.ts
-#EXTINF:-1,ID
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/483.ts
-#EXTINF:-1,Animal Planet
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/456.ts
-#EXTINF:-1,Discovery History
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/312.ts
-#EXTINF:-1,Discovery Channel
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/457.ts
-#EXTINF:-1,Discovery Science
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/317.ts
-#EXTINF:-1,Discovery Turbo
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/318.ts
-#EXTINF:-1,Dmax
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/473.ts
-#EXTINF:-1,National Geographic
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/305.ts
-#EXTINF:-1,NAT GEO Wild
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/445.ts
-#EXTINF:-1,Crime+Investigation
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/559.ts
-#EXTINF:-1,History
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/480.ts
-#EXTINF:-1,=-=-=-= UK MUSIC =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/296.ts
-#EXTINF:-1,Heart TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/481.ts
-#EXTINF:-1,ClubLand
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/303.ts
-#EXTINF:-1,4Music
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/458.ts
-#EXTINF:-1,MTV Base
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/300.ts
-#EXTINF:-1,MTV Classic
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/485.ts
-#EXTINF:-1,MTV Hits
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1016.ts
+http://s1.iptv66.tv/live/1870256194682/1870256194682/280.ts
+#EXTINF:-1,Challenge
+http://s1.iptv66.tv/live/1870256194682/1870256194682/281.ts
+#EXTINF:-1,Pick
+http://s1.iptv66.tv/live/1870256194682/1870256194682/171.ts
+#EXTINF:-1,5 Star
+http://s1.iptv66.tv/live/1870256194682/1870256194682/283.ts
+#EXTINF:-1,RTE ONE
+http://s1.iptv66.tv/live/1870256194682/1870256194682/172.ts
+#EXTINF:-1,RTE TWO
+http://s1.iptv66.tv/live/1870256194682/1870256194682/173.ts
+#EXTINF:-1,BBC ONE
+http://s1.iptv66.tv/live/1870256194682/1870256194682/176.ts
+#EXTINF:-1,BBC TWO
+http://s1.iptv66.tv/live/1870256194682/1870256194682/247.ts
+#EXTINF:-1,BBC Four
+http://s1.iptv66.tv/live/1870256194682/1870256194682/285.ts
+#EXTINF:-1,ITV Be
+http://s1.iptv66.tv/live/1870256194682/1870256194682/295.ts
+#EXTINF:-1,5 USA
+http://s1.iptv66.tv/live/1870256194682/1870256194682/284.ts
+#EXTINF:-1,USA Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/5.ts
+#EXTINF:-1,TV Land HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/360.ts
+#EXTINF:-1,Comedy Central East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/17.ts
+#EXTINF:-1,Lifetime East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/127.ts
+#EXTINF:-1,Lifetime Movie Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/391.ts
+#EXTINF:-1,True Drama
+http://s1.iptv66.tv/live/1870256194682/1870256194682/286.ts
+#EXTINF:-1,Good Food
+http://s1.iptv66.tv/live/1870256194682/1870256194682/248.ts
+#EXTINF:-1,Food Network East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/10.ts
+#EXTINF:-1,Cooking Channel HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/368.ts
+#EXTINF:-1,E! HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/234.ts
+#EXTINF:-1,HGTV East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/336.ts
+#EXTINF:-1,DIY Network USA HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/27.ts
+#EXTINF:-1,Drama
+http://s1.iptv66.tv/live/1870256194682/1870256194682/287.ts
+#EXTINF:-1,A&E East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/146.ts
+#EXTINF:-1,H2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/289.ts
+#EXTINF:-1,History HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/15.ts
+#EXTINF:-1,Really
+http://s1.iptv66.tv/live/1870256194682/1870256194682/30.ts
+#EXTINF:-1,Syfy HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/361.ts
+#EXTINF:-1,TLC
+http://s1.iptv66.tv/live/1870256194682/1870256194682/47.ts
+#EXTINF:-1,Alibi
+http://s1.iptv66.tv/live/1870256194682/1870256194682/296.ts
+#EXTINF:-1,Reelz Channel HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/208.ts
+#EXTINF:-1,Oxygen HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/16.ts
+#EXTINF:-1,WE TV
+http://s1.iptv66.tv/live/1870256194682/1870256194682/14.ts
+#EXTINF:-1,Bravo East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/318.ts
+#EXTINF:-1,CBS Action
+http://s1.iptv66.tv/live/1870256194682/1870256194682/245.ts
+#EXTINF:-1,AMC East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/163.ts
+#EXTINF:-1,TCM US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/169.ts
+#EXTINF:-1,FOX
+http://s1.iptv66.tv/live/1870256194682/1870256194682/107.ts
+#EXTINF:-1,BBC America HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/21.ts
+#EXTINF:-1,FX East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/147.ts
+#EXTINF:-1,itv ENCORE +1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/29.ts
+#EXTINF:-1,TNT HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/137.ts
+#EXTINF:-1,TBS East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/131.ts
+#EXTINF:-1,ESPN US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/129.ts
+#EXTINF:-1,ESPNU HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/138.ts
+#EXTINF:-1,ESPNews US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/239.ts
+#EXTINF:-1,ESPN 2 US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/240.ts
+#EXTINF:-1,SKY Sports News
+http://s1.iptv66.tv/live/1870256194682/1870256194682/31.ts
+#EXTINF:-1,TSN 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/375.ts
+#EXTINF:-1,TSN 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/376.ts
+#EXTINF:-1,TSN 3
+http://s1.iptv66.tv/live/1870256194682/1870256194682/377.ts
+#EXTINF:-1,TSN 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/378.ts
+#EXTINF:-1,TSN 5
+http://s1.iptv66.tv/live/1870256194682/1870256194682/379.ts
+#EXTINF:-1,Fox Sports 1 US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/28.ts
+#EXTINF:-1,Fox Sports 2 US HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/168.ts
+#EXTINF:-1,MLB Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/22.ts
+#EXTINF:-1,NFL Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/149.ts
+#EXTINF:-1,Fighting Sports Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/367.ts
+#EXTINF:-1,NBA TV HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/236.ts
+#EXTINF:-1,NHL Network USA HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/23.ts
+#EXTINF:-1,CBS Sports Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/242.ts
+#EXTINF:-1,NBC Sport Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/335.ts
+#EXTINF:-1,WWE Network
+http://s1.iptv66.tv/live/1870256194682/1870256194682/395.ts
+#EXTINF:-1,MAV tv
+http://s1.iptv66.tv/live/1870256194682/1870256194682/366.ts
+#EXTINF:-1,Spike TV HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/292.ts
+#EXTINF:-1,Tru TV East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/219.ts
+#EXTINF:-1,WGN America HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/220.ts
+#EXTINF:-1,FXX East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/233.ts
+#EXTINF:-1,Universal Channel
+http://s1.iptv66.tv/live/1870256194682/1870256194682/405.ts
+#EXTINF:-1,Ovation HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/237.ts
+#EXTINF:-1,Crime & Investigation Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/124.ts
+#EXTINF:-1,ION Television East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/321.ts
+#EXTINF:-1,HBO East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/301.ts
+#EXTINF:-1,HBO 2 East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/12.ts
+#EXTINF:-1,HBO Signature East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/128.ts
+#EXTINF:-1,HBO West HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/302.ts
+#EXTINF:-1,HBO 2 West HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/164.ts
+#EXTINF:-1,HBO Family East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/293.ts
+#EXTINF:-1,HBO Comedy East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/148.ts
+#EXTINF:-1,HBO Zone HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/130.ts
+#EXTINF:-1,Cinemax East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/125.ts
+#EXTINF:-1,Cinemax West HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/126.ts
+#EXTINF:-1,ActionMax East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/232.ts
+#EXTINF:-1,5 StarMax HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/319.ts
+#EXTINF:-1,ThrillerMax East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/262.ts
+#EXTINF:-1,Showtime East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/3.ts
+#EXTINF:-1,Showtime West HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/132.ts
+#EXTINF:-1,Showtime 2 East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/133.ts
+#EXTINF:-1,Showtime Showcase East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/162.ts
+#EXTINF:-1,Showtime Extreme East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/134.ts
+#EXTINF:-1,Showtime Beyond East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/135.ts
+#EXTINF:-1,Showtime Next HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/165.ts
+#EXTINF:-1,The Movie Channel East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/9.ts
+#EXTINF:-1,The Movie Channel Xtra East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/136.ts
+#EXTINF:-1,Encore East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/11.ts
+#EXTINF:-1,Encore Westerns
+http://s1.iptv66.tv/live/1870256194682/1870256194682/363.ts
+#EXTINF:-1,Encore Action East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/320.ts
+#EXTINF:-1,Starz East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/8.ts
+#EXTINF:-1,Starz West HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/139.ts
+#EXTINF:-1,Starz Edge East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/140.ts
+#EXTINF:-1,Starz Cinema East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/141.ts
+#EXTINF:-1,Starz Comedy East
+http://s1.iptv66.tv/live/1870256194682/1870256194682/142.ts
+#EXTINF:-1,Starz In Black East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/143.ts
+#EXTINF:-1,Starz Kids & Family East HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/166.ts
+#EXTINF:-1,SKY Premiere
+http://s1.iptv66.tv/live/1870256194682/1870256194682/35.ts
+#EXTINF:-1,SKY Modern Greats
+http://s1.iptv66.tv/live/1870256194682/1870256194682/112.ts
+#EXTINF:-1,SKY Disney
+http://s1.iptv66.tv/live/1870256194682/1870256194682/36.ts
+#EXTINF:-1,SKY Family
+http://s1.iptv66.tv/live/1870256194682/1870256194682/37.ts
+#EXTINF:-1,SKY Action & Adventure
+http://s1.iptv66.tv/live/1870256194682/1870256194682/38.ts
+#EXTINF:-1,SKY Comedy
+http://s1.iptv66.tv/live/1870256194682/1870256194682/39.ts
+#EXTINF:-1,SKY Crime & Thriller
+http://s1.iptv66.tv/live/1870256194682/1870256194682/40.ts
+#EXTINF:-1,SKY Movies Drama
+http://s1.iptv66.tv/live/1870256194682/1870256194682/113.ts
+#EXTINF:-1,SKY Scifi & Horror
+http://s1.iptv66.tv/live/1870256194682/1870256194682/41.ts
+#EXTINF:-1,SKY Select
+http://s1.iptv66.tv/live/1870256194682/1870256194682/42.ts
+#EXTINF:-1,True Movies 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/123.ts
+#EXTINF:-1,True Movies 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/114.ts
+#EXTINF:-1,Movies 24
+http://s1.iptv66.tv/live/1870256194682/1870256194682/115.ts
+#EXTINF:-1,Film 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/110.ts
 #EXTINF:-1,MTV Live HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/486.ts
-#EXTINF:-1,MTV Rocks
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1015.ts
-#EXTINF:-1,MTV Dance
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/301.ts
-#EXTINF:-1,MTV Music
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/302.ts
-#EXTINF:-1,VH1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1139.ts
-#EXTINF:-1,Scuzz
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1142.ts
-#EXTINF:-1,The Vault
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1141.ts
-#EXTINF:-1,=-=-=-= UK NEWS =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/295.ts
-#EXTINF:-1,Al Jazeera News HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/552.ts
-#EXTINF:-1,BBC Parliament
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/555.ts
-#EXTINF:-1,Sky News
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/285.ts
-#EXTINF:-1,BBC News
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/462.ts
-#EXTINF:-1,EuroNews
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/476.ts
-#EXTINF:-1,Fox News US
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/478.ts
-#EXTINF:-1,CNN News
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/470.ts
-#EXTINF:-1,=-= KIDS =-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/298.ts
-#EXTINF:-1,Disney Junior
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/562.ts
-#EXTINF:-1,NickToons
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/560.ts
-#EXTINF:-1,RTEjr
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/561.ts
-#EXTINF:-1,Baby TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/307.ts
-#EXTINF:-1,Cartoon Network
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/556.ts
-#EXTINF:-1,KiX Cartoon
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/467.ts
-#EXTINF:-1,Nickelodeon
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/310.ts
-#EXTINF:-1,CBeebies
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/469.ts
-#EXTINF:-1,BoomeRang
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/306.ts
-#EXTINF:-1,Nick JR
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/308.ts
-#EXTINF:-1,Nick Jr +1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1132.ts
-#EXTINF:-1,Nick JR Too
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/309.ts
-#EXTINF:-1,Disney XD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/472.ts
-#EXTINF:-1,POP
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1032.ts
-#EXTINF:-1,Tiny POP
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1033.ts
-#EXTINF:-1,CiTV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/557.ts
-#EXTINF:-1,CBBC
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/468.ts
-#EXTINF:-1,=-= ASIAN =-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1125.ts
-#EXTINF:-1,SET ASIA
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1123.ts
-#EXTINF:-1,Sony Max
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1124.ts
-#EXTINF:-1,B4U Movies
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1126.ts
-#EXTINF:-1,ZEE Cinema HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1129.ts
-#EXTINF:-1,ZEE Punjabi
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1130.ts
-#EXTINF:-1,ZEE TV HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1128.ts
-#EXTINF:-1,=-=-=-= SPORT CHANNELS =-=-=-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/22.ts
-#EXTINF:-1,Sky Sports News HQ
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/7.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/2.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/3.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/5.ts
-#EXTINF:-1,Sky Sports 5 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/6.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/8.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/439.ts
-#EXTINF:-1,BT Sport 1 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/31.ts
-#EXTINF:-1,BT Sport 2 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/32.ts
-#EXTINF:-1,BT Sport 3 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/33.ts
-#EXTINF:-1,BT Sport ESPN
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/36.ts
-#EXTINF:-1,Premiere Sports
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/447.ts
-#EXTINF:-1,British Eurosport 1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1011.ts
-#EXTINF:-1,British Eurosport 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1012.ts
-#EXTINF:-1,EuroSport 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1010.ts
-#EXTINF:-1,Chelsea TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/304.ts
-#EXTINF:-1,LFC TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/443.ts
-#EXTINF:-1,MU TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/444.ts
-#EXTINF:-1,Racing UK
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/440.ts
-#EXTINF:-1,Eir Sport 1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/65.ts
-#EXTINF:-1,Eir Sport 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/475.ts
-#EXTINF:-1,MotorSport TV
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/484.ts
+http://s1.iptv66.tv/live/1870256194682/1870256194682/144.ts
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/145.ts
+#EXTINF:-1,Sony Movie Channel USA HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/167.ts
+#EXTINF:-1,Outdoor Channel
+http://s1.iptv66.tv/live/1870256194682/1870256194682/401.ts
+#EXTINF:-1,Tennis Channel HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/310.ts
+#EXTINF:-1,Golf Channel HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/235.ts
+#EXTINF:-1,Setanta Sports
+http://185.93.0.151:1935/live/setanta.stream/playlist.m3u8
 #EXTINF:-1,At The Races
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/288.ts
-#EXTINF:-1,BeinSports 1 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/12.ts
-#EXTINF:-1,BeinSports 2 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/13.ts
-#EXTINF:-1,BeinSports 3 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/14.ts
-#EXTINF:-1,BeinSports 4 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/15.ts
-#EXTINF:-1,BeinSports 5 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/16.ts
-#EXTINF:-1,BeinSports 6 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/17.ts
-#EXTINF:-1,BeinSports 7 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/18.ts
-#EXTINF:-1,BeinSports 8 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/19.ts
-#EXTINF:-1,BeinSports 9 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/20.ts
-#EXTINF:-1,BeinSports 10 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/11.ts
-#EXTINF:-1,BeinSports 11 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1006.ts
-#EXTINF:-1,TSN 1 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/23.ts
-#EXTINF:-1,TSN 2 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/25.ts
-#EXTINF:-1,TSN 3 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/26.ts
-#EXTINF:-1,TSN 4 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/441.ts
-#EXTINF:-1,TSN 5 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/442.ts
-#EXTINF:-1,Fox Sports 1 HD US
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/29.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/30.ts
-
-#EXTINF:-1,=-= UK RADIO =-=
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1043.ts
-#EXTINF:-1,3FM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1045.ts
-#EXTINF:-1,BBC Radio 1
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1042.ts
-#EXTINF:-1,BBC Radio 3
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1049.ts
-#EXTINF:-1,BBC Radio 4 Extra
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1050.ts
-#EXTINF:-1,BBC Radio Berkshire
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1053.ts
-#EXTINF:-1,BBC Radio Bristol
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1054.ts
-#EXTINF:-1,BBC Radio Cornwall
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1055.ts
-#EXTINF:-1,BBC Radio Gloucestershire
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1056.ts
-#EXTINF:-1,BBC Radio Guernsey
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1057.ts
-#EXTINF:-1,BBC Radio Leicester
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1058.ts
-#EXTINF:-1,BBC WM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1059.ts
-#EXTINF:-1,Bridge FM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1060.ts
-#EXTINF:-1,BSJ.FM - Best Smooth Jazz
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1061.ts
-#EXTINF:-1,Burnside Radio
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1062.ts
-#EXTINF:-1,Cheesy FM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1063.ts
-#EXTINF:-1,Chill.
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1064.ts
-#EXTINF:-1,Chris Country
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1065.ts
-#EXTINF:-1,Classic FM
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1066.ts
-#EXTINF:-1,Coast and County Radio
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1067.ts
-#EXTINF:-1,Absolute Classic Rock
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1041.ts
-#EXTINF:-1,ABN Radio
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1046.ts
-#EXTINF:-1,BBC 1Xtra
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1044.ts
-#EXTINF:-1,BBC 5 live
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1051.ts
-#EXTINF:-1,BBC 6 Music
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1052.ts
-#EXTINF:-1,BBC Newcastle
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1047.ts
-#EXTINF:-1,BBC Radio 2
-http://vip.grandiptv.tv:8000/live/1M132/W3vTjp5ukZ/1048.ts
+http://s1.iptv66.tv/live/1870256194682/1870256194682/117.ts
+#EXTINF:-1,Racing UK
+http://s1.iptv66.tv/live/1870256194682/1870256194682/258.ts
+#EXTINF:-1,Eurosport 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/264.ts
+#EXTINF:-1,Eurosport 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/265.ts
+#EXTINF:-1,MUTV
+http://s1.iptv66.tv/live/1870256194682/1870256194682/118.ts
+#EXTINF:-1,MSG HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/238.ts
+#EXTINF:-1,BOXnation
+http://s1.iptv66.tv/live/1870256194682/1870256194682/174.ts
+#EXTINF:-1,SKY Sports 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/250.ts
+#EXTINF:-1,SKY Sports 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/251.ts
+#EXTINF:-1,SKY Sports 3
+http://s1.iptv66.tv/live/1870256194682/1870256194682/252.ts
+#EXTINF:-1,SKY Sports 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/253.ts
+#EXTINF:-1,SKY Sports 5
+http://s1.iptv66.tv/live/1870256194682/1870256194682/254.ts
+#EXTINF:-1,SKY Sports F1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/249.ts
+#EXTINF:-1,BT Sport 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/259.ts
+#EXTINF:-1,BT Sport 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/260.ts
+#EXTINF:-1,BT Sport 3
+http://s1.iptv66.tv/live/1870256194682/1870256194682/404.ts
+#EXTINF:-1,ASTRO SuperSport 1
+http://s1.iptv66.tv/live/1870256194682/1870256194682/255.ts
+#EXTINF:-1,ASTRO SuperSport 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/256.ts
+#EXTINF:-1,ASTRO SuperSport 3
+http://s1.iptv66.tv/live/1870256194682/1870256194682/257.ts
+#EXTINF:-1,ASTRO SuperSport 4
+http://s1.iptv66.tv/live/1870256194682/1870256194682/445.ts
+#EXTINF:-1,Fox Sports Florida
+http://s1.iptv66.tv/live/1870256194682/1870256194682/402.ts
+#EXTINF:-1,Yes Network HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/307.ts
+#EXTINF:-1,Wapa
+http://s1.iptv66.tv/live/1870256194682/1870256194682/357.ts
+#EXTINF:-1,Univision Puerto Rico
+http://s1.iptv66.tv/live/1870256194682/1870256194682/356.ts
+#EXTINF:-1,Mega TV Puerto Rico
+http://s1.iptv66.tv/live/1870256194682/1870256194682/438.ts
+#EXTINF:-1,ABC Puerto Rico
+http://s1.iptv66.tv/live/1870256194682/1870256194682/44.ts
+#EXTINF:-1,NBC Puerto Rico
+http://s1.iptv66.tv/live/1870256194682/1870256194682/406.ts
+#EXTINF:-1,Punto 2
+http://s1.iptv66.tv/live/1870256194682/1870256194682/358.ts
+#EXTINF:-1,Teleisla Puerto Rico
+http://s1.iptv66.tv/live/1870256194682/1870256194682/407.ts
+#EXTINF:-1,ABC New York HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/393.ts
+#EXTINF:-1,CBS New York HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/45.ts
+#EXTINF:-1,NBC New York HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/216.ts
+#EXTINF:-1,FOX New York HD
+http://s1.iptv66.tv/live/1870256194682/1870256194682/365.ts
+#EXTINF:-1,ABC Miami
+http://s1.iptv66.tv/live/1870256194682/1870256194682/334.ts
+#EXTINF:-1,NBC Miami
+http://s1.iptv66.tv/live/1870256194682/1870256194682/103.ts
+#EXTINF:-1,FOX Miami
+http://s1.iptv66.tv/live/1870256194682/1870256194682/104.ts

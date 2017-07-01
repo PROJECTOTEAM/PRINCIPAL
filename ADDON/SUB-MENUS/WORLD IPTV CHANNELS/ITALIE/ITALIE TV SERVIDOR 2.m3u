@@ -1,383 +1,152 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-#EXTINF:-1,IT:TG24
-http://vip.tuguj.net:8000/live/0808/0808/3879.ts
-#EXTINF:-1,IT:Super Tennis
-http://vip.tuguj.net:8000/live/0808/0808/3935.ts
-#EXTINF:-1,IT:Sky Uno
-http://vip.tuguj.net:8000/live/0808/0808/3878.ts
-#EXTINF:-1,IT:Sky Super Calcio
-http://vip.tuguj.net:8000/live/0808/0808/3929.ts
-#EXTINF:-1,IT:Sky Sport MotoGP
-http://vip.tuguj.net:8000/live/0808/0808/3934.ts
-#EXTINF:-1,IT:Sky Sport F1
-http://vip.tuguj.net:8000/live/0808/0808/3933.ts
-#EXTINF:-1,IT:Sky Sport 24
-http://vip.tuguj.net:8000/live/0808/0808/3932.ts
-#EXTINF:-1,IT:Sky Sport 2
-http://vip.tuguj.net:8000/live/0808/0808/3931.ts
-#EXTINF:-1,IT:Sky Sport 1
-http://vip.tuguj.net:8000/live/0808/0808/3930.ts
-#EXTINF:-1,IT:Sky Calcio 2
-http://vip.tuguj.net:8000/live/0808/0808/3928.ts
-#EXTINF:-1,IT:Sky Calcio 1
-http://vip.tuguj.net:8000/live/0808/0808/3927.ts
-#EXTINF:-1,IT:Rete 4
-http://vip.tuguj.net:8000/live/0808/0808/3881.ts
-#EXTINF:-1,IT:Rai Sport2
-http://vip.tuguj.net:8000/live/0808/0808/3926.ts
-#EXTINF:-1,IT:Rai Sport1
-http://vip.tuguj.net:8000/live/0808/0808/3925.ts
-#EXTINF:-1,IT:Rai 3
-http://vip.tuguj.net:8000/live/0808/0808/3877.ts
-#EXTINF:-1,IT:Rai 2
-http://vip.tuguj.net:8000/live/0808/0808/3876.ts
-#EXTINF:-1,IT:Rai 1
-http://vip.tuguj.net:8000/live/0808/0808/3875.ts
-#EXTINF:-1,IT:Radio Italia Tv
-http://vip.tuguj.net:8000/live/0808/0808/3886.ts
-#EXTINF:-1,IT:Primafila9
-http://vip.tuguj.net:8000/live/0808/0808/3923.ts
-#EXTINF:-1,IT:Primafila8
-http://vip.tuguj.net:8000/live/0808/0808/3922.ts
-#EXTINF:-1,IT:Primafila7
-http://vip.tuguj.net:8000/live/0808/0808/3921.ts
-#EXTINF:-1,IT:Primafila6
-http://vip.tuguj.net:8000/live/0808/0808/3920.ts
-#EXTINF:-1,IT:Primafila5
-http://vip.tuguj.net:8000/live/0808/0808/3919.ts
-#EXTINF:-1,IT:Primafila4
-http://vip.tuguj.net:8000/live/0808/0808/3918.ts
-#EXTINF:-1,IT:Primafila3
-http://vip.tuguj.net:8000/live/0808/0808/3917.ts
-#EXTINF:-1,IT:Primafila2
-http://vip.tuguj.net:8000/live/0808/0808/3916.ts
-#EXTINF:-1,IT:Primafila10
-http://vip.tuguj.net:8000/live/0808/0808/3924.ts
-#EXTINF:-1,IT:Primafila1
-http://vip.tuguj.net:8000/live/0808/0808/3915.ts
-#EXTINF:-1,IT:Premium Studio Universal
-http://vip.tuguj.net:8000/live/0808/0808/3910.ts
-#EXTINF:-1,IT:Premium Story
-http://vip.tuguj.net:8000/live/0808/0808/3900.ts
-#EXTINF:-1,IT:Premium Sport
-http://vip.tuguj.net:8000/live/0808/0808/3913.ts
-#EXTINF:-1,IT:Premium Joi
-http://vip.tuguj.net:8000/live/0808/0808/3901.ts
-#EXTINF:-1,IT:Premium Energy
-http://vip.tuguj.net:8000/live/0808/0808/3909.ts
-#EXTINF:-1,IT:Premium Emotion
-http://vip.tuguj.net:8000/live/0808/0808/3907.ts
-#EXTINF:-1,IT:Premium Disney Junior
-http://vip.tuguj.net:8000/live/0808/0808/3911.ts
-#EXTINF:-1,IT:Premium Disney Channel
-http://vip.tuguj.net:8000/live/0808/0808/3912.ts
-#EXTINF:-1,IT:Premium Comedy
-http://vip.tuguj.net:8000/live/0808/0808/3908.ts
-#EXTINF:-1,IT:Premium Cinema 24
-http://vip.tuguj.net:8000/live/0808/0808/3906.ts
-#EXTINF:-1,IT:Premium Cinema 2
-http://vip.tuguj.net:8000/live/0808/0808/3905.ts
-#EXTINF:-1,IT:Premium Cinema
-http://vip.tuguj.net:8000/live/0808/0808/3904.ts
-#EXTINF:-1,IT:Premium BBC
-http://vip.tuguj.net:8000/live/0808/0808/3914.ts
-#EXTINF:-1,IT:Premium Action Prima
-http://vip.tuguj.net:8000/live/0808/0808/3903.ts
-#EXTINF:-1,IT:Premium Action
-http://vip.tuguj.net:8000/live/0808/0808/3902.ts
-#EXTINF:-1,IT:Nat Geo Wild
-http://vip.tuguj.net:8000/live/0808/0808/3889.ts
-#EXTINF:-1,IT:Nat Geo People
-http://vip.tuguj.net:8000/live/0808/0808/3890.ts
-#EXTINF:-1,IT:Nat Geo
-http://vip.tuguj.net:8000/live/0808/0808/3888.ts
-#EXTINF:-1,IT:Iris
-http://vip.tuguj.net:8000/live/0808/0808/3882.ts
-#EXTINF:-1,IT:History
-http://vip.tuguj.net:8000/live/0808/0808/3893.ts
-#EXTINF:-1,IT:Fox Crime
-http://vip.tuguj.net:8000/live/0808/0808/3884.ts
-#EXTINF:-1,IT:Dmax
-http://vip.tuguj.net:8000/live/0808/0808/3885.ts
-#EXTINF:-1,IT:Disney XD
-http://vip.tuguj.net:8000/live/0808/0808/3887.ts
-#EXTINF:-1,IT:Discovery World
-http://vip.tuguj.net:8000/live/0808/0808/3892.ts
-#EXTINF:-1,IT:Discovery Channel
-http://vip.tuguj.net:8000/live/0808/0808/3891.ts
-#EXTINF:-1,IT:Cinema Passion
-http://vip.tuguj.net:8000/live/0808/0808/3895.ts
-#EXTINF:-1,IT:Cinema Max
-http://vip.tuguj.net:8000/live/0808/0808/3896.ts
-#EXTINF:-1,IT:Cinema Hits
-http://vip.tuguj.net:8000/live/0808/0808/3897.ts
-#EXTINF:-1,IT:Cinema Comedy
-http://vip.tuguj.net:8000/live/0808/0808/3898.ts
-#EXTINF:-1,IT:Cinema Atlantic
-http://vip.tuguj.net:8000/live/0808/0808/3899.ts
-#EXTINF:-1,IT:Cinema 1
-http://vip.tuguj.net:8000/live/0808/0808/3894.ts
-#EXTINF:-1,IT:Cielo
-http://vip.tuguj.net:8000/live/0808/0808/3883.ts
-#EXTINF:-1,IT:Canale 5
-http://vip.tuguj.net:8000/live/0808/0808/3880.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,IT: Super!
-http://192.99.149.20:8080/live/internal_stalker/internal_use/965.ts
-#EXTINF:-1,IT: Super Tennis HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/976.ts
-#EXTINF:-1,IT: Super Calcio HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1457.ts
-#EXTINF:-1,IT: Sport Italia
-http://192.99.149.20:8080/live/internal_stalker/internal_use/957.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1272.ts
-#EXTINF:-1,IT: Sky Super Calcio HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/973.ts
-#EXTINF:-1,IT: Sky Sports F1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1458.ts
-#EXTINF:-1,IT: Sky Sports 3 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1459.ts
-#EXTINF:-1,IT: Sky Sports 24 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1460.ts
-#EXTINF:-1,IT: Sky Sports 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1461.ts
-#EXTINF:-1,IT: Sky Sports 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1462.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/975.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/972.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/974.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/971.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/970.ts
-#EXTINF:-1,IT: SKY FOX COMEDY HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1456.ts
-#EXTINF:-1,IT: Sky Crime & Investigation
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1285.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1269.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1266.ts
-#EXTINF:-1,IT: Sky Cinema Max  1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1267.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1268.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1265.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1264.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1262.ts
-#EXTINF:-1,IT: Sky Cinema 24 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1261.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1260.ts
-#EXTINF:-1,IT: Sky Calcio 4
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1259.ts
-#EXTINF:-1,IT: Sky Calcio 3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1258.ts
-#EXTINF:-1,IT: Sky Calcio 2
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1257.ts
-#EXTINF:-1,IT: Sky Calcio 1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1256.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1270.ts
-#EXTINF:-1,IT: Sky Arte HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1273.ts
-#EXTINF:-1,IT: Sky 3D
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1274.ts
-#EXTINF:-1,IT: Rsi LA 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/952.ts
-#EXTINF:-1,IT: Roma Channel
-http://192.99.149.20:8080/live/internal_stalker/internal_use/980.ts
-#EXTINF:-1,IT: Rete 4
-http://192.99.149.20:8080/live/internal_stalker/internal_use/951.ts
-#EXTINF:-1,IT: Real Time
-http://192.99.149.20:8080/live/internal_stalker/internal_use/955.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://192.99.149.20:8080/live/internal_stalker/internal_use/947.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/946.ts
-#EXTINF:-1,IT: Rai Premium
-http://192.99.149.20:8080/live/internal_stalker/internal_use/948.ts
-#EXTINF:-1,IT: Rai Movie
-http://192.99.149.20:8080/live/internal_stalker/internal_use/950.ts
-#EXTINF:-1,IT: Rai Gulp
-http://192.99.149.20:8080/live/internal_stalker/internal_use/949.ts
-#EXTINF:-1,IT: Rai 5
-http://192.99.149.20:8080/live/internal_stalker/internal_use/945.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/943.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/942.ts
 #EXTINF:-1,IT: Rai 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/941.ts
-#EXTINF:-1,IT: Primafila 6 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1312.ts
-#EXTINF:-1,IT: Primafila 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1308.ts
-#EXTINF:-1,IT: Primafila 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1307.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1449.ts
-#EXTINF:-1,IT: Prima Fila 7 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1448.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1447.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1446.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1445.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1301.ts
-#EXTINF:-1,IT: Premium Stories
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1299.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1304.ts
-#EXTINF:-1,IT: Premium Joi
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1298.ts
-#EXTINF:-1,IT: Premium Energy
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1296.ts
-#EXTINF:-1,IT: Premium Emotion
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1297.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1302.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1303.ts
-#EXTINF:-1,IT: Premium Comedy
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1295.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1292.ts
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7228.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7227.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7226.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7225.ts
+#EXTINF:-1,IT: Rai 5
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7224.ts
+#EXTINF:-1,IT: Rai Gulp HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7220.ts
+#EXTINF:-1,IT: Rai Movie HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7223.ts
+#EXTINF:-1,IT: Rai Premium
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7222.ts
+#EXTINF:-1,IT: Rai Senato
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7219.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7221.ts
+#EXTINF:-1,IT: Rai Scuola
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6696.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7214.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7218.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7217.ts
+#EXTINF:-1,IT | Sky Atlantic HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6221.ts
+#EXTINF:-1,IT | Sky Cinema 1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6213.ts
+#EXTINF:-1,IT | Sky Cinema 1  1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6212.ts
+#EXTINF:-1,IT | Sky Cinema 3D
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6210.ts
+#EXTINF:-1,IT | Sky Cinema Classic HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6209.ts
+#EXTINF:-1,IT | Sky Cinema Comedy HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6208.ts
+#EXTINF:-1,IT | Sky Cinema Cult HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6207.ts
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6206.ts
+#EXTINF:-1,IT | Sky Cinema Max HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6205.ts
+#EXTINF:-1,IT | Sky Cinema Passion HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6204.ts
+#EXTINF:-1,IT: Sky Cinema  24 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7199.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7200.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7189.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7190.ts
+#EXTINF:-1,IT: Sky History HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7184.ts
+#EXTINF:-1,IT: Sky National Geo HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7191.ts
+#EXTINF:-1,IT | Sky Calcio.6
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6215.ts
+#EXTINF:-1,IT | Discovery Channel HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6154.ts
+#EXTINF:-1,IT | Discovery Science HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6153.ts
+#EXTINF:-1,IT | Discovery Travel & Living HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6152.ts
+#EXTINF:-1,IT: Premium Action HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7058.ts
+#EXTINF:-1,IT: Premium Cinema  24
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7052.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7051.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7053.ts
 #EXTINF:-1,IT: Premium Cinema 24
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1293.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1300.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1706.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1705.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1704.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1703.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1306.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1305.ts
-#EXTINF:-1,IT: Premium Action 24
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1294.ts
-#EXTINF:-1,IT: Net Geo People HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1287.ts
-#EXTINF:-1,IT: Nat Geo Wild HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1286.ts
-#EXTINF:-1,IT: Milan Channel
-http://192.99.149.20:8080/live/internal_stalker/internal_use/979.ts
-#EXTINF:-1,IT: LA 7
-http://192.99.149.20:8080/live/internal_stalker/internal_use/959.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/960.ts
-#EXTINF:-1,IT: IRIS
-http://192.99.149.20:8080/live/internal_stalker/internal_use/964.ts
-#EXTINF:-1,IT: Inter Channel
-http://192.99.149.20:8080/live/internal_stalker/internal_use/978.ts
-#EXTINF:-1,IT: History Channel
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1289.ts
-#EXTINF:-1,IT: Gambero Rosso
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1280.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/977.ts
-#EXTINF:-1,IT: Fox Life
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1275.ts
-#EXTINF:-1,IT: Fox HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1276.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1281.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1278.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1271.ts
-#EXTINF:-1,IT: Fox 1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1277.ts
-#EXTINF:-1,IT: Focus
-http://192.99.149.20:8080/live/internal_stalker/internal_use/962.ts
-#EXTINF:-1,IT: Dmax HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/956.ts
-#EXTINF:-1,IT: Disney XD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/969.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1284.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1283.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1282.ts
-#EXTINF:-1,IT: Crime Investigation HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1412.ts
-#EXTINF:-1,IT: Cielo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/963.ts
-#EXTINF:-1,IT: Cartoonito
-http://192.99.149.20:8080/live/internal_stalker/internal_use/968.ts
-#EXTINF:-1,IT: Cartoon Network
-http://192.99.149.20:8080/live/internal_stalker/internal_use/967.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/958.ts
-#EXTINF:-1,IT: Caccia e Pesca
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1279.ts
-#EXTINF:-1,IT: AXN Sci Fi
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1290.ts
-#EXTINF:-1,IT: Animal Planet
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1288.ts
-#EXTINF:-1,IT: Alice
-http://192.99.149.20:8080/live/internal_stalker/internal_use/961.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7056.ts
+#EXTINF:-1,IT: Premium Cinema Comedy
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7043.ts
+#EXTINF:-1,IT: Premium Cinema Emotion
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7047.ts
+#EXTINF:-1,IT: Premium Cinema Energy
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7048.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7055.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7044.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7045.ts
+#EXTINF:-1,IT: Premium Discovery World
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7037.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7038.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7041.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7036.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7035.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7033.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7031.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7032.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7034.ts
+#EXTINF:-1,IT: Premium Stories
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7050.ts
+#EXTINF:-1,IT: Premium Stories 24
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7049.ts
+#EXTINF:-1,IT: Premium Studio Universal HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7046.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7085.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7084.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7081.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7080.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7089.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7073.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7072.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7071.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7070.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7069.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7068.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7067.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7066.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7065.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7064.ts

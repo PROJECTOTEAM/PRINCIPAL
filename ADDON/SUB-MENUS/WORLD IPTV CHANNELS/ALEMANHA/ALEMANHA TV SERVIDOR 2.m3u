@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -8,239 +8,169 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-#EXTINF:-1,sonnenklar.TV HD
-http://46.249.62.146:8001/play/a002
-#EXTINF:-1,Motorvision TV
-http://46.249.62.146:8001/play/a01c
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://46.249.62.146:8001/play/a00r
-#EXTINF:-1,Sky Cinema +24 HD
-http://46.249.62.146:8001/play/a00n
-#EXTINF:-1,History HD
-http://46.249.62.146:8001/play/a007
-#EXTINF:-1,A&E
-http://46.249.62.146:8001/play/a01d
-#EXTINF:-1,Sky Cinema Bourne HD
-http://46.249.62.146:8001/play/a00g
-#EXTINF:-1,Juwelo HD
-http://46.249.62.146:8001/play/a005
-#EXTINF:-1,Sky Sport News HD
-http://46.249.62.146:8001/play/a00h
-#EXTINF:-1,Sky Sport 2 HD
-http://46.249.62.146:8001/play/a00x
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://46.249.62.146:8001/play/a01g
-#EXTINF:-1,NatGeo HD
-http://46.249.62.146:8001/play/a00w
-#EXTINF:-1,Sky Cinema Action HD
-http://46.249.62.146:8001/play/a008
-#EXTINF:-1,Sky Cinema Family HD
-http://46.249.62.146:8001/play/a00p
-#EXTINF:-1,Discovery HD
-http://46.249.62.146:8001/play/a014
-#EXTINF:-1,Boomerang
-http://46.249.62.146:8001/play/a01e
-#EXTINF:-1,Nat Geo Wild HD
-http://46.249.62.146:8001/play/a012
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://46.249.62.146:8001/play/a017
-#EXTINF:-1,Sky Sport 3 HD
-http://46.249.62.146:8001/play/a016
-#EXTINF:-1,Sky Atlantic HD
-http://46.249.62.146:8001/play/a00u
-#EXTINF:-1,Sky Sport 7 HD
-http://46.249.62.146:8001/play/a00s
-#EXTINF:-1,Sky Sport 4 HD
-http://46.249.62.146:8001/play/a00z
-#EXTINF:-1,DMAX HD
-http://46.249.62.146:8001/play/a004
-#EXTINF:-1,E! Entertainm. HD
-http://46.249.62.146:8001/play/a01a
-#EXTINF:-1,Cartoon Network
-http://46.249.62.146:8001/play/a01f
-#EXTINF:-1,Sky Atlantic +1 HD
-http://46.249.62.146:8001/play/a01j
-#EXTINF:-1,TELE 5 HD
-http://46.249.62.146:8001/play/a003
-#EXTINF:-1,Sky Cinema HD
-http://46.249.62.146:8001/play/a015
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://46.249.62.146:8001/play/a01k
-#EXTINF:-1,Disney Cinemagic HD
-http://46.249.62.146:8001/play/a00v
-#EXTINF:-1,Sky Sport 9 HD
-http://46.249.62.146:8001/play/a01l
-#EXTINF:-1,TNT Serie HD
-http://46.249.62.146:8001/play/a00a
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://46.249.62.146:8001/play/a00f
-#EXTINF:-1,Sky Sport 1 HD
-http://46.249.62.146:8001/play/a013
-#EXTINF:-1,Sky Cinema +1 HD
-http://46.249.62.146:8001/play/a00m
-#EXTINF:-1,TNT Comedy HD
-http://46.249.62.146:8001/play/a01b
-#EXTINF:-1,Syfy HD
-http://46.249.62.146:8001/play/a00i
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://46.249.62.146:8001/play/a00d
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://46.249.62.146:8001/play/a00k
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://46.249.62.146:8001/play/a010
-#EXTINF:-1,Universal HD
-http://46.249.62.146:8001/play/a019
-#EXTINF:-1,Sport1+ HD
-http://46.249.62.146:8001/play/a009
-#EXTINF:-1,13th Street HD
-http://46.249.62.146:8001/play/a00y
-#EXTINF:-1,Sky Sport 6 HD
-http://46.249.62.146:8001/play/a00c
-#EXTINF:-1,Sky Sport 5 HD
-http://46.249.62.146:8001/play/a00j
-#EXTINF:-1,Sky Sport 11 HD
-http://46.249.62.146:8001/play/a01h
-#EXTINF:-1,Disney Junior HD
-http://46.249.62.146:8001/play/a00o
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Sky Cinema Action HD
-http://185.53.161.146:8888/play/a02l
-#EXTINF:-1,Syfy
-http://185.53.161.146:8888/play/a016
-#EXTINF:-1,TNT Film (TCM)
-http://185.53.161.146:8888/play/a01k
-#EXTINF:-1,13th Street
-http://185.53.161.146:8888/play/a018
-#EXTINF:-1,Spiegel Geschichte
-http://185.53.161.146:8888/play/a019
-#EXTINF:-1,Sky Cinema Comedy
-http://185.53.161.146:8888/play/a00v
-#EXTINF:-1,Disney XD
-http://185.53.161.146:8888/play/a02m
-#EXTINF:-1,History HD
-http://185.53.161.146:8888/play/a02k
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://185.53.161.146:8888/play/a02g
-#EXTINF:-1,Das Erste
-http://185.53.161.146:8888/play/a02y
-#EXTINF:-1,Disney Junior
-http://185.53.161.146:8888/play/a010
-#EXTINF:-1,ProSieben
-http://185.53.161.146:8888/play/a022
-#EXTINF:-1,Sky Cinema +1
-http://185.53.161.146:8888/play/a00x
-#EXTINF:-1,SAT.1
-http://185.53.161.146:8888/play/a021
-#EXTINF:-1,TNT Serie HD
-http://185.53.161.146:8888/play/a01x
-#EXTINF:-1,National Geographic
-http://185.53.161.146:8888/play/a029
-#EXTINF:-1,VOX
-http://185.53.161.146:8888/play/a01u
-#EXTINF:-1,Sky Krimi
-http://185.53.161.146:8888/play/a02b
-#EXTINF:-1,Goldstar TV
-http://185.53.161.146:8888/play/a01b
-#EXTINF:-1,Sky Cinema Family
-http://185.53.161.146:8888/play/a02i
-#EXTINF:-1,Sky Cinema Emotion
-http://185.53.161.146:8888/play/a02a
-#EXTINF:-1,Junior
-http://185.53.161.146:8888/play/a00y
-#EXTINF:-1,Fox Serie
-http://185.53.161.146:8888/play/a013
-#EXTINF:-1,Disney Cinemagic HD
-http://185.53.161.146:8888/play/a032
-#EXTINF:-1,Sky Cinema
-http://185.53.161.146:8888/play/a028
-#EXTINF:-1,Sky Sport 2 HD
-http://185.53.161.146:8888/play/a034
-#EXTINF:-1,Classica
-http://185.53.161.146:8888/play/a00z
-#EXTINF:-1,RTLNITRO
-http://185.53.161.146:8888/play/a01v
-#EXTINF:-1,Kinowelt TV
-http://185.53.161.146:8888/play/a02h
-#EXTINF:-1,Sky Sport News
-http://185.53.161.146:8888/play/a00r
-#EXTINF:-1,kabel eins
-http://185.53.161.146:8888/play/a02x
-#EXTINF:-1,RTL2
-http://185.53.161.146:8888/play/a01s
-#EXTINF:-1,Disney Channel HD
-http://185.53.161.146:8888/play/a00o
-#EXTINF:-1,NatGeo HD
-http://185.53.161.146:8888/play/a033
-#EXTINF:-1,RTL Passion
-http://185.53.161.146:8888/play/a02d
-#EXTINF:-1,RTL Crime
-http://185.53.161.146:8888/play/a02c
-#EXTINF:-1,Disney Cinemagic
-http://185.53.161.146:8888/play/a015
-#EXTINF:-1,Sky Atlantic HD
-http://185.53.161.146:8888/play/a031
-#EXTINF:-1,Sky Cinema Action
-http://185.53.161.146:8888/play/a00w
-#EXTINF:-1,SUPER RTL
-http://185.53.161.146:8888/play/a01t
-#EXTINF:-1,Sky Atlantic
-http://185.53.161.146:8888/play/a02e
-#EXTINF:-1,ZDF
-http://185.53.161.146:8888/play/a01m
-#EXTINF:-1,Sky Cinema Hits
-http://185.53.161.146:8888/play/a017
-#EXTINF:-1,TNT Serie
-http://185.53.161.146:8888/play/a02n
-#EXTINF:-1,KiKA
-http://185.53.161.146:8888/play/a01n
-#EXTINF:-1,Pro7 MAXX
-http://185.53.161.146:8888/play/a025
-#EXTINF:-1,Sky Sport 1 HD
-http://185.53.161.146:8888/play/a01h
-#EXTINF:-1,SAT.1 Gold
-http://185.53.161.146:8888/play/a024
-#EXTINF:-1,Discovery HD
-http://185.53.161.146:8888/play/a01i
-#EXTINF:-1,Sky Cinema Nostalgie
-http://185.53.161.146:8888/play/a02j
-#EXTINF:-1,Motorvision TV
-http://185.53.161.146:8888/play/a01d
-#EXTINF:-1,RTL Television
-http://185.53.161.146:8888/play/a01r
-#EXTINF:-1,13th Street HD
-http://185.53.161.146:8888/play/a035
-#EXTINF:-1,Sky Cinema +24
-http://185.53.161.146:8888/play/a011
-#EXTINF:-1,Heimatkanal
-http://185.53.161.146:8888/play/a014
-#EXTINF:-1,Sky Cinema HD
-http://185.53.161.146:8888/play/a01j
-#EXTINF:-1,kabel eins classics
-http://185.53.161.146:8888/play/a01z
+#EXTINF:-1,DE: Das Erste HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3243.ts
+#EXTINF:-1,DE: SAT 3
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8003.ts
+#EXTINF:-1,DE: ZDF
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2878.ts
+#EXTINF:-1,DE: ZDF INFO
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8002.ts
+#EXTINF:-1,DE: ZDF NEO
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8001.ts
+#EXTINF:-1,DE: RTL
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3842.ts
+#EXTINF:-1,DE: RTL 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3846.ts
+#EXTINF:-1,DE: SUPER RTL
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8007.ts
+#EXTINF:-1,DE: RTL Living
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3843.ts
+#EXTINF:-1,DE: RTL Nitro
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2319.ts
+#EXTINF:-1,DE: RTL Crime
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6552.ts
+#EXTINF:-1,DE: RTL Passion
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6551.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3847.ts
+#EXTINF:-1,DE: VOX
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2324.ts
+#EXTINF:-1,DE: ARTE
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8006.ts
+#EXTINF:-1,DE: WDR
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8004.ts
+#EXTINF:-1,DE: NDR HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2061.ts
+#EXTINF:-1,DE: WDR HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2062.ts
+#EXTINF:-1,DE: SRF Info
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6545.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2328.ts
+#EXTINF:-1,DE: SRF 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2329.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2057.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3305.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3852.ts
+#EXTINF:-1,DE: DMAX
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3850.ts
+#EXTINF:-1,DE: Toggo Plus
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8012.ts
+#EXTINF:-1,DE:A.TV
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3845.ts
+#EXTINF:-1,DE: N24 hd
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3840.ts
+#EXTINF:-1,DE: SR Fernsehen
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2064.ts
+#EXTINF:-1,DE: Deluxe Music Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8014.ts
+#EXTINF:-1,DE: DMAX Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8013.ts
+#EXTINF:-1,DE: Doku Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8017.ts
+#EXTINF:-1,DE: Pro 7 max Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8018.ts
+#EXTINF:-1,DE: SIXX Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8011.ts
+#EXTINF:-1,DE: Vox Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8019.ts
+#EXTINF:-1,DE: N24 Austria
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8009.ts
+#EXTINF:-1,DE: Tele Zürich
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6590.ts
+#EXTINF:-1,DE: Prosieben Schweiz
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8005.ts
+#EXTINF:-1,DE: Kabel 1 Schweiz
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8010.ts
+#EXTINF:-1,DE: Deluxe Music HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6620.ts
+#EXTINF:-1,DE: N-TV HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6608.ts
+#EXTINF:-1,DE: Pro 7 HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6624.ts
+#EXTINF:-1,DE: Pro 7 MAXX HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6623.ts
+#EXTINF:-1,DE: RTL HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6627.ts
+#EXTINF:-1,DE: RTL 2 HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6626.ts
+#EXTINF:-1,DE: Vox HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6622.ts
+#EXTINF:-1,DE: Super RTL HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6625.ts
+#EXTINF:-1,DE: Heimatkanal
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6568.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6547.ts
+#EXTINF:-1,DE: AXN HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6611.ts
+#EXTINF:-1,DE: Sony TV HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6609.ts
+#EXTINF:-1,DE: Syfy HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6610.ts
+#EXTINF:-1,DE: TNT Serie HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6614.ts
+#EXTINF:-1,DE: Sky Hits HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6616.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6546.ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6540.ts
+#EXTINF:-1,DE:COMEDY CENTRAL
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3853.ts
+#EXTINF:-1,DE: 13th Street
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6563.ts
+#EXTINF:-1,DE: Classica
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6574.ts
+#EXTINF:-1,DE: Fox Serie
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6569.ts
+#EXTINF:-1,DE: Goldstar TV
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6559.ts
+#EXTINF:-1,DE: TNT Serie
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6562.ts
+#EXTINF:-1,DE: Fox HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6613.ts
+#EXTINF:-1,DE: MGM HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6612.ts
+#EXTINF:-1,DE: Sky Action HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6618.ts
+#EXTINF:-1,DE: Sky Atlantic HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6617.ts
+#EXTINF:-1,DE: Sky Cinema HD 1080P
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6619.ts
+#EXTINF:-1,DE: TNT Film (TCM)
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/1007.ts
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2358.ts
+#EXTINF:-1,DE : Sky Cinema  HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3653.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6550.ts
+#EXTINF:-1,DE: Sky Cinema
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6558.ts
+#EXTINF:-1,DE: Sky Cinem 1 HD
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8008.ts
+#EXTINF:-1,DE: Sky Select
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6555.ts
+#EXTINF:-1,DE: Sky Select 1
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6401.ts
+#EXTINF:-1,DE: Sky Select 2
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6400.ts
+#EXTINF:-1,DE: Sky Select 3
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6399.ts
+#EXTINF:-1,DE: Sky Select 4
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6398.ts
+#EXTINF:-1,DE: Sky Select 5
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6397.ts
+#EXTINF:-1,DE: Sky Select 6
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6396.ts
+#EXTINF:-1,DE: Sky Select 7
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6395.ts
+#EXTINF:-1,DE: Sky Select 8
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6394.ts
+#EXTINF:-1,DE: Sky Select 9
+http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6393.ts
