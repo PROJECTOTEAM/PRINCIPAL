@@ -1,71 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 26-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-#EXTINF:-1,PL: Disney Junior
-http://46.249.62.20:1824/play/a01s
-#EXTINF:-1,PL: Nat Geo People HD
-http://46.249.62.20:1824/play/a01j
-#EXTINF:-1,PL: Universal HD
-http://46.249.62.20:1824/play/a026
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a02c
-#EXTINF:-1,PL: 13 Ulica HD
-http://46.249.62.20:1824/play/a02j
-#EXTINF:-1,PL: Eurosport 2 HD
-http://46.249.62.20:1824/play/a01t
-#EXTINF:-1,PL: Fightbox HD
-http://46.249.62.20:1824/play/a02a
-#EXTINF:-1,PL: Polsat Sport News HD
-http://46.249.62.20:1824/play/a01l
-#EXTINF:-1,PL: Eurosport 1 HD
-http://46.249.62.20:1824/play/a029
-#EXTINF:-1,PL: FILMBOX EXTRA HD
-http://46.249.62.20:1824/play/a021
-#EXTINF:-1,PL: Golf Channel
-http://46.249.62.20:1824/play/a02d
-#EXTINF:-1,PL: SciFi Universal
-http://46.249.62.20:1824/play/a02f
-#EXTINF:-1,PL: H2 HD
-http://46.249.62.20:1824/play/a02b
-#EXTINF:-1,PL: E! Entertainment
-http://46.249.62.20:1824/play/a02h
-#EXTINF:-1,PL: TLC HD
-http://46.249.62.20:1824/play/a027
-#EXTINF:-1,PL: Cartoon Network HD
-http://46.249.62.20:1824/play/a01i
-#EXTINF:-1,PL: Lifetime HD
-http://46.249.62.20:1824/play/a02g
-#EXTINF:-1,PL: Sundance HD
-http://46.249.62.20:1824/play/a025
-#EXTINF:-1,PL: 13 Ulica HD
-http://46.249.62.20:1824/play/a028
-#EXTINF:-1,PL: NATIONAL GEO HD
-http://46.249.62.20:1824/play/a022
-#EXTINF:-1,PL: TNT HD
-http://46.249.62.20:1824/play/a01h
-#EXTINF:-1,PL: CANAL+ SPORT HD
-http://46.249.62.20:1824/play/a023
-#EXTINF:-1,PL: CANAL+ HD
-http://46.249.62.20:1824/play/a020
-#EXTINF:-1,PL: MiniMini+ HD
-http://46.249.62.20:1824/play/a01y
-#EXTINF:-1,PL: Eurosport 2 HD
-http://46.249.62.20:1824/play/a01o
-#EXTINF:-1,PL: Discovery Science HD
-http://46.249.62.20:1824/play/a01p
-#EXTINF:-1,PL: CBS Europa HD
-http://46.249.62.20:1824/play/a01n
-#EXTINF:-1,PL: CANAL+ HD
-http://46.249.62.20:1824/play/a01w
-#EXTINF:-1,PL: Extreme Sports HD
-http://46.249.62.20:1824/play/a01m
-#EXTINF:-1,STARS.TV
-http://46.249.62.20:1824/play/a02e
-#EXTINF:-1,PL: Polsat Sport Fight HD
-http://46.249.62.20:1824/play/a01u
-#EXTINF:-1,PL: HBO HD
-http://46.249.62.20:1824/play/a01q
+#EXTINF:-1,PL VIP | Astra
+http://vip.groupiptv.com:7000/live/lieven/lieven/4666.ts
+#EXTINF:-1,PL VIP | AXN White
+http://vip.groupiptv.com:7000/live/lieven/lieven/4662.ts
+#EXTINF:-1,PL VIP | BBC
+http://vip.groupiptv.com:7000/live/lieven/lieven/4661.ts
+#EXTINF:-1,PL VIP | Eleven Sports
+http://vip.groupiptv.com:7000/live/lieven/lieven/4658.ts
+#EXTINF:-1,PL VIP | Filmbox Arthouse
+http://vip.groupiptv.com:7000/live/lieven/lieven/4659.ts
+#EXTINF:-1,PL VIP | Filmbox Premium
+http://vip.groupiptv.com:7000/live/lieven/lieven/4664.ts
+#EXTINF:-1,PL VIP | Polsat 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4660.ts
+#EXTINF:-1,PL VIP | Polsat Sport
+http://vip.groupiptv.com:7000/live/lieven/lieven/4656.ts
+#EXTINF:-1,PL VIP | Polsat Sport Extra
+http://vip.groupiptv.com:7000/live/lieven/lieven/4657.ts
+#EXTINF:-1,PL VIP | Star TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4665.ts
+#EXTINF:-1,PL VIP | Trwam
+http://vip.groupiptv.com:7000/live/lieven/lieven/4667.ts
+#EXTINF:-1,PL VIP | TV Republika
+http://vip.groupiptv.com:7000/live/lieven/lieven/4655.ts
+#EXTINF:-1,PL VIP | TVN
+http://vip.groupiptv.com:7000/live/lieven/lieven/4654.ts
+#EXTINF:-1,PL VIP | TVN Style
+http://vip.groupiptv.com:7000/live/lieven/lieven/4663.ts
+#EXTINF:-1,PL VIP | TVP 1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4652.ts
+#EXTINF:-1,PL VIP | TVP 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4653.ts

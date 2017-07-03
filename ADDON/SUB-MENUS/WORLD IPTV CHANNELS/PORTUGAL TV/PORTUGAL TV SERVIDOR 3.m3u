@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -14,107 +14,157 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-#EXTM3U
-#EXTINF:0,RTP Memoria
-http://91.139.196.72:8030/play/a02u
-#EXTINF:0,CanĿ Nova
-http://91.139.196.72:8030/play/a038
-#EXTINF:0,TVI 24
-http://91.139.196.72:8030/play/a00p
-#EXTINF:0,Syfy
-http://91.139.196.72:8030/play/a00v
-#EXTINF:0,Disney Channel
-http://91.139.196.72:8030/play/a015
-#EXTINF:0,Cartoon Network
-http://91.139.196.72:8030/play/a02t
-#EXTINF:0,motorsport.tv
-http://91.139.196.72:8030/play/a00x
-#EXTINF:0,TVSsries
-http://91.139.196.72:8030/play/a012
-#EXTINF:0,TVI FicĿªo
-http://91.139.196.72:8030/play/a016
-#EXTINF:0,Canal Q
-http://91.139.196.72:8030/play/a032
-#EXTINF:0,Canal Panda
-http://91.139.196.72:8030/play/a02p
-#EXTINF:0,SPORT TV 4
-http://91.139.196.72:8030/play/a00m
-#EXTINF:0,Histðria
-http://91.139.196.72:8030/play/a00c
-#EXTINF:0,Afro Music
-http://91.139.196.72:8030/play/a047
-#EXTINF:0,TVCine 4
-http://91.139.196.72:8030/play/a044
-#EXTINF:0,MCS Extreme
-http://91.139.196.72:8030/play/a00w
-#EXTINF:0,CBS Reality
-http://91.139.196.72:8030/play/a013
-#EXTINF:0,C-Music
-http://91.139.196.72:8030/play/a00r
-#EXTINF:0,TV Galicia
-http://91.139.196.72:8030/play/a033
-#EXTINF:0,Eurosport 1
-http://91.139.196.72:8030/play/a00a
-#EXTINF:0,Jim Jam
-http://91.139.196.72:8030/play/a00n
-#EXTINF:0,RTP AĿores
-http://91.139.196.72:8030/play/a00i
-#EXTINF:0,Record News
-http://91.139.196.72:8030/play/a018
-#EXTINF:0,PFC
-http://91.139.196.72:8030/play/a034
-#EXTINF:0,E! Entertainment
-http://91.139.196.72:8030/play/a02x
-#EXTINF:0,SIC Caras
-http://91.139.196.72:8030/play/a02w
-#EXTINF:0,RTP Madeira
-http://91.139.196.72:8030/play/a00h
-#EXTINF:0,SIC K
-http://91.139.196.72:8030/play/a00k
-#EXTINF:0,FOX Comedy
-http://91.139.196.72:8030/play/a02v
-#EXTINF:0,Discovery Channel
-http://91.139.196.72:8030/play/a00y
-#EXTINF:0,TVI
-http://91.139.196.72:8030/play/a02n
-#EXTINF:0,SIC Radical
-http://91.139.196.72:8030/play/a02r
-#EXTINF:0,RTP 1
-http://91.139.196.72:8030/play/a004
-#EXTINF:0,TV Record
-http://91.139.196.72:8030/play/a006
-#EXTINF:0,RTP 2
-http://91.139.196.72:8030/play/a005
-#EXTINF:0,Eurosport 2 Xtra
-http://91.139.196.72:8030/play/a00d
-#EXTINF:0,RTP 3
-http://91.139.196.72:8030/play/a007
-#EXTINF:0,SIC NotŦcias
-http://91.139.196.72:8030/play/a00u
-#EXTINF:0,Nat Geo Wild
-http://91.139.196.72:8030/play/a02q
-#EXTINF:0,MCM POP
-http://91.139.196.72:8030/play/a037
-#EXTINF:0,Eurosport 2
-http://91.139.196.72:8030/play/a036
-#EXTINF:0,Cinemundo
-http://91.139.196.72:8030/play/a00b
-#EXTINF:0,Porto Canal
-http://91.139.196.72:8030/play/a02s
-#EXTINF:0,TVCine 3
-http://91.139.196.72:8030/play/a045
-#EXTINF:0,Globo Premium
-http://91.139.196.72:8030/play/a035
-#EXTINF:0,Odisseia
-http://91.139.196.72:8030/play/a00z
-#EXTINF:0,A Bola TV
-http://91.139.196.72:8030/play/a017
-#EXTINF:0,SIC
-http://91.139.196.72:8030/play/a00t
-#EXTINF:0,NBA TV
-http://91.139.196.72:8030/play/a02o
+#EXTINF:-1,PT | 24 Kitchen
+http://vip.groupiptv.com:7000/live/lieven/lieven/4574.ts
+#EXTINF:-1,PT | A Bola TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4575.ts
+#EXTINF:-1,PT | A&E
+http://vip.groupiptv.com:7000/live/lieven/lieven/4576.ts
+#EXTINF:-1,PT | AMC
+http://vip.groupiptv.com:7000/live/lieven/lieven/4577.ts
+#EXTINF:-1,PT | AXN
+http://vip.groupiptv.com:7000/live/lieven/lieven/4578.ts
+#EXTINF:-1,PT | AXN Black
+http://vip.groupiptv.com:7000/live/lieven/lieven/4579.ts
+#EXTINF:-1,PT | AXN White HD
+http://vip.groupiptv.com:7000/live/lieven/lieven/4580.ts
+#EXTINF:-1,PT | Baby TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4581.ts
+#EXTINF:-1,PT | Benfica TV 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4582.ts
+#EXTINF:-1,PT | Benfica TV1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4583.ts
+#EXTINF:-1,PT | Biggs
+http://vip.groupiptv.com:7000/live/lieven/lieven/4584.ts
+#EXTINF:-1,PT | Canal Historia
+http://vip.groupiptv.com:7000/live/lieven/lieven/4586.ts
+#EXTINF:-1,PT | Canal Panda
+http://vip.groupiptv.com:7000/live/lieven/lieven/4587.ts
+#EXTINF:-1,PT | Canal Q
+http://vip.groupiptv.com:7000/live/lieven/lieven/4588.ts
+#EXTINF:-1,PT | Caza & Pesca
+http://vip.groupiptv.com:7000/live/lieven/lieven/4585.ts
+#EXTINF:-1,PT | CBS Reality
+http://vip.groupiptv.com:7000/live/lieven/lieven/4589.ts
+#EXTINF:-1,PT | Cine Mundo
+http://vip.groupiptv.com:7000/live/lieven/lieven/4590.ts
+#EXTINF:-1,PT | CM TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4591.ts
+#EXTINF:-1,PT | Discovery Channel
+http://vip.groupiptv.com:7000/live/lieven/lieven/4592.ts
+#EXTINF:-1,PT | Discovery Showcase
+http://vip.groupiptv.com:7000/live/lieven/lieven/4593.ts
+#EXTINF:-1,PT | Disney Channel
+http://vip.groupiptv.com:7000/live/lieven/lieven/4594.ts
+#EXTINF:-1,PT | Disney Junior
+http://vip.groupiptv.com:7000/live/lieven/lieven/4595.ts
+#EXTINF:-1,PT | Eurosport
+http://vip.groupiptv.com:7000/live/lieven/lieven/4596.ts
+#EXTINF:-1,PT | Eurosport 2 Xtra
+http://vip.groupiptv.com:7000/live/lieven/lieven/4597.ts
+#EXTINF:-1,PT | Eurosport News
+http://vip.groupiptv.com:7000/live/lieven/lieven/4598.ts
+#EXTINF:-1,PT | FOX
+http://vip.groupiptv.com:7000/live/lieven/lieven/4599.ts
+#EXTINF:-1,PT | FOX Comedy
+http://vip.groupiptv.com:7000/live/lieven/lieven/4600.ts
+#EXTINF:-1,PT | FOX Life
+http://vip.groupiptv.com:7000/live/lieven/lieven/4601.ts
+#EXTINF:-1,PT | FOX Movies
+http://vip.groupiptv.com:7000/live/lieven/lieven/4602.ts
+#EXTINF:-1,PT | Fuel TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4603.ts
+#EXTINF:-1,PT | Hollywood
+http://vip.groupiptv.com:7000/live/lieven/lieven/4604.ts
+#EXTINF:-1,PT | MCM POP
+http://vip.groupiptv.com:7000/live/lieven/lieven/4605.ts
+#EXTINF:-1,PT | Motors TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4606.ts
+#EXTINF:-1,PT | Motorvision
+http://vip.groupiptv.com:7000/live/lieven/lieven/4607.ts
+#EXTINF:-1,PT | MOV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4608.ts
+#EXTINF:-1,PT | MTV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4609.ts
+#EXTINF:-1,PT | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/lieven/lieven/4610.ts
+#EXTINF:-1,PT | National Geographic
+http://vip.groupiptv.com:7000/live/lieven/lieven/4611.ts
+#EXTINF:-1,PT | Odissea
+http://vip.groupiptv.com:7000/live/lieven/lieven/4612.ts
+#EXTINF:-1,PT | PFC
+http://vip.groupiptv.com:7000/live/lieven/lieven/4613.ts
+#EXTINF:-1,PT | Porto Canal
+http://vip.groupiptv.com:7000/live/lieven/lieven/4614.ts
+#EXTINF:-1,PT | Real Madrid Channel
+http://vip.groupiptv.com:7000/live/lieven/lieven/4616.ts
+#EXTINF:-1,PT | Record
+http://vip.groupiptv.com:7000/live/lieven/lieven/4615.ts
+#EXTINF:-1,PT | RTP 1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4617.ts
+#EXTINF:-1,PT | RTP 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4618.ts
+#EXTINF:-1,PT | RTP 3
+http://vip.groupiptv.com:7000/live/lieven/lieven/4619.ts
+#EXTINF:-1,PT | RTP Acores
+http://vip.groupiptv.com:7000/live/lieven/lieven/4620.ts
+#EXTINF:-1,PT | RTP Africa
+http://vip.groupiptv.com:7000/live/lieven/lieven/4621.ts
+#EXTINF:-1,PT | RTP Madeira
+http://vip.groupiptv.com:7000/live/lieven/lieven/4622.ts
+#EXTINF:-1,PT | RTP Memoria
+http://vip.groupiptv.com:7000/live/lieven/lieven/4623.ts
+#EXTINF:-1,PT | SIC
+http://vip.groupiptv.com:7000/live/lieven/lieven/4624.ts
+#EXTINF:-1,PT | SIC Caras
+http://vip.groupiptv.com:7000/live/lieven/lieven/4625.ts
+#EXTINF:-1,PT | SIC K
+http://vip.groupiptv.com:7000/live/lieven/lieven/4626.ts
+#EXTINF:-1,PT | SIC Mulher
+http://vip.groupiptv.com:7000/live/lieven/lieven/4627.ts
+#EXTINF:-1,PT | SIC Noticias
+http://vip.groupiptv.com:7000/live/lieven/lieven/4628.ts
+#EXTINF:-1,PT | SIC Radical
+http://vip.groupiptv.com:7000/live/lieven/lieven/4629.ts
+#EXTINF:-1,PT | Sport TV 1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4630.ts
+#EXTINF:-1,PT | Sport TV 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4631.ts
+#EXTINF:-1,PT | Sport TV 3
+http://vip.groupiptv.com:7000/live/lieven/lieven/4632.ts
+#EXTINF:-1,PT | Sport TV 4
+http://vip.groupiptv.com:7000/live/lieven/lieven/4633.ts
+#EXTINF:-1,PT | Sport TV 5
+http://vip.groupiptv.com:7000/live/lieven/lieven/4634.ts
+#EXTINF:-1,PT | Sport TV Plus
+http://vip.groupiptv.com:7000/live/lieven/lieven/4635.ts
+#EXTINF:-1,PT | Sporting TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4636.ts
+#EXTINF:-1,PT | SyFy
+http://vip.groupiptv.com:7000/live/lieven/lieven/4637.ts
+#EXTINF:-1,PT | TLC
+http://vip.groupiptv.com:7000/live/lieven/lieven/4638.ts
+#EXTINF:-1,PT | Travel Channel
+http://vip.groupiptv.com:7000/live/lieven/lieven/4639.ts
+#EXTINF:-1,PT | TV Globo Portugal
+http://vip.groupiptv.com:7000/live/lieven/lieven/4640.ts
+#EXTINF:-1,PT | TV Globo Premium
+http://vip.groupiptv.com:7000/live/lieven/lieven/4641.ts
+#EXTINF:-1,PT | TV Series
+http://vip.groupiptv.com:7000/live/lieven/lieven/4642.ts
+#EXTINF:-1,PT | TVC 1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4643.ts
+#EXTINF:-1,PT | TVC 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4644.ts
+#EXTINF:-1,PT | TVC 3
+http://vip.groupiptv.com:7000/live/lieven/lieven/4645.ts
+#EXTINF:-1,PT | TVC 4
+http://vip.groupiptv.com:7000/live/lieven/lieven/4646.ts
+#EXTINF:-1,PT | TVI
+http://vip.groupiptv.com:7000/live/lieven/lieven/4647.ts
+#EXTINF:-1,PT | TVI 24
+http://vip.groupiptv.com:7000/live/lieven/lieven/4648.ts
+#EXTINF:-1,PT | TVI Ficcao
+http://vip.groupiptv.com:7000/live/lieven/lieven/4650.ts
+#EXTINF:-1,PT | TVI Reality
+http://vip.groupiptv.com:7000/live/lieven/lieven/4649.ts

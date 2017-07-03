@@ -1,174 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,&Pictures HD IN
-http://clientportal.link:8080/live/cran/cran/10134.ts
-#EXTINF:-1,&TV HD IN
-http://clientportal.link:8080/live/cran/cran/6234.ts
-#EXTINF:-1,9X Music IN
-http://clientportal.link:8080/live/cran/cran/10185.ts
-#EXTINF:-1,9X Tashan IN
-http://clientportal.link:8080/live/cran/cran/6240.ts
-#EXTINF:-1,ABP News India IN
-http://clientportal.link:8080/live/cran/cran/6235.ts
-#EXTINF:-1,ASIANET IN
-http://clientportal.link:8080/live/cran/cran/10183.ts
-#EXTINF:-1,ASIANET News IN
-http://clientportal.link:8080/live/cran/cran/10184.ts
-#EXTINF:-1,Aaj Tak International IN
-http://clientportal.link:8080/live/cran/cran/6225.ts
-#EXTINF:-1,A One Punjabi IN
-http://clientportal.link:8080/live/cran/cran/6232.ts
-#EXTINF:-1,B4U Aflam IN
-http://clientportal.link:8080/live/cran/cran/6252.ts
-#EXTINF:-1,B4U Movies IN
-http://clientportal.link:8080/live/cran/cran/6217.ts
-#EXTINF:-1,B4U Music IN
-http://clientportal.link:8080/live/cran/cran/6233.ts
-#EXTINF:-1,Bindass Play IN
-http://clientportal.link:8080/live/cran/cran/6236.ts
-#EXTINF:-1,Colors HD IN
-http://clientportal.link:8080/live/cran/cran/10172.ts
-#EXTINF:-1,Desi Channel IN
-http://clientportal.link:8080/live/cran/cran/10141.ts
-#EXTINF:-1,Nickelodeon JR IN
-http://clientportal.link:8080/live/cran/cran/10147.ts
-#EXTINF:-1,GEMINI MOVIES IN
-http://clientportal.link:8080/live/cran/cran/10182.ts
-#EXTINF:-1,Hamdard TV IN
-http://clientportal.link:8080/live/cran/cran/10145.ts
-#EXTINF:-1,JAYA MAX USA IN
-http://clientportal.link:8080/live/cran/cran/10181.ts
-#EXTINF:-1,Star Vijay IN
-http://clientportal.link:8080/live/cran/cran/10174.ts
-#EXTINF:-1,KTV IN
-http://clientportal.link:8080/live/cran/cran/6230.ts
-#EXTINF:-1,Kairali TV IN
-http://clientportal.link:8080/live/cran/cran/10123.ts
-#EXTINF:-1,LIFE OK HD IN
-http://clientportal.link:8080/live/cran/cran/10179.ts
-#EXTINF:-1,M Tune IN
-http://clientportal.link:8080/live/cran/cran/10178.ts
-#EXTINF:-1,MTV India IN
-http://clientportal.link:8080/live/cran/cran/6219.ts
-#EXTINF:-1,Tez TV IN
-http://clientportal.link:8080/live/cran/cran/10193.ts
-#EXTINF:-1,Nickelodeon IN
-http://clientportal.link:8080/live/cran/cran/10192.ts
-#EXTINF:-1,Media Punjabi IN
-http://clientportal.link:8080/live/cran/cran/10258.ts
-#EXTINF:-1,Movies OK IN
-http://clientportal.link:8080/live/cran/cran/10171.ts
-#EXTINF:-1,Music India IN
-http://clientportal.link:8080/live/cran/cran/6245.ts
-#EXTINF:-1,NDTV INDIA IN
-http://clientportal.link:8080/live/cran/cran/10180.ts
-#EXTINF:-1,NTV IN
-http://clientportal.link:8080/live/cran/cran/10142.ts
-#EXTINF:-1,Nollywood IN
-http://clientportal.link:8080/live/cran/cran/10194.ts
-#EXTINF:-1,PTC Chakde IN
-http://clientportal.link:8080/live/cran/cran/6243.ts
-#EXTINF:-1,PTC Punjabi IN
-http://clientportal.link:8080/live/cran/cran/6253.ts
-#EXTINF:-1,Peppers TV IN
-http://clientportal.link:8080/live/cran/cran/10245.ts
-#EXTINF:-1,Rishtey Europe IN
-http://clientportal.link:8080/live/cran/cran/6239.ts
-#EXTINF:-1,Sanskar TV IN
-http://clientportal.link:8080/live/cran/cran/10162.ts
-#EXTINF:-1,STAR SPORTS 1 HD IN
-http://clientportal.link:8080/live/cran/cran/10163.ts
-#EXTINF:-1,STAR SPORTS 2 HD IN
-http://clientportal.link:8080/live/cran/cran/10164.ts
-#EXTINF:-1,STAR SPORTS 3 HD IN
-http://clientportal.link:8080/live/cran/cran/10165.ts
-#EXTINF:-1,STAR SPORTS 4 HD IN
-http://clientportal.link:8080/live/cran/cran/10166.ts
-#EXTINF:-1,SUN MUSIC IN
-http://clientportal.link:8080/live/cran/cran/10176.ts
-#EXTINF:-1,SUN TV US IN
-http://clientportal.link:8080/live/cran/cran/10175.ts
-#EXTINF:-1,Sikh Channel IN
-http://clientportal.link:8080/live/cran/cran/10259.ts
-#EXTINF:-1,Sony Asia IN
-http://clientportal.link:8080/live/cran/cran/10139.ts
-#EXTINF:-1,Sony ESPN IN
-http://clientportal.link:8080/live/cran/cran/10238.ts
-#EXTINF:-1,Sony HD IN
-http://clientportal.link:8080/live/cran/cran/6221.ts
-#EXTINF:-1,Sony India IN
-http://clientportal.link:8080/live/cran/cran/10237.ts
-#EXTINF:-1,Sony Pix IN
-http://clientportal.link:8080/live/cran/cran/6222.ts
-#EXTINF:-1,Sony Max IN
-http://clientportal.link:8080/live/cran/cran/10156.ts
-#EXTINF:-1,Sony SAB Asia India IN
-http://clientportal.link:8080/live/cran/cran/6223.ts
-#EXTINF:-1,Star Gold IN
-http://clientportal.link:8080/live/cran/cran/10161.ts
-#EXTINF:-1,Star Movies HD IN
-http://clientportal.link:8080/live/cran/cran/10160.ts
-#EXTINF:-1,Star Plus Apac IN
-http://clientportal.link:8080/live/cran/cran/6220.ts
-#EXTINF:-1,Star Plus HD IN
-http://clientportal.link:8080/live/cran/cran/6248.ts
-#EXTINF:-1,Star USTAV IN
-http://clientportal.link:8080/live/cran/cran/6228.ts
-#EXTINF:-1,TEN 1 SPORTS IN
-http://clientportal.link:8080/live/cran/cran/10168.ts
-#EXTINF:-1,TEN 2 IN
-http://clientportal.link:8080/live/cran/cran/10170.ts
-#EXTINF:-1,TEN Golf HD IN
-http://clientportal.link:8080/live/cran/cran/10169.ts
-#EXTINF:-1,TV84 Punjabi IN
-http://clientportal.link:8080/live/cran/cran/10132.ts
-#EXTINF:-1,5AAB TV IN
-http://clientportal.link:8080/live/cran/cran/10236.ts
-#EXTINF:-1,UTV Movies Internationa IN
-http://clientportal.link:8080/live/cran/cran/6251.ts
-#EXTINF:-1,WE TV IN
-http://clientportal.link:8080/live/cran/cran/10187.ts
-#EXTINF:-1,WILLOW HD IN
-http://clientportal.link:8080/live/cran/cran/10167.ts
-#EXTINF:-1,ZEE Bangla IN
-http://clientportal.link:8080/live/cran/cran/10153.ts
-#EXTINF:-1,ZEE Telugu IN
-http://clientportal.link:8080/live/cran/cran/10155.ts
-#EXTINF:-1,Zee Action IN
-http://clientportal.link:8080/live/cran/cran/6249.ts
-#EXTINF:-1,Zee Bangla US IN
-http://clientportal.link:8080/live/cran/cran/10154.ts
-#EXTINF:-1,Zee BollyWood HD IN
-http://clientportal.link:8080/live/cran/cran/10173.ts
-#EXTINF:-1,Zee Business IN
-http://clientportal.link:8080/live/cran/cran/6246.ts
-#EXTINF:-1,Zee Cinema HD IN
-http://clientportal.link:8080/live/cran/cran/6247.ts
-#EXTINF:-1,Zee Cinema Inter IN
-http://clientportal.link:8080/live/cran/cran/10254.ts
-#EXTINF:-1,Zee Cinema UK IN
-http://clientportal.link:8080/live/cran/cran/10239.ts
-#EXTINF:-1,Zee Classic IN
-http://clientportal.link:8080/live/cran/cran/10255.ts
-#EXTINF:-1,Zee ETC HD IN
-http://clientportal.link:8080/live/cran/cran/6227.ts
-#EXTINF:-1,Zee Marathi 1 IN
-http://clientportal.link:8080/live/cran/cran/10256.ts
-#EXTINF:-1,Zee Marathi 2 IN
-http://clientportal.link:8080/live/cran/cran/10260.ts
-#EXTINF:-1,Zee Punjabi IN
-http://clientportal.link:8080/live/cran/cran/6244.ts
-#EXTINF:-1,Zee TV HD IN
-http://clientportal.link:8080/live/cran/cran/6237.ts
-#EXTINF:-1,Zee TV IN
-http://clientportal.link:8080/live/cran/cran/6242.ts
-#EXTINF:-1,Zee Zing IN
-http://clientportal.link:8080/live/cran/cran/6226.ts
-#EXTINF:-1,Zoom TV IN
-http://clientportal.link:8080/live/cran/cran/6254.ts
+#EXTINF:-1,IN | Asianet
+http://vip.groupiptv.com:7000/live/lieven/lieven/4788.ts
+#EXTINF:-1,IN | Asianet Movies
+http://vip.groupiptv.com:7000/live/lieven/lieven/4786.ts
+#EXTINF:-1,IN | Asianet News
+http://vip.groupiptv.com:7000/live/lieven/lieven/4785.ts
+#EXTINF:-1,IN | Asianet Plus
+http://vip.groupiptv.com:7000/live/lieven/lieven/4787.ts
+#EXTINF:-1,IN | Colors
+http://vip.groupiptv.com:7000/live/lieven/lieven/4784.ts
+#EXTINF:-1,IN | Jaya Max USA
+http://vip.groupiptv.com:7000/live/lieven/lieven/4781.ts
+#EXTINF:-1,IN | Jaya Movies
+http://vip.groupiptv.com:7000/live/lieven/lieven/4782.ts
+#EXTINF:-1,IN | Jaya Plus
+http://vip.groupiptv.com:7000/live/lieven/lieven/4783.ts
+#EXTINF:-1,IN | Jaya TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4780.ts
+#EXTINF:-1,IN | M Tunes
+http://vip.groupiptv.com:7000/live/lieven/lieven/4779.ts
+#EXTINF:-1,IN | Maa Gold
+http://vip.groupiptv.com:7000/live/lieven/lieven/4778.ts
+#EXTINF:-1,IN | Maa Music
+http://vip.groupiptv.com:7000/live/lieven/lieven/4777.ts
+#EXTINF:-1,IN | Santhora TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4798.ts
+#EXTINF:-1,IN | Sony
+http://vip.groupiptv.com:7000/live/lieven/lieven/4790.ts
+#EXTINF:-1,IN | Sony Max
+http://vip.groupiptv.com:7000/live/lieven/lieven/4775.ts
+#EXTINF:-1,IN | Sony Max 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4776.ts
+#EXTINF:-1,IN | Sony Sab
+http://vip.groupiptv.com:7000/live/lieven/lieven/4789.ts
+#EXTINF:-1,IN | Star Jalsha
+http://vip.groupiptv.com:7000/live/lieven/lieven/4774.ts
+#EXTINF:-1,IN | Star Sports 1
+http://vip.groupiptv.com:7000/live/lieven/lieven/4773.ts
+#EXTINF:-1,IN | Star Sports 2
+http://vip.groupiptv.com:7000/live/lieven/lieven/4772.ts
+#EXTINF:-1,IN | Star Sports 3
+http://vip.groupiptv.com:7000/live/lieven/lieven/4771.ts
+#EXTINF:-1,IN | Star Sports 4
+http://vip.groupiptv.com:7000/live/lieven/lieven/4770.ts
+#EXTINF:-1,IN | Sun Music
+http://vip.groupiptv.com:7000/live/lieven/lieven/4769.ts
+#EXTINF:-1,IN | Sun TV
+http://vip.groupiptv.com:7000/live/lieven/lieven/4767.ts
+#EXTINF:-1,IN | Sun TV US
+http://vip.groupiptv.com:7000/live/lieven/lieven/4768.ts
+#EXTINF:-1,IN | Ten Sports
+http://vip.groupiptv.com:7000/live/lieven/lieven/4766.ts
+#EXTINF:-1,IN | TV9
+http://vip.groupiptv.com:7000/live/lieven/lieven/4765.ts
+#EXTINF:-1,IN | Zee Anmol
+http://vip.groupiptv.com:7000/live/lieven/lieven/4796.ts
+#EXTINF:-1,IN | Zee Bangla
+http://vip.groupiptv.com:7000/live/lieven/lieven/4764.ts
+#EXTINF:-1,IN | Zee Business
+http://vip.groupiptv.com:7000/live/lieven/lieven/4792.ts
+#EXTINF:-1,IN | Zee Classic
+http://vip.groupiptv.com:7000/live/lieven/lieven/4797.ts
+#EXTINF:-1,IN | Zee Foodz
+http://vip.groupiptv.com:7000/live/lieven/lieven/4763.ts
+#EXTINF:-1,IN | Zee News
+http://vip.groupiptv.com:7000/live/lieven/lieven/4794.ts
+#EXTINF:-1,IN | Zee Punjabi
+http://vip.groupiptv.com:7000/live/lieven/lieven/4791.ts
+#EXTINF:-1,IN | Zee Smile
+http://vip.groupiptv.com:7000/live/lieven/lieven/4795.ts
+#EXTINF:-1,IN | Zee Studio
+http://vip.groupiptv.com:7000/live/lieven/lieven/4761.ts
+#EXTINF:-1,IN | Zee Tamil
+http://vip.groupiptv.com:7000/live/lieven/lieven/4793.ts
+#EXTINF:-1,US: ABC
+http://vip.groupiptv.com:7000/live/lieven/lieven/5274.ts
+#EXTINF:-1,IN | Zee Telugu
+http://vip.groupiptv.com:7000/live/lieven/lieven/4762.ts
+#EXTINF:-1,IN | Zing
+http://vip.groupiptv.com:7000/live/lieven/lieven/4760.ts
