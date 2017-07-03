@@ -3,823 +3,258 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:0,DREAM1
-http://50.23.65.8/live/dream1/index.m3u8
-#EXTINF:0,DREAM2
-http://50.23.65.8/live/dream2/index.m3u8
-#EXTINF:0,rotana_classic
-http://50.23.65.8/live/rotana_classic/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait/index.m3u8
-#EXTINF:0,rotana_massriya
-http://50.23.65.8/live/set_el_bait_plus/index.m3u8
-#EXTINF:0,ON TV
-http://50.23.65.8/live/ontv/index.m3u
-#EXTINF:0,ON TV LIVE
-http://50.23.65.8/live/ontv_live/index.m3u8
-#EXTINF:0,ON TV PLUS
-http://50.23.65.8live/ontv_plus/index.m3u8
-#EXTINF:0,ON TV LIVE PLUS
-http://50.23.65.8/live/ontv_live_plus/index.m3u8
-#EXTINF:0,el_mehwar_plus
-http://50.23.65.8/live/el_mehwar_plus/index.m3u8
-#EXTINF:0,al nahar + 2
-http://50.23.65.8/live/al-nahar_plus2/index.m3u8
-#EXTINF:0,al-nahar_drama
-http://50.23.65.8/live/al-nahar_drama/index.m3u8
-#EXTINF:0,al-nahar_al_youm
-http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
-#EXTINF:0,al-nahar_al_youm
-http://50.23.65.8/live/al-nahar_al_youm/index.m3u8
-#EXTINF:0,al-nahar_drama
-http://50.23.65.8/live/al_kahera_wal_nas/index.m3u8
-#EXTINF:0,faraeen_channel
-http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
-#EXTINF:0,faraeen_channel
-http://50.23.65.8/live/faraeen_channel/index.m3u8
-#EXTINF:0,cbc_extra
-http://50.23.65.8/live/cbc_plus/index.m3u8
-#EXTINF:0,cbc_extra
-http://50.23.65.8/live/cbc_extra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://50.23.65.8/live/cbc_sofra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://50.23.65.8/live/cbc_sofra/index.m3u8
-#EXTINF:0,cbc_drama
-http://50.23.65.8/live/cbc_drama/index.m3u8
-#EXTINF:0,cbc_extra_plus
-http://50.23.65.8/live/cbc_extra_plus/index.m3u8
-#EXTINF:0,cbc_sofra_plus
-http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
-#EXTINF:0,cbc_drama_plus
-http://50.23.65.8/live/cbc_drama_plus/index.m3u8
-#EXTINF:0,al_oula_egypt
-http://50.23.65.8/live/al_oula_egypt/index.m3u8
-#EXTINF:0,CBC TWO
-http://50.23.65.8/live/cbc_two/index.m3u8
-#EXTINF:0,CBC TWO +
-http://50.23.65.8/live/cbc_two_plus/index.m3u8
-#EXTINF:0,sada_el_balad
-http://50.23.65.8/live/sada_el_balad/index.m3u8
-#EXTINF:0,sada_el_balad
-http://50.23.65.8/live/sada_el_balad/index.m3u8
-#EXTINF:0,FB:ANIS SAT
-http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
-#EXTINF:0,sada_el_balad_drama
-http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
-#EXTINF:0,sada_el_balad_plus
-http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
-#EXTINF:0,sada_el_balad_drama_plus
-http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
-#EXTINF:0,nile_cinema
-http://50.23.65.8/live/nile_cinema/index.m3u8
-#EXTINF:0,nile_comedy
-http://50.23.65.8/live/nile_comedy/index.m3u8
-#EXTINF:0,nile_news
-http://50.23.65.8/live/nile_news/index.m3u8
-#EXTINF:0,nile_family
-http://50.23.65.8/live/nile_family/index.m3u8
-#EXTINF:0,nile_culture
-http://50.23.65.8/live/nile_culture/index.m3u8
-#EXTINF:0,nile_culture
-http://50.23.65.8/live/nile_culture/index.m3u8
-#EXTINF:0,nile_life
-http://50.23.65.8/live/nile_life/index.m3u8
-#EXTINF:0,nile_cinema_plus
-http://50.23.65.8/live/nile_cinema_plus/index.m3u8
-#EXTINF:0,nile_comedy_plus
-http://50.23.65.8/live/nile_comedy_plus/index.m3u8
-#EXTINF:0,nile_news_plus
-http://50.23.65.8/live/nile_news_plus/index.m3u8
-#EXTINF:0,nile_family_plus
-http://50.23.65.8/live/nile_family_plus/index.m3u8
-#EXTINF:0,nile_culture_plus
-http://50.23.65.8/live/nile_culture_plus/index.m3u8
-#EXTINF:0,nile_life_plus
-http://50.23.65.8/live/nile_life_plus/index.m3u8
-#EXTINF:0,nile_life_plus
-http://50.23.65.8/live/nile_life_plus/index.m3u8
-#EXTINF:0,panorama_film
-http://50.23.65.8/live/panorama_film/index.m3u8
-#EXTINF:0,panorama_drama
-http://50.23.65.8/live/panorama_cinema/index.m3u8
-#EXTINF:0,panorama_drama_1
-http://50.23.65.8/live/panorama_drama_i/index.m3u8
-#EXTINF:0,panorama_drama_2
-http://50.23.65.8/live/panorama_drama_ii/index.m3u8
-#EXTINF:0,panorama_comedy
-http://50.23.65.8/live/panorama_comedy/index.m3u8
-#EXTINF:0,panorama_comedy
-http://50.23.65.8/live/panorama_comedy/index.m3u8
-#EXTINF:0,panorama_film_plus
-http://50.23.65.8/live/panorama_film_plus/index.m3u8
-#EXTINF:0,panorama_cinema_plus
-http://50.23.65.8/live/panorama_cinema_plus/index.m3u8
-#EXTINF:0,panorama_drama_1_plus
-http://50.23.65.8/live/panorama_drama_i_plus/index.m3u8
-#EXTINF:0,panorama_drama_2_plus
-http://50.23.65.8/live/panorama_drama_ii_plus/index.m3u8
-#EXTINF:0,panorama_comedy_plus
-http://50.23.65.8/live/panorama_comedy_plus/index.m3u8
-#EXTINF:0,time_drama
-http://50.23.65.8/live/time_drama/index.m3u8
-#EXTINF:0,time_comedy
-http://50.23.65.8/live/time_comedy/index.m3u8
-#EXTINF:0,time_turki
-http://50.23.65.8/live/time_turki/index.m3u8
-#EXTINF:0,time_film
-http://50.23.65.8/live/time_film/index.m3u8
-#EXTINF:0,time_film
-http://50.23.65.8/live/time_film/index.m3u8
-#EXTINF:0,time_action
-http://50.23.65.8/live/time_action/index.m3u
-#EXTINF:0,time_cinema_1_plus
-http://50.23.65.8/live/time_cinema_i_plus/index.m3u8
-#EXTINF:0,time_cinema_2_plus
-http://50.23.65.8/live/time_cinema_2_plus/index.m3u8
-#EXTINF:0,time_drama_plus
-http://50.23.65.8/live/time_drama_plus/index.m3u8
-#EXTINF:0,time_comedy_plus
-http://50.23.65.8/live/time_comedy_plus/index.m3u8
-#EXTINF:0,time_turki_plus
-http://50.23.65.8/live/time_turki_plus/index.m3u8
-#EXTINF:0,time_film_plus
-http://50.23.65.8/live/time_film_plus/index.m3u8
-#EXTINF:0,time_taxi_plus
-http://50.23.65.8/live/time_taxi_plus/index.m3u8
-#EXTINF:0,time_action_plus
-http://50.23.65.8/live/time_action_plus/index.m3u8
-#EXTINF:0,time_action_plus
-http://50.23.65.8/live/time_action_plus/index.m3u8
-#EXTINF:0,darbaka_aflam
-http://50.23.65.8/live/darbaka_aflam/index.m3u8
-#EXTINF:0,darbaka_aflam
-http://50.23.65.8/live/darbaka_aflam/index.m3u8
-#EXTINF:0,darbaka_cinema
-http://50.23.65.8/live/darbaka_cinema/index.m3u8
-#EXTINF:0,darbaka_aflam_plus
-http://50.23.65.8/live/darbaka_aflam_plus/index.m3u8
-#EXTINF:0,cairo_zaman
-http://50.23.65.8/live/cairo_zaman/index.m3u8
-#EXTINF:0,cairo_cinema
-http://50.23.65.8/live/cairo_cinema/index.m3u8
-#EXTINF:0,cairo_drama
-http://50.23.65.8/live/cairo_drama/index.m3u8
-#EXTINF:0,cairo_cinema_plus
-http://50.23.65.8/live/cairo_cinema_plus/index.m3u8
-#EXTINF:0,airo_zaman_plus
-http://50.23.65.8/live/cairo_zaman_plus/index.m3u8
-#EXTINF:0,cairo_drama_plus
-http://50.23.65.8/live/cairo_drama_plus/index.m3u8
-#EXTINF:0,lcd_aflam
-http://50.23.65.8/live/lcd_aflam/index.m3u8
-#EXTINF:0,toktok_cinema
-http://50.23.65.8/live/toktok_cinema/index.m3u8
-#EXTINF:0,almasraweya_aflam
-http://50.23.65.8/live/almasraweya_aflam/index.m3u8
-#EXTINF:0,cima_shobra_palace
-http://50.23.65.8/live/cima_shobra_palace/index.m3u8
-#EXTINF:0,cima_shobra_palace
-http://50.23.65.8/live/cima_shobra_palace/index.m3u8
-#EXTINF:0,al_shasha
-http://50.23.65.8/live/al_shasha/index.m3u8
-#EXTINF:0,al_shasha
-http://50.23.65.8/live/al_shasha/index.m3u8
-#EXTINF:0,kalb_el_asad
-http://50.23.65.8/live/kalb_el_asad/index.m3u8
-#EXTINF:0,time_ekhtarna_lak
-http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
-#EXTINF:0,time_ekhtarna_lak
-http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
-#EXTINF:0,halawet_rooh
-http://50.23.65.8/live/halawet_rooh/index.m3u8
-#EXTINF:0,abla_fahita
-http://50.23.65.8/live/abla_fahita/index.m3u8
-#EXTINF:0,abla_fahita
-http://50.23.65.8/live/abla_fahita/index.m3u8
-#EXTINF:0,abc_aflam
-http://50.23.65.8/live/abc_aflam/index.m3u8
-#EXTINF:0,rotana_moussica
-http://50.23.65.8/live/rotana_moussica/index.m3u8
-#EXTINF:0,rotana_moussica
-http://50.23.65.8/live/rotana_moussica/index.m3u8
-#EXTINF:0,rotana_clip
-http://50.23.65.8/live/rotana_clip/index.m3u8
-#EXTINF:0,sha3beyat
-http://50.23.65.8/live/sha3beyat/index.m3u8
-#EXTINF:0,top_movies
-http://50.23.65.8/live/top_movies/index.m3u8
-#EXTINF:0,top_movies
-http://50.23.65.8/live/top_movies/index.m3u8
-#EXTINF:0,sama_dubai
-http://50.23.65.8/live/sama_dubai/index.m3u8
-#EXTINF:0,al_qithara_tv
-http://50.23.65.8/live/al_qithara_tv/index.m3u8
-#EXTINF:0,arab_woman
-http://50.23.65.8/live/arab_woman/index.m3u8
-#EXTINF:0,nile_sport
-http://50.23.65.8/live/al_nahar_sport/index.m3u8
-#EXTINF:0,nile_sport_plus7
-http://50.23.65.8/live/al_nahar_sport_plus7/index.m3u8
-#EXTINF:0,nile_sport
-http://50.23.65.8/live/nile_sport/index.m3u8
-#EXTINF:0,nile_sport_plus7
-http://50.23.65.8/live/nile_sport_plus7/index.m3u8
-#EXTINF:0,abu_dhabi_sports
-http://50.23.65.8/live/abu_dhabi_sports/index.m3u8
-#EXTINF:0,syria_drama
-http://50.23.65.8/live/syria_drama/index.m3u8
-#EXTINF:0,nessma
-http://50.23.65.8/live/nessma/index.m3u8
-#EXTINF:0,syria_sat
-http://50.23.65.8/live/syria_sat/index.m3u8
-#EXTINF:0,jordan_tv
-http://50.23.65.8/live/jordan_tv/index.m3u8
-#EXTINF:0,libya_alhurra
-http://50.23.65.8/live/libya_alhurra/index.m3u8
-#EXTINF:0,al_maghribia
-http://50.23.65.8/live/al_maghribia/index.m3u8
-#EXTINF:0,ktv_1
-http://50.23.65.8/live/ktv_i/index.m3u8
-#EXTINF:0,ktv_2
-http://50.23.65.8/live/ktv_ii/index.m3u8
-#EXTINF:0,ktv_3
-http://50.23.65.8/live/ktv_iii/index.m3u8
-#EXTINF:0,TRT 6
-http://50.23.65.8/live/trt_6/index.m3u8
-#EXTINF:0,al_sumariya
-http://50.23.65.8/al_sumariya/index.m3u8
-#EXTINF:0,al_sharqiya
-http://50.23.65.8/live/al_sharqiya/index.m3u8
-#EXTINF:0,al_sharqiya
-http://50.23.65.8/live/al_sharqiya/index.m3u8
-#EXTINF:0,al_baghdadia
-http://50.23.65.8/live/al_baghdadia/index.m3u8
-#EXTINF:0,france_24_english
-http://50.23.65.8/live/france_24_english/index.m3u8
-#EXTINF:0,russia_today
-http://50.23.65.8/live/russia_today/index.m3u8
-#EXTINF:0,BBC ARABIC
-http://50.23.65.8/live/bbc_arabic/index.m3u8
-#EXTINF:0,koky_kids
-http://50.23.65.8/live/koky_kids/index.m3u8
-#EXTINF:0,smile_of_a_child
-http://50.23.65.8/live/smile_of_a_child/index.m3u8
-#EXTINF:0,kidzinia
-http://50.23.65.8/live/kidzinia/index.m3u8
-#EXTINF:0,sat7_kids
-http://50.23.65.8/live/sat7_kids/index.m3u8
-#EXTINF:0,CTV
-http://50.23.65.8/live/ctv/index.m3u8
-#EXTINF:0,logos
-http://50.23.65.8/live/logos/index.m3u8
-#EXTINF:0,al_horreya
-http://50.23.65.8live/al_horreya/index.m3u8
-#EXTINF:0,cyc_tv
-http://50.23.65.8/live/cyc_tv/index.m3u8
-#EXTINF:0,coptic_sat
-http://50.23.65.8/live/coptic_sat/index.m3u8
-#EXTINF:0,me_sat
-http://50.23.65.8/live/me_sat/index.m3u8
-#EXTINF:0,al_resalla
-http://50.23.65.8/live/al_resalla/index.m3u8
-#EXTINF:0,al_resalla
-http://50.23.65.8/live/al_resalla/index.m3u8
-#EXTINF:0,azhari
-http://50.23.65.8/live/azhari/index.m3u8
-#EXTINF:0,time_quran
-http://50.23.65.8/live/time_quran/index.m3u8
-#EXTINF:0,amjad_tv
-http://50.23.65.8/live/amjad_tv/index.m3u8
-#EXTINF:0,amjad_tv
-http://50.23.65.8/live/amjad_tv/index.m3u8
-#EXTINF:0,al_majd
-http://50.23.65.8/live/al_majd/index.m3u8
-#EXTINF:0,al_majd
-http://50.23.65.8/live/al_majd/index.m3u8
-#EXTINF:0,al_naeem_tv
-http://50.23.65.8/live/al_naeem_tv/index.m3u8
-#EXTINF:0,russia_today
-http://50.23.65.8/live/russia_today/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,AR:BeinMovie 4HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2741.ts
-#EXTINF:-1,AR:BeinMovie 2HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2740.ts
-#EXTINF:-1,AR:BeinMovie 1HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2739.ts
-#EXTINF:-1,AR: Zee_Alwan
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3127.ts
-#EXTINF:-1,AR: ZEE_Aflam
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3251.ts
-#EXTINF:-1,AR: AbudhabiTV_HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3248.ts
-#EXTINF:-1,AR: 2M
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3273.ts
-#EXTINF:-1,AR: zee_aflem
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3250.ts
-#EXTINF:-1,AR: zaitouna
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3128.ts
-#EXTINF:-1,AR: WESAL
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3129.ts
-#EXTINF:-1,AR: Tunisia_Nat_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3130.ts
-#EXTINF:-1,AR: TUNISIA_NATIONAL_2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3131.ts
-#EXTINF:-1,AR: tunisia_first_tv
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3132.ts
-#EXTINF:-1,AR: TOYOR_AL_JANAH
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3143.ts
-#EXTINF:-1,AR: TNN_Tunisia
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3144.ts
-#EXTINF:-1,AR: Time_Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3145.ts
-#EXTINF:-1,AR: Time_Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3146.ts
-#EXTINF:-1,AR: Ten
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3148.ts
-#EXTINF:-1,AR: Tanasuh_Libye
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3149.ts
+#EXTINF:-1,=======   ARABIAN   =======
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/2610.ts
+#EXTINF:-1,=====  Maroc  =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13979.ts
+#EXTINF:-1,AR: 2M Monde
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9992.ts
+#EXTINF:-1,AR: Assadissa
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9998.ts
 #EXTINF:-1,AR: TAMAZIGHT
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3252.ts
-#EXTINF:-1,AR: SYRIA_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3150.ts
-#EXTINF:-1,AR: SYRIA_DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3151.ts
-#EXTINF:-1,AR: SYRIA_AOULA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3152.ts
-#EXTINF:-1,AR: SYRIA NEWS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3253.ts
-#EXTINF:-1,AR: SUNNA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3254.ts
-#EXTINF:-1,AR: spacetoon
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3153.ts
-#EXTINF:-1,AR: SKY_NEWS_AR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3154.ts
-#EXTINF:-1,AR: SEMSEM
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3155.ts
-#EXTINF:-1,AR: SAUDI_2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3156.ts
-#EXTINF:-1,AR: SAUDI_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3157.ts
-#EXTINF:-1,AR: SaudiSport
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3158.ts
-#EXTINF:-1,AR: Samira_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3159.ts
-#EXTINF:-1,AR: SAMA_DUBAI
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3160.ts
-#EXTINF:-1,AR: Sada_Elbalad_Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3161.ts
-#EXTINF:-1,AR: Sada_Elbalad_2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3162.ts
-#EXTINF:-1,AR: RT_ARABIC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3274.ts
-#EXTINF:-1,AR: ROTONA CLIP
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3255.ts
-#EXTINF:-1,AR: ROTANA_CINEMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3259.ts
-#EXTINF:-1,AR: ROTANA MASRYIA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3256.ts
-#EXTINF:-1,AR: ROTANA KHALYJIA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3257.ts
-#EXTINF:-1,AR: Rotana Classic
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3258.ts
-#EXTINF:-1,AR: Panorama_Film
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3163.ts
-#EXTINF:-1,AR: Panorama_Drama2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3164.ts
-#EXTINF:-1,AR: Panorama_Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3165.ts
-#EXTINF:-1,AR: Panorama_Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3166.ts
-#EXTINF:-1,AR: NOON_tv
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3167.ts
-#EXTINF:-1,AR: NILE_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3168.ts
-#EXTINF:-1,AR: NILE_DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3169.ts
-#EXTINF:-1,AR: nessma
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3170.ts
-#EXTINF:-1,AR: National Geo Abu Dhabi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3260.ts
-#EXTINF:-1,AR: NAHAR: DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3172.ts
-#EXTINF:-1,AR: NABAA_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3173.ts
-#EXTINF:-1,AR: MTV_Lebanon
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3174.ts
-#EXTINF:-1,AR: Moga_Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3175.ts
-#EXTINF:-1,AR: MEKKA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3176.ts
-#EXTINF:-1,AR: Medi_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3177.ts
-#EXTINF:-1,AR: MBC_Sports_Pro3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3178.ts
-#EXTINF:-1,AR: MBC_Sports_Pro2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3179.ts
-#EXTINF:-1,AR: MBC_Sports_Pro1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3180.ts
-#EXTINF:-1,AR: MBC_MAX
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3181.ts
-#EXTINF:-1,AR: MBC_MASR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3182.ts
-#EXTINF:-1,AR: MBC_DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3183.ts
-#EXTINF:-1,AR: MBC_BOLLYWOOD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3184.ts
-#EXTINF:-1,AR: MBC_ACTION
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3185.ts
-#EXTINF:-1,AR: MBC_4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3186.ts
-#EXTINF:-1,AR: MBC_3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3187.ts
-#EXTINF:-1,AR: MBC_2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3188.ts
-#EXTINF:-1,AR: MBC_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3189.ts
-#EXTINF:-1,AR: MANAR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3275.ts
-#EXTINF:-1,AR: MAJD_KIDS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3190.ts
-#EXTINF:-1,AR: Libya_One_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3191.ts
-#EXTINF:-1,AR: Libya_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3192.ts
-#EXTINF:-1,AR: LEBANON
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3193.ts
-#EXTINF:-1,AR: LDC_Lebanon
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3194.ts
-#EXTINF:-1,AR: LBC_Sat
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3195.ts
-#EXTINF:-1,AR: KUWAIT_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3196.ts
-#EXTINF:-1,AR: KUWAIT_2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3197.ts
-#EXTINF:-1,AR: kbc_algeria
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3198.ts
-#EXTINF:-1,AR: Karameesh
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3199.ts
-#EXTINF:-1,AR: IQRA_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3200.ts
-#EXTINF:-1,AR: hanibal
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3201.ts
-#EXTINF:-1,AR: FUTURE_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3202.ts
-#EXTINF:-1,AR: FRANCE_24_FR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3203.ts
-#EXTINF:-1,AR: Ettounsia_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3204.ts
-#EXTINF:-1,AR: Ennahar tv alg
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3261.ts
-#EXTINF:-1,AR: El_djazairia
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3205.ts
-#EXTINF:-1,AR: El Heddaf_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3206.ts
-#EXTINF:-1,AR: ECHOUROUKBENNA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3207.ts
-#EXTINF:-1,AR: ECHOROUK TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3208.ts
-#EXTINF:-1,AR: DzairNews
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3209.ts
-#EXTINF:-1,AR: DUBAI_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3210.ts
-#EXTINF:-1,AR: Dubai_Sports3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3211.ts
-#EXTINF:-1,AR: Dubai_Racing2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3212.ts
-#EXTINF:-1,AR: Dubai_Racing
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3213.ts
-#EXTINF:-1,AR: DUBAI_one
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3214.ts
-#EXTINF:-1,AR: DUBAI_NOUR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3215.ts
-#EXTINF:-1,AR: DUBAI_DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3216.ts
-#EXTINF:-1,AR: CBC_Sofra
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3217.ts
-#EXTINF:-1,AR: CBC_Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3218.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9991.ts
+#EXTINF:-1,=====  ALGERIE  =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13980.ts
+#EXTINF:-1,AR: A3
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15747.ts
+#EXTINF:-1,AR: Al Fajr tv
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15754.ts
+#EXTINF:-1,AR: Al Magharibia Two
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15761.ts
+#EXTINF:-1,AR: Alnahar algeria
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9973.ts
+#EXTINF:-1,AR: Berbère Télévision
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15762.ts
+#EXTINF:-1,AR: Beur TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15763.ts
+#EXTINF:-1,AR: Canal Algerie
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15746.ts
+#EXTINF:-1,AR: Dzair News
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15759.ts
+#EXTINF:-1,AR: Dzair TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9990.ts
+#EXTINF:-1,AR: Samira TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15749.ts
+#EXTINF:-1,AR: Numidia News TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15757.ts
+#EXTINF:-1,AR: Magharibia 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15760.ts
+#EXTINF:-1,AR: TV Coran Dz5
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15755.ts
+#EXTINF:-1,AR: KBC Dz
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15753.ts
+#EXTINF:-1,AR: KBC Algeria
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8786.ts
+#EXTINF:-1,AR: Echourouk tv
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9988.ts
+#EXTINF:-1,AR: Ennahar Laki
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15750.ts
+#EXTINF:-1,AR: Echourouk News
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9989.ts
+#EXTINF:-1,AR: ENTV Algerie
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15756.ts
+#EXTINF:-1,AR: Ennahar TV Algerie
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8795.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15751.ts
+#EXTINF:-1,AR: TV Tamazight
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15748.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15752.ts
+#EXTINF:-1,AR: EL Djazairia
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15764.ts
+#EXTINF:-1,=====  TUNISIE =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13981.ts
+#EXTINF:-1,AR: Tunisia National 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9986.ts
+#EXTINF:-1,AR: Tunisia National 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9987.ts
+#EXTINF:-1,AR: NESSMA TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9994.ts
+#EXTINF:-1,AR: Zaytoona
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9995.ts
+#EXTINF:-1,=====  LEBANON =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13982.ts
+#EXTINF:-1,AR: Future TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9999.ts
+#EXTINF:-1,AR: Panorama Film
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9930.ts
+#EXTINF:-1,AR: LBC Lebanon
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16865.ts
+#EXTINF:-1,AR: MTV Lebananon
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16860.ts
+#EXTINF:-1,AR: OTV Lebanon
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16864.ts
+#EXTINF:-1,AR: Bein FataFeat HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13601.ts
+#EXTINF:-1,=====  EGYPTE =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13983.ts
+#EXTINF:-1,AR: Al Nahar Al Youm
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9975.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9974.ts
+#EXTINF:-1,AR: Al Nahar TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9972.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9955.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9954.ts
+#EXTINF:-1,AR: ART CINEMA
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9956.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9958.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9959.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9979.ts
+#EXTINF:-1,AR: Cairo Drama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9980.ts
 #EXTINF:-1,AR: CBC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3219.ts
-#EXTINF:-1,AR: CartoonNetworkArabic
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3220.ts
-#EXTINF:-1,AR: Canal_algerie
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3221.ts
-#EXTINF:-1,AR: bzaflive
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3222.ts
-#EXTINF:-1,AR: BAREM
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3223.ts
-#EXTINF:-1,AR: BAHRAIN_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3224.ts
-#EXTINF:-1,AR: attassia_tv
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3226.ts
-#EXTINF:-1,AR: art_cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3262.ts
-#EXTINF:-1,AR: art_aflem_1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3263.ts
-#EXTINF:-1,AR: ART HEKAYAT1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3264.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3265.ts
-#EXTINF:-1,AR: ART Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2220.ts
-#EXTINF:-1,AR: art aflam 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3266.ts
-#EXTINF:-1,AR: AL Riadia
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3267.ts
-#EXTINF:-1,AR: ARRABIA_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3268.ts
-#EXTINF:-1,AR: aoula_maroc
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3269.ts
-#EXTINF:-1,AR: al_tunisia
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3227.ts
-#EXTINF:-1,AR: AL_RAI
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3228.ts
-#EXTINF:-1,AR: Al_Mayadeen
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3229.ts
-#EXTINF:-1,AR: Al_Ma3ali _TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3230.ts
-#EXTINF:-1,AR: Al_Jadeed
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3231.ts
-#EXTINF:-1,AR: ALSHARGIYA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3232.ts
-#EXTINF:-1,AR: ALRESALAH
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3233.ts
-#EXTINF:-1,AR: AlMoutawasetTV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3234.ts
-#EXTINF:-1,AR: aljazeera
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3235.ts
-#EXTINF:-1,AR: Aljanoubiya
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3236.ts
-#EXTINF:-1,AR: alhayat
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3238.ts
-#EXTINF:-1,AR: Algerie_4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3239.ts
-#EXTINF:-1,AR: algeria_3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3240.ts
-#EXTINF:-1,AR: ALEKHBARIYA_NEWS
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3241.ts
-#EXTINF:-1,AR: Albait_Baitak_Cinem
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3242.ts
-#EXTINF:-1,AR: Alaraby hadath
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3270.ts
-#EXTINF:-1,AR: Alarabiya
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3278.ts
-#EXTINF:-1,AR: Alaoula layoune
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3271.ts
-#EXTINF:-1,AR: Al HiwAR: Ettounsi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3243.ts
-#EXTINF:-1,AR: Al Alam
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3272.ts
-#EXTINF:-1,AR: AJAL_TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3244.ts
-#EXTINF:-1,AR: ADALEMARAT_HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3245.ts
-#EXTINF:-1,AR: Abu_Dhabi_Sports_2HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3246.ts
-#EXTINF:-1,AR: Abu_Dhabi_Sports_1HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3247.ts
-#EXTINF:-1,AR: 218TV_libye
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3249.ts
-#EXTINF:-1,AR France 24 ar
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3276.ts
-#EXTINF:-1,AR ANN
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3277.ts
-#EXTINF:-1,TN: ZAYTOUNA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2226.ts
-#EXTINF:-1,TN: Tunisie Nat 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2222.ts
-#EXTINF:-1,TN: Tunisie Nat 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2221.ts
-#EXTINF:-1,TN: Tounesna
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2227.ts
-#EXTINF:-1,TN: Nessma TV
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2223.ts
-#EXTINF:-1,TN: Hannibal
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2224.ts
-#EXTINF:-1,TN: AL Hiwar ElTounsi
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2225.ts
-#EXTINF:-1,shams fm
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3133.ts
-#EXTINF:-1,sabra fm
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3134.ts
-#EXTINF:-1,BG: TV Roma
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2854.ts
-#EXTINF:-1,BG: Balkanika Music TV HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2855.ts
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,AR: BeiN Sports MAX 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6240.ts
-#EXTINF:-1,AR: BeiN Sports MAX 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6242.ts
-#EXTINF:-1,AR: Discovery Science HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/7290.ts
-#EXTINF:-1,AR: Mio STADIUM 101
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4597.ts
-#EXTINF:-1,AR: OSN AL-SAFWA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6518.ts
-#EXTINF:-1,AR: OSN ART Aflam 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6523.ts
-#EXTINF:-1,AR: OSN ART Aflam 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6522.ts
-#EXTINF:-1,AR: OSN ART Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6521.ts
-#EXTINF:-1,AR: OSN ART Hekayat 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6520.ts
-#EXTINF:-1,AR: OSN ART Hekayat 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6519.ts
-#EXTINF:-1,AR: OSN BOX OFFICE 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6530.ts
-#EXTINF:-1,AR: OSN BOX OFFICE 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6529.ts
-#EXTINF:-1,AR: OSN BOX OFFICE 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6528.ts
-#EXTINF:-1,AR: OSN ELYOM
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6546.ts
-#EXTINF:-1,AR: OSN Home Cinema 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6515.ts
-#EXTINF:-1,AR: OSN Home Cinema 10
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6506.ts
-#EXTINF:-1,AR: OSN Home Cinema 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6514.ts
-#EXTINF:-1,AR: OSN Home Cinema 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6513.ts
-#EXTINF:-1,AR: OSN Home Cinema 4
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6512.ts
-#EXTINF:-1,AR: OSN Home Cinema 5
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6511.ts
-#EXTINF:-1,AR: OSN Home Cinema 6
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6510.ts
-#EXTINF:-1,AR: OSN Home Cinema 7
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6509.ts
-#EXTINF:-1,AR: OSN Home Cinema 8
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6508.ts
-#EXTINF:-1,AR: OSN Home Cinema 9
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6507.ts
-#EXTINF:-1,AR: OSN Movies  Action  2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6534.ts
-#EXTINF:-1,AR: OSN Movies 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4498.ts
-#EXTINF:-1,AR: OSN MOVIES COMEDY  2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6536.ts
-#EXTINF:-1,AR: OSN Movies Drama-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6531.ts
-#EXTINF:-1,AR: OSN Movies HD  2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6532.ts
-#EXTINF:-1,AR: OSN Movies Premier  2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6538.ts
-#EXTINF:-1,AR: OSN MOVIES-ACTION HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6535.ts
-#EXTINF:-1,AR: OSN MOVIES-COMEDY
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6537.ts
-#EXTINF:-1,AR: OSN MOVIES-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6533.ts
-#EXTINF:-1,AR: OSN Movies-Premiere-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6539.ts
-#EXTINF:-1,AR: OSN Music Now
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6524.ts
-#EXTINF:-1,AR: OSN On Demand Extra 1HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6526.ts
-#EXTINF:-1,AR: OSN On Demand Extra 2HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6525.ts
-#EXTINF:-1,AR: OSN On Demand HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6527.ts
-#EXTINF:-1,AR: OSN ORBIT-CINEMA-1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6517.ts
-#EXTINF:-1,AR: OSN ORBIT-CINEMA-2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6516.ts
-#EXTINF:-1,AR: OSN Star movies HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6545.ts
-#EXTINF:-1,AR: OSN Star world
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6544.ts
-#EXTINF:-1,AR: OSN Ya hala Cinema HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6540.ts
-#EXTINF:-1,AR: OSN YAHAlA-DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6541.ts
-#EXTINF:-1,AR: OSN YAHALA-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6543.ts
-#EXTINF:-1,AR: OSN YAHALA-SHABAB
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6542.ts
-#EXTINF:-1,AR: OSN-On-Demand-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4603.ts
-#EXTINF:-1,AR: OSN-Yahala-HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4601.ts
-#EXTINF:-1,AR: Osn WWE HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/6505.ts
-#EXTINF:-1,AR: STAR
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4600.ts
-#EXTINF:-1,AR:MBC-MAX
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4533.ts
-#EXTINF:-1,AR: MBC Masr HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4529.ts
-#EXTINF:-1,AR:Nile Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4528.ts
-#EXTINF:-1,AR:Nile Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4527.ts
-#EXTINF:-1,AR:Nile Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4526.ts
-#EXTINF:-1,AR:NileDrama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4525.ts
-#EXTINF:-1,AR:OSN AMC
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4515.ts
-#EXTINF:-1,AR:OSN CBC reality
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4514.ts
-#EXTINF:-1,AR:OSN Cinema 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4513.ts
-#EXTINF:-1,AR:OSN FIRST HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4512.ts
-#EXTINF:-1,AR:OSN YAHALA HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4511.ts
-#EXTINF:-1,AR:OSN Movies 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4499.ts
-#EXTINF:-1,AR:OSN Movies 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4500.ts
-#EXTINF:-1,AR:OSN Movies Action 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4510.ts
-#EXTINF:-1,AR:OSN Movies Action HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4506.ts
-#EXTINF:-1,AR:OSN Movies Comedy
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4508.ts
-#EXTINF:-1,AR:OSN Movies Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4509.ts
-#EXTINF:-1,AR:OSN MOVIES FESTIVAL2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4507.ts
-#EXTINF:-1,AR:OSN Movies Premiere HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4516.ts
-#EXTINF:-1,AR:OSN ONDEMAND1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4505.ts
-#EXTINF:-1,AR: Aoula Maroc HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/7930.ts
-#EXTINF:-1,AR:OSN Premier 2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4504.ts
-#EXTINF:-1,AR:OSN STAR WORLD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4503.ts
-#EXTINF:-1,AR:OSN-YAHAlA-DRAMA
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4602.ts
-#EXTINF:-1,AR:OSN: Mousalsalat
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4520.ts
-#EXTINF:-1,AR:OSN: Ya Hala
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4518.ts
-#EXTINF:-1,AR:OSN: Ya Hala Drama
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4519.ts
-#EXTINF:-1,AR:OSN: YA Hala Shabab
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4517.ts
-#EXTINF:-1,AR: MBC-SPORTS 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4532.ts
-#EXTINF:-1,AR: MBC-SPORTS 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4531.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9968.ts
+#EXTINF:-1,AR: CBC Drama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9970.ts
+#EXTINF:-1,AR: CBC Extra
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9971.ts
+#EXTINF:-1,AR: CBC Sofra
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9969.ts
+#EXTINF:-1,AR: Melody Classic
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8778.ts
+#EXTINF:-1,AR: Nile Sport
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8637.ts
+#EXTINF:-1,AR: Nile Cinema
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9951.ts
+#EXTINF:-1,AR: Nile Comedy
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9950.ts
+#EXTINF:-1,AR: Nile Culture
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9981.ts
+#EXTINF:-1,AR: Nile Drama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9982.ts
+#EXTINF:-1,AR: Nile Life
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9949.ts
+#EXTINF:-1,AR: ALkahera Wal Nas 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8804.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9961.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9962.ts
+#EXTINF:-1,=====  ROTANA & MBC =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13984.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9932.ts
+#EXTINF:-1,AR: Rotana Khalijia
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9933.ts
+#EXTINF:-1,AR: Rotana Classic
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9935.ts
+#EXTINF:-1,AR: Rotana Clip
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9934.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9929.ts
+#EXTINF:-1,AR: Rotana Music
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9931.ts
+#EXTINF:-1,AR: MBC 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8642.ts
+#EXTINF:-1,AR: MBC 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8643.ts
 #EXTINF:-1,AR: MBC 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4530.ts
-
-
-
-
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9943.ts
+#EXTINF:-1,AR: MBC 4
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9944.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9941.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9946.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9945.ts
+#EXTINF:-1,AR: MBC MASR
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9957.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9948.ts
+#EXTINF:-1,AR: MBC MAX
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9947.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8638.ts
+#EXTINF:-1,AR: MBC Pro Sport 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8639.ts
+#EXTINF:-1,AR: MBC Pro Sport 3 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8640.ts
+#EXTINF:-1,AR: MBC Pro Sport 4
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8641.ts
+#EXTINF:-1,=====  DUBAI =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13991.ts
+#EXTINF:-1,AR: Dubai
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10001.ts
+#EXTINF:-1,AR: Dubai Drama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10005.ts
+#EXTINF:-1,AR: Dubai One
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10004.ts
+#EXTINF:-1,AR: Dubai Sama
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10002.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10006.ts
+#EXTINF:-1,AR:Dubai Sports 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9912.ts
+#EXTINF:-1,AR:Dubai Sports 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9913.ts
+#EXTINF:-1,AR: Dubai Sport 3
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8635.ts
+#EXTINF:-1,AR: Dubai Racing
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8636.ts
+#EXTINF:-1,AR: Noor Dubai
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10003.ts
+#EXTINF:-1,=====  SAUDIA =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13985.ts
+#EXTINF:-1,AR: AD Sports 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8633.ts
+#EXTINF:-1,AR: AD Sports 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8634.ts
+#EXTINF:-1,AR: ZEE Aflam
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9967.ts
+#EXTINF:-1,AR: Zee Alwan
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10000.ts
+#EXTINF:-1,AR: BeIN Movies 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13281.ts
+#EXTINF:-1,AR: BeIN Movies 2 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13282.ts
+#EXTINF:-1,AR: BeIN Movies 3 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13283.ts
+#EXTINF:-1,AR: Bein Movies 4 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13600.ts
+#EXTINF:-1,AR: Al Masrawia
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8807.ts
+#EXTINF:-1,AR: Al Rahma TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8805.ts
+#EXTINF:-1,AR: Al Anbar TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8810.ts
+#EXTINF:-1,AR:Modern Sport
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9919.ts
+#EXTINF:-1,AR: Alrai TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8803.ts
+#EXTINF:-1,AR: Arrabia
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8802.ts
+#EXTINF:-1,AR: Bahrain TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8801.ts
+#EXTINF:-1,AR: CN Arabia
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8800.ts
+#EXTINF:-1,AR: El Bilad TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8797.ts
+#EXTINF:-1,AR: Kuwait TV 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8783.ts
+#EXTINF:-1,AR: Kuwait TV 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8782.ts
+#EXTINF:-1,AR: Libya TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8781.ts
+#EXTINF:-1,=====  AFTAL =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13987.ts
+#EXTINF:-1,AR: Cartoon Network
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9984.ts
+#EXTINF:-1,AR: Toyor Al Janah
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9993.ts
+#EXTINF:-1,AR: Baraem
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9983.ts
+#EXTINF:-1,AR: FUNoon TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9985.ts

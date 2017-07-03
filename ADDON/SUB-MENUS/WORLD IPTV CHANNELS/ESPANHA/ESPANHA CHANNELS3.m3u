@@ -1,92 +1,166 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,ESPN HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/1172.ts
-#EXTINF:-1,ES: TV3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3310.ts
-#EXTINF:-1,ES: SYFY
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3278.ts
-#EXTINF:-1,ES: RTV Ceuta
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3312.ts
-#EXTINF:-1,ES: RT Spain
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3313.ts
-#EXTINF:-1,ES: Real Madrid Tv
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3314.ts
-#EXTINF:-1,ES: PLAYBOY TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3304.ts
-#EXTINF:-1,ES: NONSTOPEOPLE
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3280.ts
-#EXTINF:-1,ES: NAT GEOGRAPH
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3281.ts
-#EXTINF:-1,ES: MOVISTAR GP HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3315.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3285.ts
-#EXTINF:-1,ES: Hollywood
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3287.ts
-#EXTINF:-1,ES: HISTORIA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3288.ts
-#EXTINF:-1,ES: Fox Life
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3299.ts
-#EXTINF:-1,ES: Fox
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3298.ts
-#EXTINF:-1,ES: EUROSPORT HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3289.ts
-#EXTINF:-1,ES: DISNEY XD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3282.ts
-#EXTINF:-1,ES: DISNEY JR
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3290.ts
-#EXTINF:-1,ES: DISCOVERY
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3295.ts
-#EXTINF:-1,ES: DCINE ESPA¹OL
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3296.ts
-#EXTINF:-1,ES: CRIMEN INVES
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3297.ts
-#EXTINF:-1,ES: COSMO
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3300.ts
-#EXTINF:-1,ES: CAZA Y PESCA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3301.ts
-#EXTINF:-1,ES: CANAL SUR A.
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3302.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3303.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3305.ts
-#EXTINF:-1,ES: CALLE 13
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3306.ts
-#EXTINF:-1,ES: C TOROS HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3291.ts
-#EXTINF:-1,ES: C DEPORTES HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3325.ts
-#EXTINF:-1,ES: C DCINE
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3322.ts
-#EXTINF:-1,ES: C COMEDIA HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3323.ts
-#EXTINF:-1,ES: C ACCION HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3324.ts
-#EXTINF:-1,ES: C  GOLF
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3307.ts
-#EXTINF:-1,ES: Boing
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3283.ts
-#EXTINF:-1,ES: BEIN SPORT HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3293.ts
-#EXTINF:-1,ES: AXN White
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3277.ts
-#EXTINF:-1,ES: AXN
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3276.ts
-#EXTINF:-1,ES: ANDALUCIA TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3294.ts
-#EXTINF:-1,ES: Alfa TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3316.ts
+#EXTINF:-1,ES: A&E Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6639.ts
 #EXTINF:-1,ES: A&E
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3308.ts
-#EXTINF:-1,ES: 24 HORAS
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3309.ts
-#EXTINF:-1,ES: #0
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3275.ts
+http://bomba2017.hopto.org:8000/live/led/led/6261.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://bomba2017.hopto.org:8000/live/led/led/6251.ts
+#EXTINF:-1,ES: CANAL TOROS
+http://bomba2017.hopto.org:8000/live/led/led/6245.ts
+#EXTINF:-1,ES: FOX
+http://bomba2017.hopto.org:8000/live/led/led/6242.ts
+#EXTINF:-1,ES: Hollywood
+http://bomba2017.hopto.org:8000/live/led/led/6240.ts
+#EXTINF:-1,ES: Telecinco
+http://bomba2017.hopto.org:8000/live/led/led/6232.ts
+#EXTINF:-1,ES: #0 HD
+http://bomba2017.hopto.org:8000/live/led/led/6641.ts
+#EXTINF:-1,ES: 24h
+http://bomba2017.hopto.org:8000/live/led/led/6640.ts
+#EXTINF:-1,ES: AMC HD
+http://bomba2017.hopto.org:8000/live/led/led/6638.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+http://bomba2017.hopto.org:8000/live/led/led/6637.ts
+#EXTINF:-1,ES: AXN HD
+http://bomba2017.hopto.org:8000/live/led/led/6260.ts
+#EXTINF:-1,ES: AXN White HD
+http://bomba2017.hopto.org:8000/live/led/led/6259.ts
+#EXTINF:-1,ES: AXN WHITE HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6636.ts
+#EXTINF:-1,ES: BARCA TV
+http://bomba2017.hopto.org:8000/live/led/led/6258.ts
+#EXTINF:-1,ES: BARÇA TV Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6635.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://bomba2017.hopto.org:8000/live/led/led/6233.ts
+#EXTINF:-1,ES: Bein Sports LaLiga HD
+http://bomba2017.hopto.org:8000/live/led/led/6634.ts
+#EXTINF:-1,ES: BeIN Sports HD
+http://bomba2017.hopto.org:8000/live/led/led/6257.ts
+#EXTINF:-1,ES: BeIN Sports HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6633.ts
+#EXTINF:-1,ES: BOING
+http://bomba2017.hopto.org:8000/live/led/led/6632.ts
+#EXTINF:-1,ES: CALLE13
+http://bomba2017.hopto.org:8000/live/led/led/6256.ts
+#EXTINF:-1,ES: CALLE13 Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6631.ts
+#EXTINF:-1,ES: CANAL +  ACCION HD
+http://bomba2017.hopto.org:8000/live/led/led/6630.ts
+#EXTINF:-1,ES: CANAL +  ACCION HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6252.ts
+#EXTINF:-1,ES: CANAL + COMEDIA HD
+http://bomba2017.hopto.org:8000/live/led/led/6629.ts
+#EXTINF:-1,ES: CANAL + COMEDIA HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6250.ts
+#EXTINF:-1,ES: CANAL + DCINE HD
+http://bomba2017.hopto.org:8000/live/led/led/6628.ts
+#EXTINF:-1,ES: CANAL +  ESTRENOS HD
+http://bomba2017.hopto.org:8000/live/led/led/6627.ts
+#EXTINF:-1,ES: CANAL +  ESTRENOS HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6247.ts
+#EXTINF:-1,ES: CANAL +  SERIES HD
+http://bomba2017.hopto.org:8000/live/led/led/6626.ts
+#EXTINF:-1,ES: CANAL +  SERIES HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6249.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://bomba2017.hopto.org:8000/live/led/led/6624.ts
+#EXTINF:-1,ES: CANAL DECASA Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6244.ts
+#EXTINF:-1,ES: Clan TVE
+http://bomba2017.hopto.org:8000/live/led/led/6622.ts
+#EXTINF:-1,ES: CUATRO HD
+http://bomba2017.hopto.org:8000/live/led/led/6621.ts
+#EXTINF:-1,ES: DISCOVERY
+http://bomba2017.hopto.org:8000/live/led/led/6619.ts
+#EXTINF:-1,ES: DIVINITY
+http://bomba2017.hopto.org:8000/live/led/led/6618.ts
+#EXTINF:-1,ES: ENERGY
+http://bomba2017.hopto.org:8000/live/led/led/6617.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://bomba2017.hopto.org:8000/live/led/led/6616.ts
+#EXTINF:-1,ES: GOL
+http://bomba2017.hopto.org:8000/live/led/led/6615.ts
+#EXTINF:-1,ES: HISTORIA
+http://bomba2017.hopto.org:8000/live/led/led/6614.ts
+#EXTINF:-1,ES: HISTORIA Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6241.ts
+#EXTINF:-1,ES: LA 1
+http://bomba2017.hopto.org:8000/live/led/led/6239.ts
+#EXTINF:-1,ES: LA 1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6612.ts
+#EXTINF:-1,ES: LA 2
+http://bomba2017.hopto.org:8000/live/led/led/6238.ts
+#EXTINF:-1,ES: LA 2 Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6611.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://bomba2017.hopto.org:8000/live/led/led/6237.ts
+#EXTINF:-1,ES: LA SEXTA HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6613.ts
+#EXTINF:-1,ES: La Tienda En Casa
+http://bomba2017.hopto.org:8000/live/led/led/6610.ts
+#EXTINF:-1,ES: Movistar Deportes 1
+http://bomba2017.hopto.org:8000/live/led/led/6609.ts
+#EXTINF:-1,ES: Movistar Deportes 1 Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6255.ts
+#EXTINF:-1,ES: Movistar Deportes 2
+http://bomba2017.hopto.org:8000/live/led/led/6608.ts
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6642.ts
+#EXTINF:-1,ES: Movistar Deportes 2 Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6248.ts
+#EXTINF:-1,ES: Movistar Fútbol Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6254.ts
+#EXTINF:-1,ES: Movistar Golf
+http://bomba2017.hopto.org:8000/live/led/led/6253.ts
+#EXTINF:-1,ES: Movistar F1
+http://bomba2017.hopto.org:8000/live/led/led/6604.ts
+#EXTINF:-1,ES: Movistar MotoGP
+http://bomba2017.hopto.org:8000/live/led/led/6603.ts
+#EXTINF:-1,ES: Movistar MotoGP Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6236.ts
+#EXTINF:-1,ES: LaLigatv
+http://bomba2017.hopto.org:8000/live/led/led/6606.ts
+#EXTINF:-1,ES: LaLigatv HD
+http://bomba2017.hopto.org:8000/live/led/led/6246.ts
+#EXTINF:-1,ES: MEGA
+http://bomba2017.hopto.org:8000/live/led/led/6605.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://bomba2017.hopto.org:8000/live/led/led/6602.ts
+#EXTINF:-1,ES: National Geographic Channel
+http://bomba2017.hopto.org:8000/live/led/led/6235.ts
+#EXTINF:-1,ES: National Geographic Channel Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6601.ts
+#EXTINF:-1,ES: NEOX
+http://bomba2017.hopto.org:8000/live/led/led/6600.ts
+#EXTINF:-1,ES: CANAL PANDA
+http://bomba2017.hopto.org:8000/live/led/led/6625.ts
+#EXTINF:-1,ES: Disney Channel
+http://bomba2017.hopto.org:8000/live/led/led/6243.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://bomba2017.hopto.org:8000/live/led/led/6599.ts
+#EXTINF:-1,ES: NOVA
+http://bomba2017.hopto.org:8000/live/led/led/6598.ts
+#EXTINF:-1,ES: ODISEA
+http://bomba2017.hopto.org:8000/live/led/led/6623.ts
+#EXTINF:-1,ES: ODISEA HD Esp.
+http://bomba2017.hopto.org:8000/live/led/led/6234.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://bomba2017.hopto.org:8000/live/led/led/6597.ts
+#EXTINF:-1,ES: SYFY HD
+http://bomba2017.hopto.org:8000/live/led/led/6596.ts
+#EXTINF:-1,ES: TCM HD
+http://bomba2017.hopto.org:8000/live/led/led/6595.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://bomba2017.hopto.org:8000/live/led/led/6594.ts
+#EXTINF:-1,ES: TNT
+http://bomba2017.hopto.org:8000/live/led/led/6231.ts
+#EXTINF:-1,ES: TNT HD
+http://bomba2017.hopto.org:8000/live/led/led/6593.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://bomba2017.hopto.org:8000/live/led/led/6230.ts

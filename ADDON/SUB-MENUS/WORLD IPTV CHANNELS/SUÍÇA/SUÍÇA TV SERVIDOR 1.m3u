@@ -3,33 +3,37 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-#EXTINF:-1,CH: Teleclub Star
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2205.ts
-#EXTINF:-1,CH: Teleclub Sport 3
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2210.ts
-#EXTINF:-1,CH: Teleclub Sport 2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2209.ts
-#EXTINF:-1,CH: Teleclub Prime
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2206.ts
+#EXTINF:-1,CH: RSI La1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6993.ts
+#EXTINF:-1,CH: RSI La2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6992.ts
+#EXTINF:-1,CH: RTS Deux HD
+http://bomba2017.hopto.org:8000/live/led/led/6990.ts
+#EXTINF:-1,CH: RTS UN
+http://bomba2017.hopto.org:8000/live/led/led/6991.ts
+#EXTINF:-1,CH: SFR SPORT 1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6986.ts
+#EXTINF:-1,CH: SFR SPORT 2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6985.ts
+#EXTINF:-1,CH: SFR SPORT 3 HD
+http://bomba2017.hopto.org:8000/live/led/led/6984.ts
+#EXTINF:-1,CH: SFR SPORT 5 HD
+http://bomba2017.hopto.org:8000/live/led/led/6983.ts
+#EXTINF:-1,CH: SRF 1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6988.ts
+#EXTINF:-1,CH: SRF 2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6987.ts
+#EXTINF:-1,CH: SRF Info
+http://bomba2017.hopto.org:8000/live/led/led/6989.ts
 #EXTINF:-1,CH: Teleclub Cinema
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2207.ts
-#EXTINF:-1,CH: RSI LA2 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1919.ts
-#EXTINF:-1,CH:  Teleclub Sport 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2208.ts
-#EXTINF:-1,CH: TVO
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2955.ts
-#EXTINF:-1,CH: TeleBielingue.
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2957.ts
-#EXTINF:-1,CH: TeleBärn
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2958.ts
-#EXTINF:-1,CH: TELE ZURICH
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2954.ts
-#EXTINF:-1,CH: KANAL 9 (deutsch)
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2956.ts
+http://bomba2017.hopto.org:8000/live/led/led/6982.ts
+#EXTINF:-1,CH: Teleclub Prime
+http://bomba2017.hopto.org:8000/live/led/led/6981.ts
+#EXTINF:-1,CH: Teleclub Sport 1
+http://bomba2017.hopto.org:8000/live/led/led/6980.ts
+#EXTINF:-1,CH: Kanal 9
+http://bomba2017.hopto.org:8000/live/led/led/6979.ts

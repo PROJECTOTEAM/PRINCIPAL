@@ -1,116 +1,178 @@
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,DE: ZDF HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3327.ts
-#EXTINF:-1,DE: WDR HD Aachen
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3342.ts
-#EXTINF:-1,DE: VOX HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3337.ts
-#EXTINF:-1,DE: VIVA/Comedy
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3338.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3339.ts
-#EXTINF:-1,DE: TNT Film
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3340.ts
-#EXTINF:-1,DE: Super RTL HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3341.ts
-#EXTINF:-1,DE: Sport1   HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3363.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3364.ts
-#EXTINF:-1,DE: Sky Sport News
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3333.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3334.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3335.ts
-#EXTINF:-1,DE: Sky Select 5HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3527.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3526.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3525.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3524.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3523.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3329.ts
-#EXTINF:-1,DE: Sky Emotion
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3330.ts
-#EXTINF:-1,DE: Sky Comedy
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3331.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3332.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3336.ts
-#EXTINF:-1,DE: Sky Action HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3328.ts
-#EXTINF:-1,DE: SIXX HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3343.ts
-#EXTINF:-1,DE: Sat.1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3344.ts
-#EXTINF:-1,DE: RTL Passion
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3345.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3346.ts
-#EXTINF:-1,DE: RTL HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3347.ts
-#EXTINF:-1,DE: RTL Crime
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3348.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3349.ts
-#EXTINF:-1,DE: ProSieben Maxx HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3350.ts
-#EXTINF:-1,DE: ProSieben HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3351.ts
-#EXTINF:-1,DE: ProSieben FUN HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3352.ts
-#EXTINF:-1,DE: ORF 2N HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3353.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3354.ts
-#EXTINF:-1,DE: NDR HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3355.ts
-#EXTINF:-1,DE: NatGeo HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3356.ts
-#EXTINF:-1,DE: N24 HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3357.ts
-#EXTINF:-1,DE: n-tv HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3358.ts
-#EXTINF:-1,DE: Motorvision TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3359.ts
-#EXTINF:-1,DE: KIKA HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3360.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3361.ts
-#EXTINF:-1,DE: HR HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3362.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,DE: Sky Select HD 1
+http://bomba2017.hopto.org:8000/live/led/led/6367.ts
+#EXTINF:-1,DE: Sky Select HD 2
+http://bomba2017.hopto.org:8000/live/led/led/6366.ts
+#EXTINF:-1,DE: Sky Select HD 3
+http://bomba2017.hopto.org:8000/live/led/led/6365.ts
+#EXTINF:-1,DE: Sky Select HD 4
+http://bomba2017.hopto.org:8000/live/led/led/6364.ts
+#EXTINF:-1,DE: Sky Select HD 5
+http://bomba2017.hopto.org:8000/live/led/led/6363.ts
+#EXTINF:-1,DE: Sky Select HD 6
+http://bomba2017.hopto.org:8000/live/led/led/6362.ts
+#EXTINF:-1,DE: Sky Select HD 7
+http://bomba2017.hopto.org:8000/live/led/led/6361.ts
+#EXTINF:-1,DE: Sky Select HD 8
+http://bomba2017.hopto.org:8000/live/led/led/6360.ts
+#EXTINF:-1,DE: 13Street HD
+http://bomba2017.hopto.org:8000/live/led/led/6359.ts
+#EXTINF:-1,DE: 3SAT HD
+http://bomba2017.hopto.org:8000/live/led/led/6358.ts
+#EXTINF:-1,DE: Arte HD
+http://bomba2017.hopto.org:8000/live/led/led/6357.ts
+#EXTINF:-1,DE: Austria 24
+http://bomba2017.hopto.org:8000/live/led/led/6356.ts
+#EXTINF:-1,DE: AXN ACTION HD
+http://bomba2017.hopto.org:8000/live/led/led/6355.ts
+#EXTINF:-1,DE: BR HD
+http://bomba2017.hopto.org:8000/live/led/led/6354.ts
+#EXTINF:-1,DE: Das Erste
+http://bomba2017.hopto.org:8000/live/led/led/6353.ts
+#EXTINF:-1,DE: Deluxe Music
+http://bomba2017.hopto.org:8000/live/led/led/6352.ts
+#EXTINF:-1,DE: Disney Channel
+http://bomba2017.hopto.org:8000/live/led/led/6351.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://bomba2017.hopto.org:8000/live/led/led/6350.ts
+#EXTINF:-1,DE: Disney XD
+http://bomba2017.hopto.org:8000/live/led/led/6349.ts
+#EXTINF:-1,DE: DMAX
+http://bomba2017.hopto.org:8000/live/led/led/6348.ts
+#EXTINF:-1,DE: Euronews
+http://bomba2017.hopto.org:8000/live/led/led/6347.ts
+#EXTINF:-1,DE: Fox HD
+http://bomba2017.hopto.org:8000/live/led/led/6346.ts
+#EXTINF:-1,DE: HALLE TV
+http://bomba2017.hopto.org:8000/live/led/led/6345.ts
 #EXTINF:-1,DE: History HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3522.ts
-#EXTINF:-1,DE: Eurosport HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3365.ts
-#EXTINF:-1,DE: Disney HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3366.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3367.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3529.ts
-#EXTINF:-1,DE: Das Erste HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3368.ts
-#EXTINF:-1,DE: AXN HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3369.ts
-#EXTINF:-1,DE: ATV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3370.ts
-#EXTINF:-1,DE: arte HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3371.ts
-#EXTINF:-1,DE: Anixe HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3372.ts
-#EXTINF:-1,DE: 3sat HD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3373.ts
+http://bomba2017.hopto.org:8000/live/led/led/6344.ts
+#EXTINF:-1,DE: KABEL 1HD
+http://bomba2017.hopto.org:8000/live/led/led/6343.ts
+#EXTINF:-1,DE: Kika HD
+http://bomba2017.hopto.org:8000/live/led/led/6342.ts
+#EXTINF:-1,DE: MAGDEBURG
+http://bomba2017.hopto.org:8000/live/led/led/6341.ts
+#EXTINF:-1,DE: N24 HD
+http://bomba2017.hopto.org:8000/live/led/led/6340.ts
+#EXTINF:-1,DE: Nat.Geo HD
+http://bomba2017.hopto.org:8000/live/led/led/6339.ts
+#EXTINF:-1,DE: National Geographic Wild HD
+http://bomba2017.hopto.org:8000/live/led/led/6338.ts
+#EXTINF:-1,DE: N-TV
+http://bomba2017.hopto.org:8000/live/led/led/6337.ts
+#EXTINF:-1,DE: ORF 1HD
+http://bomba2017.hopto.org:8000/live/led/led/6336.ts
+#EXTINF:-1,DE: ORF 2HD
+http://bomba2017.hopto.org:8000/live/led/led/6335.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://bomba2017.hopto.org:8000/live/led/led/6334.ts
+#EXTINF:-1,DE: RTL
+http://bomba2017.hopto.org:8000/live/led/led/6333.ts
+#EXTINF:-1,DE: RTL 2
+http://bomba2017.hopto.org:8000/live/led/led/6332.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://bomba2017.hopto.org:8000/live/led/led/6331.ts
+#EXTINF:-1,DE: RTL PASSION
+http://bomba2017.hopto.org:8000/live/led/led/6330.ts
+#EXTINF:-1,DE: RTL SUPER
+http://bomba2017.hopto.org:8000/live/led/led/6329.ts
+#EXTINF:-1,DE: Sat 1
+http://bomba2017.hopto.org:8000/live/led/led/6328.ts
+#EXTINF:-1,DE: SAT 1 Gold
+http://bomba2017.hopto.org:8000/live/led/led/6327.ts
+#EXTINF:-1,DE: SERVUS TV HD
+http://bomba2017.hopto.org:8000/live/led/led/6326.ts
+#EXTINF:-1,DE: Sixx HD
+http://bomba2017.hopto.org:8000/live/led/led/6325.ts
+#EXTINF:-1,DE: Sky Action
+http://bomba2017.hopto.org:8000/live/led/led/6324.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://bomba2017.hopto.org:8000/live/led/led/6323.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://bomba2017.hopto.org:8000/live/led/led/6322.ts
+#EXTINF:-1,DE: Sky Bundesliga 1HD
+http://bomba2017.hopto.org:8000/live/led/led/6321.ts
+#EXTINF:-1,DE: Sky Bundesliga 2HD
+http://bomba2017.hopto.org:8000/live/led/led/6320.ts
+#EXTINF:-1,DE: Sky Bundesliga 3HD
+http://bomba2017.hopto.org:8000/live/led/led/6319.ts
+#EXTINF:-1,DE: Sky Bundesliga 4HD
+http://bomba2017.hopto.org:8000/live/led/led/6318.ts
+#EXTINF:-1,DE: Sky Bundesliga 5HD
+http://bomba2017.hopto.org:8000/live/led/led/6317.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://bomba2017.hopto.org:8000/live/led/led/6316.ts
+#EXTINF:-1,DE: Sky Bundesliga 9HD
+http://bomba2017.hopto.org:8000/live/led/led/6315.ts
+#EXTINF:-1,DE: Sky Cinema
+http://bomba2017.hopto.org:8000/live/led/led/6314.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://bomba2017.hopto.org:8000/live/led/led/6313.ts
+#EXTINF:-1,DE: Sky Cinema + 24
+http://bomba2017.hopto.org:8000/live/led/led/6312.ts
+#EXTINF:-1,DE: Sky Comedy
+http://bomba2017.hopto.org:8000/live/led/led/6311.ts
+#EXTINF:-1,DE: Sky Discovery HD
+http://bomba2017.hopto.org:8000/live/led/led/6310.ts
+#EXTINF:-1,DE: Sky Emotion
+http://bomba2017.hopto.org:8000/live/led/led/6309.ts
+#EXTINF:-1,DE: Sky Hits
+http://bomba2017.hopto.org:8000/live/led/led/6308.ts
+#EXTINF:-1,DE: Sky Krimi
+http://bomba2017.hopto.org:8000/live/led/led/6307.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://bomba2017.hopto.org:8000/live/led/led/6306.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6291.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6304.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://bomba2017.hopto.org:8000/live/led/led/6303.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://bomba2017.hopto.org:8000/live/led/led/6305.ts
+#EXTINF:-1,DE: Sky Sport News
+http://bomba2017.hopto.org:8000/live/led/led/6290.ts
+#EXTINF:-1,DE: Sport1
+http://bomba2017.hopto.org:8000/live/led/led/6302.ts
+#EXTINF:-1,DE: Sport1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6301.ts
+#EXTINF:-1,DE: SWR HD
+http://bomba2017.hopto.org:8000/live/led/led/6300.ts
+#EXTINF:-1,DE: Syfy HD
+http://bomba2017.hopto.org:8000/live/led/led/6299.ts
+#EXTINF:-1,DE: VOX HD
+http://bomba2017.hopto.org:8000/live/led/led/6298.ts
+#EXTINF:-1,DE: ZDF HD
+http://bomba2017.hopto.org:8000/live/led/led/6297.ts
+#EXTINF:-1,DE: ZDF Info HD
+http://bomba2017.hopto.org:8000/live/led/led/6296.ts
+#EXTINF:-1,DE: ZDF Kultur
+http://bomba2017.hopto.org:8000/live/led/led/6295.ts
+#EXTINF:-1,DE: ZDF Neo HD
+http://bomba2017.hopto.org:8000/live/led/led/6294.ts
+#EXTINF:-1,DE: Classica
+http://bomba2017.hopto.org:8000/live/led/led/6293.ts
+#EXTINF:-1,DE: MGM
+http://bomba2017.hopto.org:8000/live/led/led/6292.ts
+#EXTINF:-1,DE: TNT Serie
+http://bomba2017.hopto.org:8000/live/led/led/6289.ts
+#EXTINF:-1,DE: WDR
+http://bomba2017.hopto.org:8000/live/led/led/6288.ts

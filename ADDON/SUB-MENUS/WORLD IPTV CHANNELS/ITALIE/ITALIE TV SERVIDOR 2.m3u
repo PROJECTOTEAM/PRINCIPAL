@@ -1,152 +1,98 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-#EXTINF:-1,IT: Rai 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7228.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7227.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7226.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7225.ts
+#EXTINF:-1,IT: Rai 1
+http://bomba2017.hopto.org:8000/live/led/led/6506.ts
+#EXTINF:-1,IT: Rai 2
+http://bomba2017.hopto.org:8000/live/led/led/6505.ts
+#EXTINF:-1,IT: Rai 3
+http://bomba2017.hopto.org:8000/live/led/led/6504.ts
+#EXTINF:-1,IT: Rai 4
+http://bomba2017.hopto.org:8000/live/led/led/6503.ts
 #EXTINF:-1,IT: Rai 5
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7224.ts
-#EXTINF:-1,IT: Rai Gulp HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7220.ts
-#EXTINF:-1,IT: Rai Movie HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7223.ts
-#EXTINF:-1,IT: Rai Premium
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7222.ts
-#EXTINF:-1,IT: Rai Senato
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7219.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7221.ts
-#EXTINF:-1,IT: Rai Scuola
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6696.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7214.ts
-#EXTINF:-1,IT: RSI La1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7218.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7217.ts
-#EXTINF:-1,IT | Sky Atlantic HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6221.ts
-#EXTINF:-1,IT | Sky Cinema 1
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6213.ts
-#EXTINF:-1,IT | Sky Cinema 1  1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6212.ts
-#EXTINF:-1,IT | Sky Cinema 3D
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6210.ts
-#EXTINF:-1,IT | Sky Cinema Classic HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6209.ts
-#EXTINF:-1,IT | Sky Cinema Comedy HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6208.ts
-#EXTINF:-1,IT | Sky Cinema Cult HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6207.ts
-#EXTINF:-1,IT | Sky Cinema Family HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6206.ts
-#EXTINF:-1,IT | Sky Cinema Max HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6205.ts
-#EXTINF:-1,IT | Sky Cinema Passion HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6204.ts
-#EXTINF:-1,IT: Sky Cinema  24 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7199.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7200.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7189.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7190.ts
-#EXTINF:-1,IT: Sky History HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7184.ts
-#EXTINF:-1,IT: Sky National Geo HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7191.ts
-#EXTINF:-1,IT | Sky Calcio.6
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6215.ts
-#EXTINF:-1,IT | Discovery Channel HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6154.ts
-#EXTINF:-1,IT | Discovery Science HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6153.ts
-#EXTINF:-1,IT | Discovery Travel & Living HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6152.ts
-#EXTINF:-1,IT: Premium Action HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7058.ts
-#EXTINF:-1,IT: Premium Cinema  24
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7052.ts
-#EXTINF:-1,IT: Premium Cinema 2 24 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7051.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7053.ts
+http://bomba2017.hopto.org:8000/live/led/led/6502.ts
+#EXTINF:-1,IT: Rai MOVIE HD
+http://bomba2017.hopto.org:8000/live/led/led/6501.ts
+#EXTINF:-1,IT: Rai PREMIUM
+http://bomba2017.hopto.org:8000/live/led/led/6500.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://bomba2017.hopto.org:8000/live/led/led/6499.ts
+#EXTINF:-1,IT: Rai YOYO HD
+http://bomba2017.hopto.org:8000/live/led/led/6498.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://bomba2017.hopto.org:8000/live/led/led/6494.ts
+#EXTINF:-1,IT: Sky Cinema 1HD
+http://bomba2017.hopto.org:8000/live/led/led/6493.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://bomba2017.hopto.org:8000/live/led/led/6492.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://bomba2017.hopto.org:8000/live/led/led/6491.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://bomba2017.hopto.org:8000/live/led/led/6490.ts
+#EXTINF:-1,IT: Sky Cinema MAX  HD
+http://bomba2017.hopto.org:8000/live/led/led/6489.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://bomba2017.hopto.org:8000/live/led/led/6488.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://bomba2017.hopto.org:8000/live/led/led/6530.ts
+#EXTINF:-1,IT: Cartoon Network
+http://bomba2017.hopto.org:8000/live/led/led/6529.ts
+#EXTINF:-1,IT: Eurosport 1
+http://bomba2017.hopto.org:8000/live/led/led/6528.ts
+#EXTINF:-1,IT: Eurosport 2
+http://bomba2017.hopto.org:8000/live/led/led/6527.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://bomba2017.hopto.org:8000/live/led/led/6526.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://bomba2017.hopto.org:8000/live/led/led/6525.ts
+#EXTINF:-1,IT: FOX HD
+http://bomba2017.hopto.org:8000/live/led/led/6524.ts
+#EXTINF:-1,IT: Iris
+http://bomba2017.hopto.org:8000/live/led/led/6523.ts
+#EXTINF:-1,IT: Italia 1
+http://bomba2017.hopto.org:8000/live/led/led/6522.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://bomba2017.hopto.org:8000/live/led/led/6521.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://bomba2017.hopto.org:8000/live/led/led/6520.ts
+#EXTINF:-1,IT: Premium Action 24
+http://bomba2017.hopto.org:8000/live/led/led/6519.ts
 #EXTINF:-1,IT: Premium Cinema 24
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7056.ts
+http://bomba2017.hopto.org:8000/live/led/led/6518.ts
+#EXTINF:-1,IT: Premium Cinema 2 /24
+http://bomba2017.hopto.org:8000/live/led/led/6517.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6516.ts
+#EXTINF:-1,IT: Premium Cinema Action HD
+http://bomba2017.hopto.org:8000/live/led/led/6515.ts
 #EXTINF:-1,IT: Premium Cinema Comedy
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7043.ts
-#EXTINF:-1,IT: Premium Cinema Emotion
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7047.ts
+http://bomba2017.hopto.org:8000/live/led/led/6514.ts
 #EXTINF:-1,IT: Premium Cinema Energy
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7048.ts
+http://bomba2017.hopto.org:8000/live/led/led/6513.ts
 #EXTINF:-1,IT: Premium Cinema HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7055.ts
-#EXTINF:-1,IT: Premium Crime  24
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7044.ts
+http://bomba2017.hopto.org:8000/live/led/led/6512.ts
+#EXTINF:-1,IT: Premium Cinema Joi
+http://bomba2017.hopto.org:8000/live/led/led/6511.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://bomba2017.hopto.org:8000/live/led/led/6510.ts
 #EXTINF:-1,IT: Premium Crime HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7045.ts
-#EXTINF:-1,IT: Premium Discovery World
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7037.ts
-#EXTINF:-1,IT: Premium Disney Channel
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7038.ts
+http://bomba2017.hopto.org:8000/live/led/led/6509.ts
 #EXTINF:-1,IT: Premium Disney Junior
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7041.ts
-#EXTINF:-1,IT: Premium EuroSport 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7036.ts
-#EXTINF:-1,IT: Premium EuroSport 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7035.ts
-#EXTINF:-1,IT: Premium Sport 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7033.ts
-#EXTINF:-1,IT: Premium Sport 2
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7031.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7032.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7034.ts
-#EXTINF:-1,IT: Premium Stories
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7050.ts
-#EXTINF:-1,IT: Premium Stories 24
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7049.ts
-#EXTINF:-1,IT: Premium Studio Universal HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7046.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7085.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7084.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7081.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7080.ts
-#EXTINF:-1,IT: Sky Moto GP HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7089.ts
-#EXTINF:-1,IT: Sky Prima fila 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7073.ts
-#EXTINF:-1,IT: Sky Prima fila 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7072.ts
-#EXTINF:-1,IT: Sky Prima fila 3 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7071.ts
-#EXTINF:-1,IT: Sky Prima fila 4 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7070.ts
-#EXTINF:-1,IT: Sky Prima fila 5 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7069.ts
-#EXTINF:-1,IT: Sky Prima fila 6 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7068.ts
-#EXTINF:-1,IT: Sky Prima fila 7 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7067.ts
-#EXTINF:-1,IT: Sky Prima fila 8 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7066.ts
-#EXTINF:-1,IT: Sky Prima fila 9 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7065.ts
-#EXTINF:-1,IT: Sky Prima fila 10 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/7064.ts
+http://bomba2017.hopto.org:8000/live/led/led/6508.ts
+#EXTINF:-1,IT: Premium Joi
+http://bomba2017.hopto.org:8000/live/led/led/6507.ts
+#EXTINF:-1,IT: Rete4
+http://bomba2017.hopto.org:8000/live/led/led/6497.ts
+#EXTINF:-1,IT: RSI LA1 HD
+http://bomba2017.hopto.org:8000/live/led/led/6496.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://bomba2017.hopto.org:8000/live/led/led/6495.ts
+#EXTINF:-1,IT: Studio Universal
+http://bomba2017.hopto.org:8000/live/led/led/6487.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://bomba2017.hopto.org:8000/live/led/led/6486.ts
+#EXTINF:-1,IT: Top Crime
+http://bomba2017.hopto.org:8000/live/led/led/6485.ts

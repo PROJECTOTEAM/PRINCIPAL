@@ -1,176 +1,344 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-#EXTINF:-1,DE: Das Erste HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3243.ts
-#EXTINF:-1,DE: SAT 3
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8003.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15559.ts
+#EXTINF:-1,DE: Kabel Eins
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7131.ts
+#EXTINF:-1,DE: Kabel Eins Doku
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15346.ts
+#EXTINF:-1,DE: Das Erste
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/2135.ts
 #EXTINF:-1,DE: ZDF
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2878.ts
-#EXTINF:-1,DE: ZDF INFO
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8002.ts
-#EXTINF:-1,DE: ZDF NEO
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8001.ts
-#EXTINF:-1,DE: RTL
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3842.ts
-#EXTINF:-1,DE: RTL 2
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3846.ts
-#EXTINF:-1,DE: SUPER RTL
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8007.ts
-#EXTINF:-1,DE: RTL Living
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3843.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7124.ts
+#EXTINF:-1,DE:  WDR HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7435.ts
+#EXTINF:-1,DE: 3Sat
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7470.ts
+#EXTINF:-1,DE: Kika-HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7424.ts
+#EXTINF:-1,DE: Ndr
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7419.ts
+#EXTINF:-1,DE: Phoenix
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7420.ts
+#EXTINF:-1,DE: SWR HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7460.ts
+#EXTINF:-1,DE: Arte
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7418.ts
+#EXTINF:-1,DE: ANIXE
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7469.ts
+#EXTINF:-1,DE: ZDF neo
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7457.ts
+#EXTINF:-1,DE: Servus TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7438.ts
+#EXTINF:-1,DE: Pro Sieben
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7448.ts
+#EXTINF:-1,DE: Pro 7 MAXX
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7414.ts
+#EXTINF:-1,DE: RTL Television
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15352.ts
+#EXTINF:-1,DE: RTL HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7125.ts
+#EXTINF:-1,DE: RTL Plus
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13020.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7140.ts
+#EXTINF:-1,DE: SAT 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7463.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7412.ts
 #EXTINF:-1,DE: RTL Nitro
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2319.ts
-#EXTINF:-1,DE: RTL Crime
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6552.ts
-#EXTINF:-1,DE: RTL Passion
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6551.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3847.ts
-#EXTINF:-1,DE: VOX
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2324.ts
-#EXTINF:-1,DE: ARTE
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8006.ts
-#EXTINF:-1,DE: WDR
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8004.ts
-#EXTINF:-1,DE: NDR HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2061.ts
-#EXTINF:-1,DE: WDR HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2062.ts
-#EXTINF:-1,DE: SRF Info
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6545.ts
-#EXTINF:-1,DE: SRF 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2328.ts
-#EXTINF:-1,DE: SRF 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2329.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2057.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3305.ts
-#EXTINF:-1,DE: KABEL 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3852.ts
-#EXTINF:-1,DE: DMAX
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3850.ts
-#EXTINF:-1,DE: Toggo Plus
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8012.ts
-#EXTINF:-1,DE:A.TV
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3845.ts
-#EXTINF:-1,DE: N24 hd
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3840.ts
-#EXTINF:-1,DE: SR Fernsehen
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2064.ts
-#EXTINF:-1,DE: Deluxe Music Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8014.ts
-#EXTINF:-1,DE: DMAX Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8013.ts
-#EXTINF:-1,DE: Doku Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8017.ts
-#EXTINF:-1,DE: Pro 7 max Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8018.ts
-#EXTINF:-1,DE: SIXX Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8011.ts
-#EXTINF:-1,DE: Vox Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8019.ts
-#EXTINF:-1,DE: N24 Austria
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8009.ts
-#EXTINF:-1,DE: Tele Zürich
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6590.ts
-#EXTINF:-1,DE: Prosieben Schweiz
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8005.ts
-#EXTINF:-1,DE: Kabel 1 Schweiz
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8010.ts
-#EXTINF:-1,DE: Deluxe Music HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6620.ts
-#EXTINF:-1,DE: N-TV HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6608.ts
-#EXTINF:-1,DE: Pro 7 HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6624.ts
-#EXTINF:-1,DE: Pro 7 MAXX HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6623.ts
-#EXTINF:-1,DE: RTL HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6627.ts
-#EXTINF:-1,DE: RTL 2 HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6626.ts
-#EXTINF:-1,DE: Vox HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6622.ts
-#EXTINF:-1,DE: Super RTL HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6625.ts
-#EXTINF:-1,DE: Heimatkanal
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6568.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6547.ts
-#EXTINF:-1,DE: AXN HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6611.ts
-#EXTINF:-1,DE: Sony TV HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6609.ts
-#EXTINF:-1,DE: Syfy HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6610.ts
-#EXTINF:-1,DE: TNT Serie HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6614.ts
-#EXTINF:-1,DE: Sky Hits HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6616.ts
-#EXTINF:-1,DE: Sky Cinema Family
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6546.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6540.ts
-#EXTINF:-1,DE:COMEDY CENTRAL
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3853.ts
-#EXTINF:-1,DE: 13th Street
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6563.ts
-#EXTINF:-1,DE: Classica
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6574.ts
-#EXTINF:-1,DE: Fox Serie
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6569.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7409.ts
+#EXTINF:-1,DE: RTL 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7408.ts
+#EXTINF:-1,DE: n-tvv
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7464.ts
+#EXTINF:-1,DE: A&E
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15354.ts
+#EXTINF:-1,DE: E! Entertainment HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15341.ts
+#EXTINF:-1,De: Zee One
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15340.ts
+#EXTINF:-1,DE: Family TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15350.ts
 #EXTINF:-1,DE: Goldstar TV
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6559.ts
-#EXTINF:-1,DE: TNT Serie
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6562.ts
-#EXTINF:-1,DE: Fox HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6613.ts
-#EXTINF:-1,DE: MGM HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6612.ts
-#EXTINF:-1,DE: Sky Action HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6618.ts
-#EXTINF:-1,DE: Sky Atlantic HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6617.ts
-#EXTINF:-1,DE: Sky Cinema HD 1080P
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6619.ts
-#EXTINF:-1,DE: TNT Film (TCM)
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/1007.ts
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/2358.ts
-#EXTINF:-1,DE : Sky Cinema  HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/3653.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15355.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15348.ts
+#EXTINF:-1,DE: MDR
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7465.ts
+#EXTINF:-1,DE: ARD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7468.ts
+#EXTINF:-1,DE:Goldstar TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13015.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7130.ts
+#EXTINF:-1,DE: ORF 2HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7129.ts
+#EXTINF:-1,DE: Austria 24
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7467.ts
+#EXTINF:-1,DE: N24
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7105.ts
+#EXTINF:-1,=====  Duits Regionalne  =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13603.ts
+#EXTINF:-1,DE: INTV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/2134.ts
+#EXTINF:-1,=====  Film De  =====
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13604.ts
+#EXTINF:-1,DE: 13th Street
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7443.ts
+#EXTINF:-1,DE: AXN HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7466.ts
+#EXTINF:-1,DE: Fox Serie
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7171.ts
+#EXTINF:-1,DE: Heimatkanal
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7452.ts
+#EXTINF:-1,DE: MGM HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7187.ts
+#EXTINF:-1,DE: KinoWelt TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7450.ts
+#EXTINF:-1,DE: RomanceTV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7451.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15580.ts
+#EXTINF:-1,DE: RTL Crime
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7461.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15567.ts
 #EXTINF:-1,DE: Sky Atlantic
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6550.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7152.ts
+#EXTINF:-1,DE: RTL Passion
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7128.ts
+#EXTINF:-1,DE: SKY 3D
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7456.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15566.ts
+#EXTINF:-1,DE: Sky Action HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15589.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7153.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15576.ts
 #EXTINF:-1,DE: Sky Cinema
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6558.ts
-#EXTINF:-1,DE: Sky Cinem 1 HD
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8008.ts
-#EXTINF:-1,DE: Sky Select
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6555.ts
-#EXTINF:-1,DE: Sky Select 1
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6401.ts
-#EXTINF:-1,DE: Sky Select 2
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6400.ts
-#EXTINF:-1,DE: Sky Select 3
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6399.ts
-#EXTINF:-1,DE: Sky Select 4
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6398.ts
-#EXTINF:-1,DE: Sky Select 5
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6397.ts
-#EXTINF:-1,DE: Sky Select 6
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6396.ts
-#EXTINF:-1,DE: Sky Select 7
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6395.ts
-#EXTINF:-1,DE: Sky Select 8
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6394.ts
-#EXTINF:-1,DE: Sky Select 9
-http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/6393.ts
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7151.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7150.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15578.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7149.ts
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7444.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7148.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15573.ts
+#EXTINF:-1,DE:  Sky Cinema Hits
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7440.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15353.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7144.ts
+#EXTINF:-1,DE: Sky Krimi
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7145.ts
+#EXTINF:-1,DE: Sky Hits
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7146.ts
+#EXTINF:-1,DE: Sky Emotion
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7147.ts
+#EXTINF:-1,DE: Syfy HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7139.ts
+#EXTINF:-1,DE: TNT Film HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7137.ts
+#EXTINF:-1,DE: TNT Film (TCM)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15574.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15565.ts
+#EXTINF:-1,DE: TNT Series
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7136.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7104.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7103.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7102.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7101.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7100.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7099.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7098.ts
+#EXTINF:-1,DE: FOX HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7172.ts
+#EXTINF:-1,DE: Universal HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15347.ts
+#EXTINF:-1,DE: VOX
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7458.ts
+#EXTINF:-1,=======  Sport De  =======
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13607.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15560.ts
+#EXTINF:-1,DE: Motorvision TV
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13017.ts
+#EXTINF:-1,DE: Sky Sport News
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7111.ts
+#EXTINF:-1,DE: ORF Sport+ HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14041.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15562.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15349.ts
+#EXTINF:-1,DE: Sport 1  HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7108.ts
+#EXTINF:-1,DE: Sport1  HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15564.ts
+#EXTINF:-1,DE: SPORT +1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7109.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15587.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7119.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15556.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7115.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7116.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7113.ts
+#EXTINF:-1,DE: Sky Sport 3 (Match Time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13036.ts
+#EXTINF:-1,DE: Sky Sport 4 (Match Time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13035.ts
+#EXTINF:-1,DE: Sky Sport 5 (match time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13034.ts
+#EXTINF:-1,DE: Sky Sport 6 (match time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13033.ts
+#EXTINF:-1,DE: Sky Sport 7 (match time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13032.ts
+#EXTINF:-1,DE: Sky Sport 8 match time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13031.ts
+#EXTINF:-1,DE: Sky Sport 9 (match time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13029.ts
+#EXTINF:-1,DE: Sky Sport 10 (match time)
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13030.ts
+#EXTINF:-1,DE: Sky Sport 11
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13037.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15561.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16980.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7123.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17033.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7122.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17034.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7121.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17035.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12551.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17036.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7120.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17037.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13026.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17038.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13028.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17041.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13025.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17040.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13027.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17039.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 Match Time
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13038.ts
+#EXTINF:-1,DE: Eurosport HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7107.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15342.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7471.ts
+#EXTINF:-1,=======  Doku/Wissen/Themen  =======
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13605.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15593.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15563.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7141.ts
+#EXTINF:-1,DE: RTL Living
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7162.ts
+#EXTINF:-1,DE: Discovery Channel
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7176.ts
+#EXTINF:-1,DE: NatGeo HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15569.ts
+#EXTINF:-1,DE: Nat Geographic
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7164.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15581.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7163.ts
+#EXTINF:-1,DE: HISTORY HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7106.ts
+#EXTINF:-1,DE: Dmax
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7417.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15344.ts
+#EXTINF:-1,DE: TLC
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7427.ts
+#EXTINF:-1,=======  Musik  =======
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13608.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7134.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7135.ts
+#EXTINF:-1,DE:  VEVO
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7436.ts
+#EXTINF:-1,DE:  M2O Music
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7423.ts
+#EXTINF:-1,DE: Jukebox
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15343.ts
+#EXTINF:-1,=======  Kinder  =======
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13606.ts
+#EXTINF:-1,DE: Junior
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13018.ts
+#EXTINF:-1,DE: Disney XD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7453.ts
+#EXTINF:-1,DE: Disney Junior
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7175.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7133.ts
+#EXTINF:-1,DE: Disney Channel
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7173.ts
+#EXTINF:-1,DE: Toggo Plus
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15345.ts
+#EXTINF:-1,DE: Boomerang
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15351.ts
+#EXTINF:-1,DE: Cartoon Network
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15356.ts
+#EXTINF:-1,DE: 13th Street HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15572.ts
+#EXTINF:-1,DE: Discovery HD German
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15584.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15571.ts
