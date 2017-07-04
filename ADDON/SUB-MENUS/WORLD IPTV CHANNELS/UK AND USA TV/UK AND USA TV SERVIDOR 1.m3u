@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -453,257 +453,111 @@ http://185.22.78.73:9016/play/a003
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: 3E
-http://bomba2017.hopto.org:8000/live/led/led/6765.ts
-#EXTINF:-1,UK: 5 USA
-http://bomba2017.hopto.org:8000/live/led/led/6764.ts
-#EXTINF:-1,UK: ALIBI
-http://bomba2017.hopto.org:8000/live/led/led/6763.ts
-#EXTINF:-1,UK: ANIMAL PLANET
-http://bomba2017.hopto.org:8000/live/led/led/6762.ts
-#EXTINF:-1,UK: Baby TV
-http://bomba2017.hopto.org:8000/live/led/led/6761.ts
-#EXTINF:-1,UK: BBC 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6760.ts
-#EXTINF:-1,UK: BBC 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6759.ts
-#EXTINF:-1,UK: BBC 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6758.ts
-#EXTINF:-1,UK: BBC 4HD
-http://bomba2017.hopto.org:8000/live/led/led/6757.ts
-#EXTINF:-1,UK: BBC ALBA
-http://bomba2017.hopto.org:8000/live/led/led/6756.ts
-#EXTINF:-1,UK: Box Nation
-http://bomba2017.hopto.org:8000/live/led/led/6755.ts
-#EXTINF:-1,UK: BT Europe HD
-http://bomba2017.hopto.org:8000/live/led/led/6754.ts
-#EXTINF:-1,UK: BT Sports 1
-http://bomba2017.hopto.org:8000/live/led/led/6753.ts
-#EXTINF:-1,UK: BT SPORTS 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6752.ts
-#EXTINF:-1,UK: BT Sports 2
-http://bomba2017.hopto.org:8000/live/led/led/6751.ts
-#EXTINF:-1,UK: BT SPORTS 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6750.ts
-#EXTINF:-1,UK: BT SPORTS 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6749.ts
-#EXTINF:-1,UK: Cartoon Network
-http://bomba2017.hopto.org:8000/live/led/led/6748.ts
-#EXTINF:-1,UK: Cbeebies
-http://bomba2017.hopto.org:8000/live/led/led/6747.ts
-#EXTINF:-1,UK: CBS Action
-http://bomba2017.hopto.org:8000/live/led/led/6746.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://bomba2017.hopto.org:8000/live/led/led/6745.ts
-#EXTINF:-1,UK: CBS REALITY
-http://bomba2017.hopto.org:8000/live/led/led/6744.ts
-#EXTINF:-1,UK: CHALLENGE
-http://bomba2017.hopto.org:8000/live/led/led/6743.ts
-#EXTINF:-1,UK: Channel 4
-http://bomba2017.hopto.org:8000/live/led/led/6742.ts
-#EXTINF:-1,UK: CHANNEL 4HD UK
-http://bomba2017.hopto.org:8000/live/led/led/6741.ts
-#EXTINF:-1,UK: CHANNEL 5 UK
-http://bomba2017.hopto.org:8000/live/led/led/6740.ts
-#EXTINF:-1,UK: CHANNEL 5HD
-http://bomba2017.hopto.org:8000/live/led/led/6739.ts
-#EXTINF:-1,UK: CITV
-http://bomba2017.hopto.org:8000/live/led/led/6738.ts
-#EXTINF:-1,UK: CNBC Europe
-http://bomba2017.hopto.org:8000/live/led/led/6737.ts
-#EXTINF:-1,UK: Comedy Central
-http://bomba2017.hopto.org:8000/live/led/led/6736.ts
-#EXTINF:-1,UK: Comedy Extra
-http://bomba2017.hopto.org:8000/live/led/led/6735.ts
-#EXTINF:-1,UK: Crime Investigation
-http://bomba2017.hopto.org:8000/live/led/led/6734.ts
-#EXTINF:-1,UK: Dave
-http://bomba2017.hopto.org:8000/live/led/led/6733.ts
-#EXTINF:-1,UK: Discovery
-http://bomba2017.hopto.org:8000/live/led/led/6732.ts
-#EXTINF:-1,UK: Discovery History
-http://bomba2017.hopto.org:8000/live/led/led/6731.ts
-#EXTINF:-1,UK: Discovery Home&Health
-http://bomba2017.hopto.org:8000/live/led/led/6730.ts
-#EXTINF:-1,UK: Discovery Science
-http://bomba2017.hopto.org:8000/live/led/led/6729.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://bomba2017.hopto.org:8000/live/led/led/6728.ts
-#EXTINF:-1,UK: Disney Channel
-http://bomba2017.hopto.org:8000/live/led/led/6727.ts
-#EXTINF:-1,UK: Disney Junior
-http://bomba2017.hopto.org:8000/live/led/led/6726.ts
-#EXTINF:-1,UK: DISNEY XD
-http://bomba2017.hopto.org:8000/live/led/led/6725.ts
-#EXTINF:-1,UK: DMAX
-http://bomba2017.hopto.org:8000/live/led/led/6724.ts
-#EXTINF:-1,UK: DRAMA UK
-http://bomba2017.hopto.org:8000/live/led/led/6723.ts
-#EXTINF:-1,UK: E!
-http://bomba2017.hopto.org:8000/live/led/led/6722.ts
-#EXTINF:-1,UK: Eden
-http://bomba2017.hopto.org:8000/live/led/led/6721.ts
-#EXTINF:-1,UK: Flava
-http://bomba2017.hopto.org:8000/live/led/led/6720.ts
-#EXTINF:-1,UK: FOX
-http://bomba2017.hopto.org:8000/live/led/led/6719.ts
-#EXTINF:-1,UK: GOLD
-http://bomba2017.hopto.org:8000/live/led/led/6718.ts
-#EXTINF:-1,UK: H2
-http://bomba2017.hopto.org:8000/live/led/led/6717.ts
-#EXTINF:-1,UK: HEART TV
-http://bomba2017.hopto.org:8000/live/led/led/6716.ts
-#EXTINF:-1,UK: History
-http://bomba2017.hopto.org:8000/live/led/led/6715.ts
-#EXTINF:-1,UK: HOME+1
-http://bomba2017.hopto.org:8000/live/led/led/6714.ts
-#EXTINF:-1,UK: Horror Channel
-http://bomba2017.hopto.org:8000/live/led/led/6713.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://bomba2017.hopto.org:8000/live/led/led/6712.ts
-#EXTINF:-1,UK: ITV 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6711.ts
-#EXTINF:-1,UK: ITV 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6710.ts
-#EXTINF:-1,UK: ITV 3
-http://bomba2017.hopto.org:8000/live/led/led/6709.ts
-#EXTINF:-1,UK: ITV 4
-http://bomba2017.hopto.org:8000/live/led/led/6708.ts
-#EXTINF:-1,UK: ITV BE HD
-http://bomba2017.hopto.org:8000/live/led/led/6707.ts
-#EXTINF:-1,UK: ITV ENCORE
-http://bomba2017.hopto.org:8000/live/led/led/6706.ts
-#EXTINF:-1,UK: LFC TV
-http://bomba2017.hopto.org:8000/live/led/led/6705.ts
-#EXTINF:-1,UK: LONDON LIVE
-http://bomba2017.hopto.org:8000/live/led/led/6704.ts
-#EXTINF:-1,UK: MOVIES 4 MEN
-http://bomba2017.hopto.org:8000/live/led/led/6703.ts
-#EXTINF:-1,UK: MTV Dance
-http://bomba2017.hopto.org:8000/live/led/led/6702.ts
-#EXTINF:-1,UK: MTV Hits
-http://bomba2017.hopto.org:8000/live/led/led/6701.ts
-#EXTINF:-1,UK: MTV Music
-http://bomba2017.hopto.org:8000/live/led/led/6700.ts
-#EXTINF:-1,UK: MTV Rocks
-http://bomba2017.hopto.org:8000/live/led/led/6699.ts
-#EXTINF:-1,UK: MUTV FC
-http://bomba2017.hopto.org:8000/live/led/led/6698.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://bomba2017.hopto.org:8000/live/led/led/6697.ts
-#EXTINF:-1,UK: National Geographic
-http://bomba2017.hopto.org:8000/live/led/led/6696.ts
-#EXTINF:-1,UK: Nick Junior
-http://bomba2017.hopto.org:8000/live/led/led/6695.ts
-#EXTINF:-1,UK: Nickelodeon
-http://bomba2017.hopto.org:8000/live/led/led/6694.ts
-#EXTINF:-1,UK: NickToons
-http://bomba2017.hopto.org:8000/live/led/led/6693.ts
-#EXTINF:-1,UK: PICK TV
-http://bomba2017.hopto.org:8000/live/led/led/6692.ts
-#EXTINF:-1,UK: Premier Sports
-http://bomba2017.hopto.org:8000/live/led/led/6691.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://bomba2017.hopto.org:8000/live/led/led/6690.ts
-#EXTINF:-1,UK: Quest
-http://bomba2017.hopto.org:8000/live/led/led/6689.ts
-#EXTINF:-1,UK: Racing UK
-http://bomba2017.hopto.org:8000/live/led/led/6688.ts
-#EXTINF:-1,UK: Really
-http://bomba2017.hopto.org:8000/live/led/led/6687.ts
-#EXTINF:-1,UK: Rte One
-http://bomba2017.hopto.org:8000/live/led/led/6686.ts
-#EXTINF:-1,UK: SCUZZ
-http://bomba2017.hopto.org:8000/live/led/led/6685.ts
-#EXTINF:-1,UK: Setanta Sport Ireland
-http://bomba2017.hopto.org:8000/live/led/led/6684.ts
-#EXTINF:-1,UK: SKY 1
-http://bomba2017.hopto.org:8000/live/led/led/6683.ts
-#EXTINF:-1,UK: Sky 2
-http://bomba2017.hopto.org:8000/live/led/led/6682.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure
-http://bomba2017.hopto.org:8000/live/led/led/6681.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://bomba2017.hopto.org:8000/live/led/led/6680.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://bomba2017.hopto.org:8000/live/led/led/6679.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://bomba2017.hopto.org:8000/live/led/led/6678.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://bomba2017.hopto.org:8000/live/led/led/6677.ts
-#EXTINF:-1,UK: Sky Movies Sci Fi & Horror
-http://bomba2017.hopto.org:8000/live/led/led/6676.ts
-#EXTINF:-1,UK: Sky Movies Greats HD
-http://bomba2017.hopto.org:8000/live/led/led/6675.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://bomba2017.hopto.org:8000/live/led/led/6674.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://bomba2017.hopto.org:8000/live/led/led/6673.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://bomba2017.hopto.org:8000/live/led/led/6672.ts
-#EXTINF:-1,UK: Sky Sport News HQ
-http://bomba2017.hopto.org:8000/live/led/led/6671.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://bomba2017.hopto.org:8000/live/led/led/6670.ts
-#EXTINF:-1,UK: Sky Sports 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6669.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://bomba2017.hopto.org:8000/live/led/led/6668.ts
-#EXTINF:-1,UK: Sky Sports 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6667.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://bomba2017.hopto.org:8000/live/led/led/6666.ts
-#EXTINF:-1,UK: Sky Sports 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6665.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://bomba2017.hopto.org:8000/live/led/led/6664.ts
-#EXTINF:-1,UK: Sky Sports 4HD
-http://bomba2017.hopto.org:8000/live/led/led/6663.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://bomba2017.hopto.org:8000/live/led/led/6662.ts
-#EXTINF:-1,UK: Sky Sports 5HD
-http://bomba2017.hopto.org:8000/live/led/led/6661.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://bomba2017.hopto.org:8000/live/led/led/6660.ts
-#EXTINF:-1,UK: SONY MOVIES
-http://bomba2017.hopto.org:8000/live/led/led/6659.ts
-#EXTINF:-1,UK: Spike
-http://bomba2017.hopto.org:8000/live/led/led/6658.ts
-#EXTINF:-1,UK: Syfy
-http://bomba2017.hopto.org:8000/live/led/led/6657.ts
-#EXTINF:-1,UK: TCM
-http://bomba2017.hopto.org:8000/live/led/led/6656.ts
-#EXTINF:-1,UK: TCM +1 UK
-http://bomba2017.hopto.org:8000/live/led/led/6655.ts
-#EXTINF:-1,UK: THE BOX
-http://bomba2017.hopto.org:8000/live/led/led/6654.ts
-#EXTINF:-1,UK: THE VAULT
-http://bomba2017.hopto.org:8000/live/led/led/6653.ts
-#EXTINF:-1,UK: Tiny Pop
-http://bomba2017.hopto.org:8000/live/led/led/6652.ts
-#EXTINF:-1,UK: True Drama
-http://bomba2017.hopto.org:8000/live/led/led/6651.ts
-#EXTINF:-1,UK: True Entertainment
-http://bomba2017.hopto.org:8000/live/led/led/6650.ts
-#EXTINF:-1,UK: True Movies 1
-http://bomba2017.hopto.org:8000/live/led/led/6649.ts
-#EXTINF:-1,UK: VH1 Classic
-http://bomba2017.hopto.org:8000/live/led/led/6648.ts
-#EXTINF:-1,UK: Watch
-http://bomba2017.hopto.org:8000/live/led/led/6647.ts
-#EXTINF:-1,UK: YESTERDAY1
-http://bomba2017.hopto.org:8000/live/led/led/6646.ts
-#EXTINF:-1,UK: YOUR TV
-http://bomba2017.hopto.org:8000/live/led/led/6645.ts
-#EXTINF:-1,UK: VH1
-http://bomba2017.hopto.org:8000/live/led/led/6644.ts
+#EXTINF:-1,3E (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3492.ts
+#EXTINF:-1,ANIMAL PLANET (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3491.ts
+#EXTINF:-1,BT Europe HD (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3487.ts
+#EXTINF:-1,BT Sports 1 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3485.ts
+#EXTINF:-1,BT Sports 2 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3484.ts
+#EXTINF:-1,BT Sports 3 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3483.ts
+#EXTINF:-1,Cartoon Network (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3482.ts
+#EXTINF:-1,CBS Action (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3481.ts
+#EXTINF:-1,CBS DRAMA (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3480.ts
+#EXTINF:-1,CBS REALITY (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3479.ts
+#EXTINF:-1,Channel 4 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3478.ts
+#EXTINF:-1,Channel 5 HD (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3477.ts
+#EXTINF:-1,Discovery (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3475.ts
+#EXTINF:-1,Discovery History (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3474.ts
+#EXTINF:-1,Discovery Science (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3473.ts
+#EXTINF:-1,Discovery Turbo (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3472.ts
+#EXTINF:-1,DMAX (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3471.ts
+#EXTINF:-1,E! (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3470.ts
+#EXTINF:-1,Eden (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3469.ts
+#EXTINF:-1,Eurosport (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3468.ts
+#EXTINF:-1,FOX (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3467.ts
+#EXTINF:-1,Horror Channel (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3466.ts
+#EXTINF:-1,Investigation Discovery (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3465.ts
+#EXTINF:-1,ITV 1 HD (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3464.ts
+#EXTINF:-1,ITV 2 HD (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3463.ts
+#EXTINF:-1,ITV 3 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3462.ts
+#EXTINF:-1,ITV 4 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3461.ts
+#EXTINF:-1,ITV ENCORE (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3460.ts
+#EXTINF:-1,Nat Geo Wild (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3459.ts
+#EXTINF:-1,National Geographic (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3458.ts
+#EXTINF:-1,RTE One (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3457.ts
+#EXTINF:-1,RTE Two (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3456.ts
+#EXTINF:-1,Sky 2 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3455.ts
+#EXTINF:-1,Sky Action (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3454.ts
+#EXTINF:-1,Sky Arts (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3453.ts
+#EXTINF:-1,Sky Atlantic (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3452.ts
+#EXTINF:-1,Sky Disney (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3451.ts
+#EXTINF:-1,Sky Family (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3450.ts
+#EXTINF:-1,Sky Movies Comedy (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3449.ts
+#EXTINF:-1,Sky Movies Drama (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3448.ts
+#EXTINF:-1,Sky Movies Premiere 1 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3447.ts
+#EXTINF:-1,Sky Movies Sci-Fi (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3446.ts
+#EXTINF:-1,Sky Movies Thriller (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3445.ts
+#EXTINF:-1,Sky Premiere Movies (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3444.ts
+#EXTINF:-1,Sky Showcase (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3443.ts
+#EXTINF:-1,Sky Sports 1 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3442.ts
+#EXTINF:-1,Sky Sports 2 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3441.ts
+#EXTINF:-1,Sky Sports 3 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3440.ts
+#EXTINF:-1,Sky Sports 4 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3439.ts
+#EXTINF:-1,Sky Sports 5 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3438.ts
+#EXTINF:-1,Syfy (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3437.ts
+#EXTINF:-1,TLC (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3436.ts
+#EXTINF:-1,True Drama (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3435.ts
+#EXTINF:-1,True Movies 1 (UK)
+http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3434.ts

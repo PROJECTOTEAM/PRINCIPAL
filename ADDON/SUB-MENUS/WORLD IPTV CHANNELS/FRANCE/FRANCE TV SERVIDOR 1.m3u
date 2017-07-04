@@ -1,188 +1,163 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,FR: TF1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6399.ts
-#EXTINF:-1,FR: France 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6423.ts
-#EXTINF:-1,FR: France 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6422.ts
-#EXTINF:-1,FR: France 4HD
-http://bomba2017.hopto.org:8000/live/led/led/6421.ts
-#EXTINF:-1,FR: France 5HD
-http://bomba2017.hopto.org:8000/live/led/led/6420.ts
-#EXTINF:-1,FR: M6
-http://bomba2017.hopto.org:8000/live/led/led/6415.ts
-#EXTINF:-1,FR: Arte
-http://bomba2017.hopto.org:8000/live/led/led/6392.ts
-#EXTINF:-1,FR: C8
-http://bomba2017.hopto.org:8000/live/led/led/6438.ts
-#EXTINF:-1,FR: W9
-http://bomba2017.hopto.org:8000/live/led/led/6368.ts
-#EXTINF:-1,FR: TMC HD
-http://bomba2017.hopto.org:8000/live/led/led/6397.ts
-#EXTINF:-1,FR: NT1
-http://bomba2017.hopto.org:8000/live/led/led/6411.ts
-#EXTINF:-1,FR: NRJ12
-http://bomba2017.hopto.org:8000/live/led/led/6412.ts
-#EXTINF:-1,FR: LCP HD
-http://bomba2017.hopto.org:8000/live/led/led/6935.ts
-#EXTINF:-1,FR: LCI HD
-http://bomba2017.hopto.org:8000/live/led/led/6934.ts
-#EXTINF:-1,FR: BFM
-http://bomba2017.hopto.org:8000/live/led/led/6440.ts
-#EXTINF:-1,FR: LA UNE HD
-http://bomba2017.hopto.org:8000/live/led/led/6416.ts
-#EXTINF:-1,FR: Ushuaa
-http://bomba2017.hopto.org:8000/live/led/led/6369.ts
-#EXTINF:-1,FR: Gulli
-http://bomba2017.hopto.org:8000/live/led/led/6377.ts
-#EXTINF:-1,FR: France Ô HD
-http://bomba2017.hopto.org:8000/live/led/led/6419.ts
-#EXTINF:-1,FR: D8
-http://bomba2017.hopto.org:8000/live/led/led/6430.ts
-#EXTINF:-1,FR: L'equipe 21 HD
-http://bomba2017.hopto.org:8000/live/led/led/6417.ts
-#EXTINF:-1,FR: L'équipe 21
-http://bomba2017.hopto.org:8000/live/led/led/6376.ts
-#EXTINF:-1,FR: Syfy
-http://bomba2017.hopto.org:8000/live/led/led/6370.ts
-#EXTINF:-1,FR: Mangas
-http://bomba2017.hopto.org:8000/live/led/led/6936.ts
-#EXTINF:-1,FR: MANGAS HD
-http://bomba2017.hopto.org:8000/live/led/led/6937.ts
-#EXTINF:-1,FR: TV BREIZH HD
-http://bomba2017.hopto.org:8000/live/led/led/6941.ts
-#EXTINF:-1,FR: TV5
-http://bomba2017.hopto.org:8000/live/led/led/6396.ts
-#EXTINF:-1,FR: Action
-http://bomba2017.hopto.org:8000/live/led/led/6394.ts
-#EXTINF:-1,FR: Paris Première
-http://bomba2017.hopto.org:8000/live/led/led/6373.ts
-#EXTINF:-1,FR: TEVA HD
-http://bomba2017.hopto.org:8000/live/led/led/6400.ts
-#EXTINF:-1,FR: RTL 9
-http://bomba2017.hopto.org:8000/live/led/led/6372.ts
-#EXTINF:-1,FR: 13 eme Rue
-http://bomba2017.hopto.org:8000/live/led/led/6395.ts
-#EXTINF:-1,FR: TIJI
-http://bomba2017.hopto.org:8000/live/led/led/6398.ts
-#EXTINF:-1,FR: Planète +
-http://bomba2017.hopto.org:8000/live/led/led/6408.ts
-#EXTINF:-1,FR: Planete + A&E
-http://bomba2017.hopto.org:8000/live/led/led/6407.ts
-#EXTINF:-1,FR: Planète + CI
-http://bomba2017.hopto.org:8000/live/led/led/6406.ts
-#EXTINF:-1,FR: NAT GEO WILD
-http://bomba2017.hopto.org:8000/live/led/led/6414.ts
-#EXTINF:-1,FR: National Geographic
-http://bomba2017.hopto.org:8000/live/led/led/6413.ts
-#EXTINF:-1,FR: SCIENCES & VIE TV
-http://bomba2017.hopto.org:8000/live/led/led/6405.ts
-#EXTINF:-1,FR: Discovery
-http://bomba2017.hopto.org:8000/live/led/led/6380.ts
-#EXTINF:-1,FR: Animaux
-http://bomba2017.hopto.org:8000/live/led/led/6393.ts
-#EXTINF:-1,FR: Boomerang
-http://bomba2017.hopto.org:8000/live/led/led/6391.ts
-#EXTINF:-1,FR: Chasse & Pêche
-http://bomba2017.hopto.org:8000/live/led/led/6384.ts
-#EXTINF:-1,FR: Series Club HD
-http://bomba2017.hopto.org:8000/live/led/led/6371.ts
-#EXTINF:-1,FR: BOING HD
-http://bomba2017.hopto.org:8000/live/led/led/6439.ts
-#EXTINF:-1,FR: Canal J
-http://bomba2017.hopto.org:8000/live/led/led/6435.ts
-#EXTINF:-1,FR: Cartoon Network
-http://bomba2017.hopto.org:8000/live/led/led/6434.ts
-#EXTINF:-1,FR: Disney Channel
-http://bomba2017.hopto.org:8000/live/led/led/6379.ts
-#EXTINF:-1,FR: Disney Cinemagic
-http://bomba2017.hopto.org:8000/live/led/led/6429.ts
-#EXTINF:-1,FR: Disney Junior
-http://bomba2017.hopto.org:8000/live/led/led/6428.ts
-#EXTINF:-1,FR: Disney XD
-http://bomba2017.hopto.org:8000/live/led/led/6427.ts
-#EXTINF:-1,FR: Comdie +
-http://bomba2017.hopto.org:8000/live/led/led/6431.ts
-#EXTINF:-1,FR: TéléToon +
-http://bomba2017.hopto.org:8000/live/led/led/6401.ts
-#EXTINF:-1,FR: Canal +  HD
-http://bomba2017.hopto.org:8000/live/led/led/6437.ts
-#EXTINF:-1,FR: Canal + Decale
-http://bomba2017.hopto.org:8000/live/led/led/6390.ts
-#EXTINF:-1,FR: Canal + Family
-http://bomba2017.hopto.org:8000/live/led/led/6388.ts
-#EXTINF:-1,FR: Canal + Séries
-http://bomba2017.hopto.org:8000/live/led/led/6386.ts
-#EXTINF:-1,FR: Canal + Cinema
-http://bomba2017.hopto.org:8000/live/led/led/6436.ts
-#EXTINF:-1,FR: Canal + Sport
-http://bomba2017.hopto.org:8000/live/led/led/6385.ts
-#EXTINF:-1,FR: Cine + Emotion HD
-http://bomba2017.hopto.org:8000/live/led/led/6433.ts
-#EXTINF:-1,FR: Cine + Emotion
-http://bomba2017.hopto.org:8000/live/led/led/6389.ts
-#EXTINF:-1,FR: Cine + Premier HD
-http://bomba2017.hopto.org:8000/live/led/led/6432.ts
-#EXTINF:-1,FR: Cine + Premier
-http://bomba2017.hopto.org:8000/live/led/led/6387.ts
-#EXTINF:-1,FR: Cine + Classic HD
-http://bomba2017.hopto.org:8000/live/led/led/6383.ts
-#EXTINF:-1,FR: Cine + Famiz HD
-http://bomba2017.hopto.org:8000/live/led/led/6382.ts
-#EXTINF:-1,FR: Cine + Frisson
-http://bomba2017.hopto.org:8000/live/led/led/6381.ts
-#EXTINF:-1,FR: Paramount Channel
-http://bomba2017.hopto.org:8000/live/led/led/6938.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://bomba2017.hopto.org:8000/live/led/led/6939.ts
-#EXTINF:-1,FR: TCM CINEMA HD
-http://bomba2017.hopto.org:8000/live/led/led/6940.ts
-#EXTINF:-1,FR: OCS City
-http://bomba2017.hopto.org:8000/live/led/led/6410.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://bomba2017.hopto.org:8000/live/led/led/6409.ts
-#EXTINF:-1,FR: OCS Max HD
-http://bomba2017.hopto.org:8000/live/led/led/6375.ts
-#EXTINF:-1,FR: OSC CHOC HD
-http://bomba2017.hopto.org:8000/live/led/led/6374.ts
-#EXTINF:-1,FR: E! ENTERTAINMENT
-http://bomba2017.hopto.org:8000/live/led/led/6426.ts
-#EXTINF:-1,FR: Foot +
-http://bomba2017.hopto.org:8000/live/led/led/6424.ts
-#EXTINF:-1,FR: InfoSport +
-http://bomba2017.hopto.org:8000/live/led/led/6418.ts
-#EXTINF:-1,FR: Eurosport 1
-http://bomba2017.hopto.org:8000/live/led/led/6425.ts
-#EXTINF:-1,FR: Eurosport 2
-http://bomba2017.hopto.org:8000/live/led/led/6378.ts
-#EXTINF:-1,FR: SFR 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6404.ts
-#EXTINF:-1,FR: SFR 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6403.ts
-#EXTINF:-1,FR: SFR 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6402.ts
-#EXTINF:-1,FR: BeinSports 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6443.ts
-#EXTINF:-1,FR: BeinSports 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6442.ts
-#EXTINF:-1,FR: BeinSports 3HD
-http://bomba2017.hopto.org:8000/live/led/led/6441.ts
-#EXTINF:-1,FR: BeIN Sports Max 4
-http://bomba2017.hopto.org:8000/live/led/led/6928.ts
-#EXTINF:-1,FR: BeIN Sports Max 5
-http://bomba2017.hopto.org:8000/live/led/led/6929.ts
-#EXTINF:-1,FR: BeIN Sports Max 6
-http://bomba2017.hopto.org:8000/live/led/led/6930.ts
-#EXTINF:-1,FR: BeIN Sports Max 7
-http://bomba2017.hopto.org:8000/live/led/led/6931.ts
-#EXTINF:-1,FR: BeIN Sports Max 8
-http://bomba2017.hopto.org:8000/live/led/led/6932.ts
-#EXTINF:-1,FR: BeIN Sports Max 9
-http://bomba2017.hopto.org:8000/live/led/led/6933.ts
+#EXTINF:-1,FR | BeIN SPORT HD1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19217.ts
+#EXTINF:-1,FR | BeIN SPORT HD2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19216.ts
+#EXTINF:-1,FR | BeIN SPORT HD3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19215.ts
+#EXTINF:-1,FR | SFR SPORT 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19224.ts
+#EXTINF:-1,FR | SFR SPORT 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19223.ts
+#EXTINF:-1,FR | SFR SPORT 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19222.ts
+#EXTINF:-1,FR | SFR SPORT 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19221.ts
+#EXTINF:-1,FR | EUROSPORT1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19219.ts
+#EXTINF:-1,FR | EUROSPORT2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19218.ts
+#EXTINF:-1,FR | FOOT  HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19220.ts
+#EXTINF:-1,FR | 13EME RUE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12710.ts
+#EXTINF:-1,FR | 6 TER
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12786.ts
+#EXTINF:-1,FR | AB3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12714.ts
+#EXTINF:-1,FR | ACTION
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12712.ts
+#EXTINF:-1,FR | ANIMAUX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12713.ts
+#EXTINF:-1,FR | ARTE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12775.ts
+#EXTINF:-1,FR | BE CINEMA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12749.ts
+#EXTINF:-1,FR | BOING
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12778.ts
+#EXTINF:-1,FR | BOOMERANG
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12779.ts
+#EXTINF:-1,FR | C STAR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12785.ts
+#EXTINF:-1,FR | C8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12784.ts
+#EXTINF:-1,FR | CANAL J
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12751.ts
+#EXTINF:-1,FR | CANAL+ CINEMA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12719.ts
+#EXTINF:-1,FR | CANAL+ FAMILY
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12755.ts
+#EXTINF:-1,FR | CANAL+ SERIES
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12758.ts
+#EXTINF:-1,FR | CARTOON NETWORK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12759.ts
+#EXTINF:-1,FR | CHESSE ET PACHE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12724.ts
+#EXTINF:-1,FR | CINE FX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12747.ts
+#EXTINF:-1,FR | CINE+ EMOTION
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12745.ts
+#EXTINF:-1,FR | CINE+ POLAR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12738.ts
+#EXTINF:-1,FR | CLUB RTL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12783.ts
+#EXTINF:-1,FR | COMEDIE+
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12765.ts
+#EXTINF:-1,FR | D8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12729.ts
+#EXTINF:-1,FR | DISCOVERY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12730.ts
+#EXTINF:-1,FR | DISNEY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12766.ts
+#EXTINF:-1,FR | DISNEY CINEMAGIC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12715.ts
+#EXTINF:-1,FR | DISNEY JUNIOR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12767.ts
+#EXTINF:-1,FR | DISNEY XD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12716.ts
+#EXTINF:-1,FR | FOOT+ 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12771.ts
+#EXTINF:-1,FR | FRANCE 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12731.ts
+#EXTINF:-1,FR | FRANCE 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12732.ts
+#EXTINF:-1,FR | FRANCE 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12733.ts
+#EXTINF:-1,FR | FRANCE 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12734.ts
+#EXTINF:-1,FR | FRANCE O
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12727.ts
+#EXTINF:-1,FR | GULLI
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12782.ts
+#EXTINF:-1,FR | HD1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12770.ts
+#EXTINF:-1,FR | M6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12736.ts
+#EXTINF:-1,FR | MANGAS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12717.ts
+#EXTINF:-1,FR | NAT GEO
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12722.ts
+#EXTINF:-1,FR | NAT GEO WILD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12721.ts
+#EXTINF:-1,FR | NICK JR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12777.ts
+#EXTINF:-1,FR | NRJ 12
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12737.ts
+#EXTINF:-1,FR | NRJ HITS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12752.ts
+#EXTINF:-1,FR | NT1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12788.ts
+#EXTINF:-1,FR | NUMERO 23
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12726.ts
+#EXTINF:-1,FR | PARAMOUNT CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12728.ts
+#EXTINF:-1,FR | PARIS PREMIERE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12756.ts
+#EXTINF:-1,FR | PIWI+
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12781.ts
+#EXTINF:-1,FR | PLANETE+
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12753.ts
+#EXTINF:-1,FR | PLANETE+ A&E
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12754.ts
+#EXTINF:-1,FR | PLANETE+ CI
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12750.ts
+#EXTINF:-1,FR | RMC DECOUVERTE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12725.ts
+#EXTINF:-1,FR | RTL9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12740.ts
+#EXTINF:-1,FR | RTS DEUX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12718.ts
+#EXTINF:-1,FR | RTS UN
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12720.ts
+#EXTINF:-1,FR | SCIENCE & VIE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12723.ts
+#EXTINF:-1,FR | SEASONS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12760.ts
+#EXTINF:-1,FR | SERIE CLUB
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12741.ts
+#EXTINF:-1,FR | SYFY
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12743.ts
+#EXTINF:-1,FR | TCM CINEMA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12711.ts
+#EXTINF:-1,FR | TELETOON+
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12780.ts
+#EXTINF:-1,FR | TF1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12768.ts
+#EXTINF:-1,FR | TMC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12772.ts
+#EXTINF:-1,FR | TV BREIZH
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12746.ts
+#EXTINF:-1,FR | VIER (BE)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12748.ts
+#EXTINF:-1,FR | VOYAGE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12761.ts
+#EXTINF:-1,FR | W9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12787.ts
+#EXTINF:-1,FR | ZOUZOUS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12776.ts

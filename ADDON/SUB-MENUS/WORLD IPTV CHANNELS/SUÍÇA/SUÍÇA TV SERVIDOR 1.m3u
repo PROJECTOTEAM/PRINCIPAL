@@ -3,37 +3,36 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-#EXTINF:-1,CH: RSI La1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6993.ts
-#EXTINF:-1,CH: RSI La2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6992.ts
-#EXTINF:-1,CH: RTS Deux HD
-http://bomba2017.hopto.org:8000/live/led/led/6990.ts
-#EXTINF:-1,CH: RTS UN
-http://bomba2017.hopto.org:8000/live/led/led/6991.ts
-#EXTINF:-1,CH: SFR SPORT 1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6986.ts
-#EXTINF:-1,CH: SFR SPORT 2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6985.ts
-#EXTINF:-1,CH: SFR SPORT 3 HD
-http://bomba2017.hopto.org:8000/live/led/led/6984.ts
-#EXTINF:-1,CH: SFR SPORT 5 HD
-http://bomba2017.hopto.org:8000/live/led/led/6983.ts
-#EXTINF:-1,CH: SRF 1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6988.ts
-#EXTINF:-1,CH: SRF 2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6987.ts
-#EXTINF:-1,CH: SRF Info
-http://bomba2017.hopto.org:8000/live/led/led/6989.ts
+#EXTINF:-1,CH: Teleclub Sport 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9129.ts
+#EXTINF:-1,CH:Teleclub Sport 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9130.ts
+#EXTINF:-1,CH: Teleclub Sport 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9131.ts
 #EXTINF:-1,CH: Teleclub Cinema
-http://bomba2017.hopto.org:8000/live/led/led/6982.ts
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9127.ts
 #EXTINF:-1,CH: Teleclub Prime
-http://bomba2017.hopto.org:8000/live/led/led/6981.ts
-#EXTINF:-1,CH: Teleclub Sport 1
-http://bomba2017.hopto.org:8000/live/led/led/6980.ts
-#EXTINF:-1,CH: Kanal 9
-http://bomba2017.hopto.org:8000/live/led/led/6979.ts
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9128.ts
+#EXTINF:-1,CH: Teleclub Star
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9132.ts
+#EXTINF:-1,CH:SRF 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9125.ts
+#EXTINF:-1,CH:SRF 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9126.ts
+#EXTINF:-1,CH:+3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12287.ts
+#EXTINF:-1,CH:+4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12288.ts
+#EXTINF:-1,CH:+5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12289.ts
+#EXTINF:-1,CH:5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9454.ts
+#EXTINF:-1,CH: STAR TV 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13023.ts
+#EXTINF:-1,CH: STAR TV 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17177.ts
+#EXTINF:-1,CH:S1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12286.ts

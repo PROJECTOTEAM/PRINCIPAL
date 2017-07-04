@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -18,280 +18,591 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,3SAT
-http://185.53.163.214:9401
-#EXTINF:-1,KIKA
-http://185.53.163.214:2402
-#EXTINF:-1,Nat Geo
-http://185.53.163.214:9500
-#EXTINF:-1,Discovery
-http://185.53.163.214:9501
-#EXTINF:-1,Discovery
-http://185.53.163.214:9502
-#EXTINF:-1,Sky Cinema
-http://185.53.163.214:9503
-#EXTINF:-1,Sky Cinema
-http://185.53.163.214:9504
-#EXTINF:-1,Sky Sport 1
-http://185.53.163.214:9505
-#EXTINF:-1,Sky Sport 1
-http://185.53.163.214:9506
-#EXTINF:-1,Sky Cinema
-http://185.53.163.214:9507
-#EXTINF:-1,RTL
-http://185.53.163.214:9600
-#EXTINF:-1,RTL2
-http://185.53.163.214:9601
-#EXTINF:-1,Super RTL
-http://185.53.163.214:9602
-#EXTINF:-1,VOX
-http://185.53.163.214:9603
-#EXTINF:-1,RTL Nitro
-http://185.53.163.214:9604
-#EXTINF:-1,n-tv
-http://185.53.163.214:9605
-#EXTINF:-1,TLC
-http://185.53.163.214:9700
-#EXTINF:-1,Sixx
-http://185.53.163.214:9701
-#EXTINF:-1,Disney
-http://185.53.163.214:9702
-#EXTINF:-1,Sat1
-http://185.53.163.214:9800
-#EXTINF:-1,PRO7
-http://185.53.163.214:9801
-#EXTINF:-1,Kabel eins
-http://185.53.163.214:9802
-#EXTINF:-1,Sat1 Gold
-http://185.53.163.214:9803
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,DE | 13th Street
-http://vip.groupiptv.com:7000/live/lieven/lieven/3622.ts
-#EXTINF:-1,DE | 3sat
-http://vip.groupiptv.com:7000/live/lieven/lieven/3623.ts
-#EXTINF:-1,DE | Anixe
-http://vip.groupiptv.com:7000/live/lieven/lieven/3624.ts
-#EXTINF:-1,DE | ARD
-http://vip.groupiptv.com:7000/live/lieven/lieven/3625.ts
-#EXTINF:-1,DE | Arte
-http://vip.groupiptv.com:7000/live/lieven/lieven/3626.ts
-#EXTINF:-1,DE | Austria 24 TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/3627.ts
-#EXTINF:-1,DE | AXN
-http://vip.groupiptv.com:7000/live/lieven/lieven/3628.ts
-#EXTINF:-1,DE | Boomerang
-http://vip.groupiptv.com:7000/live/lieven/lieven/3629.ts
-#EXTINF:-1,DE | Deluxe Music
-http://vip.groupiptv.com:7000/live/lieven/lieven/3630.ts
-#EXTINF:-1,DE | Discovery Channel
-http://vip.groupiptv.com:7000/live/lieven/lieven/3631.ts
-#EXTINF:-1,DE | Disney Channel
-http://vip.groupiptv.com:7000/live/lieven/lieven/3632.ts
-#EXTINF:-1,DE | Disney Cinemagic
-http://vip.groupiptv.com:7000/live/lieven/lieven/3633.ts
-#EXTINF:-1,DE | Disney Junior
-http://vip.groupiptv.com:7000/live/lieven/lieven/3634.ts
-#EXTINF:-1,DE | Disney XD
-http://vip.groupiptv.com:7000/live/lieven/lieven/3635.ts
-#EXTINF:-1,DE | Dmax
-http://vip.groupiptv.com:7000/live/lieven/lieven/3636.ts
-#EXTINF:-1,DE | Eins Plus
-http://vip.groupiptv.com:7000/live/lieven/lieven/3637.ts
-#EXTINF:-1,DE | Euronews
-http://vip.groupiptv.com:7000/live/lieven/lieven/3638.ts
-#EXTINF:-1,DE | FOX
-http://vip.groupiptv.com:7000/live/lieven/lieven/3639.ts
-#EXTINF:-1,DE | History Channel
-http://vip.groupiptv.com:7000/live/lieven/lieven/3640.ts
-#EXTINF:-1,DE | HR Fernsehen
-http://vip.groupiptv.com:7000/live/lieven/lieven/3641.ts
-#EXTINF:-1,DE | Jukebox
-http://vip.groupiptv.com:7000/live/lieven/lieven/3645.ts
-#EXTINF:-1,DE | Junior
-http://vip.groupiptv.com:7000/live/lieven/lieven/3646.ts
-#EXTINF:-1,DE | Kabel 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3642.ts
-#EXTINF:-1,DE | Kika
-http://vip.groupiptv.com:7000/live/lieven/lieven/3643.ts
-#EXTINF:-1,DE | Kinowelt
-http://vip.groupiptv.com:7000/live/lieven/lieven/3644.ts
-#EXTINF:-1,DE | MDR
-http://vip.groupiptv.com:7000/live/lieven/lieven/3647.ts
-#EXTINF:-1,DE | MGM
-http://vip.groupiptv.com:7000/live/lieven/lieven/3648.ts
-#EXTINF:-1,DE | Movies 1 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3649.ts
-#EXTINF:-1,DE | Movies 2 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3650.ts
-#EXTINF:-1,DE | Movies 3 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3651.ts
-#EXTINF:-1,DE | Movies 4 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3652.ts
-#EXTINF:-1,DE | Movies 5 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3653.ts
-#EXTINF:-1,DE | Movies 6 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3654.ts
-#EXTINF:-1,DE | Movies 7 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3655.ts
-#EXTINF:-1,DE | Movies 8 DE
-http://vip.groupiptv.com:7000/live/lieven/lieven/3656.ts
-#EXTINF:-1,DE | N-TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/3657.ts
-#EXTINF:-1,DE | N24
-http://vip.groupiptv.com:7000/live/lieven/lieven/3658.ts
-#EXTINF:-1,DE | Nat Geo wild
-http://vip.groupiptv.com:7000/live/lieven/lieven/3659.ts
-#EXTINF:-1,DE | National Geographic
-http://vip.groupiptv.com:7000/live/lieven/lieven/3660.ts
-#EXTINF:-1,DE | NDR
-http://vip.groupiptv.com:7000/live/lieven/lieven/3661.ts
-#EXTINF:-1,DE | Nickelodeon
-http://vip.groupiptv.com:7000/live/lieven/lieven/3663.ts
-#EXTINF:-1,DE | ORF 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3662.ts
-#EXTINF:-1,DE | ORF 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3664.ts
-#EXTINF:-1,DE | Phoenix
-http://vip.groupiptv.com:7000/live/lieven/lieven/3665.ts
-#EXTINF:-1,DE | Pro 7
-http://vip.groupiptv.com:7000/live/lieven/lieven/3666.ts
-#EXTINF:-1,DE | Pro 7 Fun
-http://vip.groupiptv.com:7000/live/lieven/lieven/3667.ts
-#EXTINF:-1,DE | Pro 7 Max
-http://vip.groupiptv.com:7000/live/lieven/lieven/3668.ts
-#EXTINF:-1,DE | RTL
-http://vip.groupiptv.com:7000/live/lieven/lieven/3669.ts
-#EXTINF:-1,DE | RTL 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3670.ts
-#EXTINF:-1,DE | RTL Crime
-http://vip.groupiptv.com:7000/live/lieven/lieven/3671.ts
-#EXTINF:-1,DE | RTL Living
-http://vip.groupiptv.com:7000/live/lieven/lieven/3672.ts
-#EXTINF:-1,DE | RTL Nitro
-http://vip.groupiptv.com:7000/live/lieven/lieven/3673.ts
-#EXTINF:-1,DE | Sat 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3674.ts
-#EXTINF:-1,DE | Sat1 Gold
-http://vip.groupiptv.com:7000/live/lieven/lieven/3675.ts
-#EXTINF:-1,DE | Servus TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/3676.ts
-#EXTINF:-1,DE | Sixx
-http://vip.groupiptv.com:7000/live/lieven/lieven/3677.ts
-#EXTINF:-1,DE | Sky 3D
-http://vip.groupiptv.com:7000/live/lieven/lieven/3678.ts
-#EXTINF:-1,DE | Sky Action
-http://vip.groupiptv.com:7000/live/lieven/lieven/3679.ts
-#EXTINF:-1,DE | Sky Atlantic
-http://vip.groupiptv.com:7000/live/lieven/lieven/3680.ts
-#EXTINF:-1,DE | SKY Bundesliga 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3681.ts
-#EXTINF:-1,DE | Sky Bundesliga 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3682.ts
-#EXTINF:-1,DE | Sky Bundesliga 3
-http://vip.groupiptv.com:7000/live/lieven/lieven/3683.ts
-#EXTINF:-1,DE | Sky Bundesliga 4
-http://vip.groupiptv.com:7000/live/lieven/lieven/3684.ts
-#EXTINF:-1,DE | SKY Cinema
-http://vip.groupiptv.com:7000/live/lieven/lieven/3685.ts
-#EXTINF:-1,DE | Sky Cinema Plus1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3686.ts
-#EXTINF:-1,DE | SKY Cinema Plus24
-http://vip.groupiptv.com:7000/live/lieven/lieven/3687.ts
-#EXTINF:-1,DE | Sky Classica
-http://vip.groupiptv.com:7000/live/lieven/lieven/3688.ts
-#EXTINF:-1,DE | SKY Comedy
-http://vip.groupiptv.com:7000/live/lieven/lieven/3689.ts
-#EXTINF:-1,DE | Sky Emotion
-http://vip.groupiptv.com:7000/live/lieven/lieven/3690.ts
-#EXTINF:-1,DE | Sky Heimat Kanal
-http://vip.groupiptv.com:7000/live/lieven/lieven/3691.ts
-#EXTINF:-1,DE | Sky Hits
-http://vip.groupiptv.com:7000/live/lieven/lieven/3692.ts
-#EXTINF:-1,DE | Sky Krimi
-http://vip.groupiptv.com:7000/live/lieven/lieven/3694.ts
-#EXTINF:-1,DE | Sky Nostalgie
-http://vip.groupiptv.com:7000/live/lieven/lieven/3693.ts
-#EXTINF:-1,DE | Sky Sport 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3695.ts
-#EXTINF:-1,DE | Sky Sport 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3696.ts
-#EXTINF:-1,DE | Sky Sport Austria
-http://vip.groupiptv.com:7000/live/lieven/lieven/3698.ts
-#EXTINF:-1,DE | Sky Sport News
-http://vip.groupiptv.com:7000/live/lieven/lieven/3697.ts
-#EXTINF:-1,DE | Spiegel Geschichte
-http://vip.groupiptv.com:7000/live/lieven/lieven/3699.ts
-#EXTINF:-1,DE | Sport1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3700.ts
-#EXTINF:-1,DE | Sport1 US
-http://vip.groupiptv.com:7000/live/lieven/lieven/3701.ts
-#EXTINF:-1,DE | SportDigital
-http://vip.groupiptv.com:7000/live/lieven/lieven/3702.ts
-#EXTINF:-1,DE | SRF 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3703.ts
-#EXTINF:-1,DE | SRF 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3704.ts
-#EXTINF:-1,DE | Super RTL
-http://vip.groupiptv.com:7000/live/lieven/lieven/3705.ts
-#EXTINF:-1,DE | SyFy
-http://vip.groupiptv.com:7000/live/lieven/lieven/3706.ts
-#EXTINF:-1,DE | Teleclub Sport 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/3707.ts
-#EXTINF:-1,DE | Teleclub Sport 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/3708.ts
-#EXTINF:-1,DE | TNT Comedy
-http://vip.groupiptv.com:7000/live/lieven/lieven/3709.ts
-#EXTINF:-1,DE | TNT Film
-http://vip.groupiptv.com:7000/live/lieven/lieven/3710.ts
-#EXTINF:-1,DE | TNT Serie
-http://vip.groupiptv.com:7000/live/lieven/lieven/3711.ts
-#EXTINF:-1,DE | Viva Comedy Central
-http://vip.groupiptv.com:7000/live/lieven/lieven/3712.ts
-#EXTINF:-1,DE | VOX
-http://vip.groupiptv.com:7000/live/lieven/lieven/3713.ts
-#EXTINF:-1,DE | Wdr
-http://vip.groupiptv.com:7000/live/lieven/lieven/3714.ts
-#EXTINF:-1,DE | ZDF
-http://vip.groupiptv.com:7000/live/lieven/lieven/3715.ts
-#EXTINF:-1,DE | ZDF Info
-http://vip.groupiptv.com:7000/live/lieven/lieven/3716.ts
-#EXTINF:-1,DE | ZDF Kultur
-http://vip.groupiptv.com:7000/live/lieven/lieven/3717.ts
-#EXTINF:-1,DE | ZDF Neo
-http://vip.groupiptv.com:7000/live/lieven/lieven/3718.ts
+#EXTINF:-1,DE: Das Erste HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7871.ts
+#EXTINF:-1,DE: ZDF
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7874.ts
+#EXTINF:-1,DE:: Sat 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7897.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7898.ts
+#EXTINF:-1,DE:: RTL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7887.ts
+#EXTINF:-1,DE:: RTL HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19844.ts
+#EXTINF:-1,DE:: RTL 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7892.ts
+#EXTINF:-1,DE:: RTL 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19817.ts
+#EXTINF:-1,DE: RTL 2 YOU HD
+http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
+#EXTINF:-1,DE:: RTL Crime
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7888.ts
+#EXTINF:-1,DE: RTL LIVING HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7889.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7890.ts
+#EXTINF:-1,DE:: RTL Passion
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7891.ts
+#EXTINF:-1,DE: RTL PLUS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12324.ts
+#EXTINF:-1,DE:: ProSieben
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7894.ts
+#EXTINF:-1,DE:: Prosieben HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19818.ts
+#EXTINF:-1,DE:: Pro7 Maxx
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7896.ts
+#EXTINF:-1,DE:: Pro7 Maxx HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19819.ts
+#EXTINF:-1,DE: Pro7 Fun HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7895.ts
+#EXTINF:-1,DE:: KABEL 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7899.ts
+#EXTINF:-1,DE:: Kabel 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19823.ts
+#EXTINF:-1,DE: Kabel 1 Classics
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18901.ts
+#EXTINF:-1,DE:: VOX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7901.ts
+#EXTINF:-1,DE:: VOX HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19843.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7903.ts
+#EXTINF:-1,DE:: Sixx
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7936.ts
+#EXTINF:-1,DE: ANIXE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7930.ts
+#EXTINF:-1,DE: Servus TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7906.ts
+#EXTINF:-1,DE:: 3SAT
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7877.ts
+#EXTINF:-1,DE: Ndr HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
+#EXTINF:-1,DE: MDR
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
+#EXTINF:-1,DE: SR
+http://livestream.sr-online.de/live.m3u8
+#EXTINF:-1,DE: SWR
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:-1,DE: Hr HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7880.ts
+#EXTINF:-1,DE: WDR HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7878.ts
+#EXTINF:-1,DE: ONE HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18848.ts
+#EXTINF:-1,DE:: ZDF_neo
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7873.ts
+#EXTINF:-1,==== DOKU // NEWS // KULTUR =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13007.ts
+#EXTINF:-1,DE:: arte HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19829.ts
+#EXTINF:-1,DE: SKY ARTS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17800.ts
+#EXTINF:-1,DE:: Discovery Channel
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7938.ts
+#EXTINF:-1,DE:: Discovery HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19828.ts
+#EXTINF:-1,DE: NatGeo People
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18898.ts
+#EXTINF:-1,DE:: Nat Geo
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7941.ts
+#EXTINF:-1,DE:: NatGeo Wild
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7940.ts
+#EXTINF:-1,DE:: Nat Geo Wild HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19820.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7937.ts
+#EXTINF:-1,DE: History HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7939.ts
+#EXTINF:-1,DE:: History HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19824.ts
+#EXTINF:-1,DE: Planet HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7942.ts
+#EXTINF:-1,DE:: Spiegel Geschichte
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7943.ts
+#EXTINF:-1,DE:: Kabel 1 Doku
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18900.ts
+#EXTINF:-1,DE: Phoenix HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7881.ts
+#EXTINF:-1,DE:: ZDF info
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7875.ts
+#EXTINF:-1,DE: N24 DOKU
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18899.ts
+#EXTINF:-1,DE::: N24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7882.ts
+#EXTINF:-1,DE:: n-tv
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7944.ts
+#EXTINF:-1,DE:: n-TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19842.ts
+#EXTINF:-1,DE: DEUTSCHTE WELLE
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1,DE:: A&E
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7928.ts
+#EXTINF:-1,DE: DMAX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7905.ts
+#EXTINF:-1,DE: TLC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7904.ts
+#EXTINF:-1,DE:: E! Entertainment
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19741.ts
+#EXTINF:-1,DE: ZDF Kultur HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17801.ts
+#EXTINF:-1,DE: Arte
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7884.ts
+#EXTINF:-1,===== KINDER ======
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13006.ts
+#EXTINF:-1,DE:: Comedy Central / VIVA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19800.ts
+#EXTINF:-1,DE:: Nickelodeon
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7954.ts
+#EXTINF:-1,DE:: Disney Channel HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7946.ts
+#EXTINF:-1,DE:: Disney Cinemagic
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7947.ts
+#EXTINF:-1,DE:: Disney XD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7949.ts
+#EXTINF:-1,DE:: Disney Junior
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7948.ts
+#EXTINF:-1,DE:: Cartoon Network
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7951.ts
+#EXTINF:-1,DE:: Boomerang
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7950.ts
+#EXTINF:-1,DE:: Junior
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7952.ts
+#EXTINF:-1,DE: Super RTL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7955.ts
+#EXTINF:-1,DE: Toggo Plus
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13996.ts
+#EXTINF:-1,DE:: KIKA HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7953.ts
+#EXTINF:-1,DE: RIC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18850.ts
+#EXTINF:-1,==== FILME / SERIEN =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13004.ts
+#EXTINF:-1,DE:: SKY 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7912.ts
+#EXTINF:-1,DE:: Sky Cinema Hits
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7914.ts
+#EXTINF:-1,DE:: Sky Cinema
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7915.ts
+#EXTINF:-1,DE:: Sky Cinema HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19812.ts
+#EXTINF:-1,DE:: Sky Cinema +1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7916.ts
+#EXTINF:-1,DE:: Sky Cinema +24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7917.ts
+#EXTINF:-1,DE:: Sky Atlantic
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7919.ts
+#EXTINF:-1,DE: Sky Atlantic +1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7876.ts
+#EXTINF:-1,DE:: Sky Cinema Action
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7913.ts
+#EXTINF:-1,DE:: Sky Action HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19813.ts
+#EXTINF:-1,DE:: Sky Cinema Family
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7918.ts
+#EXTINF:-1,DE:: Sky Comedy
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7920.ts
+#EXTINF:-1,DE:: Sky Emotion
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7922.ts
+#EXTINF:-1,DE:: Sky Nostalgie
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7923.ts
+#EXTINF:-1,DE:: Sky Krimi
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7921.ts
+#EXTINF:-1,DE: SKY 3D
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18895.ts
+#EXTINF:-1,DE:: Fox HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7935.ts
+#EXTINF:-1,DE:: TNT Comedy
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7932.ts
+#EXTINF:-1,DE:: TNT Film
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7931.ts
+#EXTINF:-1,DE:: TNT Serie
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7933.ts
+#EXTINF:-1,DE:: Kinowelt
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7925.ts
+#EXTINF:-1,DE: SONY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7926.ts
+#EXTINF:-1,DE:: 13th Street
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7911.ts
+#EXTINF:-1,DE:: SYFY
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7927.ts
+#EXTINF:-1,DE: SILVERLINE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11477.ts
+#EXTINF:-1,DE:: Universal Channel
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7924.ts
+#EXTINF:-1,DE: AXN HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7929.ts
+#EXTINF:-1,DE:: Zee One
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7902.ts
+#EXTINF:-1,DE:: Romance TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7907.ts
+#EXTINF:-1,DE:: Heimatkanal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7909.ts
+#EXTINF:-1,DE: King of Queens
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17122.ts
+#EXTINF:-1,DE: Two and a Half Men
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17291.ts
+#EXTINF:-1,DE:: TLC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19752.ts
+#EXTINF:-1,===== SKY SELECT =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18016.ts
+#EXTINF:-1,DE: Sky Select HD1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10520.ts
+#EXTINF:-1,DE: Sky Select HD2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10521.ts
+#EXTINF:-1,DE: Sky Select HD 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10522.ts
+#EXTINF:-1,DE: Sky Select HD 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10523.ts
+#EXTINF:-1,DE: Sky Select HD5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10524.ts
+#EXTINF:-1,DE: Sky Select HD6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10525.ts
+#EXTINF:-1,DE: Sky Select HD 7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10526.ts
+#EXTINF:-1,DE: Sky Select HD 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10527.ts
+#EXTINF:-1,DE: Sky Select HD 9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10528.ts
+#EXTINF:-1,DE: Sky Select HD 10
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10529.ts
+#EXTINF:-1,DE: Sky Select Adrenalin
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17029.ts
+#EXTINF:-1,DE: BOX OFFICE 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10532.ts
+#EXTINF:-1,DE: BOX OFFICE 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10533.ts
+#EXTINF:-1,DE: BOX OFFICE 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10534.ts
+#EXTINF:-1,DE: BOX OFFICE 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10535.ts
+#EXTINF:-1,DE: BOX OFFICE 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10536.ts
+#EXTINF:-1,DE: BOX OFFICE 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10537.ts
+#EXTINF:-1,DE: BOX OFFICE 7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10538.ts
+#EXTINF:-1,DE: BOX OFFICE 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10539.ts
+#EXTINF:-1,DE: BOX OFFICE 9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/10540.ts
+#EXTINF:-1,DE:POPCORN SELECT 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17807.ts
+#EXTINF:-1,DE:POPCORN SELECT 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17806.ts
+#EXTINF:-1,DE:POPCORN SELECT 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17805.ts
+#EXTINF:-1,DE:POPCORN SELECT 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17804.ts
+#EXTINF:-1,DE:POPCORN SELECT 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17803.ts
+#EXTINF:-1,DE:POPCORN SELECT 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17802.ts
+#EXTINF:-1,===== DE SPORT =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17812.ts
+#EXTINF:-1,DE: Sport 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19081.ts
+#EXTINF:-1,DE:: Sport 1  HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19806.ts
+#EXTINF:-1,DE:: Sky Sport 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19811.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7964.ts
+#EXTINF:-1,DE: WWE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7958.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7959.ts
+#EXTINF:-1,DE:: Eurosport 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19827.ts
+#EXTINF:-1,DE:: Eurosport 360 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19826.ts
+#EXTINF:-1,DE:: Eurosport 3620 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19825.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13844.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7963.ts
+#EXTINF:-1,DE: Sky Sport News
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7934.ts
+#EXTINF:-1,DE:: Motorvision TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7962.ts
+#EXTINF:-1,==== SKY SPORT =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13005.ts
+#EXTINF:-1,DE:: Sky Sport Austria
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7965.ts
+#EXTINF:-1,DE:: SKY SPORT 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7966.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD (E2)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12594.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD (E1)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12595.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD (E2)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12596.ts
+#EXTINF:-1,DE:: SKY SPORT 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7967.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD (E1)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12597.ts
+#EXTINF:-1,DE:: Sky Sports 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7968.ts
+#EXTINF:-1,DE:: Sky Sport 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19810.ts
+#EXTINF:-1,DE: Sky Sport 3 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12598.ts
+#EXTINF:-1,DE: Sky Sports 4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7969.ts
+#EXTINF:-1,DE: Sky Sport 4 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12600.ts
+#EXTINF:-1,DE:: Sky Sports 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7970.ts
+#EXTINF:-1,DE: Sky Sport 5 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12602.ts
+#EXTINF:-1,DE:: Sky Sports 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7971.ts
+#EXTINF:-1,DE:: Sky Sport 6 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19809.ts
+#EXTINF:-1,DE: Sky Sport 6 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12604.ts
+#EXTINF:-1,DE:: Sky Sports 7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7972.ts
+#EXTINF:-1,DE: Sky Sport 7 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12606.ts
+#EXTINF:-1,DE:: Sky Sports 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7973.ts
+#EXTINF:-1,DE: Sky Sport 8 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12608.ts
+#EXTINF:-1,DE:: Sky Sports 9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7974.ts
+#EXTINF:-1,DE: Sky Sport 9 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12610.ts
+#EXTINF:-1,DE:: Sky Sports 10
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7975.ts
+#EXTINF:-1,DE: Sky Sport 10 FullHD (ONLY ON MATCHDAY)(ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12612.ts
+#EXTINF:-1,DE:: Sky Sports 11
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7976.ts
+#EXTINF:-1,====== SKY BUNDESLIGA =======
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12391.ts
+#EXTINF:-1,DE:: Sky Bundesliga 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7978.ts
+#EXTINF:-1,DE:: Sky Sport Bundesliga 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19808.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD  [Ersatz 1]
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12393.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [Ersatz 2]
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7977.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [Ersatz 3]
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12392.ts
+#EXTINF:-1,DE:: Sky Bundesliga 2  (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7979.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD [Ersatz 1] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12395.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD [Ersatz 2] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12409.ts
+#EXTINF:-1,DE:: Sky Bundesliga 3 (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7980.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD [Ersatz 1] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12397.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 [Ersatz 2] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12396.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD [Ersatz 1 ] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12399.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7981.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD [Ersatz 2] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12398.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7982.ts
+#EXTINF:-1,DE:: Sky Sport Bundesliga 5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19807.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD [Ersatz 1] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12401.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD [Ersatz 2] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12400.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD [Ersatz 2] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12402.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA 7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7984.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 FullHD (ONLY ON MATCHDAY)(Ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12404.ts
+#EXTINF:-1,DE:: Sky Sport Bundesliga 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7983.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD [Ersatz 1] (ONLY ON MATCHDAY)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12403.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 (ONLY ON MATCHDAY)(Ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12405.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7985.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 (ONLY ON MATCHDAY)(Ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12407.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA 9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7986.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 (ONLY ON MATCHDAY)(Ersatz)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12408.ts
+#EXTINF:-1,DE:: SKY BUNDESLIGA  10
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7987.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7885.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7886.ts
+#EXTINF:-1,===== MIX # DE ======
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13010.ts
+#EXTINF:-1,DE:: Life Channel CH
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19822.ts
+#EXTINF:-1,DE:: SWR BW HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19805.ts
+#EXTINF:-1,DE:: SWR RP HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19804.ts
+#EXTINF:-1,DE:: SAT.1 Bayern
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19743.ts
+#EXTINF:-1,DE:: SAT.1 NRW
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19742.ts
+#EXTINF:-1,DE:: RTL FS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19747.ts
+#EXTINF:-1,DE:: RTL HB NDS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19746.ts
+#EXTINF:-1,DE:: RTL HH SH
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19745.ts
+#EXTINF:-1,DE: XITE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12909.ts
+#EXTINF:-1,DE:NRJ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9428.ts
+#EXTINF:-1,DE:Kronehit
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9433.ts
+#EXTINF:-1,DE: JUKEBOX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18902.ts
+#EXTINF:-1,DE:: Goldstar
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7908.ts
+#EXTINF:-1,DE: Classica
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7900.ts
+#EXTINF:-1,DE: FC Bayern TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17810.ts
+#EXTINF:-1,DE: JOIZ HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/7910.ts
+#EXTINF:-1,DE: 1-2-3 TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11046.ts
+#EXTINF:-1,DE: WELT DER WUNDER
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18852.ts
+#EXTINF:-1,DE: WMZ
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18842.ts
+#EXTINF:-1,DE:: Sparhandy
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19740.ts
+#EXTINF:-1,DE:: QVC BEAUTY&STYLE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19744.ts
+#EXTINF:-1,DE: QVC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18977.ts
+#EXTINF:-1,DE: QVC Beauty and Style
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18979.ts
+#EXTINF:-1,DE: QVC Plus
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18978.ts
+#EXTINF:-1,DE:HSE 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9434.ts
+#EXTINF:-1,DE:HSE 24 Extra
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9435.ts
+#EXTINF:-1,DE:HSE 24 Trend
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9436.ts
+#EXTINF:-1,DE: erzTV Erzgebirge
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18020.ts
+#EXTINF:-1,DE: eRtv Oberlausitz
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18019.ts
+#EXTINF:-1,DE: Wernigerode
+URL:rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1,DE: WMZ Senftenberg
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18029.ts
+#EXTINF:-1,DE: Stendal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18023.ts
+#EXTINF:-1,DE: SALZWEDEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18024.ts
+#EXTINF:-1,DE: Redbull TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18034.ts
+#EXTINF:-1,DE: Punktum SüdHarz
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18021.ts
+#EXTINF:-1,DE: Merseburg
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18025.ts
+#EXTINF:-1,DE: Magdeburg
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18026.ts
+#EXTINF:-1,DE: HALLE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18028.ts
+#EXTINF:-1,DE: EBS Kanal 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18031.ts
+#EXTINF:-1,DE: EBS  Kanal 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18030.ts
+#EXTINF:-1,DE: Dessau
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18027.ts
+#EXTINF:-1,DE: Bundestag Kanal 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18032.ts
+#EXTINF:-1,DE: Bundestag Kanal 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18033.ts
+#EXTINF:-1,DE:bw.family tv
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9444.ts
+#EXTINF:-1,DE: ALEX BERLIN
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13117.ts
+#EXTINF:-1,DE: Familie Heinz Becker.
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18002.ts
+#EXTINF:-1,DE: Filstalwelle
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11052.ts
+#EXTINF:-1,DE: ISAR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11051.ts
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11047.ts
+#EXTINF:-1,DE: Tide TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11048.ts
+#EXTINF:-1,DE: TRP 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11050.ts
+#EXTINF:-1,DE: Westerwald TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11049.ts
+#EXTINF:-1,DE:Baden TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9453.ts
+#EXTINF:-1,DE:CHEMNITZ FERNSEHEN
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9431.ts
+#EXTINF:-1,DE:DAF
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9445.ts
+#EXTINF:-1,DE:Donau TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9442.ts
+#EXTINF:-1,DE:DRESDEN FERNSEHEN
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9430.ts
+#EXTINF:-1,DE:eRtv
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9443.ts
+#EXTINF:-1,DE:Franken TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9447.ts
+#EXTINF:-1,DE:KabelJournal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9438.ts
+#EXTINF:-1,DE:Kanal 9 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9451.ts
+#EXTINF:-1,DE:MUNCHEN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9455.ts
+#EXTINF:-1,DE:LEIPZIG FERNSEHEN
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9432.ts
+#EXTINF:-1,DE:Light Channel TV Deutschland
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9456.ts
+#EXTINF:-1,DE:Nahe TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9448.ts
+#EXTINF:-1,DE:noa4 Hamburg FHD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9449.ts
+#EXTINF:-1,DE:noa4 Norderstedt FHD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9450.ts
+#EXTINF:-1,DE:Potsdam TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9427.ts
+#EXTINF:-1,DE:RE eins TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9437.ts
+#EXTINF:-1,DE:Tirol TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9440.ts
+#EXTINF:-1,DE:TV Berlin
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9441.ts
+#EXTINF:-1,DE:RTL Luxemburg
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/9446.ts
+#EXTINF:-1,DE: NASA Live - Earth From Space
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17026.ts
+#EXTINF:-1,DE: BLIZZ
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18851.ts
+#EXTINF:-1,DE: EO TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18849.ts
+#EXTINF:-1,DE: FAMILIE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18847.ts
+#EXTINF:-1,DE: FOLX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18846.ts
+#EXTINF:-1,DE: RAN 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18845.ts
+#EXTINF:-1,DE: RE eins TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18843.ts
+#EXTINF:-1,DE: RFH
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18844.ts

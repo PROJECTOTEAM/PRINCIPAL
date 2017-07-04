@@ -1,98 +1,237 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-#EXTINF:-1,IT: Rai 1
-http://bomba2017.hopto.org:8000/live/led/led/6506.ts
-#EXTINF:-1,IT: Rai 2
-http://bomba2017.hopto.org:8000/live/led/led/6505.ts
-#EXTINF:-1,IT: Rai 3
-http://bomba2017.hopto.org:8000/live/led/led/6504.ts
-#EXTINF:-1,IT: Rai 4
-http://bomba2017.hopto.org:8000/live/led/led/6503.ts
-#EXTINF:-1,IT: Rai 5
-http://bomba2017.hopto.org:8000/live/led/led/6502.ts
-#EXTINF:-1,IT: Rai MOVIE HD
-http://bomba2017.hopto.org:8000/live/led/led/6501.ts
-#EXTINF:-1,IT: Rai PREMIUM
-http://bomba2017.hopto.org:8000/live/led/led/6500.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://bomba2017.hopto.org:8000/live/led/led/6499.ts
-#EXTINF:-1,IT: Rai YOYO HD
-http://bomba2017.hopto.org:8000/live/led/led/6498.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://bomba2017.hopto.org:8000/live/led/led/6494.ts
-#EXTINF:-1,IT: Sky Cinema 1HD
-http://bomba2017.hopto.org:8000/live/led/led/6493.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://bomba2017.hopto.org:8000/live/led/led/6492.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://bomba2017.hopto.org:8000/live/led/led/6491.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://bomba2017.hopto.org:8000/live/led/led/6490.ts
-#EXTINF:-1,IT: Sky Cinema MAX  HD
-http://bomba2017.hopto.org:8000/live/led/led/6489.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://bomba2017.hopto.org:8000/live/led/led/6488.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://bomba2017.hopto.org:8000/live/led/led/6530.ts
-#EXTINF:-1,IT: Cartoon Network
-http://bomba2017.hopto.org:8000/live/led/led/6529.ts
-#EXTINF:-1,IT: Eurosport 1
-http://bomba2017.hopto.org:8000/live/led/led/6528.ts
-#EXTINF:-1,IT: Eurosport 2
-http://bomba2017.hopto.org:8000/live/led/led/6527.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://bomba2017.hopto.org:8000/live/led/led/6526.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://bomba2017.hopto.org:8000/live/led/led/6525.ts
-#EXTINF:-1,IT: FOX HD
-http://bomba2017.hopto.org:8000/live/led/led/6524.ts
-#EXTINF:-1,IT: Iris
-http://bomba2017.hopto.org:8000/live/led/led/6523.ts
-#EXTINF:-1,IT: Italia 1
-http://bomba2017.hopto.org:8000/live/led/led/6522.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://bomba2017.hopto.org:8000/live/led/led/6521.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://bomba2017.hopto.org:8000/live/led/led/6520.ts
-#EXTINF:-1,IT: Premium Action 24
-http://bomba2017.hopto.org:8000/live/led/led/6519.ts
-#EXTINF:-1,IT: Premium Cinema 24
-http://bomba2017.hopto.org:8000/live/led/led/6518.ts
-#EXTINF:-1,IT: Premium Cinema 2 /24
-http://bomba2017.hopto.org:8000/live/led/led/6517.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6516.ts
-#EXTINF:-1,IT: Premium Cinema Action HD
-http://bomba2017.hopto.org:8000/live/led/led/6515.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://bomba2017.hopto.org:8000/live/led/led/6514.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://bomba2017.hopto.org:8000/live/led/led/6513.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://bomba2017.hopto.org:8000/live/led/led/6512.ts
-#EXTINF:-1,IT: Premium Cinema Joi
-http://bomba2017.hopto.org:8000/live/led/led/6511.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://bomba2017.hopto.org:8000/live/led/led/6510.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://bomba2017.hopto.org:8000/live/led/led/6509.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://bomba2017.hopto.org:8000/live/led/led/6508.ts
-#EXTINF:-1,IT: Premium Joi
-http://bomba2017.hopto.org:8000/live/led/led/6507.ts
-#EXTINF:-1,IT: Rete4
-http://bomba2017.hopto.org:8000/live/led/led/6497.ts
-#EXTINF:-1,IT: RSI LA1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6496.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6495.ts
-#EXTINF:-1,IT: Studio Universal
-http://bomba2017.hopto.org:8000/live/led/led/6487.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://bomba2017.hopto.org:8000/live/led/led/6486.ts
-#EXTINF:-1,IT: Top Crime
-http://bomba2017.hopto.org:8000/live/led/led/6485.ts
+#EXTINF:-1,IT | RAI 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14025.ts
+#EXTINF:-1,IT | RAI 1 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19085.ts
+#EXTINF:-1,IT | RAI 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14024.ts
+#EXTINF:-1,IT | RAI 2 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19086.ts
+#EXTINF:-1,IT | RAI 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14023.ts
+#EXTINF:-1,IT | RAI 3 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19087.ts
+#EXTINF:-1,IT | RETE 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14014.ts
+#EXTINF:-1,IT | RETE 4 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19083.ts
+#EXTINF:-1,IT | CANALE 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14013.ts
+#EXTINF:-1,IT | CANALE 5 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19082.ts
+#EXTINF:-1,IT | ITALIA 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14016.ts
+#EXTINF:-1,IT | ITALIA 1 (C)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19084.ts
+#EXTINF:-1,IT | ITALIA 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14015.ts
+#EXTINF:-1,IT | RAI 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14022.ts
+#EXTINF:-1,IT | RAI 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14021.ts
+#EXTINF:-1,IT | LA5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14006.ts
+#EXTINF:-1,IT | LA7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14005.ts
+#EXTINF:-1,IT | LA 7D
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17203.ts
+#EXTINF:-1,IT | TV8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17232.ts
+#EXTINF:-1,IT | RAI PREMIUM
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14019.ts
+#EXTINF:-1,IT | MEDIASET EXTRA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14011.ts
+#EXTINF:-1,IT | ITALIAN FISHING
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14009.ts
+#EXTINF:-1,IT | MEDIASET TOP CRIME
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14010.ts
+#EXTINF:-1,IT | RSI LA1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14008.ts
+#EXTINF:-1,IT | RSI LA2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14007.ts
+#EXTINF:-1,IT | RAI NEWS 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14018.ts
+#EXTINF:-1,IT | SKY GT24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14017.ts
+#EXTINF:-1,===== SERIE/FILM ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14033.ts
+#EXTINF:-1,IT | FOX HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14030.ts
+#EXTINF:-1,IT | CANALE 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14028.ts
+#EXTINF:-1,IT | FOX CRIME HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14029.ts
+#EXTINF:-1,IT | PREMIUM STORIES 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14027.ts
+#EXTINF:-1,IT | RAI MOVIE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14020.ts
+#EXTINF:-1,IT | CIELO HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14031.ts
+#EXTINF:-1,===== BAMBINI ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14068.ts
+#EXTINF:-1,IT | Boing
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14012.ts
+#EXTINF:-1,IT | CARTOON NETWORK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14066.ts
+#EXTINF:-1,IT | CARTOONITO
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14067.ts
+#EXTINF:-1,IT | K2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14063.ts
+#EXTINF:-1,IT | RAI GULP
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14065.ts
+#EXTINF:-1,IT | RAI YOYO
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14064.ts
+#EXTINF:-1,===== DOCU ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14077.ts
+#EXTINF:-1,IT | NAT GEO WILD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14072.ts
+#EXTINF:-1,IT | NATIONAL GEOGRAPHIC HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14071.ts
+#EXTINF:-1,IT | DISCOVERY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14075.ts
+#EXTINF:-1,IT | DISCOVERY SCI HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14073.ts
+#EXTINF:-1,IT | DISNEY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14074.ts
+#EXTINF:-1,IT | ANIMAL PLANET HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14070.ts
+#EXTINF:-1,IT | HISTORY
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14032.ts
+#EXTINF:-1,IT | ALICE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14076.ts
+#EXTINF:-1,IT | PESCA E CACCIA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13569.ts
+#EXTINF:-1,IT | NAT GEO PEOPLE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14069.ts
+#EXTINF:-1,===== PREMIUM ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14044.ts
+#EXTINF:-1,IT | PREMIUM CINEMA HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14039.ts
+#EXTINF:-1,IT | PREMIUM CINEMA 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14041.ts
+#EXTINF:-1,IT | PREMIUM CINEMA  +24 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14040.ts
+#EXTINF:-1,IT | PREMIUM ACTION HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14042.ts
+#EXTINF:-1,IT | PREMIUM ENERGY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14043.ts
+#EXTINF:-1,IT | PREMIUM COMEDY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14035.ts
+#EXTINF:-1,IT | PREMIUM CINEMA EMOTION HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14038.ts
+#EXTINF:-1,IT | PREMIUM CRIME +24 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14036.ts
+#EXTINF:-1,IT | PREMIUM CRIME HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14037.ts
+#EXTINF:-1,IT | PREMIUM STUDIO UNIVERSAL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14034.ts
+#EXTINF:-1,===== SKY ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14050.ts
+#EXTINF:-1,IT | SKY CINEMA PASSION HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14049.ts
+#EXTINF:-1,IT | SKY CINEMA 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14048.ts
+#EXTINF:-1,IT | SKY CINEMA COMEDY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14045.ts
+#EXTINF:-1,IT | SKY CINEMA FAMILY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14046.ts
+#EXTINF:-1,IT | SKY CINEMA CULT
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15208.ts
+#EXTINF:-1,IT | SKY CINEMA MAX HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14047.ts
+#EXTINF:-1,IT | SKY ATLANTIC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14004.ts
+#EXTINF:-1,IT | SKY CINEMA CLASSICS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15207.ts
+#EXTINF:-1,===== PRIMAFILA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14062.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14061.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14060.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14059.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14058.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14057.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14056.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 7
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14055.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14054.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 9
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14053.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 10
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14052.ts
+#EXTINF:-1,IT | SKY PRIMAFILA 12
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14051.ts
+#EXTINF:-1,===== SPORT ITALIA =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14084.ts
+#EXTINF:-1,IT | SKY SPORT F1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14083.ts
+#EXTINF:-1,IT | SKY SPORT 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14082.ts
+#EXTINF:-1,IT | SKY SPORT 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14081.ts
+#EXTINF:-1,IT | SKY SPORT 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14080.ts
+#EXTINF:-1,IT | PREMIUM SPORT 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17356.ts
+#EXTINF:-1,IT | PREMIUM SPORT HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17358.ts
+#EXTINF:-1,IT | FOX SPORTS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17355.ts
+#EXTINF:-1,IT | DISNEY JUNIOR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14078.ts
+#EXTINF:-1,IT | PREMIUM SPORT NEWS
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14079.ts
+#EXTINF:-1,IT | Sport Italia
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17228.ts
+#EXTINF:-1,IT | SKY UNO
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17224.ts
+#EXTINF:-1,IT | Milan TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17225.ts
+#EXTINF:-1,IT | Juventus TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17226.ts
+#EXTINF:-1,IT | INTER CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17227.ts
+#EXTINF:-1,IT | Rai Sport +
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17229.ts
+#EXTINF:-1,===== SPORT CALCIO =====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14101.ts
+#EXTINF:-1,IT | LAZIO CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14085.ts
+#EXTINF:-1,IT | SKY CALCIO 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14091.ts
+#EXTINF:-1,IT | SKY CALCIO 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14090.ts
+#EXTINF:-1,IT | SKY CALCIO 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14089.ts
+#EXTINF:-1,IT | SKY CALCIO 4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14088.ts
+#EXTINF:-1,IT | SKY CALCIO 5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14087.ts
+#EXTINF:-1,IT | SKY CALCIO 6 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14086.ts
+#EXTINF:-1,IT | TG COM 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14100.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14098.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14097.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14096.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14095.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14094.ts
+#EXTINF:-1,IT | PREMIUM CALCIO 6 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14093.ts
+#EXTINF:-1,IT | PREMIUM CALCIO HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14099.ts

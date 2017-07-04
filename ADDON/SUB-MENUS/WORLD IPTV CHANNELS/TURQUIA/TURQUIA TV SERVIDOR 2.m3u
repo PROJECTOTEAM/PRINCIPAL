@@ -1,7 +1,713 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,TR: BeIN SPORTS 1 HD VIP
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11912.ts
+#EXTINF:-1,TR: BeIN SPORTS 2 HD VIP
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11913.ts
+#EXTINF:-1,TR: BeIN SPORTS 3 HD VIP
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11914.ts
+#EXTINF:-1,TR: BeIN SPORTS 4 HD VIP
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11915.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11917.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11918.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11919.ts
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13861.ts
+#EXTINF:-1,TR: BEIN SPORT MAX (91.KANAL)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11916.ts
+#EXTINF:-1,TR: SARAN SPORTS TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13021.ts
+#EXTINF:-1,==== ULUSAL ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11920.ts
+#EXTINF:-1,TR: ATV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11921.ts
+#EXTINF:-1,TR: ATV - YEDEK (2) Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12829.ts
+#EXTINF:-1,TR: ATV - YEDEK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12412.ts
+#EXTINF:-1,TR: ATV AVRUPA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17485.ts
+#EXTINF:-1,TR: KANAL D HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11923.ts
+#EXTINF:-1,TR: Kanal D - YEDEK Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12414.ts
+#EXTINF:-1,TR: EURO D
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12422.ts
+#EXTINF:-1,TR: Eurostar
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12420.ts
+#EXTINF:-1,TR: STAR TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11924.ts
+#EXTINF:-1,TR: Star TV - YEDEK Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12419.ts
+#EXTINF:-1,TR: STAR TV HD-
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12418.ts
+#EXTINF:-1,TR: Show TV - YEDEK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12413.ts
+#EXTINF:-1,TR: SHOW TV Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12434.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11925.ts
+#EXTINF:-1,TR: SHOWMAX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11927.ts
+#EXTINF:-1,TR: FOX TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11928.ts
+#EXTINF:-1,TR: FOX TV - YEDEK Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12415.ts
+#EXTINF:-1,TR: TV8 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11929.ts
+#EXTINF:-1,TR: TV 8
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12417.ts
+#EXTINF:-1,TR: TV 8 -YEDEK -
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12639.ts
+#EXTINF:-1,TR: TV8 Int
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12423.ts
+#EXTINF:-1,TR: TV8.5 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11930.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11932.ts
+#EXTINF:-1,TR: A2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11922.ts
+#EXTINF:-1,TR:FM TV
+http://31.177.62.149:8000/play/s55
+#EXTINF:-1,TR:KANAL 7 AVRUPA
+http://31.177.62.149:8006/play/s56
+#EXTINF:-1,TR:KANAL T
+http://31.177.62.149:8002/play/s45
+#EXTINF:-1,TR:KANAL URFA
+http://31.177.62.149:8002/play/s50
+#EXTINF:-1,TR:TVT
+http://31.177.62.149:8006/play/s59
+#EXTINF:-1,TR:VATAN TV
+http://31.177.62.149:8002/play/s46
+#EXTINF:-1,TR: FLASH TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11931.ts
+#EXTINF:-1,TR: KANAL7 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11934.ts
+#EXTINF:-1,TR: TGRT EU
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11935.ts
+#EXTINF:-1,TR: Turkcel TV Plus) TV+ HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18983.ts
+#EXTINF:-1,TR: TV 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11933.ts
+#EXTINF:-1,TR: SKY360
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11936.ts
+#EXTINF:-1,TR: BEYAZ TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12150.ts
+#EXTINF:-1,TR: FX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11939.ts
+#EXTINF:-1,TR: FOX LIFE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11938.ts
+#EXTINF:-1,TR: FOX CRIME TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11937.ts
+#EXTINF:-1,TR: FUL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12433.ts
+#EXTINF:-1,TR: TELE1_TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18700.ts
+#EXTINF:-1,TR: Anadolu TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12432.ts
+#EXTINF:-1,TR: Bedir TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12411.ts
+#EXTINF:-1,TR:TURKMAX GURME HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12384.ts
+#EXTINF:-1,TR: Lifetime
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12388.ts
+#EXTINF:-1,TR: Fil TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12372.ts
+#EXTINF:-1,TR: Baby First TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12387.ts
+#EXTINF:-1,TR: DISCOVERY IDX HD [TR]
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12386.ts
+#EXTINF:-1,TR: Bloomberg HT
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12373.ts
+#EXTINF:-1,==== SPOR ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11940.ts
+#EXTINF:-1,TR: TIVIBU SPOR-1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11941.ts
+#EXTINF:-1,TR: TIVIBU SPOR-2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11942.ts
+#EXTINF:-1,TR: TIVIBU SPOR-3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19846.ts
+#EXTINF:-1,TR: TIVIBU SPOR-4 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11944.ts
+#EXTINF:-1,TR: SMARTSPOR-1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11945.ts
+#EXTINF:-1,TR: SMARTSPOR-2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11946.ts
+#EXTINF:-1,TR: NTV SPOR HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11957.ts
+#EXTINF:-1,TR: A SPOR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11953.ts
+#EXTINF:-1,TR: FENERBAHCE TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11949.ts
+#EXTINF:-1,TR:BURSASPOR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13173.ts
+#EXTINF:-1,TR: BJK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11950.ts
+#EXTINF:-1,TR: GALATASARAY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11952.ts
+#EXTINF:-1,TR: TRT SPOR HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11958.ts
+#EXTINF:-1,TR: EUROSPORT-1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11947.ts
+#EXTINF:-1,TR: EUROSPORT-2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11948.ts
+#EXTINF:-1,TR: SPORTS TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11959.ts
+#EXTINF:-1,TR: SPORT TV TÃ¼rkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11955.ts
+#EXTINF:-1,TR: SPORT TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11956.ts
+#EXTINF:-1,TR: FIGHTBOX-HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12189.ts
+#EXTINF:-1,TR: NBA TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11954.ts
+#EXTINF:-1,==== HABER ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11992.ts
+#EXTINF:-1,TR: CNN TURK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11993.ts
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11969.ts
+#EXTINF:-1,TR: A HABER
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11997.ts
+#EXTINF:-1,TR: NTV HABER
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11994.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11999.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12000.ts
+#EXTINF:-1,TR: DHA TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12001.ts
+#EXTINF:-1,TR: DEHA TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12132.ts
+#EXTINF:-1,TR: TVNET
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12002.ts
+#EXTINF:-1,TR: TGRT HABER
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12003.ts
+#EXTINF:-1,TR: HABERTURK HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11998.ts
+#EXTINF:-1,TR: HABER 61 TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12004.ts
+#EXTINF:-1,==== BELGESEL ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11976.ts
+#EXTINF:-1,TR: NATIONAL GEO WILD HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11980.ts
+#EXTINF:-1,TR: NATIONAL GEO PEOPLE HD Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11988.ts
+#EXTINF:-1,TR: NATIONAL GEO HD Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11987.ts
+#EXTINF:-1,TR: DISCOVERY CHANNEL Local
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11983.ts
+#EXTINF:-1,TR: DISCOVERY SHOWCASE HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11981.ts
+#EXTINF:-1,TR: TGRT BELGESEL --
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11989.ts
+#EXTINF:-1,TR: TGRT BELGESEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11990.ts
+#EXTINF:-1,TR:  BBC Earth HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11982.ts
+#EXTINF:-1,TR: HISTORY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12188.ts
+#EXTINF:-1,TR: YABAN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12195.ts
+#EXTINF:-1,TR: DAVINCI LEARNING
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11985.ts
+#EXTINF:-1,==== COCUK ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11960.ts
+#EXTINF:-1,TR: TRT COCUK HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11962.ts
+#EXTINF:-1,TR: TRT COCUK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11961.ts
+#EXTINF:-1,TR: NICKELODEON HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11964.ts
+#EXTINF:-1,TR: Nick JR
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11963.ts
+#EXTINF:-1,TR: CARTON NETWORK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11967.ts
+#EXTINF:-1,TR: Cartoon Network
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11968.ts
+#EXTINF:-1,TR: Disney Junior
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11966.ts
+#EXTINF:-1,TR: DISNEY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11965.ts
+#EXTINF:-1,TR: Planet Cocuk HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11975.ts
+#EXTINF:-1,TR: MINIKA GO HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11973.ts
+#EXTINF:-1,TR: MINIKA GO
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11972.ts
+#EXTINF:-1,TR: TRT MUZIK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12018.ts
+#EXTINF:-1,TR: Minika COCUK HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11971.ts
+#EXTINF:-1,TR: MINIKA COCUK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11970.ts
+#EXTINF:-1,TR: BABY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11974.ts
+#EXTINF:-1,==== MÃœZIK ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12006.ts
+#EXTINF:-1,TR: NR1 T
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12374.ts
+#EXTINF:-1,TR: VIVA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12424.ts
+#EXTINF:-1,TR: NTV Avrupa
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12421.ts
+#EXTINF:-1,TR: MTV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12430.ts
+#EXTINF:-1,TR: MTV Rocks
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12429.ts
+#EXTINF:-1,TR: MTV Live HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12425.ts
+#EXTINF:-1,TR: MTV Hits
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12428.ts
+#EXTINF:-1,TR: KRAL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12011.ts
+#EXTINF:-1,TR: KRAL POP TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12012.ts
+#EXTINF:-1,TR: KRAL WORLD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12016.ts
+#EXTINF:-1,TR: KRAL POP Akustik TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12015.ts
+#EXTINF:-1,TR: POWERTURK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12008.ts
+#EXTINF:-1,TR: POWER TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12007.ts
+#EXTINF:-1,TR: DREAMTURK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12010.ts
+#EXTINF:-1,TR: ONE BY UHD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12031.ts
+#EXTINF:-1,==== SINEMA ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12203.ts
+#EXTINF:-1,TR: DÄ°ZÄ° SMART
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12204.ts
+#EXTINF:-1,TR: SONY CHANNEL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13780.ts
+#EXTINF:-1,TR: BEiN BOX OFFiCE 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12207.ts
+#EXTINF:-1,TR: BEiN BOX OFFiCE 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12206.ts
+#EXTINF:-1,TR: BEiN BOX OFFiCE 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12205.ts
+#EXTINF:-1,TR: CINESTAR VIZYON-1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12257.ts
+#EXTINF:-1,TR: MOVIESMART PREMIUM HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12222.ts
+#EXTINF:-1,TR: MOVIESMART PREMIUM 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12221.ts
+#EXTINF:-1,TR: MOVIESMART GOLD HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12218.ts
+#EXTINF:-1,TR: MOVIESMART FEST HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12217.ts
+#EXTINF:-1,TR: MOVIESMART FAMILY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12215.ts
+#EXTINF:-1,TR: MOVIESMART ACTION HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12213.ts
+#EXTINF:-1,TR: MOVIEMAX FAMILY HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12211.ts
+#EXTINF:-1,TR: FILMBOX ACTION
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12225.ts
+#EXTINF:-1,TR: FILMBOX-HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12223.ts
+#EXTINF:-1,TR: FILMBOX ARTHOUSE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12227.ts
+#EXTINF:-1,TR: FILMBOX AILE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12226.ts
+#EXTINF:-1,TR: LOCA 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12243.ts
+#EXTINF:-1,TR: LOCA 6
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12244.ts
+#EXTINF:-1,TR: SINEMA TV HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12237.ts
+#EXTINF:-1,TR: SINETIVI HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12234.ts
+#EXTINF:-1,TR: SINETIVI ADRENANIL HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12235.ts
+#EXTINF:-1,TR: SINETIVI 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12236.ts
+#EXTINF:-1,TR: DOCUBOX HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11978.ts
+#EXTINF:-1,TR: DIZIMAX HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12190.ts
+#EXTINF:-1,TR: SALON 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12246.ts
+#EXTINF:-1,TR: SALON 3 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12248.ts
+#EXTINF:-1,TR: CINE STAR VIZYON 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12241.ts
+#EXTINF:-1,TR: CINE STAR VIZYON 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12242.ts
+#EXTINF:-1,TR: Captain Movies 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17489.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 3
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12254.ts
+#EXTINF:-1,TR: Captain Movies 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17487.ts
+#EXTINF:-1,TR: Captain Movies 5
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17486.ts
+#EXTINF:-1,TR: CINESTAR_ANIMASYON
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18705.ts
+#EXTINF:-1,TR: Digimax 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18701.ts
+#EXTINF:-1,TR: Digimax HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18702.ts
+#EXTINF:-1,TR: Discovery Channel HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18704.ts
+#EXTINF:-1,TR: Discovery Science HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18703.ts
+#EXTINF:-1,TR: Hallmark Channel 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18713.ts
+#EXTINF:-1,TR: Hallmark Channel HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18714.ts
+#EXTINF:-1,TR: HBO HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18715.ts
+#EXTINF:-1,TR: Showtime Channel 1 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18707.ts
+#EXTINF:-1,TR: Showtime Channel 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18706.ts
+#EXTINF:-1,TR: The MGM Channel HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18710.ts
+#EXTINF:-1,TR: Yesilçam 2 HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18708.ts
+#EXTINF:-1,TR: Yesilçam HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18709.ts
+#EXTINF:-1,TR: BEiN MOVIES FESTiVAL HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13147.ts
+#EXTINF:-1,TR: BEiN MOVIES PREMiER HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13148.ts
+#EXTINF:-1,TR: BEIN MOVIES STARS HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13151.ts
+#EXTINF:-1,TR: BEiN MOVIES TURK HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13155.ts
+#EXTINF:-1,TR: SINEMA TV AILE HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13141.ts
+#EXTINF:-1,TR: FANATIK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13164.ts
+#EXTINF:-1,TR: MYZEN-RELAX
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13158.ts
+#EXTINF:-1,[TR] CINEVOD ACTION
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14400.ts
+#EXTINF:-1,[TR] CINEVOD ANIMATION
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14396.ts
+#EXTINF:-1,[TR] CINEVOD KORKU
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14395.ts
+#EXTINF:-1,[TR] CINEVOD TURK 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14399.ts
+#EXTINF:-1,[TR] CINEVOD YESILCAM
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14397.ts
+#EXTINF:-1,==== ULUSAL MIX ====
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12019.ts
+#EXTINF:-1,TR: TV4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12040.ts
+#EXTINF:-1,TR: KÜLTÜR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13174.ts
+#EXTINF:-1,TR: TLC
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12181.ts
+#EXTINF:-1,TR: ULUSAL KANAL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11995.ts
+#EXTINF:-1,TR: PLANET TURK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12186.ts
+#EXTINF:-1,TR: PLANET PEMBE
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12185.ts
+#EXTINF:-1,TR: PLANET MUTFAK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12184.ts
+#EXTINF:-1,TR: HiLAL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12117.ts
+#EXTINF:-1,TR: HALK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11996.ts
+#EXTINF:-1,TR: CIFTCI TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12199.ts
+#EXTINF:-1,TR: AV TV --
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12198.ts
+#EXTINF:-1,TR: AV TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12197.ts
+#EXTINF:-1,TR: TJK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12182.ts
+#EXTINF:-1,TR: TRT WORLD English
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TR: TRT WORLD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12021.ts
+#EXTINF:-1,TR: TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TR: TRT AVAZ
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12020.ts
+#EXTINF:-1,TR: ZIRAAT TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12175.ts
+#EXTINF:-1,TR: Yildirim Belediyesi Web TV Bursa
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12032.ts
+#EXTINF:-1,TR: YAT TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12174.ts
+#EXTINF:-1,TR: Yasin TV (Medine tv)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12033.ts
+#EXTINF:-1,TR: YASiN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12034.ts
+#EXTINF:-1,TR: Viyana TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12035.ts
+#EXTINF:-1,TR: VIP CHANNEL-1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12268.ts
+#EXTINF:-1,TR: ViDPANEL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12036.ts
+#EXTINF:-1,TR: TV52
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12038.ts
+#EXTINF:-1,TR: TV41
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12042.ts
+#EXTINF:-1,TR: TV4 -
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12041.ts
+#EXTINF:-1,TR: TV100
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12044.ts
+#EXTINF:-1,TR: TV10
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12045.ts
+#EXTINF:-1,TR: TV KAYSERi
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12046.ts
+#EXTINF:-1,TR: Tuzla WEB TV (Tuzla Belediyesi Web TV)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12047.ts
+#EXTINF:-1,TR: TURIZM TV (Tourism TV HD)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12048.ts
+#EXTINF:-1,TR: TEMPO TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12053.ts
+#EXTINF:-1,TR: TEK RUMELi TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12052.ts
+#EXTINF:-1,TR: TAY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12196.ts
+#EXTINF:-1,TR: TARIM TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12183.ts
+#EXTINF:-1,TR: SRT
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12054.ts
+#EXTINF:-1,TR: SiNOP YiLDiZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12058.ts
+#EXTINF:-1,TR: SEMERKAND TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12056.ts
+#EXTINF:-1,TR: SELCUK ?NiVERSiTESi TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12055.ts
+#EXTINF:-1,TR: SÃœPER KANAL
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12060.ts
+#EXTINF:-1,TR: SAKARYA TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12059.ts
+#EXTINF:-1,TR: ROMAN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12061.ts
+#EXTINF:-1,TR: REHBER TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12062.ts
+#EXTINF:-1,TR: PAMUKKALE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12063.ts
+#EXTINF:-1,TR: ON 4
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12064.ts
+#EXTINF:-1,TR: OLAY TV Tuzla
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12065.ts
+#EXTINF:-1,TR: NUR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12069.ts
+#EXTINF:-1,TR: MUZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12068.ts
+#EXTINF:-1,TR: MPL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12067.ts
+#EXTINF:-1,TR: Metro TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12072.ts
+#EXTINF:-1,TR: Mersin Sehir TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12071.ts
+#EXTINF:-1,TR: MELTEM TV -
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12075.ts
+#EXTINF:-1,TR: MELTEM TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12074.ts
+#EXTINF:-1,TR: MARMARA TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12076.ts
+#EXTINF:-1,TR: MAR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12070.ts
+#EXTINF:-1,TR: MALATYA GÃ¼NES TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12078.ts
+#EXTINF:-1,TR: MAKINE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12079.ts
+#EXTINF:-1,TR: LiDER TV Az
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12082.ts
+#EXTINF:-1,TR: LALE TV Kirim Tatar
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12081.ts
+#EXTINF:-1,TR: KUDUS TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12083.ts
+#EXTINF:-1,TR: KRT TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12084.ts
+#EXTINF:-1,TR: KOY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12187.ts
+#EXTINF:-1,TR: KOCAELI GEBZE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12086.ts
+#EXTINF:-1,TR: KIBRIS BRT HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12023.ts
+#EXTINF:-1,TR: KÃ–Y TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12113.ts
+#EXTINF:-1,TR: KÃ–ROGLU TV SD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12114.ts
+#EXTINF:-1,TR: KAY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12088.ts
+#EXTINF:-1,TR: KARADENIZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12024.ts
+#EXTINF:-1,TR: KANAL Z
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12087.ts
+#EXTINF:-1,TR: KANAL TEK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12094.ts
+#EXTINF:-1,TR: KANAL SiM Kibris
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12095.ts
+#EXTINF:-1,TR: KANAL MALATYA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12096.ts
+#EXTINF:-1,TR: KANAL FiRAT
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12097.ts
+#EXTINF:-1,TR: KANAL BEN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12100.ts
+#EXTINF:-1,TR: KANAL B
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12099.ts
+#EXTINF:-1,TR: KANAL ALANYA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12098.ts
+#EXTINF:-1,TR: KANAL A ALANYA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12103.ts
+#EXTINF:-1,TR: KANAL A
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12102.ts
+#EXTINF:-1,TR: KANAL 78
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12105.ts
+#EXTINF:-1,TR: KANAL 68
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12104.ts
+#EXTINF:-1,TR: KANAL 43
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12106.ts
+#EXTINF:-1,TR: KANAL 38
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12109.ts
+#EXTINF:-1,TR: KANAL 34
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12108.ts
+#EXTINF:-1,TR: KANAL 24
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12158.ts
+#EXTINF:-1,TR: KAMPUS TV ERCiYES
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12026.ts
+#EXTINF:-1,TR: IZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11986.ts
+#EXTINF:-1,TR: iSTANBUL TiMES TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12028.ts
+#EXTINF:-1,TR: ISTANBUL TV 1
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12027.ts
+#EXTINF:-1,TR: iSTANBUL 2
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12029.ts
+#EXTINF:-1,TR: iCEL TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12118.ts
+#EXTINF:-1,TR: GÃœNEYDOGU TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12121.ts
+#EXTINF:-1,TR: GÃœNEY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12122.ts
+#EXTINF:-1,TR: GÃœNES TV MALATYA
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12123.ts
+#EXTINF:-1,TR: FASHiON ONE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12124.ts
+#EXTINF:-1,TR: Erciyes TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12127.ts
+#EXTINF:-1,TR: EGE ÃœNiVERSiTESi TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12129.ts
+#EXTINF:-1,TR: DiYAR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12131.ts
+#EXTINF:-1,TR: DiYANET TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12134.ts
+#EXTINF:-1,TR: Cukurova TÃ¼rk TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12135.ts
+#EXTINF:-1,TR: CEM TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12191.ts
+#EXTINF:-1,TR: CAYYOLU TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12139.ts
+#EXTINF:-1,TR: CAY TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12140.ts
+#EXTINF:-1,TR: DIM TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14345.ts
+#EXTINF:-1,TR: BURSA LiNE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12144.ts
+#EXTINF:-1,TR: BURSA KANAL 16
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12143.ts
+#EXTINF:-1,TR: BURSA ASTV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12142.ts
+#EXTINF:-1,TR: BUDEMS TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12141.ts
+#EXTINF:-1,TR: BRTV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12147.ts
+#EXTINF:-1,TR: BRT HD
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12146.ts
+#EXTINF:-1,TR: DENÄ°ZLÄ° TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12156.ts
+#EXTINF:-1,TR: Biat TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12149.ts
+#EXTINF:-1,TR: BENGUTURK
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12151.ts
+#EXTINF:-1,TR: BENGÃœTÃœRK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12030.ts
+#EXTINF:-1,TR: BALKAN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12192.ts
+#EXTINF:-1,TR: ART DENIZLI
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12155.ts
+#EXTINF:-1,TR: ANKARA SEHIR TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12157.ts
+#EXTINF:-1,TR: ANIMAL PLANET TR Lokal
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/11979.ts
+#EXTINF:-1,TR: ALTAS TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12159.ts
+#EXTINF:-1,TR: AKSU TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12160.ts
+#EXTINF:-1,TR: AKILLI TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12194.ts
+#EXTINF:-1,TR: AILE TV alt
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12162.ts
+#EXTINF:-1,TR: AILE TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12163.ts
+#EXTINF:-1,TR: AHI TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12164.ts
+#EXTINF:-1,TR: ABANT TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12169.ts
+#EXTINF:-1,TR: A9 TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12166.ts
+#EXTINF:-1,TR: 24 TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12171.ts
+#EXTINF:-1,TR: TV111
+https://www.youtube.com/watch?v=uirhoHba3R4
+#EXTINF:-1,TR: ASKABAT TV TÃœrkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12273.ts
+#EXTINF:-1,TR: YASLiK TV TÃ¼rkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12284.ts
+#EXTINF:-1,TR: OWAZY TV T?rkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12274.ts
+#EXTINF:-1,TR: MiRAS TV TÃ¼rkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12066.ts
+#EXTINF:-1,TR: 1AN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12173.ts
+#EXTINF:-1,TR: GÃœNAZ TV Azerbaycan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12278.ts
+#EXTINF:-1,TR: SES TV Azerbaycan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12057.ts
+#EXTINF:-1,TR: ATV Azerbaycan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12272.ts
+#EXTINF:-1,TR: Azerbaycan MUZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12282.ts
+#EXTINF:-1,TR: Azerbaycan LIDER TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12281.ts
+#EXTINF:-1,TR: Azerbaycan GÃœNAZ TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12283.ts
+#EXTINF:-1,TR: Kazakistan SEVEN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12275.ts
+#EXTINF:-1,TR: Kazakistan Ð¢ÐµÐ»ÐµÐºÐ°Ð½Ð°Ð» Â«Ð‘Ñ–Ð»Ñ–Ð¼ Ð¶Ó™Ð½Ðµ ÐœÓ™Ð´ÐµÐ½Ð¸ÐµÑ‚Â»
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12277.ts
+#EXTINF:-1,TR: ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½ KZ
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12280.ts
+#EXTINF:-1,TR: Ð‘Ð°Ð»Ð°Ð¿Ð°Ð½ (KZ)
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12279.ts
+#EXTINF:-1,TR: KANAL 58
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15191.ts
+#EXTINF:-1,TR: Kars TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15197.ts
+#EXTINF:-1,TR: Milyon TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15192.ts
+#EXTINF:-1,TR: Mobilya TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15200.ts
+#EXTINF:-1,TR: Otomotiv Dünyas? Tv
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15198.ts
+#EXTINF:-1,TR: TEMPO TÜRK TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15193.ts
+#EXTINF:-1,TR: Turkishbrands TV
+rtmp://cdn1.streamencoding.com:1935/medyathink_live/turkishbrandstv
+#EXTINF:-1,TR: Yerel Türk TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15196.ts
+#EXTINF:-1,TR: TURKMENiSTAN TV
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12285.ts
+#EXTINF:-1,TR: ALTiN ASiR TV TÃœrkmenistan
+http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12270.ts
