@@ -1,75 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-#EXTINF:-1,SE: Svt 1
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2697.ts
-#EXTINF:-1,SE: SVT2
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1991.ts
-#EXTINF:-1,SE: SVT24/B
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2002.ts
-#EXTINF:-1,SE: TV 3 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4884.ts
-#EXTINF:-1,SE: TV4 Fakta
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2288.ts
-#EXTINF:-1,SE: TV4 GULD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1999.ts
-#EXTINF:-1,SE:TV4 SD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2729.ts
-#EXTINF:-1,SE:TV 4 Film
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3309.ts
-#EXTINF:-1,SE: TV4 Sport
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3336.ts
-#EXTINF:-1,SE: Kanal 5
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2701.ts
-#EXTINF:-1,SE: TV6
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1998.ts
-#EXTINF:-1,SE:TV Sjuan
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4468.ts
-#EXTINF:-1,SE: TV8
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1997.ts
-#EXTINF:-1,SE: Kanal 9 HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4923.ts
-#EXTINF:-1,SE:Kanal 10
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2645.ts
-#EXTINF:-1,SE: TV10
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/1990.ts
-#EXTINF:-1,SE: TV11
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3339.ts
-#EXTINF:-1,SE: TV12
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2669.ts
-#EXTINF:-1,SE: Nick Jr
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4836.ts
-#EXTINF:-1,SE: Viasat Sport Premium
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4802.ts
-#EXTINF:-1,SE: C More Fotboll SD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2640.ts
-#EXTINF:-1,DK:Discovery Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2648.ts
-#EXTINF:-1,SE: Viasat Film Hits
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2277.ts
-#EXTINF:-1,SE: C More First
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2334.ts
-#EXTINF:-1,SE: C More Sport HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3334.ts
-#EXTINF:-1,SE: C More Hockey
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4753.ts
-#EXTINF:-1,SE: C More Hits
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2552.ts
-#EXTINF:-1,SE: C More Live
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/3335.ts
-#EXTINF:-1,SE: C More Live HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2642.ts
-#EXTINF:-1,SE: Viasat Film Premiere
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2276.ts
-#EXTINF:-1,SE: Viasat Film Family
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2278.ts
-#EXTINF:-1,DK: Viasat Film Comedy HD
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/2279.ts
-#EXTINF:-1,SE: Discovery Channel
-http://ksportiptv.com:1557/live/SelimRushiti/hWXEMViQuH/4803.ts
+#EXTINF:-1,Suisse: SRF Info
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13827.ts
+#EXTINF:-1,Suisse: 3+
+https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
+#EXTINF:-1,Suisse: Teleclub Prime HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13632.ts
+#EXTINF:-1,Suisse: Teleclub Cinema
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13630.ts
+#EXTINF:-1,Suisse: TeleClub Star
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13633.ts
+#EXTINF:-1,Suisse: TeleClub Sport 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13631.ts
+#EXTINF:-1,Suisse: TeleClub Sport Flash HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13629.ts
+#EXTINF:-1,Suisse: SRF 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13626.ts
+#EXTINF:-1,Suisse: SRF 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13627.ts
+#EXTINF:-1,Suisse: Teleclub Sports Flash HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15075.ts

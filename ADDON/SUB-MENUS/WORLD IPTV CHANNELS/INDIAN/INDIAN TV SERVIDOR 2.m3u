@@ -1,87 +1,84 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-#EXTINF:-1,IN | Asianet
-http://vip.groupiptv.com:7000/live/lieven/lieven/4788.ts
-#EXTINF:-1,IN | Asianet Movies
-http://vip.groupiptv.com:7000/live/lieven/lieven/4786.ts
-#EXTINF:-1,IN | Asianet News
-http://vip.groupiptv.com:7000/live/lieven/lieven/4785.ts
-#EXTINF:-1,IN | Asianet Plus
-http://vip.groupiptv.com:7000/live/lieven/lieven/4787.ts
-#EXTINF:-1,IN | Colors
-http://vip.groupiptv.com:7000/live/lieven/lieven/4784.ts
-#EXTINF:-1,IN | Jaya Max USA
-http://vip.groupiptv.com:7000/live/lieven/lieven/4781.ts
-#EXTINF:-1,IN | Jaya Movies
-http://vip.groupiptv.com:7000/live/lieven/lieven/4782.ts
-#EXTINF:-1,IN | Jaya Plus
-http://vip.groupiptv.com:7000/live/lieven/lieven/4783.ts
-#EXTINF:-1,IN | Jaya TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/4780.ts
-#EXTINF:-1,IN | M Tunes
-http://vip.groupiptv.com:7000/live/lieven/lieven/4779.ts
-#EXTINF:-1,IN | Maa Gold
-http://vip.groupiptv.com:7000/live/lieven/lieven/4778.ts
-#EXTINF:-1,IN | Maa Music
-http://vip.groupiptv.com:7000/live/lieven/lieven/4777.ts
-#EXTINF:-1,IN | Santhora TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/4798.ts
-#EXTINF:-1,IN | Sony
-http://vip.groupiptv.com:7000/live/lieven/lieven/4790.ts
-#EXTINF:-1,IN | Sony Max
-http://vip.groupiptv.com:7000/live/lieven/lieven/4775.ts
-#EXTINF:-1,IN | Sony Max 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/4776.ts
-#EXTINF:-1,IN | Sony Sab
-http://vip.groupiptv.com:7000/live/lieven/lieven/4789.ts
-#EXTINF:-1,IN | Star Jalsha
-http://vip.groupiptv.com:7000/live/lieven/lieven/4774.ts
-#EXTINF:-1,IN | Star Sports 1
-http://vip.groupiptv.com:7000/live/lieven/lieven/4773.ts
-#EXTINF:-1,IN | Star Sports 2
-http://vip.groupiptv.com:7000/live/lieven/lieven/4772.ts
-#EXTINF:-1,IN | Star Sports 3
-http://vip.groupiptv.com:7000/live/lieven/lieven/4771.ts
-#EXTINF:-1,IN | Star Sports 4
-http://vip.groupiptv.com:7000/live/lieven/lieven/4770.ts
-#EXTINF:-1,IN | Sun Music
-http://vip.groupiptv.com:7000/live/lieven/lieven/4769.ts
-#EXTINF:-1,IN | Sun TV
-http://vip.groupiptv.com:7000/live/lieven/lieven/4767.ts
-#EXTINF:-1,IN | Sun TV US
-http://vip.groupiptv.com:7000/live/lieven/lieven/4768.ts
-#EXTINF:-1,IN | Ten Sports
-http://vip.groupiptv.com:7000/live/lieven/lieven/4766.ts
-#EXTINF:-1,IN | TV9
-http://vip.groupiptv.com:7000/live/lieven/lieven/4765.ts
-#EXTINF:-1,IN | Zee Anmol
-http://vip.groupiptv.com:7000/live/lieven/lieven/4796.ts
-#EXTINF:-1,IN | Zee Bangla
-http://vip.groupiptv.com:7000/live/lieven/lieven/4764.ts
-#EXTINF:-1,IN | Zee Business
-http://vip.groupiptv.com:7000/live/lieven/lieven/4792.ts
-#EXTINF:-1,IN | Zee Classic
-http://vip.groupiptv.com:7000/live/lieven/lieven/4797.ts
-#EXTINF:-1,IN | Zee Foodz
-http://vip.groupiptv.com:7000/live/lieven/lieven/4763.ts
-#EXTINF:-1,IN | Zee News
-http://vip.groupiptv.com:7000/live/lieven/lieven/4794.ts
-#EXTINF:-1,IN | Zee Punjabi
-http://vip.groupiptv.com:7000/live/lieven/lieven/4791.ts
-#EXTINF:-1,IN | Zee Smile
-http://vip.groupiptv.com:7000/live/lieven/lieven/4795.ts
-#EXTINF:-1,IN | Zee Studio
-http://vip.groupiptv.com:7000/live/lieven/lieven/4761.ts
-#EXTINF:-1,IN | Zee Tamil
-http://vip.groupiptv.com:7000/live/lieven/lieven/4793.ts
-#EXTINF:-1,US: ABC
-http://vip.groupiptv.com:7000/live/lieven/lieven/5274.ts
-#EXTINF:-1,IN | Zee Telugu
-http://vip.groupiptv.com:7000/live/lieven/lieven/4762.ts
-#EXTINF:-1,IN | Zing
-http://vip.groupiptv.com:7000/live/lieven/lieven/4760.ts
+#EXTINF:-1,IN: 9X Jhakaas
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8629.ts
+#EXTINF:-1,IN: 9XM Jalwa
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8607.ts
+#EXTINF:-1,IN: 9xTashan
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8628.ts
+#EXTINF:-1,IN: Aajtak News
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8632.ts
+#EXTINF:-1,IN: ABP News
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8631.ts
+#EXTINF:-1,IN: And TV ME
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8603.ts
+#EXTINF:-1,IN: Bindass Play
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8612.ts
+#EXTINF:-1,IN: Colors ME
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8605.ts
+#EXTINF:-1,IN: Discovery
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8630.ts
+#EXTINF:-1,IN: LifeOK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8604.ts
+#EXTINF:-1,IN: PTC Chakde Punjabi
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8627.ts
+#EXTINF:-1,IN: Sab TV AU
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8602.ts
+#EXTINF:-1,IN: Sony Entertainment (SET)
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7554.ts
+#EXTINF:-1,IN: Sony HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8600.ts
+#EXTINF:-1,IN: SONY MAX
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7556.ts
+#EXTINF:-1,IN: SONY MAX 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7557.ts
+#EXTINF:-1,IN: SONY SAB
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7555.ts
+#EXTINF:-1,IN: Star Gold
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8615.ts
+#EXTINF:-1,IN: STAR PLUS HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7553.ts
+#EXTINF:-1,IN: STAR SPORTS 1HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8669.ts
+#EXTINF:-1,IN: STAR SPORTS 2HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8670.ts
+#EXTINF:-1,IN: STAR SPORTS 3HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8671.ts
+#EXTINF:-1,IN: STAR SPORTS 4HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8672.ts
+#EXTINF:-1,IN: Star Cricket
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12373.ts
+#EXTINF:-1,IN: Ten Cricket
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12372.ts
+#EXTINF:-1,IN: TEN ACTION
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8675.ts
+#EXTINF:-1,IN: TEN Golf HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8677.ts
+#EXTINF:-1,IN: TEN HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8673.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8674.ts
+#EXTINF:-1,IN: UTV Bindas
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8625.ts
+#EXTINF:-1,IN: UTV Movies
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8622.ts
+#EXTINF:-1,IN: Willow Cricket
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8676.ts
+#EXTINF:-1,IN: Zee Action
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8620.ts
+#EXTINF:-1,IN: Zee Cinema
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8617.ts
+#EXTINF:-1,IN: Zee Classic
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8621.ts
+#EXTINF:-1,IN: Zee Smile
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8616.ts
+#EXTINF:-1,IN: ZeeTV india
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7552.ts
+#EXTINF:-1,IN: Zing TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8614.ts
+#EXTINF:-1,IN: Zoom
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8613.ts

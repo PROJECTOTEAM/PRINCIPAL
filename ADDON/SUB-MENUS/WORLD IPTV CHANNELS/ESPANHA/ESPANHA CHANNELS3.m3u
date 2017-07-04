@@ -1,166 +1,337 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,ES: A&E Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6639.ts
-#EXTINF:-1,ES: A&E
-http://bomba2017.hopto.org:8000/live/led/led/6261.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://bomba2017.hopto.org:8000/live/led/led/6251.ts
-#EXTINF:-1,ES: CANAL TOROS
-http://bomba2017.hopto.org:8000/live/led/led/6245.ts
-#EXTINF:-1,ES: FOX
-http://bomba2017.hopto.org:8000/live/led/led/6242.ts
-#EXTINF:-1,ES: Hollywood
-http://bomba2017.hopto.org:8000/live/led/led/6240.ts
-#EXTINF:-1,ES: Telecinco
-http://bomba2017.hopto.org:8000/live/led/led/6232.ts
-#EXTINF:-1,ES: #0 HD
-http://bomba2017.hopto.org:8000/live/led/led/6641.ts
-#EXTINF:-1,ES: 24h
-http://bomba2017.hopto.org:8000/live/led/led/6640.ts
-#EXTINF:-1,ES: AMC HD
-http://bomba2017.hopto.org:8000/live/led/led/6638.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://bomba2017.hopto.org:8000/live/led/led/6637.ts
-#EXTINF:-1,ES: AXN HD
-http://bomba2017.hopto.org:8000/live/led/led/6260.ts
-#EXTINF:-1,ES: AXN White HD
-http://bomba2017.hopto.org:8000/live/led/led/6259.ts
-#EXTINF:-1,ES: AXN WHITE HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6636.ts
-#EXTINF:-1,ES: BARCA TV
-http://bomba2017.hopto.org:8000/live/led/led/6258.ts
-#EXTINF:-1,ES: BARÇA TV Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6635.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://bomba2017.hopto.org:8000/live/led/led/6233.ts
-#EXTINF:-1,ES: Bein Sports LaLiga HD
-http://bomba2017.hopto.org:8000/live/led/led/6634.ts
-#EXTINF:-1,ES: BeIN Sports HD
-http://bomba2017.hopto.org:8000/live/led/led/6257.ts
-#EXTINF:-1,ES: BeIN Sports HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6633.ts
-#EXTINF:-1,ES: BOING
-http://bomba2017.hopto.org:8000/live/led/led/6632.ts
-#EXTINF:-1,ES: CALLE13
-http://bomba2017.hopto.org:8000/live/led/led/6256.ts
-#EXTINF:-1,ES: CALLE13 Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6631.ts
-#EXTINF:-1,ES: CANAL +  ACCION HD
-http://bomba2017.hopto.org:8000/live/led/led/6630.ts
-#EXTINF:-1,ES: CANAL +  ACCION HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6252.ts
-#EXTINF:-1,ES: CANAL + COMEDIA HD
-http://bomba2017.hopto.org:8000/live/led/led/6629.ts
-#EXTINF:-1,ES: CANAL + COMEDIA HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6250.ts
-#EXTINF:-1,ES: CANAL + DCINE HD
-http://bomba2017.hopto.org:8000/live/led/led/6628.ts
-#EXTINF:-1,ES: CANAL +  ESTRENOS HD
-http://bomba2017.hopto.org:8000/live/led/led/6627.ts
-#EXTINF:-1,ES: CANAL +  ESTRENOS HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6247.ts
-#EXTINF:-1,ES: CANAL +  SERIES HD
-http://bomba2017.hopto.org:8000/live/led/led/6626.ts
-#EXTINF:-1,ES: CANAL +  SERIES HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6249.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://bomba2017.hopto.org:8000/live/led/led/6624.ts
-#EXTINF:-1,ES: CANAL DECASA Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6244.ts
-#EXTINF:-1,ES: Clan TVE
-http://bomba2017.hopto.org:8000/live/led/led/6622.ts
-#EXTINF:-1,ES: CUATRO HD
-http://bomba2017.hopto.org:8000/live/led/led/6621.ts
-#EXTINF:-1,ES: DISCOVERY
-http://bomba2017.hopto.org:8000/live/led/led/6619.ts
-#EXTINF:-1,ES: DIVINITY
-http://bomba2017.hopto.org:8000/live/led/led/6618.ts
-#EXTINF:-1,ES: ENERGY
-http://bomba2017.hopto.org:8000/live/led/led/6617.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://bomba2017.hopto.org:8000/live/led/led/6616.ts
-#EXTINF:-1,ES: GOL
-http://bomba2017.hopto.org:8000/live/led/led/6615.ts
-#EXTINF:-1,ES: HISTORIA
-http://bomba2017.hopto.org:8000/live/led/led/6614.ts
-#EXTINF:-1,ES: HISTORIA Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6241.ts
-#EXTINF:-1,ES: LA 1
-http://bomba2017.hopto.org:8000/live/led/led/6239.ts
-#EXTINF:-1,ES: LA 1 HD
-http://bomba2017.hopto.org:8000/live/led/led/6612.ts
-#EXTINF:-1,ES: LA 2
-http://bomba2017.hopto.org:8000/live/led/led/6238.ts
-#EXTINF:-1,ES: LA 2 Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6611.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://bomba2017.hopto.org:8000/live/led/led/6237.ts
-#EXTINF:-1,ES: LA SEXTA HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6613.ts
-#EXTINF:-1,ES: La Tienda En Casa
-http://bomba2017.hopto.org:8000/live/led/led/6610.ts
-#EXTINF:-1,ES: Movistar Deportes 1
-http://bomba2017.hopto.org:8000/live/led/led/6609.ts
-#EXTINF:-1,ES: Movistar Deportes 1 Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6255.ts
-#EXTINF:-1,ES: Movistar Deportes 2
-http://bomba2017.hopto.org:8000/live/led/led/6608.ts
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://bomba2017.hopto.org:8000/live/led/led/6642.ts
-#EXTINF:-1,ES: Movistar Deportes 2 Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6248.ts
-#EXTINF:-1,ES: Movistar Fútbol Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6254.ts
-#EXTINF:-1,ES: Movistar Golf
-http://bomba2017.hopto.org:8000/live/led/led/6253.ts
-#EXTINF:-1,ES: Movistar F1
-http://bomba2017.hopto.org:8000/live/led/led/6604.ts
-#EXTINF:-1,ES: Movistar MotoGP
-http://bomba2017.hopto.org:8000/live/led/led/6603.ts
-#EXTINF:-1,ES: Movistar MotoGP Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6236.ts
-#EXTINF:-1,ES: LaLigatv
-http://bomba2017.hopto.org:8000/live/led/led/6606.ts
-#EXTINF:-1,ES: LaLigatv HD
-http://bomba2017.hopto.org:8000/live/led/led/6246.ts
-#EXTINF:-1,ES: MEGA
-http://bomba2017.hopto.org:8000/live/led/led/6605.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://bomba2017.hopto.org:8000/live/led/led/6602.ts
-#EXTINF:-1,ES: National Geographic Channel
-http://bomba2017.hopto.org:8000/live/led/led/6235.ts
-#EXTINF:-1,ES: National Geographic Channel Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6601.ts
-#EXTINF:-1,ES: NEOX
-http://bomba2017.hopto.org:8000/live/led/led/6600.ts
-#EXTINF:-1,ES: CANAL PANDA
-http://bomba2017.hopto.org:8000/live/led/led/6625.ts
-#EXTINF:-1,ES: Disney Channel
-http://bomba2017.hopto.org:8000/live/led/led/6243.ts
-#EXTINF:-1,ES: Nickelodeon HD
-http://bomba2017.hopto.org:8000/live/led/led/6599.ts
-#EXTINF:-1,ES: NOVA
-http://bomba2017.hopto.org:8000/live/led/led/6598.ts
-#EXTINF:-1,ES: ODISEA
-http://bomba2017.hopto.org:8000/live/led/led/6623.ts
-#EXTINF:-1,ES: ODISEA HD Esp.
-http://bomba2017.hopto.org:8000/live/led/led/6234.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://bomba2017.hopto.org:8000/live/led/led/6597.ts
-#EXTINF:-1,ES: SYFY HD
-http://bomba2017.hopto.org:8000/live/led/led/6596.ts
-#EXTINF:-1,ES: TCM HD
-http://bomba2017.hopto.org:8000/live/led/led/6595.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://bomba2017.hopto.org:8000/live/led/led/6594.ts
-#EXTINF:-1,ES: TNT
-http://bomba2017.hopto.org:8000/live/led/led/6231.ts
-#EXTINF:-1,ES: TNT HD
-http://bomba2017.hopto.org:8000/live/led/led/6593.ts
-#EXTINF:-1,ES: TVE La 2HD
-http://bomba2017.hopto.org:8000/live/led/led/6230.ts
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,SP: #0 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12532.ts
+#EXTINF:-1,SP: LA 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15907.ts
+#EXTINF:-1,SP: LA 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7661.ts
+#EXTINF:-1,SP: LA 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7660.ts
+#EXTINF:-1,SP: Antena 3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7710.ts
+#EXTINF:-1,SP: Antena 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15474.ts
+#EXTINF:-1,SP: CUATRO HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15411.ts
+#EXTINF:-1,SP: Cuatro.
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7686.ts
+#EXTINF:-1,SP: TELECINCO FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15412.ts
+#EXTINF:-1,SP: TELECINCO
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10008.ts
+#EXTINF:-1,SP: La Sexta HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7674.ts
+#EXTINF:-1,SP: La Sexta
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15909.ts
+#EXTINF:-1,SP: Neox
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14970.ts
+#EXTINF:-1,SP: NOVA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7668.ts
+#EXTINF:-1,SP: Mega Tv HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7713.ts
+#EXTINF:-1,SP: Fdf
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7679.ts
+#EXTINF:-1,SP: DIVINITY
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7714.ts
+#EXTINF:-1,SP: Energy
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7681.ts
+#EXTINF:-1,SP: Andalucia TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7640.ts
+#EXTINF:-1,SP: TV Galicia
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7601.ts
+#EXTINF:-1,====== ESTILO DE VIDA======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12539.ts
+#EXTINF:-1,SP: Cosmo HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13704.ts
+#EXTINF:-1,SP: Cosmo
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7621.ts
+#EXTINF:-1,SP: Canal Cocina
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7629.ts
+#EXTINF:-1,SP: 24 Horas
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13003.ts
+#EXTINF:-1,====== INFANTILES ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12536.ts
+#EXTINF:-1,SP: Disney Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7684.ts
+#EXTINF:-1,SP: Disney Jr.
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7683.ts
+#EXTINF:-1,SP: DISNEY XD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7682.ts
+#EXTINF:-1,SP: Clan TVE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7720.ts
+#EXTINF:-1,SP: Boing
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7707.ts
+#EXTINF:-1,SP: Nick Jr.
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7670.ts
+#EXTINF:-1,SP: NICKELODEON HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7669.ts
+#EXTINF:-1,====== DOCUMENTALES ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12537.ts
+#EXTINF:-1,SP: HISTORIA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7676.ts
+#EXTINF:-1,SP: Viajar HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12542.ts
+#EXTINF:-1,SP: Discovery Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7620.ts
+#EXTINF:-1,SP: National Geo HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13706.ts
+#EXTINF:-1,SP: National Geo
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7671.ts
+#EXTINF:-1,SP: National Geo Wild HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13707.ts
+#EXTINF:-1,SP: National Geo Wild
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7672.ts
+#EXTINF:-1,SP: Crime + Investigation
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13004.ts
+#EXTINF:-1,SP: NON STOP PEOPLE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15427.ts
+#EXTINF:-1,====== CINE ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12538.ts
+#EXTINF:-1,SP: M. ESTRENOS FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15414.ts
+#EXTINF:-1,SP: M.Estrenos
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7703.ts
+#EXTINF:-1,SP: M. ACCION HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15415.ts
+#EXTINF:-1,SP: M. Accion
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7698.ts
+#EXTINF:-1,SP: M. COMEDIA FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15416.ts
+#EXTINF:-1,SP: M. Comedia
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7697.ts
+#EXTINF:-1,SP: M. DCINE HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15417.ts
+#EXTINF:-1,SP: M. Dcine
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7652.ts
+#EXTINF:-1,SP: M. XTRA FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15418.ts
+#EXTINF:-1,SP: M. XTRA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7649.ts
+#EXTINF:-1,SP: M. SERIES HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15419.ts
+#EXTINF:-1,SP: M. Series
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7691.ts
+#EXTINF:-1,SP: M. SERIES XTRA HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15420.ts
+#EXTINF:-1,SP: M. Series Xtra
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7690.ts
+#EXTINF:-1,SP: Comedy Central HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13710.ts
+#EXTINF:-1,SP: Comedy Central.
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7687.ts
+#EXTINF:-1,SP: Hollywood FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7689.ts
+#EXTINF:-1,SP: FOX FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7643.ts
+#EXTINF:-1,SP: Fox.
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7678.ts
+#EXTINF:-1,SP: Fox Life HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13711.ts
+#EXTINF:-1,SP: FOX LIFE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7677.ts
+#EXTINF:-1,SP: AMC HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15421.ts
+#EXTINF:-1,SP: AXN HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7653.ts
+#EXTINF:-1,SP: AXN
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7709.ts
+#EXTINF:-1,SP: AXN WHITE HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7708.ts
+#EXTINF:-1,SP: SYFY HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7594.ts
+#EXTINF:-1,SP: SYFY
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7666.ts
+#EXTINF:-1,SP: TCM HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15423.ts
+#EXTINF:-1,SP: TCM
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7665.ts
+#EXTINF:-1,SP: TNT
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7663.ts
+#EXTINF:-1,SP: TNT HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15422.ts
+#EXTINF:-1,SP: CALLE 13 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7705.ts
+#EXTINF:-1,SP: PARAMOUNT
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7716.ts
+#EXTINF:-1,====== Taquilla ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12540.ts
+#EXTINF:-1,SP: Taquilla 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7612.ts
+#EXTINF:-1,SP: Taquilla 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7610.ts
+#EXTINF:-1,SP: Taquilla 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7609.ts
+#EXTINF:-1,SP: Taquilla 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7608.ts
+#EXTINF:-1,SP: Taquilla 5
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7607.ts
+#EXTINF:-1,SP: Taquilla 6
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7606.ts
+#EXTINF:-1,SP: Taquilla 7
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7605.ts
+#EXTINF:-1,SP: Taquilla 8
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7604.ts
+#EXTINF:-1,SP: Taquilla 9
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7603.ts
+#EXTINF:-1,SP: Taquilla 10
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7611.ts
+#EXTINF:-1,====== EXTRA ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15476.ts
+#EXTINF:-1,SP: TOROS HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15424.ts
+#EXTINF:-1,SP: Toros Tv
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7701.ts
+#EXTINF:-1,SP: Caza Y Pesca HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7688.ts
+#EXTINF:-1,SP: IBERALIA TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15425.ts
+#EXTINF:-1,====== DEPORTES ======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12541.ts
+#EXTINF:-1,SP:  M. MOTO GP
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15438.ts
+#EXTINF:-1,SP: M. MotoGp HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7616.ts
+#EXTINF:-1,SP: Canal+ Liga
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7715.ts
+#EXTINF:-1,SP: Gol TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7702.ts
+#EXTINF:-1,SP: M.  FUTBOL FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15433.ts
+#EXTINF:-1,SP: M. Futbol
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13008.ts
+#EXTINF:-1,SP: M. GOLF
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13010.ts
+#EXTINF:-1,SP: M. DEPORTES 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15434.ts
+#EXTINF:-1,SP: M. Depotes 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13009.ts
+#EXTINF:-1,SP: M. DEPORTES 2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15435.ts
+#EXTINF:-1,SP: M. Deportes 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12545.ts
+#EXTINF:-1,SP: M. Formula 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15437.ts
+#EXTINF:-1,SP: M. Formula 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7617.ts
+#EXTINF:-1,SP: M. GOLF HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15436.ts
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15431.ts
+#EXTINF:-1,SP: Real Madrid
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7614.ts
+#EXTINF:-1,SP: Barca TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7662.ts
+#EXTINF:-1,SP: Eurosport 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15439.ts
+#EXTINF:-1,SP: Eurosport 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7680.ts
+#EXTINF:-1,SP: Eurosport 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15475.ts
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15440.ts
+#EXTINF:-1,SP: BeIN Sports FHD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13279.ts
+#EXTINF:-1,SP: Bein LaLiga HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13709.ts
+#EXTINF:-1,SP: beIN La Liga
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12497.ts
+#EXTINF:-1,SP: La Liga TV Bar
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13006.ts
+#EXTINF:-1,SP: LA LIGA TV BAR HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15429.ts
+#EXTINF:-1,SP: LA LIGA BAR TV 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15430.ts
+#EXTINF:-1,SP: LA LIGA HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15428.ts
+#EXTINF:-1,SP: LA LIGA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15441.ts
+#EXTINF:-1,SP: LA LIGA TV 1 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15442.ts
+#EXTINF:-1,SP: LA LIGA TV 2 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15443.ts
+#EXTINF:-1,SP: LA LIGA TV 3 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15444.ts
+#EXTINF:-1,SP: LA LIGA TV 4 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15445.ts
+#EXTINF:-1,SP: LA LIGA TV 5 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15446.ts
+#EXTINF:-1,SP: LA LIGA TV 6 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15447.ts
+#EXTINF:-1,SP: LA LIGA TV 7 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15448.ts
+#EXTINF:-1,SP: LA LIGA TV 8 SD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15449.ts
+#EXTINF:-1,SP: BEIN MAX 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15450.ts
+#EXTINF:-1,SP: BEIN MAX 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15453.ts
+#EXTINF:-1,SP: BEIN MAX 2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15451.ts
+#EXTINF:-1,SP: BEIN MAX 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15454.ts
+#EXTINF:-1,SP: BEIN MAX 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15455.ts
+#EXTINF:-1,SP: BEIN MAX 3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15452.ts
+#EXTINF:-1,SP: BEIN MAX 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15456.ts
+#EXTINF:-1,SP: BEIN MAX 5
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15457.ts
+#EXTINF:-1,SP: BEIN MAX 6
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15458.ts
+#EXTINF:-1,SP: BEIN MAX 7
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15459.ts
+#EXTINF:-1,SP: BEIN MAX 8
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15460.ts
+#EXTINF:-1,SP: MULTIDEPORTES 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15461.ts
+#EXTINF:-1,SP: MULTIDEPORTES 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15462.ts
+#EXTINF:-1,SP: MULTIDEPORTES 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15463.ts
+#EXTINF:-1,SP: MULTIDEPORTES 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15464.ts
+#EXTINF:-1,SP: Teledeporte
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7658.ts
+#EXTINF:-1,SP: Sol Musica
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7721.ts
+#EXTINF:-1,SP: MTV Espana
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12535.ts
+#EXTINF:-1,SP: VH1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7591.ts
+#EXTINF:-1,SP: Proyecto 40
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7667.ts
+#EXTINF:-1,SP: Canal 7 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7631.ts
+#EXTINF:-1,SP: TELEVISA HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7657.ts
+#EXTINF:-1,SP: Canal 41 Mar Del
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7632.ts
+#EXTINF:-1,SP: Canal 3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7633.ts
+#EXTINF:-1,SP: Canal 2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7634.ts
+#EXTINF:-1,SP: Canal Costa
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7628.ts
+#EXTINF:-1,SP: 3/24
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7642.ts
+#EXTINF:-1,SP: 40 TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12534.ts
+#EXTINF:-1,SP: Canal De Las Estrellas
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7627.ts

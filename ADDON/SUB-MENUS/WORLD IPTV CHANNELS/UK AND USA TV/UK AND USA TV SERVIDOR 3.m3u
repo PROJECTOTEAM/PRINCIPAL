@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -92,798 +92,527 @@ http://185.62.86.6:8081/hls/my5.m3u8
 
 
 
-
-#EXTINF:-1,US: A&E-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17994.ts
-#EXTINF:-1,US: ABC News-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17995.ts
-#EXTINF:-1,US: ABC-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17983.ts
-#EXTINF:-1,US: Action Max HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17949.ts
-#EXTINF:-1,US: AMC HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17948.ts
-#EXTINF:-1,US: Animal Planet-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17984.ts
-#EXTINF:-1,US: Bein Sports-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17947.ts
-#EXTINF:-1,US: Bloomberg-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17985.ts
-#EXTINF:-1,US: Cartoon Network-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17986.ts
-#EXTINF:-1,US: CBS HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17961.ts
-#EXTINF:-1,US: CBS Sports Network HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17971.ts
-#EXTINF:-1,US: Cinemax HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17946.ts
-#EXTINF:-1,US: CNBC-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17945.ts
-#EXTINF:-1,US: CNN HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17960.ts
-#EXTINF:-1,US: Comedy Central-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17959.ts
-#EXTINF:-1,US: CW HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17987.ts
-#EXTINF:-1,US: Discovery HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17944.ts
-#EXTINF:-1,US: Discovery Science HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17988.ts
-#EXTINF:-1,US: E!-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17989.ts
-#EXTINF:-1,US: ESPN 2 HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17977.ts
-#EXTINF:-1,US: ESPN Deportes-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17996.ts
-#EXTINF:-1,US: ESPN News HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17979.ts
-#EXTINF:-1,US: ESPN U HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17976.ts
-#EXTINF:-1,US: ESPN USA HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17978.ts
-#EXTINF:-1,US: Fight Network-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17970.ts
-#EXTINF:-1,US: Fox HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17958.ts
-#EXTINF:-1,US: Fox News HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17943.ts
-#EXTINF:-1,US: Fox Sports 1 HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17975.ts
-#EXTINF:-1,US: Fox Sports 2 HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17974.ts
-#EXTINF:-1,US: Fox Sports South-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17950.ts
-#EXTINF:-1,US: Freeform HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17990.ts
-#EXTINF:-1,US: FX-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17942.ts
-#EXTINF:-1,US: FXX-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17941.ts
-#EXTINF:-1,US: Golf HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17969.ts
-#EXTINF:-1,US: HBO Comedy-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17940.ts
-#EXTINF:-1,US: HBO Signature-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17939.ts
-#EXTINF:-1,US: HBO Zone-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17938.ts
-#EXTINF:-1,US: HBO-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17937.ts
-#EXTINF:-1,US: HGTV-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18000.ts
-#EXTINF:-1,US: History-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17936.ts
-#EXTINF:-1,US: Investigation Discovery HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17935.ts
-#EXTINF:-1,US: Ion Television-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17926.ts
-#EXTINF:-1,US: MLB Network HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17927.ts
-#EXTINF:-1,US: MoreMax HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17934.ts
-#EXTINF:-1,US: National Geographic-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17980.ts
-#EXTINF:-1,US: NBA HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17973.ts
-#EXTINF:-1,US: NBC Sports Network HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17968.ts
-#EXTINF:-1,US: NBC-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17957.ts
-#EXTINF:-1,US: NFL Channel HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17972.ts
-#EXTINF:-1,US: NHL Network HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17967.ts
-#EXTINF:-1,US: Nickelodeon -US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17991.ts
-#EXTINF:-1,US: PAC-12 Arizona HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17925.ts
-#EXTINF:-1,US: PAC-12 Bay Area HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17924.ts
-#EXTINF:-1,US: PAC-12 Los Angeles HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17923.ts
-#EXTINF:-1,US: PAC-12 Mountain HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17922.ts
-#EXTINF:-1,US: PAC-12 Oregon HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17921.ts
-#EXTINF:-1,US: PAC-12 Washington HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17920.ts
-#EXTINF:-1,US: Showtime-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17932.ts
-#EXTINF:-1,US: Spike HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17933.ts
-#EXTINF:-1,US: Sports Net 360 HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17964.ts
-#EXTINF:-1,US: Sports Net One HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17956.ts
-#EXTINF:-1,US: Sports Net Ontario HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17963.ts
-#EXTINF:-1,US: Sports Net Pacific HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17919.ts
-#EXTINF:-1,US: Sports Net West HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17918.ts
-#EXTINF:-1,US: Sports Net World HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17962.ts
-#EXTINF:-1,US: Starz HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17929.ts
-#EXTINF:-1,US: Syfy HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17992.ts
-#EXTINF:-1,US: TBS HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17981.ts
-#EXTINF:-1,US: Tennis Channel HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17966.ts
-#EXTINF:-1,US: TLC HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17997.ts
-#EXTINF:-1,US: TNT HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17982.ts
-#EXTINF:-1,US: TSN 1 HD-CA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17955.ts
-#EXTINF:-1,US: TSN 2 HD-CA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17954.ts
-#EXTINF:-1,US: TSN 3 HD-CA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17953.ts
-#EXTINF:-1,US: TSN 4 HD-CA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17952.ts
-#EXTINF:-1,US: TSN 5 HD-CA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17951.ts
-#EXTINF:-1,US: Univision Deportes-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17998.ts
-#EXTINF:-1,US: USA Network-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17928.ts
-#EXTINF:-1,US: Viceland-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17999.ts
-#EXTINF:-1,US: Willow Cricket HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17993.ts
-#EXTINF:-1,US: WWE Network HD-US
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17965.ts
-#EXTINF:-1,=== UNITED KINGDOM ===
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/12435.ts
-#EXTINF:-1,UK: BT Sports 1 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17917.ts
-#EXTINF:-1,UK: BT Sports 2 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17916.ts
-#EXTINF:-1,UK: BT Sports 3 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17915.ts
-#EXTINF:-1,UK: BT Sports ESPN HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17914.ts
-#EXTINF:-1,UK: Sky Sports 1 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17913.ts
-#EXTINF:-1,UK: Sky Sports 3 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17911.ts
-#EXTINF:-1,UK: Sky Sports 4 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17910.ts
-#EXTINF:-1,UK: Sky Sports 5 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17909.ts
-#EXTINF:-1,UK: Sky Sports F1 HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17908.ts
-#EXTINF:-1,UK: Sky Sports News HD-GB
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17907.ts
-#EXTINF:-1,UK: ABERDEEN FC TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18362.ts
-#EXTINF:-1,UK: Alibi
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18462.ts
-#EXTINF:-1,UK: Animal Planet
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18501.ts
-#EXTINF:-1,UK: At The Races
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18375.ts
-#EXTINF:-1,UK: Baby TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18434.ts
-#EXTINF:-1,UK: BBC Four
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18497.ts
-#EXTINF:-1,UK: BBC One
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18496.ts
-#EXTINF:-1,UK: BBC One HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18495.ts
-#EXTINF:-1,UK: BBC Two
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18494.ts
-#EXTINF:-1,UK: BBC Two HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18493.ts
-#EXTINF:-1,UK: Boomerang
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18435.ts
-#EXTINF:-1,UK: Box Nation
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18376.ts
-#EXTINF:-1,UK: BT ESPN HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18390.ts
-#EXTINF:-1,UK: BT Sport 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18389.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18388.ts
-#EXTINF:-1,UK: BT Sport 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18387.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18386.ts
-#EXTINF:-1,UK: BT Sport 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18385.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18384.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18383.ts
-#EXTINF:-1,UK: Cartoon Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18437.ts
-#EXTINF:-1,UK: Cartoonito
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18436.ts
-#EXTINF:-1,UK: CBBC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18445.ts
-#EXTINF:-1,UK: CBeebies
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18444.ts
-#EXTINF:-1,UK: CBS Drama
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18479.ts
-#EXTINF:-1,UK: CBS Reality
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18478.ts
-#EXTINF:-1,UK: Celtic TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18370.ts
-#EXTINF:-1,UK: Challenge
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18453.ts
-#EXTINF:-1,UK: Channel 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18486.ts
+#EXTINF:-1,UK: BBC1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6986.ts
+#EXTINF:-1,UK: BBC One NI HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13488.ts
+#EXTINF:-1,UK: BBC RB 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13487.ts
+#EXTINF:-1,UK: BBC2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8363.ts
+#EXTINF:-1,UK: BBC2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6987.ts
 #EXTINF:-1,UK: Channel 4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18485.ts
-#EXTINF:-1,UK: Channel 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18484.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13712.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6995.ts
+#EXTINF:-1,UK: Channel 4 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13558.ts
 #EXTINF:-1,UK: Channel 5 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18483.ts
-#EXTINF:-1,UK: Chelsea TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18373.ts
-#EXTINF:-1,UK: CI
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18502.ts
-#EXTINF:-1,UK: Comedy Central
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18467.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18466.ts
-#EXTINF:-1,UK: Dave
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18465.ts
-#EXTINF:-1,UK: Discovery
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18512.ts
-#EXTINF:-1,UK: Discovery HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18511.ts
-#EXTINF:-1,UK: Discovery History
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18510.ts
-#EXTINF:-1,UK: Discovery Science
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18509.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18508.ts
-#EXTINF:-1,UK: Disney Channel
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18443.ts
-#EXTINF:-1,UK: Disney Junior
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18442.ts
-#EXTINF:-1,UK: Disney XD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18441.ts
-#EXTINF:-1,UK: DMAX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18447.ts
-#EXTINF:-1,UK: Drama
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18477.ts
-#EXTINF:-1,UK: E!
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18456.ts
-#EXTINF:-1,UK: E4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18482.ts
-#EXTINF:-1,UK: Eden
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18500.ts
-#EXTINF:-1,UK: Eir Sport 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18380.ts
-#EXTINF:-1,UK: Eir Sport 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18379.ts
-#EXTINF:-1,UK: EPL 1. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18524.ts
-#EXTINF:-1,UK: EPL 2. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18523.ts
-#EXTINF:-1,UK: EPL 3. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18522.ts
-#EXTINF:-1,UK: EPL 4. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18521.ts
-#EXTINF:-1,UK: EPL 5. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18520.ts
-#EXTINF:-1,UK: EPL 6.( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18519.ts
-#EXTINF:-1,UK: EPL 7. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18518.ts
-#EXTINF:-1,UK: EPL 8. ( MATCH TIME )
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18517.ts
-#EXTINF:-1,UK: ESPN (US)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18352.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18382.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18381.ts
-#EXTINF:-1,UK: Film4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18414.ts
-#EXTINF:-1,UK: Food Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18507.ts
-#EXTINF:-1,UK: FOX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18459.ts
-#EXTINF:-1,UK: Fox Sports 1 (US) HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18354.ts
-#EXTINF:-1,UK: Fox Sports 2 (US) HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18353.ts
-#EXTINF:-1,UK: Gold
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18463.ts
-#EXTINF:-1,UK: Good Food
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18448.ts
-#EXTINF:-1,UK: H2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18498.ts
-#EXTINF:-1,UK: HEARTS FC TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18361.ts
-#EXTINF:-1,UK: Hibs TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18360.ts
-#EXTINF:-1,UK: History
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18499.ts
-#EXTINF:-1,UK: Home
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18449.ts
-#EXTINF:-1,UK: ID
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18503.ts
-#EXTINF:-1,UK: ITV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18492.ts
-#EXTINF:-1,UK: ITV HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18491.ts
-#EXTINF:-1,UK: ITV2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18490.ts
-#EXTINF:-1,UK: ITV3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18489.ts
-#EXTINF:-1,UK: ITV4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18488.ts
-#EXTINF:-1,UK: ITVBe
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18487.ts
-#EXTINF:-1,UK: LFCTV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18372.ts
-#EXTINF:-1,UK: MLB Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18347.ts
-#EXTINF:-1,UK: More4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18481.ts
-#EXTINF:-1,UK: Motors TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18464.ts
-#EXTINF:-1,UK: MTV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18457.ts
-#EXTINF:-1,UK: MTV Base
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18413.ts
-#EXTINF:-1,UK: MTV Classic
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18412.ts
-#EXTINF:-1,UK: MTV Dance
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18411.ts
-#EXTINF:-1,UK: MTV Hits
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18410.ts
-#EXTINF:-1,UK: MTV Music
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18409.ts
-#EXTINF:-1,UK: MTV Rocks
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18408.ts
-#EXTINF:-1,UK: MUTV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18371.ts
-#EXTINF:-1,UK: National Geographic
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18505.ts
-#EXTINF:-1,UK: National Geographic Wild
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18504.ts
-#EXTINF:-1,UK: NBA TV HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18349.ts
-#EXTINF:-1,UK: NBCSN HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18525.ts
-#EXTINF:-1,UK: NFL Network HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18350.ts
-#EXTINF:-1,UK: NHL Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18348.ts
-#EXTINF:-1,UK: Nick Jr.
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18440.ts
-#EXTINF:-1,UK: Nickelodeon
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18439.ts
-#EXTINF:-1,UK: Nicktoons
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18438.ts
-#EXTINF:-1,UK: OSN SPORTS 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18516.ts
-#EXTINF:-1,UK: OSN SPORTS 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18515.ts
-#EXTINF:-1,UK: OSN SPORTS 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18514.ts
-#EXTINF:-1,UK: OSN SPORTS 4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18513.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6998.ts
+#EXTINF:-1,UK: Channel 5 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13557.ts
+#EXTINF:-1,UK: Channel 5Star
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9560.ts
+#EXTINF:-1,UK: Sky One
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7365.ts
+#EXTINF:-1,UK: Sky One +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12365.ts
+#EXTINF:-1,UK: Sky Two
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7373.ts
 #EXTINF:-1,UK: Pick
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18461.ts
-#EXTINF:-1,UK: Premier Sports
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18378.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18377.ts
-#EXTINF:-1,UK: QUEST
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18476.ts
-#EXTINF:-1,UK: Racing UK
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18374.ts
-#EXTINF:-1,UK: Rangers TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18369.ts
-#EXTINF:-1,UK: Really
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18450.ts
-#EXTINF:-1,UK: RTE One
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18475.ts
-#EXTINF:-1,UK: RTE Two
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18474.ts
-#EXTINF:-1,UK: Sky Arts
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18452.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18468.ts
-#EXTINF:-1,UK: Sky Cinema Action
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18425.ts
-#EXTINF:-1,UK: Sky Cinema Action HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18433.ts
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18424.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18432.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18431.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18423.ts
-#EXTINF:-1,UK: Sky Cinema Disney HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18430.ts
-#EXTINF:-1,UK: Sky Cinema Drama
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18422.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18421.ts
-#EXTINF:-1,UK: Sky Cinema Family HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18429.ts
-#EXTINF:-1,UK: Sky Cinema Greats
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18420.ts
-#EXTINF:-1,UK: Sky Cinema Hits
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18419.ts
-#EXTINF:-1,UK: Sky Cinema Hits HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18428.ts
-#EXTINF:-1,UK: SKY Cinema Premier HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18427.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18418.ts
-#EXTINF:-1,UK: Sky Cinema SCI-FI & Horror HDL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18426.ts
-#EXTINF:-1,UK: Sky Cinema Sci-Fi Horror
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18417.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18416.ts
-#EXTINF:-1,UK: Sky Cinema Thriller
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18415.ts
-#EXTINF:-1,UK: Sky Living
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18469.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18405.ts
-#EXTINF:-1,UK: SKY SPORTS 1 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18368.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18404.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18403.ts
-#EXTINF:-1,UK: SKY SPORTS 2 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18367.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18402.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18401.ts
-#EXTINF:-1,UK: SKY SPORTS 3 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18366.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18400.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18399.ts
-#EXTINF:-1,UK: SKY SPORTS 4 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18365.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18398.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18397.ts
-#EXTINF:-1,UK: SKY SPORTS 5 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18364.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18396.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18395.ts
-#EXTINF:-1,UK: SKY SPORTS F1 FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18363.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18394.ts
-#EXTINF:-1,UK: Sky Sports Mix
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18393.ts
-#EXTINF:-1,UK: Sky Sports News
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18392.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18391.ts
-#EXTINF:-1,UK: Sky1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18471.ts
-#EXTINF:-1,UK: Sky2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18470.ts
-#EXTINF:-1,UK: Spike
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18454.ts
-#EXTINF:-1,UK: STV FHD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18446.ts
-#EXTINF:-1,UK: Syfy
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18458.ts
-#EXTINF:-1,UK: TG4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18472.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7054.ts
+#EXTINF:-1,UK: Pick +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13519.ts
+#EXTINF:-1,UK: My5
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13556.ts
+#EXTINF:-1,UK: DAVE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7072.ts
+#EXTINF:-1,UK: SKY LIVING
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7024.ts
+#EXTINF:-1,UK: BBC3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7084.ts
+#EXTINF:-1,UK: BBC4 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8364.ts
+#EXTINF:-1,UK: ITV Encore
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13532.ts
+#EXTINF:-1,UK: ITV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6990.ts
+#EXTINF:-1,UK: ITV +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9550.ts
+#EXTINF:-1,UK: ITV1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8357.ts
+#EXTINF:-1,UK: ITV2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8356.ts
+#EXTINF:-1,UK: ITV2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6991.ts
+#EXTINF:-1,UK: ITV2 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13531.ts
+#EXTINF:-1,UK: ITV3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8354.ts
+#EXTINF:-1,UK: ITV3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6992.ts
+#EXTINF:-1,UK: ITV4 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8355.ts
+#EXTINF:-1,UK: ITV4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6993.ts
+#EXTINF:-1,UK: ITV4 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13530.ts
+#EXTINF:-1,UK: Comedy Central
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7033.ts
+#EXTINF:-1,UK: Comedy Central +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13591.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8255.ts
+#EXTINF:-1,UK: Comedy Central Xtra +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13590.ts
+#EXTINF:-1,UK: ALIBI
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7085.ts
+#EXTINF:-1,UK: Alibi +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12364.ts
+#EXTINF:-1,UK: E4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7068.ts
+#EXTINF:-1,UK: S4C
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13514.ts
+#EXTINF:-1,UK: MORE4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7062.ts
+#EXTINF:-1,UK: More4 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13583.ts
+#EXTINF:-1,UK: CBS REALITY
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7076.ts
+#EXTINF:-1,UK: CBS REALITY +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7075.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7077.ts
+#EXTINF:-1,UK: Sony Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13512.ts
+#EXTINF:-1,UK: Sony Channel +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13511.ts
+#EXTINF:-1,UK: Flava
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13587.ts
+#EXTINF:-1,UK: E!
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7069.ts
+#EXTINF:-1,UK: E! +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13549.ts
+#EXTINF:-1,UK: Quest
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7053.ts
+#EXTINF:-1,UK: QUEST +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13518.ts
+#EXTINF:-1,UK: SHOWCASE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7048.ts
+#EXTINF:-1,UK: 3e
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7372.ts
+#EXTINF:-1,UK: TV3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7001.ts
 #EXTINF:-1,UK: TLC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18451.ts
-#EXTINF:-1,UK: Travel Channel
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18506.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7003.ts
+#EXTINF:-1,UK: TLC +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13501.ts
+#EXTINF:-1,UK: TLC +2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13502.ts
+#EXTINF:-1,UK: Drama
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13550.ts
+#EXTINF:-1,UK: TG4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7004.ts
+#EXTINF:-1,UK: RTE One
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7050.ts
+#EXTINF:-1,UK: RTE Two
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7051.ts
+#EXTINF:-1,UK: ITVBE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6994.ts
+#EXTINF:-1,UK: ITVBe +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13529.ts
+#EXTINF:-1,UK: Community Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13554.ts
+#EXTINF:-1,UK: AMC From BT
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13567.ts
+#EXTINF:-1,UK: ID
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7063.ts
+#EXTINF:-1,UK: ID +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13533.ts
+#EXTINF:-1,UK: Horror Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13585.ts
+#EXTINF:-1,UK: Horror Channel +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13586.ts
+#EXTINF:-1,UK: Fox
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7089.ts
+#EXTINF:-1,UK: Challenge
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13560.ts
+#EXTINF:-1,UK: Challenge +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13559.ts
+#EXTINF:-1,UK: 5USA
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7071.ts
+#EXTINF:-1,UK: 5USA +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13569.ts
+#EXTINF:-1,UK: 5STAR
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7086.ts
+#EXTINF:-1,UK: 5STAR +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13568.ts
+#EXTINF:-1,UK: Lifetime
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8256.ts
+#EXTINF:-1,UK: Vintage TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9552.ts
+#EXTINF:-1,UK: Gold
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12371.ts
+#EXTINF:-1,UK: GOLD +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13543.ts
+#EXTINF:-1,UK: Eden
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12460.ts
+#EXTINF:-1,UK: Eden +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12366.ts
+#EXTINF:-1,UK: True Drama
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13574.ts
+#EXTINF:-1,UK: True Crime +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13498.ts
+#EXTINF:-1,UK: tru TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13500.ts
+#EXTINF:-1,UK: tru TV 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13499.ts
+#EXTINF:-1,UK: Dmax
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12458.ts
+#EXTINF:-1,UK: Dmax +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12459.ts
+#EXTINF:-1,UK: De Ja Vu
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11779.ts
+#EXTINF:-1,UK: W +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13494.ts
+#EXTINF:-1,UK: W
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13495.ts
+#EXTINF:-1,UK: Universal
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13572.ts
+#EXTINF:-1,UK: Universal +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13571.ts
 #EXTINF:-1,UK: True Entertainment
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18455.ts
-#EXTINF:-1,UK: TSN 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18359.ts
-#EXTINF:-1,UK: TSN 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18358.ts
-#EXTINF:-1,UK: TSN 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18357.ts
-#EXTINF:-1,UK: TSN 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18356.ts
-#EXTINF:-1,UK: TSN 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18355.ts
-#EXTINF:-1,UK: TV3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18473.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13573.ts
+#EXTINF:-1,UK: Sky News
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9551.ts
+#EXTINF:-1,UK: Real Lives
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13517.ts
+#EXTINF:-1,UK: Tiny Pop
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13576.ts
+#EXTINF:-1,UK: Tiny Pop +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13575.ts
+#EXTINF:-1,UK: The Vault
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13577.ts
+#EXTINF:-1,UK: Spike HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13508.ts
+#EXTINF:-1,UK: RT. News Now
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13515.ts
+#EXTINF:-1,UK: PBS America
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13520.ts
+#EXTINF:-1,UK: London Live
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2927.ts
+#EXTINF:-1,UK: Made In Cardiff
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14026.ts
+#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8250.ts
+#EXTINF:-1,UK: Discovery Shed
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6977.ts
+#EXTINF:-1,UK: Travel Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7002.ts
+#EXTINF:-1,UK: Travel Channel +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10162.ts
+#EXTINF:-1,UK: Really
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7052.ts
+#EXTINF:-1,UK: Home & Health
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7369.ts
+#EXTINF:-1,UK: Food Network
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8392.ts
+#EXTINF:-1,UK: SKY ARTS
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7046.ts
+#EXTINF:-1,UK: Good Food
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13542.ts
+#EXTINF:-1,UK: Good Food +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13541.ts
+#EXTINF:-1,UK: Food Network +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13547.ts
+#EXTINF:-1,UK: Home&Health
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13536.ts
+#EXTINF:-1,UK: Home
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13537.ts
+#EXTINF:-1,UK: Home +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13535.ts
+#EXTINF:-1,=======   UK:MOVIES   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8252.ts
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7008.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7007.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7012.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7013.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7009.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7011.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7015.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6975.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7030.ts
+#EXTINF:-1,UK: Film4 +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13588.ts
+#EXTINF:-1,UK: Sky Cinema Select
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7014.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7017.ts
+#EXTINF:-1,UK: Sony Movies
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13510.ts
+#EXTINF:-1,UK: Sony Movies +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13509.ts
+#EXTINF:-1,UK: TCM HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7006.ts
+#EXTINF:-1,UK: Starz TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13578.ts
+#EXTINF:-1,UK: Star Life OK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13505.ts
+#EXTINF:-1,UK: Star Jalsha
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13506.ts
+#EXTINF:-1,UK: Star GOLD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13507.ts
+#EXTINF:-1,UK: TCM +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13504.ts
+#EXTINF:-1,UK: FILM 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7066.ts
+#EXTINF:-1,UK: True Movies 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6976.ts
+#EXTINF:-1,UK: True Movies 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7375.ts
+#EXTINF:-1,UK: Movies4Men
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8258.ts
+#EXTINF:-1,UK: Movies 24
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13525.ts
+#EXTINF:-1,UK: Movies4men +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13526.ts
+#EXTINF:-1,UK: MOVIES CRIME & THRILLER
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7019.ts
+#EXTINF:-1,UK: MOVIES COMEDY
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7022.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7023.ts
+#EXTINF:-1,UK: Syfy
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7005.ts
+#EXTINF:-1,UK: Syfy +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9556.ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7045.ts
+#EXTINF:-1,=======   UK:SPORT   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8244.ts
+#EXTINF:-1,UK: ITV Box Off HD 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/16085.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6981.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13713.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8352.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7035.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8351.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7036.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8350.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7037.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9549.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7038.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8349.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7039.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7987.ts
+#EXTINF:-1,UK: SKY SPORTS  F1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7067.ts
+#EXTINF:-1,UK: EIR Sport 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17372.ts
+#EXTINF:-1,UK: EIR Sport 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17373.ts
+#EXTINF:-1,UK: Eurosport 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7031.ts
+#EXTINF:-1,UK: Eurosport 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7374.ts
+#EXTINF:-1,UK: Premier Sports
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10163.ts
+#EXTINF:-1,UK: Motors TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8257.ts
+#EXTINF:-1,UK: Horse & Country
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13534.ts
+#EXTINF:-1,UK: AT THE RACES
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6984.ts
+#EXTINF:-1,UK: Racing UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7376.ts
+#EXTINF:-1,UK: Bike
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13599.ts
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9149.ts
+#EXTINF:-1,UK: BT SPORTS MOSAIC 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12531.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7041.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7042.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8358.ts
+#EXTINF:-1,UK: BT Sport 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8361.ts
+#EXTINF:-1,UK: BT Sport Europe/3 HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8360.ts
+#EXTINF:-1,UK: BT SPORTS EUROPE
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7081.ts
+#EXTINF:-1,UK: BT Sports Extra 1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7370.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13565.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13564.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13563.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13562.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13561.ts
+#EXTINF:-1,UK: BET
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9148.ts
+#EXTINF:-1,UK: Setanta HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8241.ts
+#EXTINF:-1,UK: BOX NATION
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7082.ts
+#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7979.ts
+#EXTINF:-1,UK: MUTV HD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7043.ts
+#EXTINF:-1,UK: Chelsea TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8359.ts
+#EXTINF:-1,UK: Liverpool LFCTV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9553.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12457.ts
+#EXTINF:-1,Sky Net Sports 1 UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14081.ts
+#EXTINF:-1,Sky Net Sports 2 UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14082.ts
+#EXTINF:-1,Sky Net Sports 3 UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14083.ts
+#EXTINF:-1,Sky Net Sports 4 UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14084.ts
+#EXTINF:-1,Sky Net Sports 5 UK
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14085.ts
+#EXTINF:-1,=======   UK:NEWS   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8246.ts
+#EXTINF:-1,UK: BBC News
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7371.ts
+#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8247.ts
+#EXTINF:-1,UK: Discovery Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7026.ts
+#EXTINF:-1,Uk: Discovery Channel +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10161.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6979.ts
+#EXTINF:-1,UK: Discovery Science
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7028.ts
+#EXTINF:-1,UK: Discovery Science +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13551.ts
+#EXTINF:-1,UK: Animal Planet
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7047.ts
+#EXTINF:-1,UK: Animal Planet +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13566.ts
+#EXTINF:-1,UK: Nat Geo
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7367.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7025.ts
+#EXTINF:-1,UK: Discovery History
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7029.ts
+#EXTINF:-1,UK: Discovery History +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13552.ts
+#EXTINF:-1,UK: YESTERDAY
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6999.ts
+#EXTINF:-1,UK: Yesterday +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12375.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7368.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7074.ts
+#EXTINF:-1,UK: H2
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13540.ts
+#EXTINF:-1,UK: History
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13539.ts
+#EXTINF:-1,UK: GEO TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13544.ts
+#EXTINF:-1,=======   UK:CHILDREN’S   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8251.ts
+#EXTINF:-1,UK: Baby TV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11778.ts
+#EXTINF:-1,UK: Kix
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11469.ts
+#EXTINF:-1,UK: Kix +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13584.ts
+#EXTINF:-1,UK: Cartoon Network
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7034.ts
+#EXTINF:-1,UK: NickJr Too
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7543.ts
+#EXTINF:-1,UK: Nicktoons
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7055.ts
+#EXTINF:-1,UK: Disney Junior
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7542.ts
+#EXTINF:-1,UK: Disney Channel
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7032.ts
+#EXTINF:-1,UK: Nickelodeon
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7366.ts
+#EXTINF:-1,UK: DISNEY XD
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7070.ts
+#EXTINF:-1,UK: CBEEBIES
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7079.ts
+#EXTINF:-1,UK: CBBC
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7080.ts
+#EXTINF:-1,UK: Boomerang
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13598.ts
+#EXTINF:-1,=======   UK:MUSIC  =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8253.ts
+#EXTINF:-1,UK: MTV Music
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13582.ts
+#EXTINF:-1,UK: MTV 90s
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13485.ts
+#EXTINF:-1,UK: MTV
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7061.ts
+#EXTINF:-1,UK: MTV +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13523.ts
+#EXTINF:-1,UK: MTV Base
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7060.ts
+#EXTINF:-1,UK: MTV Hits
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7057.ts
+#EXTINF:-1,UK: MTV Dance
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7058.ts
+#EXTINF:-1,UK: MTV Rocks
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7056.ts
+#EXTINF:-1,UK: MTV Classic
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7059.ts
 #EXTINF:-1,UK: VH1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18407.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7000.ts
 #EXTINF:-1,UK: VIVA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18406.ts
-#EXTINF:-1,UK: Watch
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18480.ts
-#EXTINF:-1,UK: WWE Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18351.ts
-#EXTINF:-1,UK: Yesterday
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18460.ts
-#EXTINF:-1,CAN | A & E SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19197.ts
-#EXTINF:-1,CAN | A&E
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19207.ts
-#EXTINF:-1,CAN | ABC East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19196.ts
-#EXTINF:-1,CAN | ABC HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19214.ts
-#EXTINF:-1,CAN | ABC West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19195.ts
-#EXTINF:-1,CAN | AMC SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19194.ts
-#EXTINF:-1,CAN | ANIMAL PLANET
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19206.ts
-#EXTINF:-1,CAN | Animal Planet SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19193.ts
-#EXTINF:-1,CAN | BBC World News SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19192.ts
-#EXTINF:-1,CAN | BET
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19213.ts
-#EXTINF:-1,CAN | BRAVO HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19212.ts
-#EXTINF:-1,CAN | CBC News Network SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19190.ts
-#EXTINF:-1,CAN | CBC Toronto SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19189.ts
-#EXTINF:-1,CAN | CBC Van SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19188.ts
-#EXTINF:-1,CAN | CBC West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19187.ts
-#EXTINF:-1,CAN | CBS HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19211.ts
-#EXTINF:-1,CAN | CHCH SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19186.ts
-#EXTINF:-1,CAN | CMT Canada SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19183.ts
-#EXTINF:-1,CAN | CNN International SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19182.ts
-#EXTINF:-1,CAN | CNN USA SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19181.ts
-#EXTINF:-1,CAN | COMEDY GOLD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19210.ts
-#EXTINF:-1,CAN | COTTAGE LIFE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19209.ts
-#EXTINF:-1,CAN | CP 24 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19175.ts
-#EXTINF:-1,CAN | CP24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19208.ts
-#EXTINF:-1,CAN | CTV 2 Vancouver SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19173.ts
-#EXTINF:-1,CAN | CTV News SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19172.ts
-#EXTINF:-1,CAN | CTV Ottawa SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19171.ts
-#EXTINF:-1,CAN | CTV Toronto SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19170.ts
-#EXTINF:-1,CAN | CTV Vancouver SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19169.ts
-#EXTINF:-1,CAN | CW HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19168.ts
-#EXTINF:-1,CAN | CW-11 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19167.ts
-#EXTINF:-1,CAN | Cartoon Network
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19191.ts
-#EXTINF:-1,CAN | City Calgary SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19185.ts
-#EXTINF:-1,CAN | City Vancouver SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19184.ts
-#EXTINF:-1,CAN | Comedy Gold SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19180.ts
-#EXTINF:-1,CAN | Comedy West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19179.ts
-#EXTINF:-1,CAN | Cosmo TV Canada SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19178.ts
-#EXTINF:-1,CAN | Cottage Life SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19177.ts
-#EXTINF:-1,CAN | Country Music TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19176.ts
-#EXTINF:-1,CAN | Crime Investigation SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19174.ts
-#EXTINF:-1,CAN | DISNEY XD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19198.ts
-#EXTINF:-1,CAN | Deja View SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19166.ts
-#EXTINF:-1,CAN | Disney French SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19165.ts
-#EXTINF:-1,CAN | Evasion
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19163.ts
-#EXTINF:-1,CAN | FOX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19158.ts
-#EXTINF:-1,CAN | FOX News SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19157.ts
-#EXTINF:-1,CAN | FX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19155.ts
-#EXTINF:-1,CAN | FX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19205.ts
-#EXTINF:-1,CAN | FXX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19154.ts
-#EXTINF:-1,CAN | FYI SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19153.ts
-#EXTINF:-1,CAN | Family Jr. SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19162.ts
-#EXTINF:-1,CAN | Family West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19161.ts
-#EXTINF:-1,CAN | Fight Network SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19160.ts
-#EXTINF:-1,CAN | Food Network SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19159.ts
-#EXTINF:-1,CAN | Fox West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19156.ts
-#EXTINF:-1,CAN | GSN SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19149.ts
-#EXTINF:-1,CAN | Global TV Halifax SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19151.ts
-#EXTINF:-1,CAN | Global Toronto SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19152.ts
-#EXTINF:-1,CAN | Golf SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19150.ts
-#EXTINF:-1,CAN | HBO 1 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19148.ts
-#EXTINF:-1,CAN | HBO 2 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19147.ts
-#EXTINF:-1,CAN | HGTV SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19146.ts
-#EXTINF:-1,CAN | HISTORY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19204.ts
-#EXTINF:-1,CAN | History Canada SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19145.ts
-#EXTINF:-1,CAN | MTV Canada SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19143.ts
-#EXTINF:-1,CAN | MovieTime SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19144.ts
-#EXTINF:-1,CAN | NBA TV SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19142.ts
-#EXTINF:-1,CAN | NBC East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19141.ts
-#EXTINF:-1,CAN | NBC HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19203.ts
-#EXTINF:-1,CAN | NBC West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19140.ts
-#EXTINF:-1,CAN | OLN SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19139.ts
-#EXTINF:-1,CAN | OMNI 1 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19138.ts
-#EXTINF:-1,CAN | OMNI-BC SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19137.ts
-#EXTINF:-1,CAN | OWN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19136.ts
-#EXTINF:-1,CAN | PBS West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19135.ts
-#EXTINF:-1,CAN | Peachtree TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19134.ts
-#EXTINF:-1,CAN | RDS 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19133.ts
-#EXTINF:-1,CAN | SPORTS NET WORLD HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19201.ts
-#EXTINF:-1,CAN | SPORTSNET 360 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19128.ts
-#EXTINF:-1,CAN | SPORTSNET EAST HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19126.ts
-#EXTINF:-1,CAN | SPORTSNET ONE HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19125.ts
-#EXTINF:-1,CAN | SPORTSNET ONTARIO HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19124.ts
-#EXTINF:-1,CAN | SPORTSNET PACIFIC HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19123.ts
-#EXTINF:-1,CAN | SPORTSNET WEST HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19122.ts
-#EXTINF:-1,CAN | SPORTSNET WORLD HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19120.ts
-#EXTINF:-1,CAN | Shopping Channel SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19132.ts
-#EXTINF:-1,CAN | Silverscreen
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19131.ts
-#EXTINF:-1,CAN | Slice SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19130.ts
-#EXTINF:-1,CAN | Spike
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19129.ts
-#EXTINF:-1,CAN | SportNet Pacific SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19088.ts
-#EXTINF:-1,CAN | SportsNet 360 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19127.ts
-#EXTINF:-1,CAN | SportsNet West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19121.ts
-#EXTINF:-1,CAN | Super Channel 1 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19119.ts
-#EXTINF:-1,CAN | Super Channel 2 SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19118.ts
-#EXTINF:-1,CAN | Super Ecran
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19117.ts
-#EXTINF:-1,CAN | TCM SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19116.ts
-#EXTINF:-1,CAN | TELETOON
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19200.ts
-#EXTINF:-1,CAN | TLC SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19108.ts
-#EXTINF:-1,CAN | TMN HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19107.ts
-#EXTINF:-1,CAN | TRAVEL CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19199.ts
-#EXTINF:-1,CAN | TSN 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19102.ts
-#EXTINF:-1,CAN | TSN 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19101.ts
-#EXTINF:-1,CAN | TSN 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19100.ts
-#EXTINF:-1,CAN | TSN 5 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19099.ts
-#EXTINF:-1,CAN | TURBO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19202.ts
-#EXTINF:-1,CAN | Tele Toon East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19115.ts
-#EXTINF:-1,CAN | Tele Toon French SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19114.ts
-#EXTINF:-1,CAN | Tele Toon West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19113.ts
-#EXTINF:-1,CAN | The Movie Network 2 East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19112.ts
-#EXTINF:-1,CAN | The Movie Network 3 East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19111.ts
-#EXTINF:-1,CAN | The Movie Network 4 East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19110.ts
-#EXTINF:-1,CAN | The Movie Network Encore 1 East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19109.ts
-#EXTINF:-1,CAN | Travel
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19106.ts
-#EXTINF:-1,CAN | Travel Escape SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19105.ts
-#EXTINF:-1,CAN | Treehouse
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19104.ts
-#EXTINF:-1,CAN | Tru TV HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19103.ts
-#EXTINF:-1,CAN | Velocity HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19098.ts
-#EXTINF:-1,CAN | Vrak
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19097.ts
-#EXTINF:-1,CAN | W NETWORK HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19096.ts
-#EXTINF:-1,CAN | W Network SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19095.ts
-#EXTINF:-1,CAN | WSBK SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19093.ts
-#EXTINF:-1,CAN | World Fishing Network SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19094.ts
-#EXTINF:-1,CAN | YTV East SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19092.ts
-#EXTINF:-1,CAN | YTV West SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19091.ts
-#EXTINF:-1,CAN | ZeeTV SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19090.ts
-#EXTINF:-1,CAN | e!
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19164.ts
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8259.ts
+#EXTINF:-1,UK: Scuzz
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13579.ts
+#EXTINF:-1,UK: 4Music
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13570.ts
+#EXTINF:-1,UK: POP +1
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13580.ts
+#EXTINF:-1,UK: POP
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13581.ts
+#EXTINF:-1,=======   UK:FOREIGN LANGUAGE   =======
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8245.ts
+#EXTINF:-1,UK: BBC Persian
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2129.ts
+#EXTINF:-1,UK: BBC Arabic
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2122.ts
+#EXTINF:-1,UK: Dunya News
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13486.ts
+#EXTINF:-1,UK: Al Jazeera
+http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14543.ts
