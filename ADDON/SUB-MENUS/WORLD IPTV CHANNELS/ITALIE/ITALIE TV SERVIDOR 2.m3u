@@ -1,237 +1,842 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,IT | RAI 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14025.ts
-#EXTINF:-1,IT | RAI 1 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19085.ts
-#EXTINF:-1,IT | RAI 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14024.ts
-#EXTINF:-1,IT | RAI 2 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19086.ts
-#EXTINF:-1,IT | RAI 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14023.ts
-#EXTINF:-1,IT | RAI 3 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19087.ts
-#EXTINF:-1,IT | RETE 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14014.ts
-#EXTINF:-1,IT | RETE 4 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19083.ts
-#EXTINF:-1,IT | CANALE 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14013.ts
-#EXTINF:-1,IT | CANALE 5 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19082.ts
-#EXTINF:-1,IT | ITALIA 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14016.ts
-#EXTINF:-1,IT | ITALIA 1 (C)
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/19084.ts
-#EXTINF:-1,IT | ITALIA 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14015.ts
-#EXTINF:-1,IT | RAI 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14022.ts
-#EXTINF:-1,IT | RAI 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14021.ts
-#EXTINF:-1,IT | LA5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14006.ts
-#EXTINF:-1,IT | LA7
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14005.ts
-#EXTINF:-1,IT | LA 7D
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17203.ts
-#EXTINF:-1,IT | TV8
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17232.ts
-#EXTINF:-1,IT | RAI PREMIUM
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14019.ts
-#EXTINF:-1,IT | MEDIASET EXTRA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14011.ts
-#EXTINF:-1,IT | ITALIAN FISHING
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14009.ts
-#EXTINF:-1,IT | MEDIASET TOP CRIME
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14010.ts
-#EXTINF:-1,IT | RSI LA1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14008.ts
-#EXTINF:-1,IT | RSI LA2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14007.ts
-#EXTINF:-1,IT | RAI NEWS 24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14018.ts
-#EXTINF:-1,IT | SKY GT24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14017.ts
-#EXTINF:-1,===== SERIE/FILM ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14033.ts
-#EXTINF:-1,IT | FOX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14030.ts
-#EXTINF:-1,IT | CANALE 8
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14028.ts
-#EXTINF:-1,IT | FOX CRIME HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14029.ts
-#EXTINF:-1,IT | PREMIUM STORIES 24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14027.ts
-#EXTINF:-1,IT | RAI MOVIE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14020.ts
-#EXTINF:-1,IT | CIELO HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14031.ts
-#EXTINF:-1,===== BAMBINI ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14068.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,IT | Alice
+http://vip.groupiptv.com:7000/live/stephen/stephen/3356.ts
+#EXTINF:-1,IT | Animal Planet
+http://vip.groupiptv.com:7000/live/stephen/stephen/3357.ts
+#EXTINF:-1,IT | AXN
+http://vip.groupiptv.com:7000/live/stephen/stephen/3358.ts
 #EXTINF:-1,IT | Boing
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14012.ts
-#EXTINF:-1,IT | CARTOON NETWORK
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14066.ts
-#EXTINF:-1,IT | CARTOONITO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14067.ts
+http://vip.groupiptv.com:7000/live/stephen/stephen/3359.ts
+#EXTINF:-1,IT | Caccia
+http://vip.groupiptv.com:7000/live/stephen/stephen/3360.ts
+#EXTINF:-1,IT | Canale 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/3361.ts
+#EXTINF:-1,IT | Cartoon Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/3363.ts
+#EXTINF:-1,IT | Cartoonito
+http://vip.groupiptv.com:7000/live/stephen/stephen/3362.ts
+#EXTINF:-1,IT | Cielo
+http://vip.groupiptv.com:7000/live/stephen/stephen/3364.ts
+#EXTINF:-1,IT | Deejay TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/3365.ts
+#EXTINF:-1,IT | Discovery Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/3366.ts
+#EXTINF:-1,IT | Discovery Science
+http://vip.groupiptv.com:7000/live/stephen/stephen/3367.ts
+#EXTINF:-1,IT | Discovery Travel & Living
+http://vip.groupiptv.com:7000/live/stephen/stephen/3368.ts
+#EXTINF:-1,IT | Discovery World
+http://vip.groupiptv.com:7000/live/stephen/stephen/3369.ts
+#EXTINF:-1,IT | Dmax
+http://vip.groupiptv.com:7000/live/stephen/stephen/3370.ts
+#EXTINF:-1,IT | E!
+http://vip.groupiptv.com:7000/live/stephen/stephen/3371.ts
+#EXTINF:-1,IT | Fine Living
+http://vip.groupiptv.com:7000/live/stephen/stephen/3372.ts
+#EXTINF:-1,IT | Focus
+http://vip.groupiptv.com:7000/live/stephen/stephen/3374.ts
+#EXTINF:-1,IT | Fox
+http://vip.groupiptv.com:7000/live/stephen/stephen/3375.ts
+#EXTINF:-1,IT | Fox Comedy
+http://vip.groupiptv.com:7000/live/stephen/stephen/3376.ts
+#EXTINF:-1,IT | Fox Life
+http://vip.groupiptv.com:7000/live/stephen/stephen/3377.ts
+#EXTINF:-1,IT | Frisbee
+http://vip.groupiptv.com:7000/live/stephen/stephen/3373.ts
+#EXTINF:-1,IT | HIstory
+http://vip.groupiptv.com:7000/live/stephen/stephen/3378.ts
+#EXTINF:-1,IT | Iris
+http://vip.groupiptv.com:7000/live/stephen/stephen/3379.ts
+#EXTINF:-1,IT | Italia 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3380.ts
+#EXTINF:-1,IT | Italia 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3381.ts
 #EXTINF:-1,IT | K2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14063.ts
-#EXTINF:-1,IT | RAI GULP
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14065.ts
-#EXTINF:-1,IT | RAI YOYO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14064.ts
-#EXTINF:-1,===== DOCU ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14077.ts
-#EXTINF:-1,IT | NAT GEO WILD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14072.ts
-#EXTINF:-1,IT | NATIONAL GEOGRAPHIC HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14071.ts
-#EXTINF:-1,IT | DISCOVERY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14075.ts
-#EXTINF:-1,IT | DISCOVERY SCI HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14073.ts
-#EXTINF:-1,IT | DISNEY CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14074.ts
-#EXTINF:-1,IT | ANIMAL PLANET HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14070.ts
-#EXTINF:-1,IT | HISTORY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14032.ts
-#EXTINF:-1,IT | ALICE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14076.ts
-#EXTINF:-1,IT | PESCA E CACCIA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/13569.ts
-#EXTINF:-1,IT | NAT GEO PEOPLE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14069.ts
-#EXTINF:-1,===== PREMIUM ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14044.ts
-#EXTINF:-1,IT | PREMIUM CINEMA HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14039.ts
-#EXTINF:-1,IT | PREMIUM CINEMA 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14041.ts
-#EXTINF:-1,IT | PREMIUM CINEMA  +24 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14040.ts
-#EXTINF:-1,IT | PREMIUM ACTION HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14042.ts
-#EXTINF:-1,IT | PREMIUM ENERGY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14043.ts
-#EXTINF:-1,IT | PREMIUM COMEDY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14035.ts
-#EXTINF:-1,IT | PREMIUM CINEMA EMOTION HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14038.ts
-#EXTINF:-1,IT | PREMIUM CRIME +24 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14036.ts
-#EXTINF:-1,IT | PREMIUM CRIME HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14037.ts
-#EXTINF:-1,IT | PREMIUM STUDIO UNIVERSAL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14034.ts
-#EXTINF:-1,===== SKY ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14050.ts
-#EXTINF:-1,IT | SKY CINEMA PASSION HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14049.ts
-#EXTINF:-1,IT | SKY CINEMA 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14048.ts
-#EXTINF:-1,IT | SKY CINEMA COMEDY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14045.ts
-#EXTINF:-1,IT | SKY CINEMA FAMILY HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14046.ts
-#EXTINF:-1,IT | SKY CINEMA CULT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15208.ts
-#EXTINF:-1,IT | SKY CINEMA MAX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14047.ts
-#EXTINF:-1,IT | SKY ATLANTIC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14004.ts
-#EXTINF:-1,IT | SKY CINEMA CLASSICS
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15207.ts
-#EXTINF:-1,===== PRIMAFILA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14062.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14061.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14060.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14059.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 4
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14058.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 5
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14057.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 6
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14056.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 7
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14055.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 8
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14054.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 9
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14053.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 10
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14052.ts
-#EXTINF:-1,IT | SKY PRIMAFILA 12
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14051.ts
-#EXTINF:-1,===== SPORT ITALIA =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14084.ts
-#EXTINF:-1,IT | SKY SPORT F1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14083.ts
-#EXTINF:-1,IT | SKY SPORT 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14082.ts
-#EXTINF:-1,IT | SKY SPORT 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14081.ts
-#EXTINF:-1,IT | SKY SPORT 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14080.ts
-#EXTINF:-1,IT | PREMIUM SPORT 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17356.ts
-#EXTINF:-1,IT | PREMIUM SPORT HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17358.ts
-#EXTINF:-1,IT | FOX SPORTS
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17355.ts
-#EXTINF:-1,IT | DISNEY JUNIOR
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14078.ts
-#EXTINF:-1,IT | PREMIUM SPORT NEWS
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14079.ts
+http://vip.groupiptv.com:7000/live/stephen/stephen/3382.ts
+#EXTINF:-1,IT | LA 7
+http://vip.groupiptv.com:7000/live/stephen/stephen/3383.ts
+#EXTINF:-1,IT | La 7d
+http://vip.groupiptv.com:7000/live/stephen/stephen/3384.ts
+#EXTINF:-1,IT | Marcopolo
+http://vip.groupiptv.com:7000/live/stephen/stephen/3385.ts
+#EXTINF:-1,IT | Mediaset Extra
+http://vip.groupiptv.com:7000/live/stephen/stephen/3386.ts
+#EXTINF:-1,IT | Mediaset Italia 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3387.ts
+#EXTINF:-1,IT | MTV 8
+http://vip.groupiptv.com:7000/live/stephen/stephen/3388.ts
+#EXTINF:-1,IT | Nat Geo People
+http://vip.groupiptv.com:7000/live/stephen/stephen/3389.ts
+#EXTINF:-1,IT | Nat Geo Wild
+http://vip.groupiptv.com:7000/live/stephen/stephen/3390.ts
+#EXTINF:-1,IT | National Geographic
+http://vip.groupiptv.com:7000/live/stephen/stephen/3391.ts
+#EXTINF:-1,IT | Paramount Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/3392.ts
+#EXTINF:-1,IT | Premium Action
+http://vip.groupiptv.com:7000/live/stephen/stephen/3393.ts
+#EXTINF:-1,IT | Premium Action Plus 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3394.ts
+#EXTINF:-1,IT | Premium Calcio
+http://vip.groupiptv.com:7000/live/stephen/stephen/3395.ts
+#EXTINF:-1,IT | Premium Calcio 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3396.ts
+#EXTINF:-1,IT | Premium Calcio 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3397.ts
+#EXTINF:-1,IT | Premium Calcio 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/3398.ts
+#EXTINF:-1,IT | Premium Calcio 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/3399.ts
+#EXTINF:-1,IT | Premium Calcio 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/3400.ts
+#EXTINF:-1,IT | Premium Cartoon Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/3401.ts
+#EXTINF:-1,IT | Premium Cinema
+http://vip.groupiptv.com:7000/live/stephen/stephen/3402.ts
+#EXTINF:-1,IT | Premium Cinema 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3403.ts
+#EXTINF:-1,IT | Premium Cinema 2 Plus 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3404.ts
+#EXTINF:-1,IT | Premium Comedy
+http://vip.groupiptv.com:7000/live/stephen/stephen/3405.ts
+#EXTINF:-1,IT | Premium Crime
+http://vip.groupiptv.com:7000/live/stephen/stephen/3406.ts
+#EXTINF:-1,IT | Premium Crime Plus24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3407.ts
+#EXTINF:-1,IT | Premium Discovery World
+http://vip.groupiptv.com:7000/live/stephen/stephen/3408.ts
+#EXTINF:-1,IT | Premium Disney Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/3409.ts
+#EXTINF:-1,IT | Premium Disney Junior
+http://vip.groupiptv.com:7000/live/stephen/stephen/3410.ts
+#EXTINF:-1,IT | Premium Emotion
+http://vip.groupiptv.com:7000/live/stephen/stephen/3411.ts
+#EXTINF:-1,IT | Premium Energy
+http://vip.groupiptv.com:7000/live/stephen/stephen/3412.ts
+#EXTINF:-1,IT | Premium Eurosport 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3413.ts
+#EXTINF:-1,IT | Premium Eurosport 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3414.ts
+#EXTINF:-1,IT | Premium Joy
+http://vip.groupiptv.com:7000/live/stephen/stephen/3415.ts
+#EXTINF:-1,IT | Premium Sport
+http://vip.groupiptv.com:7000/live/stephen/stephen/3416.ts
+#EXTINF:-1,IT | Premium Sport 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3417.ts
+#EXTINF:-1,IT | Premium Stories
+http://vip.groupiptv.com:7000/live/stephen/stephen/3418.ts
+#EXTINF:-1,IT | Premium Studio Universal
+http://vip.groupiptv.com:7000/live/stephen/stephen/3419.ts
+#EXTINF:-1,IT | Primafila 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3420.ts
+#EXTINF:-1,IT | Primafila 10
+http://vip.groupiptv.com:7000/live/stephen/stephen/3427.ts
+#EXTINF:-1,IT | Primafila 12
+http://vip.groupiptv.com:7000/live/stephen/stephen/3428.ts
+#EXTINF:-1,IT | Primafila 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3421.ts
+#EXTINF:-1,IT | Primafila 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/3422.ts
+#EXTINF:-1,IT | Primafila 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/3423.ts
+#EXTINF:-1,IT | Primafila 6
+http://vip.groupiptv.com:7000/live/stephen/stephen/3424.ts
+#EXTINF:-1,IT | Primafila 7
+http://vip.groupiptv.com:7000/live/stephen/stephen/3425.ts
+#EXTINF:-1,IT | Primafila 9
+http://vip.groupiptv.com:7000/live/stephen/stephen/3426.ts
+#EXTINF:-1,IT | Radio 105 TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/3429.ts
+#EXTINF:-1,IT | Radio Italia
+http://vip.groupiptv.com:7000/live/stephen/stephen/3430.ts
+#EXTINF:-1,IT | Radio MonteCarlo TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/3431.ts
+#EXTINF:-1,IT | Rai 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3432.ts
+#EXTINF:-1,IT | Rai 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3433.ts
+#EXTINF:-1,IT | Rai 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/3434.ts
+#EXTINF:-1,IT | Rai 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/3435.ts
+#EXTINF:-1,IT | Rai 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/3436.ts
+#EXTINF:-1,IT | Rai Gulp
+http://vip.groupiptv.com:7000/live/stephen/stephen/3437.ts
+#EXTINF:-1,IT | Rai Movie
+http://vip.groupiptv.com:7000/live/stephen/stephen/3438.ts
+#EXTINF:-1,IT | Rai News
+http://vip.groupiptv.com:7000/live/stephen/stephen/3439.ts
+#EXTINF:-1,IT | Rai Premium
+http://vip.groupiptv.com:7000/live/stephen/stephen/3440.ts
+#EXTINF:-1,IT | Rai Sport 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3442.ts
+#EXTINF:-1,IT | Rai Sport 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3443.ts
+#EXTINF:-1,IT | Rai Storia
+http://vip.groupiptv.com:7000/live/stephen/stephen/3441.ts
+#EXTINF:-1,IT | Real Time
+http://vip.groupiptv.com:7000/live/stephen/stephen/3444.ts
+#EXTINF:-1,IT | Rete 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/3445.ts
+#EXTINF:-1,IT | RSi LA 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3446.ts
+#EXTINF:-1,IT | RSi LA 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3447.ts
+#EXTINF:-1,IT | Sky Calcio 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3448.ts
+#EXTINF:-1,IT | Sky Calcio 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/3449.ts
+#EXTINF:-1,IT | Sky Calcio 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/3450.ts
+#EXTINF:-1,IT | Sky Cinema 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3452.ts
+#EXTINF:-1,IT | Sky Cinema Classics
+http://vip.groupiptv.com:7000/live/stephen/stephen/3453.ts
+#EXTINF:-1,IT | Sky Cinema Comedy
+http://vip.groupiptv.com:7000/live/stephen/stephen/3454.ts
+#EXTINF:-1,IT | Sky Cinema Cult
+http://vip.groupiptv.com:7000/live/stephen/stephen/3455.ts
+#EXTINF:-1,IT | Sky Cinema Hits
+http://vip.groupiptv.com:7000/live/stephen/stephen/3456.ts
+#EXTINF:-1,IT | Sky Cinema Max
+http://vip.groupiptv.com:7000/live/stephen/stephen/3457.ts
+#EXTINF:-1,IT | Sky Cinema Passion
+http://vip.groupiptv.com:7000/live/stephen/stephen/3458.ts
+#EXTINF:-1,IT | Sky Cinema Plus24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3451.ts
+#EXTINF:-1,IT | Sky Disney Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/3459.ts
+#EXTINF:-1,IT | Sky Disney XD
+http://vip.groupiptv.com:7000/live/stephen/stephen/3460.ts
+#EXTINF:-1,IT | Sky Moto GP
+http://vip.groupiptv.com:7000/live/stephen/stephen/3461.ts
+#EXTINF:-1,IT | Sky Sport 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3462.ts
+#EXTINF:-1,IT | Sky Sport 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/3463.ts
+#EXTINF:-1,IT | Sky Sport 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3465.ts
+#EXTINF:-1,IT | Sky Sport 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/3464.ts
+#EXTINF:-1,IT | Sky Sport F1
+http://vip.groupiptv.com:7000/live/stephen/stephen/3466.ts
+#EXTINF:-1,IT | Sky Supercalcio
+http://vip.groupiptv.com:7000/live/stephen/stephen/3467.ts
+#EXTINF:-1,IT | Sky Tg 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3468.ts
+#EXTINF:-1,IT | Sky Uno
+http://vip.groupiptv.com:7000/live/stephen/stephen/3469.ts
 #EXTINF:-1,IT | Sport Italia
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17228.ts
-#EXTINF:-1,IT | SKY UNO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17224.ts
-#EXTINF:-1,IT | Milan TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17225.ts
-#EXTINF:-1,IT | Juventus TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17226.ts
-#EXTINF:-1,IT | INTER CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17227.ts
-#EXTINF:-1,IT | Rai Sport +
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17229.ts
-#EXTINF:-1,===== SPORT CALCIO =====
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14101.ts
-#EXTINF:-1,IT | LAZIO CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14085.ts
-#EXTINF:-1,IT | SKY CALCIO 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14091.ts
-#EXTINF:-1,IT | SKY CALCIO 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14090.ts
-#EXTINF:-1,IT | SKY CALCIO 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14089.ts
-#EXTINF:-1,IT | SKY CALCIO 4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14088.ts
-#EXTINF:-1,IT | SKY CALCIO 5 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14087.ts
-#EXTINF:-1,IT | SKY CALCIO 6 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14086.ts
-#EXTINF:-1,IT | TG COM 24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14100.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14098.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14097.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 3 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14096.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14095.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 5 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14094.ts
-#EXTINF:-1,IT | PREMIUM CALCIO 6 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14093.ts
-#EXTINF:-1,IT | PREMIUM CALCIO HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14099.ts
+http://vip.groupiptv.com:7000/live/stephen/stephen/3471.ts
+#EXTINF:-1,IT | Super
+http://vip.groupiptv.com:7000/live/stephen/stephen/3470.ts
+#EXTINF:-1,IT | Super Tennis
+http://vip.groupiptv.com:7000/live/stephen/stephen/3472.ts
+#EXTINF:-1,IT | TG Com 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/3473.ts
+#EXTINF:-1,IT | Top Crime
+http://vip.groupiptv.com:7000/live/stephen/stephen/3474.ts
+#EXTINF:-1,IT | Videolina
+http://vip.groupiptv.com:7000/live/stephen/stephen/3475.ts
+#EXTINF:-1,IT | YoYo
+http://vip.groupiptv.com:7000/live/stephen/stephen/3476.ts
+#EXTINF:-1,IT: A3 Venetto
+http://vip.groupiptv.com:7000/live/stephen/stephen/5245.ts
+#EXTINF:-1,IT: Alice
+http://vip.groupiptv.com:7000/live/stephen/stephen/5146.ts
+#EXTINF:-1,IT: Alpa Uno TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5194.ts
+#EXTINF:-1,IT: Alto Adige
+http://vip.groupiptv.com:7000/live/stephen/stephen/5193.ts
+#EXTINF:-1,IT: Animal Planet
+http://vip.groupiptv.com:7000/live/stephen/stephen/5140.ts
+#EXTINF:-1,IT: Antenna 3 TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5162.ts
+#EXTINF:-1,IT: AutoMoto TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4973.ts
+#EXTINF:-1,IT: AXN HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5060.ts
+#EXTINF:-1,IT: Boing
+http://vip.groupiptv.com:7000/live/stephen/stephen/5009.ts
+#EXTINF:-1,IT: Brescia Tv
+http://vip.groupiptv.com:7000/live/stephen/stephen/5244.ts
+#EXTINF:-1,IT: Canale 21 Campania
+http://vip.groupiptv.com:7000/live/stephen/stephen/5219.ts
+#EXTINF:-1,IT: Canale 21 Lazio
+http://vip.groupiptv.com:7000/live/stephen/stephen/5218.ts
+#EXTINF:-1,IT: Canale 33
+http://vip.groupiptv.com:7000/live/stephen/stephen/5220.ts
+#EXTINF:-1,IT: Canale 46
+http://vip.groupiptv.com:7000/live/stephen/stephen/5221.ts
+#EXTINF:-1,IT: Canale 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/4994.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4993.ts
+#EXTINF:-1,IT: Canale 7 Gold
+http://vip.groupiptv.com:7000/live/stephen/stephen/5001.ts
+#EXTINF:-1,IT: Canale 7 Ita
+http://vip.groupiptv.com:7000/live/stephen/stephen/5210.ts
+#EXTINF:-1,IT: Canale 8
+http://vip.groupiptv.com:7000/live/stephen/stephen/5003.ts
+#EXTINF:-1,IT: Canale10
+http://vip.groupiptv.com:7000/live/stephen/stephen/5243.ts
+#EXTINF:-1,IT: Canale8
+http://vip.groupiptv.com:7000/live/stephen/stephen/5213.ts
+#EXTINF:-1,IT: CanaleDieci TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5214.ts
+#EXTINF:-1,IT: Cartoon Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/5017.ts
+#EXTINF:-1,IT: Cartoonito
+http://vip.groupiptv.com:7000/live/stephen/stephen/5011.ts
+#EXTINF:-1,IT: Cielo
+http://vip.groupiptv.com:7000/live/stephen/stephen/4999.ts
+#EXTINF:-1,IT: CNBC Class
+http://vip.groupiptv.com:7000/live/stephen/stephen/5242.ts
+#EXTINF:-1,IT: CTS TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5209.ts
+#EXTINF:-1,IT: Di TV 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/5206.ts
+#EXTINF:-1,IT: Di TV 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/5207.ts
+#EXTINF:-1,IT: Di TV 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/5208.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5131.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5132.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5133.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5016.ts
+#EXTINF:-1,IT: Disney XD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5015.ts
+#EXTINF:-1,IT: Dmax
+http://vip.groupiptv.com:7000/live/stephen/stephen/5142.ts
+#EXTINF:-1,IT: Dmax  1
+http://vip.groupiptv.com:7000/live/stephen/stephen/5143.ts
+#EXTINF:-1,IT: Dmax HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5141.ts
+#EXTINF:-1,IT: DSF Cinema Alberto Sordi
+http://vip.groupiptv.com:7000/live/stephen/stephen/5029.ts
+#EXTINF:-1,IT: DSF Cinema Avventura
+http://vip.groupiptv.com:7000/live/stephen/stephen/5025.ts
+#EXTINF:-1,IT: DSF Cinema Azione
+http://vip.groupiptv.com:7000/live/stephen/stephen/5024.ts
+#EXTINF:-1,IT: DSF Cinema Comedia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5023.ts
+#EXTINF:-1,IT: DSF Cinema Drama
+http://vip.groupiptv.com:7000/live/stephen/stephen/5026.ts
+#EXTINF:-1,IT: DSF Cinema Horror
+http://vip.groupiptv.com:7000/live/stephen/stephen/5027.ts
+#EXTINF:-1,IT: DSF Cinema Kids
+http://vip.groupiptv.com:7000/live/stephen/stephen/5030.ts
+#EXTINF:-1,IT: DSF Cinema Panettone
+http://vip.groupiptv.com:7000/live/stephen/stephen/5022.ts
+#EXTINF:-1,IT: DSF Cinema Toto
+http://vip.groupiptv.com:7000/live/stephen/stephen/5028.ts
+#EXTINF:-1,IT: E20 Sicilia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5215.ts
+#EXTINF:-1,IT: Eden TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5204.ts
+#EXTINF:-1,IT: Enna TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5203.ts
+#EXTINF:-1,IT: Esperia TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5202.ts
+#EXTINF:-1,IT: ETV Marche
+http://vip.groupiptv.com:7000/live/stephen/stephen/5201.ts
+#EXTINF:-1,IT: Euronews Italiano
+http://vip.groupiptv.com:7000/live/stephen/stephen/5152.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4970.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4971.ts
+#EXTINF:-1,IT: Fano TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5200.ts
+#EXTINF:-1,IT: Film in Sala 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5110.ts
+#EXTINF:-1,IT: Film in Sala 10 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5119.ts
+#EXTINF:-1,IT: Film in Sala 11 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5120.ts
+#EXTINF:-1,IT: Film in Sala 12 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5121.ts
+#EXTINF:-1,IT: Film in Sala 13 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5122.ts
+#EXTINF:-1,IT: Film in Sala 14 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5123.ts
+#EXTINF:-1,IT: Film in Sala 15 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5124.ts
+#EXTINF:-1,IT: Film in Sala 16 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5125.ts
+#EXTINF:-1,IT: Film in Sala 17 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5126.ts
+#EXTINF:-1,IT: Film in Sala 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5111.ts
+#EXTINF:-1,IT: Film in Sala 3 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5112.ts
+#EXTINF:-1,IT: Film in Sala 4 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5113.ts
+#EXTINF:-1,IT: Film in Sala 5 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5114.ts
+#EXTINF:-1,IT: Film in Sala 6 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5115.ts
+#EXTINF:-1,IT: Film in Sala 7 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5116.ts
+#EXTINF:-1,IT: Film in Sala 8 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5117.ts
+#EXTINF:-1,IT: Film in Sala 9 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5118.ts
+#EXTINF:-1,IT: Fishing Tv italiano
+http://vip.groupiptv.com:7000/live/stephen/stephen/5139.ts
+#EXTINF:-1,IT: Focus
+http://vip.groupiptv.com:7000/live/stephen/stephen/5137.ts
+#EXTINF:-1,IT: FOX ANIMATION
+http://vip.groupiptv.com:7000/live/stephen/stephen/5058.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5059.ts
+#EXTINF:-1,IT: FOX CRIME HD ITA
+http://vip.groupiptv.com:7000/live/stephen/stephen/5057.ts
+#EXTINF:-1,IT: Fox HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5055.ts
+#EXTINF:-1,IT: Fox LIfe HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5056.ts
+#EXTINF:-1,IT: Fox Sport HD Italia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4968.ts
+#EXTINF:-1,IT: Frisbee
+http://vip.groupiptv.com:7000/live/stephen/stephen/5012.ts
+#EXTINF:-1,IT: Frisbee Mini
+http://vip.groupiptv.com:7000/live/stephen/stephen/5019.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://vip.groupiptv.com:7000/live/stephen/stephen/5144.ts
+#EXTINF:-1,IT: Giallo
+http://vip.groupiptv.com:7000/live/stephen/stephen/5088.ts
+#EXTINF:-1,IT: History Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/5138.ts
+#EXTINF:-1,IT: History Lab
+http://vip.groupiptv.com:7000/live/stephen/stephen/5241.ts
+#EXTINF:-1,IT: INTER CHANNEL
+http://vip.groupiptv.com:7000/live/stephen/stephen/4962.ts
+#EXTINF:-1,IT: IRIS
+http://vip.groupiptv.com:7000/live/stephen/stephen/4998.ts
+#EXTINF:-1,IT: Italia 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4991.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4990.ts
+#EXTINF:-1,IT: Italia 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4992.ts
+#EXTINF:-1,IT: Juventus Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/4960.ts
+#EXTINF:-1,IT: K2
+http://vip.groupiptv.com:7000/live/stephen/stephen/5010.ts
+#EXTINF:-1,IT: La 7 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5004.ts
+#EXTINF:-1,IT: LA 7D
+http://vip.groupiptv.com:7000/live/stephen/stephen/5005.ts
+#EXTINF:-1,IT: La Sicilia TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5199.ts
+#EXTINF:-1,IT: LA5
+http://vip.groupiptv.com:7000/live/stephen/stephen/5000.ts
+#EXTINF:-1,IT: Lazzio Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/4964.ts
+#EXTINF:-1,IT: Lucania TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5240.ts
+#EXTINF:-1,IT: m2o (musica)
+http://vip.groupiptv.com:7000/live/stephen/stephen/5248.ts
+#EXTINF:-1,IT: MAN-GA
+http://vip.groupiptv.com:7000/live/stephen/stephen/5014.ts
+#EXTINF:-1,IT: Marco polo
+http://vip.groupiptv.com:7000/live/stephen/stephen/5145.ts
+#EXTINF:-1,IT: Masha e Orso Channel IT
+http://vip.groupiptv.com:7000/live/stephen/stephen/5018.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://vip.groupiptv.com:7000/live/stephen/stephen/4997.ts
+#EXTINF:-1,IT: Milan Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/4961.ts
+#EXTINF:-1,IT: Napoli Canale 21 TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5217.ts
+#EXTINF:-1,IT: Napoli TV 21
+http://vip.groupiptv.com:7000/live/stephen/stephen/5216.ts
+#EXTINF:-1,IT: Nat Geo People HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5135.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5136.ts
+#EXTINF:-1,IT: National Geographic HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5134.ts
+#EXTINF:-1,IT: Onda TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5198.ts
+#EXTINF:-1,IT: Orler TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5197.ts
+#EXTINF:-1,IT: OTTO 8fm TV (music)
+http://vip.groupiptv.com:7000/live/stephen/stephen/5249.ts
+#EXTINF:-1,IT: Paramount Channel Ita HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5061.ts
+#EXTINF:-1,IT: Premium Action 24 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5071.ts
+#EXTINF:-1,IT: Premium Action HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5070.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4954.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4955.ts
+#EXTINF:-1,IT: Premium Calcio 3 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4956.ts
+#EXTINF:-1,IT: Premium Calcio 4 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4957.ts
+#EXTINF:-1,IT: Premium Calcio 5 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4958.ts
+#EXTINF:-1,IT: Premium Calcio 6 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4959.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/5020.ts
+#EXTINF:-1,IT: Premium Cinema
+http://vip.groupiptv.com:7000/live/stephen/stephen/5065.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5063.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5069.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5068.ts
+#EXTINF:-1,IT: Premium Cinema 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5067.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5066.ts
+#EXTINF:-1,IT: Premium Cinema HD (ENG)
+http://vip.groupiptv.com:7000/live/stephen/stephen/5064.ts
+#EXTINF:-1,IT: Premium Comedy
+http://vip.groupiptv.com:7000/live/stephen/stephen/5073.ts
+#EXTINF:-1,IT: Premium Comedy HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5072.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5086.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5085.ts
+#EXTINF:-1,IT: Premium Crime 24 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5084.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5083.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5130.ts
+#EXTINF:-1,IT: Premium Emotion
+http://vip.groupiptv.com:7000/live/stephen/stephen/5077.ts
+#EXTINF:-1,IT: Premium Emotion HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5076.ts
+#EXTINF:-1,IT: Premium Energy
+http://vip.groupiptv.com:7000/live/stephen/stephen/5075.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5074.ts
+#EXTINF:-1,IT: Premium Joy
+http://vip.groupiptv.com:7000/live/stephen/stephen/5079.ts
+#EXTINF:-1,IT: Premium Joy  24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5080.ts
+#EXTINF:-1,IT: Premium Joy HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5078.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4953.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4952.ts
+#EXTINF:-1,IT: Premium Stories
+http://vip.groupiptv.com:7000/live/stephen/stephen/5081.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://vip.groupiptv.com:7000/live/stephen/stephen/5087.ts
+#EXTINF:-1,IT: Premium TOP Crime
+http://vip.groupiptv.com:7000/live/stephen/stephen/5082.ts
+#EXTINF:-1,IT: Primocanale TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5205.ts
+#EXTINF:-1,IT: Radio Italia TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5254.ts
+#EXTINF:-1,IT: Radio Norba TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5253.ts
+#EXTINF:-1,IT: Radio Radicale Camera TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5247.ts
+#EXTINF:-1,IT: Radio Radicale Senato TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5246.ts
+#EXTINF:-1,IT: Radio Radicale TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5239.ts
+#EXTINF:-1,IT: RadioMonteCarlo
+http://vip.groupiptv.com:7000/live/stephen/stephen/5252.ts
+#EXTINF:-1,IT: Rai 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4981.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4976.ts
+#EXTINF:-1,IT: Rai 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4982.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4977.ts
+#EXTINF:-1,IT: Rai 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/4983.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4978.ts
+#EXTINF:-1,IT: Rai 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/4984.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4979.ts
+#EXTINF:-1,IT: Rai 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/4985.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4980.ts
+#EXTINF:-1,IT: Rai Gulp
+http://vip.groupiptv.com:7000/live/stephen/stephen/5007.ts
+#EXTINF:-1,IT: Rai Movie
+http://vip.groupiptv.com:7000/live/stephen/stephen/4987.ts
+#EXTINF:-1,IT: Rai Nettuno
+http://vip.groupiptv.com:7000/live/stephen/stephen/4989.ts
+#EXTINF:-1,IT: Rai News 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5147.ts
+#EXTINF:-1,IT: Rai Premium
+http://vip.groupiptv.com:7000/live/stephen/stephen/4986.ts
+#EXTINF:-1,IT: Rai Scuola
+http://vip.groupiptv.com:7000/live/stephen/stephen/4988.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4965.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4967.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4966.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://vip.groupiptv.com:7000/live/stephen/stephen/5008.ts
+#EXTINF:-1,IT: Real Time
+http://vip.groupiptv.com:7000/live/stephen/stephen/5128.ts
+#EXTINF:-1,IT: Real Time  1
+http://vip.groupiptv.com:7000/live/stephen/stephen/5129.ts
+#EXTINF:-1,IT: Rete 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/4996.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4995.ts
+#EXTINF:-1,IT: Rete 55 Live
+http://vip.groupiptv.com:7000/live/stephen/stephen/5222.ts
+#EXTINF:-1,IT: Rete Versilia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5192.ts
+#EXTINF:-1,IT: Rete8 Sport
+http://vip.groupiptv.com:7000/live/stephen/stephen/5211.ts
+#EXTINF:-1,IT: ReteBiella TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5191.ts
+#EXTINF:-1,IT: ReteSole Lazio
+http://vip.groupiptv.com:7000/live/stephen/stephen/5195.ts
+#EXTINF:-1,IT: ReteSole Umbria
+http://vip.groupiptv.com:7000/live/stephen/stephen/5196.ts
+#EXTINF:-1,IT: RmkTV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5190.ts
+#EXTINF:-1,IT: ROMA CHANNEL
+http://vip.groupiptv.com:7000/live/stephen/stephen/4963.ts
+#EXTINF:-1,IT: RTL 102.5 TV (musica)
+http://vip.groupiptv.com:7000/live/stephen/stephen/5250.ts
+#EXTINF:-1,IT: RtpTV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5189.ts
+#EXTINF:-1,IT: RTV 105
+http://vip.groupiptv.com:7000/live/stephen/stephen/5251.ts
+#EXTINF:-1,IT: Sardegna Uno
+http://vip.groupiptv.com:7000/live/stephen/stephen/5158.ts
+#EXTINF:-1,IT: Sardegna Uno TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5157.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5053.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4945.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4946.ts
+#EXTINF:-1,IT: Sky Calcio.1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4938.ts
+#EXTINF:-1,IT: Sky Calcio.2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4939.ts
+#EXTINF:-1,IT: Sky Calcio.3
+http://vip.groupiptv.com:7000/live/stephen/stephen/4940.ts
+#EXTINF:-1,IT: Sky Calcio.4
+http://vip.groupiptv.com:7000/live/stephen/stephen/4941.ts
+#EXTINF:-1,IT: Sky Calcio.5
+http://vip.groupiptv.com:7000/live/stephen/stephen/4942.ts
+#EXTINF:-1,IT: Sky Calcio.6
+http://vip.groupiptv.com:7000/live/stephen/stephen/4943.ts
+#EXTINF:-1,IT: Sky Calcio.7
+http://vip.groupiptv.com:7000/live/stephen/stephen/4944.ts
+#EXTINF:-1,IT: Sky Cinema   24HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5037.ts
+#EXTINF:-1,IT: Sky Cinema 3D
+http://vip.groupiptv.com:7000/live/stephen/stephen/5032.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5051.ts
+#EXTINF:-1,IT: Sky Cinema Classic SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5052.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5043.ts
+#EXTINF:-1,IT: Sky Cinema Comedy SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5044.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5049.ts
+#EXTINF:-1,IT: Sky Cinema Cult SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5050.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5041.ts
+#EXTINF:-1,IT: Sky Cinema Family SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5042.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5039.ts
+#EXTINF:-1,IT: Sky Cinema Hits SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5040.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5047.ts
+#EXTINF:-1,IT: Sky Cinema Max SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5048.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5045.ts
+#EXTINF:-1,IT: Sky Cinema Passion SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5046.ts
+#EXTINF:-1,IT: Sky Cinema Uno  1HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5035.ts
+#EXTINF:-1,IT: Sky Cinema Uno  1SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5036.ts
+#EXTINF:-1,IT: Sky Cinema Uno  24SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5038.ts
+#EXTINF:-1,IT: Sky Cinema Uno HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5033.ts
+#EXTINF:-1,IT: Sky Cinema Uno SD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5034.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4949.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4950.ts
+#EXTINF:-1,IT: Sky Sport 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/4947.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4948.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4951.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4974.ts
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4975.ts
+#EXTINF:-1,IT: Sky TG 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5148.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/5054.ts
+#EXTINF:-1,IT: SkyTG24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5149.ts
+#EXTINF:-1,IT: Sport Italia
+http://vip.groupiptv.com:7000/live/stephen/stephen/4972.ts
+#EXTINF:-1,IT: Studio 100
+http://vip.groupiptv.com:7000/live/stephen/stephen/5226.ts
+#EXTINF:-1,IT: Suedtirol TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5188.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://vip.groupiptv.com:7000/live/stephen/stephen/4969.ts
+#EXTINF:-1,IT: Super!
+http://vip.groupiptv.com:7000/live/stephen/stephen/5013.ts
+#EXTINF:-1,IT: TcsTV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5187.ts
+#EXTINF:-1,IT: Tele Acras
+http://vip.groupiptv.com:7000/live/stephen/stephen/5186.ts
+#EXTINF:-1,IT: Tele Arena Siena
+http://vip.groupiptv.com:7000/live/stephen/stephen/5154.ts
+#EXTINF:-1,IT: Tele Boario
+http://vip.groupiptv.com:7000/live/stephen/stephen/5185.ts
+#EXTINF:-1,IT: Tele Milano
+http://vip.groupiptv.com:7000/live/stephen/stephen/5184.ts
+#EXTINF:-1,IT: Tele Nord
+http://vip.groupiptv.com:7000/live/stephen/stephen/5178.ts
+#EXTINF:-1,IT: Tele Nuova
+http://vip.groupiptv.com:7000/live/stephen/stephen/5182.ts
+#EXTINF:-1,IT: Tele Nuova 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/5183.ts
+#EXTINF:-1,IT: Tele Padova Telecitt
+http://vip.groupiptv.com:7000/live/stephen/stephen/5181.ts
+#EXTINF:-1,IT: Tele Pavia Italia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5180.ts
+#EXTINF:-1,IT: Tele Studio Modena
+http://vip.groupiptv.com:7000/live/stephen/stephen/5238.ts
+#EXTINF:-1,IT: Tele Sud
+http://vip.groupiptv.com:7000/live/stephen/stephen/5179.ts
+#EXTINF:-1,IT: Tele Video Agrigento
+http://vip.groupiptv.com:7000/live/stephen/stephen/5177.ts
+#EXTINF:-1,IT: Tele8
+http://vip.groupiptv.com:7000/live/stephen/stephen/5212.ts
+#EXTINF:-1,IT: TeleBari Tv
+http://vip.groupiptv.com:7000/live/stephen/stephen/5156.ts
+#EXTINF:-1,IT: TeleColor
+http://vip.groupiptv.com:7000/live/stephen/stephen/5176.ts
+#EXTINF:-1,IT: TeleDehonTV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5175.ts
+#EXTINF:-1,IT: Telediogene
+http://vip.groupiptv.com:7000/live/stephen/stephen/5174.ts
+#EXTINF:-1,IT: TeleMIa
+http://vip.groupiptv.com:7000/live/stephen/stephen/5237.ts
+#EXTINF:-1,IT: TeleMonteNeve
+http://vip.groupiptv.com:7000/live/stephen/stephen/5236.ts
+#EXTINF:-1,IT: TeleNorba TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5159.ts
+#EXTINF:-1,IT: TeleOnda
+http://vip.groupiptv.com:7000/live/stephen/stephen/5235.ts
+#EXTINF:-1,IT: TelePace Tv
+http://vip.groupiptv.com:7000/live/stephen/stephen/5173.ts
+#EXTINF:-1,IT: TeleRadioErre
+http://vip.groupiptv.com:7000/live/stephen/stephen/5172.ts
+#EXTINF:-1,IT: TeleRadioSciacca
+http://vip.groupiptv.com:7000/live/stephen/stephen/5171.ts
+#EXTINF:-1,IT: TeleSondrio Livigno
+http://vip.groupiptv.com:7000/live/stephen/stephen/5234.ts
+#EXTINF:-1,IT: TeleSondrioNews
+http://vip.groupiptv.com:7000/live/stephen/stephen/5233.ts
+#EXTINF:-1,IT: TeleTicino
+http://vip.groupiptv.com:7000/live/stephen/stephen/5170.ts
+#EXTINF:-1,IT: TeleVenezia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5169.ts
+#EXTINF:-1,IT: TeleVomero
+http://vip.groupiptv.com:7000/live/stephen/stephen/5168.ts
+#EXTINF:-1,IT: TG Com 24 Premium
+http://vip.groupiptv.com:7000/live/stephen/stephen/5151.ts
+#EXTINF:-1,IT: TG Norba 24
+http://vip.groupiptv.com:7000/live/stephen/stephen/5150.ts
+#EXTINF:-1,IT: Trentino TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5167.ts
+#EXTINF:-1,IT: TRM TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5166.ts
+#EXTINF:-1,IT: Tv Avicenza
+http://vip.groupiptv.com:7000/live/stephen/stephen/5165.ts
+#EXTINF:-1,IT: TV Luna
+http://vip.groupiptv.com:7000/live/stephen/stephen/5164.ts
+#EXTINF:-1,IT: TV2000
+http://vip.groupiptv.com:7000/live/stephen/stephen/5232.ts
+#EXTINF:-1,IT: TV8
+http://vip.groupiptv.com:7000/live/stephen/stephen/5002.ts
+#EXTINF:-1,IT: TVRS
+http://vip.groupiptv.com:7000/live/stephen/stephen/5231.ts
+#EXTINF:-1,IT: Vera TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5163.ts
+#EXTINF:-1,IT: Video 33 TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5161.ts
+#EXTINF:-1,IT: Video Brescia
+http://vip.groupiptv.com:7000/live/stephen/stephen/5230.ts
+#EXTINF:-1,IT: Video Calabria
+http://vip.groupiptv.com:7000/live/stephen/stephen/5155.ts
+#EXTINF:-1,IT: Video Tolento
+http://vip.groupiptv.com:7000/live/stephen/stephen/5160.ts
+#EXTINF:-1,IT: Videolina
+http://vip.groupiptv.com:7000/live/stephen/stephen/5229.ts
+#EXTINF:-1,IT: VideoStar TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/5228.ts
+#EXTINF:-1,IT: VisualRadio TV (musica)
+http://vip.groupiptv.com:7000/live/stephen/stephen/5227.ts
+#EXTINF:-1,IT: Vitalia1
+http://vip.groupiptv.com:7000/live/stephen/stephen/5223.ts
+#EXTINF:-1,IT: Vitalia2
+http://vip.groupiptv.com:7000/live/stephen/stephen/5224.ts
+#EXTINF:-1,IT: Vitalia3
+http://vip.groupiptv.com:7000/live/stephen/stephen/5225.ts

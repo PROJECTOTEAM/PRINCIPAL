@@ -82,517 +82,192 @@ http://185.62.86.6:8081/hls/trutv.m3u8
 http://185.62.86.6:8081/hls/my5.m3u8
 
 
-#EXTINF:-1,UK: BBC1 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6986.ts
-#EXTINF:-1,UK: BBC One NI HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13488.ts
-#EXTINF:-1,UK: BBC RB 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13487.ts
-#EXTINF:-1,UK: BBC2 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8363.ts
-#EXTINF:-1,UK: BBC2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6987.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13712.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6995.ts
-#EXTINF:-1,UK: Channel 4 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13558.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6998.ts
-#EXTINF:-1,UK: Channel 5 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13557.ts
-#EXTINF:-1,UK: Channel 5Star
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9560.ts
-#EXTINF:-1,UK: Sky One
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7365.ts
-#EXTINF:-1,UK: Sky One +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12365.ts
-#EXTINF:-1,UK: Sky Two
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7373.ts
-#EXTINF:-1,UK: Pick
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7054.ts
-#EXTINF:-1,UK: Pick +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13519.ts
-#EXTINF:-1,UK: My5
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13556.ts
-#EXTINF:-1,UK: DAVE
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7072.ts
-#EXTINF:-1,UK: SKY LIVING
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7024.ts
-#EXTINF:-1,UK: BBC3
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7084.ts
-#EXTINF:-1,UK: BBC4 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8364.ts
-#EXTINF:-1,UK: ITV Encore
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13532.ts
-#EXTINF:-1,UK: ITV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6990.ts
-#EXTINF:-1,UK: ITV +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9550.ts
-#EXTINF:-1,UK: ITV1 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8357.ts
-#EXTINF:-1,UK: ITV2 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8356.ts
-#EXTINF:-1,UK: ITV2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6991.ts
-#EXTINF:-1,UK: ITV2 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13531.ts
-#EXTINF:-1,UK: ITV3 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8354.ts
-#EXTINF:-1,UK: ITV3
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6992.ts
-#EXTINF:-1,UK: ITV4 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8355.ts
-#EXTINF:-1,UK: ITV4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6993.ts
-#EXTINF:-1,UK: ITV4 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13530.ts
-#EXTINF:-1,UK: Comedy Central
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7033.ts
-#EXTINF:-1,UK: Comedy Central +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13591.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8255.ts
-#EXTINF:-1,UK: Comedy Central Xtra +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13590.ts
-#EXTINF:-1,UK: ALIBI
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7085.ts
-#EXTINF:-1,UK: Alibi +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12364.ts
-#EXTINF:-1,UK: E4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7068.ts
-#EXTINF:-1,UK: S4C
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13514.ts
-#EXTINF:-1,UK: MORE4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7062.ts
-#EXTINF:-1,UK: More4 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13583.ts
-#EXTINF:-1,UK: CBS REALITY
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7076.ts
-#EXTINF:-1,UK: CBS REALITY +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7075.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7077.ts
-#EXTINF:-1,UK: Sony Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13512.ts
-#EXTINF:-1,UK: Sony Channel +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13511.ts
-#EXTINF:-1,UK: Flava
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13587.ts
-#EXTINF:-1,UK: E!
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7069.ts
-#EXTINF:-1,UK: E! +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13549.ts
-#EXTINF:-1,UK: Quest
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7053.ts
-#EXTINF:-1,UK: QUEST +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13518.ts
-#EXTINF:-1,UK: SHOWCASE
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7048.ts
-#EXTINF:-1,UK: 3e
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7372.ts
-#EXTINF:-1,UK: TV3 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7001.ts
-#EXTINF:-1,UK: TLC
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7003.ts
-#EXTINF:-1,UK: TLC +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13501.ts
-#EXTINF:-1,UK: TLC +2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13502.ts
-#EXTINF:-1,UK: Drama
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13550.ts
-#EXTINF:-1,UK: TG4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7004.ts
-#EXTINF:-1,UK: RTE One
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7050.ts
-#EXTINF:-1,UK: RTE Two
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7051.ts
-#EXTINF:-1,UK: ITVBE
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6994.ts
-#EXTINF:-1,UK: ITVBe +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13529.ts
-#EXTINF:-1,UK: Community Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13554.ts
-#EXTINF:-1,UK: AMC From BT
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13567.ts
-#EXTINF:-1,UK: ID
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7063.ts
-#EXTINF:-1,UK: ID +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13533.ts
-#EXTINF:-1,UK: Horror Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13585.ts
-#EXTINF:-1,UK: Horror Channel +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13586.ts
-#EXTINF:-1,UK: Fox
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7089.ts
-#EXTINF:-1,UK: Challenge
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13560.ts
-#EXTINF:-1,UK: Challenge +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13559.ts
-#EXTINF:-1,UK: 5USA
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7071.ts
-#EXTINF:-1,UK: 5USA +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13569.ts
-#EXTINF:-1,UK: 5STAR
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7086.ts
-#EXTINF:-1,UK: 5STAR +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13568.ts
-#EXTINF:-1,UK: Lifetime
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8256.ts
-#EXTINF:-1,UK: Vintage TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9552.ts
-#EXTINF:-1,UK: Gold
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12371.ts
-#EXTINF:-1,UK: GOLD +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13543.ts
-#EXTINF:-1,UK: Eden
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12460.ts
-#EXTINF:-1,UK: Eden +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12366.ts
-#EXTINF:-1,UK: True Drama
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13574.ts
-#EXTINF:-1,UK: True Crime +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13498.ts
-#EXTINF:-1,UK: tru TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13500.ts
-#EXTINF:-1,UK: tru TV 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13499.ts
-#EXTINF:-1,UK: Dmax
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12458.ts
-#EXTINF:-1,UK: Dmax +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12459.ts
-#EXTINF:-1,UK: De Ja Vu
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11779.ts
-#EXTINF:-1,UK: W +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13494.ts
-#EXTINF:-1,UK: W
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13495.ts
-#EXTINF:-1,UK: Universal
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13572.ts
-#EXTINF:-1,UK: Universal +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13571.ts
-#EXTINF:-1,UK: True Entertainment
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13573.ts
-#EXTINF:-1,UK: Sky News
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9551.ts
-#EXTINF:-1,UK: Real Lives
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13517.ts
-#EXTINF:-1,UK: Tiny Pop
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13576.ts
-#EXTINF:-1,UK: Tiny Pop +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13575.ts
-#EXTINF:-1,UK: The Vault
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13577.ts
-#EXTINF:-1,UK: Spike HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13508.ts
-#EXTINF:-1,UK: RT. News Now
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13515.ts
-#EXTINF:-1,UK: PBS America
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13520.ts
-#EXTINF:-1,UK: London Live
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/2927.ts
-#EXTINF:-1,UK: Made In Cardiff
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14026.ts
-#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8250.ts
-#EXTINF:-1,UK: Discovery Shed
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6977.ts
-#EXTINF:-1,UK: Travel Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7002.ts
-#EXTINF:-1,UK: Travel Channel +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10162.ts
-#EXTINF:-1,UK: Really
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7052.ts
-#EXTINF:-1,UK: Home & Health
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7369.ts
-#EXTINF:-1,UK: Food Network
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8392.ts
-#EXTINF:-1,UK: SKY ARTS
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7046.ts
-#EXTINF:-1,UK: Good Food
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13542.ts
-#EXTINF:-1,UK: Good Food +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13541.ts
-#EXTINF:-1,UK: Food Network +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13547.ts
-#EXTINF:-1,UK: Home&Health
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13536.ts
-#EXTINF:-1,UK: Home
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13537.ts
-#EXTINF:-1,UK: Home +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13535.ts
-#EXTINF:-1,=======   UK:MOVIES   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8252.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7008.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7007.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7012.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7013.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7009.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7011.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7015.ts
-#EXTINF:-1,UK: Sky Movies ScFi-Horror
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6975.ts
-#EXTINF:-1,UK: Sky Film 4 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7030.ts
-#EXTINF:-1,UK: Film4 +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13588.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7014.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7017.ts
-#EXTINF:-1,UK: Sony Movies
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13510.ts
-#EXTINF:-1,UK: Sony Movies +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13509.ts
-#EXTINF:-1,UK: TCM HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7006.ts
-#EXTINF:-1,UK: Starz TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13578.ts
-#EXTINF:-1,UK: Star Life OK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13505.ts
-#EXTINF:-1,UK: Star Jalsha
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13506.ts
-#EXTINF:-1,UK: Star GOLD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13507.ts
-#EXTINF:-1,UK: TCM +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13504.ts
-#EXTINF:-1,UK: FILM 4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7066.ts
-#EXTINF:-1,UK: True Movies 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6976.ts
-#EXTINF:-1,UK: True Movies 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7375.ts
-#EXTINF:-1,UK: Movies4Men
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8258.ts
-#EXTINF:-1,UK: Movies 24
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13525.ts
-#EXTINF:-1,UK: Movies4men +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13526.ts
-#EXTINF:-1,UK: MOVIES CRIME & THRILLER
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7019.ts
-#EXTINF:-1,UK: MOVIES COMEDY
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7022.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7023.ts
-#EXTINF:-1,UK: Syfy
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7005.ts
-#EXTINF:-1,UK: Syfy +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9556.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7045.ts
-#EXTINF:-1,=======   UK:SPORT   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8244.ts
-#EXTINF:-1,UK: ITV Box Off HD 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/16085.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6981.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13713.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8352.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7035.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8351.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7036.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8350.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7037.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9549.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7038.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8349.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7039.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7987.ts
-#EXTINF:-1,UK: SKY SPORTS  F1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7067.ts
-#EXTINF:-1,UK: EIR Sport 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17372.ts
-#EXTINF:-1,UK: EIR Sport 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/17373.ts
-#EXTINF:-1,UK: Eurosport 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7031.ts
-#EXTINF:-1,UK: Eurosport 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7374.ts
-#EXTINF:-1,UK: Premier Sports
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10163.ts
-#EXTINF:-1,UK: Motors TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8257.ts
-#EXTINF:-1,UK: Horse & Country
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13534.ts
-#EXTINF:-1,UK: AT THE RACES
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6984.ts
-#EXTINF:-1,UK: Racing UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7376.ts
-#EXTINF:-1,UK: Bike
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13599.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9149.ts
-#EXTINF:-1,UK: BT SPORTS MOSAIC 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12531.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7041.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7042.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8358.ts
-#EXTINF:-1,UK: BT Sport 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8361.ts
-#EXTINF:-1,UK: BT Sport Europe/3 HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8360.ts
-#EXTINF:-1,UK: BT SPORTS EUROPE
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7081.ts
-#EXTINF:-1,UK: BT Sports Extra 1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7370.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13565.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13564.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13563.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13562.ts
-#EXTINF:-1,UK: BT Sport Extra 6
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13561.ts
-#EXTINF:-1,UK: BET
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9148.ts
-#EXTINF:-1,UK: Setanta HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8241.ts
-#EXTINF:-1,UK: BOX NATION
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7082.ts
-#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7979.ts
-#EXTINF:-1,UK: MUTV HD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7043.ts
-#EXTINF:-1,UK: Chelsea TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8359.ts
-#EXTINF:-1,UK: Liverpool LFCTV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/9553.ts
-#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12457.ts
-#EXTINF:-1,Sky Net Sports 1 UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14081.ts
-#EXTINF:-1,Sky Net Sports 2 UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14082.ts
-#EXTINF:-1,Sky Net Sports 3 UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14083.ts
-#EXTINF:-1,Sky Net Sports 4 UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14084.ts
-#EXTINF:-1,Sky Net Sports 5 UK
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/14085.ts
-#EXTINF:-1,=======   UK:NEWS   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8246.ts
-#EXTINF:-1,UK: BBC News
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7371.ts
-#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8247.ts
-#EXTINF:-1,UK: Discovery Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7026.ts
-#EXTINF:-1,Uk: Discovery Channel +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/10161.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6979.ts
-#EXTINF:-1,UK: Discovery Science
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7028.ts
-#EXTINF:-1,UK: Discovery Science +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13551.ts
-#EXTINF:-1,UK: Animal Planet
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7047.ts
-#EXTINF:-1,UK: Animal Planet +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13566.ts
-#EXTINF:-1,UK: Nat Geo
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7367.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7025.ts
-#EXTINF:-1,UK: Discovery History
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7029.ts
-#EXTINF:-1,UK: Discovery History +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13552.ts
-#EXTINF:-1,UK: YESTERDAY
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/6999.ts
-#EXTINF:-1,UK: Yesterday +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/12375.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7368.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7074.ts
-#EXTINF:-1,UK: H2
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13540.ts
-#EXTINF:-1,UK: History
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13539.ts
-#EXTINF:-1,UK: GEO TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13544.ts
-#EXTINF:-1,=======   UK:CHILDREN’S   =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8251.ts
-#EXTINF:-1,UK: Baby TV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11778.ts
-#EXTINF:-1,UK: Kix
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11469.ts
-#EXTINF:-1,UK: Kix +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13584.ts
-#EXTINF:-1,UK: Cartoon Network
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7034.ts
-#EXTINF:-1,UK: NickJr Too
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7543.ts
-#EXTINF:-1,UK: Nicktoons
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7055.ts
-#EXTINF:-1,UK: Disney Junior
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7542.ts
-#EXTINF:-1,UK: Disney Channel
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7032.ts
-#EXTINF:-1,UK: Nickelodeon
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7366.ts
-#EXTINF:-1,UK: DISNEY XD
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7070.ts
-#EXTINF:-1,UK: CBEEBIES
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7079.ts
-#EXTINF:-1,UK: CBBC
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7080.ts
-#EXTINF:-1,UK: Boomerang
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13598.ts
-#EXTINF:-1,=======   UK:MUSIC  =======
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8253.ts
-#EXTINF:-1,UK: MTV Music
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13582.ts
-#EXTINF:-1,UK: MTV 90s
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13485.ts
-#EXTINF:-1,UK: MTV
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7061.ts
-#EXTINF:-1,UK: MTV +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13523.ts
-#EXTINF:-1,UK: MTV Base
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7060.ts
-#EXTINF:-1,UK: MTV Hits
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7057.ts
-#EXTINF:-1,UK: MTV Dance
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7058.ts
-#EXTINF:-1,UK: MTV Rocks
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7056.ts
-#EXTINF:-1,UK: MTV Classic
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7059.ts
-#EXTINF:-1,UK: VH1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7000.ts
-#EXTINF:-1,UK: VIVA
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8259.ts
-#EXTINF:-1,UK: Scuzz
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13579.ts
-#EXTINF:-1,UK: 4Music
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13570.ts
-#EXTINF:-1,UK: POP +1
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13580.ts
-#EXTINF:-1,UK: POP
-http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13581.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,USA | ABC News
+http://vip.groupiptv.com:7000/live/stephen/stephen/4181.ts
+#EXTINF:-1,USA | Animal Planet
+http://vip.groupiptv.com:7000/live/stephen/stephen/4182.ts
+#EXTINF:-1,USA | Bein USA
+http://vip.groupiptv.com:7000/live/stephen/stephen/4183.ts
+#EXTINF:-1,USA | Bloomberg
+http://vip.groupiptv.com:7000/live/stephen/stephen/4184.ts
+#EXTINF:-1,USA | CBS
+http://vip.groupiptv.com:7000/live/stephen/stephen/4197.ts
+#EXTINF:-1,USA | CBSN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4202.ts
+#EXTINF:-1,USA | CNBC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4185.ts
+#EXTINF:-1,USA | CNN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4186.ts
+#EXTINF:-1,USA | ESPN USA
+http://vip.groupiptv.com:7000/live/stephen/stephen/4187.ts
+#EXTINF:-1,USA | Fox Sports 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4188.ts
+#EXTINF:-1,USA | FOX Sports 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4189.ts
+#EXTINF:-1,USA | NBA TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4190.ts
+#EXTINF:-1,USA | NBC SN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4191.ts
+#EXTINF:-1,USA | NDTV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4199.ts
+#EXTINF:-1,USA | NFL
+http://vip.groupiptv.com:7000/live/stephen/stephen/4200.ts
+#EXTINF:-1,USA | PAG
+http://vip.groupiptv.com:7000/live/stephen/stephen/4201.ts
+#EXTINF:-1,USA | Poker Central
+http://vip.groupiptv.com:7000/live/stephen/stephen/4203.ts
+#EXTINF:-1,USA | Space
+http://vip.groupiptv.com:7000/live/stephen/stephen/4204.ts
+#EXTINF:-1,USA | TSN 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4192.ts
+#EXTINF:-1,USA | TSN 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4193.ts
+#EXTINF:-1,USA | TSN 3
+http://vip.groupiptv.com:7000/live/stephen/stephen/4194.ts
+#EXTINF:-1,USA | TSN 4
+http://vip.groupiptv.com:7000/live/stephen/stephen/4195.ts
+#EXTINF:-1,USA | TSN 5
+http://vip.groupiptv.com:7000/live/stephen/stephen/4196.ts
+#EXTINF:-1,USA | WWE
+http://vip.groupiptv.com:7000/live/stephen/stephen/4198.ts
+#EXTINF:-1,USA| ***** U.S.A VIP *****
+http://vip.groupiptv.com:7000/live/stephen/stephen/4205.ts
+#EXTINF:-1,USA| 360 North
+http://vip.groupiptv.com:7000/live/stephen/stephen/4206.ts
+#EXTINF:-1,USA| A&E
+http://vip.groupiptv.com:7000/live/stephen/stephen/4207.ts
+#EXTINF:-1,USA| AFN Sports
+http://vip.groupiptv.com:7000/live/stephen/stephen/4230.ts
+#EXTINF:-1,USA| AFN Sports 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4231.ts
+#EXTINF:-1,USA| Aljazeera US
+http://vip.groupiptv.com:7000/live/stephen/stephen/4208.ts
+#EXTINF:-1,USA| AMC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4209.ts
+#EXTINF:-1,USA| Animal Planet
+http://vip.groupiptv.com:7000/live/stephen/stephen/4263.ts
+#EXTINF:-1,USA| Bein Sports
+http://vip.groupiptv.com:7000/live/stephen/stephen/4254.ts
+#EXTINF:-1,USA| Bloomberg
+http://vip.groupiptv.com:7000/live/stephen/stephen/4225.ts
+#EXTINF:-1,USA| BYU Sports TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4246.ts
+#EXTINF:-1,USA| BYU TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4253.ts
+#EXTINF:-1,USA| Cartoon Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/4261.ts
+#EXTINF:-1,USA| CBS
+http://vip.groupiptv.com:7000/live/stephen/stephen/4262.ts
+#EXTINF:-1,USA| CBSN-US
+http://vip.groupiptv.com:7000/live/stephen/stephen/4226.ts
+#EXTINF:-1,USA| Cinemax 5 Starmax
+http://vip.groupiptv.com:7000/live/stephen/stephen/4245.ts
+#EXTINF:-1,USA| Cinemax East
+http://vip.groupiptv.com:7000/live/stephen/stephen/4244.ts
+#EXTINF:-1,USA| Cinemax Moremax
+http://vip.groupiptv.com:7000/live/stephen/stephen/4243.ts
+#EXTINF:-1,USA| CityTV Toronto
+http://vip.groupiptv.com:7000/live/stephen/stephen/4210.ts
+#EXTINF:-1,USA| CNBC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4211.ts
+#EXTINF:-1,USA| CNN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4239.ts
+#EXTINF:-1,USA| Crime and Investigation
+http://vip.groupiptv.com:7000/live/stephen/stephen/4266.ts
+#EXTINF:-1,USA| CW
+http://vip.groupiptv.com:7000/live/stephen/stephen/4212.ts
+#EXTINF:-1,USA| Discovery
+http://vip.groupiptv.com:7000/live/stephen/stephen/4238.ts
+#EXTINF:-1,USA| Discovery Science
+http://vip.groupiptv.com:7000/live/stephen/stephen/4260.ts
+#EXTINF:-1,USA| Discovery Velocity
+http://vip.groupiptv.com:7000/live/stephen/stephen/4268.ts
+#EXTINF:-1,USA| E! Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/4216.ts
+#EXTINF:-1,USA| ESPN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4228.ts
+#EXTINF:-1,USA| ESPN 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4229.ts
+#EXTINF:-1,USA| Food Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/4218.ts
+#EXTINF:-1,USA| FOX
+http://vip.groupiptv.com:7000/live/stephen/stephen/4219.ts
+#EXTINF:-1,USA| Fox Sports 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4220.ts
+#EXTINF:-1,USA| Fox Sports 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4221.ts
+#EXTINF:-1,USA| Fox Sports 506
+http://vip.groupiptv.com:7000/live/stephen/stephen/4222.ts
+#EXTINF:-1,USA| FreeRom
+http://vip.groupiptv.com:7000/live/stephen/stephen/4217.ts
+#EXTINF:-1,USA| FX
+http://vip.groupiptv.com:7000/live/stephen/stephen/4223.ts
+#EXTINF:-1,USA| Hallmark
+http://vip.groupiptv.com:7000/live/stephen/stephen/4259.ts
+#EXTINF:-1,USA| HBO
+http://vip.groupiptv.com:7000/live/stephen/stephen/4234.ts
+#EXTINF:-1,USA| HBO Comedy
+http://vip.groupiptv.com:7000/live/stephen/stephen/4236.ts
+#EXTINF:-1,USA| HBO Signature
+http://vip.groupiptv.com:7000/live/stephen/stephen/4235.ts
+#EXTINF:-1,USA| History
+http://vip.groupiptv.com:7000/live/stephen/stephen/4265.ts
+#EXTINF:-1,USA| Music
+http://vip.groupiptv.com:7000/live/stephen/stephen/4267.ts
+#EXTINF:-1,USA| Mute TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4252.ts
+#EXTINF:-1,USA| NASA
+http://vip.groupiptv.com:7000/live/stephen/stephen/4224.ts
+#EXTINF:-1,USA| National Geographic
+http://vip.groupiptv.com:7000/live/stephen/stephen/4264.ts
+#EXTINF:-1,USA| NBA
+http://vip.groupiptv.com:7000/live/stephen/stephen/4250.ts
+#EXTINF:-1,USA| NBA Versus
+http://vip.groupiptv.com:7000/live/stephen/stephen/4251.ts
+#EXTINF:-1,USA| NBC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4213.ts
+#EXTINF:-1,USA| NBC Golf
+http://vip.groupiptv.com:7000/live/stephen/stephen/4214.ts
+#EXTINF:-1,USA| NBC Sport
+http://vip.groupiptv.com:7000/live/stephen/stephen/4215.ts
+#EXTINF:-1,USA| NFL
+http://vip.groupiptv.com:7000/live/stephen/stephen/4240.ts
+#EXTINF:-1,USA| Poker Central
+http://vip.groupiptv.com:7000/live/stephen/stephen/4227.ts
+#EXTINF:-1,USA| RT Documentary
+http://vip.groupiptv.com:7000/live/stephen/stephen/4249.ts
+#EXTINF:-1,USA| Showtime
+http://vip.groupiptv.com:7000/live/stephen/stephen/4232.ts
+#EXTINF:-1,USA| Sports Net 360
+http://vip.groupiptv.com:7000/live/stephen/stephen/4242.ts
+#EXTINF:-1,USA| Sports Net One
+http://vip.groupiptv.com:7000/live/stephen/stephen/4241.ts
+#EXTINF:-1,USA| Starz Cinema
+http://vip.groupiptv.com:7000/live/stephen/stephen/4255.ts
+#EXTINF:-1,USA| Starz East
+http://vip.groupiptv.com:7000/live/stephen/stephen/4258.ts
+#EXTINF:-1,USA| Starz Edge
+http://vip.groupiptv.com:7000/live/stephen/stephen/4256.ts
+#EXTINF:-1,USA| Starz Encore
+http://vip.groupiptv.com:7000/live/stephen/stephen/4257.ts
+#EXTINF:-1,USA| TBS
+http://vip.groupiptv.com:7000/live/stephen/stephen/4248.ts
+#EXTINF:-1,USA| TLC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4233.ts
+#EXTINF:-1,USA| Travel Channel
+http://vip.groupiptv.com:7000/live/stephen/stephen/4247.ts
+#EXTINF:-1,USA| WWE Network
+http://vip.groupiptv.com:7000/live/stephen/stephen/4237.ts

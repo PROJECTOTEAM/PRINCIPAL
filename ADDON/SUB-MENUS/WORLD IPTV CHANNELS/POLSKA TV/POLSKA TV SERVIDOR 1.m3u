@@ -1,197 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,PL | 13 ULICA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15486.ts
-#EXTINF:-1,PL | ALE KINO  HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18526.ts
-#EXTINF:-1,PL | AMAZING
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14830.ts
-#EXTINF:-1,PL | ANIMAL PLANET
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15477.ts
-#EXTINF:-1,PL | ATM Rozrywka
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15490.ts
-#EXTINF:-1,PL | AXN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15479.ts
-#EXTINF:-1,PL | AXN BLACK
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15478.ts
-#EXTINF:-1,PL | AXN SPIN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15474.ts
-#EXTINF:-1,PL | AXN WHITE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15469.ts
-#EXTINF:-1,PL | CANAL+  SPORT 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15488.ts
-#EXTINF:-1,PL | CANAL+ FILM
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15507.ts
-#EXTINF:-1,PL | CANAL+ SERIALE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15480.ts
-#EXTINF:-1,PL | CANAL+ SPORT 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15468.ts
-#EXTINF:-1,PL | CARTOON NETWORK
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15471.ts
-#EXTINF:-1,PL | CINEMAX HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18528.ts
-#EXTINF:-1,PL | Canal+  HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15491.ts
-#EXTINF:-1,PL | DISCOVERY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15475.ts
-#EXTINF:-1,PL | DISCOVERY HISTORIA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15510.ts
-#EXTINF:-1,PL | DISNEY CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15509.ts
-#EXTINF:-1,PL | DISNEY JUNIOR
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15504.ts
-#EXTINF:-1,PL | DISNEY XD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15500.ts
-#EXTINF:-1,PL | ELEVEN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18981.ts
-#EXTINF:-1,PL | ELEVEN EXTRA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18982.ts
-#EXTINF:-1,PL | ELEVEN SPORTS HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18980.ts
-#EXTINF:-1,PL | ESKA BEST MUSIC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17813.ts
-#EXTINF:-1,PL | EUROSPORT 1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18535.ts
-#EXTINF:-1,PL | EUROSPORT 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15482.ts
-#EXTINF:-1,PL | EXTREME SPORT CHANNEL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15476.ts
-#EXTINF:-1,PL | FIGHTBOX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18534.ts
-#EXTINF:-1,PL | FILMBOX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15515.ts
-#EXTINF:-1,PL | FILMBOX ACTION
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18530.ts
-#EXTINF:-1,PL | FILMBOX ARTHOUSE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18529.ts
-#EXTINF:-1,PL | FILMBOX EXTRA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18527.ts
-#EXTINF:-1,PL | FILMBOX FAMILY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18531.ts
-#EXTINF:-1,PL | FILMBOX PREMIUM
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15496.ts
-#EXTINF:-1,PL | FOKUS TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14798.ts
-#EXTINF:-1,PL | FOX COMEDY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15473.ts
-#EXTINF:-1,PL | HBO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17823.ts
-#EXTINF:-1,PL | HBO 2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15514.ts
-#EXTINF:-1,PL | HBO 3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15502.ts
-#EXTINF:-1,PL | HISTORY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15463.ts
-#EXTINF:-1,PL | KINO POLSKA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15464.ts
-#EXTINF:-1,PL | KUCHNIA+ HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15465.ts
-#EXTINF:-1,PL | MUSIC VOX
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17816.ts
-#EXTINF:-1,PL | MUSIC VOX OLDS COOL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17817.ts
-#EXTINF:-1,PL | N Sport +
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15493.ts
-#EXTINF:-1,PL | NAT GEO
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15472.ts
-#EXTINF:-1,PL | NAT GEO WILD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15508.ts
-#EXTINF:-1,PL | NICKELODEON
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15483.ts
-#EXTINF:-1,PL | POLO TV PARTY
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17814.ts
-#EXTINF:-1,PL | POLSAT  1
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17824.ts
-#EXTINF:-1,PL | POLSAT  2
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15499.ts
-#EXTINF:-1,PL | POLSAT SPORT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15467.ts
-#EXTINF:-1,PL | POLSAT SPORT FIGHT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17822.ts
-#EXTINF:-1,PL | Polsat 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18537.ts
-#EXTINF:-1,PL | Polsat Cafe HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18538.ts
-#EXTINF:-1,PL | Polsat Film HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18539.ts
-#EXTINF:-1,PL | Polsat News
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14806.ts
-#EXTINF:-1,PL |  Polsat Play HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18540.ts
-#EXTINF:-1,PL | Polsat Play
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14829.ts
-#EXTINF:-1,PL | Polsat Sport Extra
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14803.ts
-#EXTINF:-1,PL | Polsat Sport News
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14805.ts
-#EXTINF:-1,PL | ROMANCE
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15481.ts
-#EXTINF:-1,PL | SFERA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15466.ts
-#EXTINF:-1,PL | STARS TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17815.ts
-#EXTINF:-1,PL | STELLA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17821.ts
-#EXTINF:-1,PL | STOPKLATKA TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14797.ts
-#EXTINF:-1,PL | SUPER POLSAT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15494.ts
-#EXTINF:-1,PL | TLC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15495.ts
-#EXTINF:-1,PL | TNT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15492.ts
-#EXTINF:-1,PL | TRWAM
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15470.ts
-#EXTINF:-1,PL | TTV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14831.ts
-#EXTINF:-1,PL | TV ASTA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14791.ts
-#EXTINF:-1,PL | TV POLONIA SD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14810.ts
-#EXTINF:-1,PL | TV PULS
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14822.ts
-#EXTINF:-1,PL | TV TORUN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17820.ts
-#EXTINF:-1,PL | TV3
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14811.ts
-#EXTINF:-1,PL | TV4 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18536.ts
-#EXTINF:-1,PL | TV6
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14817.ts
-#EXTINF:-1,PL | TV7
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14812.ts
-#EXTINF:-1,PL | TVN
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15513.ts
-#EXTINF:-1,PL | TVN 24
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15505.ts
-#EXTINF:-1,PL | TVN Style
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15512.ts
-#EXTINF:-1,PL | TVP 1 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15518.ts
-#EXTINF:-1,PL | TVP 2 HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15517.ts
-#EXTINF:-1,PL | TVP ABC
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17818.ts
-#EXTINF:-1,PL | TVP HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18532.ts
-#EXTINF:-1,PL | TVP SPORT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15516.ts
-#EXTINF:-1,PL | TVP SPORT HD
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/18533.ts
-#EXTINF:-1,PL | TVT
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15460.ts
-#EXTINF:-1,PL | TWOJA TV
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/17819.ts
-#EXTINF:-1,PL | TVP HISTORIA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15462.ts
-#EXTINF:-1,PL | UNIVERSAL
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15511.ts
-#EXTINF:-1,PL | VIVA POLSKA
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15487.ts
-#EXTINF:-1,PL | WP
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/15503.ts
-#EXTINF:-1,PL | WTK
-http://live.darkside-iptv.com:8080/live/asd@web.de/63lSkz1H7t/14814.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,PL VIP | Astra
+http://vip.groupiptv.com:7000/live/stephen/stephen/4666.ts
+#EXTINF:-1,PL VIP | AXN White
+http://vip.groupiptv.com:7000/live/stephen/stephen/4662.ts
+#EXTINF:-1,PL VIP | BBC
+http://vip.groupiptv.com:7000/live/stephen/stephen/4661.ts
+#EXTINF:-1,PL VIP | Eleven Sports
+http://vip.groupiptv.com:7000/live/stephen/stephen/4658.ts
+#EXTINF:-1,PL VIP | Filmbox Arthouse
+http://vip.groupiptv.com:7000/live/stephen/stephen/4659.ts
+#EXTINF:-1,PL VIP | Filmbox Premium
+http://vip.groupiptv.com:7000/live/stephen/stephen/4664.ts
+#EXTINF:-1,PL VIP | Polsat 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4660.ts
+#EXTINF:-1,PL VIP | Polsat Sport
+http://vip.groupiptv.com:7000/live/stephen/stephen/4656.ts
+#EXTINF:-1,PL VIP | Polsat Sport Extra
+http://vip.groupiptv.com:7000/live/stephen/stephen/4657.ts
+#EXTINF:-1,PL VIP | Star TV
+http://vip.groupiptv.com:7000/live/stephen/stephen/4665.ts
+#EXTINF:-1,PL VIP | Trwam
+http://vip.groupiptv.com:7000/live/stephen/stephen/4667.ts
+#EXTINF:-1,PL VIP | TV Republika
+http://vip.groupiptv.com:7000/live/stephen/stephen/4655.ts
+#EXTINF:-1,PL VIP | TVN
+http://vip.groupiptv.com:7000/live/stephen/stephen/4654.ts
+#EXTINF:-1,PL VIP | TVN Style
+http://vip.groupiptv.com:7000/live/stephen/stephen/4663.ts
+#EXTINF:-1,PL VIP | TVP 1
+http://vip.groupiptv.com:7000/live/stephen/stephen/4652.ts
+#EXTINF:-1,PL VIP | TVP 2
+http://vip.groupiptv.com:7000/live/stephen/stephen/4653.ts
