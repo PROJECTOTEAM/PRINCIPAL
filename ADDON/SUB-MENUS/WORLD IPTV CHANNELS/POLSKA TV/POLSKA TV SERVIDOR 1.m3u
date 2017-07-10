@@ -1,45 +1,351 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
-
-
-
-
-#EXTINF:-1,PL VIP | Astra
-http://vip.groupiptv.com:7000/live/stephen/stephen/4666.ts
-#EXTINF:-1,PL VIP | AXN White
-http://vip.groupiptv.com:7000/live/stephen/stephen/4662.ts
-#EXTINF:-1,PL VIP | BBC
-http://vip.groupiptv.com:7000/live/stephen/stephen/4661.ts
-#EXTINF:-1,PL VIP | Eleven Sports
-http://vip.groupiptv.com:7000/live/stephen/stephen/4658.ts
-#EXTINF:-1,PL VIP | Filmbox Arthouse
-http://vip.groupiptv.com:7000/live/stephen/stephen/4659.ts
-#EXTINF:-1,PL VIP | Filmbox Premium
-http://vip.groupiptv.com:7000/live/stephen/stephen/4664.ts
-#EXTINF:-1,PL VIP | Polsat 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/4660.ts
-#EXTINF:-1,PL VIP | Polsat Sport
-http://vip.groupiptv.com:7000/live/stephen/stephen/4656.ts
-#EXTINF:-1,PL VIP | Polsat Sport Extra
-http://vip.groupiptv.com:7000/live/stephen/stephen/4657.ts
-#EXTINF:-1,PL VIP | Star TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/4665.ts
-#EXTINF:-1,PL VIP | Trwam
-http://vip.groupiptv.com:7000/live/stephen/stephen/4667.ts
-#EXTINF:-1,PL VIP | TV Republika
-http://vip.groupiptv.com:7000/live/stephen/stephen/4655.ts
-#EXTINF:-1,PL VIP | TVN
-http://vip.groupiptv.com:7000/live/stephen/stephen/4654.ts
-#EXTINF:-1,PL VIP | TVN Style
-http://vip.groupiptv.com:7000/live/stephen/stephen/4663.ts
-#EXTINF:-1,PL VIP | TVP 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/4652.ts
-#EXTINF:-1,PL VIP | TVP 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/4653.ts
+#EXTINF:-1,13 Ulica HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15100.ts
+#EXTINF:-1,Adventure HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15205.ts
+#EXTINF:-1,AMC Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15218.ts
+#EXTINF:-1,AXN Black PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11512.ts
+#EXTINF:-1,AXN Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11699.ts
+#EXTINF:-1,AXN Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11511.ts
+#EXTINF:-1,AXN Spin HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11629.ts
+#EXTINF:-1,AXN White PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11513.ts
+#EXTINF:-1,DTX PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11196.ts
+#EXTINF:-1,Ale kino+ HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15219.ts
+#EXTINF:-1,Animal Planet HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13540.ts
+#EXTINF:-1,BBC Earth PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13538.ts
+#EXTINF:-1,BBC HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13537.ts
+#EXTINF:-1,Boomerang PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11522.ts
+#EXTINF:-1,Canal + »1 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15204.ts
+#EXTINF:-1, Canal + Discovery HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15217.ts
+#EXTINF:-1,Canal + Family HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15216.ts
+#EXTINF:-1,Canal + Film HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15215.ts
+#EXTINF:-1,Canal + Seriale HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15214.ts
+#EXTINF:-1,CBS Drama PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11517.ts
+#EXTINF:-1,CBS Europa HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15202.ts
+#EXTINF:-1,CBS Reality PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11518.ts
+#EXTINF:-1,Comedy Central Family Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11704.ts
+#EXTINF:-1,Canal + HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13530.ts
+#EXTINF:-1,Canal + Sport HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13535.ts
+#EXTINF:-1,CANAL+ Sport 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15709.ts
+#EXTINF:-1,Cartoon Network HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15203.ts
+#EXTINF:-1,Cinemax HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15710.ts
+#EXTINF:-1,Cinemax 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15099.ts
+#EXTINF:-1,Comedy Central Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11707.ts
+#EXTINF:-1,Domo+ HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15199.ts
+#EXTINF:-1,Discovery Channel HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15213.ts
+#EXTINF:-1,Discovery Historia PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15098.ts
+#EXTINF:-1,Discovery Life PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11520.ts
+#EXTINF:-1,Discovery Science HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15201.ts
+#EXTINF:-1,Discovery Science PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11521.ts
+#EXTINF:-1,DTX HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15212.ts
+#EXTINF:-1,Metro PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11195.ts
+#EXTINF:-1,Disney Channel HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11523.ts
+#EXTINF:-1,Disney Junior PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15200.ts
+#EXTINF:-1,Disney XD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11524.ts
+#EXTINF:-1,Eleven Extra HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15097.ts
+#EXTINF:-1,Eleven HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15198.ts
+#EXTINF:-1,Eleven Sports HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15197.ts
+#EXTINF:-1,8TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11197.ts
+#EXTINF:-1,Eurosport 1 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15096.ts
+#EXTINF:-1,Eurosport 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15195.ts
+#EXTINF:-1,Extreme Sports HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15194.ts
+#EXTINF:-1,FightBox HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15095.ts
+#EXTINF:-1,Fight Klub HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15193.ts
+#EXTINF:-1,FilmBox Extra HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15094.ts
+#EXTINF:-1,FilmBox Action PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11508.ts
+#EXTINF:-1,FilmBox Family PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11509.ts
+#EXTINF:-1,FilmBox PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11507.ts
+#EXTINF:-1,FilmBox Premium PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11510.ts
+#EXTINF:-1,Fokus TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12821.ts
+#EXTINF:-1,Fox Comedy Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11698.ts
+#EXTINF:-1,Fox Comedy Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11634.ts
+#EXTINF:-1,Fox Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11697.ts
+#EXTINF:-1,H2 Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15093.ts
+#EXTINF:-1,HBO HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13526.ts
+#EXTINF:-1,HBO 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13527.ts
+#EXTINF:-1,HBO 3 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15092.ts
+#EXTINF:-1,Hip Hop TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12818.ts
+#EXTINF:-1,History HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15091.ts
+#EXTINF:-1,NOWA TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11193.ts
+#EXTINF:-1,Investigation Discovery HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15211.ts
+#EXTINF:-1,Kino Polska Muzyka PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15090.ts
+#EXTINF:-1,Kino Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11192.ts
+#EXTINF:-1,Kuchnia + HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15210.ts
+#EXTINF:-1,Lifetime HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15089.ts
+#EXTINF:-1,MTV Live HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11703.ts
+#EXTINF:-1,MTV Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11702.ts
+#EXTINF:-1,MiniMini + HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15088.ts
+#EXTINF:-1,Motowizja PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13523.ts
+#EXTINF:-1,NTL PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15190.ts
+#EXTINF:-1,National Geographic HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15087.ts
+#EXTINF:-1,National Geographic Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11515.ts
+#EXTINF:-1,National Geographic People HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15191.ts
+#EXTINF:-1,National Geographic Wild HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15711.ts
+#EXTINF:-1,National Geographic Wild PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11516.ts
+#EXTINF:-1,Nick Jr PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11706.ts
+#EXTINF:-1,Nickelodeon PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11705.ts
+#EXTINF:-1,Power TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15187.ts
+#EXTINF:-1,HGTV HD  PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11188.ts
+#EXTINF:-1,Planete + Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15208.ts
+#EXTINF:-1,Polo TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13517.ts
+#EXTINF:-1,Polonia 1 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11711.ts
+#EXTINF:-1,Polsat 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12817.ts
+#EXTINF:-1,Polsat 2 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11185.ts
+#EXTINF:-1,Polsat Café HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11198.ts
+#EXTINF:-1,HGTV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11184.ts
+#EXTINF:-1,Polsat Film HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15086.ts
+#EXTINF:-1,Polsat Film PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11183.ts
+#EXTINF:-1,Polsat HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11696.ts
+#EXTINF:-1,JimJam Polsat PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11710.ts
+#EXTINF:-1,Polsat News 2 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11181.ts
+#EXTINF:-1,Polsat News HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15085.ts
+#EXTINF:-1,Eska TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11182.ts
+#EXTINF:-1,Polsat PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11186.ts
+#EXTINF:-1,Polsat Play HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11177.ts
+#EXTINF:-1,Polsat Play PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11180.ts
+#EXTINF:-1,Polsat Romans PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11709.ts
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11201.ts
+#EXTINF:-1,Polsat Sport Fight HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15188.ts
+#EXTINF:-1,Polsat Sport HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11200.ts
+#EXTINF:-1,Super Polsat PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11199.ts
+#EXTINF:-1,Polsat Viasat History HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15084.ts
+#EXTINF:-1,Puls 2 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15185.ts
+#EXTINF:-1,Romance TV Polska HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15207.ts
+#EXTINF:-1,Sport Klub Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15083.ts
+#EXTINF:-1,Stars TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15082.ts
+#EXTINF:-1,Tele 5 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11630.ts
+#EXTINF:-1,TLC HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15080.ts
+#EXTINF:-1,TLC PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11632.ts
+#EXTINF:-1,TNT HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15184.ts
+#EXTINF:-1,TOTV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15183.ts
+#EXTINF:-1,TTV HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15181.ts
+#EXTINF:-1,TV 4 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11178.ts
+#EXTINF:-1,TV 4 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11179.ts
+#EXTINF:-1,TVP Info HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15078.ts
+#EXTINF:-1,TV 6 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11708.ts
+#EXTINF:-1,TVN 24 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15180.ts
+#EXTINF:-1,TVN 24 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11171.ts
+#EXTINF:-1,TVN 24 BiS PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11170.ts
+#EXTINF:-1,TVN 7 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15179.ts
+#EXTINF:-1,TVN Fabuła HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15178.ts
+#EXTINF:-1,TVN HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15177.ts
+#EXTINF:-1,TVN PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11176.ts
+#EXTINF:-1,TVN Style HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15176.ts
+#EXTINF:-1,TVN Style PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11173.ts
+#EXTINF:-1,TVN Turbo HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15175.ts
+#EXTINF:-1,TVN Turbo PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11172.ts
+#EXTINF:-1,TVN 7 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13539.ts
+#EXTINF:-1,TVP 1 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12810.ts
+#EXTINF:-1,TVP 2 HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12811.ts
+#EXTINF:-1,TVP 3 Warszawa PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15077.ts
+#EXTINF:-1,TVP ABC PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15076.ts
+#EXTINF:-1,TVP Polonia HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12809.ts
+#EXTINF:-1,TVP Historia PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15075.ts
+#EXTINF:-1,TVP Info PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15074.ts
+#EXTINF:-1,TVP Seriale PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11514.ts
+#EXTINF:-1,TVP Sport HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12826.ts
+#EXTINF:-1,TVS PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12820.ts
+#EXTINF:-1,Trace Urban PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15079.ts
+#EXTINF:-1,Da Vinci Learning PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15182.ts
+#EXTINF:-1,Universal Channel HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15073.ts
+#EXTINF:-1,VH1 Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11701.ts
+#EXTINF:-1,VIVA Polska PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11700.ts
+#EXTINF:-1,VOX Music TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15174.ts
+#EXTINF:-1,Zest TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15072.ts
+#EXTINF:-1,N Sport + HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15209.ts
+#EXTINF:-1,Teletoon + HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15206.ts
+#EXTINF:-1,Eska Party TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16266.ts
+#EXTINF:-1,4 Fun Dance PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16291.ts
+#EXTINF:-1,4 Fun Gold Hits PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16290.ts
+#EXTINF:-1,4 Fun TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16289.ts
+#EXTINF:-1,CBS Action PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16288.ts
+#EXTINF:-1,FilmBox Arthouse PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16287.ts
+#EXTINF:-1,History PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16286.ts
+#EXTINF:-1,Stopklatka TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16284.ts
+#EXTINF:-1,TV Republika PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16283.ts
+#EXTINF:-1,TVP Rozrywka PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16282.ts
+#EXTINF:-1,VOD 202 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16281.ts
+#EXTINF:-1,VOD 204 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16280.ts
+#EXTINF:-1,VOD 205 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16279.ts
+#EXTINF:-1,VOD 206 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16278.ts
+#EXTINF:-1,VOD 207 PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16277.ts
+#EXTINF:-1,Polsat Music HD PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16275.ts
+#EXTINF:-1,Wellbeing Network PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16274.ts
+#EXTINF:-1,Zoom TV PL
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16271.ts

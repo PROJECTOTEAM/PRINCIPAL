@@ -1,967 +1,1162 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-#EXTINF:0,BBC One HD
-http://185.22.78.73:9001/play/a00d
-#EXTINF:0,BBC One NI HD
-http://185.22.78.73:9001/play/a00c
-#EXTINF:0,CBBC HD
-http://185.22.78.73:9001/play/a00b
-#EXTINF:0,BBC Two HD
-http://185.22.78.73:9001/play/a00e
-#EXTINF:0,Spike + 1
-http://185.22.78.73:9002/play/a008
-#EXTINF:0,Channel 5HD
-http://185.22.78.73:9002/play/a007
-#EXTINF:0,5 USA
-http://185.22.78.73:9002/play/a004
-#EXTINF:0,5STAR
-http://185.22.78.73:9002/play/a005
-#EXTINF:0,Spike
-http://185.22.78.73:9002/play/a002
-#EXTINF:0,5STAR +1
-http://185.22.78.73:9002/play/a009
-#EXTINF:0,5 USA +1
-http://185.22.78.73:9002/play/a00a
-#EXTINF:0,My5
-http://185.22.78.73:9002/play/a006
-#EXTINF:0,Channel 5
-http://185.22.78.73:9002/play/a003
-#EXTINF:0,BBC One Wal HD
-http://185.22.78.73:9003/play/a003
-#EXTINF:0,BBC One ScotHD
-http://185.22.78.73:9003/play/a002
-#EXTINF:0,BBC Four HD
-http://185.22.78.73:9003/play/a007
-#EXTINF:0,CBeebies HD
-http://185.22.78.73:9003/play/a00b
-#EXTINF:0,BBC NEWS HD
-http://185.22.78.73:9003/play/a004
-#EXTINF:0,ITV
-http://185.22.78.73:9004/play/a00a
-#EXTINF:0,ITV Central West
-http://185.22.78.73:9004/play/a008
-#EXTINF:0,ITV4
-http://185.22.78.73:9004/play/a006
-#EXTINF:0,ITV2
-http://185.22.78.73:9004/play/a005
-#EXTINF:0,ITV Granada
-http://185.22.78.73:9004/play/a004
-#EXTINF:0,ITV London
-http://185.22.78.73:9004/play/a002
-#EXTINF:0,ITV4+1
-http://185.22.78.73:9004/play/a00c
-#EXTINF:0,ITVi Stream 44
-http://185.22.78.73:9004/play/a00b
-#EXTINF:0,ITV Anglia East
-http://185.22.78.73:9004/play/a003
-#EXTINF:0,ITVBe
-http://185.22.78.73:9004/play/a009
-#EXTINF:0,ITV London HD
-http://185.22.78.73:9005/play/a006
-#EXTINF:0,ITV Meridian East HD
-http://185.22.78.73:9005/play/a004
-#EXTINF:0,ITV Yorkshire West HD
-http://185.22.78.73:9005/play/a003
-#EXTINF:0,ITV Central West HD
-http://185.22.78.73:9005/play/a005
-#EXTINF:0,Channel 4 HD
-http://185.22.78.73:9006/play/a003
-#EXTINF:0,4seven
-http://185.22.78.73:9006/play/a002
-#EXTINF:3000,movies4men
-http://185.22.78.73:9007/play/a002
-#EXTINF:0,mov4men+1
-http://185.22.78.73:9007/play/a003
-#EXTINF:0,Peace TV Urdu
-http://185.22.78.73:9007/play/a004
-#EXTINF:0,Newstalk
-http://185.22.78.73:9007/play/a008
-#EXTINF:0,More4
-http://185.22.78.73:9008/play/a003
-#EXTINF:0,E4
-http://185.22.78.73:9008/play/a002
-#EXTINF:0,E4+1
-http://185.22.78.73:9008/play/a006
-#EXTINF:0,Channel 4 +1
-http://185.22.78.73:9008/play/a005
-#EXTINF:0,The Vault
-http://185.22.78.73:9009/play/a007
-#EXTINF:0,Starz TV
-http://185.22.78.73:9009/play/a003
-#EXTINF:0,Scuzz
-http://185.22.78.73:9009/play/a008
-#EXTINF:0,True Ent
-http://185.22.78.73:9009/play/a00b
-#EXTINF:0,True Ent +1
-http://185.22.78.73:9009/play/a00e
-#EXTINF:0,Chart Show TV
-http://185.22.78.73:9009/play/a002
-#EXTINF:0,True Movies
-http://185.22.78.73:9009/play/a004
-#EXTINF:0,POP+1
-http://185.22.78.73:9009/play/a00d
-#EXTINF:0,tru TV
-http://185.22.78.73:9009/play/a00c
-#EXTINF:0,Kix
-http://185.22.78.73:9009/play/a00a
-#EXTINF:0,Chartshow Hits
-http://185.22.78.73:9009/play/a009
-#EXTINF:0,POP
-http://185.22.78.73:9009/play/a005
-#EXTINF:0,Tiny Pop
-http://185.22.78.73:9009/play/a006
-#EXTINF:0,CBS Drama
-http://185.22.78.73:9010/play/a002
-#EXTINF:0,horror channel
-http://185.22.78.73:9010/play/a003
-#EXTINF:0,CBS Action
-http://185.22.78.73:9010/play/a006
-#EXTINF:0,High Street TV 2
-http://185.22.78.73:9010/play/a00c
-#EXTINF:0,Psychic Today
-http://185.22.78.73:9010/play/a008
-#EXTINF:0,Babestation Blue
-http://185.22.78.73:9010/play/a004
-#EXTINF:0,CBS Reality
-http://185.22.78.73:9010/play/a005
-#EXTINF:0,CBS Reality+1
-http://185.22.78.73:9010/play/a009
-#EXTINF:0,horror ch+1
-http://185.22.78.73:9010/play/a00a
-#EXTINF:0,Lucky Star
-http://185.22.78.73:9010/play/a00b
-#EXTINF:0,S4C
-http://185.22.78.73:9010/play/a007
-#EXTINF:0,Food Netwrk+1
-http://185.22.78.73:9011/play/a00c
-#EXTINF:0,Food Network
-http://185.22.78.73:9011/play/a005
-#EXTINF:0,Dunya News
-http://185.22.78.73:9011/play/a009
-#EXTINF:0,New Vision +1
-http://185.22.78.73:9011/play/a00d
-#EXTINF:0,Gems TV
-http://185.22.78.73:9011/play/a00a
-#EXTINF:0,True Crime
-http://185.22.78.73:9011/play/a002
-#EXTINF:0,TV5 MONDE
-http://185.22.78.73:9011/play/a003
-#EXTINF:0,Babenation
-http://185.22.78.73:9011/play/a004
-#EXTINF:0,FRANCE Eng
-http://185.22.78.73:9011/play/a006
-#EXTINF:0,PBS America
-http://185.22.78.73:9011/play/a008
-#EXTINF:0,Craft Extra
-http://185.22.78.73:9011/play/a00b
-#EXTINF:0,YourTV
-http://185.22.78.73:9011/play/a007
-#EXTINF:3900,Channel 4 Northern Ireland
-http://185.22.78.73:9012/play/a006
-#EXTINF:0,Channel 4 South & East
-http://185.22.78.73:9012/play/a003
-#EXTINF:0,More4 +1
-http://185.22.78.73:9012/play/a00b
-#EXTINF:0,Channel 4 London
-http://185.22.78.73:9012/play/a002
-#EXTINF:0,4Music
-http://185.22.78.73:9012/play/a009
-#EXTINF:0,Film4 +1
-http://185.22.78.73:9012/play/a00a
-#EXTINF:0,Channel 4 Scotland
-http://185.22.78.73:9012/play/a007
-#EXTINF:0,Channel 4 North
-http://185.22.78.73:9012/play/a005
-#EXTINF:0,Channel 4 Midlands
-http://185.22.78.73:9012/play/a004
-#EXTINF:0,Film4
-http://185.22.78.73:9012/play/a008
-#EXTINF:0,Forces TV
-http://185.22.78.73:9013/play/a003
-#EXTINF:0,Challenge+1
-http://185.22.78.73:9013/play/a005
-#EXTINF:0,Challenge
-http://185.22.78.73:9013/play/a002
-#EXTINF:0,Drama
-http://185.22.78.73:9014/play/a003
-#EXTINF:0,Really
-http://185.22.78.73:9014/play/a004
-#EXTINF:0,YESTERDAY
-http://185.22.78.73:9014/play/a002
-#EXTINF:1800,Pick
-http://185.22.78.73:9015/play/a00i
-#EXTINF:0,Sky News
-http://185.22.78.73:9015/play/a00h
-#EXTINF:0,Box Hits
-http://185.22.78.73:9016/play/a002
-#EXTINF:0,Box Upfront
-http://185.22.78.73:9016/play/a006
-#EXTINF:0,Magic
-http://185.22.78.73:9016/play/a007
-#EXTINF:0,Kerrang!
-http://185.22.78.73:9016/play/a004
-#EXTINF:0,KISS
-http://185.22.78.73:9016/play/a005
-#EXTINF:0,The Box
-http://185.22.78.73:9016/play/a003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:0,BBC One HD
-http://185.22.78.73:9001/play/a00d
-#EXTINF:0,BBC One NI HD
-http://185.22.78.73:9001/play/a00c
-#EXTINF:0,CBBC HD
-http://185.22.78.73:9001/play/a00b
-#EXTINF:0,BBC Two HD
-http://185.22.78.73:9001/play/a00e
-#EXTINF:0,Spike + 1
-http://185.22.78.73:9002/play/a008
-#EXTINF:0,Channel 5HD
-http://185.22.78.73:9002/play/a007
-#EXTINF:0,5 USA
-http://185.22.78.73:9002/play/a004
-#EXTINF:0,5STAR
-http://185.22.78.73:9002/play/a005
-#EXTINF:0,Spike
-http://185.22.78.73:9002/play/a002
-#EXTINF:0,5STAR +1
-http://185.22.78.73:9002/play/a009
-#EXTINF:0,5 USA +1
-http://185.22.78.73:9002/play/a00a
-#EXTINF:0,My5
-http://185.22.78.73:9002/play/a006
-#EXTINF:0,Channel 5
-http://185.22.78.73:9002/play/a003
-#EXTINF:0,BBC One Wal HD
-http://185.22.78.73:9003/play/a003
-#EXTINF:0,BBC One ScotHD
-http://185.22.78.73:9003/play/a002
-#EXTINF:0,BBC Four HD
-http://185.22.78.73:9003/play/a007
-#EXTINF:0,CBeebies HD
-http://185.22.78.73:9003/play/a00b
-#EXTINF:0,BBC NEWS HD
-http://185.22.78.73:9003/play/a004
-#EXTINF:0,ITV
-http://185.22.78.73:9004/play/a00a
-#EXTINF:0,ITV Central West
-http://185.22.78.73:9004/play/a008
-#EXTINF:0,ITV4
-http://185.22.78.73:9004/play/a006
-#EXTINF:0,ITV2
-http://185.22.78.73:9004/play/a005
-#EXTINF:0,ITV Granada
-http://185.22.78.73:9004/play/a004
-#EXTINF:0,ITV London
-http://185.22.78.73:9004/play/a002
-#EXTINF:0,ITV4+1
-http://185.22.78.73:9004/play/a00c
-#EXTINF:0,ITVi Stream 44
-http://185.22.78.73:9004/play/a00b
-#EXTINF:0,ITV Anglia East
-http://185.22.78.73:9004/play/a003
-#EXTINF:0,ITVBe
-http://185.22.78.73:9004/play/a009
-#EXTINF:0,ITV London HD
-http://185.22.78.73:9005/play/a006
-#EXTINF:0,ITV Meridian East HD
-http://185.22.78.73:9005/play/a004
-#EXTINF:0,ITV Yorkshire West HD
-http://185.22.78.73:9005/play/a003
-#EXTINF:0,ITV Central West HD
-http://185.22.78.73:9005/play/a005
-#EXTINF:0,Channel 4 HD
-http://185.22.78.73:9006/play/a003
-#EXTINF:0,4seven
-http://185.22.78.73:9006/play/a002
-#EXTINF:3000,movies4men
-http://185.22.78.73:9007/play/a002
-#EXTINF:0,mov4men+1
-http://185.22.78.73:9007/play/a003
-#EXTINF:0,Peace TV Urdu
-http://185.22.78.73:9007/play/a004
-#EXTINF:0,Newstalk
-http://185.22.78.73:9007/play/a008
-#EXTINF:0,More4
-http://185.22.78.73:9008/play/a003
-#EXTINF:0,E4
-http://185.22.78.73:9008/play/a002
-#EXTINF:0,E4+1
-http://185.22.78.73:9008/play/a006
-#EXTINF:0,Channel 4 +1
-http://185.22.78.73:9008/play/a005
-#EXTINF:0,The Vault
-http://185.22.78.73:9009/play/a007
-#EXTINF:0,Starz TV
-http://185.22.78.73:9009/play/a003
-#EXTINF:0,Scuzz
-http://185.22.78.73:9009/play/a008
-#EXTINF:0,True Ent
-http://185.22.78.73:9009/play/a00b
-#EXTINF:0,True Ent +1
-http://185.22.78.73:9009/play/a00e
-#EXTINF:0,Chart Show TV
-http://185.22.78.73:9009/play/a002
-#EXTINF:0,True Movies
-http://185.22.78.73:9009/play/a004
-#EXTINF:0,POP+1
-http://185.22.78.73:9009/play/a00d
-#EXTINF:0,tru TV
-http://185.22.78.73:9009/play/a00c
-#EXTINF:0,Kix
-http://185.22.78.73:9009/play/a00a
-#EXTINF:0,Chartshow Hits
-http://185.22.78.73:9009/play/a009
-#EXTINF:0,POP
-http://185.22.78.73:9009/play/a005
-#EXTINF:0,Tiny Pop
-http://185.22.78.73:9009/play/a006
-#EXTINF:0,CBS Drama
-http://185.22.78.73:9010/play/a002
-#EXTINF:0,horror channel
-http://185.22.78.73:9010/play/a003
-#EXTINF:0,CBS Action
-http://185.22.78.73:9010/play/a006
-#EXTINF:0,High Street TV 2
-http://185.22.78.73:9010/play/a00c
-#EXTINF:0,Psychic Today
-http://185.22.78.73:9010/play/a008
-#EXTINF:0,Babestation Blue
-http://185.22.78.73:9010/play/a004
-#EXTINF:0,CBS Reality
-http://185.22.78.73:9010/play/a005
-#EXTINF:0,CBS Reality+1
-http://185.22.78.73:9010/play/a009
-#EXTINF:0,horror ch+1
-http://185.22.78.73:9010/play/a00a
-#EXTINF:0,Lucky Star
-http://185.22.78.73:9010/play/a00b
-#EXTINF:0,S4C
-http://185.22.78.73:9010/play/a007
-#EXTINF:0,Food Netwrk+1
-http://185.22.78.73:9011/play/a00c
-#EXTINF:0,Food Network
-http://185.22.78.73:9011/play/a005
-#EXTINF:0,Dunya News
-http://185.22.78.73:9011/play/a009
-#EXTINF:0,New Vision +1
-http://185.22.78.73:9011/play/a00d
-#EXTINF:0,Gems TV
-http://185.22.78.73:9011/play/a00a
-#EXTINF:0,True Crime
-http://185.22.78.73:9011/play/a002
-#EXTINF:0,TV5 MONDE
-http://185.22.78.73:9011/play/a003
-#EXTINF:0,Babenation
-http://185.22.78.73:9011/play/a004
-#EXTINF:0,FRANCE Eng
-http://185.22.78.73:9011/play/a006
-#EXTINF:0,PBS America
-http://185.22.78.73:9011/play/a008
-#EXTINF:0,Craft Extra
-http://185.22.78.73:9011/play/a00b
-#EXTINF:0,YourTV
-http://185.22.78.73:9011/play/a007
-#EXTINF:3900,Channel 4 Northern Ireland
-http://185.22.78.73:9012/play/a006
-#EXTINF:0,Channel 4 South & East
-http://185.22.78.73:9012/play/a003
-#EXTINF:0,More4 +1
-http://185.22.78.73:9012/play/a00b
-#EXTINF:0,Channel 4 London
-http://185.22.78.73:9012/play/a002
-#EXTINF:0,4Music
-http://185.22.78.73:9012/play/a009
-#EXTINF:0,Film4 +1
-http://185.22.78.73:9012/play/a00a
-#EXTINF:0,Channel 4 Scotland
-http://185.22.78.73:9012/play/a007
-#EXTINF:0,Channel 4 North
-http://185.22.78.73:9012/play/a005
-#EXTINF:0,Channel 4 Midlands
-http://185.22.78.73:9012/play/a004
-#EXTINF:0,Film4
-http://185.22.78.73:9012/play/a008
-#EXTINF:0,Forces TV
-http://185.22.78.73:9013/play/a003
-#EXTINF:0,Challenge+1
-http://185.22.78.73:9013/play/a005
-#EXTINF:0,Challenge
-http://185.22.78.73:9013/play/a002
-#EXTINF:0,Drama
-http://185.22.78.73:9014/play/a003
-#EXTINF:0,Really
-http://185.22.78.73:9014/play/a004
-#EXTINF:0,YESTERDAY
-http://185.22.78.73:9014/play/a002
-#EXTINF:1800,Pick
-http://185.22.78.73:9015/play/a00i
-#EXTINF:0,Sky News
-http://185.22.78.73:9015/play/a00h
-#EXTINF:0,Box Hits
-http://185.22.78.73:9016/play/a002
-#EXTINF:0,Box Upfront
-http://185.22.78.73:9016/play/a006
-#EXTINF:0,Magic
-http://185.22.78.73:9016/play/a007
-#EXTINF:0,Kerrang!
-http://185.22.78.73:9016/play/a004
-#EXTINF:0,KISS
-http://185.22.78.73:9016/play/a005
-#EXTINF:0,The Box
-http://185.22.78.73:9016/play/a003
-
-
-
-
-
-
-#EXTINF:-1,UK | 3e
-http://vip.groupiptv.com:7000/live/stephen/stephen/3478.ts
-#EXTINF:-1,UK | 5 Star
-http://vip.groupiptv.com:7000/live/stephen/stephen/3479.ts
-#EXTINF:-1,UK | 5 USA
-http://vip.groupiptv.com:7000/live/stephen/stephen/3480.ts
-#EXTINF:-1,UK | Alibi
-http://vip.groupiptv.com:7000/live/stephen/stephen/3481.ts
-#EXTINF:-1,UK | Animal Planet
-http://vip.groupiptv.com:7000/live/stephen/stephen/3482.ts
-#EXTINF:-1,UK | At The Races
-http://vip.groupiptv.com:7000/live/stephen/stephen/3483.ts
-#EXTINF:-1,UK | Baby TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/3484.ts
-#EXTINF:-1,UK | BBC 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3485.ts
-#EXTINF:-1,UK | BBC 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3486.ts
-#EXTINF:-1,UK | BBC 3
-http://vip.groupiptv.com:7000/live/stephen/stephen/3487.ts
-#EXTINF:-1,UK | BBC 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3488.ts
-#EXTINF:-1,UK | BBC Entertainment
-http://vip.groupiptv.com:7000/live/stephen/stephen/3489.ts
-#EXTINF:-1,UK | BBC World News
-http://vip.groupiptv.com:7000/live/stephen/stephen/3490.ts
-#EXTINF:-1,UK | Bloomberg
-http://vip.groupiptv.com:7000/live/stephen/stephen/3491.ts
-#EXTINF:-1,UK | Boomerang
-http://vip.groupiptv.com:7000/live/stephen/stephen/3492.ts
-#EXTINF:-1,UK | Boxnation
-http://vip.groupiptv.com:7000/live/stephen/stephen/3493.ts
-#EXTINF:-1,UK | BT Sport 1 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3494.ts
-#EXTINF:-1,UK | BT Sport 2 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3495.ts
-#EXTINF:-1,UK | BT Sport Europe
-http://vip.groupiptv.com:7000/live/stephen/stephen/3498.ts
-#EXTINF:-1,UK | BT Sport Extra 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3499.ts
-#EXTINF:-1,UK | BT Sport Extra 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3500.ts
-#EXTINF:-1,UK | BT Sport Extra 3
-http://vip.groupiptv.com:7000/live/stephen/stephen/3501.ts
-#EXTINF:-1,UK | BT Sport Extra 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3502.ts
-#EXTINF:-1,UK | BT Sport Extra 5
-http://vip.groupiptv.com:7000/live/stephen/stephen/3503.ts
-#EXTINF:-1,UK | BT Sport Extra 6
-http://vip.groupiptv.com:7000/live/stephen/stephen/3504.ts
-#EXTINF:-1,UK | BT Sports 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3496.ts
-#EXTINF:-1,UK | BT Sports 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3497.ts
-#EXTINF:-1,UK | Cartoon Network
-http://vip.groupiptv.com:7000/live/stephen/stephen/3506.ts
-#EXTINF:-1,UK | Cartoonito
-http://vip.groupiptv.com:7000/live/stephen/stephen/3505.ts
-#EXTINF:-1,UK | Cbeebies
-http://vip.groupiptv.com:7000/live/stephen/stephen/3507.ts
-#EXTINF:-1,UK | CBS Action
-http://vip.groupiptv.com:7000/live/stephen/stephen/3508.ts
-#EXTINF:-1,UK | CBS Drama
-http://vip.groupiptv.com:7000/live/stephen/stephen/3509.ts
-#EXTINF:-1,UK | CBS Reality
-http://vip.groupiptv.com:7000/live/stephen/stephen/3510.ts
-#EXTINF:-1,UK | Channel 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3511.ts
-#EXTINF:-1,UK | Channel 5
-http://vip.groupiptv.com:7000/live/stephen/stephen/3512.ts
-#EXTINF:-1,UK | Chelsea FC
-http://vip.groupiptv.com:7000/live/stephen/stephen/3513.ts
-#EXTINF:-1,UK | CNN
-http://vip.groupiptv.com:7000/live/stephen/stephen/3514.ts
-#EXTINF:-1,UK | Comedy Central
-http://vip.groupiptv.com:7000/live/stephen/stephen/3515.ts
-#EXTINF:-1,UK | Comedy Central Xtra
-http://vip.groupiptv.com:7000/live/stephen/stephen/3516.ts
-#EXTINF:-1,UK | Crime and Investigation
-http://vip.groupiptv.com:7000/live/stephen/stephen/3517.ts
-#EXTINF:-1,UK | Dave
-http://vip.groupiptv.com:7000/live/stephen/stephen/3518.ts
-#EXTINF:-1,UK | Discovery Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/3519.ts
-#EXTINF:-1,UK | Discovery History
-http://vip.groupiptv.com:7000/live/stephen/stephen/3520.ts
-#EXTINF:-1,UK | Discovery Science
-http://vip.groupiptv.com:7000/live/stephen/stephen/3521.ts
-#EXTINF:-1,UK | Discovery Shed
-http://vip.groupiptv.com:7000/live/stephen/stephen/3522.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://vip.groupiptv.com:7000/live/stephen/stephen/3523.ts
-#EXTINF:-1,UK | Disney Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/3524.ts
-#EXTINF:-1,UK | Disney Junior
-http://vip.groupiptv.com:7000/live/stephen/stephen/3525.ts
-#EXTINF:-1,UK | Disney Movies
-http://vip.groupiptv.com:7000/live/stephen/stephen/3527.ts
-#EXTINF:-1,UK | Disney XD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3526.ts
-#EXTINF:-1,UK | Dmax
-http://vip.groupiptv.com:7000/live/stephen/stephen/3528.ts
-#EXTINF:-1,UK | Drama
-http://vip.groupiptv.com:7000/live/stephen/stephen/3529.ts
-#EXTINF:-1,UK | E4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3530.ts
-#EXTINF:-1,UK | Eir Sport 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3531.ts
-#EXTINF:-1,UK | Eir Sport 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3532.ts
-#EXTINF:-1,UK | ESPN
-http://vip.groupiptv.com:7000/live/stephen/stephen/3533.ts
-#EXTINF:-1,UK | Eurosport 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3534.ts
-#EXTINF:-1,UK | Eurosport 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3535.ts
-#EXTINF:-1,UK | Film 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3536.ts
-#EXTINF:-1,UK | Five
-http://vip.groupiptv.com:7000/live/stephen/stephen/3537.ts
-#EXTINF:-1,UK | Flava
-http://vip.groupiptv.com:7000/live/stephen/stephen/3538.ts
-#EXTINF:-1,UK | Food Network
-http://vip.groupiptv.com:7000/live/stephen/stephen/3542.ts
-#EXTINF:-1,UK | FOX
-http://vip.groupiptv.com:7000/live/stephen/stephen/3539.ts
-#EXTINF:-1,UK | FOX Crime
-http://vip.groupiptv.com:7000/live/stephen/stephen/3540.ts
-#EXTINF:-1,UK | FOX News
-http://vip.groupiptv.com:7000/live/stephen/stephen/3541.ts
-#EXTINF:-1,UK | Gold
-http://vip.groupiptv.com:7000/live/stephen/stephen/3543.ts
-#EXTINF:-1,UK | Good Food
-http://vip.groupiptv.com:7000/live/stephen/stephen/3544.ts
-#EXTINF:-1,UK | History Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/3545.ts
-#EXTINF:-1,UK | Home and Health
-http://vip.groupiptv.com:7000/live/stephen/stephen/3546.ts
-#EXTINF:-1,UK | ITV 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3547.ts
-#EXTINF:-1,UK | ITV 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3548.ts
-#EXTINF:-1,UK | ITV 3
-http://vip.groupiptv.com:7000/live/stephen/stephen/3549.ts
-#EXTINF:-1,UK | ITV 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3550.ts
-#EXTINF:-1,UK | ITV Be
-http://vip.groupiptv.com:7000/live/stephen/stephen/3551.ts
-#EXTINF:-1,UK | ITV Encore
-http://vip.groupiptv.com:7000/live/stephen/stephen/3552.ts
-#EXTINF:-1,UK | Kix
-http://vip.groupiptv.com:7000/live/stephen/stephen/3553.ts
-#EXTINF:-1,UK | Lifetime
-http://vip.groupiptv.com:7000/live/stephen/stephen/3554.ts
-#EXTINF:-1,UK | Liverpool FC
-http://vip.groupiptv.com:7000/live/stephen/stephen/3555.ts
-#EXTINF:-1,UK | Manchester United FC
-http://vip.groupiptv.com:7000/live/stephen/stephen/3556.ts
-#EXTINF:-1,UK | More 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3557.ts
-#EXTINF:-1,UK | Motors TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/3558.ts
-#EXTINF:-1,UK | Movies 24
-http://vip.groupiptv.com:7000/live/stephen/stephen/3562.ts
-#EXTINF:-1,UK | Movies 4 Men
-http://vip.groupiptv.com:7000/live/stephen/stephen/3559.ts
-#EXTINF:-1,UK | MTV Hits
-http://vip.groupiptv.com:7000/live/stephen/stephen/3560.ts
-#EXTINF:-1,UK | MTV Music
-http://vip.groupiptv.com:7000/live/stephen/stephen/3561.ts
-#EXTINF:-1,UK | National Geographic
-http://vip.groupiptv.com:7000/live/stephen/stephen/3563.ts
-#EXTINF:-1,UK | National Geographic Wild
-http://vip.groupiptv.com:7000/live/stephen/stephen/3564.ts
-#EXTINF:-1,UK | Nick Junior
-http://vip.groupiptv.com:7000/live/stephen/stephen/3566.ts
-#EXTINF:-1,UK | Nickelodeon
-http://vip.groupiptv.com:7000/live/stephen/stephen/3565.ts
-#EXTINF:-1,UK | Nicktoons
-http://vip.groupiptv.com:7000/live/stephen/stephen/3567.ts
-#EXTINF:-1,UK | Pick TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/3568.ts
-#EXTINF:-1,UK | Premier Sports
-http://vip.groupiptv.com:7000/live/stephen/stephen/3569.ts
-#EXTINF:-1,UK | Quest
-http://vip.groupiptv.com:7000/live/stephen/stephen/3570.ts
-#EXTINF:-1,UK | Racing UK
-http://vip.groupiptv.com:7000/live/stephen/stephen/3571.ts
-#EXTINF:-1,UK | Really
-http://vip.groupiptv.com:7000/live/stephen/stephen/3572.ts
-#EXTINF:-1,UK | RTE 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3573.ts
-#EXTINF:-1,UK | RTE 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3574.ts
-#EXTINF:-1,UK | Sky Arts 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3575.ts
-#EXTINF:-1,UK | Sky Atlantic
-http://vip.groupiptv.com:7000/live/stephen/stephen/3576.ts
-#EXTINF:-1,UK | Sky Living UK
-http://vip.groupiptv.com:7000/live/stephen/stephen/3577.ts
-#EXTINF:-1,UK | Sky Movies Action
-http://vip.groupiptv.com:7000/live/stephen/stephen/3578.ts
-#EXTINF:-1,UK | Sky Movies Comedy
-http://vip.groupiptv.com:7000/live/stephen/stephen/3579.ts
-#EXTINF:-1,UK | Sky Movies Drama
-http://vip.groupiptv.com:7000/live/stephen/stephen/3580.ts
-#EXTINF:-1,UK | Sky Movies Family
-http://vip.groupiptv.com:7000/live/stephen/stephen/3581.ts
-#EXTINF:-1,UK | Sky Movies Modern Greats
-http://vip.groupiptv.com:7000/live/stephen/stephen/3582.ts
-#EXTINF:-1,UK | Sky Movies Premiere
-http://vip.groupiptv.com:7000/live/stephen/stephen/3583.ts
-#EXTINF:-1,UK | Sky Movies Scifi Horror
-http://vip.groupiptv.com:7000/live/stephen/stephen/3584.ts
-#EXTINF:-1,UK | Sky Movies Select
-http://vip.groupiptv.com:7000/live/stephen/stephen/3585.ts
-#EXTINF:-1,UK | Sky Movies Showcase
-http://vip.groupiptv.com:7000/live/stephen/stephen/3586.ts
-#EXTINF:-1,UK | Sky Movies Thriller
-http://vip.groupiptv.com:7000/live/stephen/stephen/3587.ts
-#EXTINF:-1,UK | SKY News
-http://vip.groupiptv.com:7000/live/stephen/stephen/3588.ts
-#EXTINF:-1,UK | Sky One
-http://vip.groupiptv.com:7000/live/stephen/stephen/3589.ts
-#EXTINF:-1,UK | Sky Sports 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3590.ts
-#EXTINF:-1,UK | Sky Sports 1 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3591.ts
-#EXTINF:-1,UK | Sky Sports 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3592.ts
-#EXTINF:-1,UK | Sky Sports 2 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3593.ts
-#EXTINF:-1,UK | Sky Sports 3
-http://vip.groupiptv.com:7000/live/stephen/stephen/3594.ts
-#EXTINF:-1,UK | Sky Sports 3 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3595.ts
-#EXTINF:-1,UK | Sky Sports 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3596.ts
-#EXTINF:-1,UK | Sky Sports 4 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3597.ts
-#EXTINF:-1,UK | Sky Sports 5
-http://vip.groupiptv.com:7000/live/stephen/stephen/3598.ts
-#EXTINF:-1,UK | Sky Sports 5 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3599.ts
-#EXTINF:-1,UK | Sky Sports F1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3600.ts
-#EXTINF:-1,UK | Sky Sports F1 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/3601.ts
-#EXTINF:-1,UK | Sky Sports News
-http://vip.groupiptv.com:7000/live/stephen/stephen/3602.ts
-#EXTINF:-1,UK | Sky Two
-http://vip.groupiptv.com:7000/live/stephen/stephen/3603.ts
-#EXTINF:-1,UK | Spike
-http://vip.groupiptv.com:7000/live/stephen/stephen/3604.ts
-#EXTINF:-1,UK | SyFy
-http://vip.groupiptv.com:7000/live/stephen/stephen/3605.ts
-#EXTINF:-1,UK | TG 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/3606.ts
-#EXTINF:-1,UK | The Vault
-http://vip.groupiptv.com:7000/live/stephen/stephen/3607.ts
-#EXTINF:-1,UK | TLC
-http://vip.groupiptv.com:7000/live/stephen/stephen/3608.ts
-#EXTINF:-1,UK | TMC
-http://vip.groupiptv.com:7000/live/stephen/stephen/3609.ts
-#EXTINF:-1,UK | Travel Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/3610.ts
-#EXTINF:-1,UK | True Entertainment
-http://vip.groupiptv.com:7000/live/stephen/stephen/3611.ts
-#EXTINF:-1,UK | True Movies 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3612.ts
-#EXTINF:-1,UK | True Movies 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/3613.ts
-#EXTINF:-1,UK | TV3
-http://vip.groupiptv.com:7000/live/stephen/stephen/3614.ts
-#EXTINF:-1,UK | TV3 Plus 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3615.ts
-#EXTINF:-1,UK | Universal
-http://vip.groupiptv.com:7000/live/stephen/stephen/3616.ts
-#EXTINF:-1,UK | VH1
-http://vip.groupiptv.com:7000/live/stephen/stephen/3617.ts
-#EXTINF:-1,UK | W
-http://vip.groupiptv.com:7000/live/stephen/stephen/3618.ts
-#EXTINF:-1,UK | Watch
-http://vip.groupiptv.com:7000/live/stephen/stephen/3619.ts
-#EXTINF:-1,UK | Yesterday
-http://vip.groupiptv.com:7000/live/stephen/stephen/3620.ts
-#EXTINF:-1,UK_Sky Arts
-http://vip.groupiptv.com:7000/live/stephen/stephen/5329.ts
-#EXTINF:-1,UK: 3E Ireland
-http://vip.groupiptv.com:7000/live/stephen/stephen/5266.ts
-#EXTINF:-1,UK: Baby TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/5317.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5255.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5260.ts
-#EXTINF:-1,UK: BoomeRang
-http://vip.groupiptv.com:7000/live/stephen/stephen/5315.ts
-#EXTINF:-1,UK: Boomerang 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/5316.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://vip.groupiptv.com:7000/live/stephen/stephen/5369.ts
-#EXTINF:-1,UK: Cartoon Network
-http://vip.groupiptv.com:7000/live/stephen/stephen/5309.ts
-#EXTINF:-1,UK: CBS Action
-http://vip.groupiptv.com:7000/live/stephen/stephen/5321.ts
-#EXTINF:-1,UK: CBS Drama
-http://vip.groupiptv.com:7000/live/stephen/stephen/5322.ts
-#EXTINF:-1,UK: CBS Reality
-http://vip.groupiptv.com:7000/live/stephen/stephen/5323.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://vip.groupiptv.com:7000/live/stephen/stephen/5262.ts
-#EXTINF:-1,UK: Chelsea TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/5365.ts
-#EXTINF:-1,UK: Comedy Central
-http://vip.groupiptv.com:7000/live/stephen/stephen/5283.ts
-#EXTINF:-1,UK: Discovery Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/5356.ts
-#EXTINF:-1,UK: Discovery History
-http://vip.groupiptv.com:7000/live/stephen/stephen/5361.ts
-#EXTINF:-1,UK: Disney Junior
-http://vip.groupiptv.com:7000/live/stephen/stephen/5308.ts
-#EXTINF:-1,UK: E!
-http://vip.groupiptv.com:7000/live/stephen/stephen/5267.ts
-#EXTINF:-1,UK: EuroSport 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/5371.ts
-#EXTINF:-1,UK: Film 4 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5326.ts
-#EXTINF:-1,UK: Fox sd
-http://vip.groupiptv.com:7000/live/stephen/stephen/5280.ts
-#EXTINF:-1,UK: Gold TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/5305.ts
-#EXTINF:-1,UK: HBO
-http://vip.groupiptv.com:7000/live/stephen/stephen/5304.ts
-#EXTINF:-1,UK: HBO Comedy HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5303.ts
-#EXTINF:-1,UK: History Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/5362.ts
-#EXTINF:-1,UK: ITV 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/5269.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5270.ts
-#EXTINF:-1,UK: ITV 3
-http://vip.groupiptv.com:7000/live/stephen/stephen/5271.ts
-#EXTINF:-1,UK: ITV 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/5272.ts
-#EXTINF:-1,UK: Itv Encore
-http://vip.groupiptv.com:7000/live/stephen/stephen/5268.ts
-#EXTINF:-1,UK: ITVBE
-http://vip.groupiptv.com:7000/live/stephen/stephen/5351.ts
-#EXTINF:-1,UK: More4
-http://vip.groupiptv.com:7000/live/stephen/stephen/5261.ts
-#EXTINF:-1,UK: Movies24
-http://vip.groupiptv.com:7000/live/stephen/stephen/5320.ts
-#EXTINF:-1,UK: Movies4Man
-http://vip.groupiptv.com:7000/live/stephen/stephen/5319.ts
-#EXTINF:-1,UK: Movies4Man1
-http://vip.groupiptv.com:7000/live/stephen/stephen/5318.ts
-#EXTINF:-1,UK: MTV Base
-http://vip.groupiptv.com:7000/live/stephen/stephen/5341.ts
-#EXTINF:-1,UK: MTV Dance
-http://vip.groupiptv.com:7000/live/stephen/stephen/5340.ts
-#EXTINF:-1,UK: MTV Hits
-http://vip.groupiptv.com:7000/live/stephen/stephen/5339.ts
-#EXTINF:-1,UK: MTV Music
-http://vip.groupiptv.com:7000/live/stephen/stephen/5338.ts
-#EXTINF:-1,UK: MTV Rocks
-http://vip.groupiptv.com:7000/live/stephen/stephen/5337.ts
-#EXTINF:-1,UK: Nat Geo
-http://vip.groupiptv.com:7000/live/stephen/stephen/5359.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://vip.groupiptv.com:7000/live/stephen/stephen/5357.ts
-#EXTINF:-1,UK: National Geographic Channel
-http://vip.groupiptv.com:7000/live/stephen/stephen/5358.ts
-#EXTINF:-1,UK: NIck JR
-http://vip.groupiptv.com:7000/live/stephen/stephen/5310.ts
-#EXTINF:-1,UK: Nick JR 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/5313.ts
-#EXTINF:-1,UK: Nick JR Peppa
-http://vip.groupiptv.com:7000/live/stephen/stephen/5314.ts
-#EXTINF:-1,UK: Nickelodeon
-http://vip.groupiptv.com:7000/live/stephen/stephen/5311.ts
-#EXTINF:-1,UK: NickToons
-http://vip.groupiptv.com:7000/live/stephen/stephen/5312.ts
-#EXTINF:-1,UK: REALLY
-http://vip.groupiptv.com:7000/live/stephen/stephen/5350.ts
-#EXTINF:-1,UK: RTE 3 J.R
-http://vip.groupiptv.com:7000/live/stephen/stephen/5265.ts
-#EXTINF:-1,UK: RTE One
-http://vip.groupiptv.com:7000/live/stephen/stephen/5264.ts
-#EXTINF:-1,UK: RTE Two
-http://vip.groupiptv.com:7000/live/stephen/stephen/5263.ts
-#EXTINF:-1,UK: Setanta spor
-http://vip.groupiptv.com:7000/live/stephen/stephen/5370.ts
-#EXTINF:-1,UK: SKY Atlantic HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5286.ts
-#EXTINF:-1,UK: Sky Movies  Premiere
-http://vip.groupiptv.com:7000/live/stephen/stephen/5288.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://vip.groupiptv.com:7000/live/stephen/stephen/5292.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5289.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5294.ts
-#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5297.ts
-#EXTINF:-1,UK: SKY Movies Disney HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5306.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://vip.groupiptv.com:7000/live/stephen/stephen/5295.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance.
-http://vip.groupiptv.com:7000/live/stephen/stephen/5296.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5293.ts
-#EXTINF:-1,UK: Sky Movies Greats HD HarryPotter
-http://vip.groupiptv.com:7000/live/stephen/stephen/5300.ts
-#EXTINF:-1,UK: Sky Movies Hits Showcase HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5290.ts
-#EXTINF:-1,UK: SKY Movies Premier HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5287.ts
-#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5299.ts
-#EXTINF:-1,UK: Sky Movies Select
-http://vip.groupiptv.com:7000/live/stephen/stephen/5301.ts
-#EXTINF:-1,UK: Sky One HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5284.ts
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5368.ts
-#EXTINF:-1,UK: Sky Sport News HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5367.ts
-#EXTINF:-1,UK: Sky Thriller
-http://vip.groupiptv.com:7000/live/stephen/stephen/5298.ts
-#EXTINF:-1,UK: SKY Two HD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5285.ts
-#EXTINF:-1,UK: SkySelect
-http://vip.groupiptv.com:7000/live/stephen/stephen/5302.ts
-#EXTINF:-1,UK: SkyShowcase
-http://vip.groupiptv.com:7000/live/stephen/stephen/5291.ts
-#EXTINF:-1,UK: Sony Max
-http://vip.groupiptv.com:7000/live/stephen/stephen/5336.ts
-#EXTINF:-1,UK: Sony Movie
-http://vip.groupiptv.com:7000/live/stephen/stephen/5335.ts
-#EXTINF:-1,UK: Sony Sab
-http://vip.groupiptv.com:7000/live/stephen/stephen/5334.ts
-#EXTINF:-1,UK: SONY TV
-http://vip.groupiptv.com:7000/live/stephen/stephen/5333.ts
-#EXTINF:-1,UK: Star Gold
-http://vip.groupiptv.com:7000/live/stephen/stephen/5332.ts
-#EXTINF:-1,UK: Star LifeOK (hindi)
-http://vip.groupiptv.com:7000/live/stephen/stephen/5331.ts
-#EXTINF:-1,UK: SYFY
-http://vip.groupiptv.com:7000/live/stephen/stephen/5278.ts
-#EXTINF:-1,UK: TCM (film)
-http://vip.groupiptv.com:7000/live/stephen/stephen/5281.ts
-#EXTINF:-1,UK: TLC-IRELAND
-http://vip.groupiptv.com:7000/live/stephen/stephen/5276.ts
-#EXTINF:-1,UK: True Movies 1
-http://vip.groupiptv.com:7000/live/stephen/stephen/5324.ts
-#EXTINF:-1,UK: True Movies 2
-http://vip.groupiptv.com:7000/live/stephen/stephen/5325.ts
-#EXTINF:-1,UK: TV Nasa
-http://vip.groupiptv.com:7000/live/stephen/stephen/5275.ts
-#EXTINF:-1,UK: Watch
-http://vip.groupiptv.com:7000/live/stephen/stephen/5273.ts
-#EXTINF:-1,UK:3E
-http://vip.groupiptv.com:7000/live/stephen/stephen/5343.ts
-#EXTINF:-1,UK:5 USA
-http://vip.groupiptv.com:7000/live/stephen/stephen/5342.ts
-#EXTINF:-1,UK:Alibi
-http://vip.groupiptv.com:7000/live/stephen/stephen/5330.ts
-#EXTINF:-1,UK:Animal Planet
-http://vip.groupiptv.com:7000/live/stephen/stephen/5363.ts
-#EXTINF:-1,UK:At The Races
-http://vip.groupiptv.com:7000/live/stephen/stephen/5366.ts
-#EXTINF:-1,UK:BBC News
-http://vip.groupiptv.com:7000/live/stephen/stephen/5259.ts
-#EXTINF:-1,UK:BBC Two
-http://vip.groupiptv.com:7000/live/stephen/stephen/5257.ts
-#EXTINF:-1,UK:BBC_one
-http://vip.groupiptv.com:7000/live/stephen/stephen/5256.ts
-#EXTINF:-1,UK:CBBC Three
-http://vip.groupiptv.com:7000/live/stephen/stephen/5258.ts
-#EXTINF:-1,UK:Channel 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/5328.ts
-#EXTINF:-1,UK:Dave
-http://vip.groupiptv.com:7000/live/stephen/stephen/5364.ts
-#EXTINF:-1,UK:Discovery
-http://vip.groupiptv.com:7000/live/stephen/stephen/5355.ts
-#EXTINF:-1,UK:Discovery Home Health
-http://vip.groupiptv.com:7000/live/stephen/stephen/5354.ts
-#EXTINF:-1,UK:Discovery Science
-http://vip.groupiptv.com:7000/live/stephen/stephen/5353.ts
-#EXTINF:-1,UK:Discovery Turbo
-http://vip.groupiptv.com:7000/live/stephen/stephen/5352.ts
-#EXTINF:-1,UK:Disney XD
-http://vip.groupiptv.com:7000/live/stephen/stephen/5307.ts
-#EXTINF:-1,UK:Film 4
-http://vip.groupiptv.com:7000/live/stephen/stephen/5327.ts
-#EXTINF:-1,UK:FOX
-http://vip.groupiptv.com:7000/live/stephen/stephen/5279.ts
-#EXTINF:-1,UK:Good Food
-http://vip.groupiptv.com:7000/live/stephen/stephen/5347.ts
-#EXTINF:-1,UK:Life Time
-http://vip.groupiptv.com:7000/live/stephen/stephen/5282.ts
-#EXTINF:-1,UK:PICK
-http://vip.groupiptv.com:7000/live/stephen/stephen/5349.ts
-#EXTINF:-1,UK:Quest
-http://vip.groupiptv.com:7000/live/stephen/stephen/5348.ts
-#EXTINF:-1,UK:Sky News
-http://vip.groupiptv.com:7000/live/stephen/stephen/5346.ts
-#EXTINF:-1,UK:TLC
-http://vip.groupiptv.com:7000/live/stephen/stephen/5345.ts
-#EXTINF:-1,UK:Travel
-http://vip.groupiptv.com:7000/live/stephen/stephen/5344.ts
+#EXTINF:-1,&tv HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15062.ts
+#EXTINF:-1,3e UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3953.ts
+#EXTINF:-1,4Music UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1951.ts
+#EXTINF:-1,4seven UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3961.ts
+#EXTINF:-1,5 STAR+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14732.ts
+#EXTINF:-1,3E Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15047.ts
+#EXTINF:-1,5 USA+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14731.ts
+#EXTINF:-1,5STAR UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9908.ts
+#EXTINF:-1,5USA UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2652.ts
+#EXTINF:-1,AAJ TAK UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14854.ts
+#EXTINF:-1,ABN TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14813.ts
+#EXTINF:-1,ABP News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14853.ts
+#EXTINF:-1,AIT Int'l UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14976.ts
+#EXTINF:-1,AMC from BT UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14779.ts
+#EXTINF:-1,ARY QTV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14900.ts
+#EXTINF:-1,Aastha UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15061.ts
+#EXTINF:-1,Ahlulbayt TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15060.ts
+#EXTINF:-1,Akaal Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14975.ts
+#EXTINF:-1,Al Arabiya UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14852.ts
+#EXTINF:-1,Alibi HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16729.ts
+#EXTINF:-1,Alibi Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3954.ts
+#EXTINF:-1,Alibi UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14974.ts
+#EXTINF:-1,Animal Planet +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14850.ts
+#EXTINF:-1,Animal Planet HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8010.ts
+#EXTINF:-1,Animal Planet UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2683.ts
+#EXTINF:-1,At the Races UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1997.ts
+#EXTINF:-1,BBC ALBA UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14703.ts
+#EXTINF:-1,BBC NEWS FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14701.ts
+#EXTINF:-1,BBC News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4020.ts
+#EXTINF:-1,BBC One CI UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14700.ts
+#EXTINF:-1,BBC One E Mid UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14699.ts
+#EXTINF:-1,BBC One East E UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14698.ts
+#EXTINF:-1,BBC One East W UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14697.ts
+#EXTINF:-1,BBC One FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1994.ts
+#EXTINF:-1,BBC One HD  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14755.ts
+#EXTINF:-1,BBC One N West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14696.ts
+#EXTINF:-1,BBC One NE&C UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14695.ts
+#EXTINF:-1,BBC One NI FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14693.ts
+#EXTINF:-1,BBC One NI UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14694.ts
+#EXTINF:-1,BBC One Oxford UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14692.ts
+#EXTINF:-1,BBC One S East UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14691.ts
+#EXTINF:-1,BBC One S West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14690.ts
+#EXTINF:-1,BBC One Scotland FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14688.ts
+#EXTINF:-1,BBC One Scotland  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14689.ts
+#EXTINF:-1,BBC One South UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14687.ts
+#EXTINF:-1,BBC One W Mid UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14686.ts
+#EXTINF:-1,BBC One Wales FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14685.ts
+#EXTINF:-1,BBC One West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14684.ts
+#EXTINF:-1,BBC One Yk&Li UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14683.ts
+#EXTINF:-1,BBC One Yorks UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14682.ts
+#EXTINF:-1,BBC Parliament UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14681.ts
+#EXTINF:-1,BBC Red Button 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1996.ts
+#EXTINF:-1,BBC Two NI UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14680.ts
+#EXTINF:-1,BBC Two Scotland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14679.ts
+#EXTINF:-1,BBC Two Wales UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14678.ts
+#EXTINF:-1,BBC1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3580.ts
+#EXTINF:-1,BBC1 Wales UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12355.ts
+#EXTINF:-1,BBC2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12347.ts
+#EXTINF:-1,BBC2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3581.ts
+#EXTINF:-1,BBC4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1993.ts
+#EXTINF:-1,BBC4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14702.ts
+#EXTINF:-1,BEN UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14972.ts
+#EXTINF:-1,BET  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14848.ts
+#EXTINF:-1,BOX Upfront UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4014.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1991.ts
+#EXTINF:-1,BT Sport 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3586.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14658.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1992.ts
+#EXTINF:-1,BT Sport 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3588.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14659.ts
+#EXTINF:-1,BT Sport 3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1965.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2673.ts
+#EXTINF:-1,BT Sport EXTRA UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2682.ts
+#EXTINF:-1,BT Sport Espn HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1980.ts
+#EXTINF:-1,BT Sport Extra 1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14778.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14809.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14808.ts
+#EXTINF:-1,BT Sport Extra 4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14807.ts
+#EXTINF:-1,BT Sport Extra 6 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14806.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14805.ts
+#EXTINF:-1,BT Sport Mosaic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14777.ts
+#EXTINF:-1,BT Sports 3 HD
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14903.ts
+#EXTINF:-1,Baby TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11425.ts
+#EXTINF:-1,BeinTrueVision HD2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14942.ts
+#EXTINF:-1,BeinTrueVision HD3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14940.ts
+#EXTINF:-1,BeinTrueVision HD4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14937.ts
+#EXTINF:-1,Believe TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15058.ts
+#EXTINF:-1,Bike UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14811.ts
+#EXTINF:-1,Bloomberg TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8298.ts
+#EXTINF:-1,Boomerang UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1962.ts
+#EXTINF:-1,Box Hits UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1953.ts
+#EXTINF:-1,BoxNation UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4010.ts
+#EXTINF:-1,Brit Asia TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15057.ts
+#EXTINF:-1,British Muslim UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14971.ts
+#EXTINF:-1,CAPITAL TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15056.ts
+#EXTINF:-1,CBBC HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12348.ts
+#EXTINF:-1,CBBC UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14677.ts
+#EXTINF:-1,CBS Action UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3944.ts
+#EXTINF:-1,CBS Drama UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3945.ts
+#EXTINF:-1,CBS Reality +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14776.ts
+#EXTINF:-1,CBS Reality UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3946.ts
+#EXTINF:-1,CBeebies FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14676.ts
+#EXTINF:-1,CBeebies UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3582.ts
+#EXTINF:-1,CCTV News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14970.ts
+#EXTINF:-1,Celtic FC TV (Live during Match Only)
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16800.ts
+#EXTINF:-1,CITV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9588.ts
+#EXTINF:-1,CNBC UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14968.ts
+#EXTINF:-1,CNN HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14726.ts
+#EXTINF:-1,CNN UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3995.ts
+#EXTINF:-1,Cartoon Network HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3967.ts
+#EXTINF:-1,Cartoonito UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14763.ts
+#EXTINF:-1,Challenge +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14944.ts
+#EXTINF:-1,Challenge UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14945.ts
+#EXTINF:-1,Channel 4 +1 London UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14895.ts
+#EXTINF:-1,Channel 4 +1 Midlands UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14894.ts
+#EXTINF:-1,Channel 4 +1 North UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14892.ts
+#EXTINF:-1,Channel 4 +1 Northern Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14891.ts
+#EXTINF:-1,Channel 4 +1 South & East UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14893.ts
+#EXTINF:-1,Channel 4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14890.ts
+#EXTINF:-1,Channel 4 London UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2681.ts
+#EXTINF:-1,Channel 4 Midlands UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14889.ts
+#EXTINF:-1,Channel 4 North UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14888.ts
+#EXTINF:-1,Channel 4 Northern Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14887.ts
+#EXTINF:-1,Channel 4 Scotland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14886.ts
+#EXTINF:-1,Channel 4 South & East UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14885.ts
+#EXTINF:-1,Channel 44 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15055.ts
+#EXTINF:-1,Channel 5 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14728.ts
+#EXTINF:-1,Channel 5 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14727.ts
+#EXTINF:-1,Channel 5 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2680.ts
+#EXTINF:-1,Channel 5+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14729.ts
+#EXTINF:-1,Channel AKA UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14804.ts
+#EXTINF:-1,Channel i UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14969.ts
+#EXTINF:-1,Channels 24 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14803.ts
+#EXTINF:-1,Chart Show TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14884.ts
+#EXTINF:-1,Chartshow Hits UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14883.ts
+#EXTINF:-1,Chelsea TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1990.ts
+#EXTINF:-1,Chilled TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15053.ts
+#EXTINF:-1,Clubland TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15051.ts
+#EXTINF:-1,Colors UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1988.ts
+#EXTINF:-1,Comedy Cenrtal HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16722.ts
+#EXTINF:-1,Comedy Central Extra UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2668.ts
+#EXTINF:-1,Comedy Central Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14846.ts
+#EXTINF:-1,Comedy Central UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3948.ts
+#EXTINF:-1,ComedyCentral +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14847.ts
+#EXTINF:-1,ComedyXtra +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14845.ts
+#EXTINF:-1,ComedyXtra Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14844.ts
+#EXTINF:-1,ComedyXtra UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14762.ts
+#EXTINF:-1,Crime Investigation UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14943.ts
+#EXTINF:-1,DMAX +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14840.ts
+#EXTINF:-1,DMAX UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1983.ts
+#EXTINF:-1,Dave HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8012.ts
+#EXTINF:-1,Dave Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1987.ts
+#EXTINF:-1,Dave UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14967.ts
+#EXTINF:-1,Dave ja vu UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11424.ts
+#EXTINF:-1,Disc Science +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14842.ts
+#EXTINF:-1,Discovery +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14770.ts
+#EXTINF:-1,Discovery Channel HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14863.ts
+#EXTINF:-1,Discovery Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1986.ts
+#EXTINF:-1,Discovery History +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14843.ts
+#EXTINF:-1,Discovery History UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1985.ts
+#EXTINF:-1,Discovery Home&Health UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14833.ts
+#EXTINF:-1,Discovery Investigation UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3982.ts
+#EXTINF:-1,Discovery Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14769.ts
+#EXTINF:-1,Discovery Science UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2679.ts
+#EXTINF:-1,Discovery Shed UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14841.ts
+#EXTINF:-1,Discovery Turbo UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3978.ts
+#EXTINF:-1,Discovery World UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2678.ts
+#EXTINF:-1,Disney Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1984.ts
+#EXTINF:-1,Disney Junior UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3969.ts
+#EXTINF:-1,Disney XD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2675.ts
+#EXTINF:-1,Drama UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3957.ts
+#EXTINF:-1,Dunya News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14881.ts
+#EXTINF:-1,E! +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14802.ts
+#EXTINF:-1,E! Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14801.ts
+#EXTINF:-1,E! UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3966.ts
+#EXTINF:-1,E4 +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14880.ts
+#EXTINF:-1,E4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8013.ts
+#EXTINF:-1,E4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2674.ts
+#EXTINF:-1,ETV1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10195.ts
+#EXTINF:-1,ETV1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14675.ts
+#EXTINF:-1,ETV2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14674.ts
+#EXTINF:-1,ETV5 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14673.ts
+#EXTINF:-1,ETV6 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14672.ts
+#EXTINF:-1,EWTN Catholic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15046.ts
+#EXTINF:-1,Eden +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14839.ts
+#EXTINF:-1,Eden UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14965.ts
+#EXTINF:-1,Eman Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14800.ts
+#EXTINF:-1,Eurosport 1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13091.ts
+#EXTINF:-1,Eurosport 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3590.ts
+#EXTINF:-1,Eurosport 2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13092.ts
+#EXTINF:-1,Eurosport 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3591.ts
+#EXTINF:-1,FOX HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2656.ts
+#EXTINF:-1,FOX News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11429.ts
+#EXTINF:-1,Fight Sports UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14449.ts
+#EXTINF:-1,Film4  +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14879.ts
+#EXTINF:-1,Film4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1979.ts
+#EXTINF:-1,Flava UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3565.ts
+#EXTINF:-1,Flow TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15044.ts
+#EXTINF:-1,Food Network UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3991.ts
+#EXTINF:-1,Food Netwrk +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14878.ts
+#EXTINF:-1,Forces TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12354.ts
+#EXTINF:-1,FrontRunner UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15043.ts
+#EXTINF:-1,GEO TEZ UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15041.ts
+#EXTINF:-1,GEO TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14838.ts
+#EXTINF:-1,GOD Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15040.ts
+#EXTINF:-1,GOLD +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14836.ts
+#EXTINF:-1,GOLD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14963.ts
+#EXTINF:-1,Glory TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14837.ts
+#EXTINF:-1,Gold Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1977.ts
+#EXTINF:-1,Good Food UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3990.ts
+#EXTINF:-1,Good Food  +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14835.ts
+#EXTINF:-1,Gospel Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15039.ts
+#EXTINF:-1,H2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3569.ts
+#EXTINF:-1,Heart TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15037.ts
+#EXTINF:-1,Hidayat TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14962.ts
+#EXTINF:-1,History +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14941.ts
+#EXTINF:-1,History UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3976.ts
+#EXTINF:-1,Home +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14834.ts
+#EXTINF:-1,Home Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3993.ts
+#EXTINF:-1,Home UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14961.ts
+#EXTINF:-1,Horror Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3941.ts
+#EXTINF:-1,Horror ch +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14774.ts
+#EXTINF:-1,Horse & Country UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14832.ts
+#EXTINF:-1,ID +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14831.ts
+#EXTINF:-1,IQRA BANGLA UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14959.ts
+#EXTINF:-1,ITV 1 Westcountry South West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14725.ts
+#EXTINF:-1,ITV BE HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16723.ts
+#EXTINF:-1,ITV Border UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14724.ts
+#EXTINF:-1,ITV Central West HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14722.ts
+#EXTINF:-1,ITV Central West+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14723.ts
+#EXTINF:-1,ITV Encore UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8076.ts
+#EXTINF:-1,ITV Encore+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14721.ts
+#EXTINF:-1,ITV FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1995.ts
+#EXTINF:-1,ITV Meridian South East HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14717.ts
+#EXTINF:-1,ITV Meridian South East UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14718.ts
+#EXTINF:-1,ITV Meridian South UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14719.ts
+#EXTINF:-1,ITV Tyne Tees UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14716.ts
+#EXTINF:-1,ITV Westcountry South West+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14715.ts
+#EXTINF:-1,ITV Yorkshire West HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14713.ts
+#EXTINF:-1,ITV Yorkshire West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14714.ts
+#EXTINF:-1,ITV1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3576.ts
+#EXTINF:-1,ITV2 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12345.ts
+#EXTINF:-1,ITV2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14730.ts
+#EXTINF:-1,ITV2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3577.ts
+#EXTINF:-1,ITV2+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14712.ts
+#EXTINF:-1,ITV3 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14292.ts
+#EXTINF:-1,ITV3 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14738.ts
+#EXTINF:-1,ITV3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3578.ts
+#EXTINF:-1,ITV3+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14711.ts
+#EXTINF:-1,ITV4 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12346.ts
+#EXTINF:-1,ITV4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3583.ts
+#EXTINF:-1,ITV4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3579.ts
+#EXTINF:-1,ITV4+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14671.ts
+#EXTINF:-1,ITVBe UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9587.ts
+#EXTINF:-1,ITVBe+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14710.ts
+#EXTINF:-1,Inside HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14293.ts
+#EXTINF:-1,Inspiration  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14810.ts
+#EXTINF:-1,Inspiration UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15032.ts
+#EXTINF:-1,Islam Ch Urdu UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15031.ts
+#EXTINF:-1,Islam Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15030.ts
+#EXTINF:-1,Kerrang! TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12353.ts
+#EXTINF:-1,Kiss UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1952.ts
+#EXTINF:-1,Kix +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14875.ts
+#EXTINF:-1,Kix UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14876.ts
+#EXTINF:-1,Lifetime HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14938.ts
+#EXTINF:-1,Lifetime UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14759.ts
+#EXTINF:-1,Liverpool FC TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3568.ts
+#EXTINF:-1,London Live UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14958.ts
+#EXTINF:-1,MATV National UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15029.ts
+#EXTINF:-1,MTV +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14768.ts
+#EXTINF:-1,MTV Base HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13087.ts
+#EXTINF:-1,MTV Base UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7319.ts
+#EXTINF:-1,MTV Classic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7320.ts
+#EXTINF:-1,MTV Dance HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13088.ts
+#EXTINF:-1,MTV Dance UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7318.ts
+#EXTINF:-1,MTV Hits HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13089.ts
+#EXTINF:-1,MTV Hits UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7317.ts
+#EXTINF:-1,MTV Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14956.ts
+#EXTINF:-1,MTV Live HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13090.ts
+#EXTINF:-1,MTV Music +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14767.ts
+#EXTINF:-1,MTV Music UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7316.ts
+#EXTINF:-1,MTV Rocks UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7315.ts
+#EXTINF:-1,MTV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2670.ts
+#EXTINF:-1,MUTV HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2655.ts
+#EXTINF:-1,MUTV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14939.ts
+#EXTINF:-1,Madani Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14957.ts
+#EXTINF:-1,Made In Bristol UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14874.ts
+#EXTINF:-1,Made In Leeds UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14873.ts
+#EXTINF:-1,Magic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14872.ts
+#EXTINF:-1,More4 +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14871.ts
+#EXTINF:-1,More4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16724.ts
+#EXTINF:-1,More4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4000.ts
+#EXTINF:-1,Motors TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4009.ts
+#EXTINF:-1,Movies 24 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14797.ts
+#EXTINF:-1,Movies4Men UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1971.ts
+#EXTINF:-1,My Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15027.ts
+#EXTINF:-1,My5 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14709.ts
+#EXTINF:-1,NOW Music UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15024.ts
+#EXTINF:-1,National Geographic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3561.ts
+#EXTINF:-1,National Geographic Wild HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1968.ts
+#EXTINF:-1,News18 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15026.ts
+#EXTINF:-1,Nick HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16719.ts
+#EXTINF:-1,Nick Jr +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14829.ts
+#EXTINF:-1,Nick Jr Peppa UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14828.ts
+#EXTINF:-1,Nick Jr. UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2669.ts
+#EXTINF:-1,Nickelodeon UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14825.ts
+#EXTINF:-1,Nicktoons UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14824.ts
+#EXTINF:-1,Noor TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15025.ts
+#EXTINF:-1,Notts TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14955.ts
+#EXTINF:-1,Olive TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14796.ts
+#EXTINF:-1,Ove World Tv UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14772.ts
+#EXTINF:-1,PBS America UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14870.ts
+#EXTINF:-1,PCNE Chinese UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15023.ts
+#EXTINF:-1,POP +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14868.ts
+#EXTINF:-1,POP MAX UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14867.ts
+#EXTINF:-1,POP UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14869.ts
+#EXTINF:-1,PTC PUNJABI UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15020.ts
+#EXTINF:-1,Pick +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14758.ts
+#EXTINF:-1,Pick UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3958.ts
+#EXTINF:-1,Premier HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1981.ts
+#EXTINF:-1,Premier Sports UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3584.ts
+#EXTINF:-1,Psychic Today UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14771.ts
+#EXTINF:-1,QUEST +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14823.ts
+#EXTINF:-1,QUEST UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3959.ts
+#EXTINF:-1,Rangers FC TV (Live during Match Only)
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16801.ts
+#EXTINF:-1,ROK UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14954.ts
+#EXTINF:-1,RT HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3923.ts
+#EXTINF:-1,RT UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14821.ts
+#EXTINF:-1,RT  documentary UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14966.ts
+#EXTINF:-1,RT. One UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14930.ts
+#EXTINF:-1,RT.2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14928.ts
+#EXTINF:-1,RTÉ News Now UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11423.ts
+#EXTINF:-1,RTÉ One UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1966.ts
+#EXTINF:-1,RTÉ2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1967.ts
+#EXTINF:-1,Racing UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3585.ts
+#EXTINF:-1,Racing UK HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15019.ts
+#EXTINF:-1,Real Lives UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11430.ts
+#EXTINF:-1,Really UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3947.ts
+#EXTINF:-1,RishteyCine UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15017.ts
+#EXTINF:-1,SKY SPORTS 1 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14651.ts
+#EXTINF:-1,SKY SPORTS 2 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14652.ts
+#EXTINF:-1,SKY SPORTS 3 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14653.ts
+#EXTINF:-1,SKY SPORTS 4 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14654.ts
+#EXTINF:-1,SKY SPORTS 5 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14655.ts
+#EXTINF:-1,SKY SPORTS F1 FHD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14656.ts
+#EXTINF:-1,SONY SAB UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14820.ts
+#EXTINF:-1,STV East UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14708.ts
+#EXTINF:-1,STV East+1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14707.ts
+#EXTINF:-1,STV Edinburgh UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14953.ts
+#EXTINF:-1,STV Glasgow UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14952.ts
+#EXTINF:-1,STV North UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14706.ts
+#EXTINF:-1,STV West UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14705.ts
+#EXTINF:-1,Safeer TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14793.ts
+#EXTINF:-1,Sangat UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15015.ts
+#EXTINF:-1,Scuzz UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14866.ts
+#EXTINF:-1,Showcase 3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14792.ts
+#EXTINF:-1,Showcase UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15014.ts
+#EXTINF:-1,Sky 1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8011.ts
+#EXTINF:-1,Sky 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3571.ts
+#EXTINF:-1,Sky 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3573.ts
+#EXTINF:-1,Sky Arts HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16728.ts
+#EXTINF:-1,Sky Arts HDUK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14951.ts
+#EXTINF:-1,Sky Arts UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1963.ts
+#EXTINF:-1,Sky Atlantic UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3562.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1961.ts
+#EXTINF:-1,Sky Cinema Action & Adventure UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3559.ts
+#EXTINF:-1,Sky Cinema Comedy HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14924.ts
+#EXTINF:-1,Sky Cinema Comedy  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3563.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14936.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1955.ts
+#EXTINF:-1,Sky Cinema Disney HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14927.ts
+#EXTINF:-1,Sky Cinema Disney UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3927.ts
+#EXTINF:-1,Sky Cinema Drama & Romance  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1960.ts
+#EXTINF:-1,Sky Cinema Family  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3926.ts
+#EXTINF:-1,Sky Cinema Greats UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1959.ts
+#EXTINF:-1,Sky Cinema Hits UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16503.ts
+#EXTINF:-1,Sky Cinema Premiere +1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14931.ts
+#EXTINF:-1,Sky Cinema Premiere HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1958.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD uk
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1957.ts
+#EXTINF:-1,Sky Cinema Select UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14765.ts
+#EXTINF:-1,Sky Living HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16720.ts
+#EXTINF:-1,Sky Living UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3567.ts
+#EXTINF:-1,Sky Net Sports UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13515.ts
+#EXTINF:-1,Sky News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3570.ts
+#EXTINF:-1,Sky Sports 1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5600.ts
+#EXTINF:-1,Sky Sports 1 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14753.ts
+#EXTINF:-1,Sky Sports 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3593.ts
+#EXTINF:-1,Sky Sports 2 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/5601.ts
+#EXTINF:-1,Sky Sports 2 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14750.ts
+#EXTINF:-1,Sky Sports 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3595.ts
+#EXTINF:-1,Sky Sports 3 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3598.ts
+#EXTINF:-1,Sky Sports 3 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14747.ts
+#EXTINF:-1,Sky Sports 3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3597.ts
+#EXTINF:-1,Sky Sports 4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3600.ts
+#EXTINF:-1,Sky Sports 4 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14744.ts
+#EXTINF:-1,Sky Sports 4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3599.ts
+#EXTINF:-1,Sky Sports 5 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4458.ts
+#EXTINF:-1,Sky Sports 5 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14742.ts
+#EXTINF:-1,Sky Sports 5 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3601.ts
+#EXTINF:-1,Sky Sports Box Office  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14756.ts
+#EXTINF:-1,Sky Sports F1 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3603.ts
+#EXTINF:-1,Sky Sports F1 SD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14739.ts
+#EXTINF:-1,Sky Sports F1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3602.ts
+#EXTINF:-1,Sky Sports Mix HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14902.ts
+#EXTINF:-1,Sky Sports Mix UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14926.ts
+#EXTINF:-1,Sky Sports News HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/1954.ts
+#EXTINF:-1,Sky2 (a) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14737.ts
+#EXTINF:-1,SkyNws Arabia UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14925.ts
+#EXTINF:-1,SonLife UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15013.ts
+#EXTINF:-1,Sony Channel +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14791.ts
+#EXTINF:-1,Sony Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12349.ts
+#EXTINF:-1,Sony Movies +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14789.ts
+#EXTINF:-1,Sony Movies UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14790.ts
+#EXTINF:-1,Spike UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11428.ts
+#EXTINF:-1,Star Gold UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12351.ts
+#EXTINF:-1,Star Jalsha UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12352.ts
+#EXTINF:-1,Star Life OK UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12350.ts
+#EXTINF:-1,Star Plus UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14788.ts
+#EXTINF:-1,Star Utsav UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14787.ts
+#EXTINF:-1,Starz TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14865.ts
+#EXTINF:-1,Syfy +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14786.ts
+#EXTINF:-1,Syfy HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16727.ts
+#EXTINF:-1,Syfy UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3939.ts
+#EXTINF:-1,TBN UK UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15008.ts
+#EXTINF:-1,TCM +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14785.ts
+#EXTINF:-1,TCM HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16721.ts
+#EXTINF:-1,TCM UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14736.ts
+#EXTINF:-1,TG4 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14960.ts
+#EXTINF:-1,TG4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4005.ts
+#EXTINF:-1,TLC +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14819.ts
+#EXTINF:-1,TLC Europe UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15501.ts
+#EXTINF:-1,TLC Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14764.ts
+#EXTINF:-1,TLC UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4027.ts
+#EXTINF:-1,TV One UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15059.ts
+#EXTINF:-1,TV3 HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14929.ts
+#EXTINF:-1,TV3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14735.ts
+#EXTINF:-1,TVC News +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14949.ts
+#EXTINF:-1,TVC News UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14950.ts
+#EXTINF:-1,Takbeer TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15009.ts
+#EXTINF:-1,The Vault UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14864.ts
+#EXTINF:-1,Tiny Pop UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9898.ts
+#EXTINF:-1,Travel Channel +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14784.ts
+#EXTINF:-1,Travel Channel UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14818.ts
+#EXTINF:-1,True Crime +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14860.ts
+#EXTINF:-1,True Crime UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14861.ts
+#EXTINF:-1,True Ent +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14858.ts
+#EXTINF:-1,True Ent UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14859.ts
+#EXTINF:-1,True Movies +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2662.ts
+#EXTINF:-1,True Movies UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2661.ts
+#EXTINF:-1,UTV Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11426.ts
+#EXTINF:-1,UTV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14704.ts
+#EXTINF:-1,Ummah CH UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15003.ts
+#EXTINF:-1,Universal +1  UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14782.ts
+#EXTINF:-1,Universal HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16725.ts
+#EXTINF:-1,Universal Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14781.ts
+#EXTINF:-1,Universal UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14783.ts
+#EXTINF:-1,VH1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3943.ts
+#EXTINF:-1,VICELAND UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14923.ts
+#EXTINF:-1,Venus TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14947.ts
+#EXTINF:-1,ViVa UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7322.ts
+#EXTINF:-1,Vintage TV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14780.ts
+#EXTINF:-1,W +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14815.ts
+#EXTINF:-1,W HD UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16726.ts
+#EXTINF:-1,W Ireland UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/11427.ts
+#EXTINF:-1,W UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14946.ts
+#EXTINF:-1,YESTERDAY +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14814.ts
+#EXTINF:-1,Yesterday UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3962.ts
+#EXTINF:-1,YourTV UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14856.ts
+#EXTINF:-1,alibi +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14851.ts
+#EXTINF:-1,eir Sport 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12343.ts
+#EXTINF:-1,eir Sport 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12344.ts
+#EXTINF:-1,euronews UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14964.ts
+#EXTINF:-1,mov4men +1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14798.ts
+#EXTINF:-1,mta-muslim tv UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15028.ts
+#EXTINF:-1,revelation UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15018.ts
+#EXTINF:-1,▬ Premier League ▬
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16510.ts
+#EXTINF:-1,NBC Sports Extra 1 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8403.ts
+#EXTINF:-1,NBC Sports Extra 2 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8404.ts
+#EXTINF:-1,NBC Sports Extra 3 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8405.ts
+#EXTINF:-1,NBC Sports Extra 4 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8406.ts
+#EXTINF:-1,NBC Sports Extra 5 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8407.ts
+#EXTINF:-1,NBC Sports Extra 6 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8408.ts
+#EXTINF:-1,NBC Sports Extra 7 (Live During EPL) UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/8409.ts
+#EXTINF:-1,Sky Net Sports 1 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13514.ts
+#EXTINF:-1,Sky Net Sports 2 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10919.ts
+#EXTINF:-1,Sky Net Sports 3 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10918.ts
+#EXTINF:-1,Sky Net Sports 4 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10917.ts
+#EXTINF:-1,Sky Net Sports 5 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10916.ts
+#EXTINF:-1,Sky Net Sports 6 UK
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10915.ts
+#EXTINF:-1,▬ United States [US] ▬
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16511.ts
+#EXTINF:-1,WWE US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16572.ts
+#EXTINF:-1,Fox Sports South US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13693.ts
+#EXTINF:-1,ActionMAX US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13682.ts
+#EXTINF:-1,Cinemax East US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13680.ts
+#EXTINF:-1,Ion US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13683.ts
+#EXTINF:-1,HBO HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13685.ts
+#EXTINF:-1,HGTV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13835.ts
+#EXTINF:-1,NBCSN Golf Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13687.ts
+#EXTINF:-1,MSNBC HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16841.ts
+#EXTINF:-1,NFL Network Now US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13690.ts
+#EXTINF:-1,NHL Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13688.ts
+#EXTINF:-1,Fox Sports West US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13692.ts
+#EXTINF:-1,Ion Life US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13671.ts
+#EXTINF:-1,Showtime US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13666.ts
+#EXTINF:-1,Heroes & Icons US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13668.ts
+#EXTINF:-1,Starz Cinema US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13676.ts
+#EXTINF:-1,Starz Edge US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13677.ts
+#EXTINF:-1,Family Jr. CAN
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13674.ts
+#EXTINF:-1,Starz West US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13678.ts
+#EXTINF:-1,Willow Cricket US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13689.ts
+#EXTINF:-1,A&E US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10350.ts
+#EXTINF:-1,ABC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9026.ts
+#EXTINF:-1,AMC HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13104.ts
+#EXTINF:-1,Bravo US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10704.ts
+#EXTINF:-1,C-SPAN 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10701.ts
+#EXTINF:-1,C-SPAN 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10702.ts
+#EXTINF:-1,C-SPAN 3 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10703.ts
+#EXTINF:-1,Cartoon Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13103.ts
+#EXTINF:-1,CBS HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10347.ts
+#EXTINF:-1,CBS Reality US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10346.ts
+#EXTINF:-1,CNBC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9028.ts
+#EXTINF:-1,CNN US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9029.ts
+#EXTINF:-1,Comedy Central US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13102.ts
+#EXTINF:-1,DIY Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13101.ts
+#EXTINF:-1,E! US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9021.ts
+#EXTINF:-1,ESPN 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9023.ts
+#EXTINF:-1,ESPN 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9022.ts
+#EXTINF:-1,FOX News US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13100.ts
+#EXTINF:-1,FOX Sports 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9031.ts
+#EXTINF:-1,FOX Sports 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9030.ts
+#EXTINF:-1,Qubo US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13099.ts
+#EXTINF:-1,FX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13098.ts
+#EXTINF:-1,FXX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13097.ts
+#EXTINF:-1,H2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9019.ts
+#EXTINF:-1,Hallmark Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9025.ts
+#EXTINF:-1,HBO Comedy US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9017.ts
+#EXTINF:-1,HBO Signature US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9016.ts
+#EXTINF:-1,Lifetime US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9078.ts
+#EXTINF:-1,Lifetime Movie Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13096.ts
+#EXTINF:-1,MLB Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10699.ts
+#EXTINF:-1,Get Tv US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10698.ts
+#EXTINF:-1,NBA TV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9010.ts
+#EXTINF:-1,NBC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9009.ts
+#EXTINF:-1,NBC Sports Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9008.ts
+#EXTINF:-1,NFL Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9077.ts
+#EXTINF:-1,Nick US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9012.ts
+#EXTINF:-1,Spike US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13107.ts
+#EXTINF:-1,Sportsnet 360 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10700.ts
+#EXTINF:-1,Sportsnet One US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10344.ts
+#EXTINF:-1,Sportsnet World US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10342.ts
+#EXTINF:-1,Sportsnet Ontario US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10345.ts
+#EXTINF:-1,Syfy HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13095.ts
+#EXTINF:-1,TBS US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13106.ts
+#EXTINF:-1,TSN1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9032.ts
+#EXTINF:-1,TSN2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9033.ts
+#EXTINF:-1,TSN3 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9034.ts
+#EXTINF:-1,TSN4 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9035.ts
+#EXTINF:-1,TSN5 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9036.ts
+#EXTINF:-1,USA Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13105.ts
+#EXTINF:-1,VH1 Classic US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12059.ts
+#EXTINF:-1,VH1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12058.ts
+#EXTINF:-1,Sport 1 HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7325.ts
+#EXTINF:-1,Animal Planet HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12060.ts
+#EXTINF:-1,MTV Rocks US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12062.ts
+#EXTINF:-1,MTV Hits US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12063.ts
+#EXTINF:-1,MTV Dance US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12064.ts
+#EXTINF:-1,Discovery Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15717.ts
+#EXTINF:-1,FOX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15716.ts
+#EXTINF:-1,History HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15712.ts
+#EXTINF:-1,National Geographic HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15714.ts
+#EXTINF:-1,PBS US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15715.ts
+#EXTINF:-1,FreeForm HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14294.ts
+#EXTINF:-1,OWN US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16295.ts
+#EXTINF:-1,NASA LIVE US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16585.ts
+#EXTINF:-1,TNT US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15366.ts
+#EXTINF:-1,Fuel TV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9484.ts

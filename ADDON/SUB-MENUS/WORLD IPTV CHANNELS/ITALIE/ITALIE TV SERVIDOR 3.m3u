@@ -1,362 +1,441 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,Rai 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4429.ts
-#EXTINF:-1,Rai 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4428.ts
-#EXTINF:-1,Rai 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4427.ts
-#EXTINF:-1,Rete 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4422.ts
-#EXTINF:-1,Canale 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4471.ts
-#EXTINF:-1,Italia 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4464.ts
+#EXTINF:-1,Rai 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8131.ts
+#EXTINF:-1,Rai 2 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8130.ts
+#EXTINF:-1,Rai 3 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8129.ts
+#EXTINF:-1,Rete 4 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8128.ts
+#EXTINF:-1,Canale 5 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8127.ts
+#EXTINF:-1,Italia 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8126.ts
 #EXTINF:-1,La 7 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4463.ts
-#EXTINF:-1,Tv 8
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4460.ts
-#EXTINF:-1,IT: Nove Deejay TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17661.ts
-#EXTINF:-1,RSI La1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4421.ts
-#EXTINF:-1,RSI La2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4420.ts
-#EXTINF:-1,=======   CINEMA   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/640.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4413.ts
-#EXTINF:-1,IT: Sky Cinema +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17660.ts
-#EXTINF:-1,IT: Sky Cinema +24 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17375.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17656.ts
-#EXTINF:-1,IT: Sky Cinema Hits
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17376.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17653.ts
-#EXTINF:-1,IT: Sky Cinema Family +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17658.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17659.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17377.ts
-#EXTINF:-1,IT: Sky Cinema Max +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17655.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17657.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17654.ts
-#EXTINF:-1,IT: Sky 3D
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17652.ts
-#EXTINF:-1,Premium Cinema HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4441.ts
-#EXTINF:-1,Premium Cinema +24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4446.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4444.ts
-#EXTINF:-1,Premium Cinema 2  +24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4445.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4443.ts
-#EXTINF:-1,Premium Cinema Energy
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4442.ts
-#EXTINF:-1,Premium Joi
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4432.ts
-#EXTINF:-1,Premium Action HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4457.ts
-#EXTINF:-1,Premium Action  +24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4458.ts
-#EXTINF:-1,Premium Emotion
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4434.ts
-#EXTINF:-1,Premium Studio Universal
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4349.ts
-#EXTINF:-1,Iris
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4465.ts
+http://skystreaming.mx:25461/live/socceron/dasdsa/8125.ts
+#EXTINF:-1,La 7
+http://skystreaming.mx:25461/live/socceron/dasdsa/21007.ts
+#EXTINF:-1,Rai Gulp HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/9401.ts
 #EXTINF:-1,Rai Movie
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4425.ts
-#EXTINF:-1,Premium Stories
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4430.ts
-#EXTINF:-1,Paramount Channel HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8493.ts
-#EXTINF:-1,=======   INTRATTENIMENTO   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/643.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4400.ts
-#EXTINF:-1,IT: Sky Uno +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17651.ts
-#EXTINF:-1,IT: Sky Atlantic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17371.ts
-#EXTINF:-1,IT: Sky Atlantic +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17650.ts
-#EXTINF:-1,IT: Fox HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17378.ts
-#EXTINF:-1,FOX +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4374.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17380.ts
-#EXTINF:-1,Fox Crime +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9589.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17379.ts
-#EXTINF:-1,Fox Comedy +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13311.ts
-#EXTINF:-1,IT: Fox Life HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17374.ts
-#EXTINF:-1,Fox Life +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/5427.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17647.ts
-#EXTINF:-1,IT: Comedy Central
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17646.ts
-#EXTINF:-1,CIELO
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4366.ts
-#EXTINF:-1,IT: Real Time HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17645.ts
-#EXTINF:-1,Real Time +1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/5421.ts
-#EXTINF:-1,Real Giallo
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9590.ts
-#EXTINF:-1,IT: Fine Living
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17644.ts
-#EXTINF:-1,La7d
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4388.ts
-#EXTINF:-1,IT: LEI
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17643.ts
-#EXTINF:-1,La 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4357.ts
-#EXTINF:-1,Rai Scuola
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6142.ts
-#EXTINF:-1,Rai Storia
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/5458.ts
-#EXTINF:-1,Rai Premium
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4352.ts
-#EXTINF:-1,RAI 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4364.ts
-#EXTINF:-1,RAI 5 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4363.ts
-#EXTINF:-1,Mediaset Extra
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4462.ts
-#EXTINF:-1,Mediaset Italia 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4387.ts
-#EXTINF:-1,Top Crime
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4346.ts
-#EXTINF:-1,Premium Crime HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4439.ts
-#EXTINF:-1,Premium Crime  +24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4440.ts
-#EXTINF:-1,Investigation Discovery HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4343.ts
-#EXTINF:-1,IT: Crime Investigation HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17649.ts
-#EXTINF:-1,=======   SPORT   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/638.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17642.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17364.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17365.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17366.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17367.ts
-#EXTINF:-1,IT: Sky Moto GP HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4379.ts
-#EXTINF:-1,IT: Sky Sport Plus HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17641.ts
-#EXTINF:-1,IT: Sky Sport Mix HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17640.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17636.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4351.ts
-#EXTINF:-1,Rai Sport 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4424.ts
-#EXTINF:-1,Super Tennis HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4399.ts
-#EXTINF:-1,Sport Italia
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4350.ts
-#EXTINF:-1,Eurosport 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4368.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4367.ts
-#EXTINF:-1,IT: Caccia e Pesca
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17612.ts
-#EXTINF:-1,IT: Pesca e Caccia
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17611.ts
-#EXTINF:-1,Pescare e Cacciare
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15787.ts
-#EXTINF:-1,IT: Bike Channel HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17638.ts
-#EXTINF:-1,IT: Inter Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17370.ts
-#EXTINF:-1,IT: Juventus Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17630.ts
-#EXTINF:-1,IT: Lazio Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17627.ts
-#EXTINF:-1,IT: Milan Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17629.ts
-#EXTINF:-1,IT: Roma Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17628.ts
-#EXTINF:-1,IT: Torino Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17626.ts
-#EXTINF:-1,IT: Fight Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17637.ts
-#EXTINF:-1,Italian Fishing
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8725.ts
-#EXTINF:-1,Nuvolari
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4336.ts
-#EXTINF:-1,=======   CALCIO   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/642.ts
-#EXTINF:-1,Sportube Lecce Match
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13246.ts
-#EXTINF:-1,IT: Sky Supercalcio HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17635.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17368.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17369.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17634.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17633.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17632.ts
-#EXTINF:-1,IT: Sky Calcio 6 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17631.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4321.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4320.ts
-#EXTINF:-1,Sky Calcio 10 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4325.ts
-#EXTINF:-1,Premium Sport HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4431.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/5419.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4453.ts
-#EXTINF:-1,Premium Calcio 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4454.ts
-#EXTINF:-1,Premium Calcio 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4452.ts
-#EXTINF:-1,Premium Calcio 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4451.ts
-#EXTINF:-1,Premium Calcio 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4450.ts
-#EXTINF:-1,Premium Calcio 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4449.ts
-#EXTINF:-1,Premium Calcio 6
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4448.ts
-#EXTINF:-1,Premium Calcio 7
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4447.ts
-#EXTINF:-1,=======   CULTURA   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/641.ts
-#EXTINF:-1,IT: Nat Geo People
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17624.ts
-#EXTINF:-1,IT: National Geographic HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17625.ts
-#EXTINF:-1,IT: Nat Geo Wild HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17623.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17622.ts
-#EXTINF:-1,IT: Discovery Science
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17621.ts
-#EXTINF:-1,IT: Discovery Travel & Living
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17620.ts
-#EXTINF:-1,IT: History HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17614.ts
-#EXTINF:-1,IT: Focus
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17618.ts
-#EXTINF:-1,IT: Blaze HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17648.ts
-#EXTINF:-1,Dmax
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4469.ts
-#EXTINF:-1,MARCOPOLO
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4338.ts
-#EXTINF:-1,IT: Gambero Rosso
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17613.ts
-#EXTINF:-1,Alice
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4397.ts
-#EXTINF:-1,IT: Animal Planet
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17617.ts
-#EXTINF:-1,IT: Sky Arte HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17616.ts
-#EXTINF:-1,IT: Classica HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17615.ts
-#EXTINF:-1,=======   BAMBINI   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/645.ts
-#EXTINF:-1,Baby Tv
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7402.ts
-#EXTINF:-1,IT: Disney Junior
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17609.ts
-#EXTINF:-1,IT: Disney XD HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17603.ts
-#EXTINF:-1,IT: Disney Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17610.ts
-#EXTINF:-1,Disney Channel +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4437.ts
-#EXTINF:-1,IT: Dea Junior
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17606.ts
-#EXTINF:-1,IT: Dea Kids
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17605.ts
-#EXTINF:-1,Cartoon Network
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4394.ts
-#EXTINF:-1,K2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4389.ts
-#EXTINF:-1,Rai yoyo
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4383.ts
-#EXTINF:-1,Frisbee
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4398.ts
-#EXTINF:-1,Boing
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4395.ts
-#EXTINF:-1,Rai Gulp
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4426.ts
-#EXTINF:-1,Cartoonito
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4393.ts
-#EXTINF:-1,Super!
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4348.ts
-#EXTINF:-1,IT: Boomerang
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17602.ts
-#EXTINF:-1,IT: Sky Man-ga
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17608.ts
-#EXTINF:-1,=======   MUSICA   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/639.ts
-#EXTINF:-1,RTL 102.5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9545.ts
-#EXTINF:-1,M2O HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4339.ts
-#EXTINF:-1,Virgin Radio TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4365.ts
-#EXTINF:-1,Radio 105 TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4355.ts
-#EXTINF:-1,Radio Deejay
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/5170.ts
-#EXTINF:-1,=======NOTIZIE=======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/637.ts
-#EXTINF:-1,Sky TG 24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4380.ts
-#EXTINF:-1,Rai News 24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4353.ts
-#EXTINF:-1,Tg Com 24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4347.ts
-#EXTINF:-1,=======   REGIONALI   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/636.ts
+http://skystreaming.mx:25461/live/socceron/dasdsa/9400.ts
+#EXTINF:-1,MTV
+http://skystreaming.mx:25461/live/socceron/dasdsa/8123.ts
 #EXTINF:-1,TV 2000
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/4345.ts
-#EXTINF:-1,TelePavia
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2137.ts
-#EXTINF:-1,Cinquestelle
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2142.ts
-#EXTINF:-1,Video Brescia
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9586.ts
-#EXTINF:-1,Telerama
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/15595.ts
-#EXTINF:-1,TeleNorba TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/16782.ts
+http://skystreaming.mx:25461/live/socceron/dasdsa/8120.ts
+#EXTINF:-1,Paramount
+http://skystreaming.mx:25461/live/socceron/dasdsa/8118.ts
+
+#EXTINF:-1,Mosaico Sky Cinema 4/4 Audio
+http://skystreaming.mx:25461/live/socceron/dasdsa/8115.ts
+#EXTINF:-1,Sky Cinema +24 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21268.ts
+#EXTINF:-1,Sky Cinema 1 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8114.ts
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8107.ts
+#EXTINF:-1,Sky Cinema Cult Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8105.ts
+#EXTINF:-1,Sky Cinema Family Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8102.ts
+#EXTINF:-1,Sky Cinema Hits Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8099.ts
+#EXTINF:-1,Sky Cinema Max Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8096.ts
+#EXTINF:-1,Sky Cinema Passion Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8093.ts
+#EXTINF:-1,Sky Cinema Classic Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8110.ts
+
+#EXTINF:-1,Sky Cinema 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8113.ts
+#EXTINF:-1,SkyCinema1 +24 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/9407.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8111.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8108.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8104.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8101.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8098.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8095.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8092.ts
+
+#EXTINF:-1,SkyCinema1 HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/9410.ts
+#EXTINF:-1,SkyCinema Comedy HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8106.ts
+#EXTINF:-1,SkyCinema Family HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8100.ts
+#EXTINF:-1,SkyCinema Hits HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8097.ts
+#EXTINF:-1,Sky Cinema Max HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8094.ts
+#EXTINF:-1,SkyCinemaClassic HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/9409.ts
+#EXTINF:-1,SkyCinema Cult HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8103.ts
+#EXTINF:-1,Sky Cinema Passion HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8091.ts
+
+#EXTINF:-1,Sky Sport 24 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8015.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8017.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8016.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8014.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8012.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8013.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8011.ts
+#EXTINF:-1,Fox Sports HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8009.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8010.ts
+#EXTINF:-1,Supertennis HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8008.ts
+#EXTINF:-1,Sport Italia
+http://skystreaming.mx:25461/live/socceron/dasdsa/8007.ts
+
+#EXTINF:-1,Sky Sport 24 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8000.ts
+#EXTINF:-1,Sky Sport 1 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8004.ts
+#EXTINF:-1,Sky Sport 2 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8002.ts
+#EXTINF:-1,Sky Sport 3 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7998.ts
+#EXTINF:-1,Sky Sport F1 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7996.ts
+#EXTINF:-1,Sky Sport MotoGP Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7992.ts
+#EXTINF:-1,Sky Sport Mix Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7994.ts
+#EXTINF:-1,Sky Sport Plus Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7990.ts
+#EXTINF:-1,Fox Sport Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7988.ts
+#EXTINF:-1,Eurosport 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8006.ts
+#EXTINF:-1,Inter Channel
+http://skystreaming.mx:25461/live/socceron/dasdsa/14581.ts
+#EXTINF:-1,Juventus Channel
+http://skystreaming.mx:25461/live/socceron/dasdsa/14583.ts
+#EXTINF:-1,Lazio_Channel
+http://skystreaming.mx:25461/live/socceron/dasdsa/14582.ts
+#EXTINF:-1,Milan Channel
+http://skystreaming.mx:25461/live/socceron/dasdsa/14584.ts
+#EXTINF:-1,TORINO CHANEL
+http://skystreaming.mx:25461/live/socceron/dasdsa/16864.ts
+
+#EXTINF:-1,SkySport24HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7999.ts
+#EXTINF:-1,SkySport1HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8003.ts
+#EXTINF:-1,SkySport2HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8001.ts
+#EXTINF:-1,SkySport3HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7997.ts
+#EXTINF:-1,SkySportF1HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7995.ts
+#EXTINF:-1,SkySportMotoGPHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7991.ts
+#EXTINF:-1,SkySportMixHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7993.ts
+#EXTINF:-1,SkySportPlusHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7989.ts
+#EXTINF:-1,FoxSportHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7987.ts
+
+#EXTINF:-1,Mosaico Supercalcio Calcio 123 4/4 Audio
+http://skystreaming.mx:25461/live/socceron/dasdsa/9408.ts
+#EXTINF:-1,Sky SuperCalcio HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7985.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7984.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7983.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7982.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14580.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14579.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14578.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14577.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/16867.ts
+
+#EXTINF:-1,Sky SuperCalcio Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7981.ts
+#EXTINF:-1,Sky Calcio 1 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/9411.ts
+#EXTINF:-1,Sky Calcio 2 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7978.ts
+#EXTINF:-1,Sky Calcio 3 Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7977.ts
+
+#EXTINF:-1,SkyCalcio1HDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7979.ts
+#EXTINF:-1,SuperCalcioHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7980.ts
+#EXTINF:-1,Sky Arte Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21051.ts
+
+#EXTINF:-1,Sky Arte HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/16866.ts
+#EXTINF:-1,Sky Uno HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8089.ts
+#EXTINF:-1,SkyUnoHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8087.ts
+#EXTINF:-1,Sky Atlantic Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8085.ts
+#EXTINF:-1,Sky Atlantic HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8086.ts
+#EXTINF:-1,Sky Atlantic HD +1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8084.ts
+#EXTINF:-1,Fox Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8082.ts
+#EXTINF:-1,Fox HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8083.ts
+#EXTINF:-1,FoxHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8081.ts
+#EXTINF:-1,Fox Life Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21055.ts
+#EXTINF:-1,Fox Life HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21054.ts
+#EXTINF:-1,Sky Fox Crime HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14585.ts
+#EXTINF:-1,Fox Crime Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14672.ts
+#EXTINF:-1,Fox Comedy Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14671.ts
+#EXTINF:-1,Crime Investigation Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14673.ts
+#EXTINF:-1,Lei Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21053.ts
+#EXTINF:-1,Lei HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/21052.ts
+#EXTINF:-1,Gambero Rosso
+http://skystreaming.mx:25461/live/socceron/dasdsa/16862.ts
+#EXTINF:-1,Blaze Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8079.ts
+#EXTINF:-1,BlazeHDPiu1
+http://skystreaming.mx:25461/live/socceron/dasdsa/8078.ts
+#EXTINF:-1,Sky Blaze HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8080.ts
+#EXTINF:-1,Premium Extra 2 ( GF )
+http://skystreaming.mx:25461/live/socceron/dasdsa/8077.ts
+#EXTINF:-1,Dmax
+http://skystreaming.mx:25461/live/socceron/dasdsa/8076.ts
+#EXTINF:-1,Focus
+http://skystreaming.mx:25461/live/socceron/dasdsa/8072.ts
+#EXTINF:-1,Frisbee
+http://skystreaming.mx:25461/live/socceron/dasdsa/8071.ts
+#EXTINF:-1,Giallo
+http://skystreaming.mx:25461/live/socceron/dasdsa/8070.ts
+#EXTINF:-1,Sposa HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8069.ts
+#EXTINF:-1,Antenna 3
+http://skystreaming.mx:25461/live/socceron/dasdsa/8068.ts
+#EXTINF:-1,Cielo
+http://skystreaming.mx:25461/live/socceron/dasdsa/8067.ts
+#EXTINF:-1,Deejay TV
+http://skystreaming.mx:25461/live/socceron/dasdsa/8066.ts
+#EXTINF:-1,Espansione TV
+http://skystreaming.mx:25461/live/socceron/dasdsa/8065.ts
+#EXTINF:-1,Alice
+http://skystreaming.mx:25461/live/socceron/dasdsa/8062.ts
+#EXTINF:-1,Fine Living
+http://skystreaming.mx:25461/live/socceron/dasdsa/8064.ts
+#EXTINF:-1,Iris
+http://skystreaming.mx:25461/live/socceron/dasdsa/8063.ts
+#EXTINF:-1,Italia 2
+http://skystreaming.mx:25461/live/socceron/dasdsa/8061.ts
+#EXTINF:-1,Marcopolo
+http://skystreaming.mx:25461/live/socceron/dasdsa/8059.ts
+#EXTINF:-1,Mediaset Extra
+http://skystreaming.mx:25461/live/socceron/dasdsa/8058.ts
+#EXTINF:-1,Nuvolari
+http://skystreaming.mx:25461/live/socceron/dasdsa/8057.ts
+#EXTINF:-1,Rai 4 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8055.ts
+#EXTINF:-1,Rai 5
+http://skystreaming.mx:25461/live/socceron/dasdsa/8054.ts
+#EXTINF:-1,Rai Premium
+http://skystreaming.mx:25461/live/socceron/dasdsa/8053.ts
+#EXTINF:-1,Rai Premium HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8052.ts
+#EXTINF:-1,Rai Senato
+http://skystreaming.mx:25461/live/socceron/dasdsa/8047.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8046.ts
+#EXTINF:-1,Rai Storia HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8045.ts
+#EXTINF:-1,Top Crime
+http://skystreaming.mx:25461/live/socceron/dasdsa/8048.ts
+#EXTINF:-1,Real Time
+http://skystreaming.mx:25461/live/socceron/dasdsa/8051.ts
+#EXTINF:-1,Rai Storia
+http://skystreaming.mx:25461/live/socceron/dasdsa/20991.ts
+
+#EXTINF:-1,Super
+http://skystreaming.mx:25461/live/socceron/dasdsa/9404.ts
+#EXTINF:-1,Premium Cartoon Network
+http://skystreaming.mx:25461/live/socceron/dasdsa/8043.ts
+#EXTINF:-1,Fox Animation full hd
+http://skystreaming.mx:25461/live/socceron/dasdsa/14587.ts
+#EXTINF:-1,Cartonito
+http://skystreaming.mx:25461/live/socceron/dasdsa/8041.ts
+#EXTINF:-1,Boing
+http://skystreaming.mx:25461/live/socceron/dasdsa/8042.ts
+#EXTINF:-1,Disney XD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8040.ts
+#EXTINF:-1,Disney Channel HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/17509.ts
+#EXTINF:-1,SKY Disney Junior.
+http://skystreaming.mx:25461/live/socceron/dasdsa/14586.ts
+#EXTINF:-1,K2
+http://skystreaming.mx:25461/live/socceron/dasdsa/8039.ts
+#EXTINF:-1,Rai Scuola
+http://skystreaming.mx:25461/live/socceron/dasdsa/8038.ts
+#EXTINF:-1,Rai Scuola HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8037.ts
+#EXTINF:-1,Rai Yoyo
+http://skystreaming.mx:25461/live/socceron/dasdsa/8036.ts
+#EXTINF:-1,Rai Yoyo HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8035.ts
+#EXTINF:-1,Rai Gulp
+http://skystreaming.mx:25461/live/socceron/dasdsa/8034.ts
+#EXTINF:-1,Baby TV
+http://skystreaming.mx:25461/live/socceron/dasdsa/16859.ts
+#EXTINF:-1,Dea Junior
+http://skystreaming.mx:25461/live/socceron/dasdsa/16861.ts
+#EXTINF:-1,DeaKids
+http://skystreaming.mx:25461/live/socceron/dasdsa/16860.ts
+
+#EXTINF:-1,Discovery HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8029.ts
+#EXTINF:-1,Discovery Sci HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8028.ts
+#EXTINF:-1,Discovery T&L
+http://skystreaming.mx:25461/live/socceron/dasdsa/8027.ts
+#EXTINF:-1,Sky Discovery Travel HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/14588.ts
+#EXTINF:-1,Nat Geo HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8022.ts
+#EXTINF:-1,Nat Geo People HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8021.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8020.ts
+#EXTINF:-1,History Channel
+http://skystreaming.mx:25461/live/socceron/dasdsa/8024.ts
+#EXTINF:-1,Premium Studio Universal
+http://skystreaming.mx:25461/live/socceron/dasdsa/8032.ts
+#EXTINF:-1,Premium Stories  24
+http://skystreaming.mx:25461/live/socceron/dasdsa/8031.ts
+#EXTINF:-1,Animal Planet
+http://skystreaming.mx:25461/live/socceron/dasdsa/8030.ts
+#EXTINF:-1,Investigation Discovery
+http://skystreaming.mx:25461/live/socceron/dasdsa/7956.ts
+#EXTINF:-1,Class Horse TV
+http://skystreaming.mx:25461/live/socceron/dasdsa/8026.ts
+#EXTINF:-1,Classica HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/8025.ts
+#EXTINF:-1,Italian Fishing
+http://skystreaming.mx:25461/live/socceron/dasdsa/8023.ts
+#EXTINF:-1,Pescare Cacciare TV
+http://skystreaming.mx:25461/live/socceron/dasdsa/8019.ts
+#EXTINF:-1,Caccia e Pesca
+http://skystreaming.mx:25461/live/socceron/dasdsa/14589.ts
+
+#EXTINF:-1,Sky TG 24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7975.ts
+#EXTINF:-1,Rai News 24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7974.ts
+#EXTINF:-1,Rai News 24 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7973.ts
+#EXTINF:-1,TGcom 24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7972.ts
+#EXTINF:-1,Chobin - Il Principe Stellare - Cd6 - Ep 21-24
+http://skystreaming.mx:25461/movie/socceron/dasdsa/21061.mkv
+
+#EXTINF:-1,Premium Cinema Full HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7969.ts
+#EXTINF:-1,Premium Cinema HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7968.ts
+#EXTINF:-1,Premium Cinema 2 hd
+http://skystreaming.mx:25461/live/socceron/dasdsa/7966.ts
+#EXTINF:-1,Premium Cinema Energy HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7964.ts
+#EXTINF:-1,Premium Comedy
+http://skystreaming.mx:25461/live/socceron/dasdsa/7963.ts
+#EXTINF:-1,Premium Crime HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7961.ts
+#EXTINF:-1,Premium Emotion
+http://skystreaming.mx:25461/live/socceron/dasdsa/7960.ts
+#EXTINF:-1,Premium Energy
+http://skystreaming.mx:25461/live/socceron/dasdsa/7959.ts
+#EXTINF:-1,Premium Action HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7954.ts
+#EXTINF:-1,Premium Joy
+http://skystreaming.mx:25461/live/socceron/dasdsa/7958.ts
+
+#EXTINF:-1,Premium Cinema 1 +24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7970.ts
+#EXTINF:-1,Premium Cinema 2  24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7967.ts
+#EXTINF:-1,Premium Cinema Energy +24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7965.ts
+#EXTINF:-1,Premium Crime  +24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7962.ts
+#EXTINF:-1,Premium Acction  24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7955.ts
+#EXTINF:-1,Premium Joy  24
+http://skystreaming.mx:25461/live/socceron/dasdsa/7957.ts
+
+#EXTINF:-1,Premium Sport 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7951.ts
+#EXTINF:-1,Premium Sport 1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7952.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7949.ts
+#EXTINF:-1,Premium Sport 2
+http://skystreaming.mx:25461/live/socceron/dasdsa/7950.ts
+#EXTINF:-1,Premium Eurosport 1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7948.ts
+#EXTINF:-1,Premium Eurosport 2
+http://skystreaming.mx:25461/live/socceron/dasdsa/7947.ts
+
+#EXTINF:-1,Premium Calcio 1 HD
+http://skystreaming.mx:25461/live/socceron/dasdsa/7944.ts
+#EXTINF:-1,Premium Calcio 1
+http://skystreaming.mx:25461/live/socceron/dasdsa/7945.ts
+#EXTINF:-1,Premium Calcio 2
+http://skystreaming.mx:25461/live/socceron/dasdsa/7943.ts
+#EXTINF:-1,Premium Calcio 3
+http://skystreaming.mx:25461/live/socceron/dasdsa/7942.ts
+#EXTINF:-1,Premium Calcio 4
+http://skystreaming.mx:25461/live/socceron/dasdsa/7941.ts
+#EXTINF:-1,Premium Calcio 5
+http://skystreaming.mx:25461/live/socceron/dasdsa/7940.ts
+#EXTINF:-1,Premium Calcio 6
+http://skystreaming.mx:25461/live/socceron/dasdsa/7939.ts
+#EXTINF:-1,Premium Calcio 7
+http://skystreaming.mx:25461/live/socceron/dasdsa/7938.ts
