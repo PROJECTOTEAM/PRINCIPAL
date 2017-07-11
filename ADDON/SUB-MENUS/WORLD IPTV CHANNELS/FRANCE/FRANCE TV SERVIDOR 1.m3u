@@ -1,260 +1,409 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,13ème RUE HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2250.ts
-#EXTINF:-1,6ter HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3723.ts
-#EXTINF:-1,AB1 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3731.ts
-#EXTINF:-1,AB1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13144.ts
-#EXTINF:-1,Action HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4507.ts
-#EXTINF:-1,Animaux FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4469.ts
-#EXTINF:-1,Animaux HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13119.ts
-#EXTINF:-1,Arte HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3726.ts
-#EXTINF:-1,BFM TV FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3607.ts
-#EXTINF:-1,BeCurious TV FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13160.ts
-#EXTINF:-1,Boing HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13176.ts
-#EXTINF:-1,Boomerang FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2240.ts
-#EXTINF:-1,Canal Alpha HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13150.ts
-#EXTINF:-1,Canal J HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2239.ts
-#EXTINF:-1,C8 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2227.ts
-#EXTINF:-1,Canal Star HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4459.ts
-#EXTINF:-1,Canal+ Cinéma FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15283.ts
-#EXTINF:-1,Canal+ Cinéma FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2207.ts
-#EXTINF:-1,Canal+ Cinéma HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13131.ts
-#EXTINF:-1,Canal+ Décalé FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3733.ts
-#EXTINF:-1,Canal+ Décalé HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13134.ts
-#EXTINF:-1,Canal+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2206.ts
-#EXTINF:-1,Canal+ Family FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3735.ts
-#EXTINF:-1,Canal+ Family HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13132.ts
-#EXTINF:-1,Canal+ Séries HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2211.ts
-#EXTINF:-1,Canal+ Sport FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15284.ts
-#EXTINF:-1,Canal+ Sport FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2210.ts
-#EXTINF:-1,Canal+ Sport HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13149.ts
-#EXTINF:-1,CanalPlay 1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6448.ts
-#EXTINF:-1,CanalPlay 2 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6447.ts
-#EXTINF:-1,CanalPlay 3 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6446.ts
-#EXTINF:-1,CanalPlay 4 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6445.ts
-#EXTINF:-1,CanalPlay 5 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/6444.ts
-#EXTINF:-1,Cartoon Network HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2246.ts
-#EXTINF:-1,Chasse et Pêche FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2257.ts
-#EXTINF:-1,Chérie 25 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13158.ts
-#EXTINF:-1,Ciné FX FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7806.ts
-#EXTINF:-1,Cine + Classic HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2217.ts
-#EXTINF:-1,Cine + Émotion HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2214.ts
-#EXTINF:-1,Cine + Famiz HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2215.ts
-#EXTINF:-1,Cine + Frisson HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2212.ts
-#EXTINF:-1,Cine + Premier HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2213.ts
-#EXTINF:-1,COMEDIE+ FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3746.ts
-#EXTINF:-1,COMEDIE+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13146.ts
-#EXTINF:-1,Discovery Channel HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7579.ts
-#EXTINF:-1,Discovery Science HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7578.ts
-#EXTINF:-1,Disney Channel FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2241.ts
-#EXTINF:-1,Disney Channel HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13126.ts
-#EXTINF:-1,Disney Cinema HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13169.ts
-#EXTINF:-1,Disney Junior HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13170.ts
-#EXTINF:-1,Disney XD HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13171.ts
-#EXTINF:-1,E! HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2229.ts
-#EXTINF:-1,Equidia Live HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13181.ts
-#EXTINF:-1,Euronews FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3751.ts
-#EXTINF:-1,Eurosport 1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2013.ts
-#EXTINF:-1,Eurosport 2 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7572.ts
-#EXTINF:-1,Foot+ 24/24 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7804.ts
-#EXTINF:-1,France 2 FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14907.ts
-#EXTINF:-1,France 2 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2200.ts
-#EXTINF:-1,France 24 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3753.ts
-#EXTINF:-1,France 3 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2201.ts
-#EXTINF:-1,France 4 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2202.ts
-#EXTINF:-1,France 5 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2203.ts
-#EXTINF:-1,France O FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3752.ts
-#EXTINF:-1,Game One HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7574.ts
-#EXTINF:-1,Golf+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13179.ts
-#EXTINF:-1,Gulli HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4465.ts
-#EXTINF:-1,HD1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13159.ts
-#EXTINF:-1,Histoire HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13166.ts
-#EXTINF:-1,Infosport+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7571.ts
-#EXTINF:-1,L'Equipe 21 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4468.ts
-#EXTINF:-1,M6 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3758.ts
-#EXTINF:-1,M6 Music FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4476.ts
-#EXTINF:-1,Elle Girl FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13189.ts
-#EXTINF:-1,Mangas FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2245.ts
-#EXTINF:-1,NRJ 12 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3760.ts
-#EXTINF:-1,NT1 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7561.ts
-#EXTINF:-1,National Geographic Wild HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3606.ts
-#EXTINF:-1,National Geographic FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4467.ts
-#EXTINF:-1,Nick Jr. FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13173.ts
-#EXTINF:-1,Nickelodeon 4Teen FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15638.ts
-#EXTINF:-1,Nickelodeon HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13172.ts
-#EXTINF:-1,Numero 23 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3750.ts
-#EXTINF:-1,Numero 23 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13141.ts
-#EXTINF:-1,OCS Choc HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7576.ts
-#EXTINF:-1,OCS City HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3763.ts
-#EXTINF:-1,OCS Geants HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3762.ts
-#EXTINF:-1,OCS Max HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3761.ts
-#EXTINF:-1,PIWI+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13174.ts
-#EXTINF:-1,Paramount Channel HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13163.ts
-#EXTINF:-1,Paris Première HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2224.ts
-#EXTINF:-1,Planète+ Action & Expérience FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2248.ts
-#EXTINF:-1,Planète+ Action & Experience HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13124.ts
-#EXTINF:-1,Planète+ Crime Investigation FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15639.ts
-#EXTINF:-1,Planète+ Crime Investigation HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2249.ts
-#EXTINF:-1,Planète+ FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2247.ts
-#EXTINF:-1,Polar FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7805.ts
-#EXTINF:-1,RMC Découverte HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13157.ts
-#EXTINF:-1,RTL9 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3771.ts
-#EXTINF:-1,SFR Sport 1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13182.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2251.ts
-#EXTINF:-1,SFR Sport 3 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13148.ts
-#EXTINF:-1,SFR Sport 4K FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13153.ts
-#EXTINF:-1,SFR Sport 5 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13151.ts
-#EXTINF:-1,Science & Vie TV FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7799.ts
-#EXTINF:-1,Science & Vie TV HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13115.ts
-#EXTINF:-1,Seasons HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13186.ts
-#EXTINF:-1,serieclub HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2221.ts
-#EXTINF:-1,Syfy HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2228.ts
-#EXTINF:-1,TCM Cinéma FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2218.ts
-#EXTINF:-1,TF1 FHD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14906.ts
-#EXTINF:-1,TF1 HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2204.ts
-#EXTINF:-1,TIJI HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2237.ts
-#EXTINF:-1,TMC FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13164.ts
-#EXTINF:-1,TV5MONDE Europe FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3769.ts
-#EXTINF:-1,TVBreizh FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2244.ts
-#EXTINF:-1,TV Breizh HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13125.ts
-#EXTINF:-1,TeleToon+ HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4466.ts
-#EXTINF:-1,Teva FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/2225.ts
-#EXTINF:-1,Toute l'histoire FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7798.ts
-#EXTINF:-1,Trek HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13185.ts
-#EXTINF:-1,Ushuaïa TV HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4491.ts
-#EXTINF:-1,Voyage HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13167.ts
-#EXTINF:-1,W9 FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3770.ts
-#EXTINF:-1,Wéo TV FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/4464.ts
-#EXTINF:-1,CNews HD FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13154.ts
-#EXTINF:-1,Motorsport TV FR
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/3252.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TF1 HD
+http://ndasat.pro:8000/live/exch/exch/94.ts
+#EXTINF:-1,France 2 HD
+http://ndasat.pro:8000/live/exch/exch/139.ts
+#EXTINF:-1,France 3 HD
+http://ndasat.pro:8000/live/exch/exch/137.ts
+#EXTINF:-1,France 4 HD
+http://ndasat.pro:8000/live/exch/exch/136.ts
+#EXTINF:-1,France 5 HD
+http://ndasat.pro:8000/live/exch/exch/113.ts
+#EXTINF:-1,M6 HD
+http://ndasat.pro:8000/live/exch/exch/378.ts
+#EXTINF:-1,Arte HD
+http://ndasat.pro:8000/live/exch/exch/145.ts
+#EXTINF:-1,C8 HD
+http://ndasat.pro:8000/live/exch/exch/171.ts
+#EXTINF:-1,W9 HD
+http://ndasat.pro:8000/live/exch/exch/91.ts
+#EXTINF:-1,TMC HD
+http://ndasat.pro:8000/live/exch/exch/93.ts
+#EXTINF:-1,HD1
+http://ndasat.pro:8000/live/exch/exch/134.ts
+#EXTINF:-1,NRJ 12 HD
+http://ndasat.pro:8000/live/exch/exch/1647.ts
+#EXTINF:-1,13eme Rue
+http://ndasat.pro:8000/live/exch/exch/152.ts
+#EXTINF:-1,NT1
+http://ndasat.pro:8000/live/exch/exch/127.ts
+#EXTINF:-1,Paris premiere
+http://ndasat.pro:8000/live/exch/exch/125.ts
+#EXTINF:-1,6Ter HD
+http://ndasat.pro:8000/live/exch/exch/151.ts
+#EXTINF:-1,C STAR HD
+http://ndasat.pro:8000/live/exch/exch/157.ts
+#EXTINF:-1,CNEWS HD
+http://ndasat.pro:8000/live/exch/exch/132.ts
+#EXTINF:-1,RTL 9 HD
+http://ndasat.pro:8000/live/exch/exch/2343.ts
+#EXTINF:-1,France O HD
+http://ndasat.pro:8000/live/exch/exch/140.ts
+#EXTINF:-1,Lequipe 21 HD
+http://ndasat.pro:8000/live/exch/exch/143.ts
+#EXTINF:-1,INFOSPORT+
+http://ndasat.pro:8000/live/exch/exch/133.ts
+#EXTINF:-1,Numero  23
+http://ndasat.pro:8000/live/exch/exch/2282.ts
+#EXTINF:-1,France 24
+http://ndasat.pro:8000/live/exch/exch/138.ts
+#EXTINF:-1,Cherie 25 HD
+http://ndasat.pro:8000/live/exch/exch/164.ts
+#EXTINF:-1,France info HD
+http://ndasat.pro:8000/live/exch/exch/3180.ts
+#EXTINF:-1,BFM TV HD
+http://ndasat.pro:8000/live/exch/exch/131.ts
+#EXTINF:-1,BFM Business
+http://ndasat.pro:8000/live/exch/exch/1720.ts
+#EXTINF:-1,BFM SPORT HD
+http://ndasat.pro:8000/live/exch/exch/2283.ts
+#EXTINF:-1,SPORT 365 HD
+http://ndasat.pro:8000/live/exch/exch/3179.ts
+#EXTINF:-1,LCI
+http://ndasat.pro:8000/live/exch/exch/2286.ts
+#EXTINF:-1,Euronews
+http://ndasat.pro:8000/live/exch/exch/2284.ts
+#EXTINF:-1,TV5 Monde
+http://ndasat.pro:8000/live/exch/exch/2285.ts
+#EXTINF:-1,LCP
+http://ndasat.pro:8000/live/exch/exch/2287.ts
+#EXTINF:-1,TV BREIZH
+http://ndasat.pro:8000/live/exch/exch/92.ts
+#EXTINF:-1,Syfy HD
+http://ndasat.pro:8000/live/exch/exch/95.ts
+#EXTINF:-1,E ! Entertainment
+http://ndasat.pro:8000/live/exch/exch/2856.ts
+#EXTINF:-1,TEVA HD
+http://ndasat.pro:8000/live/exch/exch/1644.ts
+#EXTINF:-1,Comedie+ HD
+http://ndasat.pro:8000/live/exch/exch/158.ts
+#EXTINF:-1,TCM HD
+http://ndasat.pro:8000/live/exch/exch/1643.ts
+#EXTINF:-1,CANAL+ HD
+http://ndasat.pro:8000/live/exch/exch/170.ts
+#EXTINF:-1,Canal+ Low
+http://ndasat.pro:8000/live/exch/exch/3943.ts
+#EXTINF:-1,CANAL+ DECALE HD
+http://ndasat.pro:8000/live/exch/exch/169.ts
+#EXTINF:-1,Canal+ Decale Low
+http://ndasat.pro:8000/live/exch/exch/3944.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+http://ndasat.pro:8000/live/exch/exch/166.ts
+#EXTINF:-1,Canal+ Cinema Low
+http://ndasat.pro:8000/live/exch/exch/3942.ts
+#EXTINF:-1,CANAL+ FAMILY HD
+http://ndasat.pro:8000/live/exch/exch/168.ts
+#EXTINF:-1,Canal+ Family Low
+http://ndasat.pro:8000/live/exch/exch/3939.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://ndasat.pro:8000/live/exch/exch/167.ts
+#EXTINF:-1,Canal+ Sport Low
+http://ndasat.pro:8000/live/exch/exch/3941.ts
+#EXTINF:-1,CANAL+ SERIES HD
+http://ndasat.pro:8000/live/exch/exch/122.ts
+#EXTINF:-1,Canal+ Series Low
+http://ndasat.pro:8000/live/exch/exch/3940.ts
+#EXTINF:-1,Cine+ Premier HD
+http://ndasat.pro:8000/live/exch/exch/161.ts
+#EXTINF:-1,Cine+ Famiz HD
+http://ndasat.pro:8000/live/exch/exch/159.ts
+#EXTINF:-1,Cine+ Frisson HD
+http://ndasat.pro:8000/live/exch/exch/162.ts
+#EXTINF:-1,Cine+ Emotion HD
+http://ndasat.pro:8000/live/exch/exch/163.ts
+#EXTINF:-1,Cine+ Classic HD
+http://ndasat.pro:8000/live/exch/exch/121.ts
+#EXTINF:-1,OCS Max HD
+http://ndasat.pro:8000/live/exch/exch/109.ts
+#EXTINF:-1,OCS City HD
+http://ndasat.pro:8000/live/exch/exch/111.ts
+#EXTINF:-1,OCS Choc HD
+http://ndasat.pro:8000/live/exch/exch/112.ts
+#EXTINF:-1,OCS Geant HD
+http://ndasat.pro:8000/live/exch/exch/110.ts
+#EXTINF:-1,Orange Cinema Disney
+http://ndasat.pro:8000/live/exch/exch/5608.ts
+#EXTINF:-1,Orange cinema action
+http://ndasat.pro:8000/live/exch/exch/5605.ts
+#EXTINF:-1,Orange cinema Aventure
+http://ndasat.pro:8000/live/exch/exch/5606.ts
+#EXTINF:-1,Orange cinema comedie
+http://ndasat.pro:8000/live/exch/exch/5611.ts
+#EXTINF:-1,Orange Cinema Horreur
+http://ndasat.pro:8000/live/exch/exch/5609.ts
+#EXTINF:-1,Orange Cinema Doc
+http://ndasat.pro:8000/live/exch/exch/5610.ts
+#EXTINF:-1,CINE FX
+http://ndasat.pro:8000/live/exch/exch/1617.ts
+#EXTINF:-1,CINE Polar
+http://ndasat.pro:8000/live/exch/exch/160.ts
+#EXTINF:-1,Serie Club
+http://ndasat.pro:8000/live/exch/exch/1648.ts
+#EXTINF:-1,Action
+http://ndasat.pro:8000/live/exch/exch/150.ts
+#EXTINF:-1,Paramount Channel HD
+http://ndasat.pro:8000/live/exch/exch/126.ts
+#EXTINF:-1,RMC Decouverte HD
+http://ndasat.pro:8000/live/exch/exch/98.ts
+#EXTINF:-1,Planete+ HD
+http://ndasat.pro:8000/live/exch/exch/609.ts
+#EXTINF:-1,PLANETE+ CI
+http://ndasat.pro:8000/live/exch/exch/123.ts
+#EXTINF:-1,Planete+ AE HD
+http://ndasat.pro:8000/live/exch/exch/124.ts
+#EXTINF:-1,Crime District
+http://ndasat.pro:8000/live/exch/exch/3540.ts
+#EXTINF:-1,National Geographic HD
+http://ndasat.pro:8000/live/exch/exch/128.ts
+#EXTINF:-1,NatGeo Wild HD
+http://ndasat.pro:8000/live/exch/exch/129.ts
+#EXTINF:-1,Discovery HD
+http://ndasat.pro:8000/live/exch/exch/156.ts
+#EXTINF:-1,Discovery Science HD
+http://ndasat.pro:8000/live/exch/exch/120.ts
+#EXTINF:-1,Discovery Investigation
+http://ndasat.pro:8000/live/exch/exch/5566.ts
+#EXTINF:-1,Orange Enquetes exclusives
+http://ndasat.pro:8000/live/exch/exch/5607.ts
+#EXTINF:-1,Science et Vie TV
+http://ndasat.pro:8000/live/exch/exch/97.ts
+#EXTINF:-1,Voyage HD
+http://ndasat.pro:8000/live/exch/exch/89.ts
+#EXTINF:-1,ANIMAUX
+http://ndasat.pro:8000/live/exch/exch/149.ts
+#EXTINF:-1,USHUAIA TV HD
+http://ndasat.pro:8000/live/exch/exch/90.ts
+#EXTINF:-1,Trek TV HD
+http://ndasat.pro:8000/live/exch/exch/1719.ts
+#EXTINF:-1,Museum HD
+http://ndasat.pro:8000/live/exch/exch/5738.ts
+#EXTINF:-1,Histoire HD
+http://ndasat.pro:8000/live/exch/exch/2848.ts
+#EXTINF:-1,Toute l'Histoire
+http://ndasat.pro:8000/live/exch/exch/1645.ts
+#EXTINF:-1,Seasons hd
+http://ndasat.pro:8000/live/exch/exch/96.ts
+#EXTINF:-1,Chasse et pêche HD
+http://ndasat.pro:8000/live/exch/exch/165.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://ndasat.pro:8000/live/exch/exch/377.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://ndasat.pro:8000/live/exch/exch/376.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://ndasat.pro:8000/live/exch/exch/608.ts
+#EXTINF:-1,SFR SPORT 4K
+http://ndasat.pro:8000/live/exch/exch/3471.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://ndasat.pro:8000/live/exch/exch/1728.ts
+#EXTINF:-1,Eurosport HD
+http://ndasat.pro:8000/live/exch/exch/142.ts
+#EXTINF:-1,Eurosport 2 HD
+http://ndasat.pro:8000/live/exch/exch/114.ts
+#EXTINF:-1,Foot+ 24/24 HD
+http://ndasat.pro:8000/live/exch/exch/141.ts
+#EXTINF:-1,GOLF+ HD
+http://ndasat.pro:8000/live/exch/exch/135.ts
+#EXTINF:-1,AB Moteurs
+http://ndasat.pro:8000/live/exch/exch/1616.ts
+#EXTINF:-1,Equidia Live HD
+http://ndasat.pro:8000/live/exch/exch/144.ts
+#EXTINF:-1,Equidia life
+http://ndasat.pro:8000/live/exch/exch/2327.ts
+#EXTINF:-1,Elle Girl
+http://ndasat.pro:8000/live/exch/exch/2329.ts
+#EXTINF:-1,ENF | TIJI HD
+http://ndasat.pro:8000/live/exch/exch/115.ts
+#EXTINF:-1,ENF | PIWI
+http://ndasat.pro:8000/live/exch/exch/146.ts
+#EXTINF:-1,ENF | Zouzous TV
+http://ndasat.pro:8000/live/exch/exch/1195.ts
+#EXTINF:-1,ENF | Teletoon+
+http://ndasat.pro:8000/live/exch/exch/116.ts
+#EXTINF:-1,ENF | Gulli
+http://ndasat.pro:8000/live/exch/exch/117.ts
+#EXTINF:-1,ENF | Boomerang
+http://ndasat.pro:8000/live/exch/exch/155.ts
+#EXTINF:-1,Boing
+http://ndasat.pro:8000/live/exch/exch/119.ts
+#EXTINF:-1,ENF | Cartoon Network
+http://ndasat.pro:8000/live/exch/exch/1640.ts
+#EXTINF:-1,ENF | NICKELODEON
+http://ndasat.pro:8000/live/exch/exch/148.ts
+#EXTINF:-1,ENF | Nickeleodeon Junior
+http://ndasat.pro:8000/live/exch/exch/147.ts
+#EXTINF:-1,ENF | Disney Channel HD
+http://ndasat.pro:8000/live/exch/exch/154.ts
+#EXTINF:-1,ENF | Disney Channel +1
+http://ndasat.pro:8000/live/exch/exch/1721.ts
+#EXTINF:-1,ENF | Disney Cinema HD
+http://ndasat.pro:8000/live/exch/exch/2732.ts
+#EXTINF:-1,ENF | Disney Junior HD
+http://ndasat.pro:8000/live/exch/exch/1646.ts
+#EXTINF:-1,ENF | Disney XD
+http://ndasat.pro:8000/live/exch/exch/1725.ts
+#EXTINF:-1,ENF | CANAL J HD
+http://ndasat.pro:8000/live/exch/exch/1804.ts
+#EXTINF:-1,ENF | MANGA
+http://ndasat.pro:8000/live/exch/exch/153.ts
+#EXTINF:-1,ENF | J One
+http://ndasat.pro:8000/live/exch/exch/1641.ts
+#EXTINF:-1,GAME ONE
+http://ndasat.pro:8000/live/exch/exch/1787.ts
+#EXTINF:-1,AB1 HD
+http://ndasat.pro:8000/live/exch/exch/2345.ts
+#EXTINF:-1,MCM HD
+http://ndasat.pro:8000/live/exch/exch/2325.ts
+#EXTINF:-1,NRJ HITS HD
+http://ndasat.pro:8000/live/exch/exch/2938.ts
+#EXTINF:-1,Trace urban
+http://ndasat.pro:8000/live/exch/exch/3968.ts
+#EXTINF:-1,Ofive
+http://ndasat.pro:8000/live/exch/exch/2843.ts
+#EXTINF:-1,M6 Music
+http://ndasat.pro:8000/live/exch/exch/130.ts
+#EXTINF:-1,MTV FRANCE HD
+http://ndasat.pro:8000/live/exch/exch/3181.ts
+#EXTINF:-1,MTV Hits HD
+http://ndasat.pro:8000/live/exch/exch/1642.ts
+#EXTINF:-1,MTV Base HD
+http://ndasat.pro:8000/live/exch/exch/1805.ts
+#EXTINF:-1,MTV Dance HD
+http://ndasat.pro:8000/live/exch/exch/1806.ts
+#EXTINF:-1,MTV ROCK
+http://ndasat.pro:8000/live/exch/exch/3470.ts
+#EXTINF:-1,Clubbing TV
+http://ndasat.pro:8000/live/exch/exch/2324.ts
+#EXTINF:-1,BET TV
+http://ndasat.pro:8000/live/exch/exch/2347.ts
+#EXTINF:-1,BRAVA HD
+http://ndasat.pro:8000/live/exch/exch/2323.ts
+#EXTINF:-1,Virgin TV
+http://ndasat.pro:8000/live/exch/exch/2344.ts
+#EXTINF:-1,GONG TV
+http://ndasat.pro:8000/live/exch/exch/1615.ts
+#EXTINF:-1,WEO TV
+http://ndasat.pro:8000/live/exch/exch/1716.ts
+#EXTINF:-1,A LA CARTE 1 HD
+http://ndasat.pro:8000/live/exch/exch/108.ts
+#EXTINF:-1,A LA CARTE 2 HD
+http://ndasat.pro:8000/live/exch/exch/107.ts
+#EXTINF:-1,A LA CARTE 3 HD
+http://ndasat.pro:8000/live/exch/exch/106.ts
+#EXTINF:-1,A LA CARTE 4 HD
+http://ndasat.pro:8000/live/exch/exch/105.ts
+#EXTINF:-1,A LA CARTE 5 HD
+http://ndasat.pro:8000/live/exch/exch/104.ts
+#EXTINF:-1,A LA CARTE 6 HD
+http://ndasat.pro:8000/live/exch/exch/103.ts
+#EXTINF:-1,A LA CARTE 7 HD
+http://ndasat.pro:8000/live/exch/exch/102.ts
+#EXTINF:-1,A la Carte 8
+http://ndasat.pro:8000/live/exch/exch/101.ts
+#EXTINF:-1,A LA CARTE 9 HD
+http://ndasat.pro:8000/live/exch/exch/100.ts
+#EXTINF:-1,A LA CARTE 10 HD
+http://ndasat.pro:8000/live/exch/exch/99.ts
+#EXTINF:-1,CANAL PLAY 1
+http://ndasat.pro:8000/live/exch/exch/1613.ts
+#EXTINF:-1,CANAL PLAY 2
+http://ndasat.pro:8000/live/exch/exch/1614.ts
+#EXTINF:-1,CANAL PLAY 3
+http://ndasat.pro:8000/live/exch/exch/2193.ts
+#EXTINF:-1,CANAL PLAY 4
+http://ndasat.pro:8000/live/exch/exch/2192.ts
+#EXTINF:-1,CANAL PLAY 5
+http://ndasat.pro:8000/live/exch/exch/2191.ts
+#EXTINF:-1,CANAL PLAY 6
+http://ndasat.pro:8000/live/exch/exch/2190.ts
+#EXTINF:-1,CANAL PLAY 7
+http://ndasat.pro:8000/live/exch/exch/2189.ts
+#EXTINF:-1,CANAL PLAY 8
+http://ndasat.pro:8000/live/exch/exch/2188.ts
+#EXTINF:-1,CANAL PLAY 9
+http://ndasat.pro:8000/live/exch/exch/2187.ts
+#EXTINF:-1,CANAL PLAY 10
+http://ndasat.pro:8000/live/exch/exch/2200.ts
+#EXTINF:-1,CANAL PLAY 11
+http://ndasat.pro:8000/live/exch/exch/2199.ts
+#EXTINF:-1,CANAL PLAY 12
+http://ndasat.pro:8000/live/exch/exch/2198.ts
+#EXTINF:-1,CANAL PLAY 13
+http://ndasat.pro:8000/live/exch/exch/2197.ts
+#EXTINF:-1,CANAL PLAY 14
+http://ndasat.pro:8000/live/exch/exch/2196.ts
+#EXTINF:-1,OCS GO Cine+ 1
+http://ndasat.pro:8000/live/exch/exch/5597.ts
+#EXTINF:-1,OCS GO Cine+ 2
+http://ndasat.pro:8000/live/exch/exch/5598.ts
+#EXTINF:-1,OCS GO Cine+ 3
+http://ndasat.pro:8000/live/exch/exch/5599.ts
+#EXTINF:-1,OCS GO Cine+ 4
+http://ndasat.pro:8000/live/exch/exch/5600.ts
+#EXTINF:-1,OCS GO Cine+ 5
+http://ndasat.pro:8000/live/exch/exch/5601.ts
+#EXTINF:-1,OCS GO Cine+ 6
+http://ndasat.pro:8000/live/exch/exch/5602.ts
+#EXTINF:-1,OCS GO Cine+ 7
+http://ndasat.pro:8000/live/exch/exch/5603.ts
+#EXTINF:-1,OCS GO Cine+ 8
+http://ndasat.pro:8000/live/exch/exch/5604.ts
+#EXTINF:-1,Orange Premium 1
+http://ndasat.pro:8000/live/exch/exch/5617.ts
+#EXTINF:-1,Orange Premium 2
+http://ndasat.pro:8000/live/exch/exch/5618.ts
+#EXTINF:-1,Orange Premium 3
+http://ndasat.pro:8000/live/exch/exch/5619.ts
+#EXTINF:-1,Orange Premium 4
+http://ndasat.pro:8000/live/exch/exch/5620.ts
+#EXTINF:-1,Orange Premium 5
+http://ndasat.pro:8000/live/exch/exch/5621.ts
+#EXTINF:-1,Orange Premium 6
+http://ndasat.pro:8000/live/exch/exch/5622.ts
+#EXTINF:-1,Orange Premium 7
+http://ndasat.pro:8000/live/exch/exch/2878.ts
+#EXTINF:-1,Mirabelle TV
+http://ndasat.pro:8000/live/exch/exch/2342.ts
+#EXTINF:-1,Tébéo TV Bretagne
+http://ndasat.pro:8000/live/exch/exch/3537.ts
+#EXTINF:-1,TV7 Bordeaux
+http://ndasat.pro:8000/live/exch/exch/3546.ts
+#EXTINF:-1,Grand Lille
+http://ndasat.pro:8000/live/exch/exch/3535.ts
+#EXTINF:-1,La chaine normande
+http://ndasat.pro:8000/live/exch/exch/3542.ts
+#EXTINF:-1,Alsace 20
+http://ndasat.pro:8000/live/exch/exch/3543.ts
+#EXTINF:-1,Vosges Television
+http://ndasat.pro:8000/live/exch/exch/3547.ts
+#EXTINF:-1,ILTV
+http://ndasat.pro:8000/live/exch/exch/3544.ts
+#EXTINF:-1,FR | Bein Sport 1 HD
+http://ndasat.pro:8000/live/exch/exch/589.ts
+#EXTINF:-1,FR | Bein Sport 1 Low
+http://ndasat.pro:8000/live/exch/exch/3969.ts
+#EXTINF:-1,FR | Bein Sport 2 HD
+http://ndasat.pro:8000/live/exch/exch/590.ts
+#EXTINF:-1,FR | Bein Sport 2 Low
+http://ndasat.pro:8000/live/exch/exch/3970.ts
+#EXTINF:-1,FR | Bein Sport 3 HD
+http://ndasat.pro:8000/live/exch/exch/591.ts
+#EXTINF:-1,FR | Bein Sport 3 Low
+http://ndasat.pro:8000/live/exch/exch/3971.ts

@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -85,247 +85,226 @@ http://185.62.86.6:8081/hls/my5.m3u8
 
 
 
-#EXTINF:-1,RTS HD
-http://3connect.dyndns.tv:8000/live/Goce/Goce/101.ts
-#EXTINF:-1,RTS 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/1.ts
-#EXTINF:-1,RTS 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/6.ts
-#EXTINF:-1,Prva
-http://3connect.dyndns.tv:8000/live/Goce/Goce/3.ts
-#EXTINF:-1,Pink 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/2.ts
-#EXTINF:-1,B92
-http://3connect.dyndns.tv:8000/live/Goce/Goce/4.ts
-#EXTINF:-1,Happy TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/5.ts
-#EXTINF:-1,RTV 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/182.ts
-#EXTINF:-1,N1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/62.ts
-#EXTINF:-1,Prva Plus
-http://3connect.dyndns.tv:8000/live/Goce/Goce/22.ts
-#EXTINF:-1,Nova RS
-http://3connect.dyndns.tv:8000/live/Goce/Goce/21.ts
-#EXTINF:-1,Pink 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/34.ts
-#EXTINF:-1,Pink 3 Info
-http://3connect.dyndns.tv:8000/live/Goce/Goce/470.ts
-#EXTINF:-1,GrandTV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/53.ts
-#EXTINF:-1,KCN 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/153.ts
-#EXTINF:-1,KCN 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/82.ts
-#EXTINF:-1,KCN 3
-http://3connect.dyndns.tv:8000/live/Goce/Goce/154.ts
-#EXTINF:-1,DMSAT
-http://3connect.dyndns.tv:8000/live/Goce/Goce/83.ts
-#EXTINF:-1,Duga TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/152.ts
-#EXTINF:-1,NoviPazar
-http://3connect.dyndns.tv:8000/live/Goce/Goce/10.ts
-#EXTINF:-1,RTVMontenegro
-http://3connect.dyndns.tv:8000/live/Goce/Goce/57.ts
-#EXTINF:-1,RTCG 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/472.ts
-#EXTINF:-1,OTV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/111.ts
-#EXTINF:-1,MRT 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/102.ts
-#EXTINF:-1,Kanal 5
-http://3connect.dyndns.tv:8000/live/Goce/Goce/104.ts
-#EXTINF:-1,Sitel
-http://3connect.dyndns.tv:8000/live/Goce/Goce/103.ts
-#EXTINF:-1,Alfa Tv
-http://3connect.dyndns.tv:8000/live/Goce/Goce/105.ts
-#EXTINF:-1,HRT 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/7.ts
-#EXTINF:-1,HRT 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/46.ts
-#EXTINF:-1,HRT 3
-http://3connect.dyndns.tv:8000/live/Goce/Goce/47.ts
-#EXTINF:-1,HRT 4
-http://3connect.dyndns.tv:8000/live/Goce/Goce/113.ts
-#EXTINF:-1,Nova TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/8.ts
-#EXTINF:-1,RTL
-http://3connect.dyndns.tv:8000/live/Goce/Goce/9.ts
-#EXTINF:-1,RTL2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/66.ts
-#EXTINF:-1,RTL Crime
-http://3connect.dyndns.tv:8000/live/Goce/Goce/146.ts
-#EXTINF:-1,RTL Passion
-http://3connect.dyndns.tv:8000/live/Goce/Goce/147.ts
-#EXTINF:-1,Doma TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/48.ts
-#EXTINF:-1,OBN
-http://3connect.dyndns.tv:8000/live/Goce/Goce/11.ts
-#EXTINF:-1,TV1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/67.ts
-#EXTINF:-1,Federalna
-http://3connect.dyndns.tv:8000/live/Goce/Goce/71.ts
-#EXTINF:-1,Hayat TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/13.ts
-#EXTINF:-1,Hayat Plus
-http://3connect.dyndns.tv:8000/live/Goce/Goce/73.ts
-#EXTINF:-1,Hayatovci
-http://3connect.dyndns.tv:8000/live/Goce/Goce/106.ts
-#EXTINF:-1,HayatFolk
-http://3connect.dyndns.tv:8000/live/Goce/Goce/81.ts
-#EXTINF:-1,Hayat Music
-http://3connect.dyndns.tv:8000/live/Goce/Goce/203.ts
-#EXTINF:-1,Face TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/12.ts
-#EXTINF:-1,Bhrt 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/49.ts
-#EXTINF:-1,PosavinaTV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/143.ts
-#EXTINF:-1,Aljazeera
-http://3connect.dyndns.tv:8000/live/Goce/Goce/72.ts
-#EXTINF:-1,ATV BIH
-http://3connect.dyndns.tv:8000/live/Goce/Goce/310.ts
-#EXTINF:-1,Alfa Sarajevo
-http://3connect.dyndns.tv:8000/live/Goce/Goce/473.ts
-#EXTINF:-1,BN Music
-http://3connect.dyndns.tv:8000/live/Goce/Goce/54.ts
-#EXTINF:-1,BN
-http://3connect.dyndns.tv:8000/live/Goce/Goce/14.ts
-#EXTINF:-1,RTRS
-http://3connect.dyndns.tv:8000/live/Goce/Goce/74.ts
-#EXTINF:-1,RTRS Plus
-http://3connect.dyndns.tv:8000/live/Goce/Goce/299.ts
-#EXTINF:-1,24Kitchen
-http://3connect.dyndns.tv:8000/live/Goce/Goce/76.ts
-#EXTINF:-1,Nat Geo Wild
-http://3connect.dyndns.tv:8000/live/Goce/Goce/17.ts
-#EXTINF:-1,Viasat Explorer
-http://3connect.dyndns.tv:8000/live/Goce/Goce/20.ts
-#EXTINF:-1,Viasat History
-http://3connect.dyndns.tv:8000/live/Goce/Goce/19.ts
-#EXTINF:-1,National Geographic
-http://3connect.dyndns.tv:8000/live/Goce/Goce/16.ts
-#EXTINF:-1,History Channel
-http://3connect.dyndns.tv:8000/live/Goce/Goce/55.ts
-#EXTINF:-1,History 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/474.ts
-#EXTINF:-1,Discovery Channel
-http://3connect.dyndns.tv:8000/live/Goce/Goce/15.ts
-#EXTINF:-1,Investigation Discovery
-http://3connect.dyndns.tv:8000/live/Goce/Goce/18.ts
-#EXTINF:-1,TLC
-http://3connect.dyndns.tv:8000/live/Goce/Goce/26.ts
-#EXTINF:-1,LR
-http://3connect.dyndns.tv:8000/live/Goce/Goce/68.ts
-#EXTINF:-1,Fox Movies
-http://3connect.dyndns.tv:8000/live/Goce/Goce/75.ts
-#EXTINF:-1,Fox
-http://3connect.dyndns.tv:8000/live/Goce/Goce/23.ts
-#EXTINF:-1,Fox Life
-http://3connect.dyndns.tv:8000/live/Goce/Goce/25.ts
-#EXTINF:-1,Fox Crime
-http://3connect.dyndns.tv:8000/live/Goce/Goce/24.ts
-#EXTINF:-1,Film Klub
-http://3connect.dyndns.tv:8000/live/Goce/Goce/471.ts
-#EXTINF:-1,Pink Film
-http://3connect.dyndns.tv:8000/live/Goce/Goce/33.ts
-#EXTINF:-1,Pink Action
-http://3connect.dyndns.tv:8000/live/Goce/Goce/469.ts
-#EXTINF:-1,Pink Movies
-http://3connect.dyndns.tv:8000/live/Goce/Goce/468.ts
-#EXTINF:-1,Pink Serije
-http://3connect.dyndns.tv:8000/live/Goce/Goce/467.ts
-#EXTINF:-1,Pink Sci-Fi
-http://3connect.dyndns.tv:8000/live/Goce/Goce/28.ts
-#EXTINF:-1,Pink Thriller
-http://3connect.dyndns.tv:8000/live/Goce/Goce/29.ts
-#EXTINF:-1,Pink Horor
-http://3connect.dyndns.tv:8000/live/Goce/Goce/32.ts
-#EXTINF:-1,Pink Premium
-http://3connect.dyndns.tv:8000/live/Goce/Goce/27.ts
-#EXTINF:-1,Pink Western
-http://3connect.dyndns.tv:8000/live/Goce/Goce/110.ts
-#EXTINF:-1,Pink Comedy
-http://3connect.dyndns.tv:8000/live/Goce/Goce/31.ts
-#EXTINF:-1,Pink Pedia
-http://3connect.dyndns.tv:8000/live/Goce/Goce/35.ts
-#EXTINF:-1,Pink Reality
-http://3connect.dyndns.tv:8000/live/Goce/Goce/36.ts
-#EXTINF:-1,Pink Zabava
-http://3connect.dyndns.tv:8000/live/Goce/Goce/148.ts
-#EXTINF:-1,Pink World
-http://3connect.dyndns.tv:8000/live/Goce/Goce/149.ts
-#EXTINF:-1,Pink Folk 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/40.ts
-#EXTINF:-1,Klasik TV
-http://3connect.dyndns.tv:8000/live/Goce/Goce/56.ts
-#EXTINF:-1,HBO Adria
-http://3connect.dyndns.tv:8000/live/Goce/Goce/52.ts
-#EXTINF:-1,HBO 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/151.ts
-#EXTINF:-1,Cinestar Premiere1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/410.ts
-#EXTINF:-1,CineStar Premiere 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/465.ts
-#EXTINF:-1,FilmBox
-http://3connect.dyndns.tv:8000/live/Goce/Goce/116.ts
-#EXTINF:-1,VH1 Classic
-http://3connect.dyndns.tv:8000/live/Goce/Goce/38.ts
-#EXTINF:-1,Balkanika
-http://3connect.dyndns.tv:8000/live/Goce/Goce/39.ts
-#EXTINF:-1,Minimax
-http://3connect.dyndns.tv:8000/live/Goce/Goce/77.ts
-#EXTINF:-1,Mini
-http://3connect.dyndns.tv:8000/live/Goce/Goce/80.ts
-#EXTINF:-1,Ultra
-http://3connect.dyndns.tv:8000/live/Goce/Goce/79.ts
-#EXTINF:-1,Cartoon Network
-http://3connect.dyndns.tv:8000/live/Goce/Goce/78.ts
-#EXTINF:-1,Orlando Kids
-http://3connect.dyndns.tv:8000/live/Goce/Goce/37.ts
-#EXTINF:-1,Nickelodeon
-http://3connect.dyndns.tv:8000/live/Goce/Goce/145.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://3connect.dyndns.tv:8000/live/Goce/Goce/69.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://3connect.dyndns.tv:8000/live/Goce/Goce/41.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://3connect.dyndns.tv:8000/live/Goce/Goce/51.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://3connect.dyndns.tv:8000/live/Goce/Goce/70.ts
-#EXTINF:-1,Arena Sport 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/59.ts
-#EXTINF:-1,Arena Sport 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/64.ts
-#EXTINF:-1,Arena Sport 3
-http://3connect.dyndns.tv:8000/live/Goce/Goce/58.ts
-#EXTINF:-1,Arena Sport 4
-http://3connect.dyndns.tv:8000/live/Goce/Goce/61.ts
-#EXTINF:-1,Arena Sport 5
-http://3connect.dyndns.tv:8000/live/Goce/Goce/65.ts
-#EXTINF:-1,Sport Klub 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/100.ts
-#EXTINF:-1,Sport Klub 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/99.ts
-#EXTINF:-1,Sport Klub 3
-http://3connect.dyndns.tv:8000/live/Goce/Goce/98.ts
-#EXTINF:-1,SportKlub 4
-http://3connect.dyndns.tv:8000/live/Goce/Goce/295.ts
-#EXTINF:-1,EuroSport 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/63.ts
-#EXTINF:-1,EuroSport 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/84.ts
-#EXTINF:-1,Bein Sports 1
-http://3connect.dyndns.tv:8000/live/Goce/Goce/42.ts
-#EXTINF:-1,Bein Sports 2
-http://3connect.dyndns.tv:8000/live/Goce/Goce/43.ts
-#EXTINF:-1,SOS Kanal
-http://3connect.dyndns.tv:8000/live/Goce/Goce/280.ts
-#EXTINF:-1,INFO KANAL
-http://3connect.dyndns.tv:8000/live/Goce/Goce/115.ts
-#EXTINF:-1,TV Plus
-http://3connect.dyndns.tv:8000/live/Goce/Goce/189.ts
-#EXTINF:-1,Belle Ammie
-http://3connect.dyndns.tv:8000/live/Goce/Goce/306.ts
-#EXTINF:-1,TV Istok
-http://3connect.dyndns.tv:8000/live/Goce/Goce/307.ts
+
+
+
+
+
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://46.249.62.146:3312/play/a00d
+#EXTINF:-1,TNT Serie HD
+http://46.249.62.146:3312/play/a00b
+#EXTINF:-1,Sport1 US HD
+http://46.249.62.146:3312/play/a002
+#EXTINF:-1,History HD
+http://46.249.62.146:3312/play/a008
+#EXTINF:-1,Syfy HD
+http://46.249.62.146:3312/play/a00i
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://46.249.62.146:3312/play/a00j
+#EXTINF:-1,Sky Sport 5 HD
+http://46.249.62.146:3312/play/a00k
+#EXTINF:-1,Sky Sport News HD
+http://46.249.62.146:3312/play/a00h
+#EXTINF:-1,Eurosport 1 HD
+http://46.249.62.146:3312/play/a00l
+#EXTINF:-1,Sky Sport 6 HD
+http://46.249.62.146:3312/play/a00c
+#EXTINF:-1,Fox HD
+http://46.249.62.146:3312/play/a003
+#EXTINF:-1,Sky Cinema Action HD
+http://46.249.62.146:3312/play/a009
+#EXTINF:-1,Sky Cinema Hits HD
+http://46.249.62.146:3312/play/a00g
+#EXTINF:-1,Spiegel Geschichte HD
+http://46.249.62.146:3312/play/a004
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://46.249.62.146:3312/play/a005
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://46.249.62.146:3312/play/a00f
+#EXTINF:-1,Sport1+ HD
+http://46.249.62.146:3312/play/a00a
+#EXTINF:-1,Sky Sport 10 HD
+http://46.249.62.146:3312/play/a006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,UK:  BT Sport 2
+http://ndasat.pro:8000/live/exch/exch/2505.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://ndasat.pro:8000/live/exch/exch/2528.ts
+#EXTINF:-1,UK:  Eurosport 2
+http://ndasat.pro:8000/live/exch/exch/2527.ts
+#EXTINF:-1,UK:  True.Movie.1
+http://ndasat.pro:8000/live/exch/exch/2510.ts
+#EXTINF:-1,UK: _Animal.Planet.UK
+http://ndasat.pro:8000/live/exch/exch/2533.ts
+#EXTINF:-1,UK: Discovery Channel
+http://ndasat.pro:8000/live/exch/exch/2532.ts
+#EXTINF:-1,UK: Sky.Movies.Action.&.Adventure
+http://ndasat.pro:8000/live/exch/exch/2523.ts
+#EXTINF:-1,UK: _Sky.Movies.Family.UK
+http://ndasat.pro:8000/live/exch/exch/2521.ts
+#EXTINF:-1,UK: Sky Movies Modern HD
+http://ndasat.pro:8000/live/exch/exch/2520.ts
+#EXTINF:-1,UK: _Sky.Movies.Sci-Fi.&.Horror
+http://ndasat.pro:8000/live/exch/exch/2518.ts
+#EXTINF:-1,UK: True_Movies_2
+http://ndasat.pro:8000/live/exch/exch/2511.ts
+#EXTINF:-1,UK: Alibi
+http://ndasat.pro:8000/live/exch/exch/519.ts
+#EXTINF:-1,UK: Baby TV
+http://ndasat.pro:8000/live/exch/exch/522.ts
+#EXTINF:-1,UK: BBC Four
+http://ndasat.pro:8000/live/exch/exch/491.ts
+#EXTINF:-1,UK: BBC One
+http://ndasat.pro:8000/live/exch/exch/488.ts
+#EXTINF:-1,UK: BBC Three
+http://ndasat.pro:8000/live/exch/exch/2671.ts
+#EXTINF:-1,UK: BBC Two
+http://ndasat.pro:8000/live/exch/exch/489.ts
+#EXTINF:-1,UK: Boomerang HD
+http://ndasat.pro:8000/live/exch/exch/521.ts
+#EXTINF:-1,UK: Cartoon Network
+http://ndasat.pro:8000/live/exch/exch/520.ts
+#EXTINF:-1,UK: CBS Action
+http://ndasat.pro:8000/live/exch/exch/518.ts
+#EXTINF:-1,UK: CBS Reality
+http://ndasat.pro:8000/live/exch/exch/517.ts
+#EXTINF:-1,UK: Comedy Central
+http://ndasat.pro:8000/live/exch/exch/516.ts
+#EXTINF:-1,UK: Discovery
+http://ndasat.pro:8000/live/exch/exch/515.ts
+#EXTINF:-1,UK: Discovery History
+http://ndasat.pro:8000/live/exch/exch/514.ts
+#EXTINF:-1,UK: Discovery Science
+http://ndasat.pro:8000/live/exch/exch/512.ts
+#EXTINF:-1,UK: Disney Channel
+http://ndasat.pro:8000/live/exch/exch/511.ts
+#EXTINF:-1,UK: Disney XD
+http://ndasat.pro:8000/live/exch/exch/510.ts
+#EXTINF:-1,UK: ITV 1
+http://ndasat.pro:8000/live/exch/exch/492.ts
+#EXTINF:-1,UK: ITV 2
+http://ndasat.pro:8000/live/exch/exch/493.ts
+#EXTINF:-1,UK: ITV 3
+http://ndasat.pro:8000/live/exch/exch/494.ts
+#EXTINF:-1,UK: ITV 4
+http://ndasat.pro:8000/live/exch/exch/495.ts
+#EXTINF:-1,UK: ITV BE
+http://ndasat.pro:8000/live/exch/exch/496.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://ndasat.pro:8000/live/exch/exch/509.ts
+#EXTINF:-1,UK: Nick JR
+http://ndasat.pro:8000/live/exch/exch/508.ts
+#EXTINF:-1,UK: RTE 1
+http://ndasat.pro:8000/live/exch/exch/497.ts
+#EXTINF:-1,UK: RTE 2
+http://ndasat.pro:8000/live/exch/exch/498.ts
+#EXTINF:-1,UK: Sky Action
+http://ndasat.pro:8000/live/exch/exch/506.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://ndasat.pro:8000/live/exch/exch/505.ts
+#EXTINF:-1,UK: Sky Comedy
+http://ndasat.pro:8000/live/exch/exch/504.ts
+#EXTINF:-1,UK: Sky Living
+http://ndasat.pro:8000/live/exch/exch/502.ts
+#EXTINF:-1,UK: SKY SPORT 1
+http://ndasat.pro:8000/live/exch/exch/2494.ts
+#EXTINF:-1,UK: SKY SPORT 2
+http://ndasat.pro:8000/live/exch/exch/2495.ts
+#EXTINF:-1,UK: SKY SPORT 3
+http://ndasat.pro:8000/live/exch/exch/2496.ts
+#EXTINF:-1,UK: SKY SPORT 4
+http://ndasat.pro:8000/live/exch/exch/2497.ts
+#EXTINF:-1,UK: Sky Thriller
+http://ndasat.pro:8000/live/exch/exch/501.ts
+#EXTINF:-1,UK: True Movies
+http://ndasat.pro:8000/live/exch/exch/499.ts
+#EXTINF:-1,UK: VH1
+http://ndasat.pro:8000/live/exch/exch/507.ts
+#EXTINF:-1,US:  ABC HD
+http://ndasat.pro:8000/live/exch/exch/1123.ts
+#EXTINF:-1,US:  ABC Spark
+http://ndasat.pro:8000/live/exch/exch/1122.ts
+#EXTINF:-1,US: AMC HD
+http://ndasat.pro:8000/live/exch/exch/1120.ts
+#EXTINF:-1,US: Bravo HD
+http://ndasat.pro:8000/live/exch/exch/1114.ts
+#EXTINF:-1,US: CBN News
+http://ndasat.pro:8000/live/exch/exch/1113.ts
+#EXTINF:-1,US:  CBS HD
+http://ndasat.pro:8000/live/exch/exch/1095.ts
+#EXTINF:-1,US:  Cinemax East
+http://ndasat.pro:8000/live/exch/exch/1111.ts
+#EXTINF:-1,US: CW HD
+http://ndasat.pro:8000/live/exch/exch/1094.ts
+#EXTINF:-1,US:  DISCCOVERY
+http://ndasat.pro:8000/live/exch/exch/1134.ts
+#EXTINF:-1,US:  ESPN 2
+http://ndasat.pro:8000/live/exch/exch/1118.ts
+#EXTINF:-1,US:  ESPN HD
+http://ndasat.pro:8000/live/exch/exch/1136.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://ndasat.pro:8000/live/exch/exch/1138.ts
+#EXTINF:-1,US:  Fox Sport 2
+http://ndasat.pro:8000/live/exch/exch/1139.ts
+#EXTINF:-1,US:  FX HD USA
+http://ndasat.pro:8000/live/exch/exch/1098.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://ndasat.pro:8000/live/exch/exch/1108.ts
+#EXTINF:-1,US: HISTORY
+http://ndasat.pro:8000/live/exch/exch/1133.ts
+#EXTINF:-1,US: LIFETIME HD
+http://ndasat.pro:8000/live/exch/exch/1117.ts
+#EXTINF:-1,US: NAT GEOGRAPHIC
+http://ndasat.pro:8000/live/exch/exch/1135.ts
+#EXTINF:-1,US:  NBA Network
+http://ndasat.pro:8000/live/exch/exch/1116.ts
+#EXTINF:-1,US:  NBC SPORT
+http://ndasat.pro:8000/live/exch/exch/1137.ts
+#EXTINF:-1,US: Network HD
+http://ndasat.pro:8000/live/exch/exch/1132.ts
+#EXTINF:-1,US:  NFL Network
+http://ndasat.pro:8000/live/exch/exch/1107.ts
+#EXTINF:-1,US:  PBS HD
+http://ndasat.pro:8000/live/exch/exch/1096.ts
+#EXTINF:-1,US: SPIKE HD
+http://ndasat.pro:8000/live/exch/exch/1131.ts
+#EXTINF:-1,US:  SYFY HD
+http://ndasat.pro:8000/live/exch/exch/1130.ts
+#EXTINF:-1,US:  TBS HD
+http://ndasat.pro:8000/live/exch/exch/1129.ts
+#EXTINF:-1,US: TNT HD
+http://ndasat.pro:8000/live/exch/exch/1128.ts
+#EXTINF:-1,US:  TSN 1
+http://ndasat.pro:8000/live/exch/exch/1097.ts
+#EXTINF:-1,US:  TSN 2
+http://ndasat.pro:8000/live/exch/exch/1124.ts
+#EXTINF:-1,US:  TSN 3
+http://ndasat.pro:8000/live/exch/exch/1125.ts
+#EXTINF:-1,US: TSN 4
+http://ndasat.pro:8000/live/exch/exch/1126.ts
+#EXTINF:-1,US:  TSN 5
+http://ndasat.pro:8000/live/exch/exch/1127.ts
+#EXTINF:-1,US:  WILLOW CRICKET HD
+http://ndasat.pro:8000/live/exch/exch/1102.ts
