@@ -1,229 +1,125 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,FR : TF1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8644.ts
-#EXTINF:-1,FR: France 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8261.ts
-#EXTINF:-1,FR: France 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8260.ts
-#EXTINF:-1,FR: France 4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8590.ts
-#EXTINF:-1,FR: France 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8591.ts
-#EXTINF:-1,FR: France O
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8592.ts
-#EXTINF:-1,FR: M6
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2920.ts
-#EXTINF:-1,FR : 6TER
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8649.ts
-#EXTINF:-1,FR: 6Ter HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9425.ts
-#EXTINF:-1,FR: HD1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8648.ts
-#EXTINF:-1,FR: Arte
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8593.ts
-#EXTINF:-1,FR: Paris Premiere
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8653.ts
-#EXTINF:-1,FR: TV-breizh HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8654.ts
-#EXTINF:-1,FR: RTS UN
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13073.ts
-#EXTINF:-1,FR: RTS DEUX
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13074.ts
-#EXTINF:-1,FR: I-Tele HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13078.ts
-#EXTINF:-1,=====  Cineèma   =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13609.ts
-#EXTINF:-1,FR: Action
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8667.ts
-#EXTINF:-1,FR: Ocs max
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9397.ts
-#EXTINF:-1,FR: Ocs Choc HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9398.ts
-#EXTINF:-1,FR: OCS City HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9450.ts
-#EXTINF:-1,FR: OCS Géants HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9451.ts
-#EXTINF:-1,FR: Canal +
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9444.ts
-#EXTINF:-1,FR: Canal   Cinema
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9419.ts
-#EXTINF:-1,FR: Canal   Family
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9418.ts
-#EXTINF:-1,FR: Canal Series
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9417.ts
-#EXTINF:-1,FR: CANAL  Décalé
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9454.ts
-#EXTINF:-1,FR: Canal  Family
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9445.ts
-#EXTINF:-1,FR: CINE   Famiz
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9448.ts
-#EXTINF:-1,FR: Cine  Classic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9414.ts
-#EXTINF:-1,FR: CINE  Emotion
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9449.ts
-#EXTINF:-1,FR: CINE  FRISSON
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9446.ts
-#EXTINF:-1,FR: Cine  Premier
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9413.ts
-#EXTINF:-1,FR: Cine Fx
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9412.ts
-#EXTINF:-1,FR: Cine POLAR
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8665.ts
-#EXTINF:-1,FR : Cine Premiere
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8668.ts
-#EXTINF:-1,FR: Serie club
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9393.ts
-#EXTINF:-1,FR: PARAMOUNT
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8664.ts
-#EXTINF:-1,FR: COMEDIE+ HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8662.ts
-#EXTINF:-1,FR: COMEDIE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9447.ts
-#EXTINF:-1,FR : Syfy
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8646.ts
-#EXTINF:-1,FR : Serie Club
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8655.ts
-#EXTINF:-1,FR: A LA CARTE 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9455.ts
-#EXTINF:-1,FR: A la Carte 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9456.ts
-#EXTINF:-1,FR: A la Carte 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9457.ts
-#EXTINF:-1,FR: A la Carte 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9458.ts
-#EXTINF:-1,FR: A la Carte 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9459.ts
-#EXTINF:-1,FR: A la Carte 6
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9460.ts
-#EXTINF:-1,FR: A la Carte 7
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9461.ts
-#EXTINF:-1,FR: A la Carte 9
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9463.ts
-#EXTINF:-1,FR: A la Carte 10
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9464.ts
-#EXTINF:-1,=====  Divertissement  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13610.ts
-#EXTINF:-1,FR: AB1_HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8658.ts
-#EXTINF:-1,FR: E! Entertainment
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9453.ts
-#EXTINF:-1,FR : Tmc
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8666.ts
-#EXTINF:-1,FR: NT1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13076.ts
-#EXTINF:-1,FR : NT1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8650.ts
-#EXTINF:-1,FR: Téva HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9428.ts
-#EXTINF:-1,FR : W9
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8645.ts
-#EXTINF:-1,FR : RTL9
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8647.ts
-#EXTINF:-1,FR : NRJ12
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8651.ts
-#EXTINF:-1,FR: NRJ 12
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9422.ts
-#EXTINF:-1,FR : D8
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8660.ts
-#EXTINF:-1,FR : D17
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8661.ts
-#EXTINF:-1,FR : CHERIE 25 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8656.ts
-#EXTINF:-1,FR : AB3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8659.ts
-#EXTINF:-1,FR : 13eme Rue
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8652.ts
-#EXTINF:-1,=====  Sport FR  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13611.ts
-#EXTINF:-1,FR: Canal+  Sport
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9416.ts
-#EXTINF:-1,FR: Eurosport
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9407.ts
-#EXTINF:-1,FR: Eurosport 2 FHD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9406.ts
-#EXTINF:-1,FR: Foot+24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9405.ts
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13053.ts
-#EXTINF:-1,FR: SFR Sport 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13054.ts
-#EXTINF:-1,FR: SFR Sport 3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13719.ts
-#EXTINF:-1,FR: Equida Live
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13703.ts
-#EXTINF:-1,FR: Infosport
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9404.ts
-#EXTINF:-1,FR: CHASSE & PECHE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9452.ts
-#EXTINF:-1,=====  Culture  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13612.ts
-#EXTINF:-1,FR: Discovery
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9411.ts
-#EXTINF:-1,FR: Discovery science
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9410.ts
-#EXTINF:-1,FR: National geo wild
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9400.ts
-#EXTINF:-1,FR: National geographic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9399.ts
-#EXTINF:-1,FR: Planete+ CI
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9395.ts
-#EXTINF:-1,FR: Science et vie
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9394.ts
-#EXTINF:-1,FR: Science&Vie TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9442.ts
-#EXTINF:-1,FR: Histoire
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9426.ts
-#EXTINF:-1,FR: Animaux
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9420.ts
-#EXTINF:-1,FR: RMC DECOUVERTE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9440.ts
-#EXTINF:-1,FR: Toute l'histoire
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9427.ts
-#EXTINF:-1,FR: USHUAIA TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9441.ts
-#EXTINF:-1,=====  Musique  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13613.ts
-#EXTINF:-1,FR: M6 Music
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9429.ts
-#EXTINF:-1,=====  Enfants  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13614.ts
-#EXTINF:-1,FR: BOOMERANG
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9437.ts
-#EXTINF:-1,FR: Cartoon Network
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9415.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9435.ts
-#EXTINF:-1,FR: DISNEY CHANNEL  FHD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9436.ts
-#EXTINF:-1,FR: Disney Cinema
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9430.ts
-#EXTINF:-1,FR: Disney junior
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9409.ts
-#EXTINF:-1,FR: MANGA
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9434.ts
-#EXTINF:-1,FR: Mangas
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9401.ts
-#EXTINF:-1,FR: TELETOON + HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9431.ts
-#EXTINF:-1,FR: GULLI
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9433.ts
-#EXTINF:-1,=====  Information  =====
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13615.ts
-#EXTINF:-1,FR: Cherie 25
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9421.ts
-#EXTINF:-1,FR: BFM TV HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9438.ts
-#EXTINF:-1,FR: Euronews
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9408.ts
-#EXTINF:-1,FR: L'EQUIPE 21 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9465.ts
-#EXTINF:-1,FR: LCI
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9439.ts
-#EXTINF:-1,FR: PIWI+
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9432.ts
-#EXTINF:-1,FR:  Enorme TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8657.ts
+
+
+
+
+
+#EXTINF:-1,FR_ACTION
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/450.ts
+#EXTINF:-1,FR_TCM_CINEMA
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/469.ts
+#EXTINF:-1,FR_COMEDIE
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/464.ts
+#EXTINF:-1,FR_ANIMAUX
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/439.ts
+#EXTINF:-1,FR_NATIONAL-GEO
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/435.ts
+#EXTINF:-1,FR_NAT-GEO-WILD
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/436.ts
+#EXTINF:-1,FR_DISCOVRY
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/437.ts
+#EXTINF:-1,FR_DISCOVRY-SCI
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/438.ts
+#EXTINF:-1,FR_USHUAIA_TV
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/440.ts
+#EXTINF:-1,FR_TREK
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/442.ts
+#EXTINF:-1,FR_SEASON
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/443.ts
+#EXTINF:-1,FR_SCIENCE_VIE
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/448.ts
+#EXTINF:-1,FR_RMC_DECOUVERTE
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/447.ts
+#EXTINF:-1,FR_CANAL CINEMA
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/454.ts
+#EXTINF:-1,FR_CANAL DECALE
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/453.ts
+#EXTINF:-1,FR_CANAL FAMILY
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/452.ts
+#EXTINF:-1,FR_CANAL SERIES
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/451.ts
+#EXTINF:-1,FR_CINE_PREMIER
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/456.ts
+#EXTINF:-1,FR_CINE_POLAR
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/457.ts
+#EXTINF:-1,FR_CINE_FX
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/458.ts
+#EXTINF:-1,FR_CINE_FRISSON
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/459.ts
+#EXTINF:-1,FR_CINE_FAMIZ
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/460.ts
+#EXTINF:-1,FR_CINE_EMOTION
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/461.ts
+#EXTINF:-1,FR_CINE_CLUB
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/462.ts
+#EXTINF:-1,FR_CINE_CLASSIC
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/463.ts
+#EXTINF:-1,FR_TF1
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/470.ts
+#EXTINF:-1,FR_M6
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/471.ts
+#EXTINF:-1,FR_FRANCE_2
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/473.ts
+#EXTINF:-1,FR_FRANCE_3
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/474.ts
+#EXTINF:-1,FR_FRANCE_4
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/475.ts
+#EXTINF:-1,FR_FRANCE_5
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/476.ts
+#EXTINF:-1,FR_FRANCE_O
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/472.ts
+#EXTINF:-1,FR_CANAL
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/455.ts
+#EXTINF:-1,FR_OCS_MAX
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/465.ts
+#EXTINF:-1,FR_OCS_GEANT
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/466.ts
+#EXTINF:-1,FR_OCS_CITY
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/467.ts
+#EXTINF:-1,FR_OCS_CHOC
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/468.ts
+#EXTINF:-1,FR_PLANETE-CI
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/444.ts
+#EXTINF:-1,FR_PLANETE-AE
