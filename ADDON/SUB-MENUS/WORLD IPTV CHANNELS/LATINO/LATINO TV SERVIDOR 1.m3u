@@ -7,186 +7,169 @@
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
+#EXTM3U
 
-#EXTINF:-1,LATINO: AE HD
-http://ndasat.pro:8000/live/exch/exch/6307.ts
-#EXTINF:-1,LATINO: AMC
-http://ndasat.pro:8000/live/exch/exch/6241.ts
-#EXTINF:-1,LATINO: Animal Planet
-http://ndasat.pro:8000/live/exch/exch/6299.ts
-#EXTINF:-1,LATINO: AXN HD
-http://ndasat.pro:8000/live/exch/exch/6322.ts
-#EXTINF:-1,LATINO: AZTECA 7
-http://ndasat.pro:8000/live/exch/exch/6242.ts
-#EXTINF:-1,LATINO: AZTECA CINEMA
-http://ndasat.pro:8000/live/exch/exch/6243.ts
-#EXTINF:-1,LATINO: AZTECA MUNDO
-http://ndasat.pro:8000/live/exch/exch/6244.ts
-#EXTINF:-1,LATINO: Bandamax
-http://ndasat.pro:8000/live/exch/exch/6245.ts
-#EXTINF:-1,LATINO: BOOMERANG
-http://ndasat.pro:8000/live/exch/exch/6246.ts
-#EXTINF:-1,LATINO: Canal 5 HD
-http://ndasat.pro:8000/live/exch/exch/6306.ts
-#EXTINF:-1,LATINO: CARTOON NETWORK
-http://ndasat.pro:8000/live/exch/exch/6247.ts
-#EXTINF:-1,LATINO: CDF Premium
-http://ndasat.pro:8000/live/exch/exch/6248.ts
-#EXTINF:-1,LATINO: Cinecanal HD
-http://ndasat.pro:8000/live/exch/exch/6308.ts
-#EXTINF:-1,LATINO: CINEMAX
-http://ndasat.pro:8000/live/exch/exch/6300.ts
-#EXTINF:-1,LATINO: CNN Espagnol
-http://ndasat.pro:8000/live/exch/exch/6302.ts
-#EXTINF:-1,LATINO: Comedy Central HD
-http://ndasat.pro:8000/live/exch/exch/6309.ts
-#EXTINF:-1,LATINO: De Pelicula HD
-http://ndasat.pro:8000/live/exch/exch/6310.ts
-#EXTINF:-1,LATINO: DISCOVERY HOME HEALTH
-http://ndasat.pro:8000/live/exch/exch/6249.ts
-#EXTINF:-1,LATINO: Discovery Channel
-http://ndasat.pro:8000/live/exch/exch/6250.ts
-#EXTINF:-1,LATINO: Discovery Civilization
-http://ndasat.pro:8000/live/exch/exch/6251.ts
-#EXTINF:-1,LATINO: Discovery ID
-http://ndasat.pro:8000/live/exch/exch/6252.ts
-#EXTINF:-1,LATINO: Discovery Kids
-http://ndasat.pro:8000/live/exch/exch/6253.ts
-#EXTINF:-1,LATINO: DISCOVERY SCIENCE.
-http://ndasat.pro:8000/live/exch/exch/6254.ts
-#EXTINF:-1,LATINO: Discovery Teather HD
-http://ndasat.pro:8000/live/exch/exch/6311.ts
-#EXTINF:-1,LATINO: Discovery TLC
-http://ndasat.pro:8000/live/exch/exch/6255.ts
-#EXTINF:-1,LATINO: Discovery Turbo
-http://ndasat.pro:8000/live/exch/exch/6256.ts
-#EXTINF:-1,LATINO: DISCOVERY WORLD
-http://ndasat.pro:8000/live/exch/exch/6257.ts
-#EXTINF:-1,LATINO: Disney Channel
-http://ndasat.pro:8000/live/exch/exch/6301.ts
-#EXTINF:-1,LATINO: Disney Junior
-http://ndasat.pro:8000/live/exch/exch/6258.ts
-#EXTINF:-1,LATINO: Disney XD
-http://ndasat.pro:8000/live/exch/exch/6259.ts
-#EXTINF:-1,LATINO: DISTRITO COMEDIA
-http://ndasat.pro:8000/live/exch/exch/6260.ts
-#EXTINF:-1,LATINO: E!
-http://ndasat.pro:8000/live/exch/exch/6261.ts
-#EXTINF:-1,LATINO: ESPN
-http://ndasat.pro:8000/live/exch/exch/6266.ts
-#EXTINF:-1,LATINO: ESPN 2
-http://ndasat.pro:8000/live/exch/exch/6303.ts
-#EXTINF:-1,LATINO: ESPN 3
-http://ndasat.pro:8000/live/exch/exch/6267.ts
-#EXTINF:-1,LATINO: Film Arts
-http://ndasat.pro:8000/live/exch/exch/6262.ts
-#EXTINF:-1,LATINO: FILM ZONE
-http://ndasat.pro:8000/live/exch/exch/6263.ts
-#EXTINF:-1,LATINO: Fox Action HD
-http://ndasat.pro:8000/live/exch/exch/6323.ts
-#EXTINF:-1,LATINO: Fox Cinema HD
-http://ndasat.pro:8000/live/exch/exch/6313.ts
-#EXTINF:-1,LATINO: FOX CLASSIC
-http://ndasat.pro:8000/live/exch/exch/6264.ts
-#EXTINF:-1,LATINO: Fox HD
-http://ndasat.pro:8000/live/exch/exch/6324.ts
-#EXTINF:-1,LATINO: FOX LIFE
-http://ndasat.pro:8000/live/exch/exch/6265.ts
-#EXTINF:-1,LATINO: Fox Movies HD
-http://ndasat.pro:8000/live/exch/exch/6325.ts
-#EXTINF:-1,LATINO: Fox Series HD
-http://ndasat.pro:8000/live/exch/exch/6312.ts
-#EXTINF:-1,LATINO: Fox Sports
-http://ndasat.pro:8000/live/exch/exch/6270.ts
-#EXTINF:-1,LATINO: Fox Sports 2 HD
-http://ndasat.pro:8000/live/exch/exch/6314.ts
-#EXTINF:-1,LATINO: FOX SPORTS SUR
-http://ndasat.pro:8000/live/exch/exch/6271.ts
-#EXTINF:-1,LATINO: FX
-http://ndasat.pro:8000/live/exch/exch/6272.ts
-#EXTINF:-1,LATINO: Gala Tv HD
-http://ndasat.pro:8000/live/exch/exch/6315.ts
-#EXTINF:-1,LATINO: Glitz
-http://ndasat.pro:8000/live/exch/exch/6273.ts
-#EXTINF:-1,LATINO: Golden Edge
-http://ndasat.pro:8000/live/exch/exch/6274.ts
-#EXTINF:-1,LATINO: Golden HD
-http://ndasat.pro:8000/live/exch/exch/6316.ts
-#EXTINF:-1,LATINO: Gourmet
-http://ndasat.pro:8000/live/exch/exch/6275.ts
-#EXTINF:-1,LATINO: H2
-http://ndasat.pro:8000/live/exch/exch/6276.ts
-#EXTINF:-1,LATINO: HBO 2
-http://ndasat.pro:8000/live/exch/exch/6304.ts
-#EXTINF:-1,LATINO: HBO FAMILY
-http://ndasat.pro:8000/live/exch/exch/6277.ts
-#EXTINF:-1,LATINO: HBO OESTE
-http://ndasat.pro:8000/live/exch/exch/6278.ts
-#EXTINF:-1,LATINO: HBO PLUS
-http://ndasat.pro:8000/live/exch/exch/6279.ts
-#EXTINF:-1,LATINO: HBO PLUS OESTE
-http://ndasat.pro:8000/live/exch/exch/6280.ts
-#EXTINF:-1,LATINO: HBO Signature
-http://ndasat.pro:8000/live/exch/exch/6281.ts
-#EXTINF:-1,LATINO: History HD
-http://ndasat.pro:8000/live/exch/exch/6326.ts
-#EXTINF:-1,LATINO: I-SAT
-http://ndasat.pro:8000/live/exch/exch/6282.ts
-#EXTINF:-1,LATINO: LIFETIME
-http://ndasat.pro:8000/live/exch/exch/6283.ts
-#EXTINF:-1,LATINO: MTV HIT
-http://ndasat.pro:8000/live/exch/exch/6284.ts
-#EXTINF:-1,LATINO: MTV LATINO
-http://ndasat.pro:8000/live/exch/exch/6285.ts
-#EXTINF:-1,LATINO: NatGeo Wild HD
-http://ndasat.pro:8000/live/exch/exch/6327.ts
-#EXTINF:-1,LATINO: NATIONAL GEOGRAPHIC
-http://ndasat.pro:8000/live/exch/exch/6286.ts
-#EXTINF:-1,LATINO: NICK Jr
-http://ndasat.pro:8000/live/exch/exch/6287.ts
-#EXTINF:-1,LATINO: NICK TOONS
-http://ndasat.pro:8000/live/exch/exch/6288.ts
-#EXTINF:-1,LATINO: NICKELODEON
-http://ndasat.pro:8000/live/exch/exch/6289.ts
-#EXTINF:-1,LATINO: SONY
-http://ndasat.pro:8000/live/exch/exch/6305.ts
-#EXTINF:-1,LATINO: Space HD
-http://ndasat.pro:8000/live/exch/exch/6317.ts
-#EXTINF:-1,LATINO: STUDIO UNIVERSAL
-http://ndasat.pro:8000/live/exch/exch/6290.ts
-#EXTINF:-1,LATINO: SYFY
-http://ndasat.pro:8000/live/exch/exch/6291.ts
-#EXTINF:-1,LATINO: TBS VERYFUNNY
-http://ndasat.pro:8000/live/exch/exch/6292.ts
-#EXTINF:-1,LATINO: TCM
-http://ndasat.pro:8000/live/exch/exch/6293.ts
-#EXTINF:-1,LATINO: TELEMUNDO
-http://ndasat.pro:8000/live/exch/exch/6295.ts
-#EXTINF:-1,LATINO: TLnovelas
-http://ndasat.pro:8000/live/exch/exch/6296.ts
-#EXTINF:-1,LATINO: TNT
-http://ndasat.pro:8000/live/exch/exch/6297.ts
-#EXTINF:-1,LATINO: TNT Series HD
-http://ndasat.pro:8000/live/exch/exch/6328.ts
-#EXTINF:-1,LATINO: TOONCAST
-http://ndasat.pro:8000/live/exch/exch/6298.ts
-#EXTINF:-1,LATINO: Tru Tv HD
-http://ndasat.pro:8000/live/exch/exch/6318.ts
-#EXTINF:-1,LATINO: UFC
-http://ndasat.pro:8000/live/exch/exch/6269.ts
-#EXTINF:-1,LATINO: Unicable HD
-http://ndasat.pro:8000/live/exch/exch/6319.ts
-#EXTINF:-1,LATINO: UNIMAS HD
-http://ndasat.pro:8000/live/exch/exch/6320.ts
-#EXTINF:-1,LATINO: Universal HD
-http://ndasat.pro:8000/live/exch/exch/6329.ts
-#EXTINF:-1,LATINO: UNIVISION HD
-http://ndasat.pro:8000/live/exch/exch/6321.ts
-#EXTINF:-1,LATINO: Warner HD
-http://ndasat.pro:8000/live/exch/exch/6330.ts
-#EXTINF:-1,LATINO: WIN SPORT
-http://ndasat.pro:8000/live/exch/exch/6268.ts
-#EXTINF:-1,BR|TVE HD 720 BR
-http://ndasat.pro:8000/live/exch/exch/2907.ts
-#EXTINF:-1,BR|URBANA  BR
-http://ndasat.pro:8000/live/exch/exch/2906.ts
+#EXTINF:-1,SyFy Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1079.ts
+#EXTINF:-1,13 TV LATINO
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
+#EXTINF:-1,360 TV LATINO
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,7 TV Región de Murcia LATINO
+http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
+#EXTINF:-1,8 TV LATINO
+rtmp://178.33.113.212/8TV/8aldia-directe
+#EXTINF:-1,A&E Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1127.ts
+#EXTINF:-1,Agape TV LATINO
+http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
+#EXTINF:-1,Animal Planet Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1126.ts
+#EXTINF:-1,Aragon TV LATINO
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,ATB Bolivia LATINO
+http://192.99.38.174:1935/envivo/atb/playlist.m3u8
+#EXTINF:-1,AXN Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1125.ts
+#EXTINF:-1,Bolivia al Aire LATINO
+rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
+#EXTINF:-1,C5N LATINO
+http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,C7 Jalisco LATINO
+http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
+#EXTINF:-1,Capital 21 CDMX LATINO
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1,Capital TV LATINO
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,Carolina TV LATINO
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1123.ts
+#EXTINF:-1,Castilla la Mancha TV LATINO
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,NatGeo Wild Latinoamerica
+http://194.88.104.223:2095/live/husham/isaplayer/1094.ts
+#EXTINF:-1,Navarra TV LATINO
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:-1,Niu TV LATINO
+http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Ocho TV LATINO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+#EXTINF:-1,Pacifico Television Virtual LATINO
+rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
+#EXTINF:-1,PAT LATINO
+http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
+#EXTINF:-1,Patagonia TV LATINO
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,PDVSA TV LATINO
+rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
+#EXTINF:-1,Promar TV  LATINO
+http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
+#EXTINF:-1,Proyecto 40 LATINO
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,QM Noticias LATINO
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
+#EXTINF:-1,RBC Online LATINO
+rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
+#EXTINF:-1,RCG Televisión LATINO
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+#EXTINF:-1,Red Advenir LATINO
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
+#EXTINF:-1,[COLOR gold][B]..CHANNELS WILL CHANGE EACH WEEK [COLOR white] GOO .. PREMIUM  $5[/B][/COLOR]
+http://194.88.104.223:2095/live/husham/isaplayer/1660.ts
+#EXTINF:-1,TPK  MUSIC MEXICAAN
+http://194.88.104.223:2095/live/husham/isaplayer/841.ts
+#EXTINF:-1,TPK  MUSIC POP & COUNTRY
+http://194.88.104.223:2095/live/husham/isaplayer/840.ts
+#EXTINF:-1,TPK  MUSIC POP HITS
+http://194.88.104.223:2095/live/husham/isaplayer/839.ts
+#EXTINF:-1,TPK  MUSIC R&B SOUL
+http://194.88.104.223:2095/live/husham/isaplayer/838.ts
+#EXTINF:-1,TPK  MUSIC RAP 2K
+http://194.88.104.223:2095/live/husham/isaplayer/836.ts
+#EXTINF:-1,FREE - ABC
+http://194.88.104.223:2095/live/husham/isaplayer/1792.ts
+#EXTINF:-1,FREE - AMERICAN HEROS CHANNEL
+http://194.88.104.223:2095/live/husham/isaplayer/1791.ts
+#EXTINF:-1,FREE - BBC AMERICA HD
+http://194.88.104.223:2095/live/husham/isaplayer/1790.ts
+#EXTINF:-1,FREE - BLOOMBERG TV HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1789.ts
+#EXTINF:-1,FREE - CA : CHCH
+http://194.88.104.223:2095/live/husham/isaplayer/1780.ts
+#EXTINF:-1,FREE - CA : COTTAGE LIFE
+http://194.88.104.223:2095/live/husham/isaplayer/1779.ts
+#EXTINF:-1,FREE - CA : CP24
+http://194.88.104.223:2095/live/husham/isaplayer/1778.ts
+#EXTINF:-1,FREE - CA : SPORTSNET WORLD HD
+http://194.88.104.223:2095/live/husham/isaplayer/1777.ts
+#EXTINF:-1,FREE - Comedy Central HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1788.ts
+#EXTINF:-1,FREE - DISCOVERY HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1787.ts
+#EXTINF:-1,FREE - E! USA HD
+http://194.88.104.223:2095/live/husham/isaplayer/1786.ts
+#EXTINF:-1,FREE - ESPN HD USA --
+http://194.88.104.223:2095/live/husham/isaplayer/1785.ts
+#EXTINF:-1,FREE - ESPN NEWS HD USA --
+http://194.88.104.223:2095/live/husham/isaplayer/1784.ts
+#EXTINF:-1,FREE - FOX SPORTS 2
+http://194.88.104.223:2095/live/husham/isaplayer/1805.ts
+#EXTINF:-1,FREE - HBO FAMILY
+http://194.88.104.223:2095/live/husham/isaplayer/1794.ts
+#EXTINF:-1,FREE - MLB Extra Innings 723
+http://194.88.104.223:2095/live/husham/isaplayer/1770.ts
+#EXTINF:-1,FREE - MLB Extra Innings 724
+http://194.88.104.223:2095/live/husham/isaplayer/1769.ts
+#EXTINF:-1,FREE - MLB Extra Innings 725
+http://194.88.104.223:2095/live/husham/isaplayer/1768.ts
+#EXTINF:-1,FREE - MSN HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1783.ts
+#EXTINF:-1,FREE - MSNBC HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1782.ts
+#EXTINF:-1,FREE - MUSIC CHOICE POP & COUNTRY
+http://194.88.104.223:2095/live/husham/isaplayer/1776.ts
+#EXTINF:-1,FREE - MUSIC CHOICE POP HITS
+http://194.88.104.223:2095/live/husham/isaplayer/1775.ts
+#EXTINF:-1,FREE - MUSIC CHOICE R&B SOUL
+http://194.88.104.223:2095/live/husham/isaplayer/1774.ts
+#EXTINF:-1,FREE - MUSIC CHOICE RAP
+http://194.88.104.223:2095/live/husham/isaplayer/1773.ts
+#EXTINF:-1,FREE - MUSIC CHOICE RAP 2K
+http://194.88.104.223:2095/live/husham/isaplayer/1772.ts
+#EXTINF:-1,FREE - MUSIC CHOICE ROCK
+http://194.88.104.223:2095/live/husham/isaplayer/1771.ts
+#EXTINF:-1,FREE - NAT GEO HD USA
+http://194.88.104.223:2095/live/husham/isaplayer/1781.ts
+#EXTINF:-1,FREE - NBA TV HD
+http://194.88.104.223:2095/live/husham/isaplayer/1804.ts
+#EXTINF:-1,FREE - NBC GOLF
+http://194.88.104.223:2095/live/husham/isaplayer/1803.ts
+#EXTINF:-1,FREE - SHOWTIME HD
+http://194.88.104.223:2095/live/husham/isaplayer/1798.ts
+#EXTINF:-1,FREE - SHOWTIME SHOWCASE
+http://194.88.104.223:2095/live/husham/isaplayer/1793.ts
+#EXTINF:-1,FREE - SONY MOVIES
+http://194.88.104.223:2095/live/husham/isaplayer/1797.ts
+#EXTINF:-1,FREE - SPORTSNET PACIFIC
+http://194.88.104.223:2095/live/husham/isaplayer/1802.ts
+#EXTINF:-1,FREE - SPORTSNET WEST
+http://194.88.104.223:2095/live/husham/isaplayer/1801.ts
+#EXTINF:-1,FREE - SPORTSNET WORLD
+http://194.88.104.223:2095/live/husham/isaplayer/1800.ts
+#EXTINF:-1,FREE - STARZ CINEMA
+http://194.88.104.223:2095/live/husham/isaplayer/1796.ts
+#EXTINF:-1,FREE - STARZ WEST
+http://194.88.104.223:2095/live/husham/isaplayer/1795.ts
+#EXTINF:-1,FREE - TEN Cricket
+http://194.88.104.223:2095/live/husham/isaplayer/1799.ts
+#EXTINF:-1,FREE -NBA LEAGUE PASS LIVE 2 HD
+http://194.88.104.223:2095/live/husham/isaplayer/1764.ts
+#EXTINF:-1,FREE -NBA LEAGUE PASS LIVE 3 HD
+http://194.88.104.223:2095/live/husham/isaplayer/1763.ts
+#EXTINF:-1,FREE -NHL 12 HD
+http://194.88.104.223:2095/live/husham/isaplayer/1767.ts
+#EXTINF:-1,FREE -NHL 13 HD
+http://194.88.104.223:2095/live/husham/isaplayer/1766.ts
+#EXTINF:-1,FREE -NHL 2 HD
+http://194.88.104.223:2095/live/husham/isaplayer/1765.ts
