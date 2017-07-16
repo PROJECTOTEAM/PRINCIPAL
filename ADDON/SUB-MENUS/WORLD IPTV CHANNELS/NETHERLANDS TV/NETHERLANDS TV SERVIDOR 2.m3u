@@ -2,53 +2,50 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 16-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-#EXTINF:-1,NL: Film 1 Action
-http://ndasat.pro:8000/live/exch/exch/1168.ts
-#EXTINF:-1,NL: Film 1 Premiere
-http://ndasat.pro:8000/live/exch/exch/1169.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://ndasat.pro:8000/live/exch/exch/1171.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://ndasat.pro:8000/live/exch/exch/1188.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://ndasat.pro:8000/live/exch/exch/1189.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://ndasat.pro:8000/live/exch/exch/1190.ts
-#EXTINF:-1,NL: HBO 1
-http://ndasat.pro:8000/live/exch/exch/1173.ts
-#EXTINF:-1,NL: HBO 2
-http://ndasat.pro:8000/live/exch/exch/1174.ts
-#EXTINF:-1,NL: HBO 3
-http://ndasat.pro:8000/live/exch/exch/1175.ts
-#EXTINF:-1,NL: NPO 1
-http://ndasat.pro:8000/live/exch/exch/1176.ts
-#EXTINF:-1,NL: NPO 3
-http://ndasat.pro:8000/live/exch/exch/1178.ts
-#EXTINF:-1,NL: RTL 4
-http://ndasat.pro:8000/live/exch/exch/1179.ts
-#EXTINF:-1,NL: RTL 5
-http://ndasat.pro:8000/live/exch/exch/1180.ts
-#EXTINF:-1,NL: RTL 7
-http://ndasat.pro:8000/live/exch/exch/1183.ts
-#EXTINF:-1,NL: RTL 8
-http://ndasat.pro:8000/live/exch/exch/1182.ts
-#EXTINF:-1,NL: SBS 6
-http://ndasat.pro:8000/live/exch/exch/1181.ts
-#EXTINF:-1,NL: SBS 9
-http://ndasat.pro:8000/live/exch/exch/1184.ts
-#EXTINF:-1,NL: Veronica
-http://ndasat.pro:8000/live/exch/exch/1185.ts
-
-
-
+#EXTINF:-1,RTL8 HD
+http://188.122.70.241:8000/play/a006
+#EXTINF:-1,RTL Z
+http://188.122.70.241:8000/play/a00d
+#EXTINF:-1,RTL5 HD
+http://188.122.70.241:8000/play/a003
+#EXTINF:-1,Crime Invest.
+http://188.122.70.241:8000/play/a00x
+#EXTINF:-1,L1MBURG
+http://188.122.70.241:8000/play/a00a
+#EXTINF:-1,EUROSPORT2 NL
+http://188.122.70.241:8000/play/a00e
+#EXTINF:-1,VTM HD
+http://188.122.70.241:8000/play/a005
+#EXTINF:-1,RTL4 HD
+http://188.122.70.241:8000/play/a002
+#EXTINF:-1,Reality Kings
+http://188.122.70.241:8000/play/a007
+#EXTINF:-1,JimJam
+http://188.122.70.241:8000/play/a010
+#EXTINF:-1,ZES
+http://188.122.70.241:8000/play/a00f
+#EXTINF:-1,Discovery Showcase HD
+http://188.122.70.241:8000/play/a00t
+#EXTINF:-1,Animal Planet
+http://188.122.70.241:8000/play/a00i
+#EXTINF:-1,VIER HD
+http://188.122.70.241:8000/play/a00c
+#EXTINF:-1,Q2HD
+http://188.122.70.241:8000/play/a00b
+#EXTINF:-1,History HD DUT
+http://188.122.70.241:8000/play/a00w
+#EXTINF:-1,Eurosport 1 HD BE
+http://188.122.70.241:8000/play/a00y
+#EXTINF:-1,RTL lounge
+http://188.122.70.241:8000/play/a009
+#EXTINF:-1,RTL7 HD
+http://188.122.70.241:8000/play/a004
 
 #EXTINF:-1,BE: LA UNE HD
 http://ndasat.pro:8000/live/exch/exch/750.ts
