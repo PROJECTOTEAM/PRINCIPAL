@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -14,441 +14,498 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet
-http://lista.sv1.tv:25461/live/001/marcelo/1864.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet HD
-http://lista.sv1.tv:25461/live/001/marcelo/1863.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="Variedades",Arte 1
-http://lista.sv1.tv:25461/live/001/marcelo/1861.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN
-http://lista.sv1.tv:25461/live/001/marcelo/1860.ts
-#EXTINF:-1 tvg-id="AXN HD [Brazil]" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN HD
-http://lista.sv1.tv:25461/live/001/marcelo/2165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Bandeirantes
-http://lista.sv1.tv:25461/live/001/marcelo/1855.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/07/band.png" group-title="Canais Abertos",Band HD
-http://lista.sv1.tv:25461/live/001/marcelo/1858.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Canais Abertos",Band News
-http://lista.sv1.tv:25461/live/001/marcelo/1857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports
-http://lista.sv1.tv:25461/live/001/marcelo/1856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports HD
-http://lista.sv1.tv:25461/live/001/marcelo/2119.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS
-http://lista.sv1.tv:25461/live/001/marcelo/1853.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-title="Entretenimento",BIS HD
-http://lista.sv1.tv:25461/live/001/marcelo/2120.ts
-#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Boomerang
-http://lista.sv1.tv:25461/live/001/marcelo/1852.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1851.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural
-http://lista.sv1.tv:25461/live/001/marcelo/1850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Canal Sony
-http://lista.sv1.tv:25461/live/001/marcelo/1849.ts
-#EXTINF:-1 tvg-id="Sony HD [Brazil]" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Sony HD
-http://lista.sv1.tv:25461/live/001/marcelo/2164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova
-http://lista.sv1.tv:25461/live/001/marcelo/1848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network
-http://lista.sv1.tv:25461/live/001/marcelo/1847.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Series",A&E
-http://lista.sv1.tv:25461/live/001/marcelo/2720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Canais HBO",Cinemax
-http://lista.sv1.tv:25461/live/001/marcelo/1846.ts
-#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="Esportes",Combate
-http://lista.sv1.tv:25461/live/001/marcelo/1845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Esportes",Combate HD
-http://lista.sv1.tv:25461/live/001/marcelo/1844.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Series",Comedy Central
-http://lista.sv1.tv:25461/live/001/marcelo/1843.ts
-#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="Variedades",Curta!
-http://lista.sv1.tv:25461/live/001/marcelo/1842.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1841.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/1840.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="Documentarios",Discovery Civilization
-http://lista.sv1.tv:25461/live/001/marcelo/1839.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H
-http://lista.sv1.tv:25461/live/001/marcelo/1838.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Variedades",Discovery Home & Health HD
-http://lista.sv1.tv:25461/live/001/marcelo/1837.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids
-http://lista.sv1.tv:25461/live/001/marcelo/1836.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Documentarios",Discovery Science
-http://lista.sv1.tv:25461/live/001/marcelo/1835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
-http://lista.sv1.tv:25461/live/001/marcelo/1834.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="Documentarios",Discovery Turbo HD
-http://lista.sv1.tv:25461/live/001/marcelo/1833.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World HD
-http://lista.sv1.tv:25461/live/001/marcelo/2163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
-http://lista.sv1.tv:25461/live/001/marcelo/1831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD
-http://lista.sv1.tv:25461/live/001/marcelo/1830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
-http://lista.sv1.tv:25461/live/001/marcelo/1832.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E!
-http://lista.sv1.tv:25461/live/001/marcelo/1829.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
-http://lista.sv1.tv:25461/live/001/marcelo/1828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx HD" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Ei Maxx HD
-http://lista.sv1.tv:25461/live/001/marcelo/1825.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
-http://lista.sv1.tv:25461/live/001/marcelo/1827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/EI_Maxx_logos.png" group-title="Esportes",Ei Maxx 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1826.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1866.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Esportes",ESPN Brasil HD
-http://lista.sv1.tv:25461/live/001/marcelo/1823.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN
-http://lista.sv1.tv:25461/live/001/marcelo/1824.ts
-#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
-http://lista.sv1.tv:25461/live/001/marcelo/2162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV
-http://lista.sv1.tv:25461/live/001/marcelo/1822.ts
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network
-http://lista.sv1.tv:25461/live/001/marcelo/1821.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
-http://lista.sv1.tv:25461/live/001/marcelo/1817.ts
-#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Variedades",Fox Life HD
-http://lista.sv1.tv:25461/live/001/marcelo/2159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports
-http://lista.sv1.tv:25461/live/001/marcelo/1815.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303" group-title="Esportes",Fox Sports HD
-http://lista.sv1.tv:25461/live/001/marcelo/1816.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2
-http://lista.sv1.tv:25461/live/001/marcelo/1814.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
-http://lista.sv1.tv:25461/live/001/marcelo/1820.ts
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png" group-title="Series",FOX HD
-http://lista.sv1.tv:25461/live/001/marcelo/2160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" group-title="Series",Fox 1 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1819.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="Series",Fox Action HD
-http://lista.sv1.tv:25461/live/001/marcelo/1818.ts
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentarios",Futura
-http://lista.sv1.tv:25461/live/001/marcelo/1813.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX
-http://lista.sv1.tv:25461/live/001/marcelo/1812.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LogoFX.svg/2000px-LogoFX.svg.png" group-title="Series",FX HD
-http://lista.sv1.tv:25461/live/001/marcelo/2157.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo SP
-http://lista.sv1.tv:25461/live/001/marcelo/1810.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo RJ HD
-http://lista.sv1.tv:25461/live/001/marcelo/1811.ts
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews
-http://lista.sv1.tv:25461/live/001/marcelo/1809.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png" group-title="Infantis",Gloob
-http://lista.sv1.tv:25461/live/001/marcelo/1808.ts
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="Canais Globosat",GNT
-http://lista.sv1.tv:25461/live/001/marcelo/1807.ts
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png" group-title="Canais Globosat",GNT HD
-http://lista.sv1.tv:25461/live/001/marcelo/2118.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="Documentarios",H2
-http://lista.sv1.tv:25461/live/001/marcelo/1806.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://2.bp.blogspot.com/-1wyWYE6VL80/VCwJ3TJfRtI/AAAAAAAAAFg/depxSjME-N4/s1600/History-2-logo-2011.png" group-title="Documentarios",H2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/2156.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647" group-title="Canais HBO",HBO Family
-http://lista.sv1.tv:25461/live/001/marcelo/1803.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="Canais HBO",HBO Family HD
-http://lista.sv1.tv:25461/live/001/marcelo/2155.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="Canais HBO",HBO Plus e
-http://lista.sv1.tv:25461/live/001/marcelo/1800.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus
-http://lista.sv1.tv:25461/live/001/marcelo/1801.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO",HBO Plus HD
-http://lista.sv1.tv:25461/live/001/marcelo/2154.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature
-http://lista.sv1.tv:25461/live/001/marcelo/1799.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="Canais HBO",HBO Signature HD
-http://lista.sv1.tv:25461/live/001/marcelo/2153.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO
-http://lista.sv1.tv:25461/live/001/marcelo/1805.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Canais HBO",HBO HD
-http://lista.sv1.tv:25461/live/001/marcelo/1802.ts
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentarios",History Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/1797.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2
-http://lista.sv1.tv:25461/live/001/marcelo/1798.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Canais HBO",HBO 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1804.ts
-#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
-http://lista.sv1.tv:25461/live/001/marcelo/1796.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigacao Discovery
-http://lista.sv1.tv:25461/live/001/marcelo/1795.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="Series",ID - Investigação Discovery HD
-http://lista.sv1.tv:25461/live/001/marcelo/2152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV
-http://lista.sv1.tv:25461/live/001/marcelo/1794.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime
-http://lista.sv1.tv:25461/live/001/marcelo/1793.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globosat
-http://lista.sv1.tv:25461/live/001/marcelo/1792.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e
-http://lista.sv1.tv:25461/live/001/marcelo/1789.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",MAX Prime
-http://lista.sv1.tv:25461/live/001/marcelo/1790.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
-http://lista.sv1.tv:25461/live/001/marcelo/1788.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",MAX
-http://lista.sv1.tv:25461/live/001/marcelo/1791.ts
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",MegaPix
-http://lista.sv1.tv:25461/live/001/marcelo/1787.ts
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",Megapix HD
-http://lista.sv1.tv:25461/live/001/marcelo/2111.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Entretenimento",MTV
-http://lista.sv1.tv:25461/live/001/marcelo/1786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="Canais Globosat",Multishow
-http://lista.sv1.tv:25461/live/001/marcelo/1785.ts
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="Canais Globosat",Multishow HD
-http://lista.sv1.tv:25461/live/001/marcelo/2123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Entretenimento",Music Box Brazil
-http://lista.sv1.tv:25461/live/001/marcelo/1784.ts
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentarios",NatGeo Wild
-http://lista.sv1.tv:25461/live/001/marcelo/1783.ts
-#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",NatGeoWild HD
-http://lista.sv1.tv:25461/live/001/marcelo/2151.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentarios",National Geographic
-http://lista.sv1.tv:25461/live/001/marcelo/1782.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",National Geography HD
-http://lista.sv1.tv:25461/live/001/marcelo/1781.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR
-http://lista.sv1.tv:25461/live/001/marcelo/1780.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK
-http://lista.sv1.tv:25461/live/001/marcelo/1779.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr
-http://lista.sv1.tv:25461/live/001/marcelo/1778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon
-http://lista.sv1.tv:25461/live/001/marcelo/1777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Variedades",Novo Tempo
-http://lista.sv1.tv:25461/live/001/marcelo/1776.ts
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="Canais Globosat",OFF
-http://lista.sv1.tv:25461/live/001/marcelo/1775.ts
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Canais Globosat",OFF HD
-http://lista.sv1.tv:25461/live/001/marcelo/2150.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
-http://lista.sv1.tv:25461/live/001/marcelo/1774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount HD
-http://lista.sv1.tv:25461/live/001/marcelo/2117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere Clubes
-http://lista.sv1.tv:25461/live/001/marcelo/1758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere Clubes HD
-http://lista.sv1.tv:25461/live/001/marcelo/1771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 2
-http://lista.sv1.tv:25461/live/001/marcelo/1770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1769.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 3
-http://lista.sv1.tv:25461/live/001/marcelo/1768.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 3 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 4
-http://lista.sv1.tv:25461/live/001/marcelo/1766.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 4 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1765.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 5
-http://lista.sv1.tv:25461/live/001/marcelo/1764.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 5 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1763.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 6
-http://lista.sv1.tv:25461/live/001/marcelo/1762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 7
-http://lista.sv1.tv:25461/live/001/marcelo/1761.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 8
-http://lista.sv1.tv:25461/live/001/marcelo/1760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 9
-http://lista.sv1.tv:25461/live/001/marcelo/1759.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" group-title="Filmes",Prime Box Brazil
-http://lista.sv1.tv:25461/live/001/marcelo/1757.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="https://pbs.twimg.com/profile_images/1188141070/Untitled-1_400x400.png" group-title="Canais Abertos",RBI
-http://lista.sv1.tv:25461/live/001/marcelo/1756.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/rbsrs.png" group-title="Canais Abertos",RBS TV Porto Alegre
-http://lista.sv1.tv:25461/live/001/marcelo/1755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News
-http://lista.sv1.tv:25461/live/001/marcelo/1753.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",RECORDTV
-http://lista.sv1.tv:25461/live/001/marcelo/1752.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Canais Abertos",Record HD
-http://lista.sv1.tv:25461/live/001/marcelo/1754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV
-http://lista.sv1.tv:25461/live/001/marcelo/1750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="Canais Abertos",Rede TV HD
-http://lista.sv1.tv:25461/live/001/marcelo/2149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Abertos",Rede Vida
-http://lista.sv1.tv:25461/live/001/marcelo/1749.ts
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT
-http://lista.sv1.tv:25461/live/001/marcelo/1748.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT
-http://lista.sv1.tv:25461/live/001/marcelo/1747.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="Canais Abertos",SBT HD
-http://lista.sv1.tv:25461/live/001/marcelo/1746.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
-http://lista.sv1.tv:25461/live/001/marcelo/1743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space
-http://lista.sv1.tv:25461/live/001/marcelo/1742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png" group-title="Filmes",Space HD
-http://lista.sv1.tv:25461/live/001/marcelo/2115.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
-http://lista.sv1.tv:25461/live/001/marcelo/1738.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154937-canal-sport-tv-hd.png" group-title="Esportes",SporTV HD
-http://lista.sv1.tv:25461/live/001/marcelo/1739.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2
-http://lista.sv1.tv:25461/live/001/marcelo/1737.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="Esportes",SporTV 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1741.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 Alternativo
-http://lista.sv1.tv:25461/live/001/marcelo/1736.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3
-http://lista.sv1.tv:25461/live/001/marcelo/1735.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1740.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV Alternativo
-http://lista.sv1.tv:25461/live/001/marcelo/1734.ts
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal
-http://lista.sv1.tv:25461/live/001/marcelo/1733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",Syfy
-http://lista.sv1.tv:25461/live/001/marcelo/1732.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS
-http://lista.sv1.tv:25461/live/001/marcelo/1731.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS HD
-http://lista.sv1.tv:25461/live/001/marcelo/2121.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM
-http://lista.sv1.tv:25461/live/001/marcelo/1726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action
-http://lista.sv1.tv:25461/live/001/marcelo/1725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action HD
-http://lista.sv1.tv:25461/live/001/marcelo/1730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Canais Telecine",Telecine Cult
-http://lista.sv1.tv:25461/live/001/marcelo/1724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun
-http://lista.sv1.tv:25461/live/001/marcelo/1723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun HD
-http://lista.sv1.tv:25461/live/001/marcelo/1729.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca
-http://lista.sv1.tv:25461/live/001/marcelo/1722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca HD
-http://lista.sv1.tv:25461/live/001/marcelo/1728.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
-http://lista.sv1.tv:25461/live/001/marcelo/1721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium HD
-http://lista.sv1.tv:25461/live/001/marcelo/1727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
-http://lista.sv1.tv:25461/live/001/marcelo/1720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch HD
-http://lista.sv1.tv:25461/live/001/marcelo/2148.ts
-#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1718.ts
-#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2147.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Variedades",TLC
-http://lista.sv1.tv:25461/live/001/marcelo/1717.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series
-http://lista.sv1.tv:25461/live/001/marcelo/1714.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/69/TNT_Series_Logo_2016_Hu.png/revision/latest?cb=20170122154513" group-title="Series",TNT Series HD
-http://lista.sv1.tv:25461/live/001/marcelo/2116.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT
-http://lista.sv1.tv:25461/live/001/marcelo/1716.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filmes",TNT HD
-http://lista.sv1.tv:25461/live/001/marcelo/1715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast
-http://lista.sv1.tv:25461/live/001/marcelo/1713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/06/universal_channel_hd.png" group-title="Series",Universal Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1707.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/512-UniversalChannel.png" group-title="Series",Universal Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2112.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Entretenimento",VH1 Megahits
-http://lista.sv1.tv:25461/live/001/marcelo/1706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Viva
-http://lista.sv1.tv:25461/live/001/marcelo/1705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAiew/lTGTkCArT3U/s1600/Canal_Viva_logo.png" group-title="Canais Globosat",Viva HD
-http://lista.sv1.tv:25461/live/001/marcelo/2145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.lamac.org/res/channels/logos/_0000_warner.png" group-title="Series",Warner Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1704.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://vignette4.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20150529212740&path-prefix=pt-br" group-title="Series",Warner Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" group-title="Variedades",Woohoo
-http://lista.sv1.tv:25461/live/001/marcelo/1703.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rádio | Dance Music" tvg-logo="" group-title="",Rádio | Dance Music
-http://lista.sv1.tv:25461/live/001/marcelo/3085.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="http://www.kmisetas.com.br/Imagens/Franquias/96.gif" group-title="Especial",Chapolin Colorado
-http://lista.sv1.tv:25461/live/001/marcelo/3083.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://3.bp.blogspot.com/-kil3LadK-HA/VuhE0unyw5I/AAAAAAAAJTw/ZO3Z3QULXLoWGOLjN_f_aXmDNCN-UCy2g/s1600/Pica%2BPau.png" group-title="Especial",Pica-Pau
-http://lista.sv1.tv:25461/live/001/marcelo/3096.ts
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha" tvg-logo="https://seeklogo.com/images/S/spider-man-comic-new-logo-322E9DE914-seeklogo.com.png" group-title="Especial",Homem-Aranha
-http://lista.sv1.tv:25461/live/001/marcelo/3097.ts
-#EXTINF:-1 tvg-id="" tvg-name="DBZ1 - Saga Saiajins" tvg-logo="https://iptvwebcsgo.com/images/ESPECIAL/Dragon_Ball_Z_-Saga-Saiajins2.png" group-title="Especial",DBZ1 - Saga Saiajins
-http://lista.sv1.tv:25461/live/001/marcelo/3112.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | BangBus | Selena Sosa 18 Anos" tvg-logo="http://vidzpornx.com/wp-content/uploads/2016/12/BangBus-Selena-Sosa-18-Year-Old-Brazilian-Babe-Gets-Ditched-By-Her-Boyfriend.jpg" group-title="Adulto (+18)",ADULTO | BangBus | Selena Sosa 18 Anos
-http://lista.sv1.tv:25461/movie/001/marcelo/953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Amador | 01" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Amador | 01
-http://lista.sv1.tv:25461/movie/001/marcelo/949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Irmas Blu" tvg-logo="http://static1.brasileirinhas.com.br/arquivosDaCasa/ensaios/img/238/irmãs-no-pornô.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Irmas Blu
-http://lista.sv1.tv:25461/movie/001/marcelo/954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Fernandinha Fernandes" tvg-logo="http://gcache.imagehost123.com/mi/839/h2.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Fernandinha Fernandes
-http://lista.sv1.tv:25461/movie/001/marcelo/950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Melissa" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Melissa
-http://lista.sv1.tv:25461/movie/001/marcelo/948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Stretching Liandra" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Stretching Liandra
-http://lista.sv1.tv:25461/movie/001/marcelo/952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Nayra Mendes" tvg-logo="http://cdn7.images.realitykings.com/rk/mikeinbrazil/faces/nayra2.pick0.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Nayra Mendes
-http://lista.sv1.tv:25461/movie/001/marcelo/951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mia Malkova" tvg-logo="http://pixdaus.com/files/items/pics/6/23/667623_5786d83fc32c90efd6b5bd99d1c4e16c_large.jpg" group-title="Adulto (+18)",ADULTO | Mia Malkova
-http://lista.sv1.tv:25461/movie/001/marcelo/945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Abella Danger" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Abella Danger
-http://lista.sv1.tv:25461/movie/001/marcelo/1013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Alexis Texas" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Alexis Texas
-http://lista.sv1.tv:25461/movie/001/marcelo/1015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Alexis Texas Jada Stevens" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Alexis Texas Jada Stevens
-http://lista.sv1.tv:25461/movie/001/marcelo/1014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Mia Malkova" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Mia Malkova
-http://lista.sv1.tv:25461/movie/001/marcelo/1016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Jenna jameson Is The Masseuse" tvg-logo="http://ecdn.hs.llnwd.net/e1/GLImages/prodimages/210450a.jpg?wid=380" group-title="Adulto (+18)",ADULTO | Jenna jameson Is The Masseuse
-http://lista.sv1.tv:25461/movie/001/marcelo/1012.avi
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | 3 Horas com a Estrela Julia Paes" tvg-logo="http://www.nicolleshop.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/3/6373be8ded.jpg" group-title="Adulto (+18)",ADULTO | 3 Horas com a Estrela Julia Paes
-http://lista.sv1.tv:25461/movie/001/marcelo/1017.avi
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Babi Ventura" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5719.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Babi Ventura
-http://lista.sv1.tv:25461/movie/001/marcelo/1022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Karen Havary" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/6146.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Karen Havary
-http://lista.sv1.tv:25461/movie/001/marcelo/1019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Mary Luthay" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-mary-luthay-794.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Mary Luthay
-http://lista.sv1.tv:25461/movie/001/marcelo/1020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Rebecca Santos" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-rebecca-santos-796.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Rebecca Santos
-http://lista.sv1.tv:25461/movie/001/marcelo/1021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Casa das Brasileirinhas | Irmas Blu" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6145.jpg" group-title="Adulto (+18)",ADULTO | Casa das Brasileirinhas | Irmas Blu
-http://lista.sv1.tv:25461/movie/001/marcelo/1018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 2" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 2
-http://lista.sv1.tv:25461/movie/001/marcelo/1024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 3" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 3
-http://lista.sv1.tv:25461/movie/001/marcelo/1025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 4" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 4
-http://lista.sv1.tv:25461/movie/001/marcelo/1026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 5" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 5
-http://lista.sv1.tv:25461/movie/001/marcelo/1027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas Adultera | Cena 1" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas Adultera | Cena 1
-http://lista.sv1.tv:25461/movie/001/marcelo/1023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" group-title="Adultos",Sextreme
-http://lista.sv1.tv:25461/live/001/marcelo/1745.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="Adultos",Sexy Hot
-http://lista.sv1.tv:25461/live/001/marcelo/1744.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="http://logonoid.com/images/playboy-tv-logo.png" group-title="Adultos",Playboy TV
-http://lista.sv1.tv:25461/live/001/marcelo/1772.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV (PT)" tvg-logo="" group-title="Adultos",Playboy TV (PT)
-http://lista.sv1.tv:25461/live/001/marcelo/2567.ts
-
-
-
-
-
+#EXTINF:-1,A&E
+http://starbr.digitalgroup.me:15000/live/0717/0717/1120.ts
+#EXTINF:-1,AGRO CANAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/2389.ts
+#EXTINF:-1,ALL SPORTS TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/2393.ts
+#EXTINF:-1,ANIMAL PLANET
+http://starbr.digitalgroup.me:15000/live/0717/0717/1719.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1117.ts
+#EXTINF:-1,APARECIDA
+http://starbr.digitalgroup.me:15000/live/0717/0717/916.ts
+#EXTINF:-1,ARTE 1
+http://starbr.digitalgroup.me:15000/live/0717/0717/1218.ts
+#EXTINF:-1,AXN
+http://starbr.digitalgroup.me:15000/live/0717/0717/1712.ts
+#EXTINF:-1,AXN HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1114.ts
+#EXTINF:-1,BAND
+http://starbr.digitalgroup.me:15000/live/0717/0717/1713.ts
+#EXTINF:-1,BAND ALTERNATIVO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2480.ts
+#EXTINF:-1,BAND HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1108.ts
+#EXTINF:-1,BAND NEWS
+http://starbr.digitalgroup.me:15000/live/0717/0717/1107.ts
+#EXTINF:-1,BAND SPORTS
+http://starbr.digitalgroup.me:15000/live/0717/0717/1106.ts
+#EXTINF:-1,BAND SPORTS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2407.ts
+#EXTINF:-1,BBB 1
+http://starbr.digitalgroup.me:15000/live/0717/0717/2481.ts
+#EXTINF:-1,BIS
+http://starbr.digitalgroup.me:15000/live/0717/0717/2408.ts
+#EXTINF:-1,BIS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1104.ts
+#EXTINF:-1,BLOOMBERG HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1103.ts
+#EXTINF:-1,BOOMERANG
+http://starbr.digitalgroup.me:15000/live/0717/0717/1102.ts
+#EXTINF:-1,CANAL BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/1098.ts
+#EXTINF:-1,CANAL DO BOI
+http://starbr.digitalgroup.me:15000/live/0717/0717/2382.ts
+#EXTINF:-1,CANAL RURAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/2482.ts
+#EXTINF:-1,CANCAO NOVA
+http://starbr.digitalgroup.me:15000/live/0717/0717/1220.ts
+#EXTINF:-1,CARTOON NETWORK
+http://starbr.digitalgroup.me:15000/live/0717/0717/1095.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2479.ts
+#EXTINF:-1,CINEMAX
+http://starbr.digitalgroup.me:15000/live/0717/0717/2483.ts
+#EXTINF:-1,COMBATE
+http://starbr.digitalgroup.me:15000/live/0717/0717/1089.ts
+#EXTINF:-1,COMBATE HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1088.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/2484.ts
+#EXTINF:-1,CULTURA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2505.ts
+#EXTINF:-1,CULTURA HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1087.ts
+#EXTINF:-1,CURTA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2485.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/1084.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2410.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://starbr.digitalgroup.me:15000/live/0717/0717/1083.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://starbr.digitalgroup.me:15000/live/0717/0717/2399.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1082.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://starbr.digitalgroup.me:15000/live/0717/0717/1080.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://starbr.digitalgroup.me:15000/live/0717/0717/1078.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2460.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://starbr.digitalgroup.me:15000/live/0717/0717/1072.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2411.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2461.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/1071.ts
+#EXTINF:-1,DISNEY JR
+http://starbr.digitalgroup.me:15000/live/0717/0717/1068.ts
+#EXTINF:-1,DISNEY XD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1065.ts
+#EXTINF:-1,E!
+http://starbr.digitalgroup.me:15000/live/0717/0717/1063.ts
+#EXTINF:-1,EI MAXX
+http://starbr.digitalgroup.me:15000/live/0717/0717/1062.ts
+#EXTINF:-1,EI MAXX 2
+http://starbr.digitalgroup.me:15000/live/0717/0717/1061.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2462.ts
+#EXTINF:-1,EI MAXX HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2463.ts
+#EXTINF:-1,ESPN
+http://starbr.digitalgroup.me:15000/live/0717/0717/1718.ts
+#EXTINF:-1,ESPN BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/1060.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2387.ts
+#EXTINF:-1,ESPN HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1129.ts
+#EXTINF:-1,ESPN+
+http://starbr.digitalgroup.me:15000/live/0717/0717/2395.ts
+#EXTINF:-1,ESPN+ HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2394.ts
+#EXTINF:-1,ESPORTE INTERATIVO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2397.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2396.ts
+#EXTINF:-1,FISH TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/1050.ts
+#EXTINF:-1,FOOD NETWORK
+http://starbr.digitalgroup.me:15000/live/0717/0717/1049.ts
+#EXTINF:-1,FOX
+http://starbr.digitalgroup.me:15000/live/0717/0717/1329.ts
+#EXTINF:-1,FOX HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1047.ts
+#EXTINF:-1,FOX LIFE
+http://starbr.digitalgroup.me:15000/live/0717/0717/1038.ts
+#EXTINF:-1,FOX LIFE HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1037.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2464.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2465.ts
+#EXTINF:-1,FOX SPORTS
+http://starbr.digitalgroup.me:15000/live/0717/0717/2391.ts
+#EXTINF:-1,FOX SPORTS 2
+http://starbr.digitalgroup.me:15000/live/0717/0717/1717.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1031.ts
+#EXTINF:-1,FOX SPORTS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1033.ts
+#EXTINF:-1,FUTURA
+http://starbr.digitalgroup.me:15000/live/0717/0717/1029.ts
+#EXTINF:-1,FX
+http://starbr.digitalgroup.me:15000/live/0717/0717/1028.ts
+#EXTINF:-1,FX HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2386.ts
+#EXTINF:-1,GLOBO BRASILIA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2512.ts
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2477.ts
+#EXTINF:-1,GLOBO MG
+http://starbr.digitalgroup.me:15000/live/0717/0717/2412.ts
+#EXTINF:-1,GLOBO NEWS
+http://starbr.digitalgroup.me:15000/live/0717/0717/1027.ts
+#EXTINF:-1,GLOBO RJ
+http://starbr.digitalgroup.me:15000/live/0717/0717/2508.ts
+#EXTINF:-1,GLOBO RJ HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1207.ts
+#EXTINF:-1,GLOBO SP
+http://starbr.digitalgroup.me:15000/live/0717/0717/1024.ts
+#EXTINF:-1,GLOOB
+http://starbr.digitalgroup.me:15000/live/0717/0717/1023.ts
+#EXTINF:-1,GNT
+http://starbr.digitalgroup.me:15000/live/0717/0717/1022.ts
+#EXTINF:-1,GNT HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2466.ts
+#EXTINF:-1,H2
+http://starbr.digitalgroup.me:15000/live/0717/0717/2486.ts
+#EXTINF:-1,H2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1021.ts
+#EXTINF:-1,HBO
+http://starbr.digitalgroup.me:15000/live/0717/0717/1020.ts
+#EXTINF:-1,HBO 2
+http://starbr.digitalgroup.me:15000/live/0717/0717/2489.ts
+#EXTINF:-1,HBO 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1017.ts
+#EXTINF:-1,HBO FAMILY
+http://starbr.digitalgroup.me:15000/live/0717/0717/1016.ts
+#EXTINF:-1,HBO FAMILY HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2392.ts
+#EXTINF:-1,HBO HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1209.ts
+#EXTINF:-1,HBO PLUS
+http://starbr.digitalgroup.me:15000/live/0717/0717/1014.ts
+#EXTINF:-1,HBO PLUS E
+http://starbr.digitalgroup.me:15000/live/0717/0717/2487.ts
+#EXTINF:-1,HBO PLUS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2467.ts
+#EXTINF:-1,HBO SIGNATURE
+http://starbr.digitalgroup.me:15000/live/0717/0717/2488.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1013.ts
+#EXTINF:-1,I-SAT
+http://starbr.digitalgroup.me:15000/live/0717/0717/2490.ts
+#EXTINF:-1,IDEAL TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/2491.ts
+#EXTINF:-1,INVESTIGACAO DISCOVERY
+http://starbr.digitalgroup.me:15000/live/0717/0717/1011.ts
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2469.ts
+#EXTINF:-1,LIFETIME
+http://starbr.digitalgroup.me:15000/live/0717/0717/2492.ts
+#EXTINF:-1,MAIS GLOBOSAT
+http://starbr.digitalgroup.me:15000/live/0717/0717/1008.ts
+#EXTINF:-1,MAX
+http://starbr.digitalgroup.me:15000/live/0717/0717/1007.ts
+#EXTINF:-1,MAX PRIME
+http://starbr.digitalgroup.me:15000/live/0717/0717/1006.ts
+#EXTINF:-1,MAX PRIME E
+http://starbr.digitalgroup.me:15000/live/0717/0717/2493.ts
+#EXTINF:-1,MAX UP
+http://starbr.digitalgroup.me:15000/live/0717/0717/1005.ts
+#EXTINF:-1,MEGAPIX
+http://starbr.digitalgroup.me:15000/live/0717/0717/1004.ts
+#EXTINF:-1,MEGAPIX HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2470.ts
+#EXTINF:-1,MTV
+http://starbr.digitalgroup.me:15000/live/0717/0717/1000.ts
+#EXTINF:-1,MULTISHOW
+http://starbr.digitalgroup.me:15000/live/0717/0717/1211.ts
+#EXTINF:-1,MULTISHOW HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2385.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/997.ts
+#EXTINF:-1,NATGEO WILD
+http://starbr.digitalgroup.me:15000/live/0717/0717/995.ts
+#EXTINF:-1,NATGEO WILD HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/994.ts
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://starbr.digitalgroup.me:15000/live/0717/0717/991.ts
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/990.ts
+#EXTINF:-1,NBR
+http://starbr.digitalgroup.me:15000/live/0717/0717/2494.ts
+#EXTINF:-1,NHK
+http://starbr.digitalgroup.me:15000/live/0717/0717/2495.ts
+#EXTINF:-1,NICK
+http://starbr.digitalgroup.me:15000/live/0717/0717/1206.ts
+#EXTINF:-1,NICK JR
+http://starbr.digitalgroup.me:15000/live/0717/0717/986.ts
+#EXTINF:-1,NOVO TEMPO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2496.ts
+#EXTINF:-1,OFF
+http://starbr.digitalgroup.me:15000/live/0717/0717/1219.ts
+#EXTINF:-1,OFF HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2471.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/980.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2472.ts
+#EXTINF:-1,PLAY TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/2497.ts
+#EXTINF:-1,PREMIERE 2
+http://starbr.digitalgroup.me:15000/live/0717/0717/978.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1213.ts
+#EXTINF:-1,PREMIERE 3
+http://starbr.digitalgroup.me:15000/live/0717/0717/977.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1214.ts
+#EXTINF:-1,PREMIERE 4
+http://starbr.digitalgroup.me:15000/live/0717/0717/976.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1215.ts
+#EXTINF:-1,PREMIERE 5
+http://starbr.digitalgroup.me:15000/live/0717/0717/975.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1216.ts
+#EXTINF:-1,PREMIERE 6
+http://starbr.digitalgroup.me:15000/live/0717/0717/974.ts
+#EXTINF:-1,PREMIERE 7
+http://starbr.digitalgroup.me:15000/live/0717/0717/973.ts
+#EXTINF:-1,PREMIERE 8
+http://starbr.digitalgroup.me:15000/live/0717/0717/972.ts
+#EXTINF:-1,PREMIERE 9
+http://starbr.digitalgroup.me:15000/live/0717/0717/971.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://starbr.digitalgroup.me:15000/live/0717/0717/970.ts
+#EXTINF:-1,PREMIERE CLUBES HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1714.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/969.ts
+#EXTINF:-1,RBI
+http://starbr.digitalgroup.me:15000/live/0717/0717/2498.ts
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://starbr.digitalgroup.me:15000/live/0717/0717/968.ts
+#EXTINF:-1,REAL MADRID TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/967.ts
+#EXTINF:-1,RECORD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1710.ts
+#EXTINF:-1,RECORD HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1210.ts
+#EXTINF:-1,RECORD NEWS
+http://starbr.digitalgroup.me:15000/live/0717/0717/966.ts
+#EXTINF:-1,RECORD NEWS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2400.ts
+#EXTINF:-1,REDE BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/965.ts
+#EXTINF:-1,REDE TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/963.ts
+#EXTINF:-1,REDE TV HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2406.ts
+#EXTINF:-1,REDE VIDA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2499.ts
+#EXTINF:-1,RIT
+http://starbr.digitalgroup.me:15000/live/0717/0717/2500.ts
+#EXTINF:-1,SBT
+http://starbr.digitalgroup.me:15000/live/0717/0717/955.ts
+#EXTINF:-1,SBT HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1208.ts
+#EXTINF:-1,SESC TV HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/953.ts
+#EXTINF:-1,SIC INTERNATIONAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/952.ts
+#EXTINF:-1,SONY
+http://starbr.digitalgroup.me:15000/live/0717/0717/1096.ts
+#EXTINF:-1,SONY HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2409.ts
+#EXTINF:-1,SPACE
+http://starbr.digitalgroup.me:15000/live/0717/0717/2501.ts
+#EXTINF:-1,SPACE HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1327.ts
+#EXTINF:-1,SPORTV
+http://starbr.digitalgroup.me:15000/live/0717/0717/943.ts
+#EXTINF:-1,SPORTV 2
+http://starbr.digitalgroup.me:15000/live/0717/0717/942.ts
+#EXTINF:-1,SPORTV 2 ALTERNATIVO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2502.ts
+#EXTINF:-1,SPORTV 2 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2401.ts
+#EXTINF:-1,SPORTV 3
+http://starbr.digitalgroup.me:15000/live/0717/0717/941.ts
+#EXTINF:-1,SPORTV 3 HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2402.ts
+#EXTINF:-1,SPORTV ALTERNATIVO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2503.ts
+#EXTINF:-1,SPORTV HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/1203.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/2384.ts
+#EXTINF:-1,SYFY
+http://starbr.digitalgroup.me:15000/live/0717/0717/939.ts
+#EXTINF:-1,TBS
+http://starbr.digitalgroup.me:15000/live/0717/0717/937.ts
+#EXTINF:-1,TBS HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2473.ts
+#EXTINF:-1,TC ACTION
+http://starbr.digitalgroup.me:15000/live/0717/0717/935.ts
+#EXTINF:-1,TC ACTION HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/936.ts
+#EXTINF:-1,TC CULT
+http://starbr.digitalgroup.me:15000/live/0717/0717/933.ts
+#EXTINF:-1,TC FUN
+http://starbr.digitalgroup.me:15000/live/0717/0717/931.ts
+#EXTINF:-1,TC FUN HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/932.ts
+#EXTINF:-1,TC PIPOCA
+http://starbr.digitalgroup.me:15000/live/0717/0717/929.ts
+#EXTINF:-1,TC PIPOCA HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/930.ts
+#EXTINF:-1,TC PREMIUM
+http://starbr.digitalgroup.me:15000/live/0717/0717/2415.ts
+#EXTINF:-1,TC PREMIUM HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/928.ts
+#EXTINF:-1,TC TOUCH
+http://starbr.digitalgroup.me:15000/live/0717/0717/926.ts
+#EXTINF:-1,TC TOUCH HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/927.ts
+#EXTINF:-1,TCM
+http://starbr.digitalgroup.me:15000/live/0717/0717/925.ts
+#EXTINF:-1,TERRA VIVA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2504.ts
+#EXTINF:-1,THE HISTORY CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/923.ts
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2468.ts
+#EXTINF:-1,TLC
+http://starbr.digitalgroup.me:15000/live/0717/0717/922.ts
+#EXTINF:-1,TNT
+http://starbr.digitalgroup.me:15000/live/0717/0717/921.ts
+#EXTINF:-1,TNT HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2383.ts
+#EXTINF:-1,TNT SERIES
+http://starbr.digitalgroup.me:15000/live/0717/0717/1204.ts
+#EXTINF:-1,TNT SERIES HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2474.ts
+#EXTINF:-1,TOONCAST
+http://starbr.digitalgroup.me:15000/live/0717/0717/919.ts
+#EXTINF:-1,TRU TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/917.ts
+#EXTINF:-1,TV ANHANGUERA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2511.ts
+#EXTINF:-1,TV BRASIL
+http://starbr.digitalgroup.me:15000/live/0717/0717/915.ts
+#EXTINF:-1,TV CAMARA
+http://starbr.digitalgroup.me:15000/live/0717/0717/1715.ts
+#EXTINF:-1,TV DIARIO
+http://starbr.digitalgroup.me:15000/live/0717/0717/2388.ts
+#EXTINF:-1,TV ESCOLA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2404.ts
+#EXTINF:-1,TV ESCOLA HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/910.ts
+#EXTINF:-1,TV GAZETA HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/909.ts
+#EXTINF:-1,TV GERAL
+http://starbr.digitalgroup.me:15000/live/0717/0717/2413.ts
+#EXTINF:-1,TV JUSTICA
+http://starbr.digitalgroup.me:15000/live/0717/0717/1716.ts
+#EXTINF:-1,TV RA TIM BUM
+http://starbr.digitalgroup.me:15000/live/0717/0717/2506.ts
+#EXTINF:-1,TV TEM BAURU
+http://starbr.digitalgroup.me:15000/live/0717/0717/2510.ts
+#EXTINF:-1,TV TEM SOROCABA
+http://starbr.digitalgroup.me:15000/live/0717/0717/2509.ts
+#EXTINF:-1,TVE
+http://starbr.digitalgroup.me:15000/live/0717/0717/2507.ts
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/940.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2475.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://starbr.digitalgroup.me:15000/live/0717/0717/898.ts
+#EXTINF:-1,VIVA
+http://starbr.digitalgroup.me:15000/live/0717/0717/897.ts
+#EXTINF:-1,VIVA HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2476.ts
+#EXTINF:-1,WARNER CHANNEL
+http://starbr.digitalgroup.me:15000/live/0717/0717/896.ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://starbr.digitalgroup.me:15000/live/0717/0717/2478.ts
+#EXTINF:-1,WOOHOO
+http://starbr.digitalgroup.me:15000/live/0717/0717/894.ts
+#EXTINF:-1,XX: PLAYBOY TV
+http://starbr.digitalgroup.me:15000/live/0717/0717/871.ts
+#EXTINF:-1,XX: SEXTREME
+http://starbr.digitalgroup.me:15000/live/0717/0717/853.ts
+#EXTINF:-1,XX: SEXY HOT
+http://starbr.digitalgroup.me:15000/live/0717/0717/1205.ts
+#EXTINF:-1,BA - 104.7: NOVA BRASIL FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1332.ts
+#EXTINF:-1,DF - 100.1: RADIO TRANSAMERICA POP FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1346.ts
+#EXTINF:-1,DF - 101.7: RADIO EXECUTIVA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1347.ts
+#EXTINF:-1,DF - 104:1: OK FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1328.ts
+#EXTINF:-1,DF - 105.5: CLUBE FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1349.ts
+#EXTINF:-1,DF - 106.1: JOIA SERTANEJA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1350.ts
+#EXTINF:-1,DF - 106.3: JOVEM PAN FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1351.ts
+#EXTINF:-1,DF - 107.1: ATIVIDADE FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1352.ts
+#EXTINF:-1,DF - 107.5: SARA BRASIL FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1353.ts
+#EXTINF:-1,DF - 107.9: RADIO MARIA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1354.ts
+#EXTINF:-1,DF - 710: NOVA ALIANCA AM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1355.ts
+#EXTINF:-1,DF - 88.3: MIX FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1333.ts
+#EXTINF:-1,DF - 89.1: CANCAO NOVA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1334.ts
+#EXTINF:-1,DF - 89.9: BRASILIA SUPER RADIO FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1335.ts
+#EXTINF:-1,DF - 90.5: BAND NEWS FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1336.ts
+#EXTINF:-1,DF - 91.1: FORCA AEREA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1337.ts
+#EXTINF:-1,DF - 94.5: REDE IMACULADA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1339.ts
+#EXTINF:-1,DF - 95.3: CBN FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1340.ts
+#EXTINF:-1,DF - 97.5: NOVA BRASIL FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1341.ts
+#EXTINF:-1,DF - 98.1: RADIO PARANOA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1344.ts
+#EXTINF:-1,DF - 98.1: RADIO REGIONAL FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1342.ts
+#EXTINF:-1,DF - 98.1: RADIO SAMAMBAIA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1343.ts
+#EXTINF:-1,DF - 98.7: RADIO VERDE OLIVA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1345.ts
+#EXTINF:-1,RJ - 104.1: RADIO MANIA FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1348.ts
+#EXTINF:-1,SP - 104.1: TOP FM [RADIO]
+http://starbr.digitalgroup.me:15000/live/0717/0717/1331.ts
 
 
 
