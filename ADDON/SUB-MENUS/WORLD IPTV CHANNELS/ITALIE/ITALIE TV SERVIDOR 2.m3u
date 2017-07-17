@@ -1,272 +1,137 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:-1,IT: ALICE
-http://ndasat.pro:8000/live/exch/exch/1243.ts
-#EXTINF:-1,IT: ANIMAL_PLANETE
-http://ndasat.pro:8000/live/exch/exch/1287.ts
-#EXTINF:-1,IT: CANALE 5 HD
-http://ndasat.pro:8000/live/exch/exch/1247.ts
-#EXTINF:-1,IT: Canale_7
-http://ndasat.pro:8000/live/exch/exch/1246.ts
+#EXTINF:-1,IT: Alice
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2623.ts
+#EXTINF:-1,IT: automoto TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2622.ts
+#EXTINF:-1,IT: BOING
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2621.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2620.ts
 #EXTINF:-1,IT: CARTOONITO
-http://ndasat.pro:8000/live/exch/exch/1288.ts
-#EXTINF:-1,IT: CRIME NVESTIGATION HD
-http://ndasat.pro:8000/live/exch/exch/1294.ts
-#EXTINF:-1,IT: DISCOVERY HD
-http://ndasat.pro:8000/live/exch/exch/1293.ts
-#EXTINF:-1,IT: DISCOVERY SCIENCE
-http://ndasat.pro:8000/live/exch/exch/1280.ts
-#EXTINF:-1,IT: DISCOVERY Travel & Living
-http://ndasat.pro:8000/live/exch/exch/1278.ts
-#EXTINF:-1,IT: Disney HD
-http://ndasat.pro:8000/live/exch/exch/1292.ts
-#EXTINF:-1,IT: DISNEY_XD
-http://ndasat.pro:8000/live/exch/exch/1291.ts
-#EXTINF:-1,IT: DMAX HD
-http://ndasat.pro:8000/live/exch/exch/1290.ts
-#EXTINF:-1,IT: DMAX_HD
-http://ndasat.pro:8000/live/exch/exch/3317.ts
-#EXTINF:-1,IT: EUROSPORT 2 HD
-http://ndasat.pro:8000/live/exch/exch/1265.ts
-#EXTINF:-1,IT: EUROSPORT 1 HD
-http://ndasat.pro:8000/live/exch/exch/1264.ts
-#EXTINF:-1,IT: FOX ANIMATION HD
-http://ndasat.pro:8000/live/exch/exch/1289.ts
-#EXTINF:-1,IT: FOX HD
-http://ndasat.pro:8000/live/exch/exch/1286.ts
-#EXTINF:-1,IT: FOX LIFE HD
-http://ndasat.pro:8000/live/exch/exch/1285.ts
-#EXTINF:-1,IT: ITALIA 1 HD
-http://ndasat.pro:8000/live/exch/exch/1242.ts
-#EXTINF:-1,IT: La 5
-http://ndasat.pro:8000/live/exch/exch/1244.ts
-#EXTINF:-1,IT: La 7
-http://ndasat.pro:8000/live/exch/exch/1245.ts
-#EXTINF:-1,IT: MILAN CHANNEL
-http://ndasat.pro:8000/live/exch/exch/1263.ts
-#EXTINF:-1,IT: NAT GEOGRAPHIC HD
-http://ndasat.pro:8000/live/exch/exch/1281.ts
-#EXTINF:-1,IT: NATIONALGEO PEOPLE HD
-http://ndasat.pro:8000/live/exch/exch/1283.ts
-#EXTINF:-1,IT: NATIONALGEO WILD HD
-http://ndasat.pro:8000/live/exch/exch/1282.ts
-#EXTINF:-1,IT: PESCA E CACCIA
-http://ndasat.pro:8000/live/exch/exch/1279.ts
-#EXTINF:-1,IT: PREMIUM CARTOON NETWORK
-http://ndasat.pro:8000/live/exch/exch/1327.ts
-#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
-http://ndasat.pro:8000/live/exch/exch/1326.ts
-#EXTINF:-1,IT: Premium Crime +24
-http://ndasat.pro:8000/live/exch/exch/1319.ts
-#EXTINF:-1,IT: PREMIUM ACTION 24
-http://ndasat.pro:8000/live/exch/exch/1324.ts
-#EXTINF:-1,IT: PREMIUM ACTION HD
-http://ndasat.pro:8000/live/exch/exch/1328.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
-http://ndasat.pro:8000/live/exch/exch/1306.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
-http://ndasat.pro:8000/live/exch/exch/1307.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_3_HD
-http://ndasat.pro:8000/live/exch/exch/1308.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_4_HD
-http://ndasat.pro:8000/live/exch/exch/1309.ts
-#EXTINF:-1,IT: PREMIUM CALCIO 5 HD
-http://ndasat.pro:8000/live/exch/exch/1310.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_6_HD
-http://ndasat.pro:8000/live/exch/exch/1311.ts
-#EXTINF:-1,IT: PREMIUM_CALCIO_HD
-http://ndasat.pro:8000/live/exch/exch/1305.ts
-#EXTINF:-1,IT: PREMIUM_CINEMA_24
-http://ndasat.pro:8000/live/exch/exch/1325.ts
-#EXTINF:-1,IT: PREMIUM CINEMA ENERGY_HD
-http://ndasat.pro:8000/live/exch/exch/1323.ts
-#EXTINF:-1,IT: PREMIUM_CINEMA_HD
-http://ndasat.pro:8000/live/exch/exch/1322.ts
-#EXTINF:-1,IT: PREMIUM_COMEDY_HD
-http://ndasat.pro:8000/live/exch/exch/1321.ts
-#EXTINF:-1,IT: PREMIUM_CRIME_HD
-http://ndasat.pro:8000/live/exch/exch/1320.ts
-#EXTINF:-1,IT: Premium DISNEY CHANNEL HD
-http://ndasat.pro:8000/live/exch/exch/1316.ts
-#EXTINF:-1,IT: Premium_Disney_Junior
-http://ndasat.pro:8000/live/exch/exch/1315.ts
-#EXTINF:-1,IT: PREMIUM_EMOTION
-http://ndasat.pro:8000/live/exch/exch/1318.ts
-#EXTINF:-1,IT: PREMIUM JOI
-http://ndasat.pro:8000/live/exch/exch/1313.ts
-#EXTINF:-1,IT: PREMIUM_JOY
-http://ndasat.pro:8000/live/exch/exch/1314.ts
-#EXTINF:-1,IT: PREMIUM_SPORT_2_HD
-http://ndasat.pro:8000/live/exch/exch/3476.ts
-#EXTINF:-1,IT: PREMIUM SPORT HD
-http://ndasat.pro:8000/live/exch/exch/1312.ts
-#EXTINF:-1,IT: PREMIUM STORIES
-http://ndasat.pro:8000/live/exch/exch/1284.ts
-#EXTINF:-1,IT: Premium STUDIO UNIVERSAL
-http://ndasat.pro:8000/live/exch/exch/1317.ts
-#EXTINF:-1,IT: PRIMAFILA_1_HD
-http://ndasat.pro:8000/live/exch/exch/1209.ts
-#EXTINF:-1,IT: PRIMAFILA_10_HD
-http://ndasat.pro:8000/live/exch/exch/1218.ts
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-http://ndasat.pro:8000/live/exch/exch/1219.ts
-#EXTINF:-1,IT: PRIMAFILA 12 HD
-http://ndasat.pro:8000/live/exch/exch/1220.ts
-#EXTINF:-1,IT: PRIMAFILA 13 HD
-http://ndasat.pro:8000/live/exch/exch/1221.ts
-#EXTINF:-1,IT: PRIMAFILA 14 HD
-http://ndasat.pro:8000/live/exch/exch/1222.ts
-#EXTINF:-1,IT: PRIMAFILA 15 HD
-http://ndasat.pro:8000/live/exch/exch/1223.ts
-#EXTINF:-1,IT: PRIMAFILA_16_HD
-http://ndasat.pro:8000/live/exch/exch/1224.ts
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-http://ndasat.pro:8000/live/exch/exch/1210.ts
-#EXTINF:-1,IT: PRIMAFILA_3_HD
-http://ndasat.pro:8000/live/exch/exch/1211.ts
-#EXTINF:-1,IT: PRIMAFILA_4_HD
-http://ndasat.pro:8000/live/exch/exch/1212.ts
-#EXTINF:-1,IT: PRIMAFILA 5 HD
-http://ndasat.pro:8000/live/exch/exch/1213.ts
-#EXTINF:-1,IT: PRIMAFILA 6 HD
-http://ndasat.pro:8000/live/exch/exch/1214.ts
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-http://ndasat.pro:8000/live/exch/exch/1215.ts
-#EXTINF:-1,IT: PRIMAFILA_8_HD
-http://ndasat.pro:8000/live/exch/exch/1216.ts
-#EXTINF:-1,IT: PRIMAFILA 9 HD
-http://ndasat.pro:8000/live/exch/exch/1217.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2619.ts
+#EXTINF:-1,IT: Dmax
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2618.ts
+#EXTINF:-1,IT: EuroNews
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2617.ts
+#EXTINF:-1,IT: Giallo
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2616.ts
+#EXTINF:-1,IT: IRIS
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2615.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2614.ts
+#EXTINF:-1,IT: Italia 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2610.ts
+#EXTINF:-1,IT: La 7 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2613.ts
+#EXTINF:-1,IT: La 7D
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2612.ts
+#EXTINF:-1,IT: Marcopolo
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2611.ts
+#EXTINF:-1,IT: Premium Action 24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2657.ts
+#EXTINF:-1,IT: Premium Action HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2656.ts
+#EXTINF:-1,IT: Premium Calcio 1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2655.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2654.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2653.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2652.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2651.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2650.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2649.ts
+#EXTINF:-1,IT: Premium Cinema 2  24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2648.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2647.ts
+#EXTINF:-1,IT: Premium Cinema 24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2646.ts
+#EXTINF:-1,IT: Premium Cinema Comedy
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2645.ts
+#EXTINF:-1,IT: Premium Cinema Emotion
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2644.ts
+#EXTINF:-1,IT: Premium Cinema Energy
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2643.ts
+#EXTINF:-1,IT: Premium Cinema Energy 24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2642.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2641.ts
+#EXTINF:-1,IT: Premium Crime  24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2640.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2639.ts
+#EXTINF:-1,IT: Premium Discovery Investigation
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2638.ts
+#EXTINF:-1,IT: Premium Emotion
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2637.ts
+#EXTINF:-1,IT: Premium Energy  24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2636.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2635.ts
+#EXTINF:-1,IT: Premium Investigation
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2634.ts
+#EXTINF:-1,IT: Premium Joi
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2633.ts
+#EXTINF:-1,IT: Premium Joi  24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2632.ts
+#EXTINF:-1,IT: Premium Sport
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2631.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2630.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2629.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2628.ts
+#EXTINF:-1,IT: Premium Stories
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2627.ts
+#EXTINF:-1,IT: Premium Stories  24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2626.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2625.ts
+#EXTINF:-1,IT: Premium TOPCrime
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2624.ts
 #EXTINF:-1,IT: RAI 1 HD
-http://ndasat.pro:8000/live/exch/exch/1227.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://ndasat.pro:8000/live/exch/exch/1228.ts
-#EXTINF:-1,IT: RAI 3 HD
-http://ndasat.pro:8000/live/exch/exch/1229.ts
-#EXTINF:-1,IT: RAI 4 HD
-http://ndasat.pro:8000/live/exch/exch/1230.ts
-#EXTINF:-1,IT: RAI 5 HD
-http://ndasat.pro:8000/live/exch/exch/1231.ts
-#EXTINF:-1,IT: RAI GULP
-http://ndasat.pro:8000/live/exch/exch/1234.ts
-#EXTINF:-1,IT: RAI NEWS
-http://ndasat.pro:8000/live/exch/exch/1232.ts
-#EXTINF:-1,IT: RAI PREMIUM HD
-http://ndasat.pro:8000/live/exch/exch/1271.ts
-#EXTINF:-1,IT: RAI SPORT 2
-http://ndasat.pro:8000/live/exch/exch/1237.ts
-#EXTINF:-1,IT: RAI YOYO
-http://ndasat.pro:8000/live/exch/exch/1235.ts
-#EXTINF:-1,IT: RAI MOVIE
-http://ndasat.pro:8000/live/exch/exch/1233.ts
-#EXTINF:-1,IT: RAI SPORT 1
-http://ndasat.pro:8000/live/exch/exch/1236.ts
-#EXTINF:-1,IT: RETE 4 HD
-http://ndasat.pro:8000/live/exch/exch/1240.ts
-#EXTINF:-1,IT: RSI LA 1 HD
-http://ndasat.pro:8000/live/exch/exch/1238.ts
-#EXTINF:-1,IT: RSI LA 2 HD
-http://ndasat.pro:8000/live/exch/exch/1239.ts
-#EXTINF:-1,IT: SKY AXN HD
-http://ndasat.pro:8000/live/exch/exch/1275.ts
-#EXTINF:-1,IT: SKY CALCIO 1 HD
-http://ndasat.pro:8000/live/exch/exch/1256.ts
-#EXTINF:-1,IT: SKY CIELO
-http://ndasat.pro:8000/live/exch/exch/1274.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://ndasat.pro:8000/live/exch/exch/2896.ts
-#EXTINF:-1,IT: SKY CINEMA 24 HD
-http://ndasat.pro:8000/live/exch/exch/1304.ts
-#EXTINF:-1,IT: SKY CINEMA COMEDY HD
-http://ndasat.pro:8000/live/exch/exch/2900.ts
-#EXTINF:-1,IT: SKY CINEMA CULT HD
-http://ndasat.pro:8000/live/exch/exch/2899.ts
-#EXTINF:-1,IT: SKY CINEMA HITS HD
-http://ndasat.pro:8000/live/exch/exch/2902.ts
-#EXTINF:-1,IT: SKY  CINEMA MAX hD
-http://ndasat.pro:8000/live/exch/exch/2901.ts
-#EXTINF:-1,IT: SKY CINEMA PASSION HD
-http://ndasat.pro:8000/live/exch/exch/2898.ts
-#EXTINF:-1,IT: SKY FOX COMEDY HD
-http://ndasat.pro:8000/live/exch/exch/2903.ts
-#EXTINF:-1,IT: SKY FOX CRIME HD
-http://ndasat.pro:8000/live/exch/exch/1272.ts
-#EXTINF:-1,IT: Sky Primafila 1 HD
-http://ndasat.pro:8000/live/exch/exch/374.ts
-#EXTINF:-1,IT: Sky Primafila 10 HD
-http://ndasat.pro:8000/live/exch/exch/373.ts
-#EXTINF:-1,IT: Sky Primafila 11 HD
-http://ndasat.pro:8000/live/exch/exch/372.ts
-#EXTINF:-1,IT: Sky PrimaFila 12 HD
-http://ndasat.pro:8000/live/exch/exch/371.ts
-#EXTINF:-1,IT: Sky Primafila 2 HD
-http://ndasat.pro:8000/live/exch/exch/370.ts
-#EXTINF:-1,IT: Sky Primafila 3 HD
-http://ndasat.pro:8000/live/exch/exch/369.ts
-#EXTINF:-1,IT: Sky Primafila 4 HD
-http://ndasat.pro:8000/live/exch/exch/368.ts
-#EXTINF:-1,IT: Sky Primafila 5 HD
-http://ndasat.pro:8000/live/exch/exch/367.ts
-#EXTINF:-1,IT: Sky Primafila 6 HD
-http://ndasat.pro:8000/live/exch/exch/366.ts
-#EXTINF:-1,IT: Sky Primafila 7 HD
-http://ndasat.pro:8000/live/exch/exch/365.ts
-#EXTINF:-1,IT: Sky Primafila 8 HD
-http://ndasat.pro:8000/live/exch/exch/364.ts
-#EXTINF:-1,IT: Sky Primafila 9 HD
-http://ndasat.pro:8000/live/exch/exch/363.ts
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://ndasat.pro:8000/live/exch/exch/1250.ts
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://ndasat.pro:8000/live/exch/exch/1255.ts
-#EXTINF:-1,IT: SKY SPORT 3 HD
-http://ndasat.pro:8000/live/exch/exch/1252.ts
-#EXTINF:-1,IT: SKY SPORT MOTO GP HD
-http://ndasat.pro:8000/live/exch/exch/1254.ts
-#EXTINF:-1,IT: SKY SPORTS F1 HD
-http://ndasat.pro:8000/live/exch/exch/1253.ts
-#EXTINF:-1,IT: SKY UNO HD
-http://ndasat.pro:8000/live/exch/exch/1269.ts
-#EXTINF:-1,IT: SKY_ARTE_HD
-http://ndasat.pro:8000/live/exch/exch/1277.ts
-#EXTINF:-1,IT: SKY_ATLANTIC_HD
-http://ndasat.pro:8000/live/exch/exch/1276.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://ndasat.pro:8000/live/exch/exch/1257.ts
-#EXTINF:-1,IT: SKY CALCIO 3 HD
-http://ndasat.pro:8000/live/exch/exch/1258.ts
-#EXTINF:-1,IT: SKY CALCIO 4 HD
-http://ndasat.pro:8000/live/exch/exch/1259.ts
-#EXTINF:-1,IT: SKY_CALCIO_5_HD
-http://ndasat.pro:8000/live/exch/exch/1260.ts
-#EXTINF:-1,IT: SKY CALCIO 6 HD
-http://ndasat.pro:8000/live/exch/exch/1261.ts
-#EXTINF:-1,IT: SKY CALCIO 7 HD
-http://ndasat.pro:8000/live/exch/exch/1262.ts
-#EXTINF:-1,IT: SKY_CINEMA_1_HD
-http://ndasat.pro:8000/live/exch/exch/1303.ts
-#EXTINF:-1,IT: SKY_CINEMA_CLASSICS_HD
-http://ndasat.pro:8000/live/exch/exch/1302.ts
-#EXTINF:-1,IT: SKY_CINEMA_CULT_HD
-http://ndasat.pro:8000/live/exch/exch/1300.ts
-#EXTINF:-1,IT: SKY CINEMA FAMILY HD
-http://ndasat.pro:8000/live/exch/exch/1299.ts
-#EXTINF:-1,IT: SKY_CINEMA_PASSION_HD
-http://ndasat.pro:8000/live/exch/exch/1296.ts
-#EXTINF:-1,IT: SKY_SPORT_2_HD
-http://ndasat.pro:8000/live/exch/exch/1251.ts
-#EXTINF:-1,IT: SKY TG 24 HD
-http://ndasat.pro:8000/live/exch/exch/1270.ts
-#EXTINF:-1,IT: SPORT ITALIA
-http://ndasat.pro:8000/live/exch/exch/1241.ts
-#EXTINF:-1,IT: SUPER CALCIO HD
-http://ndasat.pro:8000/live/exch/exch/1268.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://ndasat.pro:8000/live/exch/exch/1267.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2609.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2608.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2607.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2606.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2605.ts
+#EXTINF:-1,IT: RAI GULP HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2604.ts
+#EXTINF:-1,IT: Rai Movie
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2603.ts
+#EXTINF:-1,IT: Rai News 24 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2602.ts
+#EXTINF:-1,IT: Rai Premium HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2601.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2600.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2599.ts
+#EXTINF:-1,IT: Rai Storia HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2598.ts
+#EXTINF:-1,IT: Rai Yoyo HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2597.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2593.ts
+#EXTINF:-1,IT: TGCOM 24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2596.ts
+#EXTINF:-1,IT: Top Calcio 24
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2595.ts
+#EXTINF:-1,IT: Tv Globo
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2594.ts

@@ -3,194 +3,23 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-
-#EXTINF:-1,AF_2S_TV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3883.ts
-#EXTINF:-1,AF_A2i_TV ( Senegal )
-http://ndasat.pro:8000/live/exch/exch/3916.ts
-#EXTINF:-1,AF_Abc News
-http://ndasat.pro:8000/live/exch/exch/3870.ts
-#EXTINF:-1,AF: Adom TV
-http://ndasat.pro:8000/live/exch/exch/3922.ts
-#EXTINF:-1,AF_Africa_24
-http://ndasat.pro:8000/live/exch/exch/3928.ts
-#EXTINF:-1,AF_Africa_Today_TV
-http://ndasat.pro:8000/live/exch/exch/3925.ts
-#EXTINF:-1,AF_Africa_TV_1
-http://ndasat.pro:8000/live/exch/exch/3932.ts
-#EXTINF:-1,AF_Africa_TV_2
-http://ndasat.pro:8000/live/exch/exch/3931.ts
-#EXTINF:-1,AF_Africa_TV_3
-http://ndasat.pro:8000/live/exch/exch/3930.ts
-#EXTINF:-1,AF_Africa_TV_4
-http://ndasat.pro:8000/live/exch/exch/3929.ts
-#EXTINF:-1,AF_Afro_Music
-http://ndasat.pro:8000/live/exch/exch/3903.ts
-#EXTINF:-1,AF_Ait_International
-http://ndasat.pro:8000/live/exch/exch/3902.ts
-#EXTINF:-1,AF_Amazing_Discoveries_TV
-http://ndasat.pro:8000/live/exch/exch/3919.ts
-#EXTINF:-1,AF_ANN_7_South_Africa
-http://ndasat.pro:8000/live/exch/exch/3918.ts
-#EXTINF:-1,AF_Ben_TV
-http://ndasat.pro:8000/live/exch/exch/3869.ts
-#EXTINF:-1,AF_Channels24_TV
-http://ndasat.pro:8000/live/exch/exch/3900.ts
-#EXTINF:-1,AF_Cherifa_TV ( Mali )
-http://ndasat.pro:8000/live/exch/exch/3899.ts
-#EXTINF:-1,AF_Cine_Stream_TV
-http://ndasat.pro:8000/live/exch/exch/3901.ts
-#EXTINF:-1,AF: CRTV  (Cameroun)
-http://ndasat.pro:8000/live/exch/exch/3872.ts
-#EXTINF:-1,AF_D_24
-http://ndasat.pro:8000/live/exch/exch/3904.ts
-#EXTINF:-1,AF_DBS_TV_(Cameroun)
-http://ndasat.pro:8000/live/exch/exch/3921.ts
-#EXTINF:-1,AF_Diaspora_24 (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3885.ts
-#EXTINF:-1,AF_Djibouti
-http://ndasat.pro:8000/live/exch/exch/3905.ts
-#EXTINF:-1,AF_DTV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3887.ts
-#EXTINF:-1,AF_Emmanuel_TV_Nigeria
-http://ndasat.pro:8000/live/exch/exch/3888.ts
-#EXTINF:-1,AF_Erbu_Africa
-http://ndasat.pro:8000/live/exch/exch/3857.ts
-#EXTINF:-1,AF_Eritrea_TV
-http://ndasat.pro:8000/live/exch/exch/3938.ts
-#EXTINF:-1,AF_Estv_Eritrea
-http://ndasat.pro:8000/live/exch/exch/3937.ts
-#EXTINF:-1,AF_Etv_Eritre
-http://ndasat.pro:8000/live/exch/exch/3936.ts
-#EXTINF:-1,AF: GTV Sports Plus
-http://ndasat.pro:8000/live/exch/exch/3854.ts
-#EXTINF:-1,AF_Horn_Cable_TV
-http://ndasat.pro:8000/live/exch/exch/3906.ts
-#EXTINF:-1,AF_Joy_Prime_TV ( Ghana )
-http://ndasat.pro:8000/live/exch/exch/3889.ts
-#EXTINF:-1,AF_Kalsan_TV
-http://ndasat.pro:8000/live/exch/exch/3907.ts
-#EXTINF:-1,AF_Kedu_TV
-http://ndasat.pro:8000/live/exch/exch/3908.ts
-#EXTINF:-1,AF_Ktn_TV
-http://ndasat.pro:8000/live/exch/exch/3856.ts
-#EXTINF:-1,AF_La_Tele_du_Sahel_Nigeria
-http://ndasat.pro:8000/live/exch/exch/3920.ts
-#EXTINF:-1,AF_Lamp_Fall_TV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3923.ts
-#EXTINF:-1,AF_Love_World_Nigeria
-http://ndasat.pro:8000/live/exch/exch/3910.ts
-#EXTINF:-1,AF_Maisha TV
-http://ndasat.pro:8000/live/exch/exch/3855.ts
-#EXTINF:-1,AF_Mana_Maputo
-http://ndasat.pro:8000/live/exch/exch/3911.ts
-#EXTINF:-1,AF_ManaSat_MZ ( Mozambique )
-http://ndasat.pro:8000/live/exch/exch/3909.ts
-#EXTINF:-1,AF_MFM_TV_Nigeria
-http://ndasat.pro:8000/live/exch/exch/3895.ts
-#EXTINF:-1,AF_MOURCHID_TV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3924.ts
-#EXTINF:-1,AF_MUSICTV (SENEGAL)
-http://ndasat.pro:8000/live/exch/exch/3886.ts
-#EXTINF:-1,AF_Neema TV Congo
-http://ndasat.pro:8000/live/exch/exch/3864.ts
-#EXTINF:-1,AF_Nigezie_TV ( Nigeria )
-http://ndasat.pro:8000/live/exch/exch/3891.ts
-#EXTINF:-1,AF_Nikadys_TV
-http://ndasat.pro:8000/live/exch/exch/3879.ts
-#EXTINF:-1,AF_Nollywood_French
-http://ndasat.pro:8000/live/exch/exch/3912.ts
-#EXTINF:-1,AF_Nollywood_Movies
-http://ndasat.pro:8000/live/exch/exch/3914.ts
-#EXTINF:-1,AF: Nollywood Movies Premium
-http://ndasat.pro:8000/live/exch/exch/3913.ts
-#EXTINF:-1,AF_Ortm_TV
-http://ndasat.pro:8000/live/exch/exch/3858.ts
-#EXTINF:-1,AF_RADIO_MONTE_CARLO_TV
-http://ndasat.pro:8000/live/exch/exch/3882.ts
-#EXTINF:-1,AF_Rave_TV_(Nigeria)
-http://ndasat.pro:8000/live/exch/exch/3859.ts
-#EXTINF:-1,AF_Rok_TV ( Nigeria )
-http://ndasat.pro:8000/live/exch/exch/3896.ts
-#EXTINF:-1,AF_Rtb
-http://ndasat.pro:8000/live/exch/exch/3860.ts
-#EXTINF:-1,AF_RTi1_(Cote_d'Ivoire)
-http://ndasat.pro:8000/live/exch/exch/3878.ts
-#EXTINF:-1,AF_RTi2_(Cote_d'Ivoire)
-http://ndasat.pro:8000/live/exch/exch/3877.ts
-#EXTINF:-1,AF: RTNC
-http://ndasat.pro:8000/live/exch/exch/3898.ts
-#EXTINF:-1,AF_Rts_1
-http://ndasat.pro:8000/live/exch/exch/3893.ts
-#EXTINF:-1,AF_RTS_2 ( Senegal )
-http://ndasat.pro:8000/live/exch/exch/3892.ts
-#EXTINF:-1,AF_Rwanda_TV
-http://ndasat.pro:8000/live/exch/exch/3915.ts
-#EXTINF:-1,AF_SEN_TV
-http://ndasat.pro:8000/live/exch/exch/3927.ts
-#EXTINF:-1,AF_Sikka_TV
-http://ndasat.pro:8000/live/exch/exch/3871.ts
-#EXTINF:-1,AF_Sntv_Somalia
-http://ndasat.pro:8000/live/exch/exch/3933.ts
-#EXTINF:-1,AF_Somali_Africa_TV4
-http://ndasat.pro:8000/live/exch/exch/3890.ts
-#EXTINF:-1,AF_Somali_Cable
-http://ndasat.pro:8000/live/exch/exch/3934.ts
-#EXTINF:-1,AF_Somali_Land_TV
-http://ndasat.pro:8000/live/exch/exch/3935.ts
-#EXTINF:-1,AF:STV ( Cameroun )
-http://ndasat.pro:8000/live/exch/exch/3862.ts
-#EXTINF:-1,AF: Sudan TV
-http://ndasat.pro:8000/live/exch/exch/3863.ts
-#EXTINF:-1,AF_TELEECOLE
-http://ndasat.pro:8000/live/exch/exch/3880.ts
-#EXTINF:-1,AF_TFM_HD (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3881.ts
-#EXTINF:-1,AF_TFM_OLE (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3894.ts
-#EXTINF:-1,AF_Tfm_Regional (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3917.ts
-#EXTINF:-1,AF_TM2
-http://ndasat.pro:8000/live/exch/exch/3861.ts
-#EXTINF:-1,AF: TOUBA MONDE BI
-http://ndasat.pro:8000/live/exch/exch/3875.ts
-#EXTINF:-1,AF_TOUBA_TV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3874.ts
-#EXTINF:-1,AF_TVC_NEWS
-http://ndasat.pro:8000/live/exch/exch/3868.ts
-#EXTINF:-1,AF_TVS1
-http://ndasat.pro:8000/live/exch/exch/3876.ts
-#EXTINF:-1,AF_VOX_AFRIQUE_FRENCH
-http://ndasat.pro:8000/live/exch/exch/3865.ts
-#EXTINF:-1,AF_Walf_TV (Senegal)
-http://ndasat.pro:8000/live/exch/exch/3897.ts
-#EXTINF:-1,AF_WAP_TV ( Nigeria )
-http://ndasat.pro:8000/live/exch/exch/3866.ts
-#EXTINF:-1,AF_ZTV ( Ghana )
-http://ndasat.pro:8000/live/exch/exch/3873.ts
-#EXTINF:-1,AF: A+
-http://ndasat.pro:8000/live/exch/exch/2328.ts
-#EXTINF:-1,AF: CANAL 2 VIE
-http://ndasat.pro:8000/live/exch/exch/1844.ts
-#EXTINF:-1,AF: CANAL 255
-http://ndasat.pro:8000/live/exch/exch/1843.ts
-#EXTINF:-1,AF: NollyWood Premier
-http://ndasat.pro:8000/live/exch/exch/1837.ts
-#EXTINF:-1,AF: ORTM MALI
-http://ndasat.pro:8000/live/exch/exch/1835.ts
-#EXTINF:-1,AF: RMC MUSIC
-http://ndasat.pro:8000/live/exch/exch/1834.ts
-#EXTINF:-1,AF: RTI1 COTE D'IVOIRE
-http://ndasat.pro:8000/live/exch/exch/1833.ts
-#EXTINF:-1,AF: RTNC congo
-http://ndasat.pro:8000/live/exch/exch/1832.ts
-#EXTINF:-1,AF: RTS1 senegal
-http://ndasat.pro:8000/live/exch/exch/1830.ts
+#EXTINF:-1,AF: Tvce (Nigeria)
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13312.ts
+#EXTINF:-1,AF: TVC News (Nigeria)
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13318.ts
+#EXTINF:-1,AF: TV3 Live
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13316.ts
+#EXTINF:-1,AF: NTAi (Nigeria)
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13317.ts
+#EXTINF:-1,AF: ANN7 (South Africa)
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13314.ts
+#EXTINF:-1,AF: Afrique Media TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13315.ts
+#EXTINF:-1,AF: Channels Television Africa
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14541.ts

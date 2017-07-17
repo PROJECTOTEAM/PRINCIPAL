@@ -3,125 +3,84 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-
-
-#EXTINF:-1,IN: &_TV
-http://ndasat.pro:8000/live/exch/exch/6866.ts
-#EXTINF:-1,IN: ASIANET_MOVIES
-http://ndasat.pro:8000/live/exch/exch/6896.ts
-#EXTINF:-1,IN: ASIANET_NEWS
-http://ndasat.pro:8000/live/exch/exch/6895.ts
-#EXTINF:-1,IN: ASIANET_PLUS
-http://ndasat.pro:8000/live/exch/exch/6897.ts
-#EXTINF:-1,IN: AsiaNet_TV
-http://ndasat.pro:8000/live/exch/exch/6898.ts
-#EXTINF:-1,IN: B4U_Aflam_arabic
-http://ndasat.pro:8000/live/exch/exch/6868.ts
-#EXTINF:-1,IN: B4U_Movies
-http://ndasat.pro:8000/live/exch/exch/6869.ts
-#EXTINF:-1,IN: B4U_Music
-http://ndasat.pro:8000/live/exch/exch/6870.ts
-#EXTINF:-1,IN: B4U_Plus
-http://ndasat.pro:8000/live/exch/exch/6871.ts
-#EXTINF:-1,IN: Cartoon_Network_Hindi
-http://ndasat.pro:8000/live/exch/exch/6872.ts
-#EXTINF:-1,IN: Colors
-http://ndasat.pro:8000/live/exch/exch/6876.ts
-#EXTINF:-1,IN: DESI_BEATS
-http://ndasat.pro:8000/live/exch/exch/6853.ts
+#EXTINF:-1,IN: 9X Jhakaas
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8629.ts
+#EXTINF:-1,IN: 9XM Jalwa
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8607.ts
+#EXTINF:-1,IN: 9xTashan
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8628.ts
+#EXTINF:-1,IN: Aajtak News
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8632.ts
+#EXTINF:-1,IN: ABP News
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8631.ts
+#EXTINF:-1,IN: And TV ME
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8603.ts
+#EXTINF:-1,IN: Bindass Play
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8612.ts
+#EXTINF:-1,IN: Colors ME
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8605.ts
 #EXTINF:-1,IN: Discovery
-http://ndasat.pro:8000/live/exch/exch/6855.ts
-#EXTINF:-1,IN: Discovery_Turbo_India
-http://ndasat.pro:8000/live/exch/exch/6856.ts
-#EXTINF:-1,IN: FOOD_FOOD
-http://ndasat.pro:8000/live/exch/exch/6857.ts
-#EXTINF:-1,IN: Jaya_Max_Tamil
-http://ndasat.pro:8000/live/exch/exch/6873.ts
-#EXTINF:-1,IN: JAYA_MAX_USA
-http://ndasat.pro:8000/live/exch/exch/6867.ts
-#EXTINF:-1,IN: Jaya_Movies_Tamil
-http://ndasat.pro:8000/live/exch/exch/6874.ts
-#EXTINF:-1,IN: Kiran_TV
-http://ndasat.pro:8000/live/exch/exch/6847.ts
-#EXTINF:-1,IN: Life_oK_UK
-http://ndasat.pro:8000/live/exch/exch/6878.ts
-#EXTINF:-1,IN: Sony_ESPN
-http://ndasat.pro:8000/live/exch/exch/6900.ts
-#EXTINF:-1,IN: Sony_SAB
-http://ndasat.pro:8000/live/exch/exch/6901.ts
-#EXTINF:-1,IN: Sony_SetMax
-http://ndasat.pro:8000/live/exch/exch/6899.ts
-#EXTINF:-1,IN: Sony_TV
-http://ndasat.pro:8000/live/exch/exch/6902.ts
-#EXTINF:-1,IN: Star_Gold
-http://ndasat.pro:8000/live/exch/exch/6862.ts
-#EXTINF:-1,IN: Star_Plus
-http://ndasat.pro:8000/live/exch/exch/6863.ts
-#EXTINF:-1,IN: Star_Plus_UK
-http://ndasat.pro:8000/live/exch/exch/6864.ts
-#EXTINF:-1,IN: Star_Sports_1_HD
-http://ndasat.pro:8000/live/exch/exch/6861.ts
-#EXTINF:-1,IN: Star_Sports_2_HD
-http://ndasat.pro:8000/live/exch/exch/6860.ts
-#EXTINF:-1,IN: Star_Sports_3
-http://ndasat.pro:8000/live/exch/exch/6859.ts
-#EXTINF:-1,IN: Star_Sports_4
-http://ndasat.pro:8000/live/exch/exch/6858.ts
-#EXTINF:-1,IN: Star_Vijay
-http://ndasat.pro:8000/live/exch/exch/6865.ts
-#EXTINF:-1,IN: Sun_Music
-http://ndasat.pro:8000/live/exch/exch/6845.ts
-#EXTINF:-1,IN: Sun_TV
-http://ndasat.pro:8000/live/exch/exch/6846.ts
-#EXTINF:-1,IN: Ten_1
-http://ndasat.pro:8000/live/exch/exch/6851.ts
-#EXTINF:-1,IN: TEN_2
-http://ndasat.pro:8000/live/exch/exch/6850.ts
-#EXTINF:-1,IN: TEN_3
-http://ndasat.pro:8000/live/exch/exch/6849.ts
-#EXTINF:-1,IN: Ten_Golf.
-http://ndasat.pro:8000/live/exch/exch/6848.ts
-#EXTINF:-1,IN: UTV_MOVIES
-http://ndasat.pro:8000/live/exch/exch/6875.ts
-#EXTINF:-1,IN: Zee_Action
-http://ndasat.pro:8000/live/exch/exch/6888.ts
-#EXTINF:-1,IN: Zee_Anmol
-http://ndasat.pro:8000/live/exch/exch/6882.ts
-#EXTINF:-1,IN: Zee_Anmol.
-http://ndasat.pro:8000/live/exch/exch/6883.ts
-#EXTINF:-1,IN: Zee_Bollywood
-http://ndasat.pro:8000/live/exch/exch/6889.ts
-#EXTINF:-1,IN: Zee_Cafe_Hd
-http://ndasat.pro:8000/live/exch/exch/6893.ts
-#EXTINF:-1,IN: Zee_Cinema
-http://ndasat.pro:8000/live/exch/exch/6890.ts
-#EXTINF:-1,IN: Zee_Cinema_Bangla.
-http://ndasat.pro:8000/live/exch/exch/6884.ts
-#EXTINF:-1,IN: Zee_Classic
-http://ndasat.pro:8000/live/exch/exch/6885.ts
-#EXTINF:-1,IN: Zee_Living
-http://ndasat.pro:8000/live/exch/exch/6886.ts
-#EXTINF:-1,IN: ZEE_Marathi_HD
-http://ndasat.pro:8000/live/exch/exch/6879.ts
-#EXTINF:-1,IN: ZEE_Marathi_USA
-http://ndasat.pro:8000/live/exch/exch/6881.ts
-#EXTINF:-1,IN: Zee_NEWS
-http://ndasat.pro:8000/live/exch/exch/6887.ts
-#EXTINF:-1,IN: Zee_Punjabi
-http://ndasat.pro:8000/live/exch/exch/6854.ts
-#EXTINF:-1,IN: Zee_Talkies
-http://ndasat.pro:8000/live/exch/exch/6891.ts
-#EXTINF:-1,IN: Zee_Talkies_USA
-http://ndasat.pro:8000/live/exch/exch/6892.ts
-#EXTINF:-1,IN: ZEE_Tami
-http://ndasat.pro:8000/live/exch/exch/6880.ts
-#EXTINF:-1,IN: Zee_Tv_HD
-http://ndasat.pro:8000/live/exch/exch/6894.ts
-#EXTINF:-1,IN: ZING
-http://ndasat.pro:8000/live/exch/exch/6852.ts
-#EXTINF:-1,IN: ZOOM
-http://ndasat.pro:8000/live/exch/exch/6877.ts
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8630.ts
+#EXTINF:-1,IN: LifeOK
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8604.ts
+#EXTINF:-1,IN: PTC Chakde Punjabi
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8627.ts
+#EXTINF:-1,IN: Sab TV AU
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8602.ts
+#EXTINF:-1,IN: Sony Entertainment (SET)
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7554.ts
+#EXTINF:-1,IN: Sony HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8600.ts
+#EXTINF:-1,IN: SONY MAX
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7556.ts
+#EXTINF:-1,IN: SONY MAX 2
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7557.ts
+#EXTINF:-1,IN: SONY SAB
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7555.ts
+#EXTINF:-1,IN: Star Cricket
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12373.ts
+#EXTINF:-1,IN: Star Gold
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8615.ts
+#EXTINF:-1,IN: STAR PLUS HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7553.ts
+#EXTINF:-1,IN: STAR SPORTS 1HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8669.ts
+#EXTINF:-1,IN: STAR SPORTS 2HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8670.ts
+#EXTINF:-1,IN: STAR SPORTS 3HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8671.ts
+#EXTINF:-1,IN: STAR SPORTS 4HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8672.ts
+#EXTINF:-1,IN: TEN ACTION
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8675.ts
+#EXTINF:-1,IN: Ten Cricket
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12372.ts
+#EXTINF:-1,IN: TEN Golf HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8677.ts
+#EXTINF:-1,IN: TEN HD
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8673.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8674.ts
+#EXTINF:-1,IN: UTV Bindas
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8625.ts
+#EXTINF:-1,IN: UTV Movies
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8622.ts
+#EXTINF:-1,IN: Willow Cricket
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8676.ts
+#EXTINF:-1,IN: Zee Action
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8620.ts
+#EXTINF:-1,IN: Zee Cinema
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8617.ts
+#EXTINF:-1,IN: Zee Classic
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8621.ts
+#EXTINF:-1,IN: Zee Smile
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8616.ts
+#EXTINF:-1,IN: ZeeTV india
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7552.ts
+#EXTINF:-1,IN: Zing TV
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8614.ts
+#EXTINF:-1,IN: Zoom
+http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8613.ts

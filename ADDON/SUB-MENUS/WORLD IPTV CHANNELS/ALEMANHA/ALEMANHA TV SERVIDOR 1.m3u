@@ -1,118 +1,322 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-
-
-#EXTINF:-1,DE:  Muenchen TV
-http://ndasat.pro:8000/live/exch/exch/573.ts
-#EXTINF:-1,DE: 3sat
-http://ndasat.pro:8000/live/exch/exch/569.ts
-#EXTINF:-1,DE: Dmax
-http://ndasat.pro:8000/live/exch/exch/567.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://ndasat.pro:8000/live/exch/exch/564.ts
-#EXTINF:-1,DE: Kika HD
-http://ndasat.pro:8000/live/exch/exch/563.ts
-#EXTINF:-1,DE: NDR HD
-http://ndasat.pro:8000/live/exch/exch/560.ts
-#EXTINF:-1,DE: PRO 7
-http://ndasat.pro:8000/live/exch/exch/559.ts
-#EXTINF:-1,DE: RTL 2
-http://ndasat.pro:8000/live/exch/exch/459.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2422.ts
+#EXTINF:-1,DE: 3SAT HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2585.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2409.ts
+#EXTINF:-1,DE: Kabel eins Classics HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2578.ts
+#EXTINF:-1,DE: Prosieben HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2412.ts
+#EXTINF:-1,DE: PRO7 FUN HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2410.ts
+#EXTINF:-1,DE: PRO7 MAXX HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2411.ts
+#EXTINF:-1,DE: E! Entertainement HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2579.ts
 #EXTINF:-1,DE: RTL HD
-http://ndasat.pro:8000/live/exch/exch/555.ts
-#EXTINF:-1,DE: RTL PASSION
-http://ndasat.pro:8000/live/exch/exch/556.ts
-#EXTINF:-1,DE: SAT 1
-http://ndasat.pro:8000/live/exch/exch/554.ts
-#EXTINF:-1,DE: Sky Action
-http://ndasat.pro:8000/live/exch/exch/551.ts
-#EXTINF:-1,DE: Sky Action HD
-http://ndasat.pro:8000/live/exch/exch/544.ts
-#EXTINF:-1,DE: SKY Atlantic HD
-http://ndasat.pro:8000/live/exch/exch/543.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://ndasat.pro:8000/live/exch/exch/550.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://ndasat.pro:8000/live/exch/exch/549.ts
-#EXTINF:-1,DE: Sky Cinema 24 HD
-http://ndasat.pro:8000/live/exch/exch/547.ts
-#EXTINF:-1,DE: Sky CINEMA M
-http://ndasat.pro:8000/live/exch/exch/546.ts
-#EXTINF:-1,DE: Sky Emotion
-http://ndasat.pro:8000/live/exch/exch/545.ts
-#EXTINF:-1,DE: Sky Germany MGM
-http://ndasat.pro:8000/live/exch/exch/542.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://ndasat.pro:8000/live/exch/exch/537.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://ndasat.pro:8000/live/exch/exch/538.ts
-#EXTINF:-1,DE: Sky Sports News
-http://ndasat.pro:8000/live/exch/exch/477.ts
-#EXTINF:-1,DE: Super RTL
-http://ndasat.pro:8000/live/exch/exch/536.ts
-#EXTINF:-1,DE: Syfy HD
-http://ndasat.pro:8000/live/exch/exch/535.ts
-#EXTINF:-1,DE: VOX
-http://ndasat.pro:8000/live/exch/exch/483.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2418.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2417.ts
+#EXTINF:-1,DE: RTL CRIME HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2415.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2416.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2414.ts
+#EXTINF:-1,DE: RTL PLUS
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2503.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2420.ts
+#EXTINF:-1,DE: SAT 1 GOLD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2419.ts
+#EXTINF:-1,DE: VOX HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2408.ts
+#EXTINF:-1,DE: Romance TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2589.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2515.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2516.ts
+#EXTINF:-1,DE: SIXX HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2407.ts
+#EXTINF:-1,DE: TELE 5
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2406.ts
+#EXTINF:-1,DE: MTV HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2576.ts
+#EXTINF:-1,DE: VIVA
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2405.ts
+#EXTINF:-1,DE: WDR HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2590.ts
+#EXTINF:-1,DE: XITE
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2404.ts
 #EXTINF:-1,DE: ZDF HD
-http://ndasat.pro:8000/live/exch/exch/534.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2421.ts
+#EXTINF:-1,DE: ZDF info
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2586.ts
+#EXTINF:-1,DE: ZDF Kultur HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2493.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2587.ts
 #EXTINF:-1,DE: Boomerang HD
-http://ndasat.pro:8000/live/exch/exch/5560.ts
-#EXTINF:-1,DE: Cartoon Network HD
-http://ndasat.pro:8000/live/exch/exch/5561.ts
-#EXTINF:-1,DE: Disney channel HD
-http://ndasat.pro:8000/live/exch/exch/5554.ts
-#EXTINF:-1,DE: Disney cinemagic HD
-http://ndasat.pro:8000/live/exch/exch/5555.ts
-#EXTINF:-1,DE: Disney XD
-http://ndasat.pro:8000/live/exch/exch/5556.ts
-#EXTINF:-1,DE: Fox HD
-http://ndasat.pro:8000/live/exch/exch/5558.ts
-#EXTINF:-1,DE: MTV germany
-http://ndasat.pro:8000/live/exch/exch/5559.ts
-#EXTINF:-1,DE: Nickelodeon
-http://ndasat.pro:8000/live/exch/exch/5557.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2425.ts
+#EXTINF:-1,DE: CARTOON NETWORK
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2426.ts
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2430.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2429.ts
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2428.ts
+#EXTINF:-1,DE: DISNEY XD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2427.ts
+#EXTINF:-1,DE: KIKA HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2580.ts
+#EXTINF:-1,DE:  NICK Schweiz
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2431.ts
+#EXTINF:-1,DE: TOGGO plus
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2572.ts
+#EXTINF:-1,DE: Super RTL
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2424.ts
+#EXTINF:-1,DE: A&E
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2433.ts
+#EXTINF:-1,DE: ANIMAL PLANET
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2434.ts
+#EXTINF:-1,DE: DISCOVERY HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2440.ts
+#EXTINF:-1,DE: DMAX
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2439.ts
+#EXTINF:-1,DE: HISTORY HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2438.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2436.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2435.ts
+#EXTINF:-1,DE: Nat Geo People HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2575.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2437.ts
+#EXTINF:-1,DE: TLC HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2432.ts
+#EXTINF:-1,DE: EUROSPORT 1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2449.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2448.ts
+#EXTINF:-1,DE: Motorvision TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2584.ts
+#EXTINF:-1,DE: Sport 1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2450.ts
 #EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://ndasat.pro:8000/live/exch/exch/465.ts
-#EXTINF:-1,Sky Emotion
-http://ndasat.pro:8000/live/exch/exch/467.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2442.ts
+#EXTINF:-1,DE: BUNDESLIGA 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2564.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2563.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD  ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2562.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2561.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2560.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2559.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2558.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2557.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2565.ts
+#EXTINF:-1,DE | SKY SPORT 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2445.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2444.ts
+#EXTINF:-1,DE: Sky Sport 3 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2555.ts
+#EXTINF:-1,DE: Sky Sport 4 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2554.ts
+#EXTINF:-1,DE: Sky Sport 5 HD  ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2553.ts
+#EXTINF:-1,DE: Sky Sport 6 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2552.ts
+#EXTINF:-1,DE: Sky Sport 7 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2551.ts
+#EXTINF:-1,DE: Sky Sport 8 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2550.ts
+#EXTINF:-1,DE: Sky Sport 9 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2549.ts
+#EXTINF:-1,DE: Sky Sport 10 HD ( OFFLINE WHEN NO PLAY FOOTBALL MATCH )
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2556.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2443.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2446.ts
+#EXTINF:-1,DE | SPORTDIGITAL HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2447.ts
+#EXTINF:-1,DE | WWE HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2451.ts
+#EXTINF:-1,DE: 13th Street HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2455.ts
+#EXTINF:-1,DE: ATLANTIC HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2569.ts
+#EXTINF:-1,DE: AXN HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2453.ts
+#EXTINF:-1,DE: FOX HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2462.ts
+#EXTINF:-1,DE: KINOWELT HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2457.ts
+#EXTINF:-1,DE: BOX OFFICE 1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2491.ts
+#EXTINF:-1,DE: BOX OFFICE 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2490.ts
+#EXTINF:-1,DE: BOX OFFICE 3
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2489.ts
+#EXTINF:-1,DE: BOX OFFICE 4
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2488.ts
+#EXTINF:-1,DE: BOX OFFICE 5
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2487.ts
+#EXTINF:-1,DE: BOX OFFICE 6
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2486.ts
+#EXTINF:-1,DE: BOX OFFICE 7
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2485.ts
+#EXTINF:-1,DE: BOX OFFICE 8
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2484.ts
+#EXTINF:-1,DE: BOX OFFICE 9
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2483.ts
+#EXTINF:-1,DE: Sky Select HD1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2482.ts
+#EXTINF:-1,DE: Sky Select HD2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2481.ts
+#EXTINF:-1,DE: Sky Select HD 3
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2480.ts
+#EXTINF:-1,DE: Sky Select HD 4
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2479.ts
+#EXTINF:-1,DE: Sky Select HD5
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2478.ts
+#EXTINF:-1,DE: Sky Select HD6
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2477.ts
+#EXTINF:-1,DE: Sky Select HD 7
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2476.ts
+#EXTINF:-1,DE: Sky Select HD 8
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2475.ts
+#EXTINF:-1,DE: Sky Select HD 9
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2474.ts
+#EXTINF:-1,DE: Sky Select HD 10
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2473.ts
+#EXTINF:-1,DE: SKY 1 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2471.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2469.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2570.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2468.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2467.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2470.ts
+#EXTINF:-1,DE: SKY Cinema Family HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2531.ts
+#EXTINF:-1,DE: Sky Comedy
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2466.ts
+#EXTINF:-1,DE: Sky Emotion HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2465.ts
 #EXTINF:-1,DE: Sky Hits HD
-http://ndasat.pro:8000/live/exch/exch/468.ts
-#EXTINF:-1,DE: SKY SELECT 1
-http://ndasat.pro:8000/live/exch/exch/2825.ts
-#EXTINF:-1,DE: SKY SELECT 2
-http://ndasat.pro:8000/live/exch/exch/2826.ts
-#EXTINF:-1,DE: SKY SELECT 3
-http://ndasat.pro:8000/live/exch/exch/2827.ts
-#EXTINF:-1,DE: SKY SELECT 4
-http://ndasat.pro:8000/live/exch/exch/2828.ts
-#EXTINF:-1,DE: SKY SELECT 5
-http://ndasat.pro:8000/live/exch/exch/2829.ts
-#EXTINF:-1,DE: SKY SELECT 6
-http://ndasat.pro:8000/live/exch/exch/2830.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://ndasat.pro:8000/live/exch/exch/2831.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://ndasat.pro:8000/live/exch/exch/2832.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://ndasat.pro:8000/live/exch/exch/2833.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://ndasat.pro:8000/live/exch/exch/2834.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://ndasat.pro:8000/live/exch/exch/2835.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://ndasat.pro:8000/live/exch/exch/2836.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://ndasat.pro:8000/live/exch/exch/2837.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://ndasat.pro:8000/live/exch/exch/2838.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://ndasat.pro:8000/live/exch/exch/2839.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://ndasat.pro:8000/live/exch/exch/2840.ts
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2464.ts
+#EXTINF:-1,DE: Sky Krimi
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2568.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2463.ts
+#EXTINF:-1,DE: Silverline Movie Channel
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2571.ts
+#EXTINF:-1,DE: SONY CHANNEL HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2456.ts
+#EXTINF:-1,DE: SyFy HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2454.ts
+#EXTINF:-1,DE: TNT COMEDY HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2459.ts
+#EXTINF:-1,DE: TNT Film HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2461.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2460.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2458.ts
+#EXTINF:-1,DE: Zee One HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2452.ts
+#EXTINF:-1,DE: ALEX BERLIN
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2546.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2545.ts
+#EXTINF:-1,DE: Arte
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2543.ts
+#EXTINF:-1,DE: BLIZZ
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2542.ts
+#EXTINF:-1,DE: Classica
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2539.ts
+#EXTINF:-1,DE: DEUTSCHTE WELLE
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2537.ts
+#EXTINF:-1,DE: EBS  Kanal 2
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2536.ts
+#EXTINF:-1,DE: EBS Kanal 1
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2535.ts
+#EXTINF:-1,DE: EO TV HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2534.ts
+#EXTINF:-1,DE: eRtv Oberlausitz
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2533.ts
+#EXTINF:-1,DE: erzTV Erzgebirge
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2532.ts
+#EXTINF:-1,DE: FC Bayern TV HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2530.ts
+#EXTINF:-1,DE: Filstalwelle
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2529.ts
+#EXTINF:-1,DE: FOLX
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2528.ts
+#EXTINF:-1,DE: Hr HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2526.ts
+#EXTINF:-1,DE: ISAR TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2525.ts
+#EXTINF:-1,DE: JOIZ HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2524.ts
+#EXTINF:-1,DE: MDR
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2521.ts
+#EXTINF:-1,DE: NASA Live - Earth From Space
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2519.ts
+#EXTINF:-1,DE: Ndr HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2518.ts
+#EXTINF:-1,DE: ONE HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2517.ts
+#EXTINF:-1,DE: Phoenix HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2514.ts
+#EXTINF:-1,DE: QVC Beauty and Style
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2511.ts
+#EXTINF:-1,DE: RE eins TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2508.ts
+#EXTINF:-1,DE: Redbull TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2507.ts
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2505.ts
+#EXTINF:-1,DE: Servus TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2501.ts
+#EXTINF:-1,DE: SWR
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2499.ts
+#EXTINF:-1,DE: WELT DER WUNDER
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2498.ts
+#EXTINF:-1,DE: Westerwald TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2496.ts
+#EXTINF:-1,DE: WMZ
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2495.ts
+#EXTINF:-1,DE: WMZ Senftenberg
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2494.ts
+#EXTINF:-1,DE: Goldstar TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2577.ts
+#EXTINF:-1,DE: MGM HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2582.ts
+#EXTINF:-1,DE: MUNCHEN TV
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2581.ts
+#EXTINF:-1,DE: N-TV HD
+http://revendedor.amxiptv.club:8000/live/antonioSATe2/diasSATe2/2591.ts
