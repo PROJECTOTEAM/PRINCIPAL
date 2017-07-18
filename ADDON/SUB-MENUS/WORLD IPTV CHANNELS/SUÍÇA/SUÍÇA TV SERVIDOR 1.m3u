@@ -10,83 +10,29 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,CH: KANAL 9
-http://ndasat.pro:8000/live/exch/exch/3474.ts
-#EXTINF:-1,CH: Rouge TV
-http://ndasat.pro:8000/live/exch/exch/3532.ts
-#EXTINF:-1,CH: RSI LA 1 HD
-http://ndasat.pro:8000/live/exch/exch/2294.ts
-#EXTINF:-1,CH: RSI LA 2 HD
-http://ndasat.pro:8000/live/exch/exch/2295.ts
-#EXTINF:-1,CH: RTS Deux HD
-http://ndasat.pro:8000/live/exch/exch/2293.ts
-#EXTINF:-1,CH: RTS Un HD
-http://ndasat.pro:8000/live/exch/exch/2292.ts
-#EXTINF:-1,CH: SRF 1 HD
-http://ndasat.pro:8000/live/exch/exch/2289.ts
-#EXTINF:-1,CH: SRF 2 HD
-http://ndasat.pro:8000/live/exch/exch/2290.ts
-#EXTINF:-1,CH: SRF Info
-http://ndasat.pro:8000/live/exch/exch/2288.ts
-#EXTINF:-1,CH: TELEBARN HD
-http://ndasat.pro:8000/live/exch/exch/3475.ts
-#EXTINF:-1,CH: Teleclub Sport 1
-http://ndasat.pro:8000/live/exch/exch/3473.ts
-#EXTINF:-1,CH: TV5 suisse
-http://ndasat.pro:8000/live/exch/exch/3538.ts
-#EXTINF:-1,CH: Yvelines premiere
-http://ndasat.pro:8000/live/exch/exch/3536.ts
-#EXTINF:-1,CA: Comedy Gold
-http://ndasat.pro:8000/live/exch/exch/912.ts
-#EXTINF:-1,CA: CBC Toronto
-http://ndasat.pro:8000/live/exch/exch/909.ts
-#EXTINF:-1,CA: CHCH
-http://ndasat.pro:8000/live/exch/exch/910.ts
-#EXTINF:-1,CA: City Vancouver
-http://ndasat.pro:8000/live/exch/exch/911.ts
-#EXTINF:-1,CA: Cottage Life
-http://ndasat.pro:8000/live/exch/exch/913.ts
-#EXTINF:-1,CA: CP24
-http://ndasat.pro:8000/live/exch/exch/914.ts
-#EXTINF:-1,CA: CTV Toronto
-http://ndasat.pro:8000/live/exch/exch/915.ts
-#EXTINF:-1,CA: Fox News
-http://ndasat.pro:8000/live/exch/exch/916.ts
-#EXTINF:-1,CA: FYI
-http://ndasat.pro:8000/live/exch/exch/917.ts
-#EXTINF:-1,CA: G4
-http://ndasat.pro:8000/live/exch/exch/918.ts
-#EXTINF:-1,CA: GSN
-http://ndasat.pro:8000/live/exch/exch/919.ts
-#EXTINF:-1,CA: MovieTime
-http://ndasat.pro:8000/live/exch/exch/920.ts
-#EXTINF:-1,CA: OLN
-http://ndasat.pro:8000/live/exch/exch/921.ts
-#EXTINF:-1,CA: Peach Tree TV
-http://ndasat.pro:8000/live/exch/exch/922.ts
-#EXTINF:-1,CA: RDI
-http://ndasat.pro:8000/live/exch/exch/923.ts
-#EXTINF:-1,CA: RDS 2
-http://ndasat.pro:8000/live/exch/exch/924.ts
-#EXTINF:-1,CA: Silver Screen Classics
-http://ndasat.pro:8000/live/exch/exch/925.ts
-#EXTINF:-1,CA: Slice
-http://ndasat.pro:8000/live/exch/exch/926.ts
-#EXTINF:-1,CA: Super Ecran 1
-http://ndasat.pro:8000/live/exch/exch/927.ts
-#EXTINF:-1,CA: Super Ecran 2
-http://ndasat.pro:8000/live/exch/exch/928.ts
-#EXTINF:-1,CA: Super Ecran 3
-http://ndasat.pro:8000/live/exch/exch/929.ts
-#EXTINF:-1,CA: Super Ecran 4
-http://ndasat.pro:8000/live/exch/exch/930.ts
-#EXTINF:-1,CA: Tree House SD
-http://ndasat.pro:8000/live/exch/exch/931.ts
-#EXTINF:-1,CA: YTV
-http://ndasat.pro:8000/live/exch/exch/932.ts
+#EXTINF:-1, ch_80_1
+http://94.158.80.117:9000/play/ch_80_1
+#EXTINF:-1, ch_145_1
+http://94.158.80.117:9000/play/ch_145_1
+#EXTINF:-1, ch_51_1
+http://94.158.80.117:9000/play/ch_51_1
+#EXTINF:-1, ch_54_1
+http://94.158.80.117:9000/play/ch_54_1
+#EXTINF:-1, ch_57_1
+http://94.158.80.117:9000/play/ch_57_1
+#EXTINF:-1, ch_56_2
+http://94.158.80.117:9000/play/ch_56_2
+#EXTINF:-1, ch_206_1
+http://94.158.80.117:9000/play/ch_206_1
+#EXTINF:-1, ch_53_1
+http://94.158.80.117:9000/play/ch_53_1
+#EXTINF:-1, ch_76_1
+http://94.158.80.117:9000/play/ch_76_1
+#EXTINF:-1, ch_53_2
+http://94.158.80.117:9000/play/ch_53_2
+#EXTINF:-1, ch_73_2
+http://94.158.80.117:9000/play/ch_73_2
+#EXTINF:-1, ch_216_1
+http://94.158.80.117:9000/play/ch_216_1
+#EXTINF:-1, ch_55_1
+http://94.158.80.117:9000/play/ch_55_1
