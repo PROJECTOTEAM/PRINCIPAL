@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -15,604 +15,90 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,bbc two
-http://185.62.86.6:8081/hls/bbctwo.m3u8
-#EXTINF:-1,itv
-http://185.62.86.6:8081/hls/itv.m3u8
-#EXTINF:-1,channel 4
-http://185.62.86.6:8081/hls/channel4.m3u8
-#EXTINF:-1,channel 5
-http://185.62.86.6:8081/hls/channel5.m3u8
-#EXTINF:-1,itv 2
-http://185.62.86.6:8081/hls/itv2.m3u8
-#EXTINF:-1,bbc four
-http://185.62.86.6:8081/hls/bbcfour.m3u8
-#EXTINF:-1,itv 3
-http://185.62.86.6:8081/hls/itv3.m3u8
-#EXTINF:-1,pick
-http://185.62.86.6:8081/hls/pick.m3u8
-#EXTINF:-1,dave
-http://185.62.86.6:8081/hls/dave.m3u8
-#EXTINF:-1,more 4
-http://185.62.86.6:8081/hls/more4.m3u8
-#EXTINF:-1,film 4
-http://185.62.86.6:8081/hls/film4.m3u8
-#EXTINF:-1,really
-http://185.62.86.6:8081/hls/really.m3u8
-#EXTINF:-1,yesterday
-http://185.62.86.6:8081/hls/yesterday.m3u8
-#EXTINF:-1,drama
-http://185.62.86.6:8081/hls/drama.m3u8
-#EXTINF:-1,itv 4
-http://185.62.86.6:8081/hls/itv4.m3u8
-#EXTINF:-1,5usa
-http://185.62.86.6:8081/hls/5usa.m3u8
-#EXTINF:-1,home
-http://185.62.86.6:8081/hls/home.m3u8
-#EXTINF:-1,itv be
-http://185.62.86.6:8081/hls/itvbe.m3u8
-#EXTINF:-1,e4
-http://185.62.86.6:8081/hls/e4.m3u8
-#EXTINF:-1,5star
-http://185.62.86.6:8081/hls/5star.m3u8
-#EXTINF:-1,spike uk
-http://185.62.86.6:8081/hls/spike.m3u8
-#EXTINF:-1,sony
-http://185.62.86.6:8081/hls/sonymoviechannel.m3u8
-#EXTINF:-1,quest
-http://185.62.86.6:8081/hls/quest.m3u8
-#EXTINF:-1,food network
-http://185.62.86.6:8081/hls/foodnetwork.m3u8
-#EXTINF:-1,challenge
-http://185.62.86.6:8081/hls/challenge.m3u8
-#EXTINF:-1,4seven
-http://185.62.86.6:8081/hls/4seven.m3u8
-#EXTINF:-1,movie4men
-http://185.62.86.6:8081/hls/movies4men.m3u8
-#EXTINF:-1,cbsaction
-http://185.62.86.6:8081/hls/cbsaction.m3u8
-#EXTINF:-1,cbsreality
-http://185.62.86.6:8081/hls/cbsreality.m3u8
-#EXTINF:-1,horrorchannel
-http://185.62.86.6:8081/hls/horrorchannel.m3u8
-#EXTINF:-1,yourtv
-http://185.62.86.6:8081/hls/yourtv.m3u8
-#EXTINF:-1,blaze
-http://185.62.86.6:8081/hls/blaze.m3u8
-#EXTINF:-1,4music
-http://185.62.86.6:8081/hls/4music.m3u8
-#EXTINF:-1,travelchannel
-http://185.62.86.6:8081/hls/travelchannel.m3u8
-#EXTINF:-1,cbsdrama
-http://185.62.86.6:8081/hls/cbsdrama.m3u8
-#EXTINF:-1,trytv
-http://185.62.86.6:8081/hls/trutv.m3u8
-#EXTINF:-1,my5
-http://185.62.86.6:8081/hls/my5.m3u8
+#EXTINF:-1,UK:BT Sports 1
+http://185.142.239.164:3135/BT/1/index.m3u8
+#EXTINF:-1,UK:BT Sports 2
+http://185.142.239.164:3135/BT/2/index.m3u8
+#EXTINF:-1,BT Sports 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+#EXTINF:-1,UK:BT Espn
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1,UK:Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports F1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1,UK:Sky Sports news
+http://185.142.239.164:3135/News.Sports/index.m3u8
+#EXTINF:-1,EURO SPORT 1
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:-1,EURO SPORT 2 HD
+http://185.142.239.164:3135/Euro/2/index.m3u8
+#EXTINF:-1,USA:FOX Sports 1(FS1)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:-1,USA:FOX Sports 2(FS2)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+#EXTINF:-1,Setanta Sports
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+#EXTINF:-1,Premiere Sports
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+#EXTINF:-1,Boxing & Wrestling
+http://185.142.239.164:3135/BT/2/index.m3u
+#EXTINF:-1,Ten Sports 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:-1,Ten Sports 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+#EXTINF:-1,Ten Sports 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
 
 
 
-#EXTINF:-1,UK: BBC1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6986.ts
-#EXTINF:-1,UK: BBC One NI HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13488.ts
-#EXTINF:-1,UK: BBC RB 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13487.ts
-#EXTINF:-1,UK: BBC2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8363.ts
-#EXTINF:-1,UK: BBC2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6987.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13712.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6995.ts
-#EXTINF:-1,UK: Channel 4 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13558.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6998.ts
-#EXTINF:-1,UK: Channel 5 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13557.ts
-#EXTINF:-1,UK: Channel 5Star
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9560.ts
-#EXTINF:-1,UK: Sky One
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7365.ts
-#EXTINF:-1,UK: Sky One +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12365.ts
-#EXTINF:-1,UK: Sky Two
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7373.ts
-#EXTINF:-1,UK: Pick
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7054.ts
-#EXTINF:-1,UK: Pick +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13519.ts
-#EXTINF:-1,UK: My5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13556.ts
-#EXTINF:-1,UK: DAVE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7072.ts
-#EXTINF:-1,UK: SKY LIVING
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7024.ts
-#EXTINF:-1,UK: BBC3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7084.ts
-#EXTINF:-1,UK: BBC4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8364.ts
-#EXTINF:-1,UK: ITV Encore
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13532.ts
-#EXTINF:-1,UK: ITV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6990.ts
-#EXTINF:-1,UK: ITV +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9550.ts
-#EXTINF:-1,UK: ITV1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8357.ts
-#EXTINF:-1,UK: ITV2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8356.ts
-#EXTINF:-1,UK: ITV2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6991.ts
-#EXTINF:-1,UK: ITV2 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13531.ts
-#EXTINF:-1,UK: ITV3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8354.ts
-#EXTINF:-1,UK: ITV3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6992.ts
-#EXTINF:-1,UK: ITV4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8355.ts
-#EXTINF:-1,UK: ITV4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6993.ts
-#EXTINF:-1,UK: ITV4 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13530.ts
-#EXTINF:-1,UK: Comedy Central
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7033.ts
-#EXTINF:-1,UK: Comedy Central +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13591.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8255.ts
-#EXTINF:-1,UK: Comedy Central Xtra +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13590.ts
-#EXTINF:-1,UK: ALIBI
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7085.ts
-#EXTINF:-1,UK: Alibi +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12364.ts
-#EXTINF:-1,UK: E4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7068.ts
-#EXTINF:-1,UK: S4C
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13514.ts
-#EXTINF:-1,UK: MORE4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7062.ts
-#EXTINF:-1,UK: More4 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13583.ts
-#EXTINF:-1,UK: CBS REALITY
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7076.ts
-#EXTINF:-1,UK: CBS REALITY +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7075.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7077.ts
-#EXTINF:-1,UK: Sony Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13512.ts
-#EXTINF:-1,UK: Sony Channel +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13511.ts
-#EXTINF:-1,UK: Flava
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13587.ts
-#EXTINF:-1,UK: E!
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7069.ts
-#EXTINF:-1,UK: E! +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13549.ts
-#EXTINF:-1,UK: Quest
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7053.ts
-#EXTINF:-1,UK: QUEST +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13518.ts
-#EXTINF:-1,UK: SHOWCASE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7048.ts
-#EXTINF:-1,UK: 3e
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7372.ts
-#EXTINF:-1,UK: TV3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7001.ts
-#EXTINF:-1,UK: TLC
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7003.ts
-#EXTINF:-1,UK: TLC +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13501.ts
-#EXTINF:-1,UK: TLC +2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13502.ts
-#EXTINF:-1,UK: Drama
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13550.ts
-#EXTINF:-1,UK: TG4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7004.ts
-#EXTINF:-1,UK: RTE One
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7050.ts
-#EXTINF:-1,UK: RTE Two
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7051.ts
-#EXTINF:-1,UK: ITVBE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6994.ts
-#EXTINF:-1,UK: ITVBe +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13529.ts
-#EXTINF:-1,UK: Community Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13554.ts
-#EXTINF:-1,UK: AMC From BT
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13567.ts
-#EXTINF:-1,UK: ID
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7063.ts
-#EXTINF:-1,UK: ID +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13533.ts
-#EXTINF:-1,UK: Horror Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13585.ts
-#EXTINF:-1,UK: Horror Channel +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13586.ts
-#EXTINF:-1,UK: Fox
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7089.ts
-#EXTINF:-1,UK: Challenge
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13560.ts
-#EXTINF:-1,UK: Challenge +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13559.ts
-#EXTINF:-1,UK: 5USA
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7071.ts
-#EXTINF:-1,UK: 5USA +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13569.ts
-#EXTINF:-1,UK: 5STAR
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7086.ts
-#EXTINF:-1,UK: 5STAR +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13568.ts
-#EXTINF:-1,UK: Lifetime
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8256.ts
-#EXTINF:-1,UK: Vintage TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9552.ts
-#EXTINF:-1,UK: Gold
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12371.ts
-#EXTINF:-1,UK: GOLD +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13543.ts
-#EXTINF:-1,UK: Eden
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12460.ts
-#EXTINF:-1,UK: Eden +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12366.ts
-#EXTINF:-1,UK: True Drama
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13574.ts
-#EXTINF:-1,UK: True Crime +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13498.ts
-#EXTINF:-1,UK: tru TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13500.ts
-#EXTINF:-1,UK: tru TV 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13499.ts
-#EXTINF:-1,UK: Dmax
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12458.ts
-#EXTINF:-1,UK: Dmax +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12459.ts
-#EXTINF:-1,UK: De Ja Vu
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11779.ts
-#EXTINF:-1,UK: W +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13494.ts
-#EXTINF:-1,UK: W
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13495.ts
-#EXTINF:-1,UK: Universal
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13572.ts
-#EXTINF:-1,UK: Universal +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13571.ts
-#EXTINF:-1,UK: True Entertainment
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13573.ts
-#EXTINF:-1,UK: Sky News
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9551.ts
-#EXTINF:-1,UK: Real Lives
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13517.ts
-#EXTINF:-1,UK: Tiny Pop
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13576.ts
-#EXTINF:-1,UK: Tiny Pop +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13575.ts
-#EXTINF:-1,UK: The Vault
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13577.ts
-#EXTINF:-1,UK: Spike HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13508.ts
-#EXTINF:-1,UK: RT. News Now
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13515.ts
-#EXTINF:-1,UK: PBS America
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13520.ts
-#EXTINF:-1,UK: London Live
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2927.ts
-#EXTINF:-1,UK: Made In Cardiff
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14026.ts
-#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8250.ts
-#EXTINF:-1,UK: Discovery Shed
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6977.ts
-#EXTINF:-1,UK: Travel Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7002.ts
-#EXTINF:-1,UK: Travel Channel +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10162.ts
-#EXTINF:-1,UK: Really
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7052.ts
-#EXTINF:-1,UK: Home & Health
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7369.ts
-#EXTINF:-1,UK: Food Network
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8392.ts
-#EXTINF:-1,UK: SKY ARTS
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7046.ts
-#EXTINF:-1,UK: Good Food
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13542.ts
-#EXTINF:-1,UK: Good Food +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13541.ts
-#EXTINF:-1,UK: Food Network +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13547.ts
-#EXTINF:-1,UK: Home&Health
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13536.ts
-#EXTINF:-1,UK: Home
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13537.ts
-#EXTINF:-1,UK: Home +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13535.ts
-#EXTINF:-1,=======   UK:MOVIES   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8252.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7008.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7007.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7012.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7013.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7009.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7011.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7015.ts
-#EXTINF:-1,UK: Sky Movies ScFi-Horror
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6975.ts
-#EXTINF:-1,UK: Sky Film 4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7030.ts
-#EXTINF:-1,UK: Film4 +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13588.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7014.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7017.ts
-#EXTINF:-1,UK: Sony Movies
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13510.ts
-#EXTINF:-1,UK: Sony Movies +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13509.ts
-#EXTINF:-1,UK: TCM HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7006.ts
-#EXTINF:-1,UK: Starz TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13578.ts
-#EXTINF:-1,UK: Star Life OK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13505.ts
-#EXTINF:-1,UK: Star Jalsha
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13506.ts
-#EXTINF:-1,UK: Star GOLD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13507.ts
-#EXTINF:-1,UK: TCM +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13504.ts
-#EXTINF:-1,UK: FILM 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7066.ts
-#EXTINF:-1,UK: True Movies 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6976.ts
-#EXTINF:-1,UK: True Movies 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7375.ts
-#EXTINF:-1,UK: Movies4Men
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8258.ts
-#EXTINF:-1,UK: Movies 24
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13525.ts
-#EXTINF:-1,UK: Movies4men +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13526.ts
-#EXTINF:-1,UK: MOVIES CRIME & THRILLER
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7019.ts
-#EXTINF:-1,UK: MOVIES COMEDY
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7022.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7023.ts
-#EXTINF:-1,UK: Syfy
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7005.ts
-#EXTINF:-1,UK: Syfy +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9556.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7045.ts
-#EXTINF:-1,=======   UK:SPORT   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8244.ts
-#EXTINF:-1,UK: ITV Box Off HD 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/16085.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6981.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13713.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8352.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7035.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8351.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7036.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8350.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7037.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9549.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7038.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8349.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7039.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7987.ts
-#EXTINF:-1,UK: SKY SPORTS  F1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7067.ts
-#EXTINF:-1,UK: EIR Sport 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17372.ts
-#EXTINF:-1,UK: EIR Sport 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/17373.ts
-#EXTINF:-1,UK: Eurosport 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7031.ts
-#EXTINF:-1,UK: Eurosport 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7374.ts
-#EXTINF:-1,UK: Premier Sports
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10163.ts
-#EXTINF:-1,UK: Motors TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8257.ts
-#EXTINF:-1,UK: Horse & Country
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13534.ts
-#EXTINF:-1,UK: AT THE RACES
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6984.ts
-#EXTINF:-1,UK: Racing UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7376.ts
-#EXTINF:-1,UK: Bike
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13599.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9149.ts
-#EXTINF:-1,UK: BT SPORTS MOSAIC 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12531.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7041.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7042.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8358.ts
-#EXTINF:-1,UK: BT Sport 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8361.ts
-#EXTINF:-1,UK: BT Sport Europe/3 HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8360.ts
-#EXTINF:-1,UK: BT SPORTS EUROPE
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7081.ts
-#EXTINF:-1,UK: BT Sports Extra 1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7370.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13565.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13564.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13563.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13562.ts
-#EXTINF:-1,UK: BT Sport Extra 6
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13561.ts
-#EXTINF:-1,UK: BET
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9148.ts
-#EXTINF:-1,UK: Setanta HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8241.ts
-#EXTINF:-1,UK: BOX NATION
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7082.ts
-#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7979.ts
-#EXTINF:-1,UK: MUTV HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7043.ts
-#EXTINF:-1,UK: Chelsea TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8359.ts
-#EXTINF:-1,UK: Liverpool LFCTV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/9553.ts
-#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12457.ts
-#EXTINF:-1,Sky Net Sports 1 UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14081.ts
-#EXTINF:-1,Sky Net Sports 2 UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14082.ts
-#EXTINF:-1,Sky Net Sports 3 UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14083.ts
-#EXTINF:-1,Sky Net Sports 4 UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14084.ts
-#EXTINF:-1,Sky Net Sports 5 UK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14085.ts
-#EXTINF:-1,=======   UK:NEWS   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8246.ts
-#EXTINF:-1,UK: BBC News
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7371.ts
-#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8247.ts
-#EXTINF:-1,UK: Discovery Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7026.ts
-#EXTINF:-1,Uk: Discovery Channel +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/10161.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6979.ts
-#EXTINF:-1,UK: Discovery Science
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7028.ts
-#EXTINF:-1,UK: Discovery Science +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13551.ts
-#EXTINF:-1,UK: Animal Planet
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7047.ts
-#EXTINF:-1,UK: Animal Planet +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13566.ts
-#EXTINF:-1,UK: Nat Geo
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7367.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7025.ts
-#EXTINF:-1,UK: Discovery History
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7029.ts
-#EXTINF:-1,UK: Discovery History +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13552.ts
-#EXTINF:-1,UK: YESTERDAY
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/6999.ts
-#EXTINF:-1,UK: Yesterday +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12375.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7368.ts
-#EXTINF:-1,UK: Crime & Investigation
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7074.ts
-#EXTINF:-1,UK: H2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13540.ts
-#EXTINF:-1,UK: History
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13539.ts
-#EXTINF:-1,UK: GEO TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13544.ts
-#EXTINF:-1,=======   UK:CHILDREN’S   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8251.ts
-#EXTINF:-1,UK: Baby TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11778.ts
-#EXTINF:-1,UK: Kix
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/11469.ts
-#EXTINF:-1,UK: Kix +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13584.ts
-#EXTINF:-1,UK: Cartoon Network
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7034.ts
-#EXTINF:-1,UK: NickJr Too
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7543.ts
-#EXTINF:-1,UK: Nicktoons
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7055.ts
-#EXTINF:-1,UK: Disney Junior
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7542.ts
-#EXTINF:-1,UK: Disney Channel
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7032.ts
-#EXTINF:-1,UK: Nickelodeon
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7366.ts
-#EXTINF:-1,UK: DISNEY XD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7070.ts
-#EXTINF:-1,UK: CBEEBIES
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7079.ts
-#EXTINF:-1,UK: CBBC
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7080.ts
-#EXTINF:-1,UK: Boomerang
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13598.ts
-#EXTINF:-1,=======   UK:MUSIC  =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8253.ts
-#EXTINF:-1,UK: MTV Music
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13582.ts
-#EXTINF:-1,UK: MTV 90s
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13485.ts
-#EXTINF:-1,UK: MTV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7061.ts
-#EXTINF:-1,UK: MTV +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13523.ts
-#EXTINF:-1,UK: MTV Base
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7060.ts
-#EXTINF:-1,UK: MTV Hits
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7057.ts
-#EXTINF:-1,UK: MTV Dance
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7058.ts
-#EXTINF:-1,UK: MTV Rocks
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7056.ts
-#EXTINF:-1,UK: MTV Classic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7059.ts
-#EXTINF:-1,UK: VH1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7000.ts
-#EXTINF:-1,UK: VIVA
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8259.ts
-#EXTINF:-1,UK: Scuzz
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13579.ts
-#EXTINF:-1,UK: 4Music
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13570.ts
-#EXTINF:-1,UK: POP +1
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13580.ts
-#EXTINF:-1,UK: POP
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13581.ts
-#EXTINF:-1,=======   UK:FOREIGN LANGUAGE   =======
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8245.ts
-#EXTINF:-1,UK: BBC Persian
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2129.ts
-#EXTINF:-1,UK: BBC Arabic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/2122.ts
-#EXTINF:-1,UK: Dunya News
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/13486.ts
-#EXTINF:-1,UK: Al Jazeera
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/14543.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,English: Sky Sports F 1
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:-1,English: Sky Sports 1
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:-1,English: Sky Sports 2
+http://185.142.239.164:3135/2/Sports/index.m3u8
+#EXTINF:-1,English: Sky Sports 3
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:-1,English: Sky Sports 4
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:-1,English: Sky Sports 5
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:-1,Super S1
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:-1,Super S2
+http://185.142.239.164:3135/Super/2/index.m3u8
+#EXTINF:-1,Super S3
+http://185.142.239.164:3135/Super/3/index.m3u8
+#EXTINF:-1,Super S4
+http://185.142.239.164:3135/Super/4/index.m3u8
+#EXTINF:-1,Super S5
+http://185.142.239.164:3135/Super/5/index.m3u8
+#EXTINF:-1,Super S6
+http://185.142.239.164:3135/Super/6/index.m3u8
+
+
+
+
+
+
+
+
+
