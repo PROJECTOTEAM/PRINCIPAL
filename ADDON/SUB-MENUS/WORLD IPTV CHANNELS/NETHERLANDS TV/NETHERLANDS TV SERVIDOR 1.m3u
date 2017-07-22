@@ -4,114 +4,164 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-06-2017 [COLOR red][/COLOR][/B][/COLOR]
-
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
+#EXTINF:-1,RTL8 HD
+http://188.122.70.241:8000/play/a006
+#EXTINF:-1,RTL Z
+http://188.122.70.241:8000/play/a00d
+#EXTINF:-1,RTL5 HD
+http://188.122.70.241:8000/play/a003
+#EXTINF:-1,Crime Invest.
+http://188.122.70.241:8000/play/a00x
+#EXTINF:-1,L1MBURG
+http://188.122.70.241:8000/play/a00a
+#EXTINF:-1,EUROSPORT2 NL
+http://188.122.70.241:8000/play/a00e
+#EXTINF:-1,VTM HD
+http://188.122.70.241:8000/play/a005
+#EXTINF:-1,RTL4 HD
+http://188.122.70.241:8000/play/a002
+#EXTINF:-1,Reality Kings
+http://188.122.70.241:8000/play/a007
+#EXTINF:-1,JimJam
+http://188.122.70.241:8000/play/a010
+#EXTINF:-1,ZES
+http://188.122.70.241:8000/play/a00f
+#EXTINF:-1,Discovery Showcase HD
+http://188.122.70.241:8000/play/a00t
+#EXTINF:-1,Animal Planet
+http://188.122.70.241:8000/play/a00i
+#EXTINF:-1,VIER HD
+http://188.122.70.241:8000/play/a00c
+#EXTINF:-1,Q2HD
+http://188.122.70.241:8000/play/a00b
+#EXTINF:-1,History HD DUT
+http://188.122.70.241:8000/play/a00w
+#EXTINF:-1,Eurosport 1 HD BE
+http://188.122.70.241:8000/play/a00y
+#EXTINF:-1,RTL lounge
+http://188.122.70.241:8000/play/a009
+#EXTINF:-1,RTL7 HD
+http://188.122.70.241:8000/play/a004
+#EXTM3U
+#EXTINF:-1,Canvas HD
+http://46.249.60.210:8666/play/a01m
+#EXTINF:-1,TLC
+http://46.249.60.210:8666/play/a013
+#EXTINF:-1,Ziggo Sport Voetbal
+http://46.249.60.210:8666/play/a00y
+#EXTINF:-1,NGC HD
+http://46.249.60.210:8666/play/a018
+#EXTINF:-1,NPO Politiek
+http://46.249.60.210:8666/play/a002
+#EXTINF:-1,TV Drenthe
+http://46.249.60.210:8666/play/a01y
+#EXTINF:-1,RTL8 HD
+http://46.249.60.210:8666/play/a00k
+#EXTINF:-1,Ziggo Sport Golf
+http://46.249.60.210:8666/play/a00z
+#EXTINF:-1,KADET
+http://46.249.60.210:8666/play/a01a
+#EXTINF:-1,Investigation Discovery
+http://46.249.60.210:8666/play/a006
+#EXTINF:-1,SBS6 HD
+http://46.249.60.210:8666/play/a008
+#EXTINF:-1,ZES
+http://46.249.60.210:8666/play/a00p
+#EXTINF:-1,Vitaya
+http://46.249.60.210:8666/play/a01d
+#EXTINF:-1,Film1 Action
+http://46.249.60.210:8666/play/a00x
 #EXTINF:-1,Boomerang
 http://46.249.60.210:8666/play/a005
 #EXTINF:-1,NET5 HD
 http://46.249.60.210:8666/play/a01k
-#EXTINF:-1,SBS6 HD
-http://46.249.60.210:8666/play/a008
-#EXTINF:-1,Ziggo Sport Golf
-http://46.249.60.210:8666/play/a00z
-#EXTINF:-1,VTM HD
-http://46.249.60.210:8666/play/a00q
+#EXTINF:-1,VTMKazoom/Kanaal Z
+http://46.249.60.210:8666/play/a03c
+#EXTINF:-1,RTL4 HD
+http://46.249.60.210:8666/play/a00h
+#EXTINF:-1,FOX Channel
+http://46.249.60.210:8666/play/a004
+#EXTINF:-1,FOX Sports EDL 1 HD
+http://46.249.60.210:8666/play/a00c
+#EXTINF:-1,Disney Channel
+http://46.249.60.210:8666/play/a007
+#EXTINF:-1,Travel Channel HD NL
+http://46.249.60.210:8666/play/a026
+#EXTINF:-1,RTL Z
+http://46.249.60.210:8666/play/a00l
+#EXTINF:-1,AT5
+http://46.249.60.210:8666/play/a01q
+#EXTINF:-1,RTL7 HD
+http://46.249.60.210:8666/play/a00j
+#EXTINF:-1,FOX Sports EDL 3
+http://46.249.60.210:8666/play/a010
+#EXTINF:-1,Film1 Comedy & Kids
+http://46.249.60.210:8666/play/a00v
+#EXTINF:-1,Eurosport 1HD NL
+http://46.249.60.210:8666/play/a017
+#EXTINF:-1,Film1 Premiere HD
+http://46.249.60.210:8666/play/a014
+#EXTINF:-1,een HD
+http://46.249.60.210:8666/play/a01l
+#EXTINF:-1,VIJF
+http://46.249.60.210:8666/play/a01f
+#EXTINF:-1,Ziggo Sport Select HD
+http://46.249.60.210:8666/play/a016
+#EXTINF:-1,RTL lounge
+http://46.249.60.210:8666/play/a00n
+#EXTINF:-1,VIER HD
+http://46.249.60.210:8666/play/a00s
+#EXTINF:-1,NPO3 HD
+http://46.249.60.210:8666/play/a01o
+#EXTINF:-1,L1MBURG
+http://46.249.60.210:8666/play/a00o
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://46.249.60.210:8666/play/a003
+#EXTINF:-1,TV Gelderland
+http://46.249.60.210:8666/play/a020
+#EXTINF:-1,TV Noord
+http://46.249.60.210:8666/play/a01x
 #EXTINF:-1,SBS9
 http://46.249.60.210:8666/play/a012
 #EXTINF:-1,TV Oost
 http://46.249.60.210:8666/play/a01z
-#EXTINF:-1,NGC HD
-http://46.249.60.210:8666/play/a018
-#EXTINF:-1,CAZ
-http://46.249.60.210:8666/play/a01e
-#EXTINF:-1,FOX Channel
-http://46.249.60.210:8666/play/a004
-#EXTINF:-1,KetOp12
-http://46.249.60.210:8666/play/a01b
-#EXTINF:-1,Vitaya
-http://46.249.60.210:8666/play/a01d
-#EXTINF:-1,VTMKazoom/Kanaal Z
-http://46.249.60.210:8666/play/a03c
-#EXTINF:-1,Discovery Channel
-http://46.249.60.210:8666/play/a00e
-#EXTINF:-1,Film1 Comedy & Kids
-http://46.249.60.210:8666/play/a00v
-#EXTINF:-1,NPO3 HD
-http://46.249.60.210:8666/play/a01o
-#EXTINF:-1,RTL4 HD
-http://46.249.60.210:8666/play/a00h
-#EXTINF:-1,RTL5 HD
-http://46.249.60.210:8666/play/a00i
-#EXTINF:-1,KADET
-http://46.249.60.210:8666/play/a01a
-#EXTINF:-1,FOX Sports EDL 3
-http://46.249.60.210:8666/play/a010
-#EXTINF:-1,Film1 Action
-http://46.249.60.210:8666/play/a00x
-#EXTINF:-1,NPO Politiek
-http://46.249.60.210:8666/play/a002
-#EXTINF:-1,Travel Channel HD NL
-http://46.249.60.210:8666/play/a026
-#EXTINF:-1,FOX Sports EDL 1 HD
-http://46.249.60.210:8666/play/a00c
-#EXTINF:-1,L1MBURG
-http://46.249.60.210:8666/play/a00o
-#EXTINF:-1,24Kitchen
-http://46.249.60.210:8666/play/a01r
-#EXTINF:-1,TV Drenthe
-http://46.249.60.210:8666/play/a01y
-#EXTINF:-1,Film1 Premiere HD
-http://46.249.60.210:8666/play/a014
-#EXTINF:-1,Ziggo Sport Select HD
-http://46.249.60.210:8666/play/a016
-#EXTINF:-1,Ziggo Sport Voetbal
-http://46.249.60.210:8666/play/a00y
-#EXTINF:-1,Film1 Sundance
-http://46.249.60.210:8666/play/a00w
-#EXTINF:-1,RTL8 HD
-http://46.249.60.210:8666/play/a00k
-#EXTINF:-1,VIJF
-http://46.249.60.210:8666/play/a01f
-#EXTINF:-1,RTL lounge
-http://46.249.60.210:8666/play/a00n
-#EXTINF:-1,Veronica/DisneyXD HD
-http://46.249.60.210:8666/play/a01n
-#EXTINF:-1,Disney Channel
-http://46.249.60.210:8666/play/a007
-#EXTINF:-1,Omroep Brabant Televisie
-http://46.249.60.210:8666/play/a022
-#EXTINF:-1,NPO Zapp Xtra/NPO Best
-http://46.249.60.210:8666/play/a003
-#EXTINF:-1,ZES
-http://46.249.60.210:8666/play/a00p
-#EXTINF:-1,RTL Z
-http://46.249.60.210:8666/play/a00l
-#EXTINF:-1,TV Gelderland
-http://46.249.60.210:8666/play/a020
-#EXTINF:-1,TLC
-http://46.249.60.210:8666/play/a013
-#EXTINF:-1,RTL7 HD
-http://46.249.60.210:8666/play/a00j
 #EXTINF:-1,NPO2 HD
 http://46.249.60.210:8666/play/a00a
-#EXTINF:-1,Eurosport 1HD NL
-http://46.249.60.210:8666/play/a017
+#EXTINF:-1,Discovery Channel
+http://46.249.60.210:8666/play/a00e
+#EXTINF:-1,KetOp12
+http://46.249.60.210:8666/play/a01b
 #EXTINF:-1,NPO1 HD
 http://46.249.60.210:8666/play/a01j
-#EXTINF:-1,AT5
-http://46.249.60.210:8666/play/a01q
-#EXTINF:-1,TV Noord
-http://46.249.60.210:8666/play/a01x
-#EXTINF:-1,een HD
-http://46.249.60.210:8666/play/a01l
-#EXTINF:-1,VIER HD
-http://46.249.60.210:8666/play/a00s
-#EXTINF:-1,Investigation Discovery
-http://46.249.60.210:8666/play/a006
-#EXTINF:-1,Canvas HD
-http://46.249.60.210:8666/play/a01m
 #EXTINF:-1,Q2 HD
 http://46.249.60.210:8666/play/a00r
+#EXTINF:-1,RTL5 HD
+http://46.249.60.210:8666/play/a00i
+#EXTINF:-1,VTM HD
+http://46.249.60.210:8666/play/a00q
+#EXTINF:-1,Omroep Brabant Televisie
+http://46.249.60.210:8666/play/a022
+#EXTINF:-1,CAZ
+http://46.249.60.210:8666/play/a01e
+#EXTINF:-1,Veronica/DisneyXD HD
+http://46.249.60.210:8666/play/a01n
+#EXTINF:-1,Film1 Sundance
+http://46.249.60.210:8666/play/a00w
+#EXTINF:-1,24Kitchen
+http://46.249.60.210:8666/play/a01r
