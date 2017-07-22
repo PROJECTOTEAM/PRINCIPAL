@@ -1,210 +1,432 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-05-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,AFRICA MUSICA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4450.ts
-#EXTINF:-1,AFR: TVC News ( Nigeria )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4382.ts
-#EXTINF:-1,AFR: TV Mana Maputo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4384.ts
-#EXTINF:-1,AFR: TV Man Maputo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4424.ts
-#EXTINF:-1,AFR: TV Continental Nigeria
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4425.ts
-#EXTINF:-1,AFR: Tv Continental ( Nigeria )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4385.ts
-#EXTINF:-1,AFR: RTI 1 ( Cote Avoire )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4390.ts
-#EXTINF:-1,AFR: Prestige TV ( ghana )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4393.ts
-#EXTINF:-1,AFR: Neema TV Congo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4428.ts
-#EXTINF:-1,AFR: IL TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4430.ts
-#EXTINF:-1,AFR: Enorme TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4433.ts
-#EXTINF:-1,AFR: Dunamis TV ( Nigeria )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4403.ts
-#EXTINF:-1,AFR: Continental TV ( ghana )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4406.ts
-#EXTINF:-1,AFR: Canal 2 International ( Cameroun )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4410.ts
-#EXTINF:-1,AFR: ANN ( South Africa )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4412.ts
-#EXTINF:-1,AFR: Africa Tv 4 ( sudan )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4417.ts
-#EXTINF:-1,AFR: Africa Tv 4
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4435.ts
-#EXTINF:-1,AFR: Africa Tv 3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4436.ts
-#EXTINF:-1,AFR: Africa TV 2 ( sudan )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4419.ts
-#EXTINF:-1,AFR: Africa TV ( Ghana )
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4421.ts
-#EXTINF:-1,AFR-CNA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2868.ts
-#EXTINF:-1,AFR-Canal 2 Info (CMR)
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3591.ts
-#EXTINF:-1,AFR-Africa:TV Man¨¢-Maputo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3592.ts
-#EXTINF:-1,AFG:Tuti TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4788.ts
-#EXTINF:-1,AFG: ZARIN TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4860.ts
-#EXTINF:-1,AFG: TOLO NEWS
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4771.ts
-#EXTINF:-1,AFG: TOLO
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4770.ts
-#EXTINF:-1,AFG: TAMADON TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4777.ts
-#EXTINF:-1,AFG: SROOD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4778.ts
-#EXTINF:-1,AFG: SHAMSHAD
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4779.ts
-#EXTINF:-1,AFG: RAH E FARDA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4861.ts
-#EXTINF:-1,AFG: PASHTO TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4782.ts
-#EXTINF:-1,AFG: PARLIMENT TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4862.ts
-#EXTINF:-1,AFG: NOORIN TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4863.ts
-#EXTINF:-1,AFG: NOOR TELEVISION
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4864.ts
-#EXTINF:-1,AFG: NEGAAH
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4784.ts
-#EXTINF:-1,AFG: LEMAR
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4785.ts
-#EXTINF:-1,AFG: KHURSHID TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4786.ts
-#EXTINF:-1,AFG: Kayhan TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4790.ts
-#EXTINF:-1,AFG: Jawan TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4781.ts
-#EXTINF:-1,AFG: Dari 24
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4865.ts
-#EXTINF:-1,AFG: ATV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4772.ts
-#EXTINF:-1,AFG: ATN USA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4773.ts
-#EXTINF:-1,AFG: ATN NEWS
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4774.ts
-#EXTINF:-1,AFG: ATN EUROPE
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4775.ts
-#EXTINF:-1,AFG: ATN AFGHAN
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4776.ts
-#EXTINF:-1,AFG: Aryana TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4783.ts
-#EXTINF:-1,AFG: Aria Music
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4866.ts
-#EXTINF:-1,AFG: Arezo
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4780.ts
-#EXTINF:-1,AFG: Afghan TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4789.ts
-#EXTINF:-1,AFG: Afghan Theatre
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4791.ts
-#EXTINF:-1,AFG: 1TV AFGHAN
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4769.ts
-#EXTINF:-1,AF:VOX AFRICA AF
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4518.ts
-#EXTINF:-1,AF:CRTV AF
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4515.ts
-#EXTINF:-1,AF: TV3 Ghana (NOT 24H)*
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4452.ts
-#EXTINF:-1,AF: Tayba Tv
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3601.ts
-#EXTINF:-1,AF: SNTV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4439.ts
-#EXTINF:-1,AF: KALSAN TV
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4447.ts
-#EXTINF:-1,AF: Ghana Entertainment Channel
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4463.ts
-#EXTINF:-1,AF: ANN7 SOUTH AFRICA
-http://192.99.149.20:8080/live/internal_stalker/internal_use/4471.ts
-#EXTINF:-1,AF: Africa TV3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3604.ts
-#EXTINF:-1,AF: Africa TV1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3602.ts
-#EXTINF:-1,AF: 2STV - Senegal
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3758.ts
-#EXTINF:-1,9
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2230.ts
-#EXTINF:-1,8
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2229.ts
-#EXTINF:-1,7
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2228.ts
-#EXTINF:-1,6
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2227.ts
-#EXTINF:-1,5
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2226.ts
-#EXTINF:-1,49
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2270.ts
-#EXTINF:-1,47
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2268.ts
-#EXTINF:-1,45
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2266.ts
-#EXTINF:-1,44
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2265.ts
-#EXTINF:-1,43
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2264.ts
-#EXTINF:-1,42
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2263.ts
-#EXTINF:-1,41
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2262.ts
-#EXTINF:-1,40
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2261.ts
-#EXTINF:-1,4
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2225.ts
-#EXTINF:-1,39
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2260.ts
-#EXTINF:-1,32
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2253.ts
-#EXTINF:-1,31
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2252.ts
-#EXTINF:-1,30
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2251.ts
-#EXTINF:-1,3
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2224.ts
-#EXTINF:-1,29
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2250.ts
-#EXTINF:-1,28
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2249.ts
-#EXTINF:-1,27
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2248.ts
-#EXTINF:-1,26
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2247.ts
-#EXTINF:-1,25
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2246.ts
-#EXTINF:-1,24
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2245.ts
-#EXTINF:-1,23
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2244.ts
-#EXTINF:-1,21
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2242.ts
-#EXTINF:-1,20
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2241.ts
-#EXTINF:-1,2
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2223.ts
-#EXTINF:-1,19
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2240.ts
-#EXTINF:-1,18
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2239.ts
-#EXTINF:-1,17
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2238.ts
-#EXTINF:-1,16
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2237.ts
-#EXTINF:-1,14
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2235.ts
-#EXTINF:-1,13
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2234.ts
-#EXTINF:-1,12
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2233.ts
-#EXTINF:-1,10
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2231.ts
-#EXTINF:-1,1
-http://192.99.149.20:8080/live/internal_stalker/internal_use/2222.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AF: Fuza Inter - Angola
+http://51.15.5.115:8000/live/AFRICA/AFRICA/90.ts
+#EXTINF:-1,AF: DIASCONGO TV
+http://51.15.5.115:8000/live/AFRICA/AFRICA/89.ts
+#EXTINF:-1,AF: TELE MABOKE
+http://51.15.5.115:8000/live/AFRICA/AFRICA/88.ts
+#EXTINF:-1,TV ZIMBO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/44.ts
+#EXTINF:-1,TPA-ANGO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/46.ts
+#EXTINF:-1,TELE50
+http://51.15.5.115:8000/live/AFRICA/AFRICA/40.ts
+#EXTINF:-1,RTVS1-CONGO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/41.ts
+#EXTINF:-1,RTNC3
+http://51.15.5.115:8000/live/AFRICA/AFRICA/38.ts
+#EXTINF:-1,RTGA CONGO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/42.ts
+#EXTINF:-1,PALANCA TV
+http://51.15.5.115:8000/live/AFRICA/AFRICA/45.ts
+#EXTINF:-1,DIGITAL CONGO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/43.ts
+#EXTINF:-1,B-ONE
+http://51.15.5.115:8000/live/AFRICA/AFRICA/39.ts
+#EXTINF:-1,RTNC1
+http://51.15.5.115:8000/live/AFRICA/AFRICA/87.ts
+#EXTINF:-1,TELECONGO
+http://51.15.5.115:8000/live/AFRICA/AFRICA/37.ts
+#EXTINF:-1,STADAFRIK
+http://51.15.5.115:8000/live/AFRICA/AFRICA/47.ts
+#EXTINF:-1,France 24 French
+http://51.15.5.115:8000/live/AFRICA/AFRICA/22.ts
+#EXTINF:-1,Aljazirah English
+http://51.15.5.115:8000/live/AFRICA/AFRICA/21.ts
+#EXTINF:-1,CGTN
+http://51.15.5.115:8000/live/AFRICA/AFRICA/20.ts
+#EXTINF:-1,Arise News
+http://51.15.5.115:8000/live/AFRICA/AFRICA/19.ts
+#EXTINF:-1,France Inter
+http://51.15.5.115:8000/live/AFRICA/AFRICA/18.ts
+#EXTINF:-1,France Info
+http://51.15.5.115:8000/live/AFRICA/AFRICA/17.ts
+#EXTINF:-1,NTV - Kenya
+http://51.15.5.115:8000/live/AFRICA/AFRICA/16.ts
+#EXTINF:-1,BEINSPORT NEWS ARABIC
+http://51.15.5.115:8000/live/AFRICA/AFRICA/15.ts
+#EXTINF:-1,SIKKA TV
+http://51.15.5.115:8000/live/AFRICA/AFRICA/14.ts
+#EXTINF:-1,Africanews English
+http://51.15.5.115:8000/live/AFRICA/AFRICA/13.ts
+#EXTINF:-1,Aforevo Music Tv
+http://51.15.5.115:8000/live/AFRICA/AFRICA/3.ts
+#EXTINF:-1,OLIVE TV
+http://51.15.5.115:8000/live/AFRICA/AFRICA/2.ts
+#EXTINF:-1,NTV UGANDA
+http://51.15.5.115:8000/live/AFRICA/AFRICA/9.ts
+#EXTINF:-1,SABC News
+http://51.15.5.115:8000/live/AFRICA/AFRICA/11.ts
+#EXTINF:-1,KTN NEWS
+http://51.15.5.115:8000/live/AFRICA/AFRICA/4.ts
+#EXTINF:-1,JOYS NEWS
+http://51.15.5.115:8000/live/AFRICA/AFRICA/7.ts
+#EXTINF:-1,CHANNEL TELEVISION - Nigeria
+http://51.15.5.115:8000/live/AFRICA/AFRICA/10.ts
+#EXTINF:-1,AFRICA BUSINESS
+http://51.15.5.115:8000/live/AFRICA/AFRICA/8.ts
+#EXTINF:-1,AFRICANEWS
+http://51.15.5.115:8000/live/AFRICA/AFRICA/5.ts
+#EXTINF:-1,AFRICA TELEVISION
+http://51.15.5.115:8000/live/AFRICA/AFRICA/12.ts
+#EXTINF:-1,AFRICA 24
+http://51.15.5.115:8000/live/AFRICA/AFRICA/1.ts
+#EXTINF:-1,ADOM TV
+http://51.15.5.115:8000/live/AFRICA/AFRICA/6.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Walf_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6060.ts
+#EXTINF:-1,Touba_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6067.ts
+#EXTINF:-1,Tfm_Senegal-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6069.ts
+#EXTINF:-1,Tfm_Religion-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6070.ts
+#EXTINF:-1,Tfm_Infos-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6071.ts
+#EXTINF:-1,Sen_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6080.ts
+#EXTINF:-1,MTV Music
+http://sansat.net:25461/live/82002324912369/82002324912369/6408.ts
+#EXTINF:-1,2_STV_(Senegal)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6159.ts
+#EXTINF:-1,IRANEFARDA-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6391.ts
+#EXTINF:-1,ORTM-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6390.ts
+#EXTINF:-1,RTS-1-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6394.ts
+#EXTINF:-1,TFM-Senegal-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6389.ts
+#EXTINF:-1,TPAI-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6392.ts
+#EXTINF:-1,TVGE-INTERNATIONAL-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6393.ts
+#EXTINF:-1,Ztv_(Ghana)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6058.ts
+#EXTINF:-1,Wap-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6059.ts
+#EXTINF:-1,Vision_4-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6061.ts
+#EXTINF:-1,Universal_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6062.ts
+#EXTINF:-1,Tvt_Togo-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6063.ts
+#EXTINF:-1,Tvs_1_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6064.ts
+#EXTINF:-1,Tvo-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6065.ts
+#EXTINF:-1,Tv_Continental_(Nigeria)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6066.ts
+#EXTINF:-1,Tm_2_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6068.ts
+#EXTINF:-1,Tele_Sud-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6072.ts
+#EXTINF:-1,Tele_Djibouti_6-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6073.ts
+#EXTINF:-1,Tele_50-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6074.ts
+#EXTINF:-1,Tele_(Congo)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6075.ts
+#EXTINF:-1,Tchad_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6076.ts
+#EXTINF:-1,Stv_(Cameroon)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6077.ts
+#EXTINF:-1,Star_TV_(Tanzania)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6078.ts
+#EXTINF:-1,Sln_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6079.ts
+#EXTINF:-1,Rwanda_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6081.ts
+#EXTINF:-1,Rts_1_(Senegal)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6082.ts
+#EXTINF:-1,Rti_2_TV_(Cote_d'ivoir)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6083.ts
+#EXTINF:-1,Rti_1_Tv_(Cote_d'ivoir)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6084.ts
+#EXTINF:-1,Rtga-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6085.ts
+#EXTINF:-1,Rtf-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6086.ts
+#EXTINF:-1,Rtb-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6087.ts
+#EXTINF:-1,Royal_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6088.ts
+#EXTINF:-1,Trace-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6089.ts
+#EXTINF:-1,Rave_TV_(Nigeria)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6090.ts
+#EXTINF:-1,Ortm_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6091.ts
+#EXTINF:-1,Ortb_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6092.ts
+#EXTINF:-1,Omdurman_TV_(Sudan)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6093.ts
+#EXTINF:-1,Ole_Tfm-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6094.ts
+#EXTINF:-1,Obs-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6095.ts
+#EXTINF:-1,Ntv_Uganda-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6096.ts
+#EXTINF:-1,Ntai_(Nigeria)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6097.ts
+#EXTINF:-1,Nta-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6098.ts
+#EXTINF:-1,Novelas_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6099.ts
+#EXTINF:-1,Nollywood_Movies-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6100.ts
+#EXTINF:-1,Nikadys_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6101.ts
+#EXTINF:-1,Nigeria_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6102.ts
+#EXTINF:-1,Mtn-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6103.ts
+#EXTINF:-1,Mourchid-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6104.ts
+#EXTINF:-1,Manara_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6105.ts
+#EXTINF:-1,Maisha_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6106.ts
+#EXTINF:-1,LC2-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6107.ts
+#EXTINF:-1,La_Tele_du_Sahel_(Nigeria)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6108.ts
+#EXTINF:-1,Nollywood_French-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6109.ts
+#EXTINF:-1,Ktn-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6110.ts
+#EXTINF:-1,Kessben_TV_(Ghana)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6111.ts
+#EXTINF:-1,Kbc_1_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6112.ts
+#EXTINF:-1,Kasla_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6113.ts
+#EXTINF:-1,K24_TV_(Kenya)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6114.ts
+#EXTINF:-1,Jubbaland_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6115.ts
+#EXTINF:-1,Iroko_Plus-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6116.ts
+#EXTINF:-1,Info_Burkina-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6117.ts
+#EXTINF:-1,Impact_TV_(Burkina_Faso)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6118.ts
+#EXTINF:-1,Hctv-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6119.ts
+#EXTINF:-1,Gtv_Sports_Plus_(Ghana)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6120.ts
+#EXTINF:-1,Grts-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6121.ts
+#EXTINF:-1,Golfeint-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6122.ts
+#EXTINF:-1,Gh_One-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6123.ts
+#EXTINF:-1,Gbn_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6124.ts
+#EXTINF:-1,Gabon-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6125.ts
+#EXTINF:-1,Fusion_Plus_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6126.ts
+#EXTINF:-1,Fashion-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6127.ts
+#EXTINF:-1,Espace_TV_(Guinee)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6128.ts
+#EXTINF:-1,Eri_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6129.ts
+#EXTINF:-1,Equinoxe-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6130.ts
+#EXTINF:-1,Emmanuel_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6131.ts
+#EXTINF:-1,El_Shaddai_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6132.ts
+#EXTINF:-1,Ebc1_(Ethiopia)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6133.ts
+#EXTINF:-1,Ebc_2-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6134.ts
+#EXTINF:-1,Crtv_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6135.ts
+#EXTINF:-1,Cinestream_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6136.ts
+#EXTINF:-1,Cine_Plus_(Ghana)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6137.ts
+#EXTINF:-1,Cine_Afrik-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6138.ts
+#EXTINF:-1,Cherifla_TV_(Mali)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6139.ts
+#EXTINF:-1,Cbc_TV_8-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6140.ts
+#EXTINF:-1,Canal_3_(Niger)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6141.ts
+#EXTINF:-1,Canal_2_Musique_(Cameroon)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6142.ts
+#EXTINF:-1,Canal_2_Movies_(Cameroon)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6143.ts
+#EXTINF:-1,Ben-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6144.ts
+#EXTINF:-1,BB24-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6145.ts
+#EXTINF:-1,B-One_TV_(Congo)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6146.ts
+#EXTINF:-1,Arewa24-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6147.ts
+#EXTINF:-1,Angham_(Sudan)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6148.ts
+#EXTINF:-1,Al_Khortoum_(Sudan)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6149.ts
+#EXTINF:-1,Afrique_Media_(South_Africa)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6150.ts
+#EXTINF:-1,Africable_TV_(Mali)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6151.ts
+#EXTINF:-1,Africa_TV_4-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6152.ts
+#EXTINF:-1,Africa_TV_3-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6153.ts
+#EXTINF:-1,Africa_TV_2-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6154.ts
+#EXTINF:-1,Adom_TV_(Ghana)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6155.ts
+#EXTINF:-1,Abs_TV_(Uganda)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6156.ts
+#EXTINF:-1,Abn_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6157.ts
+#EXTINF:-1,A_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6158.ts
+#EXTINF:-1,Weo_HD-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6160.ts
+#EXTINF:-1,Tvc_News-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6161.ts
+#EXTINF:-1,Tv_Manaa-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6162.ts
+#EXTINF:-1,Tv_Continental_Nigeria-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6163.ts
+#EXTINF:-1,Rtv_Rwanda-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6164.ts
+#EXTINF:-1,Ptv-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6165.ts
+#EXTINF:-1,Gong-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6166.ts
+#EXTINF:-1,Euronews-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6167.ts
+#EXTINF:-1,Enorme_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6168.ts
+#EXTINF:-1,Cna-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6169.ts
+#EXTINF:-1,Canal_2_Info_(Cameroon)-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6170.ts
+#EXTINF:-1,Assembla_Nationale-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6171.ts
+#EXTINF:-1,Ntai_1-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6172.ts
+#EXTINF:-1,Neema_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6173.ts
+#EXTINF:-1,La_Tele-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6174.ts
+#EXTINF:-1,Kedu_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6175.ts
+#EXTINF:-1,Joy_news-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6176.ts
+#EXTINF:-1,Ghana_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6177.ts
+#EXTINF:-1,D_24-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6178.ts
+#EXTINF:-1,Canal_Info-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6179.ts
+#EXTINF:-1,Ann_7-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6180.ts
+#EXTINF:-1,Africa_Tv4-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6181.ts
+#EXTINF:-1,Africa_Tv3-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6182.ts
+#EXTINF:-1,Africa_Tv2-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6183.ts
+#EXTINF:-1,Universal_Somalia-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6184.ts
+#EXTINF:-1,Sudan_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6185.ts
+#EXTINF:-1,Sudan_Dabanga-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6186.ts
+#EXTINF:-1,Somali_Land_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6187.ts
+#EXTINF:-1,Somali_Cable-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6188.ts
+#EXTINF:-1,Sntv_Somalia-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6189.ts
+#EXTINF:-1,Sbc_Somali_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6190.ts
+#EXTINF:-1,Rti_Coted-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6191.ts
+#EXTINF:-1,Rtd_Djibouti-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6192.ts
+#EXTINF:-1,Royal_TV_Somalia-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6193.ts
+#EXTINF:-1,Nollywood-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6194.ts
+#EXTINF:-1,Love_World_Nigeria-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6195.ts
+#EXTINF:-1,Kalsan_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6196.ts
+#EXTINF:-1,Horn_Cable_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6197.ts
+#EXTINF:-1,Etv_Eritre-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6198.ts
+#EXTINF:-1,Estv_Eritrea-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6199.ts
+#EXTINF:-1,Eritrea_TV-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6200.ts
+#EXTINF:-1,Ebc_TV_Ethiopia-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6201.ts
+#EXTINF:-1,Djibouti-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6202.ts
+#EXTINF:-1,Ait_International-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6203.ts
+#EXTINF:-1,Africa_24-African
+http://sansat.net:25461/live/82002324912369/82002324912369/6204.ts
+
+
+
+
+
+
+
+
+
+
+
+
 
