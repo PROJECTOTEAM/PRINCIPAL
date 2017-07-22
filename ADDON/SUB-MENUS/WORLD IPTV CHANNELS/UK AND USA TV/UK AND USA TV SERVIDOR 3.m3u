@@ -1,71 +1,305 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK:BT Sports 1
-http://185.142.239.164:3135/BT/1/index.m3u8
-#EXTINF:-1,UK:BT Sports 2
-http://185.142.239.164:3135/BT/2/index.m3u8
-#EXTINF:-1,BT Sports 3
-http://185.142.239.164:3135/BT/3/index.m3u8
-#EXTINF:-1,UK:BT Espn
-http://185.142.239.164:3135/BT/Espn/index.m3u8
-#EXTINF:-1,UK:Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports F1
-http://185.142.239.164:3135/F1/Sports/index.m3u8
-#EXTINF:-1,UK:Sky Sports news
-http://185.142.239.164:3135/News.Sports/index.m3u8
-#EXTINF:-1,EURO SPORT 1
-http://185.142.239.164:3135/Euro/1/index.m3u8
-#EXTINF:-1,EURO SPORT 2 HD
-http://185.142.239.164:3135/Euro/2/index.m3u8
-#EXTINF:-1,USA:FOX Sports 1(FS1)
-http://185.142.239.164:3135/1/FOX/index.m3u8
-#EXTINF:-1,USA:FOX Sports 2(FS2)
-http://185.142.239.164:3135/2/FOX/index.m3u8
-#EXTINF:-1,Setanta Sports
-http://185.142.239.164:3135/Setanta/Sports/index.m3u8
-#EXTINF:-1,Premiere Sports
-http://185.142.239.164:3135/Premiere/Sports/index.m3u8
-#EXTINF:-1,Boxing & Wrestling
-http://185.142.239.164:3135/BT/2/index.m3u
-#EXTINF:-1,Ten Sports 1
-http://185.142.239.164:3135/Ten/1/index.m3u8
-#EXTINF:-1,Ten Sports 2
-http://185.142.239.164:3135/Ten/2/index.m3u8
-#EXTINF:-1,Ten Sports 3
-http://185.142.239.164:3135/Ten/3/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2964.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2965.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2966.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2967.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2968.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2969.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/824.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/823.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/822.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/821.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/820.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/819.ts
+#EXTINF:-1,UK: BT Sports Extra 2 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2826.ts
+#EXTINF:-1,UK: SKY BT Sports 1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1488.ts
+#EXTINF:-1,UK:  SKY BT Sports 2 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1487.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/818.ts
+#EXTINF:-1,UK: Sky News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4219.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2160.ts
+#EXTINF:-1,UK: BTSport Europe HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2737.ts
+#EXTINF:-1,UK: BTSportMosaic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2744.ts
+#EXTINF:-1,UK: BTSportExtra1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2745.ts
+#EXTINF:-1,UK: Eurosport2.HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3318.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1872.ts
+#EXTINF:-1,UK: Premier Sports
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2828.ts
+#EXTINF:-1,UK: ESPN HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1871.ts
+#EXTINF:-1,UK: RACING HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2162.ts
+#EXTINF:-1,UK:Sky Movies Premiere HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1317.ts
+#EXTINF:-1,UK: Nicktoons
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1943.ts
+#EXTINF:-1,UK:Sky Movies Comedy
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/925.ts
+#EXTINF:-1,UK:BBC3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1190.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2385.ts
+#EXTINF:-1,UK:BBC  News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1191.ts
+#EXTINF:-1,UK:BBC 4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1192.ts
+#EXTINF:-1,UK:BBC 2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1193.ts
+#EXTINF:-1,UK:BBC 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1194.ts
+#EXTINF:-1,UK:-|  TV3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2154.ts
+#EXTINF:-1,UK: YESTERDAY
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2152.ts
+#EXTINF:-1,UK: VH1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2153.ts
+#EXTINF:-1,UK: CBS REALITY
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3082.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3081.ts
+#EXTINF:-1,UK: Mototrs TV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2155.ts
+#EXTINF:-1,UK: TLC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2156.ts
+#EXTINF:-1,UK: Watch
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3087.ts
+#EXTINF:-1,UK: Quest
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3089.ts
+#EXTINF:-1,UK: mov4men1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3096.ts
+#EXTINF:-1,UK: BABY TV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4986.ts
+#EXTINF:-1,UK: AMC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4985.ts
+#EXTINF:-1,UK: Home
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3090.ts
+#EXTINF:-1,UK: Gold
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3091.ts
+#EXTINF:-1,UK: Food
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3093.ts
+#EXTINF:-1,UK: Film 4 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3095.ts
+#EXTINF:-1,UK: Drama
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3092.ts
+#EXTINF:-1,UK: Dave HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3088.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3085.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3084.ts
+#EXTINF:-1,UK: At The Races
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3097.ts
+#EXTINF:-1,UK: Alibi
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3094.ts
+#EXTINF:-1,UK: 5 Usa
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3086.ts
+#EXTINF:-1,UK: 3E
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3083.ts
+#EXTINF:-1,UK: TCM 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2158.ts
+#EXTINF:-1,UK: Sky Syfy
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2159.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/825.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/826.ts
+#EXTINF:-1,UK: Sky Movies Scifi / Horror
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1442.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1440.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1439.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/830.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/831.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1435.ts
+#EXTINF:-1,UK: TG4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2739.ts
+#EXTINF:-1,UK: Sony TV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2747.ts
+#EXTINF:-1,UK: Sky Thriller
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2750.ts
+#EXTINF:-1,UK:  Sky Movies Showcase
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2752.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2753.ts
+#EXTINF:-1,UK: SkyScFi/Horror
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2754.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2755.ts
+#EXTINF:-1,UK: SetantaIreland
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2743.ts
+#EXTINF:-1,UK: RTEjr
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2740.ts
+#EXTINF:-1,UK: RTE2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2741.ts
+#EXTINF:-1,UK: RTE1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2742.ts
+#EXTINF:-1,UK: BTSport//ESPN
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2746.ts
+#EXTINF:-1,UK: Sky Arts 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1434.ts
+#EXTINF:-1,UK: National Geographic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1448.ts
+#EXTINF:-1,UK: Nat Geografic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1940.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1941.ts
+#EXTINF:-1,UK: MORE4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2161.ts
+#EXTINF:-1,UK: ITVBE
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2163.ts
+#EXTINF:-1,UK: ITV4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2164.ts
+#EXTINF:-1,UK: ITV3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2165.ts
+#EXTINF:-1,UK: ITV2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2166.ts
+#EXTINF:-1,UK: ITV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2167.ts
+#EXTINF:-1,UK: FOX
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2169.ts
+#EXTINF:-1,UK: MTV Classic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2955.ts
+#EXTINF:-1,UK:  Crime Investigation
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8044.ts
+#EXTINF:-1,UK:  Dave
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8045.ts
+#EXTINF:-1,UK: 4 music
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8051.ts
+#EXTINF:-1,UK: MTV Base
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2956.ts
+#EXTINF:-1,UK: MTV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2957.ts
+#EXTINF:-1,UK: SKY LIVING
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2958.ts
+#EXTINF:-1,UK: Film 4 UK
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/834.ts
+#EXTINF:-1,UK: FILM 4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2170.ts
+#EXTINF:-1,UK: F1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2171.ts
+#EXTINF:-1,UK: E4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2172.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8027.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8026.ts
+#EXTINF:-1,UK: Sky Sports MIX
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/8025.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5655.ts
+#EXTINF:-1,UK: MUTV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5654.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1936.ts
+#EXTINF:-1,UK: Discovery Science
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1937.ts
+#EXTINF:-1,UK: Discovery Investigation
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1938.ts
+#EXTINF:-1,UK: Discovery History
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1939.ts
+#EXTINF:-1,SPORTS | CTH Stadium 6
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1690.ts
+#EXTINF:-1,UK: Discovery Channel
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1935.ts
+#EXTINF:-1,UK: Animal Planet
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1942.ts
+#EXTINF:-1,UK:  DISNEY XD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2173.ts
+#EXTINF:-1,❤❤❤❤❤ USA CH ❤❤❤❤❤
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2293.ts
+#EXTINF:-1,USA: BET
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3763.ts
+#EXTINF:-1,US: FOX
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3379.ts
+#EXTINF:-1,US: Fight Network
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3219.ts
+#EXTINF:-1,US CBS Sports Network HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3221.ts
+#EXTINF:-1,US Fox Sports 506 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3230.ts
+#EXTINF:-1,US NFL Channel HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3220.ts
+#EXTINF:-1,US BYU Sports TV HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3231.ts
+#EXTINF:-1,USA:E! HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2914.ts
+#EXTINF:-1,US: WWE Network
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2211.ts
+#EXTINF:-1,US: TSN 4
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2206.ts
+#EXTINF:-1,US: TSN 2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2205.ts
+#EXTINF:-1,US: TSN 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2204.ts
+#EXTINF:-1,US: BRAVO
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2210.ts
+#EXTINF:-1,US: HBO ZONE
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2209.ts
+#EXTINF:-1,US: Fox Sports  2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2213.ts
+#EXTINF:-1,US: Fox Sports  1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2212.ts
+#EXTINF:-1,US: Fox Sports 2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2208.ts
+#EXTINF:-1,US: Fox Sports 1
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2207.ts
+#EXTINF:-1,US: CNBC
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2203.ts
+#EXTINF:-1,US: FOX Deportes HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2217.ts
+#EXTINF:-1,US: TSN 5
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2322.ts
+#EXTINF:-1,US: TSN 3
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2321.ts
+#EXTINF:-1,US: ESPN
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2323.ts
+#EXTINF:-1,US: BEIN SPORT
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2320.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2331.ts
+#EXTINF:-1,US: NBC Golf HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2216.ts
+#EXTINF:-1,US: Comedy C HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2215.ts
+#EXTINF:-1,US: Poker Central
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2214.ts
+#EXTINF:-1,US: ABC News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2202.ts
+#EXTINF:-1,VIASAT Sports
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1972.ts
 
 
 

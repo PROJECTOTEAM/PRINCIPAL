@@ -1,84 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,IN: 9X Jhakaas
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8629.ts
-#EXTINF:-1,IN: 9XM Jalwa
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8607.ts
-#EXTINF:-1,IN: 9xTashan
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8628.ts
-#EXTINF:-1,IN: Aajtak News
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8632.ts
-#EXTINF:-1,IN: ABP News
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8631.ts
-#EXTINF:-1,IN: And TV ME
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8603.ts
-#EXTINF:-1,IN: Bindass Play
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8612.ts
-#EXTINF:-1,IN: Colors ME
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8605.ts
-#EXTINF:-1,IN: Discovery
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8630.ts
-#EXTINF:-1,IN: LifeOK
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8604.ts
-#EXTINF:-1,IN: PTC Chakde Punjabi
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8627.ts
-#EXTINF:-1,IN: Sab TV AU
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8602.ts
-#EXTINF:-1,IN: Sony Entertainment (SET)
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7554.ts
-#EXTINF:-1,IN: Sony HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8600.ts
-#EXTINF:-1,IN: SONY MAX
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7556.ts
-#EXTINF:-1,IN: SONY MAX 2
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7557.ts
-#EXTINF:-1,IN: SONY SAB
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7555.ts
-#EXTINF:-1,IN: Star Gold
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8615.ts
-#EXTINF:-1,IN: STAR PLUS HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7553.ts
-#EXTINF:-1,IN: STAR SPORTS 1HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8669.ts
-#EXTINF:-1,IN: STAR SPORTS 2HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8670.ts
-#EXTINF:-1,IN: STAR SPORTS 3HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8671.ts
-#EXTINF:-1,IN: STAR SPORTS 4HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8672.ts
-#EXTINF:-1,IN: Star Cricket
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12373.ts
-#EXTINF:-1,IN: Ten Cricket
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/12372.ts
-#EXTINF:-1,IN: TEN ACTION
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8675.ts
-#EXTINF:-1,IN: TEN Golf HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8677.ts
-#EXTINF:-1,IN: TEN HD
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8673.ts
-#EXTINF:-1,IN: TEN SPORTS
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8674.ts
-#EXTINF:-1,IN: UTV Bindas
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8625.ts
+#EXTINF:-1,IN:ZEE TV HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/939.ts
+#EXTINF:-1,IN:Zee Classic
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2261.ts
+#EXTINF:-1,IN:Zee Action
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2262.ts
+#EXTINF:-1,IN:Willo HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/935.ts
+#EXTINF:-1,IN: Sony Max 2
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4247.ts
+#EXTINF:-1,IN: Sony ESPN
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4246.ts
+#EXTINF:-1,IN:Star sports 2 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1176.ts
+#EXTINF:-1,IN: JAYA
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2388.ts
+#EXTINF:-1,IN: ZEE CINEMA
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1261.ts
+#EXTINF:-1,IN: Zee Anmol
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1845.ts
 #EXTINF:-1,IN: UTV Movies
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8622.ts
-#EXTINF:-1,IN: Willow Cricket
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8676.ts
-#EXTINF:-1,IN: Zee Action
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8620.ts
-#EXTINF:-1,IN: Zee Cinema
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8617.ts
-#EXTINF:-1,IN: Zee Classic
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8621.ts
-#EXTINF:-1,IN: Zee Smile
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8616.ts
-#EXTINF:-1,IN: ZeeTV india
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/7552.ts
-#EXTINF:-1,IN: Zing TV
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8614.ts
-#EXTINF:-1,IN: Zoom
-http://145.239.108.17:6500/live/joseph354/tgb25Qkd/8613.ts
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1425.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2283.ts
+#EXTINF:-1,IN: TEN CRICKET
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1427.ts
+#EXTINF:-1,IN: STAR SPORTS 3 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1841.ts
+#EXTINF:-1,IN: Star Sports 1 HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1292.ts
+#EXTINF:-1,IN: Star Plus HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1128.ts
+#EXTINF:-1,IN: STAR JALSHA
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2146.ts
+#EXTINF:-1,IN: STAR GOLD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1843.ts
+#EXTINF:-1,IN: Sony Sab
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2191.ts
+#EXTINF:-1,IN: Set Max
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/934.ts
+#EXTINF:-1,IN: Rishtey TV
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2193.ts
+#EXTINF:-1,IN: LIFE OK
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1842.ts
+#EXTINF:-1,IN: Abp News
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2192.ts
+#EXTINF:-1,IN: &TV HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/929.ts
+#EXTINF:-1,HINDI SONY SIX
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4493.ts
+#EXTINF:-1,IN: &Picture HD
+http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2260.ts
