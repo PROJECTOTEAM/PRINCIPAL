@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 25-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -9,908 +9,328 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,FR: TF1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1322.ts
+#EXTINF:-1,FR: FRANCE 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1298.ts
+#EXTINF:-1,FR: France 3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1308.ts
+#EXTINF:-1,FR: FRANCE 4
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1309.ts
+#EXTINF:-1,FR: FRANCE 5
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1310.ts
+#EXTINF:-1,FR: France O HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1343.ts
+#EXTINF:-1,FR: TV5 MONDE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1438.ts
+#EXTINF:-1,FR: M6 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1311.ts
+#EXTINF:-1,FR: W9
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/59.ts
+#EXTINF:-1,FR: ARTE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1314.ts
+#EXTINF:-1,FR: TEVA
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1378.ts
+#EXTINF:-1,FR: 6TER
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1323.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1511.ts
+#EXTINF:-1,FR: COMEDIE+ HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1376.ts
+#EXTINF:-1,FR: TMC
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1339.ts
+#EXTINF:-1,FR: TV5 Monde Info
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1617.ts
+#EXTINF:-1,FR: RTL9
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1300.ts
+#EXTINF:-1,FR: HD1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1369.ts
+#EXTINF:-1,FR: NT1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1341.ts
+#EXTINF:-1,FR: C8
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1337.ts
+#EXTINF:-1,FR: CHERIE 25
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1296.ts
+#EXTINF:-1,FR: NRJ12
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1370.ts
+#EXTINF:-1,FR: Ab1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1393.ts
+#EXTINF:-1,FR: AB3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1429.ts
+#EXTINF:-1,FR: AB moteur
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1430.ts
+#EXTINF:-1,FR: E!
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1512.ts
+#EXTINF:-1,FR: WEO
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1389.ts
+#EXTINF:-1,FR: RTS 1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1504.ts
+#EXTINF:-1,FR: RTS 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1505.ts
+#EXTINF:-1,FR: CSTAR
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1328.ts
 
-#EXTINF:-1,FR | 13eme Rue
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3720.ts
-#EXTINF:-1,FR | 6TER
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3721.ts
-#EXTINF:-1,FR | AB Moteurs
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3724.ts
-#EXTINF:-1,FR | AB1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3722.ts
-#EXTINF:-1,FR | AB3
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3723.ts
-#EXTINF:-1,FR | Action
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3830.ts
-#EXTINF:-1,FR | Animaux
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3725.ts
-#EXTINF:-1,FR | Arte
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3726.ts
-#EXTINF:-1,FR | Bein Sport 1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3727.ts
-#EXTINF:-1,FR | Bein Sport 2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3728.ts
-#EXTINF:-1,FR | BFMTV
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3729.ts
-#EXTINF:-1,FR | Boing
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3730.ts
-#EXTINF:-1,FR | Boomerang
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3828.ts
-#EXTINF:-1,FR | C8
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3731.ts
-#EXTINF:-1,FR | Canal J
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3732.ts
-#EXTINF:-1,FR | CanalPlus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3733.ts
-#EXTINF:-1,FR | CanalPlus Cinema
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3734.ts
-#EXTINF:-1,FR | CanalPlus Decale
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3735.ts
-#EXTINF:-1,FR | CanalPlus Famiz
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3736.ts
-#EXTINF:-1,FR | CanalPlus Series
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3737.ts
-#EXTINF:-1,FR | CanalPlus Sport
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3738.ts
-#EXTINF:-1,FR | Cartoon Network
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3739.ts
-#EXTINF:-1,FR | Chasse e Peche
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3740.ts
-#EXTINF:-1,FR | Cherie 25
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3741.ts
-#EXTINF:-1,FR | Cine FX
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3742.ts
-#EXTINF:-1,FR | CinePlus Classic
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3743.ts
-#EXTINF:-1,FR | CinePlus Emotion
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3744.ts
-#EXTINF:-1,FR | CinePlus Frisson
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3745.ts
-#EXTINF:-1,FR | CinePlus Premier
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3746.ts
-#EXTINF:-1,FR | ComediePlus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3747.ts
-#EXTINF:-1,FR | CStar
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3748.ts
-#EXTINF:-1,FR | D17
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3749.ts
-#EXTINF:-1,FR | D8
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3750.ts
-#EXTINF:-1,FR | Discovery
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3751.ts
-#EXTINF:-1,FR | Discovery Science
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3752.ts
-#EXTINF:-1,FR | Disney Channel
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3753.ts
-#EXTINF:-1,FR | Disney Cine Magic
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3754.ts
-#EXTINF:-1,FR | Disney Cinema
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3827.ts
-#EXTINF:-1,FR | Disney Junior
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3755.ts
-#EXTINF:-1,FR | E! Entertainment
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3756.ts
-#EXTINF:-1,FR | Enorme
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3757.ts
-#EXTINF:-1,FR | Equidia Life
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3758.ts
-#EXTINF:-1,FR | Equidia Live
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3759.ts
-#EXTINF:-1,FR | Equipe 21
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3760.ts
-#EXTINF:-1,FR | Euronews
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3761.ts
-#EXTINF:-1,FR | Eurosport 1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3762.ts
-#EXTINF:-1,FR | Eurosport 2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3763.ts
-#EXTINF:-1,FR | Foot Plus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3764.ts
-#EXTINF:-1,FR | France 2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3765.ts
-#EXTINF:-1,FR | France 24
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3768.ts
-#EXTINF:-1,FR | France 3
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3766.ts
-#EXTINF:-1,FR | France 4
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3767.ts
-#EXTINF:-1,FR | France O
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3769.ts
-#EXTINF:-1,FR | Game One
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3770.ts
-#EXTINF:-1,FR | Gulli
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3771.ts
-#EXTINF:-1,FR | HD1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3772.ts
-#EXTINF:-1,FR | InfosportPlus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3774.ts
-#EXTINF:-1,FR | iTele
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3773.ts
-#EXTINF:-1,FR | KTO
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3775.ts
-#EXTINF:-1,FR | La Une
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3776.ts
-#EXTINF:-1,FR | LCi
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3777.ts
-#EXTINF:-1,FR | LCP
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3778.ts
-#EXTINF:-1,FR | M6
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3780.ts
-#EXTINF:-1,FR | M6 Music
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3779.ts
-#EXTINF:-1,FR | Mangas
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3781.ts
-#EXTINF:-1,FR | Movies 1 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3782.ts
-#EXTINF:-1,FR | Movies 2 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3783.ts
-#EXTINF:-1,FR | Movies 3 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3784.ts
-#EXTINF:-1,FR | Movies 4 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3785.ts
-#EXTINF:-1,FR | Movies 5 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3786.ts
-#EXTINF:-1,FR | Movies 6 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3787.ts
-#EXTINF:-1,FR | Movies 7 FR
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3788.ts
-#EXTINF:-1,FR | Nat Geo Wild
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3789.ts
-#EXTINF:-1,FR | National Geographic
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3790.ts
-#EXTINF:-1,FR | Nickelodeon
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3791.ts
-#EXTINF:-1,FR | Nickelodeon Junior
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3792.ts
-#EXTINF:-1,FR | NRJ 12
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3793.ts
-#EXTINF:-1,FR | NT1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3794.ts
-#EXTINF:-1,FR | Numero 23
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3795.ts
-#EXTINF:-1,FR | OCS City
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3796.ts
-#EXTINF:-1,FR | OCS Geants
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3797.ts
-#EXTINF:-1,FR | OCS Max
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3798.ts
-#EXTINF:-1,FR | OM5
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3799.ts
-#EXTINF:-1,FR | Paramount Channel
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3826.ts
-#EXTINF:-1,FR | Paris Premiere
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3800.ts
-#EXTINF:-1,FR | Piwi
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3829.ts
-#EXTINF:-1,FR | PlanetePlus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3801.ts
-#EXTINF:-1,FR | PlanetePlus A&E
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3802.ts
-#EXTINF:-1,FR | PlanetePlus CI
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3803.ts
-#EXTINF:-1,FR | RMC Decouverte
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3804.ts
-#EXTINF:-1,FR | RTL 9
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3805.ts
-#EXTINF:-1,FR | RTS Deux
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3806.ts
-#EXTINF:-1,FR | RTS Un
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3807.ts
-#EXTINF:-1,FR | Science et Vie TV
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3809.ts
-#EXTINF:-1,FR | Seasons
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3808.ts
-#EXTINF:-1,FR | Syfy
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3810.ts
-#EXTINF:-1,FR | TCM
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3811.ts
-#EXTINF:-1,FR | TeleToonPlus
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3812.ts
-#EXTINF:-1,FR | TEVA
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3813.ts
-#EXTINF:-1,FR | TF1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3814.ts
-#EXTINF:-1,FR | Tiji
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3815.ts
-#EXTINF:-1,FR | TMC
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3817.ts
-#EXTINF:-1,FR | Toute L Historie
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3825.ts
-#EXTINF:-1,FR | Trek
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3816.ts
-#EXTINF:-1,FR | TV Breizh
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3824.ts
-#EXTINF:-1,FR | TV5 Monde
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3818.ts
-#EXTINF:-1,FR | Ushuaia TV
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3819.ts
-#EXTINF:-1,FR | VH1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3820.ts
-#EXTINF:-1,FR | Voyage TV
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3821.ts
-#EXTINF:-1,FR | W9
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3822.ts
-#EXTINF:-1,FR | Weo
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3823.ts
-#EXTINF:-1,FR | Zouzous
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/3831.ts
-#EXTINF:-1,FR(2):  Cine horreur HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5415.ts
-#EXTINF:-1,FR(2): 13eme Rue HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5393.ts
-#EXTINF:-1,FR(2): A LA CARTE 1 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5468.ts
-#EXTINF:-1,FR(2): A LA CARTE 11 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5477.ts
-#EXTINF:-1,FR(2): A LA CARTE 12 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5478.ts
-#EXTINF:-1,FR(2): A LA CARTE 13 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5479.ts
-#EXTINF:-1,FR(2): A LA CARTE 14 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5480.ts
-#EXTINF:-1,FR(2): A LA CARTE 15 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5481.ts
-#EXTINF:-1,FR(2): A LA CARTE 16 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5482.ts
-#EXTINF:-1,FR(2): A LA CARTE 17 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5483.ts
-#EXTINF:-1,FR(2): A LA CARTE 18 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5484.ts
-#EXTINF:-1,FR(2): A LA CARTE 19 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5485.ts
-#EXTINF:-1,FR(2): A LA CARTE 2 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5469.ts
-#EXTINF:-1,FR(2): A LA CARTE 3 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5470.ts
-#EXTINF:-1,FR(2): A LA CARTE 4 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5471.ts
-#EXTINF:-1,FR(2): A LA CARTE 5 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5472.ts
-#EXTINF:-1,FR(2): A LA CARTE 6 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5473.ts
-#EXTINF:-1,FR(2): A LA CARTE 7 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5474.ts
-#EXTINF:-1,FR(2): A LA CARTE 8 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5475.ts
-#EXTINF:-1,FR(2): A LA CARTE 9 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5476.ts
-#EXTINF:-1,FR(2): AB1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5382.ts
-#EXTINF:-1,FR(2): Action
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5395.ts
-#EXTINF:-1,FR(2): Animaux
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5491.ts
-#EXTINF:-1,FR(2): Arte
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5490.ts
-#EXTINF:-1,FR(2): beiN Sport 1 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5373.ts
-#EXTINF:-1,FR(2): beiN Sport 2 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5374.ts
-#EXTINF:-1,FR(2): beiN Sport 3 HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5375.ts
-#EXTINF:-1,FR(2): Boing HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5436.ts
-#EXTINF:-1,FR(2): Boomerang HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5435.ts
-#EXTINF:-1,FR(2): BoxOffice 1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5449.ts
-#EXTINF:-1,FR(2): BoxOffice 2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5450.ts
-#EXTINF:-1,FR(2): BoxOffice 3
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5451.ts
-#EXTINF:-1,FR(2): Canal  Cinema HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5399.ts
-#EXTINF:-1,FR(2): Canal  Decale HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5401.ts
-#EXTINF:-1,FR(2): CANAL  FAMILY HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5400.ts
-#EXTINF:-1,FR(2): Canal  HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5396.ts
-#EXTINF:-1,FR(2): Canal  Series HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5402.ts
-#EXTINF:-1,FR(2): Canal  Sport
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5372.ts
-#EXTINF:-1,FR(2): Canal J
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5425.ts
-#EXTINF:-1,FR(2): CANAL PLAY 1
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5452.ts
-#EXTINF:-1,FR(2): CANAL PLAY 10
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5462.ts
-#EXTINF:-1,FR(2): CANAL PLAY 11
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5463.ts
-#EXTINF:-1,FR(2): CANAL PLAY 12
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5464.ts
-#EXTINF:-1,FR(2): CANAL PLAY 13
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5465.ts
-#EXTINF:-1,FR(2): CANAL PLAY 14
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5466.ts
-#EXTINF:-1,FR(2): CANAL PLAY 15
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5467.ts
-#EXTINF:-1,FR(2): CANAL PLAY 2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5454.ts
-#EXTINF:-1,FR(2): CANAL PLAY 3
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5455.ts
-#EXTINF:-1,FR(2): CANAL PLAY 4
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5456.ts
-#EXTINF:-1,FR(2): CANAL PLAY 5
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5457.ts
-#EXTINF:-1,FR(2): CANAL PLAY 6
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5458.ts
-#EXTINF:-1,FR(2): CANAL PLAY 7
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5459.ts
-#EXTINF:-1,FR(2): CANAL PLAY 8
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5460.ts
-#EXTINF:-1,FR(2): CANAL PLAY 9
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5461.ts
-#EXTINF:-1,FR(2): Canal Plus Sport HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5501.ts
-#EXTINF:-1,FR(2): Canal Series HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5398.ts
-#EXTINF:-1,FR(2): CANALPLAY-2
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5453.ts
-#EXTINF:-1,FR(2): Cartoon Network HD
-http://vip.groupiptv.com:7000/live/nicolasa/nicolasa/5434.ts
+#EXTINF:-1,FR:  SFR SPORT 1 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1576.ts
+#EXTINF:-1,FR: SFR SPORT 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1545.ts
+#EXTINF:-1,FR: SFR SPORT 3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1548.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/97.ts
+#EXTINF:-1,FR: Bein Sports 1 HD #
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2220.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1346.ts
+#EXTINF:-1,FR: Bein Sports 2 HD #
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2262.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/95.ts
+#EXTINF:-1,FR: Bein Sports 3 HD #
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2263.ts
+#EXTINF:-1,FR: TREK
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2604.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1320.ts
+#EXTINF:-1,FR: EUROSPORT 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1524.ts
+#EXTINF:-1,FR: EQUIPE 21
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1515.ts
+#EXTINF:-1,FR: INFOSPORT+
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1379.ts
+#EXTINF:-1,FR: Foot 24
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/351.ts
+#EXTINF:-1,FR: CANAL+SPORT
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1315.ts
+#EXTINF:-1,FR: Equida Live
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2194.ts
+#EXTINF:-1,FR: BFM SPORT
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2294.ts
 
+#EXTINF:-1,FR: PLANETE CI HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1434.ts
+#EXTINF:-1,FR:Planete+ A&E
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1411.ts
+#EXTINF:-1,FR: Discovery Science
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1413.ts
+#EXTINF:-1,FR: VOYAGE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1390.ts
+#EXTINF:-1,FR: toute l'histoire
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1391.ts
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1377.ts
+#EXTINF:-1,FR: NAT GEO WILD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1349.ts
+#EXTINF:-1,FR:  Seasons
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1616.ts
+#EXTINF:-1,FR: USHUAIA TV
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1342.ts
+#EXTINF:-1,FR: SCIENCES & VIE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1312.ts
+#EXTINF:-1,FR: DISCOVERY
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1302.ts
+#EXTINF:-1,FR: RMC Decouverte
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1299.ts
+#EXTINF:-1,FR: PLANETE+
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/65.ts
+#EXTINF:-1,FR: Nat Geo HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/71.ts
+#EXTINF:-1,FR: Animaux HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/98.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,FR: ZOUZOU TV HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2891.ts
+#EXTINF:-1,FR: Tiji
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1439.ts
+#EXTINF:-1,FR:J-One HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2225.ts
+#EXTINF:-1,FR: MANGAS
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1431.ts
+#EXTINF:-1,FR: GAME ONE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1536.ts
+#EXTINF:-1,FR: DISNEY XD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2607.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1348.ts
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1428.ts
+#EXTINF:-1,FR: DISNEY CINEMA
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1943.ts
+#EXTINF:-1,FR: Nickelodeon Junior
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1942.ts
+#EXTINF:-1,FR:VIRGIN HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1518.ts
+#EXTINF:-1,FR: teletoon +
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1392.ts
+#EXTINF:-1,FR: canal J
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1394.ts
+#EXTINF:-1,FR: PIWI+
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1374.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1367.ts
+#EXTINF:-1,FR: BOOMERANG
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1368.ts
+#EXTINF:-1,FR: GULLI
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1301.ts
+#EXTINF:-1,FR: Nickelodeon HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1513.ts
 
 #EXTINF:-1,FR: A LA CARTE 1
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9455.ts
-#EXTINF:-1,FR: A la Carte 10
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9464.ts
-#EXTINF:-1,FR: A la Carte 2
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9456.ts
-#EXTINF:-1,FR: A la Carte 3
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9457.ts
-#EXTINF:-1,FR: A la Carte 4
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9458.ts
-#EXTINF:-1,FR: A la Carte 5
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9459.ts
-#EXTINF:-1,FR: A la Carte 6
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9460.ts
-#EXTINF:-1,FR: A la Carte 7
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9461.ts
-#EXTINF:-1,FR: A la Carte 9
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9463.ts
-#EXTINF:-1,FR: AB1_HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8658.ts
-#EXTINF:-1,FR: Action
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8667.ts
-#EXTINF:-1,FR: Animaux
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9420.ts
-#EXTINF:-1,FR: Arte
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8593.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 4
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8321.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 5
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8320.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 6
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8319.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 7
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8318.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 8
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8317.ts
-#EXTINF:-1,FR: BFM TV HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9438.ts
-#EXTINF:-1,FR: BOOMERANG
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9437.ts
-#EXTINF:-1,FR: Canal   Cinema
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9419.ts
-#EXTINF:-1,FR: Canal   Family
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9418.ts
-#EXTINF:-1,FR: CANAL  Décalé
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9454.ts
-#EXTINF:-1,FR: Canal  Family
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9445.ts
-#EXTINF:-1,FR: Canal +
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9444.ts
-#EXTINF:-1,FR: Canal Series
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9417.ts
-#EXTINF:-1,FR: Canal+  Sport
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9416.ts
-#EXTINF:-1,FR: Cartoon Network
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9415.ts
-#EXTINF:-1,FR: CHASSE & PECHE
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9452.ts
-#EXTINF:-1,FR: Cherie 25
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9421.ts
-#EXTINF:-1,FR: CINE   Famiz
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9448.ts
-#EXTINF:-1,FR: Cine  Classic
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9414.ts
-#EXTINF:-1,FR: CINE  Emotion
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9449.ts
-#EXTINF:-1,FR: CINE  FRISSON
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9446.ts
-#EXTINF:-1,FR: Cine  Premier
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9413.ts
-#EXTINF:-1,FR: Cine Fx
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9412.ts
-#EXTINF:-1,FR: Cine POLAR
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8665.ts
-#EXTINF:-1,FR: COMEDIE
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9447.ts
-#EXTINF:-1,FR: COMEDIE+ HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8662.ts
-#EXTINF:-1,FR: Discovery
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9411.ts
-#EXTINF:-1,FR: Discovery science
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9410.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9435.ts
-#EXTINF:-1,FR: DISNEY CHANNEL  FHD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9436.ts
-#EXTINF:-1,FR: Disney Cinema
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9430.ts
-#EXTINF:-1,FR: Disney junior
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9409.ts
-#EXTINF:-1,FR: E! Entertainment
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9453.ts
-#EXTINF:-1,FR: Equida Live
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13703.ts
-#EXTINF:-1,FR: Euronews
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9408.ts
-#EXTINF:-1,FR: Eurosport
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9407.ts
-#EXTINF:-1,FR: EUROSPORT 1
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/14080.ts
-#EXTINF:-1,FR: Eurosport 2 FHD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9406.ts
-#EXTINF:-1,FR: Foot+24
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9405.ts
-#EXTINF:-1,FR: France 2
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8261.ts
-#EXTINF:-1,FR: France 3
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8260.ts
-#EXTINF:-1,FR: France 4 HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8590.ts
-#EXTINF:-1,FR: France 5
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8591.ts
-#EXTINF:-1,FR: France O
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8592.ts
-#EXTINF:-1,FR: GULLI
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9433.ts
-#EXTINF:-1,FR: HD1 HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8648.ts
-#EXTINF:-1,FR: Histoire
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9426.ts
-#EXTINF:-1,FR: I-Tele HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13078.ts
-#EXTINF:-1,FR: Infosport
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9404.ts
-#EXTINF:-1,FR: L'EQUIPE 21 HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9465.ts
-#EXTINF:-1,FR: LCI
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9439.ts
-#EXTINF:-1,FR: M6
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/2920.ts
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1329.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1330.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1338.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1332.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1432.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1451.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1452.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1453.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1520.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1519.ts
+#EXTINF:-1,FR: CANALPLAY 1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2019.ts
+#EXTINF:-1,FR: CANALPLAY 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2020.ts
+#EXTINF:-1,FR: CANALPLAY 3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2021.ts
+#EXTINF:-1,FR: CANALPLAY 4
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2022.ts
+#EXTINF:-1,FR: CANALPLAY 5
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2023.ts
+#EXTINF:-1,FR: CANALPLAY 6
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2024.ts
+#EXTINF:-1,FR: CANALPLAY 7
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2025.ts
+#EXTINF:-1,FR: CANALPLAY 8
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2026.ts
+#EXTINF:-1,FR: CANALPLAY 9
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2027.ts
+#EXTINF:-1,FR: CANALPLAY 10
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2028.ts
+#EXTINF:-1,FR: CANALPLAY 11
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2029.ts
+#EXTINF:-1,FR: Cine FX
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1398.ts
+#EXTINF:-1,FR: CINE POLAR
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1318.ts
+#EXTINF:-1,FR: CINE CLUB
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1534.ts
+#EXTINF:-1,FR: Cine Premier
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/86.ts
+#EXTINF:-1,FR: Cine Frisson
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/87.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1344.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1304.ts
+#EXTINF:-1,FR: CINE CLASSIC
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1436.ts
+#EXTINF:-1,FR: OCS MAX
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1412.ts
+#EXTINF:-1,FR: OCS Geant
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1414.ts
+#EXTINF:-1,FR: OCS CITY HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1517.ts
+#EXTINF:-1,FR: OCS Choc
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/68.ts
+#EXTINF:-1,FR: CANAL+..
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/3183.ts
+#EXTINF:-1,FR: CANAL+
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1305.ts
+#EXTINF:-1,FR: CANAL+SERIES
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1317.ts
+#EXTINF:-1,FR: CANAL+ FAMILY
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1313.ts
+#EXTINF:-1,FR: TCM CINEMA
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1618.ts
+#EXTINF:-1,FR: Canal+ Cinema
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/93.ts
+#EXTINF:-1,FR: CANAL+DECALE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1316.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1375.ts
+#EXTINF:-1,FR: PARIS PREMIERE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1372.ts
+#EXTINF:-1,FR: SERIE CLUB HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1340.ts
+#EXTINF:-1,FR: ACTION
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1306.ts
+#EXTINF:-1,FR: SYFY
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1321.ts
+#EXTINF:-1,FR: 13 Eme Rue
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/106.ts
+#EXTINF:-1,FR: TV BREIZH
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1522.ts
+
+#EXTINF:-1,FR: MTV MUSIC
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1531.ts
+#EXTINF:-1,FR: MTV BASE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1530.ts
+#EXTINF:-1,FR: MTV HITS
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1529.ts
+#EXTINF:-1,FR: MTV FRANCE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1507.ts
+#EXTINF:-1,FR : MCM POP HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1506.ts
 #EXTINF:-1,FR: M6 Music
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9429.ts
-#EXTINF:-1,FR: MANGA
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9434.ts
-#EXTINF:-1,FR: Mangas
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9401.ts
-#EXTINF:-1,FR: National geo wild
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9400.ts
-#EXTINF:-1,FR: National geographic
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9399.ts
-#EXTINF:-1,FR: NRJ 12
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9422.ts
-#EXTINF:-1,FR: NT1
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13076.ts
-#EXTINF:-1,FR: Ocs Choc HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9398.ts
-#EXTINF:-1,FR: OCS City HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9450.ts
-#EXTINF:-1,FR: OCS Géants HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9451.ts
-#EXTINF:-1,FR: Ocs max
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9397.ts
-#EXTINF:-1,FR: PARAMOUNT
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8664.ts
-#EXTINF:-1,FR: Paris Premiere
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8653.ts
-#EXTINF:-1,FR: PIWI+
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9432.ts
-#EXTINF:-1,FR: Planete+ CI
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9395.ts
-#EXTINF:-1,FR: RMC DECOUVERTE
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/9440.ts
-#EXTINF:-1,FR: RTS DEUX
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/13074.ts
-#EXTINF:-1,FR : 13eme Rue
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8652.ts
-#EXTINF:-1,FR : 6TER
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8649.ts
-#EXTINF:-1,FR : AB3
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8659.ts
-#EXTINF:-1,FR : CHERIE 25 HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8656.ts
-#EXTINF:-1,FR : Cine Premiere
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8668.ts
-#EXTINF:-1,FR : D17
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8661.ts
-#EXTINF:-1,FR : D8
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8660.ts
-#EXTINF:-1,FR : NRJ12
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8651.ts
-#EXTINF:-1,FR : NT1
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8650.ts
-#EXTINF:-1,FR : RTL9
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8647.ts
-#EXTINF:-1,FR : Serie Club
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8655.ts
-#EXTINF:-1,FR : Syfy
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8646.ts
-#EXTINF:-1,FR : TF1 HD
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8644.ts
-#EXTINF:-1,FR : Tmc
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8666.ts
-#EXTINF:-1,FR : W9
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8645.ts
-#EXTINF:-1,FR:  Enorme TV
-http://145.239.108.17:6500/live/mO4pggAYWd/xKXg4QSscX/8657.ts
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1461.ts
 
+#EXTINF:-1,FR: I-TELE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1437.ts
+#EXTINF:-1,FR: Euronews
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/413.ts
+#EXTINF:-1,FR: BFM TV
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/414.ts
+#EXTINF:-1,FR: BFM BUSINESS
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2176.ts
+#EXTINF:-1,FR: |BE|-VOO SPORT1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1416.ts
+#EXTINF:-1,FR: |BE|-VOO SPORT 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2623.ts
+#EXTINF:-1,FR: |BE|-ELEVEN SPORT
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2625.ts
+#EXTINF:-1,FR: |BE|-VOO SPORT 3
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/3208.ts
+#EXTINF:-1,FR: |BE|-VOO SPORTWORLD 1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2622.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,TF1-HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4183.ts
-#EXTINF:-1,TF1 SD
-http://sansat.net:25461/live/82002324912369/82002324912369/6725.ts
-#EXTINF:-1,M6-HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4188.ts
-#EXTINF:-1,M6 SD
-http://sansat.net:25461/live/82002324912369/82002324912369/6724.ts
-#EXTINF:-1,France 2
-http://sansat.net:25461/live/82002324912369/82002324912369/4184.ts
-#EXTINF:-1,France 3
-http://sansat.net:25461/live/82002324912369/82002324912369/4185.ts
-#EXTINF:-1,France 4
-http://sansat.net:25461/live/82002324912369/82002324912369/4186.ts
-#EXTINF:-1,France 5
-http://sansat.net:25461/live/82002324912369/82002324912369/4187.ts
-#EXTINF:-1,FRANCE Ô
-http://sansat.net:25461/live/82002324912369/82002324912369/4221.ts
-#EXTINF:-1,France info
-http://sansat.net:25461/live/82002324912369/82002324912369/6649.ts
-#EXTINF:-1,HD-1
-http://sansat.net:25461/live/82002324912369/82002324912369/4232.ts
-#EXTINF:-1,6ter
-http://sansat.net:25461/live/82002324912369/82002324912369/4193.ts
-#EXTINF:-1,NT1
-http://sansat.net:25461/live/82002324912369/82002324912369/4194.ts
-#EXTINF:-1,NRJ12
-http://sansat.net:25461/live/82002324912369/82002324912369/4189.ts
-#EXTINF:-1,NRJ12 SD
-http://sansat.net:25461/live/82002324912369/82002324912369/6726.ts
-#EXTINF:-1,Elle Girl
-http://sansat.net:25461/live/82002324912369/82002324912369/6718.ts
-#EXTINF:-1,E! Entertainment
-http://sansat.net:25461/live/82002324912369/82002324912369/6719.ts
-#EXTINF:-1,C8
-http://sansat.net:25461/live/82002324912369/82002324912369/4190.ts
-#EXTINF:-1,W9
-http://sansat.net:25461/live/82002324912369/82002324912369/4191.ts
-#EXTINF:-1,RTL9
-http://sansat.net:25461/live/82002324912369/82002324912369/4192.ts
-#EXTINF:-1,TMC
-http://sansat.net:25461/live/82002324912369/82002324912369/4195.ts
-#EXTINF:-1,Tcm
-http://sansat.net:25461/live/82002324912369/82002324912369/6706.ts
-#EXTINF:-1,INFOSPORT
-http://sansat.net:25461/live/82002324912369/82002324912369/4196.ts
-#EXTINF:-1,Equipe 21
-http://sansat.net:25461/live/82002324912369/82002324912369/4197.ts
-#EXTINF:-1,PLANETE
-http://sansat.net:25461/live/82002324912369/82002324912369/4199.ts
-#EXTINF:-1,ANIMAUX
-http://sansat.net:25461/live/82002324912369/82002324912369/4200.ts
-#EXTINF:-1,Discovery Channel
-http://sansat.net:25461/live/82002324912369/82002324912369/4201.ts
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4202.ts
-#EXTINF:-1,National Geographic
-http://sansat.net:25461/live/82002324912369/82002324912369/4203.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4204.ts
-#EXTINF:-1,Ushuaia TV
-http://sansat.net:25461/live/82002324912369/82002324912369/4205.ts
-#EXTINF:-1,Chasse et Pêche
-http://sansat.net:25461/live/82002324912369/82002324912369/4206.ts
-#EXTINF:-1,SEASONS
-http://sansat.net:25461/live/82002324912369/82002324912369/6638.ts
-#EXTINF:-1,ARTE
-http://sansat.net:25461/live/82002324912369/82002324912369/4207.ts
-#EXTINF:-1,Science et Vie
-http://sansat.net:25461/live/82002324912369/82002324912369/4208.ts
-#EXTINF:-1,DISNEY-JUNIOR
-http://sansat.net:25461/live/82002324912369/82002324912369/4209.ts
-#EXTINF:-1,DISNEY-CHANNEL
-http://sansat.net:25461/live/82002324912369/82002324912369/4210.ts
-#EXTINF:-1,DisneyChannel +1
-http://sansat.net:25461/live/82002324912369/82002324912369/4211.ts
-#EXTINF:-1,BOOMERANG
-http://sansat.net:25461/live/82002324912369/82002324912369/4212.ts
-#EXTINF:-1,TELETOON
-http://sansat.net:25461/live/82002324912369/82002324912369/4213.ts
-#EXTINF:-1,GULLI
-http://sansat.net:25461/live/82002324912369/82002324912369/4214.ts
-#EXTINF:-1,MANGAS
-http://sansat.net:25461/live/82002324912369/82002324912369/4215.ts
-#EXTINF:-1,Cartoon Network (France)
-http://sansat.net:25461/live/82002324912369/82002324912369/4216.ts
-#EXTINF:-1,Euronews
-http://sansat.net:25461/live/82002324912369/82002324912369/4217.ts
-#EXTINF:-1,LCP
-http://sansat.net:25461/live/82002324912369/82002324912369/4218.ts
-#EXTINF:-1,TV5MONDE
-http://sansat.net:25461/live/82002324912369/82002324912369/4219.ts
-#EXTINF:-1,I-tele
-http://sansat.net:25461/live/82002324912369/82002324912369/4220.ts
-#EXTINF:-1,BFM
-http://sansat.net:25461/live/82002324912369/82002324912369/4222.ts
-#EXTINF:-1,CANAL+
-http://sansat.net:25461/live/82002324912369/82002324912369/4224.ts
-#EXTINF:-1,CANAL+ DÉCALÉ
-http://sansat.net:25461/live/82002324912369/82002324912369/4225.ts
-#EXTINF:-1,CANAL+ CINEMA
-http://sansat.net:25461/live/82002324912369/82002324912369/4226.ts
-#EXTINF:-1,CANAL+ Family
-http://sansat.net:25461/live/82002324912369/82002324912369/4227.ts
-#EXTINF:-1,CANAL+ SPORT
-http://sansat.net:25461/live/82002324912369/82002324912369/4228.ts
-#EXTINF:-1,Canal+ Series
-http://sansat.net:25461/live/82002324912369/82002324912369/4229.ts
-#EXTINF:-1,CINE  CLASSIC
-http://sansat.net:25461/live/82002324912369/82002324912369/5252.ts
-#EXTINF:-1,CINE-FRISSON-HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4231.ts
-#EXTINF:-1,CINE-PREMIER-HD
-http://sansat.net:25461/live/82002324912369/82002324912369/4230.ts
-#EXTINF:-1,CINE EMOTION
-http://sansat.net:25461/live/82002324912369/82002324912369/5253.ts
-#EXTINF:-1,Cine_Polar_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5278.ts
-#EXTINF:-1,OCS_Choc
-http://sansat.net:25461/live/82002324912369/82002324912369/5254.ts
-#EXTINF:-1,OCS_CITY
-http://sansat.net:25461/live/82002324912369/82002324912369/5255.ts
-#EXTINF:-1,Ocs_Geants
-http://sansat.net:25461/live/82002324912369/82002324912369/5274.ts
-#EXTINF:-1,OCS_MAX
-http://sansat.net:25461/live/82002324912369/82002324912369/5275.ts
-#EXTINF:-1,CHERIE-25
-http://sansat.net:25461/live/82002324912369/82002324912369/4233.ts
-#EXTINF:-1,TV-BREIZH
-http://sansat.net:25461/live/82002324912369/82002324912369/4234.ts
-#EXTINF:-1,CINE  FAMIZ
-http://sansat.net:25461/live/82002324912369/82002324912369/5250.ts
-#EXTINF:-1,TEVA
-http://sansat.net:25461/live/82002324912369/82002324912369/5251.ts
-#EXTINF:-1,Action
-http://sansat.net:25461/live/82002324912369/82002324912369/5256.ts
-#EXTINF:-1,13ème RUE
-http://sansat.net:25461/live/82002324912369/82002324912369/5257.ts
-#EXTINF:-1,Paris_Premiere
-http://sansat.net:25461/live/82002324912369/82002324912369/5258.ts
-#EXTINF:-1,Mcm
-http://sansat.net:25461/live/82002324912369/82002324912369/6714.ts
-#EXTINF:-1,Mcm Top
-http://sansat.net:25461/live/82002324912369/82002324912369/6713.ts
-#EXTINF:-1,Mezzo
-http://sansat.net:25461/live/82002324912369/82002324912369/6712.ts
-#EXTINF:-1,Mezzo Live
-http://sansat.net:25461/live/82002324912369/82002324912369/6711.ts
-#EXTINF:-1,SyFy
-http://sansat.net:25461/live/82002324912369/82002324912369/5259.ts
-#EXTINF:-1,Serie_Club
-http://sansat.net:25461/live/82002324912369/82002324912369/5260.ts
-#EXTINF:-1,RMC Decouverte HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5261.ts
-#EXTINF:-1,RTL_9HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5262.ts
-#EXTINF:-1,Planet_A&E_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5263.ts
-#EXTINF:-1,Paramount_Channel_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5264.ts
-#EXTINF:-1,Weo
-http://sansat.net:25461/live/82002324912369/82002324912369/5265.ts
-#EXTINF:-1,TVA_Montreal
-http://sansat.net:25461/live/82002324912369/82002324912369/5266.ts
-#EXTINF:-1,Trek_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5267.ts
-#EXTINF:-1,Oui_FM_TV
-http://sansat.net:25461/live/82002324912369/82002324912369/5268.ts
-#EXTINF:-1,Monaco_Info
-http://sansat.net:25461/live/82002324912369/82002324912369/5269.ts
-#EXTINF:-1,Mirabelle_TV
-http://sansat.net:25461/live/82002324912369/82002324912369/5270.ts
-#EXTINF:-1,Leman_Bleu
-http://sansat.net:25461/live/82002324912369/82002324912369/5271.ts
-#EXTINF:-1,IL_TV
-http://sansat.net:25461/live/82002324912369/82002324912369/5272.ts
-#EXTINF:-1,OL_TV
-http://sansat.net:25461/live/82002324912369/82002324912369/5273.ts
-#EXTINF:-1,Numero_23
-http://sansat.net:25461/live/82002324912369/82002324912369/5276.ts
-#EXTINF:-1,Histoire_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5277.ts
-#EXTINF:-1,AB1
-http://sansat.net:25461/live/82002324912369/82002324912369/5279.ts
-#EXTINF:-1,D17
-http://sansat.net:25461/live/82002324912369/82002324912369/5280.ts
-#EXTINF:-1,Comedie
-http://sansat.net:25461/live/82002324912369/82002324912369/5281.ts
-#EXTINF:-1,LCI
-http://sansat.net:25461/live/82002324912369/82002324912369/5282.ts
-#EXTINF:-1,Planet
-http://sansat.net:25461/live/82002324912369/82002324912369/5283.ts
-#EXTINF:-1,Planet ci
-http://sansat.net:25461/live/82002324912369/82002324912369/5284.ts
-#EXTINF:-1,Voyage_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5285.ts
-#EXTINF:-1,Golf
-http://sansat.net:25461/live/82002324912369/82002324912369/6715.ts
-#EXTINF:-1,Golf Channel
-http://sansat.net:25461/live/82002324912369/82002324912369/6716.ts
-#EXTINF:-1,Extreme Sports
-http://sansat.net:25461/live/82002324912369/82002324912369/6717.ts
-#EXTINF:-1,BEINSPORT_1_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5286.ts
-#EXTINF:-1,BEINSPORT _2_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5288.ts
-#EXTINF:-1,BEINSPORT 3 HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5290.ts
-#EXTINF:-1,BEINSPORT_MAX4
-http://sansat.net:25461/live/82002324912369/82002324912369/6791.ts
-#EXTINF:-1,BEINSPORT_MAX5
-http://sansat.net:25461/live/82002324912369/82002324912369/6790.ts
-#EXTINF:-1,BEINSPORT_MAX6
-http://sansat.net:25461/live/82002324912369/82002324912369/6789.ts
-#EXTINF:-1,BEINSPORT_MAX7
-http://sansat.net:25461/live/82002324912369/82002324912369/6788.ts
-#EXTINF:-1,BEINSPORT_MAX8
-http://sansat.net:25461/live/82002324912369/82002324912369/6787.ts
-#EXTINF:-1,SFR_SPORT_1_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5292.ts
-#EXTINF:-1,SFR_SPORT_2_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5293.ts
-#EXTINF:-1,SFR_SPORT_3_HD
-http://sansat.net:25461/live/82002324912369/82002324912369/5294.ts
-#EXTINF:-1,Foot +
-http://sansat.net:25461/live/82002324912369/82002324912369/5295.ts
-#EXTINF:-1,FOOT 24
-http://sansat.net:25461/live/82002324912369/82002324912369/4198.ts
-#EXTINF:-1,EUROSPORT 1
-http://sansat.net:25461/live/82002324912369/82002324912369/5296.ts
-#EXTINF:-1,EUROSPORT_2
-http://sansat.net:25461/live/82002324912369/82002324912369/5297.ts
-#EXTINF:-1,Equidia
-http://sansat.net:25461/live/82002324912369/82002324912369/5298.ts
-#EXTINF:-1,Equidia_Live
-http://sansat.net:25461/live/82002324912369/82002324912369/5299.ts
-#EXTINF:-1,NICKELODEON_JUNIOR
-http://sansat.net:25461/live/82002324912369/82002324912369/5300.ts
-#EXTINF:-1,Nickelodeon
-http://sansat.net:25461/live/82002324912369/82002324912369/5301.ts
-#EXTINF:-1,Zouzou
-http://sansat.net:25461/live/82002324912369/82002324912369/5302.ts
-#EXTINF:-1,Game_One
-http://sansat.net:25461/live/82002324912369/82002324912369/5303.ts
-#EXTINF:-1,Disney_XD
-http://sansat.net:25461/live/82002324912369/82002324912369/5304.ts
-#EXTINF:-1,Tiji
-http://sansat.net:25461/live/82002324912369/82002324912369/5305.ts
-#EXTINF:-1,Disney_Cinemagic
-http://sansat.net:25461/live/82002324912369/82002324912369/5306.ts
-#EXTINF:-1,Canal_J
-http://sansat.net:25461/live/82002324912369/82002324912369/5307.ts
-#EXTINF:-1,PIWI
-http://sansat.net:25461/live/82002324912369/82002324912369/5308.ts
-#EXTINF:-1,CSTAR
-http://sansat.net:25461/live/82002324912369/82002324912369/6786.ts
-#EXTINF:-1,CNEWS
-http://sansat.net:25461/live/82002324912369/82002324912369/6785.ts
-#EXTINF:-1,TV7_BORDEAUX
-http://sansat.net:25461/live/82002324912369/82002324912369/6782.ts
-#EXTINF:-1,RTC_TELE
-http://sansat.net:25461/live/82002324912369/82002324912369/6783.ts
-#EXTINF:-1,GRAND_LILLE_TV
-http://sansat.net:25461/live/82002324912369/82002324912369/6784.ts
-#EXTINF:-1,Trace Sport
-http://sansat.net:25461/live/82002324912369/82002324912369/6710.ts
-#EXTINF:-1,Trace Urban
-http://sansat.net:25461/live/82002324912369/82002324912369/6709.ts
-#EXTINF:-1,Trek
-http://sansat.net:25461/live/82002324912369/82002324912369/6708.ts
-#EXTINF:-1,Rfm TV
-http://sansat.net:25461/live/82002324912369/82002324912369/6707.ts
-#EXTINF:-1,A LA CARTE 1
-http://sansat.net:25461/live/82002324912369/82002324912369/6838.ts
-#EXTINF:-1,A LA CARTE 2
-http://sansat.net:25461/live/82002324912369/82002324912369/6839.ts
-#EXTINF:-1,A LA CARTE 3
-http://sansat.net:25461/live/82002324912369/82002324912369/6840.ts
-#EXTINF:-1,A LA CARTE 4
-http://sansat.net:25461/live/82002324912369/82002324912369/6841.ts
-#EXTINF:-1,A LA CARTE 5
-http://sansat.net:25461/live/82002324912369/82002324912369/6843.ts
-#EXTINF:-1,A LA CARTE 6
-http://sansat.net:25461/live/82002324912369/82002324912369/6844.ts
-#EXTINF:-1,A LA CARTE 7
-http://sansat.net:25461/live/82002324912369/82002324912369/6845.ts
-#EXTINF:-1,A LA CARTE 8
-http://sansat.net:25461/live/82002324912369/82002324912369/6846.ts
-#EXTINF:-1,La_Une-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5193.ts
-#EXTINF:-1,La_Deux-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5194.ts
-#EXTINF:-1,La_Trois-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5195.ts
-#EXTINF:-1,Rtl_Tvi_HD-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5196.ts
-#EXTINF:-1,Club_Rtl-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5197.ts
-#EXTINF:-1,Plug_Rtl-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5198.ts
-#EXTINF:-1,Ket_op_12-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5199.ts
-#EXTINF:-1,Een-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5200.ts
-#EXTINF:-1,2Be-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5201.ts
-#EXTINF:-1,Vtm-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5202.ts
-#EXTINF:-1,Vtm_Kazoom-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5203.ts
-#EXTINF:-1,Vitaya-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5204.ts
-#EXTINF:-1,Vijf_TV-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5205.ts
-#EXTINF:-1,Vier-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5206.ts
-#EXTINF:-1,Canvas-BG
-http://sansat.net:25461/live/82002324912369/82002324912369/5207.ts
-
-
-
-
+#EXTINF:-1,FR: |BE|- La Une HD
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1521.ts
+#EXTINF:-1,FR: |BE|-La Deux
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1336.ts
+#EXTINF:-1,FR: |BE|-La Trois
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1335.ts
+#EXTINF:-1,FR: |BE|- CINE 1
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1361.ts
+#EXTINF:-1,FR: |BE|- CINE 2
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1532.ts
+#EXTINF:-1,FR: |BE|- CLUB RTL
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1358.ts
+#EXTINF:-1,FR: |BE|- RTL TVI
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1357.ts
+#EXTINF:-1,FR: |BE|-PLUG RTL
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/1417.ts
+#EXTINF:-1,FR: BeIN SPORTS MAX 4
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2219.ts
+#EXTINF:-1,FR: BeIN SPORTS MAX 5
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2221.ts
+#EXTINF:-1,FR: BeIN SPORTS MAX 6
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2222.ts
+#EXTINF:-1,FR: BeIN SPORTS MAX 7
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2223.ts
+#EXTINF:-1,FR: BeIN SPORTS MAX 8
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2224.ts
+#EXTINF:-1,BERBERE TV
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2051.ts
+#EXTINF:-1,BERBERE  MUSIC
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2053.ts
+#EXTINF:-1,BERBERE JEUNESSE
+http://roiduiptv.ddns.net:9000/live/bruno_marcilly/CzXF1al1qJ/2052.ts
