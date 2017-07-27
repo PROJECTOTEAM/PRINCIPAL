@@ -1,58 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 28-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
+#EXTINF:-1,V4 News
+rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
+#EXTINF:-1,IndiaNews-Hindi
+rtmp://live-fs.wmncdn.net:1935/firstindianewstv1/live.stream
+#EXTINF:-1,IndiaNews-Hindi
+rtmp://live-fs.wmncdn.net:1935/firstindianewstv2/live.stream
+#EXTINF:-1,Ishwar TV
+rtmp://live-fs.wmncdn.net:1935/ishwartv10/live.stream
+#EXTINF:-1,Sadhana TV
+rtmp://live-fs.wmncdn.net:1935/sadhanatv/live.stream
+#EXTINF:-1,Sadhana NEWS
+rtmp://live-fs.wmncdn.net:1935/sadhananewsmp1/live.stream
+#EXTINF:-1,Sadhana Plus
+rtmp://live-fs.wmncdn.net:1935/sadhanaplus1/live.stream
+#EXTINF:-1,Sadhna Bangla
+rtmp://live-fs.wmncdn.net:1935/aryantv1/live1.stream
 
-#EXTINF:-1,IN:ZEE TV HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/939.ts
-#EXTINF:-1,IN:Zee Classic
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2261.ts
-#EXTINF:-1,IN:Zee Action
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2262.ts
-#EXTINF:-1,IN:Willo HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/935.ts
-#EXTINF:-1,IN: Sony Max 2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4247.ts
-#EXTINF:-1,IN: Sony ESPN
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4246.ts
-#EXTINF:-1,IN:Star sports 2 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1176.ts
-#EXTINF:-1,IN: JAYA
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2388.ts
-#EXTINF:-1,IN: ZEE CINEMA
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1261.ts
-#EXTINF:-1,IN: Zee Anmol
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1845.ts
-#EXTINF:-1,IN: UTV Movies
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1425.ts
-#EXTINF:-1,IN: TEN 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2283.ts
-#EXTINF:-1,IN: TEN CRICKET
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1427.ts
-#EXTINF:-1,IN: STAR SPORTS 3 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1841.ts
-#EXTINF:-1,IN: Star Sports 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1292.ts
-#EXTINF:-1,IN: Star Plus HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1128.ts
-#EXTINF:-1,IN: STAR JALSHA
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2146.ts
-#EXTINF:-1,IN: STAR GOLD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1843.ts
-#EXTINF:-1,IN: Sony Sab
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2191.ts
-#EXTINF:-1,IN: Set Max
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/934.ts
-#EXTINF:-1,IN: Rishtey TV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2193.ts
-#EXTINF:-1,IN: LIFE OK
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1842.ts
-#EXTINF:-1,IN: Abp News
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2192.ts
-#EXTINF:-1,IN: &TV HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/929.ts
-#EXTINF:-1,HINDI SONY SIX
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4493.ts
-#EXTINF:-1,IN: &Picture HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2260.ts
+
+
+
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv1/live1.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv2/live2.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net/mbctv3/live3.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv2/live2.stream
+#EXTINF:-1,MBC TV
+rtmp://live-fs.wmncdn.net:1935/mbctv3/live3.stream
+#EXTINF:-1,MBC TV
+rtsp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
