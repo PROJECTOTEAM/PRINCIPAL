@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-06-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-06-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -72,65 +72,425 @@ http://144.2.100.111:8000/play/a00b
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,IT:RAI 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/668.ts
-#EXTINF:-1,IT:RAI 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/669.ts
-#EXTINF:-1,IT:RAI 3
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/670.ts
-#EXTINF:-1,IT:RAI 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/673.ts
-#EXTINF:-1,IT:RAI 5
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/674.ts
-#EXTINF:-1,IT:RAI  MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,IT:SKY MOTO GP
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/672.ts
-#EXTINF:-1,IT:SUPER TENNIS
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/675.ts
-#EXTINF:-1,IT:PREMIUM SPORT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/686.ts
-#EXTINF:-1,IT:PREMIUM SPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/687.ts
-#EXTINF:-1,IT:RAI SPORT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/682.ts
-#EXTINF:-1,IT:RAI SPORT 2
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/683.ts
-#EXTINF:-1,IT:SKY SPORT
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/685.ts
-#EXTINF:-1,IT:SKY SPORT 1
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/684.ts
-#EXTINF:-1,[IT] Alice
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/793.ts
-#EXTINF:-1,[IT] Cielo HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/794.ts
-#EXTINF:-1,[IT] DMAX
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/795.ts
-#EXTINF:-1,[IT] Giallo
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/792.ts
-#EXTINF:-1,[IT] Iris Mediaset
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/796.ts
-#EXTINF:-1,[IT] Italia 1 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/800.ts
-#EXTINF:-1,[IT] Italia 2 HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/797.ts
-#EXTINF:-1,[IT] LA7
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/798.ts
-#EXTINF:-1,[IT] Mediaset Extra HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/790.ts
-#EXTINF:-1,[IT] Rai Movie HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/807.ts
-#EXTINF:-1,[IT] Rai Premium
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/806.ts
-#EXTINF:-1,[IT] Rai Yoyo HD
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/803.ts
-#EXTINF:-1,[IT] Rete 4
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/799.ts
-#EXTINF:-1,[IT] SKY TG24
-http://junglacristal.ddns.net:25461/live/edil.aguilar.23@gmail.com/RDFSDG/791.ts
+#EXTINF:-1,Rai 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/3.ts
+#EXTINF:-1,Rai 2 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/4.ts
+#EXTINF:-1,Rai 3 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/5.ts
+#EXTINF:-1,Rete 4 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/6.ts
+#EXTINF:-1,Canale 5 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/7.ts
+#EXTINF:-1,Italia 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/8.ts
+#EXTINF:-1,La7
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2.ts
+#EXTINF:-1,TV8
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/9.ts
+#EXTINF:-1,Nove HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/958.ts
+#EXTINF:-1,cielo HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/27.ts
+#EXTINF:-1,RSI LA 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/10.ts
+#EXTINF:-1,RSI LA 2 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/11.ts
+#EXTINF:-1,---------- Sky | Cinema ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1318.mp4
+#EXTINF:-1,Cinema 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/15.ts
+#EXTINF:-1,Cinema +1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/959.ts
+#EXTINF:-1,Cinema +24 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/16.ts
+#EXTINF:-1,Cinema Hits HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/25.ts
+#EXTINF:-1,CinemaFamily HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/17.ts
+#EXTINF:-1,CinemaFamily+1HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2744.ts
+#EXTINF:-1,Cinema Passion HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/19.ts
+#EXTINF:-1,Cinema Comedy HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/20.ts
+#EXTINF:-1,Cinema Max HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/21.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2745.ts
+#EXTINF:-1,Cinema Cult HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/23.ts
+#EXTINF:-1,Cinema Classics HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/24.ts
+#EXTINF:-1,007 Bond - Collection | Canale
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2757.ts
+#EXTINF:-1,---------- Sky | Intrattenimento ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1335.mp4
+#EXTINF:-1,Sky 3D
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1348.ts
+#EXTINF:-1,Sky Uno HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/29.ts
+#EXTINF:-1,Sky Atlantic HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/35.ts
+#EXTINF:-1,Fox HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/31.ts
+#EXTINF:-1,Fox Life HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/30.ts
+#EXTINF:-1,Fox Crime HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/32.ts
+#EXTINF:-1,Fox Comedy HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/33.ts
+#EXTINF:-1,Fox Animation HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/34.ts
+#EXTINF:-1,Blaze HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2721.ts
+#EXTINF:-1,GIALLO
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2137.ts
+#EXTINF:-1,Comedy Central
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/37.ts
+#EXTINF:-1,Real Time HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/38.ts
+#EXTINF:-1,DMAX
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/79.ts
+#EXTINF:-1,Rai 4
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/164.ts
+#EXTINF:-1,TV2000
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2097.ts
+#EXTINF:-1,---------- Formula 1 | Moto GP ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/2237.mp4
+#EXTINF:-1,Sky Sport F1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/48.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/49.ts
+#EXTINF:-1,---------- Sky | Sport ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1319.mp4
+#EXTINF:-1,Sky Sport24 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/42.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/43.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/44.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/45.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/47.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/753.ts
+#EXTINF:-1,Fox Sports HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/46.ts
+#EXTINF:-1,Sportitalia
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2138.ts
+#EXTINF:-1,TOP Calcio 24 TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2748.ts
+#EXTINF:-1,Eurosport 1
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/122.ts
+#EXTINF:-1,Eurosport 2
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/121.ts
+#EXTINF:-1,Bike Channel HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/752.ts
+#EXTINF:-1,Milan TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/61.ts
+#EXTINF:-1,Inter Channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/63.ts
+#EXTINF:-1,J | Juventus TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/62.ts
+#EXTINF:-1,Roma TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/60.ts
+#EXTINF:-1,---------- Sky | Calcio ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1336.mp4
+#EXTINF:-1,Sky Supercalcio HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/51.ts
+#EXTINF:-1,Sky Calcio Info
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2732.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/52.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/53.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/54.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/55.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/56.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/57.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/58.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/59.ts
+#EXTINF:-1,---------- Sky | Cultura ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1338.mp4
+#EXTINF:-1,NationalGeo HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/65.ts
+#EXTINF:-1,NatGeo People HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/67.ts
+#EXTINF:-1,NatGeo Wild HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/66.ts
+#EXTINF:-1,Discovery HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/68.ts
+#EXTINF:-1,Discovery Sci HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/69.ts
+#EXTINF:-1,DiscoveryT&L HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/71.ts
+#EXTINF:-1,CI Crime+Inv.HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2239.ts
+#EXTINF:-1,Focus
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/78.ts
+#EXTINF:-1,Animal Planet
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/72.ts
+#EXTINF:-1,History HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/73.ts
+#EXTINF:-1,Sky Arte HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/28.ts
+#EXTINF:-1,CACCIA e Pesca
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/80.ts
+#EXTINF:-1,PESCA e Caccia
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1286.ts
+#EXTINF:-1,---------- Sky | Musica ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1340.mp4
+#EXTINF:-1,Video Type | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2760.ts
+#EXTINF:-1,Virgin Radio
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1246.ts
+#EXTINF:-1,RTL 102.5 TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1244.ts
+#EXTINF:-1,Radio 105
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1245.ts
+#EXTINF:-1,M2o Tv
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1247.ts
+#EXTINF:-1,Capital TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1243.ts
+#EXTINF:-1,Rock TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2115.ts
+#EXTINF:-1,Radionorba TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2113.ts
+#EXTINF:-1,Radio Montecarlo TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2114.ts
+#EXTINF:-1,Radio Italia Tv
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2101.ts
+#EXTINF:-1,Radio Deejay
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2119.ts
+#EXTINF:-1,Radio capital TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2104.ts
+#EXTINF:-1,Radio Kiss Kiss Napoli
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2730.ts
+#EXTINF:-1,---------- Sky | Bambini ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1339.mp4
+#EXTINF:-1,DisneyChannel HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/83.ts
+#EXTINF:-1,Disney XD HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/84.ts
+#EXTINF:-1,Disney Junior
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/85.ts
+#EXTINF:-1,Cartoon Network
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/86.ts
+#EXTINF:-1,Cartoonito
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/87.ts
+#EXTINF:-1,Nickelodeon
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2688.ts
+#EXTINF:-1,MAN-GA
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/89.ts
+#EXTINF:-1,Boing
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/91.ts
+#EXTINF:-1,Rai YoYo
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/93.ts
+#EXTINF:-1,Rai Gulp
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/92.ts
+#EXTINF:-1,Baby TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2148.ts
+#EXTINF:-1,Super!
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2147.ts
+#EXTINF:-1,K2
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/88.ts
+#EXTINF:-1,-frisbee-
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/90.ts
+#EXTINF:-1,Cartoons | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2728.ts
+#EXTINF:-1,Peppa Pig | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2725.ts
+#EXTINF:-1,Masha e Orso | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2726.ts
+#EXTINF:-1,Esplorando Il Corpo Umano | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2684.ts
+#EXTINF:-1,Esplorando Il Corpo Umano 2 | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2685.ts
+#EXTINF:-1,Esplorando Il Corpo Umano 3 | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2686.ts
+#EXTINF:-1,Ken il Guerriero  | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2717.ts
+#EXTINF:-1,Ken il Guerriero 2 | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2718.ts
+#EXTINF:-1,Ken il Guerriero 3 | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2753.ts
+#EXTINF:-1,ken il guerriero seconda serie | Canale
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2754.ts
+#EXTINF:-1,UFO Robot Goldrake | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2727.ts
+#EXTINF:-1,L'Uomo Tigre | Canale
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2756.ts
+#EXTINF:-1,Ransie la strega | Canale
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2755.ts
+#EXTINF:-1,Sam il ragazzo del West | channel
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2761.ts
+#EXTINF:-1,---------- Sky | Notizie ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1334.mp4
+#EXTINF:-1,Sky Tg24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1.ts
+#EXTINF:-1,Euronews IT
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1218.ts
+#EXTINF:-1,Senato TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2112.ts
+#EXTINF:-1,Rai News 24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2099.ts
+#EXTINF:-1,Tg Norba 24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2105.ts
+#EXTINF:-1,FRANCE 24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2102.ts
+#EXTINF:-1,---------- Generalisti ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/2234.mp4
+#EXTINF:-1,Classica HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2093.ts
+#EXTINF:-1,Automoto TV
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2110.ts
+#EXTINF:-1,Tv Luna
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2121.ts
+#EXTINF:-1,Televomero
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2122.ts
+#EXTINF:-1,QVC
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2098.ts
+#EXTINF:-1,Canale 8
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2120.ts
+#EXTINF:-1,Julie Italia
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2238.ts
+#EXTINF:-1,Onda tv
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2123.ts
+#EXTINF:-1,---------- Premium | Cinema ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1341.mp4
+#EXTINF:-1,Premium Cinema HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/95.ts
+#EXTINF:-1,Premium Cinema +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/97.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/96.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/98.ts
+#EXTINF:-1,Premium Energy HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/101.ts
+#EXTINF:-1,Premium Emotion
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/100.ts
+#EXTINF:-1,Premium Comedy
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/99.ts
+#EXTINF:-1,Studio Universal - Premium
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/108.ts
+#EXTINF:-1,Rai Movie
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/160.ts
+#EXTINF:-1,Iris
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/162.ts
+#EXTINF:-1,Paramount Channel HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2136.ts
+#EXTINF:-1,---------- Premium | Intrattenimento ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1342.mp4
+#EXTINF:-1,Premium Action HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/106.ts
+#EXTINF:-1,Premium Action +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/107.ts
+#EXTINF:-1,Premium Crime HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/104.ts
+#EXTINF:-1,Premium Crime +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/105.ts
+#EXTINF:-1,Premium Joi
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/102.ts
+#EXTINF:-1,Premium Joi +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/103.ts
+#EXTINF:-1,Premium Stories
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/109.ts
+#EXTINF:-1,Premium Stories +24
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/110.ts
+#EXTINF:-1,Rai Premium
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2095.ts
+#EXTINF:-1,Rai 5
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1291.ts
+#EXTINF:-1,Mediaset Italia Due
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/161.ts
+#EXTINF:-1,Mediaset EXTRA
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/163.ts
+#EXTINF:-1,Fine Living
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/77.ts
+#EXTINF:-1,Topcrime
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/39.ts
+#EXTINF:-1,LA7d
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2132.ts
+#EXTINF:-1,---------- Premium | Cultura ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/2244.mp4
+#EXTINF:-1,Alice
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2090.ts
+#EXTINF:-1,Marcopolo
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/81.ts
+#EXTINF:-1,Rai Scuola
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2103.ts
+#EXTINF:-1,---------- Premium | Sport ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1343.mp4
+#EXTINF:-1,Premium Sport HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/112.ts
+#EXTINF:-1,Premium Sport 2
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/113.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/114.ts
+#EXTINF:-1,Premium Calcio 2
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/115.ts
+#EXTINF:-1,Premium Calcio 3
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/116.ts
+#EXTINF:-1,Premium Calcio 4
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/117.ts
+#EXTINF:-1,Premium Calcio 5
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/118.ts
+#EXTINF:-1,Premium Calcio 6
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/119.ts
+#EXTINF:-1,Premium Calcio 7
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/120.ts
+#EXTINF:-1,Rai Sport + HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/124.ts
+#EXTINF:-1,SuperTennis HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/123.ts
+#EXTINF:-1,---------- Sky | Primafila ----------
+http://skyfree.ddns.net:8000/movie/6fMdt6MXug/DANILONAZZAAAAA/1344.mp4
+#EXTINF:-1,Cinema | Vetrina PrimaFila
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/2243.ts
+#EXTINF:-1,Primafila 1 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1184.ts
+#EXTINF:-1,Primafila 2
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1185.ts
+#EXTINF:-1,Primafila 3 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1186.ts
+#EXTINF:-1,Primafila 4
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1187.ts
+#EXTINF:-1,Primafila 5 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1188.ts
+#EXTINF:-1,Primafila 6
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1189.ts
+#EXTINF:-1,Primafila 7 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1190.ts
+#EXTINF:-1,Primafila 8
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1191.ts
+#EXTINF:-1,Primafila 9 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1192.ts
+#EXTINF:-1,Primafila 10
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1193.ts
+#EXTINF:-1,Primafila 11 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1194.ts
+#EXTINF:-1,Primafila 12
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1195.ts
+#EXTINF:-1,Primafila 13 HD
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1196.ts
+#EXTINF:-1,Primafila 14
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1197.ts
+#EXTINF:-1,Primafila 15
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1198.ts
+#EXTINF:-1,Primafila 16
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1199.ts
+#EXTINF:-1,Primafila 17
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1200.ts
+#EXTINF:-1,Primafila 18
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1201.ts
+#EXTINF:-1,Primafila 19
+http://skyfree.ddns.net:8000/live/6fMdt6MXug/DANILONAZZAAAAA/1202.ts
