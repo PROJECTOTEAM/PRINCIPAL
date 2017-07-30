@@ -1,26 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 30-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,CH: SRF Info HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4982.ts
-#EXTINF:-1,CH: SRF 2 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4983.ts
-#EXTINF:-1,CH: SRF 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4984.ts
-#EXTINF:-1,CH: Tele Zuri
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5010.ts
-#EXTINF:-1,CH: Teleclub Star
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5464.ts
-#EXTINF:-1,CH: Teleclub Sport 1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5011.ts
-#EXTINF:-1,CH: Teleclub Sport 3
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5468.ts
-#EXTINF:-1,CH: Teleclub Sport 2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5467.ts
-#EXTINF:-1,CH: Teleclub Prime
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5462.ts
-#EXTINF:-1,CH: Teleclub Cinema
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5463.ts
+#EXTINF:-1,Suisse: SRF 1
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13626.ts
+#EXTINF:-1,Suisse: SRF 2
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13627.ts
+#EXTINF:-1,Suisse: SRF Info
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13827.ts
+#EXTINF:-1,Suisse: Teleclub Cinema
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13630.ts
+#EXTINF:-1,Suisse: Teleclub Prime HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13632.ts
+#EXTINF:-1,Suisse: TeleClub Sport 1
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13631.ts
+#EXTINF:-1,Suisse: TeleClub Sport Flash HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13629.ts
+#EXTINF:-1,Suisse: Teleclub Sports Flash HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15075.ts
+#EXTINF:-1,Suisse: TeleClub Star
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13633.ts

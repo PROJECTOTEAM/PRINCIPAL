@@ -222,104 +222,6 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1,Willax TV LATINO
 rtmp://willax.mediastream.pe/vv_willax/livestream
-#EXTINF:-1,BOXNATION
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1069.ts
-#EXTINF:-1,MAV TV
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1073.ts
-#EXTINF:-1,CA: TSN 1
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1078.ts
-#EXTINF:-1,CA: TSN 2
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1077.ts
-#EXTINF:-1,CA: TSN 3
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1076.ts
-#EXTINF:-1,CA: TSN 4 HD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1075.ts
-#EXTINF:-1,CA: TSN 5 HD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1074.ts
-#EXTINF:-1,SyFy Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1079.ts
-#EXTINF:-1,A&E Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1127.ts
-#EXTINF:-1,Animal Planet Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1126.ts
-#EXTINF:-1,AXN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1125.ts
-#EXTINF:-1,Canal De Las Estrellas
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1124.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1123.ts
-#EXTINF:-1,Cinecanal
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1122.ts
-#EXTINF:-1,Comedy Central Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1121.ts
-#EXTINF:-1,De Pelicula
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1120.ts
-#EXTINF:-1,Discovery Civilization Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1118.ts
-#EXTINF:-1,Discovery en Español
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1119.ts
-#EXTINF:-1,Discovery H&H Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1117.ts
-#EXTINF:-1,Discovery Kids America Latina
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1116.ts
-#EXTINF:-1,Discovery TLC Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1114.ts
-#EXTINF:-1,Discovery Turbo Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1113.ts
-#EXTINF:-1,ESPN 2 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1110.ts
-#EXTINF:-1,ESPN 3 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1109.ts
-#EXTINF:-1,ESPN Deportes
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1108.ts
-#EXTINF:-1,ESPN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1111.ts
-#EXTINF:-1,Fox 1 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1106.ts
-#EXTINF:-1,Fox Action Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1105.ts
-#EXTINF:-1,Fox Cinema Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1104.ts
-#EXTINF:-1,Fox Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1107.ts
-#EXTINF:-1,Fox Movies Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1103.ts
-#EXTINF:-1,Fox Sports 2 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1101.ts
-#EXTINF:-1,Fox Sports Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1102.ts
-#EXTINF:-1,Glitz
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1100.ts
-#EXTINF:-1,Golden Edge
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1098.ts
-#EXTINF:-1,Golden
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1099.ts
-#EXTINF:-1,Gourmet
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1097.ts
-#EXTINF:-1,History en Español
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1096.ts
-#EXTINF:-1,Investigation Discovery Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1095.ts
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1094.ts
-#EXTINF:-1,Space Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1093.ts
-#EXTINF:-1,TNT Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1091.ts
-#EXTINF:-1,TNT Series Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1090.ts
-#EXTINF:-1,Tru TV Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1089.ts
-#EXTINF:-1,Unicable
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1088.ts
-#EXTINF:-1,Unimas
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1087.ts
-#EXTINF:-1,Warner Latinoamerica
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1085.ts
-#EXTINF:-1,IFC
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/611.ts
-#EXTINF:-1,SEC NETWORK
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1135.ts
 
 
 
@@ -342,141 +244,143 @@ http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1135.ts
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,IFC
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/611.ts
-#EXTINF:-1,SEC NETWORK
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1135.ts
-#EXTINF:-1,STARZ KIDZ & FAMILY
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1132.ts
-#EXTINF:-1,MLB Extra Innings 720
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1172.ts
-#EXTINF:-1,MLB Extra Innings 721
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1171.ts
-#EXTINF:-1,MLB Extra Innings 722
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1170.ts
-#EXTINF:-1,MLB Extra Innings 723
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1169.ts
-#EXTINF:-1,MLB Extra Innings 724
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1168.ts
-#EXTINF:-1,MLB Extra Innings 725
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1167.ts
-#EXTINF:-1,MLB Extra Innings 726
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1166.ts
-#EXTINF:-1,MLB Extra Innings 727
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1165.ts
-#EXTINF:-1,MLB Extra Innings 728
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1164.ts
-#EXTINF:-1,MLB Extra Innings 729
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1163.ts
-#EXTINF:-1,MLB Extra Innings 730
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1162.ts
-#EXTINF:-1,MLB Extra Innings 731
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1161.ts
-#EXTINF:-1,MLB Extra Innings 732
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1160.ts
-#EXTINF:-1,MLB Extra Innings 733
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1159.ts
-#EXTINF:-1,MLB Extra Innings 734
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1158.ts
-#EXTINF:-1,MLB Extra Innings 735
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1157.ts
-#EXTINF:-1,MLB Extra Innings 736
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1156.ts
-#EXTINF:-1,MLB Extra Innings 737
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1155.ts
-#EXTINF:-1,MLB Extra Innings 738
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1154.ts
-#EXTINF:-1,MLB Extra Innings 739
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1153.ts
-#EXTINF:-1,MLB Extra Innings 740
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1152.ts
-#EXTINF:-1,MLB Extra Innings 741
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1151.ts
-#EXTINF:-1,MLB Extra Innings 742
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1150.ts
-#EXTINF:-1,MLB Extra Innings 743
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1149.ts
-#EXTINF:-1,MLB Extra Innings 744
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1148.ts
-#EXTINF:-1,MLB Extra Innings 745
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1147.ts
-#EXTINF:-1,MLB Extra Innings 746
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1146.ts
-#EXTINF:-1,MLB Extra Innings 747
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1145.ts
-#EXTINF:-1,MLB Extra Innings 748
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1144.ts
-#EXTINF:-1,MLB Extra Innings 749
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1143.ts
-#EXTINF:-1,BET
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1175.ts
-#EXTINF:-1,HALLMARK MOVIES
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1177.ts
-#EXTINF:-1,KIRO 7 NEWS
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1178.ts
-#EXTINF:-1,CBS 5 NEWS
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1183.ts
-#EXTINF:-1,Fox 21 NEWS
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1199.ts
-#EXTINF:-1,BUZZR TV
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1202.ts
-#EXTINF:-1,QVC 1
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1206.ts
-#EXTINF:-1,QVC 2
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1207.ts
-#EXTINF:-1,The Martian
-http://dns1.theplayersklub.host:2095/movie/tinker1/tinker1/1141.mkv
-#EXTINF:-1,CA: Sportsnet East
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1215.ts
-#EXTINF:-1,CA: Sportsnet West
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1216.ts
-#EXTINF:-1,NEWS 12 NEW JERSEY
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1176.ts
-#EXTINF:-1,RT HD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/822.ts
-#EXTINF:-1,FREEFORM
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/320.ts
-#EXTINF:-1,Oxygen HD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1229.ts
-#EXTINF:-1,TPK Music Metal
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1230.ts
-#EXTINF:-1,FOX (UK)
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1243.ts
-#EXTINF:-1,REGGAE MUSIC
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1245.ts
-#EXTINF:-1,CA: Sportsnet 360
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1261.ts
-#EXTINF:-1,CA: Sportsnet Ontario
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1262.ts
-#EXTINF:-1,CA: Sportsnet One
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1263.ts
-#EXTINF:-1,FXM
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1271.ts
-#EXTINF:-1,El Rey
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1272.ts
-#EXTINF:-1,BBC AMERICA
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1277.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1280.ts
-#EXTINF:-1,SUNDANCE TV
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1284.ts
-#EXTINF:-1,UNIVERSAL HD
-http://dns1.theplayersklub.host:2095/live/tinker1/tinker1/1294.ts
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,LATINO: A&E HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15924.ts
+#EXTINF:-1,LATINO: Animal Planet
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15925.ts
+#EXTINF:-1,LATINO: AXN HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15926.ts
+#EXTINF:-1,LATINO: Az Cinema HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15927.ts
+#EXTINF:-1,LATINO: CABLE NOTICIAS HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15921.ts
+#EXTINF:-1,LATINO: Canal 5 HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15929.ts
+#EXTINF:-1,LATINO: Canal De Las Estrellas HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15930.ts
+#EXTINF:-1,LATINO: CANAL U
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15919.ts
+#EXTINF:-1,LATINO: CANAL UNO HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15918.ts
+#EXTINF:-1,LATINO: CARACOL
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15958.ts
+#EXTINF:-1,LATINO: Carton Network HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15931.ts
+#EXTINF:-1,Latino: Chile La Red
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7622.ts
+#EXTINF:-1,LATINO: Cine Canal HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15932.ts
+#EXTINF:-1,LATINO: Comedy Central HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15933.ts
+#EXTINF:-1,LATINO: De Pelicula HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15934.ts
+#EXTINF:-1,LATINO: Discovery Channel
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15935.ts
+#EXTINF:-1,LATINO: Discovery Civilization
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15936.ts
+#EXTINF:-1,LATINO: Discovery ID
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15937.ts
+#EXTINF:-1,LATINO: Discovery Kids
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15938.ts
+#EXTINF:-1,LATINO: Discovery Science
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15939.ts
+#EXTINF:-1,LATINO: Discovery Teather HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15940.ts
+#EXTINF:-1,LATINO: Discovery TLC
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15941.ts
+#EXTINF:-1,LATINO: Discovery Turbo
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15942.ts
+#EXTINF:-1,LATINO: Discovey World HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15943.ts
+#EXTINF:-1,Latino: DW
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/11719.ts
+#EXTINF:-1,Latino: Efekto TV HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/11720.ts
+#EXTINF:-1,Latino: El Trece HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/11721.ts
+#EXTINF:-1,LATINO: ESPN
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15944.ts
+#EXTINF:-1,LATINO: ESPN 2
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15945.ts
+#EXTINF:-1,LATINO: ESPN 3
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15946.ts
+#EXTINF:-1,LATINO: F1
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15947.ts
+#EXTINF:-1,LATINO: Film Zone HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15948.ts
+#EXTINF:-1,LATINO: Fox 1 HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15949.ts
+#EXTINF:-1,LATINO: Fox Action HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15950.ts
+#EXTINF:-1,LATINO: Fox Cinema HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15951.ts
+#EXTINF:-1,LATINO: Fox HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15952.ts
+#EXTINF:-1,LATINO: Fox Movies HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15953.ts
+#EXTINF:-1,LATINO: Fox Sports
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15954.ts
+#EXTINF:-1,LATINO: Fox Sports 2 HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15955.ts
+#EXTINF:-1,LATINO: Gala Tv HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15956.ts
+#EXTINF:-1,LATINO: Glitz
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15957.ts
+#EXTINF:-1,LATINO: Golden Edge
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15959.ts
+#EXTINF:-1,LATINO: Golden HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15960.ts
+#EXTINF:-1,LATINO: Gourmet
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15961.ts
+#EXTINF:-1,LATINO: History HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15962.ts
+#EXTINF:-1,LATINO: HOLA TV HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15963.ts
+#EXTINF:-1,LATINO: MI MUSICA HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15917.ts
+#EXTINF:-1,LATINO: Milenio TV HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15964.ts
+#EXTINF:-1,LATINO: Multimedios Monterrey HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15965.ts
+#EXTINF:-1,LATINO: NatGeo Wild HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15966.ts
+#EXTINF:-1,LATINO: RCN
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15923.ts
+#EXTINF:-1,LATINO: RCN HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15928.ts
+#EXTINF:-1,LATINO: SENAL COLOMBIA HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15916.ts
+#EXTINF:-1,LATINO: Space HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15967.ts
+#EXTINF:-1,LATINO: TDN
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15968.ts
+#EXTINF:-1,LATINO: TELE MEDELLIN
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15915.ts
+#EXTINF:-1,LATINO: Telemundo
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15969.ts
+#EXTINF:-1,LATINO: Telemundo Los Angeles
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15913.ts
+#EXTINF:-1,LATINO: Telemundo Puerto Rico
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15912.ts
+#EXTINF:-1,LATINO: TIGO MUSIC HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15914.ts
+#EXTINF:-1,LATINO: TNT Series HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15970.ts
+#EXTINF:-1,LATINO: Tru Tv HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15971.ts
+#EXTINF:-1,Latino: TyC Sports
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15828.ts
+#EXTINF:-1,LATINO: Unicable HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15972.ts
+#EXTINF:-1,LATINO: Universal HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15973.ts
+#EXTINF:-1,LATINO: Univision HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15911.ts
+#EXTINF:-1,LATINO: Warner HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15974.ts
+#EXTINF:-1,LATINO: Win Sport
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15922.ts
+#EXTINF:-1,LATINO: Win Sports
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15975.ts
+#EXTINF:-1,LATINO:CANAL INSTITUCIONAL HD
+http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15920.ts

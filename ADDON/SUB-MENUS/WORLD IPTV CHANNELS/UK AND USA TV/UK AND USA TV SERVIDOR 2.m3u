@@ -1,7 +1,512 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 30-07-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,UK - Premiere HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/27250.ts
+#EXTINF:-1,UK - Action HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24135.ts
+#EXTINF:-1,UK - Comedy HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24134.ts
+#EXTINF:-1,UK - Drama & Romance HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24132.ts
+#EXTINF:-1,UK - Crime & Thriller HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32128.ts
+#EXTINF:-1,UK - Select HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32124.ts
+#EXTINF:-1,UK - Disney HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32123.ts
+#EXTINF:-1,UK - Sky Great Movies
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11548.ts
+#EXTINF:-1,UK - Sky Movie Premiere
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11545.ts
+#EXTINF:-1,UK - Sky Movie Action
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11540.ts
+#EXTINF:-1,UK - Sky Movie Comedy
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11541.ts
+#EXTINF:-1,UK - Sky Movie Drama
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11542.ts
+#EXTINF:-1,UK - Sky Movie Thriller
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11549.ts
+#EXTINF:-1,UK - Sky Movie Select
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11547.ts
+#EXTINF:-1,UK - Sky Movies Disney
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/22375.ts
+#EXTINF:-1,UK - Sky Movie Family
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11543.ts
+#EXTINF:-1,UK - Sky Movie Scifi & Horror
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11546.ts
+#EXTINF:-1,UK - True Movies 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11568.ts
+#EXTINF:-1,UK - True Movies 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11569.ts
+#EXTINF:-1,UK - Movies 4 Men
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11527.ts
+#EXTINF:-1,---------- SKY UK SPORTS ----------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/13388.ts
+#EXTINF:-1,UK - Sports News HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25392.ts
+#EXTINF:-1,UK - Sky Sports News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15216.ts
+#EXTINF:-1,UK - Sky Sports Mix HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30314.ts
+#EXTINF:-1,UK - Main Event HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18967.ts
+#EXTINF:-1,UK - Sky Sports Arena HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32858.ts
+#EXTINF:-1,UK - Sports Cricket HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15207.ts
+#EXTINF:-1,UK - Sports Action HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11557.ts
+#EXTINF:-1,UK - Golf HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11559.ts
+#EXTINF:-1,UK - Premier League HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11560.ts
+#EXTINF:-1,UK - Premier Live HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15228.ts
+#EXTINF:-1,UK - Sky Sports F1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15603.ts
+#EXTINF:-1,UK - BT Sport 1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15218.ts
+#EXTINF:-1,UK - BT Sport 2 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18212.ts
+#EXTINF:-1,UK - BT Sport 3 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15222.ts
+#EXTINF:-1,UK - BT Sport ESPN
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11487.ts
+#EXTINF:-1,UK - Eurosport 1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11510.ts
+#EXTINF:-1,UK - Eurosport 2 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15541.ts
+#EXTINF:-1,UK - MUTV - Live HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/13257.ts
+#EXTINF:-1,UK - MUTV
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32754.ts
+#EXTINF:-1,UK - Liverpool FC
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11523.ts
+#EXTINF:-1,UK - Liverpool TV HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31712.ts
+#EXTINF:-1,UK - Liverpool TV (cb)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32194.ts
+#EXTINF:-1,UK - Chelsea TV HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11495.ts
+#EXTINF:-1,UK - Sky Sports 1 HD (b)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11554.ts
+#EXTINF:-1,UK - Sky Sports 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20046.ts
+#EXTINF:-1,UK - Sky Sports 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20047.ts
+#EXTINF:-1,UK - Sky Sports 3
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20048.ts
+#EXTINF:-1,UK - Prime Sport HD (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31391.ts
+#EXTINF:-1,UK - Super Sport PPV Boxing (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30801.ts
+#EXTINF:-1,UK - Sky Sports Box Office
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18252.ts
+#EXTINF:-1,UK - Eleven
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30318.ts
+#EXTINF:-1,UK - Eleven Sports
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30319.ts
+#EXTINF:-1,UK - Eir Sports 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24131.ts
+#EXTINF:-1,UK - Eir Sports 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24130.ts
+#EXTINF:-1,UK - BT Sports 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11489.ts
+#EXTINF:-1,UK - BT Sport 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/27069.ts
+#EXTINF:-1,UK - BT Sports Extra 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18009.ts
+#EXTINF:-1,UK - Racing UK (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31742.ts
+#EXTINF:-1,UK - Racing tv
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/12759.ts
+#EXTINF:-1,UK - Racing UK (CB1)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31859.ts
+#EXTINF:-1,UK - Racing UK (CB2)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31862.ts
+#EXTINF:-1,UK - Horse and Country  (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31685.ts
+#EXTINF:-1,UK - Horse and Country
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/29222.ts
+#EXTINF:-1,UK - At The Races  (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31684.ts
+#EXTINF:-1,UK - At The Races (CB1)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31882.ts
+#EXTINF:-1,UK - At The Races (CB2)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31884.ts
+#EXTINF:-1,UK - At The Races +
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11476.ts
+#EXTINF:-1,DUBAI RACING
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31858.ts
+#EXTINF:-1,UK - Motors TV
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15561.ts
+#EXTINF:-1,UK - Boxnation
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15506.ts
+#EXTINF:-1,UK - Sportsnet World (EPL 3PM)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18768.ts
+#EXTINF:-1,UK - Sportsnet Ontario (EPL 3PM)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18770.ts
+#EXTINF:-1,UK - Sportsnet One (EPL 3PM)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18767.ts
+#EXTINF:-1,UK - Sportsnet 360 (EPL 3PM)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18769.ts
+#EXTINF:-1,------------ Sky UK Entertainment------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15938.ts
+#EXTINF:-1,UK - ITV 1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30320.ts
+#EXTINF:-1,UK - ITV 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32592.ts
+#EXTINF:-1,UK - ITV One London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18748.ts
+#EXTINF:-1,UK - ITV Two London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18749.ts
+#EXTINF:-1,UK - ITV 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32591.ts
+#EXTINF:-1,UK - ITV Three London HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18750.ts
+#EXTINF:-1,UK - ITV 3
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32590.ts
+#EXTINF:-1,UK - ITV Four London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18751.ts
+#EXTINF:-1,UK - ITV 4
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32589.ts
+#EXTINF:-1,UK - ITV Encore
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18752.ts
+#EXTINF:-1,UK - ITV Choice
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18753.ts
+#EXTINF:-1,UK - ITV Be
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14656.ts
+#EXTINF:-1,UK - BBC One HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/7901.ts
+#EXTINF:-1,UK - BBC One London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18771.ts
+#EXTINF:-1,UK - BBC Two London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15499.ts
+#EXTINF:-1,UK - BBC Three London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15500.ts
+#EXTINF:-1,UK - BBC Four London
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15501.ts
+#EXTINF:-1,UK - BBC Entertainment  MT
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/2.ts
+#EXTINF:-1,UK - BBC Parliament
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32125.ts
+#EXTINF:-1,UK - BBC Alba
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32126.ts
+#EXTINF:-1,UK - CBBC
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/21823.ts
+#EXTINF:-1,UK - TLC
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20994.ts
+#EXTINF:-1,UK - Life OK (B)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31891.ts
+#EXTINF:-1,UK - Life Time (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31892.ts
+#EXTINF:-1,UK - Lifetime HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/24136.ts
+#EXTINF:-1,UK - Sky One HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23037.ts
+#EXTINF:-1,UK - Sky One
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15591.ts
+#EXTINF:-1,UK - Sky Two
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14647.ts
+#EXTINF:-1,UK - Sky Atlantic HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31711.ts
+#EXTINF:-1,UK - Sky Atlantic
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15579.ts
+#EXTINF:-1,UK - Sky Atlantic (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31673.ts
+#EXTINF:-1,UK - Gold
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31710.ts
+#EXTINF:-1,UK - Drama
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32571.ts
+#EXTINF:-1,UK - E4
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/22611.ts
+#EXTINF:-1,UK - E Entertainment
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/9539.ts
+#EXTINF:-1,UK - Fox
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15545.ts
+#EXTINF:-1,UK - Comedy Central
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14230.ts
+#EXTINF:-1,UK - Comedy Central Xtra
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15523.ts
+#EXTINF:-1,UK - CBS Drama
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11492.ts
+#EXTINF:-1,UK - CBS Action
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11491.ts
+#EXTINF:-1,UK - CBS Reality
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14229.ts
+#EXTINF:-1,UK - CBS Reality (CB)1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31881.ts
+#EXTINF:-1,UK - Sky Arts
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15721.ts
+#EXTINF:-1,UK - SyFy
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14413.ts
+#EXTINF:-1,UK - SyFy +
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18758.ts
+#EXTINF:-1,UK - Yesterday
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18759.ts
+#EXTINF:-1,UK - Watch
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18761.ts
+#EXTINF:-1,UK - Real Lives
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18762.ts
+#EXTINF:-1,UK - Real Lives (CB1)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31883.ts
+#EXTINF:-1,UK - Challenge
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18763.ts
+#EXTINF:-1,UK - Alibi (B)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18760.ts
+#EXTINF:-1,UK - EDEN HD (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31393.ts
+#EXTINF:-1,UK - Life OK (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31395.ts
+#EXTINF:-1,UK - Quest (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31392.ts
+#EXTINF:-1,UK - Channel 4 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11493.ts
+#EXTINF:-1,UK - Channel 5 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/7079.ts
+#EXTINF:-1,UK - Sky Living
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11539.ts
+#EXTINF:-1,UK - Sky Living (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31675.ts
+#EXTINF:-1,UK - More 4
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15560.ts
+#EXTINF:-1,Dave HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25688.ts
+#EXTINF:-1,------------ Sky UK Culture ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15940.ts
+#EXTINF:-1,UK - Sky Arts HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23036.ts
+#EXTINF:-1,UK - National Geographic HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23034.ts
+#EXTINF:-1,UK - National Geographic
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11530.ts
+#EXTINF:-1,UK - National Geo Wild HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23035.ts
+#EXTINF:-1,UK - Nat Geo Wild
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14660.ts
+#EXTINF:-1,UK - Discovery HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23038.ts
+#EXTINF:-1,UK - Discovery
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14659.ts
+#EXTINF:-1,UK - Crime Investigation
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/13731.ts
+#EXTINF:-1,UK - Discovery Science
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/13695.ts
+#EXTINF:-1,UK - Discovery Turbo
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11503.ts
+#EXTINF:-1,UK - Discovery History
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11500.ts
+#EXTINF:-1,UK - Investigation Discovery
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11501.ts
+#EXTINF:-1,UK - Discovery Shed
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15530.ts
+#EXTINF:-1,UK - History Channel
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11516.ts
+#EXTINF:-1,UK - History 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18764.ts
+#EXTINF:-1,UK - Dmax
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11507.ts
+#EXTINF:-1,UK - Travel Channel
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18202.ts
+#EXTINF:-1,UK - Animal Planet
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11475.ts
+#EXTINF:-1,UK - Crime & Investigation
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18766.ts
+#EXTINF:-1,UK - ID
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18765.ts
+#EXTINF:-1,UK - Good Food
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32097.ts
+#EXTINF:-1,UK - Food Network (B)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31986.ts
+#EXTINF:-1,UK - Food Network
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11513.ts
+#EXTINF:-1,UK - Home and Health
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15551.ts
+#EXTINF:-1,------------ Sky UK Kids ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15939.ts
+#EXTINF:-1,UK - Cartoonito
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15431.ts
+#EXTINF:-1,UK - Cartoon Network
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15514.ts
+#EXTINF:-1,UK - Disney Channel
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/12591.ts
+#EXTINF:-1,UK - Disney Junior
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/14650.ts
+#EXTINF:-1,UK - Disney XD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15534.ts
+#EXTINF:-1,UK - Nick UK
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/22376.ts
+#EXTINF:-1,UK - Nick Toons
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/22377.ts
+#EXTINF:-1,UK - Nick Jr 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11531.ts
+#EXTINF:-1,UK - Nick Junior
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15260.ts
+#EXTINF:-1,UK - Nicktoons
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15570.ts
+#EXTINF:-1,UK - Nick
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32127.ts
+#EXTINF:-1,UK - Boomerang
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15505.ts
+#EXTINF:-1,UK - Boomerang (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31000.ts
+#EXTINF:-1,UK - CBeebies (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/31390.ts
+#EXTINF:-1,UK - Baby TV
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/13263.ts
+#EXTINF:-1,UK - Baby TV (CB)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30999.ts
+#EXTINF:-1,------------ MUSIC CHANNELS ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/9535.ts
+#EXTINF:-1,UK - MTV Dance HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17994.ts
+#EXTINF:-1,UK - MTV Rocks HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17993.ts
+#EXTINF:-1,UK - MTV Base HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17992.ts
+#EXTINF:-1,UK - MTV Hits HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17991.ts
+#EXTINF:-1,UK - MTV Music
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17999.ts
+#EXTINF:-1,UK - MTV Dance
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17998.ts
+#EXTINF:-1,UK - MTV Rocks
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17997.ts
+#EXTINF:-1,UK - MTV Base
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17996.ts
+#EXTINF:-1,UK - MTV Hits!
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/17995.ts
+#EXTINF:-1,UK - VH1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18000.ts
+#EXTINF:-1,UK - VIVA the Hits!
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18002.ts
+#EXTINF:-1,UK - Capital Tv
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15716.ts
+#EXTINF:-1,------------ Sky UK News ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15950.ts
+#EXTINF:-1,UK - Sky News HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23033.ts
+#EXTINF:-1,UK - Sky News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11550.ts
+#EXTINF:-1,UK - BBC News HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30316.ts
+#EXTINF:-1,UK - BBC World News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15503.ts
+#EXTINF:-1,UK - Al Jazeera English
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30315.ts
+#EXTINF:-1,UK - CNN
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/15521.ts
+#EXTINF:-1,UK - Fox News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18754.ts
+#EXTINF:-1,UK - Euronews
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32570.ts
+#EXTINF:-1,UK - France 24 English
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18756.ts
+#EXTINF:-1,UK - Bloomberg News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18755.ts
+#EXTINF:-1,UK - RTE News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/30317.ts
+#EXTINF:-1,UK - ABC News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/18757.ts
+#EXTINF:-1,UK - Bloomberg News (B)
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/11483.ts
+#EXTINF:-1,CGTN News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23039.ts
+#EXTINF:-1,CGTN Documentary
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/23040.ts
+#EXTINF:-1,--------------- USA TV ---------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25860.ts
+#EXTINF:-1,------------ USA GENERAL ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/29327.ts
+#EXTINF:-1,USA - Showtime HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32815.ts
+#EXTINF:-1,USA - Cinemax More
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32821.ts
+#EXTINF:-1,USA - HBO 3
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32817.ts
+#EXTINF:-1,USA - CBS Action
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25953.ts
+#EXTINF:-1,USA - CBS Drama
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25952.ts
+#EXTINF:-1,USA - CBSN
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25949.ts
+#EXTINF:-1,USA - ABC News
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32822.ts
+#EXTINF:-1,USA - Starz East
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25923.ts
+#EXTINF:-1,USA - Starz Edge
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25922.ts
+#EXTINF:-1,USA - Discovery Science
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32820.ts
+#EXTINF:-1,USA - Comedy Central HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25948.ts
+#EXTINF:-1,USA - Discovery Showcase
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25946.ts
+#EXTINF:-1,USA - FIX TV
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25942.ts
+#EXTINF:-1,USA - Food Network
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25941.ts
+#EXTINF:-1,USA - Nick HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25925.ts
+#EXTINF:-1,USA - SyFy HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25920.ts
+#EXTINF:-1,USA - TNT HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25919.ts
+#EXTINF:-1,USA - HGTV
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25932.ts
+#EXTINF:-1,USA - TVO Kids
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25918.ts
+#EXTINF:-1,------------ USA SPORTS ------------
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/29326.ts
+#EXTINF:-1,USA - FOX Sport 1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32818.ts
+#EXTINF:-1,USA - Fox Sports 1 HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25939.ts
+#EXTINF:-1,USA - ESPN HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32819.ts
+#EXTINF:-1,USA - TSN Sports 1
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20057.ts
+#EXTINF:-1,USA - TSN Sports 2
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32823.ts
+#EXTINF:-1,USA - TSN Sports 3
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32824.ts
+#EXTINF:-1,USA - TSN Sports 4
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/20055.ts
+#EXTINF:-1,USA - TSN Sports 5
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32825.ts
+#EXTINF:-1,USA - NFL Network
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/32816.ts
+#EXTINF:-1,USA - NBA HD
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25927.ts
+#EXTINF:-1,USA - NBC Sport
+http://213.136.90.30:8000/live/marchup/Fe1!jlKS189Fh.I9)$/25926.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
