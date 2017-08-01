@@ -88,6 +88,252 @@ http://46.249.60.210:15099/play/a01c
 
 
 
+#EXTINF:-1,Channel 4 (HD)
+http://s11.iptvapi.com:8081/HDCH4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,RTE One
+http://s2.iptvapi.com:8081/RTE1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,RTE Two [HD]
+http://s2.iptvapi.com:8081/RTE2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BBC 1 HD
+http://s11.iptvapi.com:8081/HDBBC1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BBC Two [HD]
+http://s11.iptvapi.com:8081/HDBBC2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,ITV
+http://s5.iptvapi.com:8081/ITV1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,ITV 2
+http://s11.iptvapi.com:8081/ITV2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,ITV 3
+http://s2.iptvapi.com:8081/ITV3/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,ITV 4
+http://s10.iptvapi.com:8081/ITV4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,3e
+http://s2.iptvapi.com:8081/3e/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,TV3 IE
+http://s2.iptvapi.com:8081/TV3IRL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky 1
+http://s11.iptvapi.com:8081/Sky1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky 2
+http://s11.iptvapi.com:8081/Sky2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Atlantic
+http://s11.iptvapi.com:8081/SkyAtl/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Dave
+http://s2.iptvapi.com:8081/dave/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,TG4
+http://s11.iptvapi.com:8081/TG4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,TCM +1 UK
+http://s2.iptvapi.com:8081/TCMUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Comedy Xtra
+http://s11.iptvapi.com:8081/CmdyXtr/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,CBS Reality
+http://s2.iptvapi.com:8081/CBSReality/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Cartoon Network UK
+http://s2.iptvapi.com:8081/CARUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,RTEjr
+http://s11.iptvapi.com:8081/RTEJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,DisneyJunior
+http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,DisneyChnl
+http://s11.iptvapi.com:8081/Disney/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Boomerang
+http://s11.iptvapi.com:8081/BOO/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Nick JR/VH1
+http://s11.iptvapi.com:8081/NICKJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV Hits
+http://s2.iptvapi.com:8081/MTVH/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV MUSIC
+http://s11.iptvapi.com:8081/MTVM/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV Dance
+http://s11.iptvapi.com:8081/MTVD/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV BASE
+http://s2.iptvapi.com:8081/MTVB/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV ROCKS
+http://s11.iptvapi.com:8081/MTVR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Viva
+http://s2.iptvapi.com:8081/VIVA/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Discovery History
+http://s2.iptvapi.com:8081/DISHist/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,ID UK
+http://s11.iptvapi.com:8081/IDUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Travel Channel+1 UK
+http://s5.iptvapi.com:8081/TRAUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Discovery1
+http://s11.iptvapi.com:8081/DIS1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Discovery Turbo
+http://s11.iptvapi.com:8081/DISTurbo/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Discovery Science
+http://s11.iptvapi.com:8081/DISS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Animal Planet uk
+http://s10.iptvapi.com:8081/ANIUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Greats Movies
+http://s11.iptvapi.com:8081/SkyGreats/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Movies Select
+http://s5.iptvapi.com:8081/SkySelect/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Premiere Movies
+http://s11.iptvapi.com:8081/SkyPremiere/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Action Movies
+http://s2.iptvapi.com:8081/SkyAction/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,SkyThriller Movies
+http://s2.iptvapi.com:8081/SkyCrime/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Comedy Movies
+http://s11.iptvapi.com:8081/SkyComedy/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky ScFiHorror Movies
+http://s11.iptvapi.com:8081/SkySci/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Family Movies
+http://s2.iptvapi.com:8081/SkyFamily/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Movies Disney
+http://s11.iptvapi.com:8081/SkyDisney/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky DramaRom Movies
+http://s11.iptvapi.com:8081/SkyDrama/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,mov4men1
+http://s2.iptvapi.com:8081/M4M/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Viasat Golf
+http://s11.iptvapi.com:8081/VSGOLF/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,British Eurosport2
+http://s11.iptvapi.com:8081/EU2UK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Setanta Ireland
+http://s2.iptvapi.com:8081/SETIRL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Racing UK
+http://s2.iptvapi.com:8081/RACUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Eurosport 1 RU
+http://s2.iptvapi.com:8081/EUru/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Premier Sports
+http://s11.iptvapi.com:8081/PRMSP/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Motors TV
+http://s2.iptvapi.com:8081/MOTUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,British Eurosport
+http://s11.iptvapi.com:8081/EUUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport ESPN
+http://s11.iptvapi.com:8081/BTSpESPN/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sp News HQ
+http://s2.iptvapi.com:8081/SKYSPNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport 3
+http://s2.iptvapi.com:8081/BTSpE/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport 1
+http://s2.iptvapi.com:8081/BTSp1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport 2
+http://s11.iptvapi.com:8081/BTSp2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Box Nation
+http://s10.iptvapi.com:8081/BOX/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports 1
+http://s9.iptvapi.com:8081/SkySP1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports 2
+http://s10.iptvapi.com:8081/SkySP2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports 3
+http://s11.iptvapi.com:8081/SkySP3/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports 4
+http://s11.iptvapi.com:8081/SkySP4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports 5
+http://s2.iptvapi.com:8081/SkySP5/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sports F1
+http://s2.iptvapi.com:8081/SkySPf1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MUTV
+http://s11.iptvapi.com:8081/MUTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Chelsea TV
+http://s11.iptvapi.com:8081/Chls/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,LFC TV
+http://s2.iptvapi.com:8081/LFCTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Discovery Channel Russia (HD)
+http://s2.iptvapi.com:8081/HDDIS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,MTV Live HD
+http://s2.iptvapi.com:8081/HDMTVL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,HD-Life
+http://s11.iptvapi.com:8081/HDLIFE/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Eurosport 1 HD
+http://s2.iptvapi.com:8081/HDEU/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,SKY NEWS
+http://s2.iptvapi.com:8081/SKYNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Crime Investigation
+http://s2.iptvapi.com:8081/Crime/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Cartoonito
+http://s2.iptvapi.com:8081/CARTOONITO/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Comedy Central
+http://s2.iptvapi.com:8081/COMEDY/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,History UK
+http://s2.iptvapi.com:8081/HISTUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Nat Geo Wild UK
+http://s10.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,National Geographic UK
+http://s2.iptvapi.com:8081/NATGEOUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,H2 UK
+http://s10.iptvapi.com:8081/H2UK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,At The Races
+http://s2.iptvapi.com:8081/ATRACES/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Fox News
+http://s11.iptvapi.com:8081/FOXNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Real Lives
+http://s2.iptvapi.com:8081/REALLIVES/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,GOLD UK
+http://s11.iptvapi.com:8081/gold/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Eden +1
+http://s11.iptvapi.com:8081/eden/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Home +1
+http://s11.iptvapi.com:8081/home/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Alibi
+http://s11.iptvapi.com:8081/alibi/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Watch
+http://s9.iptvapi.com:8081/watch/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Yesterday +1
+http://s2.iptvapi.com:8081/yesterday/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky living
+http://s2.iptvapi.com:8081/SkyLiving/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Baby TV
+http://s2.iptvapi.com:8081/BABYTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Nick UK
+http://s11.iptvapi.com:8081/NICUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,NICK TOONS
+http://s11.iptvapi.com:8081/NICTOON/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Nick Junior
+http://s11.iptvapi.com:8081/NICJRUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport 1 HD (test)
+http://s2.iptvapi.com:8081/re-bt1hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,BT Sport 2 HD (test)
+http://s11.iptvapi.com:8081/re-bt2hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sport 1 HD (test)
+http://s9.iptvapi.com:8081/re-skysp1hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sport 2 HD (test)
+http://s9.iptvapi.com:8081/re-skysp2hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sport 4 HD (test)
+http://s11.iptvapi.com:8081/re-skysp4hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sport 3 HD (test)
+http://s2.iptvapi.com:8081/re-skysp3hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+#EXTINF:-1,Sky Sport 5 HD (test)
+http://s11.iptvapi.com:8081/re-skysp5hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1,Big Brother 1
 http://albanet.mytring.al:8000/live/soloturn/tetor2017/528.ts
