@@ -1,127 +1,446 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
+#EXTM3U
+#EXTINF:-1,TF1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7664.ts
+#EXTINF:-1,TF1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4636.ts
+#EXTINF:-1,M6 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7665.ts
+#EXTINF:-1,M6
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4637.ts
+#EXTINF:-1,FRANCE 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7666.ts
+#EXTINF:-1,FRANCE 2
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4638.ts
+#EXTINF:-1,FRANCE 3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7667.ts
+#EXTINF:-1,FRANCE 3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4639.ts
+#EXTINF:-1,FRANCE 4 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7668.ts
+#EXTINF:-1,FRANCE 4
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2997.ts
+#EXTINF:-1,FRANCE 5 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7739.ts
+#EXTINF:-1,FRANCE 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2998.ts
+#EXTINF:-1,FRANCE O
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2999.ts
+#EXTINF:-1,RTS UN HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7674.ts
+#EXTINF:-1,RTS UN
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3517.ts
+#EXTINF:-1,RTS DEUX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7675.ts
+#EXTINF:-1,RTS DEUX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3364.ts
+#EXTINF:-1,CSTAR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7740.ts
+#EXTINF:-1,CSTAR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4644.ts
+#EXTINF:-1,CANAL8 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7669.ts
+#EXTINF:-1,CANAL8
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4641.ts
+#EXTINF:-1,NRJ12 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7673.ts
+#EXTINF:-1,NRJ12
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4645.ts
+#EXTINF:-1,6TER HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5472.ts
+#EXTINF:-1,6TER
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6922.ts
+#EXTINF:-1,NUMERO 23 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4646.ts
+#EXTINF:-1,NUMERO 23
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6924.ts
+#EXTINF:-1,HD1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4648.ts
+#EXTINF:-1,HD1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7751.ts
+#EXTINF:-1,CHERIE 25 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4647.ts
+#EXTINF:-1,CHERIE 25
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7752.ts
+#EXTINF:-1,W9 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7672.ts
+#EXTINF:-1,W9
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4643.ts
+#EXTINF:-1,TMC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7671.ts
+#EXTINF:-1,TMC
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2992.ts
+#EXTINF:-1,NT1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7670.ts
+#EXTINF:-1,NT1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4642.ts
+#EXTINF:-1,RTL9 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/2993.ts
+#EXTINF:-1,RTL9
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6923.ts
+#EXTINF:-1,AB1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7780.ts
+#EXTINF:-1,AB1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7782.ts
+#EXTINF:-1,AB3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9213.ts
+#EXTINF:-1,AB3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9214.ts
+#EXTINF:-1,TV BREIZH HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4649.ts
+#EXTINF:-1,TV BREIZH
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6921.ts
+#EXTINF:-1,13EME RUE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5464.ts
+#EXTINF:-1,13EME RUE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6875.ts
+#EXTINF:-1,SYFY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5463.ts
+#EXTINF:-1,SYFY FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6874.ts
+#EXTINF:-1,ELLE GIRL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5476.ts
+#EXTINF:-1,ELLE GIRL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6894.ts
+#EXTINF:-1,COMEDIE+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5486.ts
+#EXTINF:-1,COMEDIE+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6893.ts
+#EXTINF:-1,VIVOLTA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9204.ts
+#EXTINF:-1,CANAL+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5378.ts
+#EXTINF:-1,CANAL+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6868.ts
+#EXTINF:-1,CANAL+ FAMILY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5379.ts
+#EXTINF:-1,CANAL+ FAMILY
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7776.ts
+#EXTINF:-1,CANAL+ DECALE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5380.ts
+#EXTINF:-1,CANAL+ DECALE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6891.ts
+#EXTINF:-1,CANAL+ SERIES HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5377.ts
+#EXTINF:-1,CANAL+ SERIES
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6870.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5381.ts
+#EXTINF:-1,CANAL+ CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7775.ts
+#EXTINF:-1,CANAL+ SPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5376.ts
+#EXTINF:-1,CANAL+ SPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6871.ts
+#EXTINF:-1,CINE+ CLUB HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5388.ts
+#EXTINF:-1,CINE+ CLUB
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6880.ts
+#EXTINF:-1,CINE+  PREMIER HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5392.ts
+#EXTINF:-1,CINE+  PREMIER
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6881.ts
+#EXTINF:-1,CINE+ FRISSON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5467.ts
+#EXTINF:-1,CINE+ FRISSON
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6882.ts
+#EXTINF:-1,CINE+ EMOTION HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3355.ts
+#EXTINF:-1,CINE+ EMOTION
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7781.ts
+#EXTINF:-1,CINE+ FAMIZ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9212.ts
+#EXTINF:-1,CINE+ FAMIZ
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9215.ts
+#EXTINF:-1,CINE+ CLASSIC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5402.ts
+#EXTINF:-1,CINE+ CLASSIC
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6883.ts
+#EXTINF:-1,CINE FX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5481.ts
+#EXTINF:-1,CINE FX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6884.ts
+#EXTINF:-1,CINE POLAR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5482.ts
+#EXTINF:-1,CINE POLAR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6885.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5404.ts
+#EXTINF:-1,PARAMOUNT CHANNE FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7777.ts
+#EXTINF:-1,TCM CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5406.ts
+#EXTINF:-1,TCM CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6920.ts
+#EXTINF:-1,ACTION HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5409.ts
+#EXTINF:-1,ACTION
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6895.ts
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5372.ts
+#EXTINF:-1,E! ENTERTAINMENT FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6896.ts
+#EXTINF:-1,DISCOVERY HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5391.ts
+#EXTINF:-1,DISCOVERY FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6886.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5405.ts
+#EXTINF:-1,DISCOVERY SCIENCE FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6887.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5367.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6876.ts
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5389.ts
+#EXTINF:-1,NATIONAL GEO WILD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6877.ts
+#EXTINF:-1,PLANETE AE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5415.ts
+#EXTINF:-1,PLANETE AE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6888.ts
+#EXTINF:-1,PLANETE CI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5485.ts
+#EXTINF:-1,PLANETE CI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6889.ts
+#EXTINF:-1,CRIME DISTRICT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9282.ts
+#EXTINF:-1,CRIME DISTRICT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9283.ts
+#EXTINF:-1,SCIENCES & VIE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5417.ts
+#EXTINF:-1,SCIENCES & VIE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6890.ts
+#EXTINF:-1,USHUAIA TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5390.ts
+#EXTINF:-1,USHUAIA TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6897.ts
+#EXTINF:-1,VOYAGE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5403.ts
+#EXTINF:-1,VOYAGE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7773.ts
+#EXTINF:-1,HISTOIRE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5418.ts
+#EXTINF:-1,HISTOIRE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7772.ts
+#EXTINF:-1,PLANETE+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7785.ts
+#EXTINF:-1,PLANETE+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7788.ts
+#EXTINF:-1,RMC DECOUVERTE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5468.ts
+#EXTINF:-1,RMC DECOUVERTE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6919.ts
+#EXTINF:-1,SEASON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5419.ts
+#EXTINF:-1,SEASON
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7774.ts
+#EXTINF:-1,TREK HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3150.ts
+#EXTINF:-1,TREK
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7784.ts
+#EXTINF:-1,ANIMAUX HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7779.ts
+#EXTINF:-1,ANIMAUX
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7783.ts
+#EXTINF:-1,BEINSPORT 1 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4633.ts
+#EXTINF:-1,BEINSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7753.ts
+#EXTINF:-1,BEINSPORT 2 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4634.ts
+#EXTINF:-1,BEINSPORT 2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7754.ts
+#EXTINF:-1,BEINSPORT 3 FR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4635.ts
+#EXTINF:-1,BEINSPORT 3 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7755.ts
+#EXTINF:-1,BEINSPORT FR MAX 4
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7766.ts
+#EXTINF:-1,BEINSPORT FR MAX 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7767.ts
+#EXTINF:-1,BEINSPORT FR MAX 6
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7768.ts
+#EXTINF:-1,BEINSPORT FR MAX 7
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7769.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5366.ts
+#EXTINF:-1,SFR SPORT 1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6872.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5365.ts
+#EXTINF:-1,SFR SPORT 2
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6873.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9216.ts
+#EXTINF:-1,SFR SPORT 3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9218.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9217.ts
+#EXTINF:-1,SFR SPORT 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9219.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5371.ts
+#EXTINF:-1,EUROSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6878.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5370.ts
+#EXTINF:-1,EUROSPORT  2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6879.ts
+#EXTINF:-1,INFOSPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5487.ts
+#EXTINF:-1,INFOSPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6892.ts
+#EXTINF:-1,L'EQUIPE 21 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3579.ts
+#EXTINF:-1,L'EQUIPE 21
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7790.ts
+#EXTINF:-1,GOLF+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5469.ts
+#EXTINF:-1,GOLF+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6906.ts
+#EXTINF:-1,GOLF CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5396.ts
+#EXTINF:-1,GOLF CHANNEL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6907.ts
+#EXTINF:-1,EXTREME SPORTS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5490.ts
+#EXTINF:-1,EQUIDIA LIFE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5466.ts
+#EXTINF:-1,EQUIDIA LIFE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6908.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5465.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6909.ts
+#EXTINF:-1,MCM HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5408.ts
+#EXTINF:-1,MCM
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6902.ts
+#EXTINF:-1,MCM TOP HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3153.ts
+#EXTINF:-1,MCM  TOP
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7789.ts
+#EXTINF:-1,RFM TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6866.ts
+#EXTINF:-1,RFM TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6904.ts
+#EXTINF:-1,MTV FRANCE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5484.ts
+#EXTINF:-1,MTV FRANCE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6905.ts
+#EXTINF:-1,TRACE URBAN HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5470.ts
+#EXTINF:-1,TRACE URBAN
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6903.ts
+#EXTINF:-1,TRACE TROPICAL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9293.ts
+#EXTINF:-1,MEZZO LIVE HD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9203.ts
+#EXTINF:-1,MEZZO LIVE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9208.ts
+#EXTINF:-1,MEZZO FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9205.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5462.ts
+#EXTINF:-1,DISNEY JUNIOR FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6898.ts
+#EXTINF:-1,DISNEY XD HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5461.ts
+#EXTINF:-1,DISNEY XD FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6899.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5393.ts
+#EXTINF:-1,DISNEY CHANNEL FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6900.ts
+#EXTINF:-1,DISNEY CINEMA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5395.ts
+#EXTINF:-1,DISNEY CINEMA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6901.ts
+#EXTINF:-1,BOOMERANG HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5407.ts
+#EXTINF:-1,BOOMERANG FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6910.ts
+#EXTINF:-1,BOING HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5410.ts
+#EXTINF:-1,BOING FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6911.ts
+#EXTINF:-1,CANAL J HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5416.ts
+#EXTINF:-1,CANAL J
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6912.ts
+#EXTINF:-1,PIWI+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5479.ts
+#EXTINF:-1,PIWI+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6913.ts
+#EXTINF:-1,TELETOON+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5480.ts
+#EXTINF:-1,TELETOON+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6914.ts
+#EXTINF:-1,NICKELODEON HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5477.ts
+#EXTINF:-1,NICKELODEON FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6915.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5478.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3508.ts
+#EXTINF:-1,CARTOON   NETWORK
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7787.ts
+#EXTINF:-1,TIJI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5488.ts
+#EXTINF:-1,TIJI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6916.ts
+#EXTINF:-1,GULLI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3003.ts
+#EXTINF:-1,GULLI
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9202.ts
+#EXTINF:-1,MANGA HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5394.ts
+#EXTINF:-1,MANGA
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6917.ts
+#EXTINF:-1,GAME ONE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5483.ts
+#EXTINF:-1,GAME ONE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6918.ts
+#EXTINF:-1,LCI HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5497.ts
+#EXTINF:-1,FRANCE INFO
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9200.ts
+#EXTINF:-1,BFM TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7676.ts
+#EXTINF:-1,BFM TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9275.ts
+#EXTINF:-1,BFM BUSINESS HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9285.ts
+#EXTINF:-1,BFM BUSINESS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9286.ts
+#EXTINF:-1,CANAL NEWS HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9206.ts
+#EXTINF:-1,CANAL NEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9210.ts
+#EXTINF:-1,EURONEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9284.ts
+#EXTINF:-1,TV5  MONDE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7770.ts
+#EXTINF:-1,ARTE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7771.ts
+#EXTINF:-1,ARTE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9276.ts
+#EXTINF:-1,FRANCE24
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9288.ts
+#EXTINF:-1,I24 NEWS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9289.ts
 
 
 
 
-#EXTINF:-1,FR_ACTION
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/450.ts
-#EXTINF:-1,FR_TCM_CINEMA
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/469.ts
-#EXTINF:-1,FR_COMEDIE
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/464.ts
-#EXTINF:-1,FR_ANIMAUX
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/439.ts
-#EXTINF:-1,FR_NATIONAL-GEO
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/435.ts
-#EXTINF:-1,FR_NAT-GEO-WILD
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/436.ts
-#EXTINF:-1,FR_DISCOVRY
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/437.ts
-#EXTINF:-1,FR_DISCOVRY-SCI
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/438.ts
-#EXTINF:-1,FR_USHUAIA_TV
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/440.ts
-#EXTINF:-1,FR_TREK
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/442.ts
-#EXTINF:-1,FR_SEASON
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/443.ts
-#EXTINF:-1,FR_SCIENCE_VIE
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/448.ts
-#EXTINF:-1,FR_RMC_DECOUVERTE
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/447.ts
-#EXTINF:-1,FR_CANAL CINEMA
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/454.ts
-#EXTINF:-1,FR_CANAL DECALE
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/453.ts
-#EXTINF:-1,FR_CANAL FAMILY
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/452.ts
-#EXTINF:-1,FR_CANAL SERIES
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/451.ts
-#EXTINF:-1,FR_CINE_PREMIER
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/456.ts
-#EXTINF:-1,FR_CINE_POLAR
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/457.ts
-#EXTINF:-1,FR_CINE_FX
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/458.ts
-#EXTINF:-1,FR_CINE_FRISSON
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/459.ts
-#EXTINF:-1,FR_CINE_FAMIZ
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/460.ts
-#EXTINF:-1,FR_CINE_EMOTION
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/461.ts
-#EXTINF:-1,FR_CINE_CLUB
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/462.ts
-#EXTINF:-1,FR_CINE_CLASSIC
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/463.ts
-#EXTINF:-1,FR_TF1
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/470.ts
-#EXTINF:-1,FR_M6
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/471.ts
-#EXTINF:-1,FR_FRANCE_2
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/473.ts
-#EXTINF:-1,FR_FRANCE_3
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/474.ts
-#EXTINF:-1,FR_FRANCE_4
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/475.ts
-#EXTINF:-1,FR_FRANCE_5
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/476.ts
-#EXTINF:-1,FR_FRANCE_O
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/472.ts
-#EXTINF:-1,FR_CANAL
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/455.ts
-#EXTINF:-1,FR_OCS_MAX
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/465.ts
-#EXTINF:-1,FR_OCS_GEANT
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/466.ts
-#EXTINF:-1,FR_OCS_CITY
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/467.ts
-#EXTINF:-1,FR_OCS_CHOC
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/468.ts
-#EXTINF:-1,FR_PLANETE-CI
-#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/444.ts
 
 
 
@@ -142,375 +461,229 @@ http://tv.primatv.club:8899/live/prima10simo2/freetv2/444.ts
 
 
 
-#EXTINF:-1,FR: C8
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1987.ts
-#EXTINF:-1,FR: W9
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2373.ts
-#EXTINF:-1,FR: M 6
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1933.ts
-#EXTINF:-1,FR: TF 1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1934.ts
-#EXTINF:-1,FR: NT 1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2377.ts
-#EXTINF:-1,FR: AB 1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1988.ts
-#EXTINF:-1,FR: Piwi
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3571.ts
-#EXTINF:-1,FR: CLUB
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2542.ts
-#EXTINF:-1,FR: O L TV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3249.ts
-#EXTINF:-1,FR:  LAUNE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2541.ts
-#EXTINF:-1,FR: TMC HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1413.ts
-#EXTINF:-1,FR: Gulli-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2440.ts
-#EXTINF:-1,FR: WEO HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2002.ts
-#EXTINF:-1,FR: Mangas
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2545.ts
-#EXTINF:-1,FR:  Teva HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2006.ts
-#EXTINF:-1,FR: LA TELE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3577.ts
-#EXTINF:-1,FR: 6TER HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2001.ts
-#EXTINF:-1,FR: RTL 9 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1414.ts
-#EXTINF:-1,FR: FRANCE 5
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1241.ts
-#EXTINF:-1,FR: EQUIPE 21
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2497.ts
-#EXTINF:-1,FR: 13-RUE-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2374.ts
-#EXTINF:-1,FR: COMEDIE  HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1996.ts
-#EXTINF:-1,FR: TCM CINEMA
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3570.ts
-#EXTINF:-1,FR: Season_HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3784.ts
-#EXTINF:-1,FR: France-4-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2444.ts
-#EXTINF:-1,FR: France-O-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2443.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1238.ts
-#EXTINF:-1,FR: FRANCE 3 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1239.ts
-#EXTINF:-1,FR: PLANETE_CI
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3568.ts
-#EXTINF:-1,FR: RTS La Deux HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2517.ts
-#EXTINF:-1,FR: RTS La Une HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2516.ts
-#EXTINF:-1,FR: A LA CARTE 9 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1529.ts
-#EXTINF:-1,FR: SFR SPORT 3
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3785.ts
-#EXTINF:-1,FR: A LA CARTE 8 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1530.ts
-#EXTINF:-1,FR: A LA CARTE 7 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1531.ts
-#EXTINF:-1,FR: A LA CARTE 6 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1532.ts
-#EXTINF:-1,FR: A LA CARTE 5 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1401.ts
-#EXTINF:-1,FR: A LA CARTE 4 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1402.ts
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1403.ts
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1404.ts
-#EXTINF:-1,FR: A LA CARTE 10 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1534.ts
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1405.ts
-#EXTINF:-1,FR: E! Entertainment
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3319.ts
-#EXTINF:-1,FR: TV5 Monde Europe HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1412.ts
-#EXTINF:-1,FR: DISCOVERY SCIENCE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3569.ts
-#EXTINF:-1,.....FRANCE SPORT......
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2530.ts
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5038.ts
-#EXTINF:-1,FR: SFR_Sport_2_HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3782.ts
-#EXTINF:-1,FR: SPORTS+
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2519.ts
-#EXTINF:-1,FR: INFO SPORT+
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2520.ts
-#EXTINF:-1,FR: Ma Chaine Sport
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2496.ts
-#EXTINF:-1,FR: EuroSport 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1400.ts
-#EXTINF:-1,FR: Eurosport-2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1986.ts
-#EXTINF:-1,FR: EURONEWS
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3317.ts
-#EXTINF:-1,FR: CANAL  SPORT HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1003.ts
-#EXTINF:-1,FR: beINSport 1 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1032.ts
-#EXTINF:-1,FR: beINSport 2 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1033.ts
-#EXTINF:-1,FR: beINSport  3 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1034.ts
-#EXTINF:-1,FR: BEiN SPORT 1 Backup
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5383.ts
-#EXTINF:-1,FR: BEiN SPORT 2 Backup
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5384.ts
-#EXTINF:-1,FR: BEiN SPORT 3 Backup
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5385.ts
-#EXTINF:-1,FR: BEINSPORT_MAX5
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1921.ts
-#EXTINF:-1,FR: BEIN MAX 4
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1922.ts
-#EXTINF:-1,......FRANCE MUSIQUE........
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2532.ts
-#EXTINF:-1,FR: MTV Music
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2502.ts
-#EXTINF:-1,FR: M6 Music
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2503.ts
-#EXTINF:-1,FR: NRJ  12
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1840.ts
-#EXTINF:-1,FR: Rmc Decouverte
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2494.ts
-#EXTINF:-1,.......FRANCE INFORMATION.....
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2531.ts
-#EXTINF:-1,FR: TELETOON
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2485.ts
-#EXTINF:-1,FR : EURONEWS
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2500.ts
-#EXTINF:-1,FR: BFM TV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2376.ts
-#EXTINF:-1,FR: BFM
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2375.ts
-#EXTINF:-1,FR: BoomeRang
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1398.ts
-#EXTINF:-1,..... FRANCE JEUNESSE............
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2533.ts
-#EXTINF:-1,FR: TIJI
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2493.ts
-#EXTINF:-1,FR: Disney XD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2504.ts
-#EXTINF:-1,FR: BOING
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2499.ts
-#EXTINF:-1,FR: Disney Channel  1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2505.ts
-#EXTINF:-1,FR: Disney Channel
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2506.ts
-#EXTINF:-1,FR: Disney xd  HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1993.ts
-#EXTINF:-1,FR: DISNEY CINEMA
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1991.ts
-#EXTINF:-1,FR: Cartoon NetWork
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1392.ts
-#EXTINF:-1,..... FRANCE DECOUVERTE........
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2534.ts
-#EXTINF:-1,FR: SCIENCE ET VIE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2540.ts
-#EXTINF:-1,FR: National Geo
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2501.ts
-#EXTINF:-1,FR: TOUTE l'HISTOIRE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2492.ts
-#EXTINF:-1,FR: Planete-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2441.ts
-#EXTINF:-1,FR: Planete-A-and-E-HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2442.ts
-#EXTINF:-1,FR: National Geo Wild
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1036.ts
-#EXTINF:-1,FR: Animaux HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1409.ts
-#EXTINF:-1,FR: USHUAIA HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2539.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1391.ts
-#EXTINF:-1,FR: DISCOVERY HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1992.ts
-#EXTINF:-1,......FRANCE CINEMA........
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2535.ts
-#EXTINF:-1,FR :SYFY HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1837.ts
-#EXTINF:-1,FR: OCS CITY
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1838.ts
-#EXTINF:-1,FR:OCS CHOC HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1839.ts
-#EXTINF:-1,FR:OCS MAX
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1994.ts
-#EXTINF:-1,FR: OLTV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2484.ts
-#EXTINF:-1,FR: D17
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2507.ts
-#EXTINF:-1,FR: CHERIE 25
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2498.ts
-#EXTINF:-1,FR: LA CHAINE NORMANDIE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2491.ts
-#EXTINF:-1,FR: PARIS PREMIERE  HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2508.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2495.ts
-#EXTINF:-1,FR: Orange Cine Comedie HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2488.ts
-#EXTINF:-1,FR: Orange Cine Aventure HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2489.ts
-#EXTINF:-1,FR: Orange Cine Action HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2490.ts
-#EXTINF:-1,FR: CANAL PLAY 1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2003.ts
-#EXTINF:-1,FR: CANAL PLAY 2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2643.ts
-#EXTINF:-1,FR: CANAL PLAY 3
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2004.ts
-#EXTINF:-1,FR: CANAL PLAY 4
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2644.ts
-#EXTINF:-1,FR: CANAL PLAY 5
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2005.ts
-#EXTINF:-1,FR: CANAL PLAY 6
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2645.ts
-#EXTINF:-1,FR:CANALPLAY-7
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2244.ts
-#EXTINF:-1,FR:CANALPLAY-8
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2245.ts
-#EXTINF:-1,FR:CANALPLAY-9
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2246.ts
-#EXTINF:-1,FR: CANAL PLAY 13
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2652.ts
-#EXTINF:-1,FR: CANAL PLAY 14
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2653.ts
-#EXTINF:-1,FR: CANAL PLAY 15
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2654.ts
-#EXTINF:-1,FR: SERIE CLUB HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1251.ts
-#EXTINF:-1,FR: OCS Geants HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1995.ts
-#EXTINF:-1,FR: Cine Plus Premier HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1386.ts
-#EXTINF:-1,FR: Cine Plus Frisson HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1387.ts
-#EXTINF:-1,FR: Cine Plus Famiz HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1388.ts
-#EXTINF:-1,FR: FRANCE 24
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2537.ts
-#EXTINF:-1,FR: CINE POLAR
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2536.ts
-#EXTINF:-1,FR: CANAL FAMILY HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2538.ts
-#EXTINF:-1,FR: Cine Plus Emotion HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1389.ts
-#EXTINF:-1,FR: CINE FX
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1870.ts
-#EXTINF:-1,FR: Cine Classic HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1390.ts
-#EXTINF:-1,FR: CANALPLAY-2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2243.ts
-#EXTINF:-1,FR: CANAL Series HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1246.ts
-#EXTINF:-1,FR: Canal Plus Sport HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1393.ts
-#EXTINF:-1,FR: Canal Plus Series HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1394.ts
-#EXTINF:-1,FR: Canal Plus Decale HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1406.ts
-#EXTINF:-1,FR: Canal Plus Cinema HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1395.ts
-#EXTINF:-1,FR: Canal Plus
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1396.ts
-#EXTINF:-1,FR: Canal  Cinema HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1037.ts
-#EXTINF:-1,FR: Action HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/1410.ts
-#EXTINF:-1,FR:  LCi
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6820.ts
-#EXTINF:-1,FR: Action
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6828.ts
-#EXTINF:-1,FR: CSTAR
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6825.ts
-#EXTINF:-1,FR: Enorme
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6826.ts
-#EXTINF:-1,FR: Game One
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6824.ts
-#EXTINF:-1,FR: InfosportPlus
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6823.ts
-#EXTINF:-1,FR: KTO
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6822.ts
-#EXTINF:-1,FR: LCP
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6821.ts
-#EXTINF:-1,FR: Numero-23
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6834.ts
-#EXTINF:-1,FR: Paramount Channel
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6829.ts
-#EXTINF:-1,FR: Paris-Premiere
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6835.ts
-#EXTINF:-1,FR: Science-et-Vie-TV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6832.ts
-#EXTINF:-1,FR: Seasons
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6833.ts
-#EXTINF:-1,FR: TV Breizh
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6830.ts
-#EXTINF:-1,FR: Voyage-TV
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6831.ts
-#EXTINF:-1,FR: Zouzous
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/6827.ts
-#EXTINF:-1,---* V.I.P. FR *---
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2572.ts
-#EXTINF:-1,FR: NUMERO 23
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2571.ts
-#EXTINF:-1,FR: MTV France
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2578.ts
-#EXTINF:-1,FR: I 24
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2576.ts
-#EXTINF:-1,FR: HISTOIRE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2577.ts
-#EXTINF:-1,FR: HD1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2570.ts
-#EXTINF:-1,FR: FOOT
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2580.ts
-#EXTINF:-1,FR: D8 & C8 Backup
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5469.ts
-#EXTINF:-1,FR: SFR SPORT 4
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/5906.ts
-#EXTINF:-1,FR: EQUIDIA LIVE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2581.ts
-#EXTINF:-1,FR: EQUIDIA LIFE
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2582.ts
-#EXTINF:-1,FR: CANAL HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/2574.ts
-#EXTINF:-1,FR:LOCAL W9
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3336.ts
-#EXTINF:-1,FR:LOCAL TMC
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3337.ts
-#EXTINF:-1,FR:LOCAL TF1
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3338.ts
-#EXTINF:-1,FR:LOCAL RTS Un
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3339.ts
-#EXTINF:-1,FR:LOCAL RTS Deux
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3340.ts
-#EXTINF:-1,FR:LOCAL L'équipe 21
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3345.ts
-#EXTINF:-1,FR:LOCAL Gulli
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3349.ts
-#EXTINF:-1,FR: LOCAL M6 HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/4790.ts
-#EXTINF:-1,FR:LOCAL France Ô
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3350.ts
-#EXTINF:-1,FR:LOCAL France 5
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3351.ts
-#EXTINF:-1,FR:LOCAL France 4
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3352.ts
-#EXTINF:-1,FR:LOCAL France 3
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3353.ts
-#EXTINF:-1,FR:LOCAL France 2
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3354.ts
-#EXTINF:-1,FR:LOCAL Euronews Fr
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3355.ts
-#EXTINF:-1,FR:LOCAL Canal  Sport
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3358.ts
-#EXTINF:-1,FR:LOCAL Canal
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3359.ts
-#EXTINF:-1,FR:LOCAL 6ter HD
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3362.ts
-#EXTINF:-1,FR:  I tele
-http://clientportalpro.com:2500/live/Tedmbappe685/Kingblinggtest854/3335.ts
+
+
+
+
+
+
+#EXTINF:-1,FR:RTS_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10198.ts
+#EXTINF:-1,FR:RTS_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10199.ts
+#EXTINF:-1,FR:ACTION
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6832.ts
+#EXTINF:-1,FR:TF1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6824.ts
+#EXTINF:-1,FR:M6
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6765.ts
+#EXTINF:-1,FR:FRANCE2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8181.ts
+#EXTINF:-1,FR:FRANCE3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8661.ts
+#EXTINF:-1,FR:FRANCE4
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8194.ts
+#EXTINF:-1,FR:FRANCE5
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6455.ts
+#EXTINF:-1,FR:FRANCE_O
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8192.ts
+#EXTINF:-1,FR:CANAL+
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8212.ts
+#EXTINF:-1,FR:CANAL+DECALE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8204.ts
+#EXTINF:-1,FR:CANAL+FAMILY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8214.ts
+#EXTINF:-1,FR:CANAL+SERIES
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8663.ts
+#EXTINF:-1,FR:NUMERO_23
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8381.ts
+#EXTINF:-1,FR:CANAL+CINEMA
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8213.ts
+#EXTINF:-1,FR:TIJI
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10200.ts
+#EXTINF:-1,FR:OCS_Max
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6829.ts
+#EXTINF:-1,FR:NAT_GEO
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6842.ts
+#EXTINF:-1,FR:CANAL+SPORT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8211.ts
+#EXTINF:-1,FR:CINE+PREMIER
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8227.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8185.ts
+#EXTINF:-1,FR:CINE+FAMIZ
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8228.ts
+#EXTINF:-1,FR:CINE_CLUB
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9286.ts
+#EXTINF:-1,FR:CINE+EMOTION
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8229.ts
+#EXTINF:-1,FR:CINE+CLASSIC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8210.ts
+#EXTINF:-1,FR:OCS_CHOC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6621.ts
+#EXTINF:-1,FR:OCS_Geants
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8219.ts
+#EXTINF:-1,FR:OCS_CITY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9602.ts
+#EXTINF:-1,FR:CINE_POLAR_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9287.ts
+#EXTINF:-1,FR:CINE_FX
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9600.ts
+#EXTINF:-1,FR:RTL9
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6469.ts
+#EXTINF:-1,FR:13eme_Rue_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6622.ts
+#EXTINF:-1,FR:SERIE_CLUB
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8667.ts
+#EXTINF:-1,FR:TV_BREIZH
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10193.ts
+#EXTINF:-1,FR:AB1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10189.ts
+#EXTINF:-1,FR:Syfy
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9285.ts
+#EXTINF:-1,FR:TEVA
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8666.ts
+#EXTINF:-1,FR:W9
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6627.ts
+#EXTINF:-1,FR:6TER
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/4798.ts
+#EXTINF:-1,FR:TMC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6628.ts
+#EXTINF:-1,FR:NT1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8665.ts
+#EXTINF:-1,FR:D8
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8524.ts
+#EXTINF:-1,FR:D17
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6626.ts
+#EXTINF:-1,FR:NRJ12
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8189.ts
+#EXTINF:-1,FR:CHERIE25
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6633.ts
+#EXTINF:-1,FR:HD1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6624.ts
+#EXTINF:-1,FR:ROUGE_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6656.ts
+#EXTINF:-1,FR:COMEDIE+
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8201.ts
+#EXTINF:-1,FR:USHUAIA
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8178.ts
+#EXTINF:-1,FR:NAT_GEO-WILD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8190.ts
+#EXTINF:-1,FR:DISCOVERY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8226.ts
+#EXTINF:-1,FR:ANIMAUX
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/5788.ts
+#EXTINF:-1,FR:VOYAGE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9283.ts
+#EXTINF:-1,FR:PLANET
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9282.ts
+#EXTINF:-1,FR:PLANETE_A&E
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8671.ts
+#EXTINF:-1,FR:PLANETE_CI
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6642.ts
+#EXTINF:-1,FR:DISCOVERY_SCIENCE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8670.ts
+#EXTINF:-1,FR:SCIENCES&VIE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8218.ts
+#EXTINF:-1,FR:Chasse_et_Peche
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8683.ts
+#EXTINF:-1,FR:RMC_DECOUVERTE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6478.ts
+#EXTINF:-1,FR:TOUTE_L_HISTOIRE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9284.ts
+#EXTINF:-1,FR:EUROSPORT1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8177.ts
+#EXTINF:-1,FR:EUROSPORT2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8176.ts
+#EXTINF:-1,FR:INFOSPORT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8220.ts
+#EXTINF:-1,FR:FOOT_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8198.ts
+#EXTINF:-1,FR:MachaineSport_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10105.ts
+#EXTINF:-1,FR:FRANCE24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9973.ts
+#EXTINF:-1,FR:L'EQUIPE21
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6780.ts
+#EXTINF:-1,FR:Kombat_Sport
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9300.ts
+#EXTINF:-1,FR:M6_MUSIC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8180.ts
+#EXTINF:-1,FR:VIRGIN
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10138.ts
+#EXTINF:-1,FR:MCM_TOP
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10194.ts
+#EXTINF:-1,FR:MTV_MUSIC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10139.ts
+#EXTINF:-1,FR:DISNEY_CHANNEL
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8225.ts
+#EXTINF:-1,FR:DISNEY_CINEMA
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8200.ts
+#EXTINF:-1,FR:DISNEY_CINEMAGIC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8224.ts
+#EXTINF:-1,FR:DISNEY_JUNIOR
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8668.ts
+#EXTINF:-1,FR:DISNEY_XD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9304.ts
+#EXTINF:-1,FR:CARTOON_NETWORK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8232.ts
+#EXTINF:-1,FR:NICKELODEON_4TEEN
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9417.ts
+#EXTINF:-1,FR:Nickelodeon_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9416.ts
+#EXTINF:-1,FR:Boomerang_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9307.ts
+#EXTINF:-1,FR:MANGAS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8669.ts
+#EXTINF:-1,FR:GULLI
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8221.ts
+#EXTINF:-1,FR:Piwi
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9306.ts
+#EXTINF:-1,FR:BOING
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9302.ts
+#EXTINF:-1,FR:Canal_J
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8233.ts
+#EXTINF:-1,FR:TELETOON+
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9301.ts
+#EXTINF:-1,FR:J_ONE_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9303.ts
+#EXTINF:-1,FR:ZOUZOU
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9305.ts
+#EXTINF:-1,FR:iTELE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6654.ts
+#EXTINF:-1,FR:ARTE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6611.ts
+#EXTINF:-1,FR:FRANCE_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6651.ts
+#EXTINF:-1,FR:TV5_monde
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6650.ts
+#EXTINF:-1,FR:EURONEWS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6653.ts
+#EXTINF:-1,FR:BFM_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6652.ts
+#EXTINF:-1,BE:LA_UNE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9601.ts
+#EXTINF:-1,FR:ENORME_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6657.ts
+#EXTINF:-1,FR:GRAND_LILLE_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6659.ts
+#EXTINF:-1,FR:PARIS_PREMIERE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10196.ts
+#EXTINF:-1,FR:E
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10195.ts
+#EXTINF:-1,FR:WEO
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6658.ts
+#EXTINF:-1,FR:LA_TELE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6667.ts
+
+
+
+
+
+
+
+
+
+
+
+

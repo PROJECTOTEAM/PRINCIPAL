@@ -1,569 +1,246 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 25-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
+#EXTINF:-1,(TR) Yaban TV
+http://85.144.43.35:8001/play/a01y
+#EXTINF:-1,(TR) Fil TV
+http://85.144.43.35:8001/play/a02r
+#EXTINF:-1,(TR) TV 8 Int.
+http://85.144.43.35:8001/play/a01j
+#EXTINF:-1,(TR) Show Max
+http://85.144.43.35:8001/play/a01v
+#EXTINF:-1,(TR) Ekin Turk
+http://85.144.43.35:8001/play/a01r
+#EXTINF:-1,(TR) Rehber TV
+http://85.144.43.35:8001/play/a01o
+#EXTINF:-1,(TR) TV 6 Ankara
+http://85.144.43.35:8001/play/a02c
+#EXTINF:-1,(TR) Berat TV
+http://85.144.43.35:8001/play/a01q
+#EXTINF:-1,(TR) Halk TV
+http://85.144.43.35:8001/play/a022
+#EXTINF:-1,(KR) Zarok TV
+http://85.144.43.35:8001/play/a02d
+#EXTINF:-1,(TR) Dream TV
+http://85.144.43.35:8001/play/a01g
+#EXTINF:-1,(TR) Show Turk
+http://85.144.43.35:8001/play/a01u
+#EXTINF:-1,(TR) Gaziantep Olay TV
+http://85.144.43.35:8001/play/a027
+#EXTINF:-1,(TR) MGC
+http://85.144.43.35:8001/play/a01k
+#EXTINF:-1,(TR) Dream Turk
+http://85.144.43.35:8001/play/a01h
+#EXTINF:-1,(TR) Cay TV
+http://85.144.43.35:8001/play/a01z
+#EXTINF:-1,(TR) NR1 Turk HD
+http://85.144.43.35:8001/play/a01n
+#EXTINF:-1,(TR) ATV Avrupa
+http://85.144.43.35:8001/play/a02t
+#EXTINF:-1,(TR) Flash TV
+http://85.144.43.35:8001/play/a01x
+#EXTINF:-1,(TR) Power Turk 4K+
+http://85.144.43.35:8001/play/a02n
+#EXTINF:-1,(TR) NR1 HD
+http://85.144.43.35:8001/play/a025
+#EXTINF:-1,(TR) Bereket TV
+http://85.144.43.35:8001/play/a02f
+#EXTINF:-1,(TR) Kanal 58
+http://85.144.43.35:8001/play/a02j
+#EXTINF:-1,(TR) Euro D
+http://85.144.43.35:8001/play/a01i
+#EXTINF:-1,(TR) Power TV 4K+
+http://85.144.43.35:8001/play/a02m
+#EXTINF:-1,(KR) Evin TV
+http://85.144.43.35:8001/play/a02h
+#EXTINF:-1,(TR) Akit TV
+http://85.144.43.35:8001/play/a01p
+#EXTINF:-1,(TR) Ordu 52 TV
+http://85.144.43.35:8001/play/a024
+#EXTINF:-1,(TR) Haberaks TV
+http://85.144.43.35:8001/play/a02g
+#EXTINF:-1,(TR) Euro Star
+http://85.144.43.35:8001/play/a01s
+#EXTINF:-1,(TR) Bengu Turk
+http://85.144.43.35:8001/play/a023
+#EXTINF:-1,(TR) Medine TV
+http://85.144.43.35:8001/play/a02i
+#EXTINF:-1,(TR) Kanal B
+http://85.144.43.35:8001/play/a01m
+#EXTINF:-1,(TR) Akilli TV
+http://85.144.43.35:8001/play/a028
 
-#EXTM3U
-#EXTINF:-1,Iptv-eu
-http://antensiztv.iptveu.xyz:8000/movie/www.iptveu.eu/www.iptveu.eu/10428.mkv
-#EXTINF:-1,TR: TRT1 FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4931.ts
-#EXTINF:-1,TR: TRT1 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5686.ts
-#EXTINF:-1,TR: TRT1 SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3718.ts
-#EXTINF:-1,TR: ATV FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4944.ts
-#EXTINF:-1,TR: ATV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2838.ts
-#EXTINF:-1,TR: ATV SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5682.ts
-#EXTINF:-1,TR: ATV HD EU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8362.ts
-#EXTINF:-1,TR: STAR TV FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4932.ts
-#EXTINF:-1,TR: STAR TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2940.ts
-#EXTINF:-1,TR: STAR TV SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2839.ts
-#EXTINF:-1,TR: STAR TV EU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8359.ts
-#EXTINF:-1,TR: SHOW TV FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4933.ts
-#EXTINF:-1,TR: SHOW TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5685.ts
-#EXTINF:-1,TR: SHOW TV SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2841.ts
-#EXTINF:-1,TR: SHOWTV HD EU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8360.ts
-#EXTINF:-1,TR: KANAL D FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4937.ts
-#EXTINF:-1,TR: KANAL D HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5684.ts
-#EXTINF:-1,TR: KANAL D SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2843.ts
-#EXTINF:-1,TR: KANAL D HD EU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8361.ts
-#EXTINF:-1,TR: FOX FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4940.ts
-#EXTINF:-1,TR: FOX HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2847.ts
-#EXTINF:-1,TR: FOX SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2958.ts
-#EXTINF:-1,TR: BEYAZ TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2957.ts
-#EXTINF:-1,TR: BEYAZ TV FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4943.ts
-#EXTINF:-1,TR: A HABER FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4946.ts
-#EXTINF:-1,TR: A HABER
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2943.ts
-#EXTINF:-1,TR: CNN HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2960.ts
-#EXTINF:-1,TR: CNN TURK HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4941.ts
-#EXTINF:-1,TR: HABER TURK HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4939.ts
-#EXTINF:-1,TR: HABERTURK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2945.ts
-#EXTINF:-1,TR: HABER 61
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9080.ts
-#EXTINF:-1,TR: A SPOR
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2850.ts
-#EXTINF:-1,TR: A SPOR FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4945.ts
-#EXTINF:-1,TR: NTV SPOR
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2852.ts
-#EXTINF:-1,TR: NTV SPOR FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4934.ts
-#EXTINF:-1,TR: NTV SPOR HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2962.ts
-#EXTINF:-1,TR: A TÜRK NEWS
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9200.ts
-#EXTINF:-1,TR: A2 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6827.ts
-#EXTINF:-1,TR: ABANT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10439.ts
-#EXTINF:-1,TR: A2 SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6960.ts
-#EXTINF:-1,TR: CLUBTÜRK TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9192.ts
-#EXTINF:-1,TR: AHI TV KIRSEHIR
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8598.ts
-#EXTINF:-1,TR: AKILLI TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7563.ts
-#EXTINF:-1,TR: AKIT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4617.ts
-#EXTINF:-1,TR: CORUM TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6974.ts
-#EXTINF:-1,TR: CRT
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9191.ts
-#EXTINF:-1,TR: CUKUROVA TÜRK TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9190.ts
-#EXTINF:-1,TR: DENIZLI TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4639.ts
-#EXTINF:-1,TR: DERSIM TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8937.ts
-#EXTINF:-1,TR: AKSARAY KANAL 68
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9042.ts
-#EXTINF:-1,TR: AKSU TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9203.ts
-#EXTINF:-1,TR: ANTALYA BEST TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10443.ts
-#EXTINF:-1,TR: BELGESEL
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9078.ts
-#EXTINF:-1,TR: CIFTCI TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8115.ts
-#EXTINF:-1,TR: BRT 2 KIBRIS
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8124.ts
-#EXTINF:-1,TR: BRT KIBRIS
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8122.ts
-#EXTINF:-1,TR: BRÜKSEL TÜRK TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8602.ts
-#EXTINF:-1,TR: BTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9193.ts
-#EXTINF:-1,TR: BRTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10442.ts
-#EXTINF:-1,TR: BTV ORDU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6978.ts
-#EXTINF:-1,TR: BURSA SPOR TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6972.ts
-#EXTINF:-1,TR: BJK TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5060.ts
-#EXTINF:-1,TR: BJK TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/1979.ts
-#EXTINF:-1,TR: BLOOMBERG HT HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4942.ts
-#EXTINF:-1,TR: FB TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/1978.ts
-#EXTINF:-1,TR: GÜNEY TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10448.ts
-#EXTINF:-1,TR: HALIS TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10440.ts
-#EXTINF:-1,TR: KANAL 26
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9178.ts
-#EXTINF:-1,TR: KANAL 3 AFYON
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6968.ts
-#EXTINF:-1,TR: KANAL 33
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9177.ts
-#EXTINF:-1,TR: KANAL 33 MERSIN
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6980.ts
-#EXTINF:-1,TR: KANAL 34
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9081.ts
-#EXTINF:-1,TR: KANAL 34 TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9176.ts
-#EXTINF:-1,TR: KANAL 58
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7572.ts
-#EXTINF:-1,TR: KANAL 16
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10379.ts
-#EXTINF:-1,TR: KANAL 43
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10444.ts
-#EXTINF:-1,TR: KANAL 68
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9175.ts
-#EXTINF:-1,TR: KANAL 68 AKSARAY
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6969.ts
-#EXTINF:-1,TR: KANAL A
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2939.ts
-#EXTINF:-1,TR: KANAL AVRUPA HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5172.ts
-#EXTINF:-1,TR: KARDELEN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7569.ts
-#EXTINF:-1,TR: KANAL B
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8120.ts
-#EXTINF:-1,TR: KANAL F
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9174.ts
-#EXTINF:-1,TR: KANAL ORDU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9173.ts
-#EXTINF:-1,TR: KANAL URFA
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6981.ts
-#EXTINF:-1,TR: KANAL VIP
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9172.ts
-#EXTINF:-1,TR: KANAL ÜNYE
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9171.ts
-#EXTINF:-1,TR: KANAL Z
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9170.ts
-#EXTINF:-1,TR: KANAL7 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2947.ts
-#EXTINF:-1,TR: KARADENIZ FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3884.ts
-#EXTINF:-1,TR: KARADENIZ TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2880.ts
-#EXTINF:-1,TR: ICEL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9183.ts
-#EXTINF:-1,TR: MSCB MERSIN
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6979.ts
-#EXTINF:-1,TR: MEDENIYET TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10432.ts
-#EXTINF:-1,TR: IDMAN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/1980.ts
-#EXTINF:-1,TR: FLASH TV SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2886.ts
-#EXTINF:-1,TR: FRT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9185.ts
-#EXTINF:-1,TR: GAZIANTEP OLAY TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8470.ts
-#EXTINF:-1,TR: GONCA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8129.ts
-#EXTINF:-1,TR: GS TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4362.ts
-#EXTINF:-1,TR: GS TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5059.ts
-#EXTINF:-1,TR: GTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9184.ts
-#EXTINF:-1,TR: HALK TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2882.ts
-#EXTINF:-1,TR: BIRAN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9194.ts
-#EXTINF:-1,TR: DOST TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3574.ts
-#EXTINF:-1,TR: DREAM TÜRK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2894.ts
-#EXTINF:-1,TR: DRT
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9187.ts
-#EXTINF:-1,TR: DRT DENIZLI TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10363.ts
-#EXTINF:-1,TR: DESTAN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10437.ts
-#EXTINF:-1,TR: DUCK TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5038.ts
-#EXTINF:-1,TR: DÜGÜN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10243.ts
-#EXTINF:-1,TR: DIYALOG TV KIBRIS
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8125.ts
-#EXTINF:-1,TR: DOCUBOX HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5390.ts
-#EXTINF:-1,TR: DÜZCE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10435.ts
-#EXTINF:-1,TR: EDIRNE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10436.ts
-#EXTINF:-1,TR: ERCIYES TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10445.ts
-#EXTINF:-1,TR: ES TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10438.ts
-#EXTINF:-1,TR: KENT 38 TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9169.ts
-#EXTINF:-1,TR: KENT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9168.ts
-#EXTINF:-1,TR: KIBRIS T TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8123.ts
-#EXTINF:-1,TR: KÖROGLU TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6971.ts
-#EXTINF:-1,TR: KÜZEY RTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8095.ts
-#EXTINF:-1,TR: KON TV KONYA
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2906.ts
-#EXTINF:-1,TR: KRAL ARABESK FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3882.ts
-#EXTINF:-1,TR: LALEGÜL FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9053.ts
-#EXTINF:-1,TR: LALEGÜL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2396.ts
-#EXTINF:-1,TR: KRAL FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3883.ts
-#EXTINF:-1,TR: NTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2858.ts
-#EXTINF:-1,TR: NTV FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4935.ts
-#EXTINF:-1,TR: PAMUKKALE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4640.ts
-#EXTINF:-1,TR: NUH BABA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4478.ts
-#EXTINF:-1,TR: NUMBER ONE
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8624.ts
-#EXTINF:-1,TR: MAVI KARADENIZ TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8623.ts
-#EXTINF:-1,TR: MEDINE FM DINI RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5710.ts
-#EXTINF:-1,TR: MEDINE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4681.ts
-#EXTINF:-1,TR: MEKKE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2399.ts
-#EXTINF:-1,TR: MERKEZ TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9164.ts
-#EXTINF:-1,TR: MERSIN SUN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9163.ts
-#EXTINF:-1,TR: MESAJTV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4209.ts
-#EXTINF:-1,TR: METROPOL FM MANNHEIM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8434.ts
-#EXTINF:-1,TR: KRAL POP
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4949.ts
-#EXTINF:-1,TR: KRAL POP RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3881.ts
-#EXTINF:-1,TR: KRAL POP TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2892.ts
-#EXTINF:-1,TR: KRAL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2897.ts
-#EXTINF:-1,TR: KRAL TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4936.ts
-#EXTINF:-1,TR: RADIO BABA BAYERN
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9003.ts
-#EXTINF:-1,TR: RADYO 34 MANNHEIM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8501.ts
-#EXTINF:-1,TR: RADYO ANKARALI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8527.ts
-#EXTINF:-1,TR: RADYO ILAHI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5711.ts
-#EXTINF:-1,TR: RADYO KOMEDI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8526.ts
-#EXTINF:-1,TR: SINOP TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10446.ts
-#EXTINF:-1,TR: SITELER TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9158.ts
-#EXTINF:-1,TR: TRT 3 TBMM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10369.ts
-#EXTINF:-1,TR: TV 19
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10433.ts
-#EXTINF:-1,TR: TV 58
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10434.ts
-#EXTINF:-1,TR: TV A
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10381.ts
-#EXTINF:-1,TR: TV DEN
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10380.ts
-#EXTINF:-1,TR: VIYANA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8114.ts
-#EXTINF:-1,TR: VIZYON 58
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10367.ts
-#EXTINF:-1,TR: VUSLAT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2398.ts
-#EXTINF:-1,TR: WESTERN KOVBOY
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8742.ts
-#EXTINF:-1,TR: YABAN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2031.ts
-#EXTINF:-1,TR: YADELLER FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8932.ts
-#EXTINF:-1,TR: YASIN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2877.ts
-#EXTINF:-1,TR: YILDIZ TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7565.ts
-#EXTINF:-1,TR: RADYO NOSTALJI MANNHEIM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8504.ts
-#EXTINF:-1,TR: TÜRKIYEM FM MANNHEIM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8502.ts
-#EXTINF:-1,TR: ULKE TV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4928.ts
-#EXTINF:-1,TR: ULUSAL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2394.ts
-#EXTINF:-1,TR: URFA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8999.ts
-#EXTINF:-1,TR: VATAN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8112.ts
-#EXTINF:-1,TR: TARSUS GÜNEY TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9156.ts
-#EXTINF:-1,TR: TRABZON TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7567.ts
-#EXTINF:-1,TR: TRAKYA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9153.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2865.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2950.ts
-#EXTINF:-1,TR: TRT COCUK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2866.ts
-#EXTINF:-1,TR: TRT DIYANET
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2400.ts
-#EXTINF:-1,TR: TRT HABER
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2863.ts
-#EXTINF:-1,TR: TRT HABER FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4953.ts
-#EXTINF:-1,TR: TRT MÜZIK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2889.ts
-#EXTINF:-1,TR: TRT NAGME
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8529.ts
-#EXTINF:-1,TR: TRT NAGME FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8934.ts
-#EXTINF:-1,TR: TRT SPOR HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2948.ts
-#EXTINF:-1,TR: TRT TÜRK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2862.ts
-#EXTINF:-1,TR: TRTSPOR HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/1975.ts
-#EXTINF:-1,TR: TV 1
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9151.ts
-#EXTINF:-1,TR: TV 2000
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9150.ts
-#EXTINF:-1,TR: TV 24
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3573.ts
-#EXTINF:-1,TR: TV 41
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9149.ts
-#EXTINF:-1,TR: TV 5
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5154.ts
-#EXTINF:-1,TR: TV 52
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9148.ts
-#EXTINF:-1,TR: TV 8 FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4929.ts
-#EXTINF:-1,TR: TV 8 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5687.ts
-#EXTINF:-1,TR: TV 8 HD INT
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8364.ts
-#EXTINF:-1,TR: TV 8 SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2848.ts
-#EXTINF:-1,TR: TV 8.5 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5377.ts
-#EXTINF:-1,TR: TV 8.5 SD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6959.ts
-#EXTINF:-1,TR: TV KAYSERI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8096.ts
-#EXTINF:-1,TR: TV NET
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5170.ts
-#EXTINF:-1,TR: TVA
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9146.ts
-#EXTINF:-1,TR: TVM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9145.ts
-#EXTINF:-1,TR: TVNET
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5157.ts
-#EXTINF:-1,TR: TLC
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8995.ts
-#EXTINF:-1,TR: SHOW MAX
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2392.ts
-#EXTINF:-1,TR: TON TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9155.ts
-#EXTINF:-1,TR: TOURISM WORLD CHANNEL
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9154.ts
-#EXTINF:-1,TR: SIVAS TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6976.ts
-#EXTINF:-1,TR: TEMPO TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8121.ts
-#EXTINF:-1,TR: TEVE 2 FHD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5171.ts
-#EXTINF:-1,TR: TEVE 2 HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2959.ts
-#EXTINF:-1,TR: TGRT BELGESEL
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5399.ts
-#EXTINF:-1,TR: TGRT HABER
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8475.ts
-#EXTINF:-1,TR: SKY TÜRK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5155.ts
-#EXTINF:-1,TR: SLOW RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5707.ts
-#EXTINF:-1,TR: SHOW RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3880.ts
-#EXTINF:-1,TR: REHBER TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5036.ts
-#EXTINF:-1,TR: POWER TURK HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4951.ts
-#EXTINF:-1,TR: POWERTV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2954.ts
-#EXTINF:-1,TR: RIZE CAY TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6810.ts
-#EXTINF:-1,TR: KRAL TÜRKÜLER
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9167.ts
-#EXTINF:-1,TR: RUMELI TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6811.ts
-#EXTINF:-1,TR: 360 TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5398.ts
-#EXTINF:-1,TR: 4 EYLÜL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7568.ts
-#EXTINF:-1,TR: ALANYA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9202.ts
-#EXTINF:-1,TR: ÖZEL FM DINI RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5709.ts
-#EXTINF:-1,TR: SONY CHANNEL TÜRKIYE
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2874.ts
-#EXTINF:-1,TR: STAR FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3879.ts
-#EXTINF:-1,TR: SECDE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9159.ts
-#EXTINF:-1,TR: SEMERKANT TV.
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2397.ts
-#EXTINF:-1,TR: SAKARYA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5037.ts
-#EXTINF:-1,TR: PLANET COCUK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2870.ts
-#EXTINF:-1,TR: PLANET MUTFAK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2875.ts
-#EXTINF:-1,TR: PLANET TÜRK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2873.ts
-#EXTINF:-1,TR: MAKINE TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5156.ts
-#EXTINF:-1,TR: MANISA ETV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9165.ts
-#EXTINF:-1,TR: MARMARIS TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8477.ts
-#EXTINF:-1,TR: ISTANBUL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3251.ts
-#EXTINF:-1,TR: IZTV HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2026.ts
-#EXTINF:-1,TR: JOY TÜRK AKUSTIK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8528.ts
-#EXTINF:-1,TR: KACGAR TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/7571.ts
-#EXTINF:-1,TR: HILAL TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9054.ts
-#EXTINF:-1,TR: HUZUR PINARI RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5712.ts
-#EXTINF:-1,TR: ESKISEHIR TV 26
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6967.ts
-#EXTINF:-1,TR: EGE HAVALARI FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8935.ts
-#EXTINF:-1,TR: EKIN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2884.ts
-#EXTINF:-1,TR: DEHA TV DENIZLI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6975.ts
-#EXTINF:-1,TR: CAY TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2881.ts
-#EXTINF:-1,TR: CEM TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2853.ts
-#EXTINF:-1,TR: BIAT TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9195.ts
-#EXTINF:-1,TR: BEN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8119.ts
-#EXTINF:-1,TR: BENGÜTÜRK
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/2710.ts
-#EXTINF:-1,TR: ANIMAL PLANET
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5392.ts
-#EXTINF:-1,TR: ANIMAL PLANET TR HD
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6962.ts
-#EXTINF:-1,TR: ANIMASYON 1
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6132.ts
-#EXTINF:-1,TR: ANIMASYON TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8597.ts
-#EXTINF:-1,TR: ARABESK FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8929.ts
-#EXTINF:-1,TR: ARABESK FM MANNHEIM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8503.ts
-#EXTINF:-1,TR: ARAP TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9199.ts
-#EXTINF:-1,TR: AV TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/4475.ts
-#EXTINF:-1,TR: BABA RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3885.ts
-#EXTINF:-1,TR: BAYRAK TURK MUZIGI
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8933.ts
-#EXTINF:-1,TR: BARIS TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8996.ts
-#EXTINF:-1,TR: ARTVIN TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/9198.ts
-#EXTINF:-1,TR: ANADOLU TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/8113.ts
-#EXTINF:-1,TR: ALEM FM
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/3886.ts
-#EXTINF:-1,TR: ALTAS TV ORDU
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/6977.ts
-#EXTINF:-1,TR: 7/24 KURAN RADYO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/5713.ts
-#EXTINF:-1,TR: KAPADOKYA TV
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10431.ts
-#EXTINF:-1,TR: MOVIE BOX INFO
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10450.ts
-#EXTINF:-1,TR: MOVIE BOX 1
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10451.ts
-#EXTINF:-1,TR: MOVIE BOX 2
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10452.ts
-#EXTINF:-1,TR: MOVIE BOX 3
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10453.ts
-#EXTINF:-1,TR: MOVIE BOX 4
-http://digibox.xyz/moviebox/mbox4.mp4
-#EXTINF:-1,TR: MOVIE BOX 5
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10455.ts
-#EXTINF:-1,TR: MOVIE BOX 6
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10456.ts
-#EXTINF:-1,TR: MOVIE BOX 7
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10457.ts
-#EXTINF:-1,TR: MOVIE BOX 8
-http://antensiztv.iptveu.xyz:8000/live/www.iptveu.eu/www.iptveu.eu/10458.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TR:SMART_sport_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11478.ts
+#EXTINF:-1,TR:SMART_sport_2HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11477.ts
+#EXTINF:-1,TR:LIGTV_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10310.ts
+#EXTINF:-1,TR:LigTV_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10309.ts
+#EXTINF:-1,TR:kidz
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10227.ts
+#EXTINF:-1,TR:KANAL_7_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6851.ts
+#EXTINF:-1,TR:kanal_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10287.ts
+#EXTINF:-1,TR:Kanal_D
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6872.ts
+#EXTINF:-1,TR:Cinebox_04
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6866.ts
+#EXTINF:-1,TR:Cinebox_03
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6867.ts
+#EXTINF:-1,TR:Cinebox_02
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6868.ts
+#EXTINF:-1,TR:BRT_2_
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10283.ts
+#EXTINF:-1,TR:BRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10282.ts
+#EXTINF:-1,TR:BEINSPORT_HD3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10009.ts
+#EXTINF:-1,TR:BEINBOX_OFFICE_3HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6879.ts
+#EXTINF:-1,TR_FOX_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6876.ts
+#EXTINF:-1,TR;TRT_Avaz
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6877.ts
+#EXTINF:-1,TR:ULKE_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10312.ts
+#EXTINF:-1,TR:TRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10286.ts
+#EXTINF:-1,TR:TRT_Sport
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6857.ts
+#EXTINF:-1,TR:TRT_Diyanet
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6862.ts
+#EXTINF:-1,TR:TRT_Cocuk
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6871.ts
+#EXTINF:-1,TR:TRT_Belgesel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6874.ts
+#EXTINF:-1,TR:TIVIBU_4_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10280.ts
+#EXTINF:-1,TR:TIVIBU_3_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11432.ts
+#EXTINF:-1,TR:BEINSPORT_HD2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11503.ts
+#EXTINF:-1,TR:TGRT_HABER
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10313.ts
+#EXTINF:-1,TR:TELE_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10278.ts
+#EXTINF:-1,TR:Sport_TV3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6878.ts
+#EXTINF:-1,TR:sinema_TV_acsyon
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10305.ts
+#EXTINF:-1,TR:CINEMA_TV_2HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10306.ts
+#EXTINF:-1,TR:Okul
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6859.ts
+#EXTINF:-1,TR:FOX_CRIME
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9584.ts
+#EXTINF:-1,TR:BOOMERANG_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9308.ts
+#EXTINF:-1,TR:Musik
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6861.ts
+#EXTINF:-1,TR:PLANET_COCUK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9765.ts
+#EXTINF:-1,TR:KRAL_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9153.ts
+#EXTINF:-1,TR:LIGTV_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10311.ts
+#EXTINF:-1,TR:BEINBOX_OFFICE_2_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6880.ts
+#EXTINF:-1,TR-TV8
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10285.ts
+#EXTINF:-1,TR:TRT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10297.ts
+#EXTINF:-1,TR-TRT_OKUL
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10298.ts
+#EXTINF:-1,TR-TRT_KURD&
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10299.ts
+#EXTINF:-1,TR-TRT_diyanet
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10301.ts
+#EXTINF:-1,TR-TRT_AVAZ
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10302.ts
+#EXTINF:-1,TR-TRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10308.ts
+#EXTINF:-1,TR-STAR-TV_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10288.ts
+#EXTINF:-1,TR-Show-TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10289.ts
+#EXTINF:-1,TR-Salon_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10294.ts
+#EXTINF:-1,TR-Salon_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10295.ts
+#EXTINF:-1,TR-Salon_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10296.ts
+#EXTINF:-1,TR:Cinebox_01
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9755.ts
+#EXTINF:-1,TR-MUSIC_HD4
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10300.ts
+#EXTINF:-1,TR-MUSIC_HD3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10303.ts
+#EXTINF:-1,TR-KANAL_7
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10291.ts
+#EXTINF:-1,TR-KANAL-D
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10290.ts
+#EXTINF:-1,TR-Fox
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10293.ts
+#EXTINF:-1,TR-FLASH-TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10292.ts
+#EXTINF:-1,TR-CNN_TURK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10304.ts
+#EXTINF:-1,TR-ATV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10284.ts
+#EXTINF:-1,TR-animal_planetHD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10307.ts
+#EXTINF:-1,TR:DISCOVERY_IDX
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9861.ts
+#EXTINF:-1,TR:NATURE_HISTORY_channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10147.ts
+#EXTINF:-1,TR:BEINSPORT_HD1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9862.ts
+#EXTINF:-1,TR:Disney_channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10001.ts
+#EXTINF:-1,TR:TV2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6674.ts
+#EXTINF:-1,TR:BURSASPORT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6679.ts
+#EXTINF:-1,TR:TRT_Turk
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6683.ts
+#EXTINF:-1,TR-360_TVHD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10314.ts
+#EXTINF:-1,TR:TIVIBU_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11476.ts
+#EXTINF:-1,TR_HABERTURK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6875.ts
+#EXTINF:-1,TR:Sport
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6686.ts
+

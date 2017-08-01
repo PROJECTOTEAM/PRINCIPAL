@@ -1,369 +1,847 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 16-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,TV Cultura
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/8.ts
+#EXTINF:-1,TV futura
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/91.ts
+#EXTINF:-1,SBT
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/36.ts
+#EXTINF:-1,SBT HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/186.ts
+#EXTINF:-1,Globo SP
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/89.ts
+#EXTINF:-1,Globo RIO
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/574.ts
+#EXTINF:-1,Globo HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/209.ts
+#EXTINF:-1,Globo Minas
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/686.ts
+#EXTINF:-1,Globo Brasilia
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/687.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/43.ts
+#EXTINF:-1,Globo TV Anhanguera Goiania
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/688.ts
+#EXTINF:-1,Globo TV Tem Bauru
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/689.ts
+#EXTINF:-1,Globo TV Tem Sorocaba
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/690.ts
+#EXTINF:-1,Globo Portugal
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/409.ts
+#EXTINF:-1,Globo Premium
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/410.ts
+#EXTINF:-1,Record
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/41.ts
+#EXTINF:-1,Record HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/188.ts
+#EXTINF:-1,Rede TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/39.ts
+#EXTINF:-1,Rede TV HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/187.ts
+#EXTINF:-1,Band
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/124.ts
+#EXTINF:-1,Band HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/232.ts
+#EXTINF:-1,TV Brasil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/9.ts
+#EXTINF:-1,GNT
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/86.ts
+#EXTINF:-1,GNT HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/208.ts
+#EXTINF:-1,TV Gazeta
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/240.ts
+#EXTINF:-1,Rede Brasil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/40.ts
+#EXTINF:-1,Terra Viva
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/16.ts
+#EXTINF:-1,NBR
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/63.ts
+#EXTINF:-1,Viva
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/3.ts
+#EXTINF:-1,VIVA HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/172.ts
+#EXTINF:-1,TV SAN HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/577.ts
+#EXTINF:-1,Prime Box Brazil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/45.ts
+#EXTINF:-1,SHOPTIME TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/411.ts
+#EXTINF:-1,+ Globosat
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/74.ts
+#EXTINF:-1,I-SAT
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/78.ts
+#EXTINF:-1,TVE
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/6.ts
+#EXTINF:-1,Canal Rural
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/119.ts
+#EXTINF:-1,Canal Brasil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/120.ts
+#EXTINF:-1,Arte 1
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/129.ts
+#EXTINF:-1,TruTV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/10.ts
+#EXTINF:-1,Play TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/56.ts
+#EXTINF:-1,Curta!
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/112.ts
+#EXTINF:-1,NHK
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/62.ts
+#EXTINF:-1,Horse World Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/576.ts
+#EXTINF:-1,SIC Internacional
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/33.ts
+#EXTINF:-1,Food Network
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/96.ts
+#EXTINF:-1,Comedy Central
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/113.ts
+#EXTINF:-1,Telecine Premium
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/18.ts
+#EXTINF:-1,Telecine Premium HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/177.ts
+#EXTINF:-1,Telecine Action
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/22.ts
+#EXTINF:-1,Telecine Action HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/180.ts
+#EXTINF:-1,Telecine Touch
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/17.ts
+#EXTINF:-1,Telecine Touch HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/176.ts
+#EXTINF:-1,Telecine Fun
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/20.ts
+#EXTINF:-1,Telecine Fun HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/179.ts
+#EXTINF:-1,Telecine Pipoca
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/19.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/178.ts
+#EXTINF:-1,Telecine Cult
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/21.ts
+#EXTINF:-1,HBO
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/84.ts
+#EXTINF:-1,HBO HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/204.ts
+#EXTINF:-1,HBO 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/79.ts
+#EXTINF:-1,HBO 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/206.ts
+#EXTINF:-1,HBO Plus
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/82.ts
+#EXTINF:-1,HBO Plus HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/203.ts
+#EXTINF:-1,HBO Plus *e
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/81.ts
+#EXTINF:-1,HBO Signature
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/80.ts
+#EXTINF:-1,HBO Signature HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/202.ts
+#EXTINF:-1,HBO Family
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/83.ts
+#EXTINF:-1,HBO Family HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/205.ts
+#EXTINF:-1,MAX
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/73.ts
+#EXTINF:-1,MAX Prime
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/72.ts
+#EXTINF:-1,Max Prime *e
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/71.ts
+#EXTINF:-1,MAX UP
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/70.ts
+#EXTINF:-1,Warner Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/2.ts
+#EXTINF:-1,Warner Channel HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/571.ts
+#EXTINF:-1,Universal Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/5.ts
+#EXTINF:-1,Universal Channels HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/173.ts
+#EXTINF:-1,TNT
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/13.ts
+#EXTINF:-1,TNT HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/175.ts
+#EXTINF:-1,TNT Series
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/12.ts
+#EXTINF:-1,TNT Séries HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/174.ts
+#EXTINF:-1,FOX
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/95.ts
+#EXTINF:-1,FOX HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/214.ts
+#EXTINF:-1,Fox Life
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/94.ts
+#EXTINF:-1,FOX Life HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/213.ts
+#EXTINF:-1,Fox Premium 1 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/216.ts
+#EXTINF:-1,Fox Premium 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/215.ts
+#EXTINF:-1,AMC
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/235.ts
+#EXTINF:-1,MegaPix
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/69.ts
+#EXTINF:-1,Megapix HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/199.ts
+#EXTINF:-1,Cinemax
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/115.ts
+#EXTINF:-1,Canal Sony
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/118.ts
+#EXTINF:-1,Sony HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/229.ts
+#EXTINF:-1,Space
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/32.ts
+#EXTINF:-1,Space HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/185.ts
+#EXTINF:-1,AXN
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/128.ts
+#EXTINF:-1,AXN HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/233.ts
+#EXTINF:-1,AE
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/132.ts
+#EXTINF:-1,FX
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/90.ts
+#EXTINF:-1,FX HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/210.ts
+#EXTINF:-1,Syfy
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/25.ts
+#EXTINF:-1,TCM
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/23.ts
+#EXTINF:-1,Studio Universal
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/26.ts
+#EXTINF:-1,Paramount
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/57.ts
+#EXTINF:-1,Paramount HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/194.ts
+#EXTINF:-1,TBS
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/24.ts
+#EXTINF:-1,TBS HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/181.ts
+#EXTINF:-1,E!
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/102.ts
+#EXTINF:-1,Lifetime
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/75.ts
+#EXTINF:-1,Woohoo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1.ts
+#EXTINF:-1,SporTV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/31.ts
+#EXTINF:-1,Sport TV HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1207.ts
+#EXTINF:-1,Sport TV HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/182.ts
+#EXTINF:-1,SporTV 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/30.ts
+#EXTINF:-1,Sport TV 2 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1205.ts
+#EXTINF:-1,Sport TV 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/184.ts
+#EXTINF:-1,SporTV 3
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/28.ts
+#EXTINF:-1,Sport TV 3 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/183.ts
+#EXTINF:-1,Sport TV 3 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1206.ts
+#EXTINF:-1,Fox Sports
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/93.ts
+#EXTINF:-1,Fox Sports opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1202.ts
+#EXTINF:-1,Fox Sport HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/212.ts
+#EXTINF:-1,Fox Sport HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1201.ts
+#EXTINF:-1,Fox Sports 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/92.ts
+#EXTINF:-1,Fox Sports 2 opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1203.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/211.ts
+#EXTINF:-1,FOX Sports 2 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1204.ts
+#EXTINF:-1,ESPN
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/99.ts
+#EXTINF:-1,ESPN HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/218.ts
+#EXTINF:-1,ESPN Brasil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/98.ts
+#EXTINF:-1,ESPN Brasil HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/219.ts
+#EXTINF:-1,ESPN +
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/575.ts
+#EXTINF:-1,ESPN + HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/220.ts
+#EXTINF:-1,Band Sports
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/125.ts
+#EXTINF:-1,Band Sports HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/231.ts
+#EXTINF:-1,Esporte Interativo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/236.ts
+#EXTINF:-1,Esporte Interativo HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/217.ts
+#EXTINF:-1,EI Maxx
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/101.ts
+#EXTINF:-1,Ei Maxx HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/221.ts
+#EXTINF:-1,EI Maxx 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/100.ts
+#EXTINF:-1,Ei Maxx 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/222.ts
+#EXTINF:-1,Combate
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/114.ts
+#EXTINF:-1,Combate opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1199.ts
+#EXTINF:-1,Combate HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/228.ts
+#EXTINF:-1,Combate HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1200.ts
+#EXTINF:-1,Premiere Clubes
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/46.ts
+#EXTINF:-1,Premiere Clubes opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1194.ts
+#EXTINF:-1,Premiere 1 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/193.ts
+#EXTINF:-1,Premiere 1 HD - opçao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1189.ts
+#EXTINF:-1,Premiere 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/54.ts
+#EXTINF:-1,Premiere 2 opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1195.ts
+#EXTINF:-1,Premiere 2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/192.ts
+#EXTINF:-1,Premiere 2 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1190.ts
+#EXTINF:-1,Premiere 3
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/53.ts
+#EXTINF:-1,Premiere 3 opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1196.ts
+#EXTINF:-1,Premiere 3 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/191.ts
+#EXTINF:-1,Premiere 3 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1191.ts
+#EXTINF:-1,Premiere 4
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/52.ts
+#EXTINF:-1,Premiere 4 opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1197.ts
+#EXTINF:-1,Premiere 4 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/190.ts
+#EXTINF:-1,Premiere 4 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1192.ts
+#EXTINF:-1,Premiere 5
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/51.ts
+#EXTINF:-1,Premiere 5 opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1198.ts
+#EXTINF:-1,Premiere 5 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/189.ts
+#EXTINF:-1,Premiere 5 HD opcao 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/1193.ts
+#EXTINF:-1,Premiere 6
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/50.ts
+#EXTINF:-1,Premiere 7
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/49.ts
+#EXTINF:-1,Premiere 8
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/48.ts
+#EXTINF:-1,Premiere 9
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/47.ts
+#EXTINF:-1,OFF
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/58.ts
+#EXTINF:-1,OFF HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/195.ts
+#EXTINF:-1,BIS
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/122.ts
+#EXTINF:-1,BIS HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/230.ts
+#EXTINF:-1,Multishow
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/67.ts
+#EXTINF:-1,Multishow HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/198.ts
+#EXTINF:-1,MTV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/68.ts
+#EXTINF:-1,VH1 Megahits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/4.ts
+#EXTINF:-1,Music Box Brazil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/66.ts
+#EXTINF:-1,Virgin TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/239.ts
+#EXTINF:-1,DJinG
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/238.ts
+#EXTINF:-1,RIT
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/37.ts
+#EXTINF:-1,Ideal TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/76.ts
+#EXTINF:-1,Novo Tempo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/59.ts
+#EXTINF:-1,Rede Super
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/685.ts
+#EXTINF:-1,Aparecida
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/130.ts
+#EXTINF:-1,Cancao Nova
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/117.ts
+#EXTINF:-1,TV Filadelfia
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/237.ts
+#EXTINF:-1,Rede Vida
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/38.ts
+#EXTINF:-1,RBI
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/44.ts
+#EXTINF:-1,Tooncast
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/11.ts
+#EXTINF:-1,Disney Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/105.ts
+#EXTINF:-1,Disney XD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/103.ts
+#EXTINF:-1,Disney Jr
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/104.ts
+#EXTINF:-1,Nick Jr.
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/61.ts
+#EXTINF:-1,Nickelodeon
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/60.ts
+#EXTINF:-1,Discovery Kids
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/108.ts
+#EXTINF:-1,Cartoon Network
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/116.ts
+#EXTINF:-1,Cartoon Network HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/691.ts
+#EXTINF:-1,TV Ra tim bum
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/7.ts
+#EXTINF:-1,Gloob
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/87.ts
+#EXTINF:-1,Boomerang
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/121.ts
+#EXTINF:-1,Nat Geo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/64.ts
+#EXTINF:-1,Nat Geo HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/196.ts
+#EXTINF:-1,NatGeo Wild
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/65.ts
+#EXTINF:-1,NatGeoWild HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/197.ts
+#EXTINF:-1,Animal Planet
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/131.ts
+#EXTINF:-1,Animal Planet HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/234.ts
+#EXTINF:-1,Fish TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/97.ts
+#EXTINF:-1,History Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/15.ts
+#EXTINF:-1,History Channel HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/201.ts
+#EXTINF:-1,H2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/85.ts
+#EXTINF:-1,H2 HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/207.ts
+#EXTINF:-1,Discovery Channel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/111.ts
+#EXTINF:-1,Discovery Channel HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/227.ts
+#EXTINF:-1,Discovery Civilization
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/110.ts
+#EXTINF:-1,Discovery World HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/223.ts
+#EXTINF:-1,Discovery Science
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/107.ts
+#EXTINF:-1,Discovery Turbo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/106.ts
+#EXTINF:-1,Discovery Turbo HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/224.ts
+#EXTINF:-1,Discovery Home Health
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/109.ts
+#EXTINF:-1,Discovery Home Health HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/226.ts
+#EXTINF:-1,Investigação Discovery
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/77.ts
+#EXTINF:-1,ID - Investigação Discovery HD
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/200.ts
+#EXTINF:-1,TLC
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/14.ts
+#EXTINF:-1,Record News
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/42.ts
+#EXTINF:-1,Band News
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/126.ts
+#EXTINF:-1,Globo News
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/88.ts
+#EXTINF:-1,Playboy TV
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/55.ts
+#EXTINF:-1,Sexy Hot
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/34.ts
+#EXTINF:-1,Sextreme
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/35.ts
+#EXTINF:-1,All Xmas
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/434.ts
+#EXTINF:-1,Alt R&B
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/479.ts
+#EXTINF:-1,Alternativo 1
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/481.ts
+#EXTINF:-1,Alternative 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/480.ts
+#EXTINF:-1,Americana
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/433.ts
+#EXTINF:-1,Anos 70
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/161.ts
+#EXTINF:-1,anos 70s-2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/461.ts
+#EXTINF:-1,Anos 80
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/160.ts
+#EXTINF:-1,anos 80s-2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/460.ts
+#EXTINF:-1,anos 80s Rock
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/459.ts
+#EXTINF:-1,Anos 90
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/159.ts
+#EXTINF:-1,anos 90s-2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/458.ts
+#EXTINF:-1,Anos 2000
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/158.ts
+#EXTINF:-1,Axe
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/149.ts
+#EXTINF:-1,Bluegrass
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/432.ts
+#EXTINF:-1,Blues
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/431.ts
+#EXTINF:-1,Boleros e Serenatas
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/134.ts
+#EXTINF:-1,Bossa Nova
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/169.ts
+#EXTINF:-1,Brasileirinho
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/138.ts
+#EXTINF:-1,Brega
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/148.ts
+#EXTINF:-1,Brits   Hits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/478.ts
+#EXTINF:-1,Classical Masterpieces
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/430.ts
+#EXTINF:-1,Classico Alternativo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/457.ts
+#EXTINF:-1,Contemporary Christian
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/429.ts
+#EXTINF:-1,Country
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/139.ts
+#EXTINF:-1,Country 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/463.ts
+#EXTINF:-1,Country Classico
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/456.ts
+#EXTINF:-1,Country Hits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/452.ts
+#EXTINF:-1,Dance
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/477.ts
+#EXTINF:-1,Dance Classico
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/455.ts
+#EXTINF:-1,Dubstep
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/133.ts
+#EXTINF:-1,Easy Listening
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/428.ts
+#EXTINF:-1,Eletronica
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/154.ts
+#EXTINF:-1,Emo X Screamo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/451.ts
+#EXTINF:-1,Festa
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/153.ts
+#EXTINF:-1,Festa 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/423.ts
+#EXTINF:-1,Filipino
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/413.ts
+#EXTINF:-1,Folk
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/427.ts
+#EXTINF:-1,Forro
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/168.ts
+#EXTINF:-1,Funk
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/165.ts
+#EXTINF:-1,Gospel
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/152.ts
+#EXTINF:-1,Gospel Internacional
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/426.ts
+#EXTINF:-1,Hip Hop
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/151.ts
+#EXTINF:-1,Hip-Hop Classicos
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/450.ts
+#EXTINF:-1,Hip-Hop e R&B
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/476.ts
+#EXTINF:-1,Hits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/475.ts
+#EXTINF:-1,Indie
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/474.ts
+#EXTINF:-1,Infantil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/171.ts
+#EXTINF:-1,Jazz
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/150.ts
+#EXTINF:-1,Jazz Latino
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/442.ts
+#EXTINF:-1,K-Pop
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/412.ts
+#EXTINF:-1,Kid 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/416.ts
+#EXTINF:-1,Kids Movie Soundtracks
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/417.ts
+#EXTINF:-1,Light Classical
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/425.ts
+#EXTINF:-1,Lounge
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/163.ts
+#EXTINF:-1,Love Songs
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/473.ts
+#EXTINF:-1,MegaMix
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/135.ts
+#EXTINF:-1,Metal
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/141.ts
+#EXTINF:-1,Metal Classico
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/454.ts
+#EXTINF:-1,Mexicana
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/441.ts
+#EXTINF:-1,MPB
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/170.ts
+#EXTINF:-1,Music Choice Max
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/472.ts
+#EXTINF:-1,Musica Clássica
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/147.ts
+#EXTINF:-1,Musica Urbana
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/440.ts
+#EXTINF:-1,New Age
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/136.ts
+#EXTINF:-1,New Rock
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/146.ts
+#EXTINF:-1,New Wave
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/449.ts
+#EXTINF:-1,Opera
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/424.ts
+#EXTINF:-1,Pagode
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/167.ts
+#EXTINF:-1,Pop & Country
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/471.ts
+#EXTINF:-1,Pop Hits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/142.ts
+#EXTINF:-1,Pop Latino
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/439.ts
+#EXTINF:-1,Pop Nacional 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/414.ts
+#EXTINF:-1,Pop Rock
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/162.ts
+#EXTINF:-1,Punk
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/448.ts
+#EXTINF:-1,R&B Classicos
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/447.ts
+#EXTINF:-1,R&B Soul
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/470.ts
+#EXTINF:-1,Rap 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/469.ts
+#EXTINF:-1,Rap 3
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/468.ts
+#EXTINF:-1,Rap Nacional
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/156.ts
+#EXTINF:-1,Reggae
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/145.ts
+#EXTINF:-1,Reggae 2
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/467.ts
+#EXTINF:-1,Rock Brasil
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/155.ts
+#EXTINF:-1,Rock Classic
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/453.ts
+#EXTINF:-1,Rock Classico
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/164.ts
+#EXTINF:-1,Rock Hits
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/446.ts
+#EXTINF:-1,Rock Internacional
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/466.ts
+#EXTINF:-1,Rock Latino
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/438.ts
+#EXTINF:-1,Romances
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/437.ts
+#EXTINF:-1,Romanticas
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/157.ts
+#EXTINF:-1,Sertanejo
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/166.ts
+#EXTINF:-1,Sertanejo Raiz
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/137.ts
+#EXTINF:-1,Sertanejo Universitario
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/144.ts
+#EXTINF:-1,Singers & Swing
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/422.ts
+#EXTINF:-1,Smooth Jazz
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/421.ts
+#EXTINF:-1,Soft Rock
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/465.ts
+#EXTINF:-1,Solid Gold Oldies
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/445.ts
+#EXTINF:-1,Sounds of The Seasons
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/420.ts
+#EXTINF:-1,Soundscapes
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/419.ts
+#EXTINF:-1,Stage & Screen
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/418.ts
+#EXTINF:-1,Teen Beats
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/464.ts
+#EXTINF:-1,Teen Ritmos
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/436.ts
+#EXTINF:-1,Throwback Jamz
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/444.ts
+#EXTINF:-1,Toddler Tunes
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/415.ts
+#EXTINF:-1,Trilhas Sonoras
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/140.ts
+#EXTINF:-1,Tropicales
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/435.ts
+#EXTINF:-1,Underground Hip-Hop
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/462.ts
+#EXTINF:-1,Y2K
+http://mviptvbr.ddns.net:25461/live/maycomsantosribeiro/ms455446/443.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet
-http://lista.sv1.tv:25461/live/001/marcelo/1864.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet HD
-http://lista.sv1.tv:25461/live/001/marcelo/1863.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155742-canal-arte-1.png" group-title="Variedades",Arte 1
-http://lista.sv1.tv:25461/live/001/marcelo/1861.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN
-http://lista.sv1.tv:25461/live/001/marcelo/1860.ts
-#EXTINF:-1 tvg-id="AXN HD [Brazil]" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN HD
-http://lista.sv1.tv:25461/live/001/marcelo/2165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Bandeirantes
-http://lista.sv1.tv:25461/live/001/marcelo/1855.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/07/band.png" group-title="Canais Abertos",Band HD
-http://lista.sv1.tv:25461/live/001/marcelo/1858.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Canais Abertos",Band News
-http://lista.sv1.tv:25461/live/001/marcelo/1857.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports
-http://lista.sv1.tv:25461/live/001/marcelo/1856.ts
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports HD
-http://lista.sv1.tv:25461/live/001/marcelo/2119.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS
-http://lista.sv1.tv:25461/live/001/marcelo/1853.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-title="Entretenimento",BIS HD
-http://lista.sv1.tv:25461/live/001/marcelo/2120.ts
-#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Boomerang
-http://lista.sv1.tv:25461/live/001/marcelo/1852.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1851.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural
-http://lista.sv1.tv:25461/live/001/marcelo/1850.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Canal Sony
-http://lista.sv1.tv:25461/live/001/marcelo/1849.ts
-#EXTINF:-1 tvg-id="Sony HD [Brazil]" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Sony HD
-http://lista.sv1.tv:25461/live/001/marcelo/2164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova
-http://lista.sv1.tv:25461/live/001/marcelo/1848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network
-http://lista.sv1.tv:25461/live/001/marcelo/1847.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Series",A&E
-http://lista.sv1.tv:25461/live/001/marcelo/2720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Canais HBO",Cinemax
-http://lista.sv1.tv:25461/live/001/marcelo/1846.ts
-#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="Esportes",Combate
-http://lista.sv1.tv:25461/live/001/marcelo/1845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Esportes",Combate HD
-http://lista.sv1.tv:25461/live/001/marcelo/1844.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Series",Comedy Central
-http://lista.sv1.tv:25461/live/001/marcelo/1843.ts
-#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="Variedades",Curta!
-http://lista.sv1.tv:25461/live/001/marcelo/1842.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1841.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/1840.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="Documentarios",Discovery Civilization
-http://lista.sv1.tv:25461/live/001/marcelo/1839.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H
-http://lista.sv1.tv:25461/live/001/marcelo/1838.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Variedades",Discovery Home & Health HD
-http://lista.sv1.tv:25461/live/001/marcelo/1837.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids
-http://lista.sv1.tv:25461/live/001/marcelo/1836.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Documentarios",Discovery Science
-http://lista.sv1.tv:25461/live/001/marcelo/1835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
-http://lista.sv1.tv:25461/live/001/marcelo/1834.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="Documentarios",Discovery Turbo HD
-http://lista.sv1.tv:25461/live/001/marcelo/1833.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World HD
-http://lista.sv1.tv:25461/live/001/marcelo/2163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
-http://lista.sv1.tv:25461/live/001/marcelo/1831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD
-http://lista.sv1.tv:25461/live/001/marcelo/1830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
-http://lista.sv1.tv:25461/live/001/marcelo/1832.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E!
-http://lista.sv1.tv:25461/live/001/marcelo/1829.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
-http://lista.sv1.tv:25461/live/001/marcelo/1828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx HD" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Ei Maxx HD
-http://lista.sv1.tv:25461/live/001/marcelo/1825.ts
-#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
-http://lista.sv1.tv:25461/live/001/marcelo/1827.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/EI_Maxx_logos.png" group-title="Esportes",Ei Maxx 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1826.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1866.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Esportes",ESPN Brasil HD
-http://lista.sv1.tv:25461/live/001/marcelo/1823.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN
-http://lista.sv1.tv:25461/live/001/marcelo/1824.ts
-#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
-http://lista.sv1.tv:25461/live/001/marcelo/2162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV
-http://lista.sv1.tv:25461/live/001/marcelo/1822.ts
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network
-http://lista.sv1.tv:25461/live/001/marcelo/1821.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
-http://lista.sv1.tv:25461/live/001/marcelo/1817.ts
-#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Variedades",Fox Life HD
-http://lista.sv1.tv:25461/live/001/marcelo/2159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports
-http://lista.sv1.tv:25461/live/001/marcelo/1815.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303" group-title="Esportes",Fox Sports HD
-http://lista.sv1.tv:25461/live/001/marcelo/1816.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2
-http://lista.sv1.tv:25461/live/001/marcelo/1814.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
-http://lista.sv1.tv:25461/live/001/marcelo/1820.ts
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png" group-title="Series",FOX HD
-http://lista.sv1.tv:25461/live/001/marcelo/2160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" group-title="Series",Fox 1 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1819.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="Series",Fox Action HD
-http://lista.sv1.tv:25461/live/001/marcelo/1818.ts
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentarios",Futura
-http://lista.sv1.tv:25461/live/001/marcelo/1813.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX
-http://lista.sv1.tv:25461/live/001/marcelo/1812.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LogoFX.svg/2000px-LogoFX.svg.png" group-title="Series",FX HD
-http://lista.sv1.tv:25461/live/001/marcelo/2157.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo SP
-http://lista.sv1.tv:25461/live/001/marcelo/1810.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo RJ HD
-http://lista.sv1.tv:25461/live/001/marcelo/1811.ts
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews
-http://lista.sv1.tv:25461/live/001/marcelo/1809.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png" group-title="Infantis",Gloob
-http://lista.sv1.tv:25461/live/001/marcelo/1808.ts
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="Canais Globosat",GNT
-http://lista.sv1.tv:25461/live/001/marcelo/1807.ts
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png" group-title="Canais Globosat",GNT HD
-http://lista.sv1.tv:25461/live/001/marcelo/2118.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="Documentarios",H2
-http://lista.sv1.tv:25461/live/001/marcelo/1806.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://2.bp.blogspot.com/-1wyWYE6VL80/VCwJ3TJfRtI/AAAAAAAAAFg/depxSjME-N4/s1600/History-2-logo-2011.png" group-title="Documentarios",H2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/2156.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647" group-title="Canais HBO",HBO Family
-http://lista.sv1.tv:25461/live/001/marcelo/1803.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="Canais HBO",HBO Family HD
-http://lista.sv1.tv:25461/live/001/marcelo/2155.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus2.png" group-title="Canais HBO",HBO Plus e
-http://lista.sv1.tv:25461/live/001/marcelo/1800.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus
-http://lista.sv1.tv:25461/live/001/marcelo/1801.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO",HBO Plus HD
-http://lista.sv1.tv:25461/live/001/marcelo/2154.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature
-http://lista.sv1.tv:25461/live/001/marcelo/1799.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="Canais HBO",HBO Signature HD
-http://lista.sv1.tv:25461/live/001/marcelo/2153.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO
-http://lista.sv1.tv:25461/live/001/marcelo/1805.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Canais HBO",HBO HD
-http://lista.sv1.tv:25461/live/001/marcelo/1802.ts
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentarios",History Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/1797.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2
-http://lista.sv1.tv:25461/live/001/marcelo/1798.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Canais HBO",HBO 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1804.ts
-#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
-http://lista.sv1.tv:25461/live/001/marcelo/1796.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigacao Discovery
-http://lista.sv1.tv:25461/live/001/marcelo/1795.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/id_N.png" group-title="Series",ID - Investigação Discovery HD
-http://lista.sv1.tv:25461/live/001/marcelo/2152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV
-http://lista.sv1.tv:25461/live/001/marcelo/1794.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime
-http://lista.sv1.tv:25461/live/001/marcelo/1793.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globosat
-http://lista.sv1.tv:25461/live/001/marcelo/1792.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e
-http://lista.sv1.tv:25461/live/001/marcelo/1789.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",MAX Prime
-http://lista.sv1.tv:25461/live/001/marcelo/1790.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
-http://lista.sv1.tv:25461/live/001/marcelo/1788.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",MAX
-http://lista.sv1.tv:25461/live/001/marcelo/1791.ts
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",MegaPix
-http://lista.sv1.tv:25461/live/001/marcelo/1787.ts
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="Filmes",Megapix HD
-http://lista.sv1.tv:25461/live/001/marcelo/2111.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Entretenimento",MTV
-http://lista.sv1.tv:25461/live/001/marcelo/1786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="Canais Globosat",Multishow
-http://lista.sv1.tv:25461/live/001/marcelo/1785.ts
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="Canais Globosat",Multishow HD
-http://lista.sv1.tv:25461/live/001/marcelo/2123.ts
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Entretenimento",Music Box Brazil
-http://lista.sv1.tv:25461/live/001/marcelo/1784.ts
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentarios",NatGeo Wild
-http://lista.sv1.tv:25461/live/001/marcelo/1783.ts
-#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",NatGeoWild HD
-http://lista.sv1.tv:25461/live/001/marcelo/2151.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentarios",National Geographic
-http://lista.sv1.tv:25461/live/001/marcelo/1782.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",National Geography HD
-http://lista.sv1.tv:25461/live/001/marcelo/1781.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR
-http://lista.sv1.tv:25461/live/001/marcelo/1780.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK
-http://lista.sv1.tv:25461/live/001/marcelo/1779.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr
-http://lista.sv1.tv:25461/live/001/marcelo/1778.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon
-http://lista.sv1.tv:25461/live/001/marcelo/1777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Variedades",Novo Tempo
-http://lista.sv1.tv:25461/live/001/marcelo/1776.ts
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="Canais Globosat",OFF
-http://lista.sv1.tv:25461/live/001/marcelo/1775.ts
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Canais Globosat",OFF HD
-http://lista.sv1.tv:25461/live/001/marcelo/2150.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
-http://lista.sv1.tv:25461/live/001/marcelo/1774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount HD
-http://lista.sv1.tv:25461/live/001/marcelo/2117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere Clubes
-http://lista.sv1.tv:25461/live/001/marcelo/1758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere Clubes HD
-http://lista.sv1.tv:25461/live/001/marcelo/1771.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 2
-http://lista.sv1.tv:25461/live/001/marcelo/1770.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1769.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 3
-http://lista.sv1.tv:25461/live/001/marcelo/1768.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 3 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 4
-http://lista.sv1.tv:25461/live/001/marcelo/1766.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 4 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1765.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 5
-http://lista.sv1.tv:25461/live/001/marcelo/1764.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://iptvwebcsgo.com/images/PFC.fw.png" group-title="Esportes",Premiere 5 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1763.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 6
-http://lista.sv1.tv:25461/live/001/marcelo/1762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 7
-http://lista.sv1.tv:25461/live/001/marcelo/1761.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 8
-http://lista.sv1.tv:25461/live/001/marcelo/1760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://2.bp.blogspot.com/-LWV52Kqlm4E/VFOeh2Z2WLI/AAAAAAACLJI/-JdJm8l30P8/s1600/PFC_LOGO_2014.png" group-title="Esportes",Premiere 9
-http://lista.sv1.tv:25461/live/001/marcelo/1759.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" group-title="Filmes",Prime Box Brazil
-http://lista.sv1.tv:25461/live/001/marcelo/1757.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="https://pbs.twimg.com/profile_images/1188141070/Untitled-1_400x400.png" group-title="Canais Abertos",RBI
-http://lista.sv1.tv:25461/live/001/marcelo/1756.ts
-#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/rbsrs.png" group-title="Canais Abertos",RBS TV Porto Alegre
-http://lista.sv1.tv:25461/live/001/marcelo/1755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News
-http://lista.sv1.tv:25461/live/001/marcelo/1753.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Canais Abertos",RECORDTV
-http://lista.sv1.tv:25461/live/001/marcelo/1752.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Canais Abertos",Record HD
-http://lista.sv1.tv:25461/live/001/marcelo/1754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil
-http://lista.sv1.tv:25461/live/001/marcelo/1751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV
-http://lista.sv1.tv:25461/live/001/marcelo/1750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="Canais Abertos",Rede TV HD
-http://lista.sv1.tv:25461/live/001/marcelo/2149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais Abertos",Rede Vida
-http://lista.sv1.tv:25461/live/001/marcelo/1749.ts
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT
-http://lista.sv1.tv:25461/live/001/marcelo/1748.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT
-http://lista.sv1.tv:25461/live/001/marcelo/1747.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="Canais Abertos",SBT HD
-http://lista.sv1.tv:25461/live/001/marcelo/1746.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
-http://lista.sv1.tv:25461/live/001/marcelo/1743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space
-http://lista.sv1.tv:25461/live/001/marcelo/1742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png" group-title="Filmes",Space HD
-http://lista.sv1.tv:25461/live/001/marcelo/2115.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
-http://lista.sv1.tv:25461/live/001/marcelo/1738.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154937-canal-sport-tv-hd.png" group-title="Esportes",SporTV HD
-http://lista.sv1.tv:25461/live/001/marcelo/1739.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2
-http://lista.sv1.tv:25461/live/001/marcelo/1737.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="Esportes",SporTV 2 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1741.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 Alternativo
-http://lista.sv1.tv:25461/live/001/marcelo/1736.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3
-http://lista.sv1.tv:25461/live/001/marcelo/1735.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3 HD
-http://lista.sv1.tv:25461/live/001/marcelo/1740.ts
-#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV Alternativo
-http://lista.sv1.tv:25461/live/001/marcelo/1734.ts
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal
-http://lista.sv1.tv:25461/live/001/marcelo/1733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",Syfy
-http://lista.sv1.tv:25461/live/001/marcelo/1732.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS
-http://lista.sv1.tv:25461/live/001/marcelo/1731.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS HD
-http://lista.sv1.tv:25461/live/001/marcelo/2121.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM
-http://lista.sv1.tv:25461/live/001/marcelo/1726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action
-http://lista.sv1.tv:25461/live/001/marcelo/1725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action HD
-http://lista.sv1.tv:25461/live/001/marcelo/1730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Canais Telecine",Telecine Cult
-http://lista.sv1.tv:25461/live/001/marcelo/1724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun
-http://lista.sv1.tv:25461/live/001/marcelo/1723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcfunb.png" group-title="Canais Telecine",Telecine Fun HD
-http://lista.sv1.tv:25461/live/001/marcelo/1729.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca
-http://lista.sv1.tv:25461/live/001/marcelo/1722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tcpipocab.png" group-title="Canais Telecine",Telecine Pipoca HD
-http://lista.sv1.tv:25461/live/001/marcelo/1728.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
-http://lista.sv1.tv:25461/live/001/marcelo/1721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium HD
-http://lista.sv1.tv:25461/live/001/marcelo/1727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
-http://lista.sv1.tv:25461/live/001/marcelo/1720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch HD
-http://lista.sv1.tv:25461/live/001/marcelo/2148.ts
-#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1718.ts
-#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2147.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Variedades",TLC
-http://lista.sv1.tv:25461/live/001/marcelo/1717.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series
-http://lista.sv1.tv:25461/live/001/marcelo/1714.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/69/TNT_Series_Logo_2016_Hu.png/revision/latest?cb=20170122154513" group-title="Series",TNT Series HD
-http://lista.sv1.tv:25461/live/001/marcelo/2116.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT
-http://lista.sv1.tv:25461/live/001/marcelo/1716.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filmes",TNT HD
-http://lista.sv1.tv:25461/live/001/marcelo/1715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast
-http://lista.sv1.tv:25461/live/001/marcelo/1713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://exorbeo.com/wp-content/uploads/2013/06/universal_channel_hd.png" group-title="Series",Universal Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1707.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/500-entertainment/512-UniversalChannel.png" group-title="Series",Universal Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2112.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Entretenimento",VH1 Megahits
-http://lista.sv1.tv:25461/live/001/marcelo/1706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Viva
-http://lista.sv1.tv:25461/live/001/marcelo/1705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAiew/lTGTkCArT3U/s1600/Canal_Viva_logo.png" group-title="Canais Globosat",Viva HD
-http://lista.sv1.tv:25461/live/001/marcelo/2145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.lamac.org/res/channels/logos/_0000_warner.png" group-title="Series",Warner Channel
-http://lista.sv1.tv:25461/live/001/marcelo/1704.ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://vignette4.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20150529212740&path-prefix=pt-br" group-title="Series",Warner Channel HD
-http://lista.sv1.tv:25461/live/001/marcelo/2146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" group-title="Variedades",Woohoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Funcionario do Mes
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/578.mp4
+#EXTINF:-1,O ABC do Amor
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/579.mp4
+#EXTINF:-1,O Paraiso e Logo Aqui
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/581.mp4
+#EXTINF:-1,Os Seus, os Meus e os Nossos
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/580.mp4
+#EXTINF:-1,A BELA E A FERA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1122.mp4
+#EXTINF:-1,A CABANA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1123.mp4
+#EXTINF:-1,A GAROTA NO TREM
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1124.mp4
+#EXTINF:-1,A GRANDE MURALHA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1125.mp4
+#EXTINF:-1,A VIGILANTE DO AMANHA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1126.mp4
+#EXTINF:-1,ANIMAIS FANTASTICOS E ONDE HABITAM
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1127.mp4
+#EXTINF:-1,ANJOS DA NOITE 5
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1128.mp4
+#EXTINF:-1,ASSASSIN S CREED
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1129.mp4
+#EXTINF:-1,ATE O ULTIMO HOMEM
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1130.mp4
+#EXTINF:-1,BATMAN VS. SUPERMAN
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1131.mp4
+#EXTINF:-1,BELEZA OCULTA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1132.mp4
+#EXTINF:-1,BREAKING BAD
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1133.mp4
+#EXTINF:-1,CAPITAO AMERICA: GUERRA CIVIL
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1134.mp4
+#EXTINF:-1,DOUTOR ESTRANHO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1135.mp4
+#EXTINF:-1,ESQUADRAO SUICIDA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1136.mp4
+#EXTINF:-1,FRAGMENTADO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1137.mp4
+#EXTINF:-1,HORIZONTE PROFUNDO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1138.mp4
+#EXTINF:-1,INFERNO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1139.mp4
+#EXTINF:-1,INTERESTELAR
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1140.mp4
+#EXTINF:-1,JACK REACHER
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1141.mp4
+#EXTINF:-1,JOHN WICK 2
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1142.mp4
+#EXTINF:-1,KONG A ILHA DA CAVEIRA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1143.mp4
+#EXTINF:-1,MAX STEEL
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1144.mp4
+#EXTINF:-1,MOANA  UM MAR DE AVENTURAS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1145.mp4
+#EXTINF:-1,O CHAMADO 3
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1146.mp4
+#EXTINF:-1,O ESPACO ENTRE NOS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1147.mp4
+#EXTINF:-1,O PODEROSO CHEFINHO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1148.mp4
+#EXTINF:-1,O PORTAL DOS GUERREIROS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1151.mp4
+#EXTINF:-1,PASSAGEIROS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1149.mp4
+#EXTINF:-1,PEQUENOS DELITOS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1150.mp4
+#EXTINF:-1,POWER RANGERS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1152.mp4
+#EXTINF:-1,RESIDENT EVIL 6
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1153.mp4
+#EXTINF:-1,SILENCIO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1154.mp4
+#EXTINF:-1,TRANSTORNADA OBSESSIVA COMPULSIVA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1155.mp4
+#EXTINF:-1,VELOZES E FURIOSOS 8
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1156.mp4
+#EXTINF:-1,VIDA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1157.mp4
+#EXTINF:-1,VIZINHOS NADA SECRETOS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1158.mp4
+#EXTINF:-1,WARCRAFT
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1159.mp4
+#EXTINF:-1,X-MEN: APOCALIPSE
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1160.mp4
+#EXTINF:-1,XXX REATIVADO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1161.mp4
+#EXTINF:-1,LOGAN
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1163.mp4
+#EXTINF:-1,A CULPA E DAS ESTRELAS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1167.mp4
+#EXTINF:-1,BEN-HUR
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1168.mp4
+#EXTINF:-1,CAES SELVAGENS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1171.mp4
+#EXTINF:-1,CAVALO DE GUERRA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1172.mp4
+#EXTINF:-1,CHIPS
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1170.mp4
+#EXTINF:-1,CIRCULO DE FOGO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1169.mp4
+#EXTINF:-1,DEUSES DO EGITO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1173.mp4
+#EXTINF:-1,HERCULES: 2014
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1178.mp4
+#EXTINF:-1,INVASAO A LONDRES
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1174.mp4
+#EXTINF:-1,JOHN WICK
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1175.mp4
+#EXTINF:-1,MOGLI
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1177.mp4
+#EXTINF:-1,MULHER MARAVILHA: 2017
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1176.mp4
+#EXTINF:-1,OS PENETRAS 2
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1164.mp4
+#EXTINF:-1,THE ASSIGMENT
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1166.mp4
+#EXTINF:-1,X-MEN: DIAS DE UM FUTURO ESQUECIDO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1165.mp4
+#EXTINF:-1,REI ARTHUR: A LENDA DA ESPADA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1188.mp4
+#EXTINF:-1,A CIDADE PERDIDA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1209.mp4
+#EXTINF:-1,A MUMIA 2017
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1208.mp4
+#EXTINF:-1,EU FICO LOKO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1213.mp4
+#EXTINF:-1,FOME DE PODER
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1211.mp4
+#EXTINF:-1,NINGUEM ENTRA - NINGUEM SAI
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1212.mp4
+#EXTINF:-1,O CIRCULO
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1210.mp4
+#EXTINF:-1,PONTE DOS ESPIOES
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1187.mp4
+#EXTINF:-1,TINHA QUE SER ELE
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1184.mp4
+#EXTINF:-1,VERSOES DE UM CRIME
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1182.mp4
+#EXTINF:-1,VINGADORES 2
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1181.mp4
+#EXTINF:-1,ZE COLMEIA: O FILME
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1180.mp4
+#EXTINF:-1,ZOOTOPIA
+http://mviptvbr.ddns.net:25461/movie/maycomsantosribeiro/ms455446/1179.mp4

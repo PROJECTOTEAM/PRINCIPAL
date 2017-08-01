@@ -1,7 +1,303 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
+
+
+
+
+
+
+
+#EXTINF:-1,DE:TNT_SERIE_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10180.ts
+#EXTINF:-1,DE:Tagesschau24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10279.ts
+#EXTINF:-1,DE:SPORT1_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10177.ts
+#EXTINF:-1,DE:Sky_sport_NEWS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11430.ts
+#EXTINF:-1,DE:Sky_select_7
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11437.ts
+#EXTINF:-1,DE:Sky_select_6
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11433.ts
+#EXTINF:-1,DE:Sky_select_5
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11438.ts
+#EXTINF:-1,DE:Sky_select_4
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11434.ts
+#EXTINF:-1,DE:Sky_select_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11435.ts
+#EXTINF:-1,DE:Sky_Cinema_24_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11532.ts
+#EXTINF:-1,DE:Eurosport1_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11538.ts
+#EXTINF:-1,DE:Cartoon_Network
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11537.ts
+#EXTINF:-1,DE:BOOMERANG_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11533.ts
+#EXTINF:-1,DE:Sky_select_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11436.ts
+#EXTINF:-1,DE:Sky_cinema+1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10000.ts
+#EXTINF:-1,DE:Servus_Tv
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10176.ts
+#EXTINF:-1,DE:RTL7_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11431.ts
+#EXTINF:-1,DE:RTL5_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11429.ts
+#EXTINF:-1,DE:RTE_ONE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6891.ts
+#EXTINF:-1,DE:RHEIN_MAIN_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10255.ts
+#EXTINF:-1,DE:RheinMain_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10254.ts
+#EXTINF:-1,DE:ORF_SPORT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10281.ts
+#EXTINF:-1,DE:NDR_SCLESWIG_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10256.ts
+#EXTINF:-1,DE:NDR_SCLESWIG
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10257.ts
+#EXTINF:-1,DE:NDR_MECK_VORP
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10258.ts
+#EXTINF:-1,DE:NDR_HAMBURG_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10259.ts
+#EXTINF:-1,DE:Light_Channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10262.ts
+#EXTINF:-1,DE:ITV_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6884.ts
+#EXTINF:-1,DE:HSE24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10263.ts
+#EXTINF:-1,DE:Dresden_Fernsehen
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10264.ts
+#EXTINF:-1,DE:DRESDEN_FEMSEHEN
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10265.ts
+#EXTINF:-1,DE:Deutsches_Anlegerfernsehen
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10266.ts
+#EXTINF:-1,DE:DEUTSCHES_ANLEG
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10267.ts
+#EXTINF:-1,DE:NDR_HAMBRG
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10260.ts
+#EXTINF:-1,DE:Light_Channel_TV_Deutschland
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10261.ts
+#EXTINF:-1,DE:Deluxe_Music
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10179.ts
+#EXTINF:-1,DE:DAF
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10268.ts
+#EXTINF:-1,DE:BBC_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6887.ts
+#EXTINF:-1,DE:BADEN_TV2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10269.ts
+#EXTINF:-1,DE:BADEN_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10270.ts
+#EXTINF:-1,DE:AVUSTURYA_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10271.ts
+#EXTINF:-1,DE:AUSTRIA_24_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10272.ts
+#EXTINF:-1,DE:AUSTRIA_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10273.ts
+#EXTINF:-1,DE:ANLEGERFERNSEHEN
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10274.ts
+#EXTINF:-1,DE:Alex_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10276.ts
+#EXTINF:-1,DE:ALEX-BERLIN
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10275.ts
+#EXTINF:-1,DE:24_GE_AUS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10277.ts
+#EXTINF:-1,DE:Sky_bundisliga_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11439.ts
+#EXTINF:-1,DE:Sky:Select_9_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10178.ts
+#EXTINF:-1,DE:SKY_CINEMA
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9666.ts
+#EXTINF:-1,DE:Sky_Cinema_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9155.ts
+#EXTINF:-1,DE:Sky_KRIMI
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9154.ts
+#EXTINF:-1,DE:Sky_Action
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8441.ts
+#EXTINF:-1,DE:Sky_Nostalgie
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9152.ts
+#EXTINF:-1,DE:SKY_ATLANTIC
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8435.ts
+#EXTINF:-1,DE:SKY_COMEDY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8432.ts
+#EXTINF:-1,DE:SKY_EMOTION
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8431.ts
+#EXTINF:-1,DE:SKY_SPORT_1_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9622.ts
+#EXTINF:-1,DE:SKY_DISCOVERY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9624.ts
+#EXTINF:-1,DE:RTLHD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9626.ts
+#EXTINF:-1,DE:ROMANCETV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9620.ts
+#EXTINF:-1,DE:EURONEWS1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9472.ts
+#EXTINF:-1,DE:WDR_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9469.ts
+#EXTINF:-1,DE:SKY_NATIONAL_GEO
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9623.ts
+#EXTINF:-1,DE:RTL_102.5
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9475.ts
+#EXTINF:-1,DE:DISNEY_CHANNEL
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9767.ts
+#EXTINF:-1,DE:AXN_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9766.ts
+#EXTINF:-1,DE:SUPER_RTL
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9664.ts
+#EXTINF:-1,DE:TNT_Film
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9333.ts
+#EXTINF:-1,DE:Sky_Select_HD8
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8616.ts
+#EXTINF:-1,DE:Sixx
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9357.ts
+#EXTINF:-1,DE:RTL_NITRO
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9353.ts
+#EXTINF:-1,DE:National_Geographic
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9356.ts
+#EXTINF:-1,DE:kabel_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9358.ts
+#EXTINF:-1,DE:Family_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9363.ts
+#EXTINF:-1,DE:Disney_Cinemagic_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9365.ts
+#EXTINF:-1,DE:ZDF_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8630.ts
+#EXTINF:-1,DE:ZDF_KULTUR
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10162.ts
+#EXTINF:-1,DE:ZDF_INFO
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10163.ts
+#EXTINF:-1,DE:WDR_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10164.ts
+#EXTINF:-1,DE:SWR
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10165.ts
+#EXTINF:-1,DE:SRF1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10166.ts
+#EXTINF:-1,DE:Sky_Sport_5
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10124.ts
+#EXTINF:-1,DE:nat_geo_people
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10146.ts
+#EXTINF:-1,DE:Spiegel_Geschichte
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9164.ts
+#EXTINF:-1,DE:Sky_Sport_Austria
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8631.ts
+#EXTINF:-1,DE:Sky_Sport_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9174.ts
+#EXTINF:-1,DE:Sky_Sport_2HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9149.ts
+#EXTINF:-1,DE:Sky_Select_6_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9377.ts
+#EXTINF:-1,DE:Sky_Select_5_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9376.ts
+#EXTINF:-1,DE:Sky_Select_4_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9375.ts
+#EXTINF:-1,DE:Sky_Select_3_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9374.ts
+#EXTINF:-1,DE:Sky_Select_2_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9373.ts
+#EXTINF:-1,DE:Sky_Select_1_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9372.ts
+#EXTINF:-1,DE:Sky_BundesLiga_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9150.ts
+#EXTINF:-1,DE:Sky_Bundesliga_2_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9176.ts
+#EXTINF:-1,DE:Sky_Bundesliga_1_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9175.ts
+#EXTINF:-1,DE:Sky_Bundesliga-4
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9178.ts
+#EXTINF:-1,DE:Sky_Bundesliga3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9177.ts
+#EXTINF:-1,DE:Sat_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8632.ts
+#EXTINF:-1,DE:RTL_Passion
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9157.ts
+#EXTINF:-1,DE:RTL_Crime
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9158.ts
+#EXTINF:-1,DE:Pro_7_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8635.ts
+#EXTINF:-1,DE:ORF_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8636.ts
+#EXTINF:-1,DE:Nat_Geo_Wild
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9159.ts
+#EXTINF:-1,DE:MGM
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9161.ts
+#EXTINF:-1,DE:Kika_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8626.ts
+#EXTINF:-1,DE:Junior
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9162.ts
+#EXTINF:-1,DE:Jukebox
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9165.ts
+#EXTINF:-1,DE:Fox_Serie
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9167.ts
+#EXTINF:-1,DE:Disney_xd
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8627.ts
+#EXTINF:-1,DE:Discovery_Channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9169.ts
+#EXTINF:-1,DE:Classica
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8628.ts
+#EXTINF:-1,DE:Beate-Uhse_Tv
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9170.ts
+#EXTINF:-1,DE:3SAT_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8640.ts
+#EXTINF:-1,DE:SKY_SPORT_NEWS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6896.ts
+#EXTINF:-1,DE:VOX_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8405.ts
+#EXTINF:-1,DE:SPORT_TIME_TV_2HQ_GERMANY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8445.ts
+#EXTINF:-1,DE:SPORT_TIME_TV_1HQ_GERMANY
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8446.ts
+#EXTINF:-1,DE:Spiegel_TV_Wissen
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8406.ts
+#EXTINF:-1,DE:Syfy
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8407.ts
+#EXTINF:-1,DE:Sky_Select_HD7
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8410.ts
+#EXTINF:-1,DE:SKY_HITS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8419.ts
+#EXTINF:-1,DE:SKY_Germany_Planet_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8420.ts
+#EXTINF:-1,DE:Sky_Germany_History_Channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8425.ts
+#EXTINF:-1,DE:13th_Street
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8430.ts
+#EXTINF:-1,DE:RTL_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8436.ts
+#EXTINF:-1,DE:ORF_2_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8437.ts
+#EXTINF:-1,DE:NDR_SH_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8448.ts
+#EXTINF:-1,DE:N24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8450.ts
+#EXTINF:-1,DE:FOX_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8442.ts
+#EXTINF:-1,DE:EURONEWS
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8452.ts
+#EXTINF:-1,DE:DMAX_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8443.ts
+#EXTINF:-1,DE:ARTE
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8453.ts
+#EXTINF:-1,DE:ARD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8454.ts
+#EXTINF:-1,DE:ANIXE_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8455.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -354,362 +650,6 @@ http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15571.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,DE: Kabel 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15559.ts
-#EXTINF:-1,DE: Kabel Eins
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7131.ts
-#EXTINF:-1,DE: Kabel Eins Doku
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15346.ts
-#EXTINF:-1,DE: Das Erste
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/2135.ts
-#EXTINF:-1,DE: ZDF
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7124.ts
-#EXTINF:-1,DE:  WDR HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7435.ts
-#EXTINF:-1,DE: 3Sat
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7470.ts
-#EXTINF:-1,DE: Kika-HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7424.ts
-#EXTINF:-1,DE: Ndr
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7419.ts
-#EXTINF:-1,DE: Phoenix
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7420.ts
-#EXTINF:-1,DE: SWR HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7460.ts
-#EXTINF:-1,DE: Arte
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7418.ts
-#EXTINF:-1,DE: ANIXE
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7469.ts
-#EXTINF:-1,DE: ZDF neo
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7457.ts
-#EXTINF:-1,DE: Servus TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7438.ts
-#EXTINF:-1,DE: Pro Sieben
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7448.ts
-#EXTINF:-1,DE: Pro 7 MAXX
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7414.ts
-#EXTINF:-1,DE: RTL Television
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15352.ts
-#EXTINF:-1,DE: RTL HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7125.ts
-#EXTINF:-1,DE: RTL Plus
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13020.ts
-#EXTINF:-1,DE: SUPER RTL HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7140.ts
-#EXTINF:-1,DE: SAT 1
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7463.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7412.ts
-#EXTINF:-1,DE: RTL Nitro
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7409.ts
-#EXTINF:-1,DE: RTL 2
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7408.ts
-#EXTINF:-1,DE: n-tvv
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7464.ts
-#EXTINF:-1,DE: A&E
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15354.ts
-#EXTINF:-1,DE: E! Entertainment HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15341.ts
-#EXTINF:-1,De: Zee One
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15340.ts
-#EXTINF:-1,DE: Family TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15350.ts
-#EXTINF:-1,DE: Goldstar TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15355.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15348.ts
-#EXTINF:-1,DE: MDR
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7465.ts
-#EXTINF:-1,DE: ARD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7468.ts
-#EXTINF:-1,DE:Goldstar TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13015.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7130.ts
-#EXTINF:-1,DE: ORF 2HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7129.ts
-#EXTINF:-1,DE: Austria 24
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7467.ts
-#EXTINF:-1,DE: N24
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7105.ts
-#EXTINF:-1,=====  Duits Regionalne  =====
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13603.ts
-#EXTINF:-1,DE: INTV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/2134.ts
-#EXTINF:-1,=====  Film De  =====
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13604.ts
-#EXTINF:-1,DE: 13th Street
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7443.ts
-#EXTINF:-1,DE: AXN HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7466.ts
-#EXTINF:-1,DE: Fox Serie
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7171.ts
-#EXTINF:-1,DE: Heimatkanal
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7452.ts
-#EXTINF:-1,DE: MGM HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7187.ts
-#EXTINF:-1,DE: KinoWelt TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7450.ts
-#EXTINF:-1,DE: RomanceTV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7451.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15580.ts
-#EXTINF:-1,DE: RTL Crime
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7461.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15567.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7152.ts
-#EXTINF:-1,DE: RTL Passion
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7128.ts
-#EXTINF:-1,DE: SKY 3D
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7456.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15566.ts
-#EXTINF:-1,DE: Sky Action HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15589.ts
-#EXTINF:-1,DE: Sky Cinema Action
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7153.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15576.ts
-#EXTINF:-1,DE: Sky Cinema
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7151.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7150.ts
-#EXTINF:-1,DE: Sky Cinema 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15578.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7149.ts
-#EXTINF:-1,DE: Sky Sport Fan Zone HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7444.ts
-#EXTINF:-1,DE: Sky Cinema Comedy
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7148.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15573.ts
-#EXTINF:-1,DE:  Sky Cinema Hits
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7440.ts
-#EXTINF:-1,DE: Sky Cinema Family
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15353.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7144.ts
-#EXTINF:-1,DE: Sky Krimi
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7145.ts
-#EXTINF:-1,DE: Sky Hits
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7146.ts
-#EXTINF:-1,DE: Sky Emotion
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7147.ts
-#EXTINF:-1,DE: Syfy HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7139.ts
-#EXTINF:-1,DE: TNT Film HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7137.ts
-#EXTINF:-1,DE: TNT Film (TCM)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15574.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15565.ts
-#EXTINF:-1,DE: TNT Series
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7136.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7104.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7103.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7102.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7101.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7100.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7099.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7098.ts
-#EXTINF:-1,DE: FOX HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7172.ts
-#EXTINF:-1,DE: Universal HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15347.ts
-#EXTINF:-1,DE: VOX
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7458.ts
-#EXTINF:-1,=======  Sport De  =======
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13607.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15560.ts
-#EXTINF:-1,DE: Motorvision TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13017.ts
-#EXTINF:-1,DE: Sky Sport News
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7111.ts
-#EXTINF:-1,DE: ORF Sport+ HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/14041.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15562.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15349.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7108.ts
-#EXTINF:-1,DE: Sport1  HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15564.ts
-#EXTINF:-1,DE: SPORT +1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7109.ts
-#EXTINF:-1,DE: Sport1 US HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15587.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7119.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15556.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7115.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7116.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7113.ts
-#EXTINF:-1,DE: Sky Sport 3 (Match Time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13036.ts
-#EXTINF:-1,DE: Sky Sport 4 (Match Time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13035.ts
-#EXTINF:-1,DE: Sky Sport 5 (match time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13034.ts
-#EXTINF:-1,DE: Sky Sport 6 (match time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13033.ts
-#EXTINF:-1,DE: Sky Sport 7 (match time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13032.ts
-#EXTINF:-1,DE: Sky Sport 8 match time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13031.ts
-#EXTINF:-1,DE: Sky Sport 9 (match time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13029.ts
-#EXTINF:-1,DE: Sky Sport 10 (match time)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13030.ts
-#EXTINF:-1,DE: Sky Sport 11
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13037.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15561.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/16980.ts
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7123.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17033.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7122.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17034.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7121.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17035.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/12551.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17036.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7120.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17037.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13026.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17038.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13028.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17041.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13025.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17040.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13027.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/17039.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 Match Time
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13038.ts
-#EXTINF:-1,DE: Eurosport HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7107.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15342.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7471.ts
-#EXTINF:-1,=======  Doku/Wissen/Themen  =======
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13605.ts
-#EXTINF:-1,DE: Sky 1 HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15593.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15563.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7141.ts
-#EXTINF:-1,DE: RTL Living
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7162.ts
-#EXTINF:-1,DE: Discovery Channel
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7176.ts
-#EXTINF:-1,DE: NatGeo HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15569.ts
-#EXTINF:-1,DE: Nat Geographic
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7164.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15581.ts
-#EXTINF:-1,DE: NatGeo Wild
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7163.ts
-#EXTINF:-1,DE: HISTORY HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7106.ts
-#EXTINF:-1,DE: Dmax
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7417.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15344.ts
-#EXTINF:-1,DE: TLC
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7427.ts
-#EXTINF:-1,=======  Musik  =======
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13608.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7134.ts
-#EXTINF:-1,DE: Classica Deutschland
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7135.ts
-#EXTINF:-1,DE:  VEVO
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7436.ts
-#EXTINF:-1,DE:  M2O Music
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7423.ts
-#EXTINF:-1,DE: Jukebox
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15343.ts
-#EXTINF:-1,=======  Kinder  =======
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13606.ts
-#EXTINF:-1,DE: Junior
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13018.ts
-#EXTINF:-1,DE: Disney XD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7453.ts
-#EXTINF:-1,DE: Disney Junior
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7175.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7133.ts
-#EXTINF:-1,DE: Disney Channel
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/7173.ts
-#EXTINF:-1,DE: Toggo Plus
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15345.ts
-#EXTINF:-1,DE: Boomerang
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15351.ts
-#EXTINF:-1,DE: Cartoon Network
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15356.ts
-#EXTINF:-1,DE: 13th Street HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15572.ts
-#EXTINF:-1,DE: Discovery HD German
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15584.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/15571.ts
 
 
 
