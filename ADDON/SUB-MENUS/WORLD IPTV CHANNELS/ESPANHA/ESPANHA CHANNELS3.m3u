@@ -1,221 +1,93 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 25-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-#EXTINF:-1,LA 1 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/401.ts
-#EXTINF:-1,LA 2
-http://merlin.magikdata.biz:8000/live/eva/eva/402.ts
-#EXTINF:-1,ANTENA 3 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/403.ts
-#EXTINF:-1,CUATRO HD
-http://merlin.magikdata.biz:8000/live/eva/eva/404.ts
-#EXTINF:-1,TELECINCO HD
-http://merlin.magikdata.biz:8000/live/eva/eva/405.ts
-#EXTINF:-1,LA SEXTA HD
-http://merlin.magikdata.biz:8000/live/eva/eva/406.ts
-#EXTINF:-1,FDF
-http://merlin.magikdata.biz:8000/live/eva/eva/568.ts
-#EXTINF:-1,MEGA
-http://merlin.magikdata.biz:8000/live/eva/eva/407.ts
-#EXTINF:-1,BEMAD
-http://merlin.magikdata.biz:8000/live/eva/eva/1303.ts
-#EXTINF:-1,DKISS
-http://merlin.magikdata.biz:8000/live/eva/eva/1273.ts
-#EXTINF:-1,13TV Definitivo
-http://merlin.magikdata.biz:8000/live/eva/eva/1281.ts
-#EXTINF:-1,NEOX
-http://merlin.magikdata.biz:8000/live/eva/eva/417.ts
-#EXTINF:-1,NOVA
-http://merlin.magikdata.biz:8000/live/eva/eva/416.ts
-#EXTINF:-1,TV GALICIA
-http://merlin.magikdata.biz:8000/live/eva/eva/302.ts
-#EXTINF:-1,### MOVISTAR+ DEPORTES ###
-http://merlin.magikdata.biz:8000/live/eva/eva/389.ts
-#EXTINF:-1,BEIN LA LIGA FULL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/573.ts
-#EXTINF:-1,BEIN LA LIGA HD RESERVA 1
-http://merlin.magikdata.biz:8000/live/eva/eva/703.ts
-#EXTINF:-1,BEIN LA LIGA HD RESERVA 2
-http://merlin.magikdata.biz:8000/live/eva/eva/770.ts
-#EXTINF:-1,BEIN LIGA 1 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/704.ts
-#EXTINF:-1,BEIN LIGA 2
-http://merlin.magikdata.biz:8000/live/eva/eva/772.ts
-#EXTINF:-1,BEIN MAX 1 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/702.ts
-#EXTINF:-1,BEIN MAX 1 HD (RESERVA)
-http://merlin.magikdata.biz:8000/live/eva/eva/767.ts
-#EXTINF:-1,BEIN MAX 2
-http://merlin.magikdata.biz:8000/live/eva/eva/768.ts
-#EXTINF:-1,BEIN SPORTS FULL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/374.ts
-#EXTINF:-1,BEIN SPORTS HD RESERVA 1
-http://merlin.magikdata.biz:8000/live/eva/eva/701.ts
-#EXTINF:-1,BEIN SPORTS HD RESERVA 2
-http://merlin.magikdata.biz:8000/live/eva/eva/769.ts
-#EXTINF:-1,EUROSPORT1 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/457.ts
-#EXTINF:-1,GOL TV HD
-http://merlin.magikdata.biz:8000/live/eva/eva/981.ts
-#EXTINF:-1,GOL TV
-http://merlin.magikdata.biz:8000/live/eva/eva/455.ts
-#EXTINF:-1,LA LIGATV
-http://merlin.magikdata.biz:8000/live/eva/eva/774.ts
-#EXTINF:-1,M+ DEPORTES
-http://merlin.magikdata.biz:8000/live/eva/eva/365.ts
-#EXTINF:-1,M+  DEPORTES 2 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/366.ts
-#EXTINF:-1,M+  DEPORTES 2
-http://merlin.magikdata.biz:8000/live/eva/eva/367.ts
-#EXTINF:-1,M+  GOLF
-http://merlin.magikdata.biz:8000/live/eva/eva/361.ts
-#EXTINF:-1,M+ F1 FULL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/319.ts
-#EXTINF:-1,M+ F1 HD RESERVA 1
-http://merlin.magikdata.biz:8000/live/eva/eva/706.ts
-#EXTINF:-1,M+ FUTBOL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/362.ts
-#EXTINF:-1,M+ FUTBOL
-http://merlin.magikdata.biz:8000/live/eva/eva/363.ts
-#EXTINF:-1,M+ MOTO GP FULL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/318.ts
-#EXTINF:-1,M+ MOTO GP HD RESERVA 1
-http://merlin.magikdata.biz:8000/live/eva/eva/695.ts
-#EXTINF:-1,M+ PARTIDAZO FULL HD
-http://merlin.magikdata.biz:8000/live/eva/eva/713.ts
-#EXTINF:-1,M+ PARTIDAZO HD RESERVA 1
-http://merlin.magikdata.biz:8000/live/eva/eva/694.ts
-#EXTINF:-1,M+ PARTIDAZO HD RESERVA 2
-http://merlin.magikdata.biz:8000/live/eva/eva/771.ts
-#EXTINF:-1,M+ TOROS
-http://merlin.magikdata.biz:8000/live/eva/eva/415.ts
-#EXTINF:-1,PT - SPORTV 1 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/206.ts
-#EXTINF:-1,PT - SPORTV 2 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/205.ts
-#EXTINF:-1,PT - SPORTV 3 HD
-http://merlin.magikdata.biz:8000/live/eva/eva/204.ts
-#EXTINF:-1,PT - SPORTV 4 SD
-http://merlin.magikdata.biz:8000/live/eva/eva/1110.ts
-#EXTINF:-1,PT - SPORTV 5 SD
-http://merlin.magikdata.biz:8000/live/eva/eva/1111.ts
-#EXTINF:-1,REAL MADRID TV HD
-http://merlin.magikdata.biz:8000/live/eva/eva/556.ts
-#EXTINF:-1,### MOVISTAR+ CINE-SERIES ###
-http://merlin.magikdata.biz:8000/live/eva/eva/386.ts
-#EXTINF:-1,#0 (CANAL+ HD)
-http://merlin.magikdata.biz:8000/live/eva/eva/348.ts
-#EXTINF:-1,A and E
-http://merlin.magikdata.biz:8000/live/eva/eva/382.ts
-#EXTINF:-1,AXN
-http://merlin.magikdata.biz:8000/live/eva/eva/379.ts
-#EXTINF:-1,AXN WHITE HD
-http://merlin.magikdata.biz:8000/live/eva/eva/377.ts
-#EXTINF:-1,CALLE 13
-http://merlin.magikdata.biz:8000/live/eva/eva/350.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://merlin.magikdata.biz:8000/live/eva/eva/343.ts
-#EXTINF:-1,COSMO
-http://merlin.magikdata.biz:8000/live/eva/eva/342.ts
-#EXTINF:-1,DCINE ESPANOL
-http://merlin.magikdata.biz:8000/live/eva/eva/339.ts
-#EXTINF:-1,FOX HD
-http://merlin.magikdata.biz:8000/live/eva/eva/329.ts
-#EXTINF:-1,FOX
-http://merlin.magikdata.biz:8000/live/eva/eva/330.ts
-#EXTINF:-1,FOX LIFE
-http://merlin.magikdata.biz:8000/live/eva/eva/328.ts
-#EXTINF:-1,HOLLYWOOD
-http://merlin.magikdata.biz:8000/live/eva/eva/326.ts
-#EXTINF:-1,M+ ACCION HD
-http://merlin.magikdata.biz:8000/live/eva/eva/733.ts
-#EXTINF:-1,M+ ACCION
-http://merlin.magikdata.biz:8000/live/eva/eva/1072.ts
-#EXTINF:-1,M+ COMEDIA HD
-http://merlin.magikdata.biz:8000/live/eva/eva/773.ts
-#EXTINF:-1,M+ COMEDIA
-http://merlin.magikdata.biz:8000/live/eva/eva/370.ts
-#EXTINF:-1,M+ ESTRENOS HD
-http://merlin.magikdata.biz:8000/live/eva/eva/746.ts
-#EXTINF:-1,M+ ESTRENOS
-http://merlin.magikdata.biz:8000/live/eva/eva/364.ts
-#EXTINF:-1,M+ DCINE HD
-http://merlin.magikdata.biz:8000/live/eva/eva/368.ts
-#EXTINF:-1,M+ DCINE
-http://merlin.magikdata.biz:8000/live/eva/eva/369.ts
-#EXTINF:-1,M+ SERIES HD
-http://merlin.magikdata.biz:8000/live/eva/eva/357.ts
-#EXTINF:-1,M+ SERIES XTRA
-http://merlin.magikdata.biz:8000/live/eva/eva/356.ts
-#EXTINF:-1,M+  XTRA HD
-http://merlin.magikdata.biz:8000/live/eva/eva/354.ts
-#EXTINF:-1,M+ XTRA
-http://merlin.magikdata.biz:8000/live/eva/eva/355.ts
-#EXTINF:-1,TNT
-http://merlin.magikdata.biz:8000/live/eva/eva/303.ts
-#EXTINF:-1,TCM
-http://merlin.magikdata.biz:8000/live/eva/eva/307.ts
+#EXTINF:-1,#0 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1,ESTRENOS HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/2.ts
+#EXTINF:-1,DCINE HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/3.ts
+#EXTINF:-1,ACCION HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/4.ts
+#EXTINF:-1,COMEDIA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/5.ts
+#EXTINF:-1,XTRA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/6.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/7.ts
 #EXTINF:-1,SYFY HD
-http://merlin.magikdata.biz:8000/live/eva/eva/308.ts
-#EXTINF:-1,### MUSICA ###
-http://merlin.magikdata.biz:8000/live/eva/eva/999.ts
-#EXTINF:-1,MCM POP
-http://merlin.magikdata.biz:8000/live/eva/eva/1019.ts
-#EXTINF:-1,MTV ESPAÑA
-http://merlin.magikdata.biz:8000/live/eva/eva/418.ts
-#EXTINF:-1,VH1
-http://merlin.magikdata.biz:8000/live/eva/eva/1020.ts
-#EXTINF:-1,### MOVISTAR+ INFANTILES ###
-http://merlin.magikdata.biz:8000/live/eva/eva/384.ts
-#EXTINF:-1,BABY TV
-http://merlin.magikdata.biz:8000/live/eva/eva/376.ts
-#EXTINF:-1,CANAL PANDA
-http://merlin.magikdata.biz:8000/live/eva/eva/347.ts
-#EXTINF:-1,CLAN TVE
-http://merlin.magikdata.biz:8000/live/eva/eva/709.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://merlin.magikdata.biz:8000/live/eva/eva/337.ts
-#EXTINF:-1,DISNEY XD
-http://merlin.magikdata.biz:8000/live/eva/eva/334.ts
-#EXTINF:-1,NICKELODEON
-http://merlin.magikdata.biz:8000/live/eva/eva/708.ts
-#EXTINF:-1,### MOVISTAR+ DOCUMENTALES ###
-http://merlin.magikdata.biz:8000/live/eva/eva/387.ts
-#EXTINF:-1,CANAL COCINA
-http://merlin.magikdata.biz:8000/live/eva/eva/349.ts
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+#EXTINF:-1,CALLE 13 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/9.ts
+#EXTINF:-1,LA 1 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/10.ts
+#EXTINF:-1,ANTENA 3 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/11.ts
+#EXTINF:-1,CUATRO HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/12.ts
+#EXTINF:-1,TELECINCO HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/13.ts
+#EXTINF:-1,SERIES HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/14.ts
+#EXTINF:-1,SERIES XTRA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/15.ts
+#EXTINF:-1,FOX HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
+#EXTINF:-1,FOX LIFE HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/17.ts
+#EXTINF:-1,AXN HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/18.ts
+#EXTINF:-1,AXN WHITE HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/19.ts
+#EXTINF:-1,COSMO HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/20.ts
+#EXTINF:-1,TNT HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/21.ts
+#EXTINF:-1,LA LIGA TV HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/22.ts
+#EXTINF:-1,BEIN SPORT LA LIGA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
+#EXTINF:-1,BEIN SPORT HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
+#EXTINF:-1,GOL TV
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/25.ts
+#EXTINF:-1,FUTBOL HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/26.ts
+#EXTINF:-1,DEPORTES 1 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/27.ts
+#EXTINF:-1,DEPORTES 2 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/28.ts
+#EXTINF:-1,F1 HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/29.ts
+#EXTINF:-1,MOTOGP HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
+#EXTINF:-1,TOROS HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/31.ts
+#EXTINF:-1,GOLF HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/32.ts
+#EXTINF:-1,BARÇA TV
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/50.ts
+#EXTINF:-1,EUROSPORT HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/33.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/34.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/35.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/36.ts
+#EXTINF:-1,HISTORIA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/37.ts
+#EXTINF:-1,IBERALA
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/38.ts
 #EXTINF:-1,CAZA Y PESCA
-http://merlin.magikdata.biz:8000/live/eva/eva/345.ts
-#EXTINF:-1,HISTORIA
-http://merlin.magikdata.biz:8000/live/eva/eva/327.ts
-#EXTINF:-1,NAT GEOGRAPHIC
-http://merlin.magikdata.biz:8000/live/eva/eva/314.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://merlin.magikdata.biz:8000/live/eva/eva/707.ts
-#EXTINF:-1,VIAJAR HD
-http://merlin.magikdata.biz:8000/live/eva/eva/300.ts
-#EXTINF:-1,### TELECLUB CH ###
-http://merlin.magikdata.biz:8000/live/eva/eva/1101.ts
-#EXTINF:-1,TELECLUB CINEMA
-http://merlin.magikdata.biz:8000/live/eva/eva/1096.ts
-#EXTINF:-1,TELECLUB PRIME
-http://merlin.magikdata.biz:8000/live/eva/eva/1095.ts
-#EXTINF:-1,TELECLUB STAR
-http://merlin.magikdata.biz:8000/live/eva/eva/1094.ts
-#EXTINF:-1,TELECLUB SPORT 1
-http://merlin.magikdata.biz:8000/live/eva/eva/1097.ts
-#EXTINF:-1,TELECLUB SPORT 2
-http://merlin.magikdata.biz:8000/live/eva/eva/1098.ts
-#EXTINF:-1,### ADULTOS ###
-http://merlin.magikdata.biz:8000/live/eva/eva/391.ts
-#EXTINF:-1,HOT
-http://merlin.magikdata.biz:8000/live/eva/eva/966.ts
-#EXTINF:-1,HUSTLER HD
-http://merlin.magikdata.biz:8000/live/eva/eva/662.ts
-#EXTINF:-1,REDLIGHT HD
-http://merlin.magikdata.biz:8000/live/eva/eva/663.ts
-#EXTINF:-1,VENUS
-http://merlin.magikdata.biz:8000/live/eva/eva/967.ts
-
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/39.ts
+#EXTINF:-1,DISNEY XD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/41.ts
+#EXTINF:-1,DISNEY JR
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/42.ts
+#EXTINF:-1,NICKELODEON HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/43.ts
+#EXTINF:-1,MTV
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/40.ts

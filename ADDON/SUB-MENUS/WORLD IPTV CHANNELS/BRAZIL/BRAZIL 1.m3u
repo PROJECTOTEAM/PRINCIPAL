@@ -2,610 +2,777 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 30-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-#EXTINF:-1,A&E
-http://144.217.243.218:15000/live/6979/6979/1120.ts
-#EXTINF:-1,AGRO CANAL
-http://144.217.243.218:15000/live/6979/6979/2389.ts
-#EXTINF:-1,ALL SPORTS TV
-http://144.217.243.218:15000/live/6979/6979/2393.ts
-#EXTINF:-1,ANIMAL PLANET
-http://144.217.243.218:15000/live/6979/6979/1719.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://144.217.243.218:15000/live/6979/6979/1117.ts
-#EXTINF:-1,APARECIDA
-http://144.217.243.218:15000/live/6979/6979/916.ts
-#EXTINF:-1,ARTE 1
-http://144.217.243.218:15000/live/6979/6979/1218.ts
-#EXTINF:-1,AXN
-http://144.217.243.218:15000/live/6979/6979/1712.ts
-#EXTINF:-1,AXN HD
-http://144.217.243.218:15000/live/6979/6979/1114.ts
-#EXTINF:-1,BAND
-http://144.217.243.218:15000/live/6979/6979/1713.ts
-#EXTINF:-1,BAND HD
-http://144.217.243.218:15000/live/6979/6979/1108.ts
-#EXTINF:-1,BAND NEWS
-http://144.217.243.218:15000/live/6979/6979/1107.ts
-#EXTINF:-1,BAND SPORTS
-http://144.217.243.218:15000/live/6979/6979/1106.ts
-#EXTINF:-1,BAND SPORTS HD
-http://144.217.243.218:15000/live/6979/6979/2407.ts
-#EXTINF:-1,BIS
-http://144.217.243.218:15000/live/6979/6979/2408.ts
-#EXTINF:-1,BIS HD
-http://144.217.243.218:15000/live/6979/6979/1104.ts
-#EXTINF:-1,BLOOMBERG HD
-http://144.217.243.218:15000/live/6979/6979/1103.ts
-#EXTINF:-1,BOOMERANG
-http://144.217.243.218:15000/live/6979/6979/1102.ts
-#EXTINF:-1,CANAL BRASIL
-http://144.217.243.218:15000/live/6979/6979/1098.ts
-#EXTINF:-1,CANAL DO BOI
-http://144.217.243.218:15000/live/6979/6979/2382.ts
-#EXTINF:-1,CANAL RURAL
-http://144.217.243.218:15000/live/6979/6979/2482.ts
-#EXTINF:-1,CANCAO NOVA
-http://144.217.243.218:15000/live/6979/6979/1220.ts
-#EXTINF:-1,CARTOON NETWORK
-http://144.217.243.218:15000/live/6979/6979/1095.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://144.217.243.218:15000/live/6979/6979/2479.ts
-#EXTINF:-1,CINEMAX
-http://144.217.243.218:15000/live/6979/6979/2483.ts
-#EXTINF:-1,COMBATE
-http://144.217.243.218:15000/live/6979/6979/1089.ts
-#EXTINF:-1,COMBATE (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5004.ts
-#EXTINF:-1,COMBATE HD
-http://144.217.243.218:15000/live/6979/6979/1088.ts
-#EXTINF:-1,COMBATE HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5005.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://144.217.243.218:15000/live/6979/6979/2484.ts
-#EXTINF:-1,CULTURA
-http://144.217.243.218:15000/live/6979/6979/2505.ts
-#EXTINF:-1,CULTURA HD
-http://144.217.243.218:15000/live/6979/6979/1087.ts
-#EXTINF:-1,CURTA
-http://144.217.243.218:15000/live/6979/6979/2485.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://144.217.243.218:15000/live/6979/6979/1084.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://144.217.243.218:15000/live/6979/6979/2410.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://144.217.243.218:15000/live/6979/6979/1083.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://144.217.243.218:15000/live/6979/6979/2399.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://144.217.243.218:15000/live/6979/6979/1082.ts
-#EXTINF:-1,DISCOVERY KIDS
-http://144.217.243.218:15000/live/6979/6979/1080.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://144.217.243.218:15000/live/6979/6979/1078.ts
-#EXTINF:-1,DISCOVERY THEATER HD
-http://144.217.243.218:15000/live/6979/6979/2460.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://144.217.243.218:15000/live/6979/6979/1072.ts
-#EXTINF:-1,DISCOVERY TURBO HD
-http://144.217.243.218:15000/live/6979/6979/2411.ts
-#EXTINF:-1,DISCOVERY WORLD HD
-http://144.217.243.218:15000/live/6979/6979/2461.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://144.217.243.218:15000/live/6979/6979/1071.ts
-#EXTINF:-1,DISNEY JR
-http://144.217.243.218:15000/live/6979/6979/1068.ts
-#EXTINF:-1,DISNEY XD
-http://144.217.243.218:15000/live/6979/6979/1065.ts
-#EXTINF:-1,E!
-http://144.217.243.218:15000/live/6979/6979/1063.ts
-#EXTINF:-1,EI MAXX
-http://144.217.243.218:15000/live/6979/6979/1062.ts
-#EXTINF:-1,EI MAXX 2
-http://144.217.243.218:15000/live/6979/6979/1061.ts
-#EXTINF:-1,EI MAXX 2 HD
-http://144.217.243.218:15000/live/6979/6979/2462.ts
-#EXTINF:-1,EI MAXX HD
-http://144.217.243.218:15000/live/6979/6979/2463.ts
-#EXTINF:-1,ESPN
-http://144.217.243.218:15000/live/6979/6979/1718.ts
-#EXTINF:-1,ESPN BRASIL
-http://144.217.243.218:15000/live/6979/6979/1060.ts
-#EXTINF:-1,ESPN BRASIL HD
-http://144.217.243.218:15000/live/6979/6979/2387.ts
-#EXTINF:-1,ESPN HD
-http://144.217.243.218:15000/live/6979/6979/1129.ts
-#EXTINF:-1,ESPN+
-http://144.217.243.218:15000/live/6979/6979/2395.ts
-#EXTINF:-1,ESPN+ HD
-http://144.217.243.218:15000/live/6979/6979/2394.ts
-#EXTINF:-1,ESPORTE INTERATIVO
-http://144.217.243.218:15000/live/6979/6979/2397.ts
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://144.217.243.218:15000/live/6979/6979/2396.ts
-#EXTINF:-1,FISH TV
-http://144.217.243.218:15000/live/6979/6979/1050.ts
-#EXTINF:-1,FOOD NETWORK
-http://144.217.243.218:15000/live/6979/6979/1049.ts
-#EXTINF:-1,FOX
-http://144.217.243.218:15000/live/6979/6979/1329.ts
-#EXTINF:-1,FOX HD
-http://144.217.243.218:15000/live/6979/6979/1047.ts
-#EXTINF:-1,FOX LIFE
-http://144.217.243.218:15000/live/6979/6979/1038.ts
-#EXTINF:-1,FOX LIFE HD
-http://144.217.243.218:15000/live/6979/6979/1037.ts
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://144.217.243.218:15000/live/6979/6979/2464.ts
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://144.217.243.218:15000/live/6979/6979/2465.ts
-#EXTINF:-1,FOX SPORTS
-http://144.217.243.218:15000/live/6979/6979/2391.ts
-#EXTINF:-1,FOX SPORTS (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5017.ts
-#EXTINF:-1,FOX SPORTS 2
-http://144.217.243.218:15000/live/6979/6979/1717.ts
-#EXTINF:-1,FOX SPORTS 2 (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5021.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://144.217.243.218:15000/live/6979/6979/1031.ts
-#EXTINF:-1,FOX SPORTS 2 HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5022.ts
-#EXTINF:-1,FOX SPORTS HD
-http://144.217.243.218:15000/live/6979/6979/1033.ts
-#EXTINF:-1,FOX SPORTS HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5018.ts
-#EXTINF:-1,FUTURA
-http://144.217.243.218:15000/live/6979/6979/1029.ts
-#EXTINF:-1,FX
-http://144.217.243.218:15000/live/6979/6979/1028.ts
-#EXTINF:-1,FX HD
-http://144.217.243.218:15000/live/6979/6979/2386.ts
-#EXTINF:-1,GLOBO BRASILIA
-http://144.217.243.218:15000/live/6979/6979/2512.ts
-#EXTINF:-1,GLOBO MG
-http://144.217.243.218:15000/live/6979/6979/2412.ts
-#EXTINF:-1,GLOBO NEWS
-http://144.217.243.218:15000/live/6979/6979/1027.ts
-#EXTINF:-1,GLOBO NEWS (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5006.ts
-#EXTINF:-1,GLOBO NEWS HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5007.ts
-#EXTINF:-1,GLOBO RJ
-http://144.217.243.218:15000/live/6979/6979/2508.ts
-#EXTINF:-1,GLOBO RJ HD
-http://144.217.243.218:15000/live/6979/6979/1207.ts
-#EXTINF:-1,GLOBO SP
-http://144.217.243.218:15000/live/6979/6979/1024.ts
-#EXTINF:-1,GLOOB
-http://144.217.243.218:15000/live/6979/6979/1023.ts
-#EXTINF:-1,GNT
-http://144.217.243.218:15000/live/6979/6979/1022.ts
-#EXTINF:-1,GNT (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5008.ts
-#EXTINF:-1,GNT HD
-http://144.217.243.218:15000/live/6979/6979/2466.ts
-#EXTINF:-1,GNT HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5009.ts
-#EXTINF:-1,H2
-http://144.217.243.218:15000/live/6979/6979/2486.ts
-#EXTINF:-1,H2 HD
-http://144.217.243.218:15000/live/6979/6979/1021.ts
-#EXTINF:-1,HBO
-http://144.217.243.218:15000/live/6979/6979/1020.ts
-#EXTINF:-1,HBO 2
-http://144.217.243.218:15000/live/6979/6979/2489.ts
-#EXTINF:-1,HBO 2 HD
-http://144.217.243.218:15000/live/6979/6979/1017.ts
-#EXTINF:-1,HBO FAMILY
-http://144.217.243.218:15000/live/6979/6979/1016.ts
-#EXTINF:-1,HBO FAMILY HD
-http://144.217.243.218:15000/live/6979/6979/2392.ts
-#EXTINF:-1,HBO HD
-http://144.217.243.218:15000/live/6979/6979/1209.ts
-#EXTINF:-1,HBO PLUS
-http://144.217.243.218:15000/live/6979/6979/1014.ts
-#EXTINF:-1,HBO PLUS E
-http://144.217.243.218:15000/live/6979/6979/2487.ts
-#EXTINF:-1,HBO PLUS HD
-http://144.217.243.218:15000/live/6979/6979/2467.ts
-#EXTINF:-1,HBO SIGNATURE
-http://144.217.243.218:15000/live/6979/6979/2488.ts
-#EXTINF:-1,HBO SIGNATURE HD
-http://144.217.243.218:15000/live/6979/6979/1013.ts
-#EXTINF:-1,I-SAT
-http://144.217.243.218:15000/live/6979/6979/2490.ts
-#EXTINF:-1,IDEAL TV
-http://144.217.243.218:15000/live/6979/6979/2491.ts
-#EXTINF:-1,INVESTIGACAO DISCOVERY
-http://144.217.243.218:15000/live/6979/6979/1011.ts
-#EXTINF:-1,INVESTIGACAO DISCOVERY HD
-http://144.217.243.218:15000/live/6979/6979/2469.ts
-#EXTINF:-1,LIFETIME
-http://144.217.243.218:15000/live/6979/6979/2492.ts
-#EXTINF:-1,MAIS GLOBOSAT
-http://144.217.243.218:15000/live/6979/6979/1008.ts
-#EXTINF:-1,MAX
-http://144.217.243.218:15000/live/6979/6979/1007.ts
-#EXTINF:-1,MAX PRIME
-http://144.217.243.218:15000/live/6979/6979/1006.ts
-#EXTINF:-1,MAX PRIME E
-http://144.217.243.218:15000/live/6979/6979/2493.ts
-#EXTINF:-1,MAX UP
-http://144.217.243.218:15000/live/6979/6979/1005.ts
-#EXTINF:-1,MEGAPIX
-http://144.217.243.218:15000/live/6979/6979/1004.ts
-#EXTINF:-1,MEGAPIX HD
-http://144.217.243.218:15000/live/6979/6979/2470.ts
-#EXTINF:-1,MTV
-http://144.217.243.218:15000/live/6979/6979/1000.ts
-#EXTINF:-1,MULTISHOW
-http://144.217.243.218:15000/live/6979/6979/1211.ts
-#EXTINF:-1,MULTISHOW (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5010.ts
-#EXTINF:-1,MULTISHOW HD
-http://144.217.243.218:15000/live/6979/6979/2385.ts
-#EXTINF:-1,MULTISHOW HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5011.ts
-#EXTINF:-1,MUSIC BOX BRASIL
-http://144.217.243.218:15000/live/6979/6979/997.ts
-#EXTINF:-1,NATGEO WILD
-http://144.217.243.218:15000/live/6979/6979/995.ts
-#EXTINF:-1,NATGEO WILD HD
-http://144.217.243.218:15000/live/6979/6979/994.ts
-#EXTINF:-1,NATIONAL GEOGRAPHICS
-http://144.217.243.218:15000/live/6979/6979/991.ts
-#EXTINF:-1,NATIONAL GEOGRAPHICS HD
-http://144.217.243.218:15000/live/6979/6979/990.ts
-#EXTINF:-1,NBR
-http://144.217.243.218:15000/live/6979/6979/2494.ts
-#EXTINF:-1,NHK
-http://144.217.243.218:15000/live/6979/6979/2495.ts
-#EXTINF:-1,NICK
-http://144.217.243.218:15000/live/6979/6979/1206.ts
-#EXTINF:-1,NICK JR
-http://144.217.243.218:15000/live/6979/6979/986.ts
-#EXTINF:-1,NOVO TEMPO
-http://144.217.243.218:15000/live/6979/6979/2496.ts
-#EXTINF:-1,OFF
-http://144.217.243.218:15000/live/6979/6979/1219.ts
-#EXTINF:-1,OFF HD
-http://144.217.243.218:15000/live/6979/6979/2471.ts
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://144.217.243.218:15000/live/6979/6979/980.ts
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://144.217.243.218:15000/live/6979/6979/2472.ts
-#EXTINF:-1,PLAY TV
-http://144.217.243.218:15000/live/6979/6979/2497.ts
-#EXTINF:-1,PREMIERE 2
-http://144.217.243.218:15000/live/6979/6979/978.ts
-#EXTINF:-1,PREMIERE 2 HD
-http://144.217.243.218:15000/live/6979/6979/1213.ts
-#EXTINF:-1,PREMIERE 3
-http://144.217.243.218:15000/live/6979/6979/977.ts
-#EXTINF:-1,PREMIERE 3 HD
-http://144.217.243.218:15000/live/6979/6979/1214.ts
-#EXTINF:-1,PREMIERE 4
-http://144.217.243.218:15000/live/6979/6979/976.ts
-#EXTINF:-1,PREMIERE 4 HD
-http://144.217.243.218:15000/live/6979/6979/1215.ts
-#EXTINF:-1,PREMIERE 5
-http://144.217.243.218:15000/live/6979/6979/975.ts
-#EXTINF:-1,PREMIERE 5 HD
-http://144.217.243.218:15000/live/6979/6979/1216.ts
-#EXTINF:-1,PREMIERE 6
-http://144.217.243.218:15000/live/6979/6979/974.ts
-#EXTINF:-1,PREMIERE 7
-http://144.217.243.218:15000/live/6979/6979/973.ts
-#EXTINF:-1,PREMIERE 8
-http://144.217.243.218:15000/live/6979/6979/972.ts
-#EXTINF:-1,PREMIERE 9
-http://144.217.243.218:15000/live/6979/6979/971.ts
-#EXTINF:-1,PREMIERE CLUBES
-http://144.217.243.218:15000/live/6979/6979/970.ts
-#EXTINF:-1,PREMIERE CLUBES HD
-http://144.217.243.218:15000/live/6979/6979/1714.ts
-#EXTINF:-1,PRIME BOX BRASIL
-http://144.217.243.218:15000/live/6979/6979/969.ts
-#EXTINF:-1,RBI
-http://144.217.243.218:15000/live/6979/6979/2498.ts
-#EXTINF:-1,RBS TV PORTO ALEGRE
-http://144.217.243.218:15000/live/6979/6979/968.ts
-#EXTINF:-1,REAL MADRID TV
-http://144.217.243.218:15000/live/6979/6979/967.ts
-#EXTINF:-1,RECORD
-http://144.217.243.218:15000/live/6979/6979/1710.ts
-#EXTINF:-1,RECORD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5019.ts
-#EXTINF:-1,RECORD HD
-http://144.217.243.218:15000/live/6979/6979/1210.ts
-#EXTINF:-1,RECORD HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5020.ts
-#EXTINF:-1,RECORD NEWS
-http://144.217.243.218:15000/live/6979/6979/966.ts
-#EXTINF:-1,RECORD NEWS HD
-http://144.217.243.218:15000/live/6979/6979/2400.ts
-#EXTINF:-1,REDE BRASIL
-http://144.217.243.218:15000/live/6979/6979/965.ts
-#EXTINF:-1,REDE TV
-http://144.217.243.218:15000/live/6979/6979/963.ts
-#EXTINF:-1,REDE TV HD
-http://144.217.243.218:15000/live/6979/6979/2406.ts
-#EXTINF:-1,REDE VIDA
-http://144.217.243.218:15000/live/6979/6979/2499.ts
-#EXTINF:-1,RIT
-http://144.217.243.218:15000/live/6979/6979/2500.ts
-#EXTINF:-1,SBT
-http://144.217.243.218:15000/live/6979/6979/955.ts
-#EXTINF:-1,SBT (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5016.ts
-#EXTINF:-1,SBT HD
-http://144.217.243.218:15000/live/6979/6979/1208.ts
-#EXTINF:-1,SESC TV HD
-http://144.217.243.218:15000/live/6979/6979/953.ts
-#EXTINF:-1,SIC INTERNATIONAL
-http://144.217.243.218:15000/live/6979/6979/952.ts
-#EXTINF:-1,SONY
-http://144.217.243.218:15000/live/6979/6979/1096.ts
-#EXTINF:-1,SONY HD
-http://144.217.243.218:15000/live/6979/6979/2409.ts
-#EXTINF:-1,SPACE
-http://144.217.243.218:15000/live/6979/6979/2501.ts
-#EXTINF:-1,SPACE HD
-http://144.217.243.218:15000/live/6979/6979/1327.ts
-#EXTINF:-1,SPORTV
-http://144.217.243.218:15000/live/6979/6979/943.ts
-#EXTINF:-1,SPORTV (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/4998.ts
-#EXTINF:-1,SPORTV 2
-http://144.217.243.218:15000/live/6979/6979/942.ts
-#EXTINF:-1,SPORTV 2 (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/4999.ts
-#EXTINF:-1,SPORTV 2 HD
-http://144.217.243.218:15000/live/6979/6979/2401.ts
-#EXTINF:-1,SPORTV 2 HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5001.ts
-#EXTINF:-1,SPORTV 3
-http://144.217.243.218:15000/live/6979/6979/941.ts
-#EXTINF:-1,SPORTV 3 (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5002.ts
-#EXTINF:-1,SPORTV 3 HD
-http://144.217.243.218:15000/live/6979/6979/2402.ts
-#EXTINF:-1,SPORTV 3 HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5003.ts
-#EXTINF:-1,SPORTV HD
-http://144.217.243.218:15000/live/6979/6979/1203.ts
-#EXTINF:-1,SPORTV HD (Alternativo)
-http://144.217.243.218:15000/live/6979/6979/5000.ts
-#EXTINF:-1,STUDIO UNIVERSAL
-http://144.217.243.218:15000/live/6979/6979/2384.ts
-#EXTINF:-1,SYFY
-http://144.217.243.218:15000/live/6979/6979/939.ts
-#EXTINF:-1,TBS
-http://144.217.243.218:15000/live/6979/6979/937.ts
-#EXTINF:-1,TBS HD
-http://144.217.243.218:15000/live/6979/6979/2473.ts
-#EXTINF:-1,TC ACTION
-http://144.217.243.218:15000/live/6979/6979/935.ts
-#EXTINF:-1,TC ACTION HD
-http://144.217.243.218:15000/live/6979/6979/936.ts
-#EXTINF:-1,TC CULT
-http://144.217.243.218:15000/live/6979/6979/933.ts
-#EXTINF:-1,TC FUN
-http://144.217.243.218:15000/live/6979/6979/931.ts
-#EXTINF:-1,TC FUN HD
-http://144.217.243.218:15000/live/6979/6979/932.ts
-#EXTINF:-1,TC PIPOCA
-http://144.217.243.218:15000/live/6979/6979/929.ts
-#EXTINF:-1,TC PIPOCA HD
-http://144.217.243.218:15000/live/6979/6979/930.ts
-#EXTINF:-1,TC PREMIUM
-http://144.217.243.218:15000/live/6979/6979/2415.ts
-#EXTINF:-1,TC PREMIUM HD
-http://144.217.243.218:15000/live/6979/6979/928.ts
-#EXTINF:-1,TC TOUCH
-http://144.217.243.218:15000/live/6979/6979/926.ts
-#EXTINF:-1,TC TOUCH HD
-http://144.217.243.218:15000/live/6979/6979/927.ts
-#EXTINF:-1,TCM
-http://144.217.243.218:15000/live/6979/6979/925.ts
-#EXTINF:-1,TERRA VIVA
-http://144.217.243.218:15000/live/6979/6979/2504.ts
-#EXTINF:-1,THE HISTORY CHANNEL
-http://144.217.243.218:15000/live/6979/6979/923.ts
-#EXTINF:-1,THE HISTORY CHANNEL HD
-http://144.217.243.218:15000/live/6979/6979/2468.ts
-#EXTINF:-1,TLC
-http://144.217.243.218:15000/live/6979/6979/922.ts
-#EXTINF:-1,TNT
-http://144.217.243.218:15000/live/6979/6979/921.ts
-#EXTINF:-1,TNT HD
-http://144.217.243.218:15000/live/6979/6979/2383.ts
-#EXTINF:-1,TNT SERIES
-http://144.217.243.218:15000/live/6979/6979/1204.ts
-#EXTINF:-1,TNT SERIES HD
-http://144.217.243.218:15000/live/6979/6979/2474.ts
-#EXTINF:-1,TOONCAST
-http://144.217.243.218:15000/live/6979/6979/919.ts
-#EXTINF:-1,TRU TV
-http://144.217.243.218:15000/live/6979/6979/917.ts
-#EXTINF:-1,TV ANHANGUERA
-http://144.217.243.218:15000/live/6979/6979/2511.ts
-#EXTINF:-1,TV BRASIL
-http://144.217.243.218:15000/live/6979/6979/915.ts
-#EXTINF:-1,TV CAMARA
-http://144.217.243.218:15000/live/6979/6979/1715.ts
-#EXTINF:-1,TV DIARIO
-http://144.217.243.218:15000/live/6979/6979/2388.ts
-#EXTINF:-1,TV ESCOLA
-http://144.217.243.218:15000/live/6979/6979/2404.ts
-#EXTINF:-1,TV ESCOLA HD
-http://144.217.243.218:15000/live/6979/6979/910.ts
-#EXTINF:-1,TV GAZETA HD
-http://144.217.243.218:15000/live/6979/6979/909.ts
-#EXTINF:-1,TV GERAL
-http://144.217.243.218:15000/live/6979/6979/2413.ts
-#EXTINF:-1,TV JUSTICA
-http://144.217.243.218:15000/live/6979/6979/1716.ts
-#EXTINF:-1,TV RA TIM BUM
-http://144.217.243.218:15000/live/6979/6979/2506.ts
-#EXTINF:-1,TV TEM BAURU
-http://144.217.243.218:15000/live/6979/6979/2510.ts
-#EXTINF:-1,TV TEM SOROCABA
-http://144.217.243.218:15000/live/6979/6979/2509.ts
-#EXTINF:-1,TVE
-http://144.217.243.218:15000/live/6979/6979/2507.ts
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://144.217.243.218:15000/live/6979/6979/940.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://144.217.243.218:15000/live/6979/6979/2475.ts
-#EXTINF:-1,VH1 MEGA HITS
-http://144.217.243.218:15000/live/6979/6979/898.ts
-#EXTINF:-1,VIVA
-http://144.217.243.218:15000/live/6979/6979/897.ts
-#EXTINF:-1,VIVA HD
-http://144.217.243.218:15000/live/6979/6979/2476.ts
-#EXTINF:-1,WARNER CHANNEL
-http://144.217.243.218:15000/live/6979/6979/896.ts
-#EXTINF:-1,WARNER CHANNEL HD
-http://144.217.243.218:15000/live/6979/6979/2478.ts
-#EXTINF:-1,WOOHOO
-http://144.217.243.218:15000/live/6979/6979/894.ts
-#EXTINF:-1,XX: PLAYBOY TV
-http://144.217.243.218:15000/live/6979/6979/871.ts
-#EXTINF:-1,XX: SEXTREME
-http://144.217.243.218:15000/live/6979/6979/853.ts
-#EXTINF:-1,XX: SEXY HOT
-http://144.217.243.218:15000/live/6979/6979/1205.ts
-#EXTINF:-1,BA - 104.7: NOVA BRASIL FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1332.ts
-#EXTINF:-1,CE - 89.9: LIDERANÇA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4886.ts
-#EXTINF:-1,CE - 94.7: JOVEM PAN FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4885.ts
-#EXTINF:-1,DF - 100.1: RADIO TRANSAMERICA POP FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1346.ts
-#EXTINF:-1,DF - 101.7: RADIO EXECUTIVA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1347.ts
-#EXTINF:-1,DF - 104:1: OK FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1328.ts
-#EXTINF:-1,DF - 105.5: CLUBE FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1349.ts
-#EXTINF:-1,DF - 106.1: JOIA SERTANEJA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1350.ts
-#EXTINF:-1,DF - 106.3: JOVEM PAN FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1351.ts
-#EXTINF:-1,DF - 107.1: ATIVIDADE FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1352.ts
-#EXTINF:-1,DF - 107.5: SARA BRASIL FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1353.ts
-#EXTINF:-1,DF - 107.9: RADIO MARIA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1354.ts
-#EXTINF:-1,DF - 710: NOVA ALIANCA AM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1355.ts
-#EXTINF:-1,DF - 88.3: MIX FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1333.ts
-#EXTINF:-1,DF - 89.1: CANCAO NOVA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1334.ts
-#EXTINF:-1,DF - 89.9: BRASILIA SUPER RADIO FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1335.ts
-#EXTINF:-1,DF - 90.5: BAND NEWS FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1336.ts
-#EXTINF:-1,DF - 91.1: FORCA AEREA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1337.ts
-#EXTINF:-1,DF - 94.5: REDE IMACULADA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1339.ts
-#EXTINF:-1,DF - 95.3: CBN FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1340.ts
-#EXTINF:-1,DF - 97.5: NOVA BRASIL FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1341.ts
-#EXTINF:-1,DF - 98.1: RADIO PARANOA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1344.ts
-#EXTINF:-1,DF - 98.1: RADIO REGIONAL FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1342.ts
-#EXTINF:-1,DF - 98.1: RADIO SAMAMBAIA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1343.ts
-#EXTINF:-1,DF - 98.7: RADIO VERDE OLIVA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1345.ts
-#EXTINF:-1,RJ - 104.1: RADIO MANIA FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1348.ts
-#EXTINF:-1,Rádio Anos 2000 [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4892.ts
-#EXTINF:-1,Rádio Anos 70 [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4899.ts
-#EXTINF:-1,Rádio Anos 80 [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4900.ts
-#EXTINF:-1,Rádio Anos 90 [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4901.ts
-#EXTINF:-1,Rádio Axé [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4909.ts
-#EXTINF:-1,Rádio Bossa Nova [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4889.ts
-#EXTINF:-1,Rádio Brega [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4910.ts
-#EXTINF:-1,Rádio Eletrônica [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4904.ts
-#EXTINF:-1,Rádio Festa [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4905.ts
-#EXTINF:-1,Rádio Forró [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4890.ts
-#EXTINF:-1,Rádio Funk [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4894.ts
-#EXTINF:-1,Rádio Gospel [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4906.ts
-#EXTINF:-1,Rádio Hip Hop [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4907.ts
-#EXTINF:-1,Rádio Historinha Infantil [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4919.ts
-#EXTINF:-1,Rádio Jazz [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4908.ts
-#EXTINF:-1,Rádio Kids [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4887.ts
-#EXTINF:-1,Rádio Lounge [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4896.ts
-#EXTINF:-1,Rádio MPB [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4888.ts
-#EXTINF:-1,Rádio Metal [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4916.ts
-#EXTINF:-1,Rádio Música Clássica [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4911.ts
-#EXTINF:-1,Rádio New Rock [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4912.ts
-#EXTINF:-1,Rádio Pagode [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4891.ts
-#EXTINF:-1,Rádio Pop Hits [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4915.ts
-#EXTINF:-1,Rádio Pop Rock [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4897.ts
-#EXTINF:-1,Rádio Rap Nacional [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4903.ts
-#EXTINF:-1,Rádio Reggae [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4913.ts
-#EXTINF:-1,Rádio Roberto Carlos [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4898.ts
-#EXTINF:-1,Rádio Rock Clássico [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4895.ts
-#EXTINF:-1,Rádio Românticas [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4902.ts
-#EXTINF:-1,Rádio Sertanejo Universitário [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4914.ts
-#EXTINF:-1,Rádio Sertanejo [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4893.ts
-#EXTINF:-1,Rádio Studio do Amor [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4918.ts
-#EXTINF:-1,Rádio Trilhas Sonoras [RADIO]
-http://144.217.243.218:15000/live/6979/6979/4917.ts
-#EXTINF:-1,SP - 104.1: TOP FM [RADIO]
-http://144.217.243.218:15000/live/6979/6979/1331.ts
-
-
-
-
-
+#EXTINF:-1,Globo RJ HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2974.ts
+#EXTINF:-1,Globo RJ HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2823.ts
+#EXTINF:-1,Globo RJ HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/345.ts
+#EXTINF:-1,Globo RJ 
+http://srv.elitehdbr.com:25461/live/alan/alan/2824.ts
+#EXTINF:-1,Globo RJ 
+http://srv.elitehdbr.com:25461/live/alan/alan/344.ts
+#EXTINF:-1,Globo SP HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2821.ts
+#EXTINF:-1,Globo SP 
+http://srv.elitehdbr.com:25461/live/alan/alan/2822.ts
+#EXTINF:-1,Globo SP 
+http://srv.elitehdbr.com:25461/live/alan/alan/343.ts
+#EXTINF:-1,Globo Minas 
+http://srv.elitehdbr.com:25461/live/alan/alan/2827.ts
+#EXTINF:-1,Globo Minas 
+http://srv.elitehdbr.com:25461/live/alan/alan/341.ts
+#EXTINF:-1,Globo Brasilia 
+http://srv.elitehdbr.com:25461/live/alan/alan/2829.ts
+#EXTINF:-1,Globo Brasília 
+http://srv.elitehdbr.com:25461/live/alan/alan/340.ts
+#EXTINF:-1,Globo Nordeste HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2825.ts
+#EXTINF:-1,EPTV CAMPINAS HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2845.ts
+#EXTINF:-1,RBS Tv Porto Alegre 
+http://srv.elitehdbr.com:25461/live/alan/alan/2777.ts
+#EXTINF:-1,RBS TV Porto Alegre 
+http://srv.elitehdbr.com:25461/live/alan/alan/321.ts
+#EXTINF:-1,TV TEM BAURU HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2738.ts
+#EXTINF:-1,TV Tem Bauru 
+http://srv.elitehdbr.com:25461/live/alan/alan/316.ts
+#EXTINF:-1,TV Tem Sorocaba 
+http://srv.elitehdbr.com:25461/live/alan/alan/317.ts
+#EXTINF:-1,TV GAZETA ES HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2740.ts
+#EXTINF:-1,Globo Internacional 
+http://srv.elitehdbr.com:25461/live/alan/alan/2828.ts
+#EXTINF:-1,Globo Internacional HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/339.ts
+#EXTINF:-1,Globo Portugal
+http://srv.elitehdbr.com:25461/live/alan/alan/1675.ts
+#EXTINF:-1,Globo Portugal 2
+http://srv.elitehdbr.com:25461/live/alan/alan/1715.ts
+#EXTINF:-1,Globo Premium
+http://srv.elitehdbr.com:25461/live/alan/alan/1716.ts
+#EXTINF:-1,Band HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2877.ts
+#EXTINF:-1,Band HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/328.ts
+#EXTINF:-1,Band 
+http://srv.elitehdbr.com:25461/live/alan/alan/2878.ts
+#EXTINF:-1,Band 
+http://srv.elitehdbr.com:25461/live/alan/alan/329.ts
+#EXTINF:-1,Band 
+http://srv.elitehdbr.com:25461/live/alan/alan/326.ts
+#EXTINF:-1,SBT HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2957.ts
+#EXTINF:-1,SBT HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/330.ts
+#EXTINF:-1,SBT 
+http://srv.elitehdbr.com:25461/live/alan/alan/331.ts
+#EXTINF:-1,SBT 
+http://srv.elitehdbr.com:25461/live/alan/alan/2770.ts
+#EXTINF:-1,Record TV HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/336.ts
+#EXTINF:-1,Record TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/2773.ts
+#EXTINF:-1,Record TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/337.ts
+#EXTINF:-1,Record Tv Portugal
+http://srv.elitehdbr.com:25461/live/alan/alan/1717.ts
+#EXTINF:-1,Rede Brasil 
+http://srv.elitehdbr.com:25461/live/alan/alan/2775.ts
+#EXTINF:-1,Rede Brasil 
+http://srv.elitehdbr.com:25461/live/alan/alan/319.ts
+#EXTINF:-1,Rede TV HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/335.ts
+#EXTINF:-1,Rede TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/334.ts
+#EXTINF:-1,Rede TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/2772.ts
+#EXTINF:-1,TV CULTURA HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2741.ts
+#EXTINF:-1,TV Cultura 
+http://srv.elitehdbr.com:25461/live/alan/alan/309.ts
+#EXTINF:-1,Futura 
+http://srv.elitehdbr.com:25461/live/alan/alan/2831.ts
+#EXTINF:-1,Futura 
+http://srv.elitehdbr.com:25461/live/alan/alan/325.ts
+#EXTINF:-1,TV BRASIL 
+http://srv.elitehdbr.com:25461/live/alan/alan/2742.ts
+#EXTINF:-1,TV Brasil 
+http://srv.elitehdbr.com:25461/live/alan/alan/311.ts
+#EXTINF:-1,Terra Viva 
+http://srv.elitehdbr.com:25461/live/alan/alan/313.ts
+#EXTINF:-1,Canal Rural 
+http://srv.elitehdbr.com:25461/live/alan/alan/2870.ts
+#EXTINF:-1,Canal Rural 
+http://srv.elitehdbr.com:25461/live/alan/alan/307.ts
+#EXTINF:-1,NBR 
+http://srv.elitehdbr.com:25461/live/alan/alan/323.ts
+#EXTINF:-1,TV Senado
+http://srv.elitehdbr.com:25461/live/alan/alan/302.ts
+#EXTINF:-1,Sportv HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2956.ts
+#EXTINF:-1,Sportv HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2764.ts
+#EXTINF:-1,SporTV HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/177.ts
+#EXTINF:-1,SporTV 
+http://srv.elitehdbr.com:25461/live/alan/alan/176.ts
+#EXTINF:-1,SporTV 1 
+http://srv.elitehdbr.com:25461/live/alan/alan/175.ts
+#EXTINF:-1,SporTV 2
+http://srv.elitehdbr.com:25461/live/alan/alan/174.ts
+#EXTINF:-1,Sportv 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2766.ts
+#EXTINF:-1,SporTV 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/172.ts
+#EXTINF:-1,SporTV 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/171.ts
+#EXTINF:-1,Sportv 3 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2765.ts
+#EXTINF:-1,SporTV 3 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/167.ts
+#EXTINF:-1,SporTV 3 
+http://srv.elitehdbr.com:25461/live/alan/alan/166.ts
+#EXTINF:-1,SporTV 3 2
+http://srv.elitehdbr.com:25461/live/alan/alan/165.ts
+#EXTINF:-1,Combate HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2862.ts
+#EXTINF:-1,Combate HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/201.ts
+#EXTINF:-1,Combate 
+http://srv.elitehdbr.com:25461/live/alan/alan/2863.ts
+#EXTINF:-1,Combate 
+http://srv.elitehdbr.com:25461/live/alan/alan/202.ts
+#EXTINF:-1,EI Maxx HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2982.ts
+#EXTINF:-1,EI MAXX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2846.ts
+#EXTINF:-1,Ei Maxx HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/147.ts
+#EXTINF:-1,EI Maxx 
+http://srv.elitehdbr.com:25461/live/alan/alan/146.ts
+#EXTINF:-1,EI Maxx 2 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2983.ts
+#EXTINF:-1,EI MAXX 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2847.ts
+#EXTINF:-1,Ei Maxx 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/144.ts
+#EXTINF:-1,EI Maxx 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/143.ts
+#EXTINF:-1,Esporte Interativo HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2979.ts
+#EXTINF:-1,Esporte Interativo HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/158.ts
+#EXTINF:-1,Fox 1 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2978.ts
+#EXTINF:-1,Fox Sports HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2832.ts
+#EXTINF:-1,Fox Sport HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/164.ts
+#EXTINF:-1,Fox Sports 
+http://srv.elitehdbr.com:25461/live/alan/alan/2835.ts
+#EXTINF:-1,Fox Sports 
+http://srv.elitehdbr.com:25461/live/alan/alan/163.ts
+#EXTINF:-1,Fox Sports 2 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2976.ts
+#EXTINF:-1,Fox Sports 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2833.ts
+#EXTINF:-1,FOX Sports 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/161.ts
+#EXTINF:-1,Fox Sports 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/2834.ts
+#EXTINF:-1,Fox Sports 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/160.ts
+#EXTINF:-1,ESPN HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2842.ts
+#EXTINF:-1,ESPN HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/148.ts
+#EXTINF:-1,ESPN  HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2844.ts
+#EXTINF:-1,ESPN Brasil HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2981.ts
+#EXTINF:-1,ESPN BRASIL HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2843.ts
+#EXTINF:-1,ESPN Brasil HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/151.ts
+#EXTINF:-1,ESPN Brasil 
+http://srv.elitehdbr.com:25461/live/alan/alan/150.ts
+#EXTINF:-1,ESPN Plus HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2980.ts
+#EXTINF:-1,ESPN + HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/154.ts
+#EXTINF:-1,ESPN + 
+http://srv.elitehdbr.com:25461/live/alan/alan/153.ts
+#EXTINF:-1,Band Sports HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2989.ts
+#EXTINF:-1,Band Sports HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2875.ts
+#EXTINF:-1,Band Sports HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/155.ts
+#EXTINF:-1,Band Sports 
+http://srv.elitehdbr.com:25461/live/alan/alan/156.ts
+#EXTINF:-1,Fish TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/138.ts
+#EXTINF:-1,Woohoo 
+http://srv.elitehdbr.com:25461/live/alan/alan/136.ts
+#EXTINF:-1,OFF HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2794.ts
+#EXTINF:-1,OFF HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/141.ts
+#EXTINF:-1,OFF 
+http://srv.elitehdbr.com:25461/live/alan/alan/140.ts
+#EXTINF:-1,Premiere Clubes HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2958.ts
+#EXTINF:-1,Premiere Clubes HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2790.ts
+#EXTINF:-1,Premiere Clubes 
+http://srv.elitehdbr.com:25461/live/alan/alan/179.ts
+#EXTINF:-1,Premiere 1 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/200.ts
+#EXTINF:-1,Premiere 1 
+http://srv.elitehdbr.com:25461/live/alan/alan/2789.ts
+#EXTINF:-1,Premiere 2 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2961.ts
+#EXTINF:-1,Premiere 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/197.ts
+#EXTINF:-1,Premiere 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/2788.ts
+#EXTINF:-1,Premiere 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/198.ts
+#EXTINF:-1,Premiere 3 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/196.ts
+#EXTINF:-1,Premiere 3 
+http://srv.elitehdbr.com:25461/live/alan/alan/2787.ts
+#EXTINF:-1,Premiere 3 
+http://srv.elitehdbr.com:25461/live/alan/alan/195.ts
+#EXTINF:-1,Premiere 4 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2960.ts
+#EXTINF:-1,Premiere 4 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/193.ts
+#EXTINF:-1,Premiere 4 
+http://srv.elitehdbr.com:25461/live/alan/alan/2786.ts
+#EXTINF:-1,Premiere 4 
+http://srv.elitehdbr.com:25461/live/alan/alan/192.ts
+#EXTINF:-1,Premiere 5 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2959.ts
+#EXTINF:-1,Premiere 5 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/190.ts
+#EXTINF:-1,Premiere 5 
+http://srv.elitehdbr.com:25461/live/alan/alan/2785.ts
+#EXTINF:-1,Premiere 5 
+http://srv.elitehdbr.com:25461/live/alan/alan/189.ts
+#EXTINF:-1,Premiere 6 
+http://srv.elitehdbr.com:25461/live/alan/alan/2784.ts
+#EXTINF:-1,Premiere 6 
+http://srv.elitehdbr.com:25461/live/alan/alan/187.ts
+#EXTINF:-1,Premiere 7 
+http://srv.elitehdbr.com:25461/live/alan/alan/2783.ts
+#EXTINF:-1,Premiere 7 
+http://srv.elitehdbr.com:25461/live/alan/alan/185.ts
+#EXTINF:-1,Premiere 8 
+http://srv.elitehdbr.com:25461/live/alan/alan/2782.ts
+#EXTINF:-1,Premiere 8 
+http://srv.elitehdbr.com:25461/live/alan/alan/183.ts
+#EXTINF:-1,Premiere 9 
+http://srv.elitehdbr.com:25461/live/alan/alan/2781.ts
+#EXTINF:-1,Premiere 9 
+http://srv.elitehdbr.com:25461/live/alan/alan/181.ts
+#EXTINF:-1,Premiere 9 2
+http://srv.elitehdbr.com:25461/live/alan/alan/180.ts
+#EXTINF:-1,Premiere 10 
+http://srv.elitehdbr.com:25461/live/alan/alan/2780.ts
+#EXTINF:-1,TC Premium HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2952.ts
+#EXTINF:-1,Telecine Premium HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2751.ts
+#EXTINF:-1,Telecine Premium HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/287.ts
+#EXTINF:-1,Telecine Premium 
+http://srv.elitehdbr.com:25461/live/alan/alan/2752.ts
+#EXTINF:-1,Telecine Premium 
+http://srv.elitehdbr.com:25461/live/alan/alan/286.ts
+#EXTINF:-1,TC Action HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2954.ts
+#EXTINF:-1,Telecine Action HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2759.ts
+#EXTINF:-1,Telecine Action HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/296.ts
+#EXTINF:-1,Telecine Action 
+http://srv.elitehdbr.com:25461/live/alan/alan/2760.ts
+#EXTINF:-1,Telecine Action 
+http://srv.elitehdbr.com:25461/live/alan/alan/295.ts
+#EXTINF:-1,TC Touch HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2951.ts
+#EXTINF:-1,Telecine Touch HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2749.ts
+#EXTINF:-1,Telecine Touch HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/284.ts
+#EXTINF:-1,Telecine Touch 
+http://srv.elitehdbr.com:25461/live/alan/alan/2750.ts
+#EXTINF:-1,Telecine Touch 
+http://srv.elitehdbr.com:25461/live/alan/alan/283.ts
+#EXTINF:-1,TC Pipoca HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2953.ts
+#EXTINF:-1,Telecine Pipoca HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2753.ts
+#EXTINF:-1,Telecine Pipoca HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/290.ts
+#EXTINF:-1,Telecine Pipoca 
+http://srv.elitehdbr.com:25461/live/alan/alan/2754.ts
+#EXTINF:-1,Telecine Pipoca 
+http://srv.elitehdbr.com:25461/live/alan/alan/289.ts
+#EXTINF:-1,Telecine Fun HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2755.ts
+#EXTINF:-1,Telecine Fun HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/293.ts
+#EXTINF:-1,Telecine Fun 
+http://srv.elitehdbr.com:25461/live/alan/alan/2756.ts
+#EXTINF:-1,Telecine Fun 
+http://srv.elitehdbr.com:25461/live/alan/alan/292.ts
+#EXTINF:-1,Telecine Cult HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2757.ts
+#EXTINF:-1,Telecine Cult 
+http://srv.elitehdbr.com:25461/live/alan/alan/2758.ts
+#EXTINF:-1,Telecine Cult 
+http://srv.elitehdbr.com:25461/live/alan/alan/281.ts
+#EXTINF:-1,HBO HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2971.ts
+#EXTINF:-1,HBO HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2814.ts
+#EXTINF:-1,HBO HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/273.ts
+#EXTINF:-1,HBO 
+http://srv.elitehdbr.com:25461/live/alan/alan/272.ts
+#EXTINF:-1,HBO 2 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2968.ts
+#EXTINF:-1,HBO 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2816.ts
+#EXTINF:-1,HBO 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/279.ts
+#EXTINF:-1,HBO 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/278.ts
+#EXTINF:-1,HBO Plus HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2970.ts
+#EXTINF:-1,HBO PLUS HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2812.ts
+#EXTINF:-1,HBO Plus HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/270.ts
+#EXTINF:-1,HBO Plus 
+http://srv.elitehdbr.com:25461/live/alan/alan/269.ts
+#EXTINF:-1,HBO Family HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2972.ts
+#EXTINF:-1,HBO FAMILY HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2815.ts
+#EXTINF:-1,HBO Family HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/276.ts
+#EXTINF:-1,HBO Family 
+http://srv.elitehdbr.com:25461/live/alan/alan/275.ts
+#EXTINF:-1,HBO PLUS E 
+http://srv.elitehdbr.com:25461/live/alan/alan/2813.ts
+#EXTINF:-1,HBO Plus e 
+http://srv.elitehdbr.com:25461/live/alan/alan/264.ts
+#EXTINF:-1,HBO Signature HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2969.ts
+#EXTINF:-1,HBO SIGNATURE HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2811.ts
+#EXTINF:-1,HBO Signature HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/267.ts
+#EXTINF:-1,HBO Signature 
+http://srv.elitehdbr.com:25461/live/alan/alan/266.ts
+#EXTINF:-1,MAX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2807.ts
+#EXTINF:-1,Max 
+http://srv.elitehdbr.com:25461/live/alan/alan/240.ts
+#EXTINF:-1,MAX UP HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2804.ts
+#EXTINF:-1,Max UP 
+http://srv.elitehdbr.com:25461/live/alan/alan/235.ts
+#EXTINF:-1,MAX PRIME HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2805.ts
+#EXTINF:-1,Max Prime 
+http://srv.elitehdbr.com:25461/live/alan/alan/239.ts
+#EXTINF:-1,MAX PRIME E 
+http://srv.elitehdbr.com:25461/live/alan/alan/2806.ts
+#EXTINF:-1,Max Prime e 
+http://srv.elitehdbr.com:25461/live/alan/alan/237.ts
+#EXTINF:-1,Cinemax HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2867.ts
+#EXTINF:-1,Cinemax 
+http://srv.elitehdbr.com:25461/live/alan/alan/230.ts
+#EXTINF:-1,FOX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2839.ts
+#EXTINF:-1,FOX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/256.ts
+#EXTINF:-1,FOX 
+http://srv.elitehdbr.com:25461/live/alan/alan/2840.ts
+#EXTINF:-1,Fox 
+http://srv.elitehdbr.com:25461/live/alan/alan/255.ts
+#EXTINF:-1,FOX PREMIUM 1 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2837.ts
+#EXTINF:-1,Fox Premium 
+http://srv.elitehdbr.com:25461/live/alan/alan/257.ts
+#EXTINF:-1,FOX PREMIUM 2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2836.ts
+#EXTINF:-1,Fox Premium 2 
+http://srv.elitehdbr.com:25461/live/alan/alan/253.ts
+#EXTINF:-1,Fox Life HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2977.ts
+#EXTINF:-1,FOX Life HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/250.ts
+#EXTINF:-1,FOX LIFE 
+http://srv.elitehdbr.com:25461/live/alan/alan/2838.ts
+#EXTINF:-1,Fox Life 
+http://srv.elitehdbr.com:25461/live/alan/alan/251.ts
+#EXTINF:-1,FX HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2975.ts
+#EXTINF:-1,FX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2830.ts
+#EXTINF:-1,FX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/247.ts
+#EXTINF:-1,Space HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2767.ts
+#EXTINF:-1,Space HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/223.ts
+#EXTINF:-1,Space 
+http://srv.elitehdbr.com:25461/live/alan/alan/224.ts
+#EXTINF:-1,Canal Sony HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2869.ts
+#EXTINF:-1,Canal Sony HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/210.ts
+#EXTINF:-1,Canal Sony 
+http://srv.elitehdbr.com:25461/live/alan/alan/212.ts
+#EXTINF:-1,AXN HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2990.ts
+#EXTINF:-1,AXN HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2879.ts
+#EXTINF:-1,AXN HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/231.ts
+#EXTINF:-1,AXN 
+http://srv.elitehdbr.com:25461/live/alan/alan/232.ts
+#EXTINF:-1,Warner HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2946.ts
+#EXTINF:-1,WARNER CHANNEL HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2730.ts
+#EXTINF:-1,Warner Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/241.ts
+#EXTINF:-1,Warner Channel 
+http://srv.elitehdbr.com:25461/live/alan/alan/242.ts
+#EXTINF:-1,TNT HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2950.ts
+#EXTINF:-1,TNT HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2746.ts
+#EXTINF:-1,TNT HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/263.ts
+#EXTINF:-1,TNT 
+http://srv.elitehdbr.com:25461/live/alan/alan/262.ts
+#EXTINF:-1,TNT Series HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2949.ts
+#EXTINF:-1,TNT SERIES HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2745.ts
+#EXTINF:-1,TNT Séries HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/260.ts
+#EXTINF:-1,TNT Series 
+http://srv.elitehdbr.com:25461/live/alan/alan/259.ts
+#EXTINF:-1,TBS HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2955.ts
+#EXTINF:-1,TBS HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/220.ts
+#EXTINF:-1,TBS 
+http://srv.elitehdbr.com:25461/live/alan/alan/2761.ts
+#EXTINF:-1,TBS 
+http://srv.elitehdbr.com:25461/live/alan/alan/221.ts
+#EXTINF:-1,TCM 
+http://srv.elitehdbr.com:25461/live/alan/alan/214.ts
+#EXTINF:-1,I-SAT 
+http://srv.elitehdbr.com:25461/live/alan/alan/2810.ts
+#EXTINF:-1,I-SAT 
+http://srv.elitehdbr.com:25461/live/alan/alan/206.ts
+#EXTINF:-1,Megapix HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2965.ts
+#EXTINF:-1,MEGAPIX HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2803.ts
+#EXTINF:-1,Megapix HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/244.ts
+#EXTINF:-1,MegaPix 
+http://srv.elitehdbr.com:25461/live/alan/alan/245.ts
+#EXTINF:-1,Universal Channel HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2948.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2735.ts
+#EXTINF:-1,Universal Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/208.ts
+#EXTINF:-1,Universal Channel 
+http://srv.elitehdbr.com:25461/live/alan/alan/209.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2763.ts
+#EXTINF:-1,Studio Universal 
+http://srv.elitehdbr.com:25461/live/alan/alan/218.ts
+#EXTINF:-1,A&E 
+http://srv.elitehdbr.com:25461/live/alan/alan/2881.ts
+#EXTINF:-1,A&E 
+http://srv.elitehdbr.com:25461/live/alan/alan/299.ts
+#EXTINF:-1,SYFY HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2762.ts
+#EXTINF:-1,Syfy 
+http://srv.elitehdbr.com:25461/live/alan/alan/216.ts
+#EXTINF:-1,Mais Globosat HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2820.ts
+#EXTINF:-1,Mais Globosat 
+http://srv.elitehdbr.com:25461/live/alan/alan/204.ts
+#EXTINF:-1,Canal Brasil HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2871.ts
+#EXTINF:-1,Canal Brasil 
+http://srv.elitehdbr.com:25461/live/alan/alan/298.ts
+#EXTINF:-1,Paramount HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2962.ts
+#EXTINF:-1,Paramount HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2793.ts
+#EXTINF:-1,Paramount HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/228.ts
+#EXTINF:-1,Paramount 
+http://srv.elitehdbr.com:25461/live/alan/alan/227.ts
+#EXTINF:-1,PRIME BOX BRASIL 
+http://srv.elitehdbr.com:25461/live/alan/alan/2779.ts
+#EXTINF:-1,Prime Box Brazil 
+http://srv.elitehdbr.com:25461/live/alan/alan/90.ts
+#EXTINF:-1,GNT HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2973.ts
+#EXTINF:-1,GNT HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2818.ts
+#EXTINF:-1,GNT HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/82.ts
+#EXTINF:-1,GNT 
+http://srv.elitehdbr.com:25461/live/alan/alan/81.ts
+#EXTINF:-1,Viva HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2947.ts
+#EXTINF:-1,VIVA HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2731.ts
+#EXTINF:-1,VIVA HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/79.ts
+#EXTINF:-1,Viva 
+http://srv.elitehdbr.com:25461/live/alan/alan/78.ts
+#EXTINF:-1,Multishow HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2964.ts
+#EXTINF:-1,MULTISHOW HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2801.ts
+#EXTINF:-1,Multishow HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/93.ts
+#EXTINF:-1,Multishow 
+http://srv.elitehdbr.com:25461/live/alan/alan/92.ts
+#EXTINF:-1,Bis HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2873.ts
+#EXTINF:-1,BIS HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/100.ts
+#EXTINF:-1,BIS 
+http://srv.elitehdbr.com:25461/live/alan/alan/99.ts
+#EXTINF:-1,MTV HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2802.ts
+#EXTINF:-1,MTV 
+http://srv.elitehdbr.com:25461/live/alan/alan/86.ts
+#EXTINF:-1,VH1 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2733.ts
+#EXTINF:-1,VH1 MEGA HITS 
+http://srv.elitehdbr.com:25461/live/alan/alan/2732.ts
+#EXTINF:-1,VH1 Megahits 
+http://srv.elitehdbr.com:25461/live/alan/alan/88.ts
+#EXTINF:-1,MUSIC BOX BRASIL 
+http://srv.elitehdbr.com:25461/live/alan/alan/2800.ts
+#EXTINF:-1,Music Box Brazil 
+http://srv.elitehdbr.com:25461/live/alan/alan/84.ts
+#EXTINF:-1,Discovery Turbo HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2985.ts
+#EXTINF:-1,Discovery Turbo HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2854.ts
+#EXTINF:-1,Discovery Turbo HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/126.ts
+#EXTINF:-1,Discovery Turbo 
+http://srv.elitehdbr.com:25461/live/alan/alan/125.ts
+#EXTINF:-1,TruTV 
+http://srv.elitehdbr.com:25461/live/alan/alan/74.ts
+#EXTINF:-1,Comedy Central 
+http://srv.elitehdbr.com:25461/live/alan/alan/2861.ts
+#EXTINF:-1,Comedy Central 
+http://srv.elitehdbr.com:25461/live/alan/alan/97.ts
+#EXTINF:-1,ID HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2966.ts
+#EXTINF:-1,ID - Investigação Discovery HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/109.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY 
+http://srv.elitehdbr.com:25461/live/alan/alan/2809.ts
+#EXTINF:-1,ID - Investigacao Discovery 
+http://srv.elitehdbr.com:25461/live/alan/alan/108.ts
+#EXTINF:-1,Discovery H&H HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2987.ts
+#EXTINF:-1,Discovery Home & Health HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2858.ts
+#EXTINF:-1,Discovery Home & Health HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/130.ts
+#EXTINF:-1,Discovery Home & Health 
+http://srv.elitehdbr.com:25461/live/alan/alan/129.ts
+#EXTINF:-1,LIFETIME HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2808.ts
+#EXTINF:-1,Lifetime 
+http://srv.elitehdbr.com:25461/live/alan/alan/72.ts
+#EXTINF:-1,TLC HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2747.ts
+#EXTINF:-1,TLC 
+http://srv.elitehdbr.com:25461/live/alan/alan/76.ts
+#EXTINF:-1,E! 
+http://srv.elitehdbr.com:25461/live/alan/alan/2848.ts
+#EXTINF:-1,E! 
+http://srv.elitehdbr.com:25461/live/alan/alan/69.ts
+#EXTINF:-1,FOOD NETWORK 
+http://srv.elitehdbr.com:25461/live/alan/alan/2841.ts
+#EXTINF:-1,Food Network 
+http://srv.elitehdbr.com:25461/live/alan/alan/71.ts
+#EXTINF:-1,Curta!
+http://srv.elitehdbr.com:25461/live/alan/alan/94.ts
+#EXTINF:-1,Polishop
+http://srv.elitehdbr.com:25461/live/alan/alan/67.ts
+#EXTINF:-1,Animal Planet HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2991.ts
+#EXTINF:-1,Animal Planet HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/116.ts
+#EXTINF:-1,Animal Planet 
+http://srv.elitehdbr.com:25461/live/alan/alan/117.ts
+#EXTINF:-1,Animal Planet 
+http://srv.elitehdbr.com:25461/live/alan/alan/2880.ts
+#EXTINF:-1,Discovery Channel HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2988.ts
+#EXTINF:-1,Discovery Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2860.ts
+#EXTINF:-1,Discovery Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/133.ts
+#EXTINF:-1,Discovery Channel 
+http://srv.elitehdbr.com:25461/live/alan/alan/132.ts
+#EXTINF:-1,Discovery Theater HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2986.ts
+#EXTINF:-1,Discovery Theater HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2855.ts
+#EXTINF:-1,Discovery Theater HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/127.ts
+#EXTINF:-1,Discovery World HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2984.ts
+#EXTINF:-1,Discovery World  HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2853.ts
+#EXTINF:-1,Discovery World HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/123.ts
+#EXTINF:-1,Discovery Science 
+http://srv.elitehdbr.com:25461/live/alan/alan/2856.ts
+#EXTINF:-1,Discovery Science 
+http://srv.elitehdbr.com:25461/live/alan/alan/120.ts
+#EXTINF:-1,Discovery Civilization 
+http://srv.elitehdbr.com:25461/live/alan/alan/2859.ts
+#EXTINF:-1,Discovery Civilization 
+http://srv.elitehdbr.com:25461/live/alan/alan/122.ts
+#EXTINF:-1,NatGeo HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2963.ts
+#EXTINF:-1,NAT GEO HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2799.ts
+#EXTINF:-1,NATGEO WILD HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2798.ts
+#EXTINF:-1,NatGeoWild HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/106.ts
+#EXTINF:-1,NatGeo Wild 
+http://srv.elitehdbr.com:25461/live/alan/alan/105.ts
+#EXTINF:-1,History Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2748.ts
+#EXTINF:-1,History Channel HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/112.ts
+#EXTINF:-1,History 2 HD+
+http://srv.elitehdbr.com:25461/live/alan/alan/2967.ts
+#EXTINF:-1,The History Channel 
+http://srv.elitehdbr.com:25461/live/alan/alan/111.ts
+#EXTINF:-1,H2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2817.ts
+#EXTINF:-1,H2 HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/115.ts
+#EXTINF:-1,H2 
+http://srv.elitehdbr.com:25461/live/alan/alan/114.ts
+#EXTINF:-1,Arte 1 
+http://srv.elitehdbr.com:25461/live/alan/alan/134.ts
+#EXTINF:-1,Globo NEWS HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2826.ts
+#EXTINF:-1,Globo News 
+http://srv.elitehdbr.com:25461/live/alan/alan/18.ts
+#EXTINF:-1,Band News 
+http://srv.elitehdbr.com:25461/live/alan/alan/2876.ts
+#EXTINF:-1,Band News 
+http://srv.elitehdbr.com:25461/live/alan/alan/20.ts
+#EXTINF:-1,Band News 2
+http://srv.elitehdbr.com:25461/live/alan/alan/21.ts
+#EXTINF:-1,Record News 
+http://srv.elitehdbr.com:25461/live/alan/alan/2776.ts
+#EXTINF:-1,Record News 
+http://srv.elitehdbr.com:25461/live/alan/alan/23.ts
+#EXTINF:-1,TOONCAST 
+http://srv.elitehdbr.com:25461/live/alan/alan/2744.ts
+#EXTINF:-1,Tooncast 
+http://srv.elitehdbr.com:25461/live/alan/alan/48.ts
+#EXTINF:-1,Boomerang 
+http://srv.elitehdbr.com:25461/live/alan/alan/2872.ts
+#EXTINF:-1,Boomerang 
+http://srv.elitehdbr.com:25461/live/alan/alan/60.ts
+#EXTINF:-1,Cartoon Network HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2868.ts
+#EXTINF:-1,Cartoon Network HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/63.ts
+#EXTINF:-1,Cartoon Network 
+http://srv.elitehdbr.com:25461/live/alan/alan/62.ts
+#EXTINF:-1,NICK JR 
+http://srv.elitehdbr.com:25461/live/alan/alan/2796.ts
+#EXTINF:-1,Nick Jr 
+http://srv.elitehdbr.com:25461/live/alan/alan/52.ts
+#EXTINF:-1,NICKELODEN 
+http://srv.elitehdbr.com:25461/live/alan/alan/2795.ts
+#EXTINF:-1,Nickelodeon 
+http://srv.elitehdbr.com:25461/live/alan/alan/50.ts
+#EXTINF:-1,DISNEY XD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2850.ts
+#EXTINF:-1,Disney XD 
+http://srv.elitehdbr.com:25461/live/alan/alan/54.ts
+#EXTINF:-1,DISNEY CHANNEL 
+http://srv.elitehdbr.com:25461/live/alan/alan/2852.ts
+#EXTINF:-1,Disney Channel 
+http://srv.elitehdbr.com:25461/live/alan/alan/58.ts
+#EXTINF:-1,DISNEY JUNIOR 
+http://srv.elitehdbr.com:25461/live/alan/alan/2851.ts
+#EXTINF:-1,Disney Junior 
+http://srv.elitehdbr.com:25461/live/alan/alan/56.ts
+#EXTINF:-1,Discovery Kids HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2857.ts
+#EXTINF:-1,Discovery Kids 
+http://srv.elitehdbr.com:25461/live/alan/alan/46.ts
+#EXTINF:-1,GLOOB  HD 
+http://srv.elitehdbr.com:25461/live/alan/alan/2819.ts
+#EXTINF:-1,Gloob 
+http://srv.elitehdbr.com:25461/live/alan/alan/44.ts
+#EXTINF:-1,TV Ra tim bum 
+http://srv.elitehdbr.com:25461/live/alan/alan/41.ts
+#EXTINF:-1,Cancao Nova 
+http://srv.elitehdbr.com:25461/live/alan/alan/39.ts
+#EXTINF:-1,Rede Vida 
+http://srv.elitehdbr.com:25461/live/alan/alan/2771.ts
+#EXTINF:-1,Rede Vida 
+http://srv.elitehdbr.com:25461/live/alan/alan/34.ts
+#EXTINF:-1,TV Aparecida 
+http://srv.elitehdbr.com:25461/live/alan/alan/30.ts
+#EXTINF:-1,Rede do Bem 
+http://srv.elitehdbr.com:25461/live/alan/alan/2774.ts
+#EXTINF:-1,RIT 
+http://srv.elitehdbr.com:25461/live/alan/alan/32.ts
+#EXTINF:-1,TV Novo Tempo 
+http://srv.elitehdbr.com:25461/live/alan/alan/27.ts
+#EXTINF:-1,RBI 
+http://srv.elitehdbr.com:25461/live/alan/alan/35.ts
+#EXTINF:-1,Ideal TV 
+http://srv.elitehdbr.com:25461/live/alan/alan/37.ts
+#EXTINF:-1,Boa Vontade TV
+http://srv.elitehdbr.com:25461/live/alan/alan/25.ts
