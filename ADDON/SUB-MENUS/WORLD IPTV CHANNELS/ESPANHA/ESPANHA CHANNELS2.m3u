@@ -1,178 +1,92 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 03-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 04-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,ES:  #0 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1984.ts
-#EXTINF:-1,ES:  24 HORAS
-http://srv.elitehdbr.com:25461/live/alan/alan/1977.ts
-#EXTINF:-1,ES:  40 TV
-http://srv.elitehdbr.com:25461/live/alan/alan/1976.ts
-#EXTINF:-1,ES:  A&E
-http://srv.elitehdbr.com:25461/live/alan/alan/1985.ts
-#EXTINF:-1,ES:  AMC
-http://srv.elitehdbr.com:25461/live/alan/alan/1986.ts
-#EXTINF:-1,ES:  AXN HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1987.ts
-#EXTINF:-1,ES:  BABY TV
-http://srv.elitehdbr.com:25461/live/alan/alan/1960.ts
-#EXTINF:-1,ES:  BARCA TV
-http://srv.elitehdbr.com:25461/live/alan/alan/1975.ts
-#EXTINF:-1,ES:  BEIN LA LIGA FHD
-http://srv.elitehdbr.com:25461/live/alan/alan/1962.ts
-#EXTINF:-1,ES:  BEIN LALIGA 1 (EVENT ONLY)
-http://srv.elitehdbr.com:25461/live/alan/alan/1983.ts
-#EXTINF:-1,ES:  BEIN LALIGA 1 HD BACKUP
-http://srv.elitehdbr.com:25461/live/alan/alan/1961.ts
-#EXTINF:-1,ES:  BEIN LALIGA 2 (EVENT ONLY)
-http://srv.elitehdbr.com:25461/live/alan/alan/1982.ts
-#EXTINF:-1,ES:  BEIN LALIGA 3 (EVENT ONLY)
-http://srv.elitehdbr.com:25461/live/alan/alan/1981.ts
-#EXTINF:-1,ES:  BEIN LIGA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1988.ts
-#EXTINF:-1,ES:  BEIN SPORT HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1989.ts
-#EXTINF:-1,ES:  BEIN SPORTS HD ( 1080P )
-http://srv.elitehdbr.com:25461/live/alan/alan/1972.ts
-#EXTINF:-1,ES:  BOING
-http://srv.elitehdbr.com:25461/live/alan/alan/1990.ts
-#EXTINF:-1,ES:  CANAL  ESTRENOS HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2018.ts
-#EXTINF:-1,ES:  CANAL COCINA
-http://srv.elitehdbr.com:25461/live/alan/alan/1991.ts
-#EXTINF:-1,ES:  CANAL DE LAS ESTRELLAS
-http://srv.elitehdbr.com:25461/live/alan/alan/1971.ts
-#EXTINF:-1,ES:  CANAL DECASA
-http://srv.elitehdbr.com:25461/live/alan/alan/1992.ts
-#EXTINF:-1,ES:  CANAL SERIES HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1993.ts
-#EXTINF:-1,ES:  CAZA Y PESCA
-http://srv.elitehdbr.com:25461/live/alan/alan/1994.ts
-#EXTINF:-1,ES:  CLAN TVE
-http://srv.elitehdbr.com:25461/live/alan/alan/1995.ts
-#EXTINF:-1,ES:  COMEDY CENTRAL HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1974.ts
-#EXTINF:-1,ES:  COSMO HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1996.ts
-#EXTINF:-1,ES:  CRIMEN INVESTIGATION
-http://srv.elitehdbr.com:25461/live/alan/alan/1969.ts
-#EXTINF:-1,ES:  DISCOVERY
-http://srv.elitehdbr.com:25461/live/alan/alan/2028.ts
-#EXTINF:-1,ES:  DISNEY CHANNEL HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2029.ts
-#EXTINF:-1,ES:  DISNEY XD
-http://srv.elitehdbr.com:25461/live/alan/alan/2031.ts
-#EXTINF:-1,ES:  DIVINITY
-http://srv.elitehdbr.com:25461/live/alan/alan/1997.ts
-#EXTINF:-1,ES:  ENERGY
-http://srv.elitehdbr.com:25461/live/alan/alan/1980.ts
-#EXTINF:-1,ES:  EUROSPORT 1
-http://srv.elitehdbr.com:25461/live/alan/alan/1979.ts
-#EXTINF:-1,ES:  EUROSPORT 2
-http://srv.elitehdbr.com:25461/live/alan/alan/1978.ts
-#EXTINF:-1,ES:  FDF
-http://srv.elitehdbr.com:25461/live/alan/alan/1998.ts
-#EXTINF:-1,ES:  FOX HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2032.ts
-#EXTINF:-1,ES:  GOL Tv
-http://srv.elitehdbr.com:25461/live/alan/alan/1999.ts
-#EXTINF:-1,ES:  HOLLYWOOD HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2035.ts
-#EXTINF:-1,ES:  IBERALIA
-http://srv.elitehdbr.com:25461/live/alan/alan/2000.ts
-#EXTINF:-1,ES:  LA 2 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2001.ts
-#EXTINF:-1,ES:  LA LIGA BAR HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2002.ts
-#EXTINF:-1,ES:  MEGA
-http://srv.elitehdbr.com:25461/live/alan/alan/2038.ts
-#EXTINF:-1,ES:  MOVISTAR F1 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/1964.ts
-#EXTINF:-1,ES:  MOVISTAR FORMULA 1
-http://srv.elitehdbr.com:25461/live/alan/alan/1965.ts
-#EXTINF:-1,ES:  MOVISTAR FUTBOL
-http://srv.elitehdbr.com:25461/live/alan/alan/1966.ts
-#EXTINF:-1,ES:  MOVISTAR MOTOGP
-http://srv.elitehdbr.com:25461/live/alan/alan/1967.ts
-#EXTINF:-1,ES:  MOVISTAR PARTIDAZO HD (EVENT ONLY)
-http://srv.elitehdbr.com:25461/live/alan/alan/1959.ts
-#EXTINF:-1,ES:  MTV ESPANA
-http://srv.elitehdbr.com:25461/live/alan/alan/1968.ts
-#EXTINF:-1,ES:  NEOX
-http://srv.elitehdbr.com:25461/live/alan/alan/2003.ts
-#EXTINF:-1,ES:  NICKELODEON HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2004.ts
-#EXTINF:-1,ES:  NONSTOP PEOPLE
-http://srv.elitehdbr.com:25461/live/alan/alan/1973.ts
-#EXTINF:-1,ES:  NOVA
-http://srv.elitehdbr.com:25461/live/alan/alan/2005.ts
-#EXTINF:-1,ES:  ODISEA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2006.ts
-#EXTINF:-1,ES:  PANDA
-http://srv.elitehdbr.com:25461/live/alan/alan/2007.ts
-#EXTINF:-1,ES:  PARAMOUNT
-http://srv.elitehdbr.com:25461/live/alan/alan/1970.ts
-#EXTINF:-1,ES:  REAL MADRID CHANNEL
-http://srv.elitehdbr.com:25461/live/alan/alan/1963.ts
-#EXTINF:-1,ES:  SYFY
-http://srv.elitehdbr.com:25461/live/alan/alan/2008.ts
-#EXTINF:-1,ES:  TNT
-http://srv.elitehdbr.com:25461/live/alan/alan/2009.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2010.ts
-#EXTINF:-1,ES: AXN WHITE HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2011.ts
-#EXTINF:-1,ES: CALLE 13 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2012.ts
-#EXTINF:-1,ES: CANAL  ACTION HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2013.ts
-#EXTINF:-1,ES: CANAL  COMEDIA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2014.ts
-#EXTINF:-1,ES: CANAL  DCINE HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2015.ts
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2016.ts
-#EXTINF:-1,ES: CANAL  DEPORTES HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2017.ts
-#EXTINF:-1,ES: CANAL  FUTBOL HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2019.ts
-#EXTINF:-1,ES: CANAL  GOLF HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2020.ts
-#EXTINF:-1,ES: CANAL  LIGA 2 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2021.ts
-#EXTINF:-1,ES: CANAL  LIGA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2022.ts
-#EXTINF:-1,ES: CANAL  SERIES XTRA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2023.ts
-#EXTINF:-1,ES: CANAL  TOROS HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2024.ts
-#EXTINF:-1,ES: CANAL  XTRA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2025.ts
-#EXTINF:-1,ES: CUATRO HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2026.ts
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2027.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://srv.elitehdbr.com:25461/live/alan/alan/2030.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2033.ts
-#EXTINF:-1,ES: HISTORIA
-http://srv.elitehdbr.com:25461/live/alan/alan/2034.ts
-#EXTINF:-1,ES: LA 1 HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2036.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2037.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2039.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2040.ts
-#EXTINF:-1,ES: NICK JR
-http://srv.elitehdbr.com:25461/live/alan/alan/2041.ts
-#EXTINF:-1,ES: TCM HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2042.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2043.ts
-#EXTINF:-1,ES: VIAJAR HD
-http://srv.elitehdbr.com:25461/live/alan/alan/2044.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,gol
+https://cdn.opencable.es/hls/live/goltv/index.m3u8
+#EXTINF:-1,fighttime (ufc)
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+#EXTINF:-1,neox
+https://cdn.opencable.es/hls/live/neox/index.m3u8
+#EXTINF:-1,nova
+https://cdn.opencable.es/hls/live/nova/index.m3u8
+#EXTINF:-1,mega
+https://cdn.opencable.es/hls/live/mega/index.m3u8
+#EXTINF:-1,ten
+https://cdn.opencable.es/hls/live/ten/index.m3u8
+#EXTINF:-1,divinity
+https://cdn.opencable.es/hls/live/divinity/index.m3u8
+#EXTINF:-1,energy
+https://cdn.opencable.es/hls/live/energy/index.m3u8
+#EXTINF:-1,cosmopolitan
+https://cdn.opencable.es/hls/live/cosmopolitan/index.m3u8
+#EXTINF:-1,fdf
+https://cdn.opencable.es/hls/live/fdf/index.m3u8
+#EXTINF:-1,tnt
+https://cdn.opencable.es/hls/live/tnt/index.m3u8
+#EXTINF:-1,fox
+https://cdn.opencable.es/hls/live/fox/index.m3u8
+#EXTINF:-1,fox life
+https://cdn.opencable.es/hls/live/foxlife/index.m3u8
+#EXTINF:-1,clan
+ttps://cdn.opencable.es/hls/live/clan/index.m3u8
+#EXTINF:-1,boing
+https://cdn.opencable.es/hls/live/boing/index.m3u8
+#EXTINF:-1,comedycentral
+https://cdn.opencable.es/hls/live/comedycentral/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8
+#EXTINF:-1,Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+#EXTINF:-1,NEOX
+http://a3live-lh.akamaihd.net:80/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+#EXTINF:-1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+
+
+
+
+
+
+
+
+
+
