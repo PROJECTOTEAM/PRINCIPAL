@@ -223,340 +223,769 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1,Willax TV LATINO
 rtmp://willax.mediastream.pe/vv_willax/livestream
-#EXTINF:-1,BOXNATION
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1069.ts
-#EXTINF:-1,MAV TV
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1073.ts
-#EXTINF:-1,SyFy Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1079.ts
-#EXTINF:-1,A&E Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1127.ts
-#EXTINF:-1,Animal Planet Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1126.ts
-#EXTINF:-1,AXN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1125.ts
-#EXTINF:-1,Canal De Las Estrellas
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1124.ts
-#EXTINF:-1,Cartoon Network Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1123.ts
-#EXTINF:-1,Cinecanal
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1122.ts
-#EXTINF:-1,Comedy Central Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1121.ts
-#EXTINF:-1,De Pelicula
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1120.ts
-#EXTINF:-1,Discovery Civilization Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1118.ts
-#EXTINF:-1,Discovery en Español
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1119.ts
-#EXTINF:-1,Discovery H&H Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1117.ts
-#EXTINF:-1,Discovery Kids America Latina
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1116.ts
-#EXTINF:-1,Discovery TLC Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1114.ts
-#EXTINF:-1,Discovery Turbo Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1113.ts
-#EXTINF:-1,ESPN 2 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1110.ts
-#EXTINF:-1,ESPN 3 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1109.ts
-#EXTINF:-1,ESPN Deportes
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1108.ts
-#EXTINF:-1,ESPN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1111.ts
-#EXTINF:-1,Fox 1 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1106.ts
-#EXTINF:-1,Fox Action Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1105.ts
-#EXTINF:-1,Fox Cinema Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1104.ts
-#EXTINF:-1,Fox Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1107.ts
-#EXTINF:-1,Fox Movies Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1103.ts
-#EXTINF:-1,Fox Sports 2 Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1101.ts
-#EXTINF:-1,Fox Sports Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1102.ts
-#EXTINF:-1,Glitz
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1100.ts
-#EXTINF:-1,Golden Edge
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1098.ts
-#EXTINF:-1,Golden
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1099.ts
-#EXTINF:-1,Gourmet
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1097.ts
-#EXTINF:-1,History en Español
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1096.ts
-#EXTINF:-1,Investigation Discovery Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1095.ts
-#EXTINF:-1,NatGeo Wild Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1094.ts
-#EXTINF:-1,Space Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1093.ts
-#EXTINF:-1,TNT Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1091.ts
-#EXTINF:-1,TNT Series Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1090.ts
-#EXTINF:-1,Tru TV Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1089.ts
-#EXTINF:-1,Unicable
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1088.ts
-#EXTINF:-1,Unimas
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1087.ts
-#EXTINF:-1,Warner Latinoamerica
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1085.ts
-#EXTINF:-1,IFC
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/611.ts
-#EXTINF:-1,SEC NETWORK
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1135.ts
-#EXTINF:-1,STARZ KIDZ & FAMILY
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1132.ts
-#EXTINF:-1,MLB Extra Innings 720
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1172.ts
-#EXTINF:-1,MLB Extra Innings 721
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1171.ts
-#EXTINF:-1,MLB Extra Innings 722
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1170.ts
-#EXTINF:-1,MLB Extra Innings 723
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1169.ts
-#EXTINF:-1,MLB Extra Innings 724
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1168.ts
-#EXTINF:-1,MLB Extra Innings 725
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1167.ts
-#EXTINF:-1,MLB Extra Innings 726
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1166.ts
-#EXTINF:-1,MLB Extra Innings 727
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1165.ts
-#EXTINF:-1,MLB Extra Innings 728
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1164.ts
-#EXTINF:-1,MLB Extra Innings 729
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1163.ts
-#EXTINF:-1,MLB Extra Innings 730
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1162.ts
-#EXTINF:-1,MLB Extra Innings 731
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1161.ts
-#EXTINF:-1,MLB Extra Innings 732
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1160.ts
-#EXTINF:-1,MLB Extra Innings 733
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1159.ts
-#EXTINF:-1,MLB Extra Innings 734
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1158.ts
-#EXTINF:-1,MLB Extra Innings 735
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1157.ts
-#EXTINF:-1,MLB Extra Innings 736
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1156.ts
-#EXTINF:-1,MLB Extra Innings 737
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1155.ts
-#EXTINF:-1,MLB Extra Innings 738
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1154.ts
-#EXTINF:-1,MLB Extra Innings 739
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1153.ts
-#EXTINF:-1,MLB Extra Innings 740
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1152.ts
-#EXTINF:-1,MLB Extra Innings 741
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1151.ts
-#EXTINF:-1,MLB Extra Innings 742
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1150.ts
-#EXTINF:-1,MLB Extra Innings 743
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1149.ts
-#EXTINF:-1,MLB Extra Innings 744
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1148.ts
-#EXTINF:-1,MLB Extra Innings 745
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1147.ts
-#EXTINF:-1,MLB Extra Innings 746
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1146.ts
-#EXTINF:-1,MLB Extra Innings 747
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1145.ts
-#EXTINF:-1,MLB Extra Innings 748
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1144.ts
-#EXTINF:-1,MLB Extra Innings 749
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1143.ts
-#EXTINF:-1,BET
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1175.ts
-#EXTINF:-1,HALLMARK MOVIES
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1177.ts
-#EXTINF:-1,KIRO 7 NEWS
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1178.ts
-#EXTINF:-1,CBS 5 NEWS
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1183.ts
-#EXTINF:-1,Fox 21 NEWS
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1199.ts
-#EXTINF:-1,QVC 1
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1206.ts
-#EXTINF:-1,QVC 2
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1207.ts
-
-#EXTINF:-1,NEWS 12 NEW JERSEY
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1176.ts
-#EXTINF:-1,RT HD
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/822.ts
-#EXTINF:-1,FREEFORM
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/320.ts
-#EXTINF:-1,Oxygen HD
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1229.ts
-#EXTINF:-1,TPK Music Metal
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1230.ts
-#EXTINF:-1,FOX (UK)
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1243.ts
-#EXTINF:-1,REGGAE MUSIC
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1245.ts
-#EXTINF:-1,FXM
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1271.ts
-#EXTINF:-1,El Rey
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1272.ts
-#EXTINF:-1,BBC AMERICA
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1277.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1280.ts
-#EXTINF:-1,SUNDANCE TV
-http://dns1.theplayersklub.host:2095/live/axel1234/axel1234/1284.ts
 
 
 
 
 
-#EXTINF:-1,LATINO: A&E HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15924.ts
-#EXTINF:-1,LATINO: Animal Planet
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15925.ts
-#EXTINF:-1,LATINO: AXN HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15926.ts
-#EXTINF:-1,LATINO: Az Cinema HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15927.ts
-#EXTINF:-1,LATINO: CABLE NOTICIAS HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15921.ts
-#EXTINF:-1,LATINO: Canal 5 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15929.ts
-#EXTINF:-1,LATINO: Canal De Las Estrellas HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15930.ts
-#EXTINF:-1,LATINO: CANAL U
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15919.ts
-#EXTINF:-1,LATINO: CANAL UNO HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15918.ts
-#EXTINF:-1,LATINO: CARACOL
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15958.ts
-#EXTINF:-1,LATINO: Carton Network HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15931.ts
-#EXTINF:-1,Latino: Chile La Red
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7622.ts
-#EXTINF:-1,LATINO: Cine Canal HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15932.ts
-#EXTINF:-1,LATINO: Comedy Central HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15933.ts
-#EXTINF:-1,LATINO: De Pelicula HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15934.ts
-#EXTINF:-1,LATINO: Discovery Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15935.ts
-#EXTINF:-1,LATINO: Discovery Civilization
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15936.ts
-#EXTINF:-1,LATINO: Discovery ID
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15937.ts
-#EXTINF:-1,LATINO: Discovery Kids
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15938.ts
-#EXTINF:-1,LATINO: Discovery Science
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15939.ts
-#EXTINF:-1,LATINO: Discovery Teather HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15940.ts
-#EXTINF:-1,LATINO: Discovery TLC
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15941.ts
-#EXTINF:-1,LATINO: Discovery Turbo
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15942.ts
-#EXTINF:-1,LATINO: Discovey World HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15943.ts
-#EXTINF:-1,Latino: DW
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11719.ts
-#EXTINF:-1,Latino: Efekto TV HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11720.ts
-#EXTINF:-1,Latino: El Trece HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/11721.ts
-#EXTINF:-1,LATINO: ESPN
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15944.ts
-#EXTINF:-1,LATINO: ESPN 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15945.ts
-#EXTINF:-1,LATINO: ESPN 3
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15946.ts
-#EXTINF:-1,LATINO: F1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15947.ts
-#EXTINF:-1,LATINO: Film Zone HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15948.ts
-#EXTINF:-1,LATINO: Fox 1 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15949.ts
-#EXTINF:-1,LATINO: Fox Action HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15950.ts
-#EXTINF:-1,LATINO: Fox Cinema HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15951.ts
-#EXTINF:-1,LATINO: Fox HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15952.ts
-#EXTINF:-1,LATINO: Fox Movies HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15953.ts
-#EXTINF:-1,LATINO: Fox Sports
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15954.ts
-#EXTINF:-1,LATINO: Fox Sports 2 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15955.ts
-#EXTINF:-1,LATINO: Gala Tv HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15956.ts
-#EXTINF:-1,LATINO: Glitz
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15957.ts
-#EXTINF:-1,LATINO: Golden Edge
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15959.ts
-#EXTINF:-1,LATINO: Golden HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15960.ts
-#EXTINF:-1,LATINO: Gourmet
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15961.ts
-#EXTINF:-1,LATINO: History HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15962.ts
-#EXTINF:-1,LATINO: HOLA TV HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15963.ts
-#EXTINF:-1,LATINO: MI MUSICA HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15917.ts
-#EXTINF:-1,LATINO: Milenio TV HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15964.ts
-#EXTINF:-1,LATINO: Multimedios Monterrey HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15965.ts
-#EXTINF:-1,LATINO: NatGeo Wild HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15966.ts
-#EXTINF:-1,LATINO: RCN
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15923.ts
-#EXTINF:-1,LATINO: RCN HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15928.ts
-#EXTINF:-1,LATINO: SENAL COLOMBIA HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15916.ts
-#EXTINF:-1,LATINO: Space HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15967.ts
-#EXTINF:-1,LATINO: TDN
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15968.ts
-#EXTINF:-1,LATINO: TELE MEDELLIN
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15915.ts
-#EXTINF:-1,LATINO: Telemundo
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15969.ts
-#EXTINF:-1,LATINO: Telemundo Los Angeles
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15913.ts
-#EXTINF:-1,LATINO: Telemundo Puerto Rico
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15912.ts
-#EXTINF:-1,LATINO: TIGO MUSIC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15914.ts
-#EXTINF:-1,LATINO: TNT Series HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15970.ts
-#EXTINF:-1,LATINO: Tru Tv HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15971.ts
-#EXTINF:-1,Latino: TyC Sports
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15828.ts
-#EXTINF:-1,LATINO: Unicable HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15972.ts
-#EXTINF:-1,LATINO: Universal HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15973.ts
-#EXTINF:-1,LATINO: Univision HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15911.ts
-#EXTINF:-1,LATINO: Warner HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15974.ts
-#EXTINF:-1,LATINO: Win Sport
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15922.ts
-#EXTINF:-1,LATINO: Win Sports
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15975.ts
-#EXTINF:-1,LATINO:CANAL INSTITUCIONAL HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15920.ts
-#EXTINF:-1,Lazio Style Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/5425.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,►►● 24/7 MULTIMEDIA ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3426.ts
+#EXTINF:-1,24/7 JUEGO DE TRONOS HD  iO
+http://basic.ioiptv.com:8000/live/santi/santi/4365.ts
+#EXTINF:-1,24/7 Dragon Ball
+http://basic.ioiptv.com:8000/live/santi/santi/4282.ts
+#EXTINF:-1,24/7 Dragon Ball GT iO
+http://basic.ioiptv.com:8000/live/santi/santi/4364.ts
+#EXTINF:-1,24/7 Dragon Ball Super HD
+http://basic.ioiptv.com:8000/live/santi/santi/3044.ts
+#EXTINF:-1,24/7 El Chavo animado
+http://basic.ioiptv.com:8000/live/santi/santi/5519.ts
+#EXTINF:-1,24/7 AVATAR: La Leyenda de Aang
+http://basic.ioiptv.com:8000/live/santi/santi/4222.ts
+#EXTINF:-1,24/7 La Familia Peluche  iO
+http://basic.ioiptv.com:8000/live/santi/santi/4957.ts
+#EXTINF:-1,24/7 Movies 01
+http://basic.ioiptv.com:8000/live/santi/santi/5619.ts
+#EXTINF:-1,24/7 Disney World
+http://basic.ioiptv.com:8000/live/santi/santi/3049.ts
+#EXTINF:-1,24/7 Video Music  Mix
+http://basic.ioiptv.com:8000/live/santi/santi/3533.ts
+#EXTINF:-1,24/7 La Niñera
+http://basic.ioiptv.com:8000/live/santi/santi/2674.ts
+#EXTINF:-1,24/7 DINOSAURIOS
+http://basic.ioiptv.com:8000/live/santi/santi/2673.ts
+#EXTINF:-1,24/7 Family Guy HD
+http://basic.ioiptv.com:8000/live/santi/santi/3061.ts
+#EXTINF:-1,24/7 Futurama HD
+http://basic.ioiptv.com:8000/live/santi/santi/3060.ts
+#EXTINF:-1,24/7 Los caballeros del Zodiaco  HD
+http://basic.ioiptv.com:8000/live/santi/santi/3059.ts
+#EXTINF:-1,24/7 Los Tres Chiflados
+http://basic.ioiptv.com:8000/live/santi/santi/3058.ts
+#EXTINF:-1,24/7 MacGyver
+http://basic.ioiptv.com:8000/live/santi/santi/3057.ts
+#EXTINF:-1,24/7 Patoaventuras
+http://basic.ioiptv.com:8000/live/santi/santi/3056.ts
+#EXTINF:-1,24/7 Los magníficos (The A-Team)
+http://basic.ioiptv.com:8000/live/santi/santi/3054.ts
+#EXTINF:-1,24/7 El Chavo del Ocho
+http://basic.ioiptv.com:8000/live/santi/santi/3048.ts
+#EXTINF:-1,24/7 Los Simpson
+http://basic.ioiptv.com:8000/live/santi/santi/3047.ts
+#EXTINF:-1,24/7 El Chapulín Colorado SD
+http://basic.ioiptv.com:8000/live/santi/santi/3046.ts
+#EXTINF:-1,24/7 Variedad 04 (bodSp)
+http://basic.ioiptv.com:8000/live/santi/santi/3042.ts
+#EXTINF:-1,24/7 Variedos (alf)
+http://basic.ioiptv.com:8000/live/santi/santi/3041.ts
+#EXTINF:-1,24/7 WWE HD
+http://basic.ioiptv.com:8000/live/santi/santi/3053.ts
+#EXTINF:-1,Radio: MIx (audio)
+http://basic.ioiptv.com:8000/live/santi/santi/3543.ts
+#EXTINF:-1,Radio: Reggaeton 2 (audio)
+http://basic.ioiptv.com:8000/live/santi/santi/3542.ts
+#EXTINF:-1,24/7 ES: The Fresh Prince of Bel-Air
+http://basic.ioiptv.com:8000/live/santi/santi/3062.ts
+#EXTINF:-1,►►● 1080P CANALES ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3427.ts
+#EXTINF:-1,A&E HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3402.ts
+#EXTINF:-1,AXN HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3401.ts
+#EXTINF:-1,Cinecanal HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3399.ts
+#EXTINF:-1,Cinemax HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3398.ts
+#EXTINF:-1,Comedy Central HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3397.ts
+#EXTINF:-1,ESPN (Mx) HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3395.ts
+#EXTINF:-1,Fox HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3394.ts
+#EXTINF:-1,Fox Action HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3393.ts
+#EXTINF:-1,Fox Movies HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3392.ts
+#EXTINF:-1,Fox Sports HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3391.ts
+#EXTINF:-1,Fox Sports 2 HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3390.ts
+#EXTINF:-1,Fox1 (Oeste) HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3389.ts
+#EXTINF:-1,FX HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3388.ts
+#EXTINF:-1,GOLDEN  HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/4971.ts
+#EXTINF:-1,History Channel HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3385.ts
+#EXTINF:-1,Investigation Discovery HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/4958.ts
+#EXTINF:-1,Space HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3384.ts
+#EXTINF:-1,TNT HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3383.ts
+#EXTINF:-1,TNT Series HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3382.ts
+#EXTINF:-1,TruTV HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3381.ts
+#EXTINF:-1,Universal Channel HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3380.ts
+#EXTINF:-1,Warner HD 1080p
+http://basic.ioiptv.com:8000/live/santi/santi/3379.ts
+#EXTINF:-1,►►● CANALES HD 720 ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/4272.ts
+#EXTINF:-1,Bein Sports HD 720 (ingles)
+http://basic.ioiptv.com:8000/live/santi/santi/4978.ts
+#EXTINF:-1,CARTOON NETWORK HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4974.ts
+#EXTINF:-1,CHELSEA TV  HD 720 (ingles)
+http://basic.ioiptv.com:8000/live/santi/santi/4975.ts
+#EXTINF:-1,EL REY NETWORK (ingles)
+http://basic.ioiptv.com:8000/live/santi/santi/4980.ts
+#EXTINF:-1,FOX DEPORTES HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4972.ts
+#EXTINF:-1,HBO  HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/5693.ts
+#EXTINF:-1,NAT GEO MUNDO HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4973.ts
+#EXTINF:-1,AMC HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4961.ts
+#EXTINF:-1,BABY TV HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4247.ts
+#EXTINF:-1,Bein Sports Ñ  HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4966.ts
+#EXTINF:-1,BOXNATION HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4245.ts
+#EXTINF:-1,CANAL 5 HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4271.ts
+#EXTINF:-1,CNN HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4270.ts
+#EXTINF:-1,DE PELICULA HD
+http://basic.ioiptv.com:8000/live/santi/santi/4269.ts
+#EXTINF:-1,Estrellas HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4246.ts
+#EXTINF:-1,ESPN HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4964.ts
+#EXTINF:-1,ESPN 2 HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4276.ts
+#EXTINF:-1,ESPN 3 HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4277.ts
+#EXTINF:-1,F1 HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4278.ts
+#EXTINF:-1,FIGHT NETWORK HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4266.ts
+#EXTINF:-1,GALAVISION HD **
+http://basic.ioiptv.com:8000/live/santi/santi/4273.ts
+#EXTINF:-1,GOL TV HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4265.ts
+#EXTINF:-1,Hola TV HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4264.ts
+#EXTINF:-1,MTV LIVE HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4281.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4960.ts
+#EXTINF:-1,NatGeo Wild HD720
+http://basic.ioiptv.com:8000/live/santi/santi/4962.ts
+#EXTINF:-1,Nick HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4261.ts
+#EXTINF:-1,Nick JR HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4260.ts
+#EXTINF:-1,NBC DEPORTES HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4965.ts
+#EXTINF:-1,NBC UNIVERSO HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4262.ts
+#EXTINF:-1,Paramount Channel HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4959.ts
+#EXTINF:-1,Ritmoson HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4259.ts
+#EXTINF:-1,TDN HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4258.ts
+#EXTINF:-1,TDN (MX) HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4279.ts
+#EXTINF:-1,TELEHIT HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4257.ts
+#EXTINF:-1,TELEMUNDO Hq
+http://basic.ioiptv.com:8000/live/santi/santi/4256.ts
+#EXTINF:-1,Tiin HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4255.ts
+#EXTINF:-1,TNT HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4963.ts
+#EXTINF:-1,TYC SPORTS (ARG) HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4254.ts
+#EXTINF:-1,UNICABLE HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4253.ts
+#EXTINF:-1,UniMas HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4252.ts
+#EXTINF:-1,UNIVISION HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4251.ts
+#EXTINF:-1,Univision Deportes HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4250.ts
+#EXTINF:-1,UNIVISION TDN HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/4280.ts
+#EXTINF:-1,UNIVISION TDN HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4249.ts
+#EXTINF:-1,UNIVISION TLNOVELAS HQ
+http://basic.ioiptv.com:8000/live/santi/santi/4248.ts
+#EXTINF:-1,►►● MEXICO ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3433.ts
+#EXTINF:-1,>>>> MEXICO <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3609.ts
+#EXTINF:-1,AZ CINEMA  D
+http://basic.ioiptv.com:8000/live/santi/santi/3608.ts
+#EXTINF:-1,AZ CLIC  D
+http://basic.ioiptv.com:8000/live/santi/santi/3607.ts
+#EXTINF:-1,AZ CORAZON  D
+http://basic.ioiptv.com:8000/live/santi/santi/3606.ts
+#EXTINF:-1,AZ MUNDO  D
+http://basic.ioiptv.com:8000/live/santi/santi/3605.ts
+#EXTINF:-1,AZ NOTICIAS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3604.ts
+#EXTINF:-1,AZTECA 7  *
+http://basic.ioiptv.com:8000/live/santi/santi/3610.ts
+#EXTINF:-1,AZTECA TRECE  *
+http://basic.ioiptv.com:8000/live/santi/santi/3603.ts
+#EXTINF:-1,CANAL 11
+http://basic.ioiptv.com:8000/live/santi/santi/3589.ts
+#EXTINF:-1,CANAL 5  D
+http://basic.ioiptv.com:8000/live/santi/santi/3602.ts
+#EXTINF:-1,LAS ESTRELLAS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3601.ts
+#EXTINF:-1,HTV  *
+http://basic.ioiptv.com:8000/live/santi/santi/3588.ts
+#EXTINF:-1,Cronica HD
+http://basic.ioiptv.com:8000/live/santi/santi/3587.ts
+#EXTINF:-1,De Pelicula  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5608.ts
+#EXTINF:-1,DEPELICULA  D
+http://basic.ioiptv.com:8000/live/santi/santi/3599.ts
+#EXTINF:-1,DISTRITO COMEDIA  D
+http://basic.ioiptv.com:8000/live/santi/santi/3598.ts
+#EXTINF:-1,MULTIMEDIOS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3597.ts
+#EXTINF:-1,Tlnovelas  D
+http://basic.ioiptv.com:8000/live/santi/santi/3595.ts
+#EXTINF:-1,TLnovelas Univision
+http://basic.ioiptv.com:8000/live/santi/santi/4019.ts
+#EXTINF:-1,►►● ENTRETENIMIENTO ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3428.ts
+#EXTINF:-1,>>>> ENTRETENIMIENTO <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3730.ts
+#EXTINF:-1,A&E  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5613.ts
+#EXTINF:-1,A&E
+http://basic.ioiptv.com:8000/live/santi/santi/3729.ts
+#EXTINF:-1,AMC  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5612.ts
+#EXTINF:-1,AMC  D
+http://basic.ioiptv.com:8000/live/santi/santi/3728.ts
+#EXTINF:-1,Animal Planet  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5611.ts
+#EXTINF:-1,ANIMAL PLANET  D
+http://basic.ioiptv.com:8000/live/santi/santi/3727.ts
+#EXTINF:-1,AXN  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5610.ts
+#EXTINF:-1,AXN
+http://basic.ioiptv.com:8000/live/santi/santi/3726.ts
+#EXTINF:-1,BBC Entertaiment
+http://basic.ioiptv.com:8000/live/santi/santi/3725.ts
+#EXTINF:-1,CINECANAL  D
+http://basic.ioiptv.com:8000/live/santi/santi/3724.ts
+#EXTINF:-1,CINE LATINO  *
+http://basic.ioiptv.com:8000/live/santi/santi/3723.ts
+#EXTINF:-1,CINEMAX  **
+http://basic.ioiptv.com:8000/live/santi/santi/3722.ts
+#EXTINF:-1,Comedy Central  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5607.ts
+#EXTINF:-1,COMEDY CENTRAL  D
+http://basic.ioiptv.com:8000/live/santi/santi/3721.ts
+#EXTINF:-1,Discovery Home & Health  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5604.ts
+#EXTINF:-1,DISCOVERY  HOME&HEALTH  D
+http://basic.ioiptv.com:8000/live/santi/santi/3720.ts
+#EXTINF:-1,Discovery Channel  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5606.ts
+#EXTINF:-1,DISCOVERY CHANNEL  D
+http://basic.ioiptv.com:8000/live/santi/santi/3719.ts
+#EXTINF:-1,Discovery Civilization  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5605.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION  D
+http://basic.ioiptv.com:8000/live/santi/santi/3718.ts
+#EXTINF:-1,DISCOVERY SCIENCE  D
+http://basic.ioiptv.com:8000/live/santi/santi/3717.ts
+#EXTINF:-1,Discovery Theather HD  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5602.ts
+#EXTINF:-1,DISCOVERY THEATER  D
+http://basic.ioiptv.com:8000/live/santi/santi/3716.ts
+#EXTINF:-1,DISCOVERY TLC  D
+http://basic.ioiptv.com:8000/live/santi/santi/3715.ts
+#EXTINF:-1,Discovery Turbo  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5601.ts
+#EXTINF:-1,DISCOVERY TURBO  D
+http://basic.ioiptv.com:8000/live/santi/santi/3714.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://basic.ioiptv.com:8000/live/santi/santi/3713.ts
+#EXTINF:-1,E! ENTERTAINMENT  D
+http://basic.ioiptv.com:8000/live/santi/santi/3712.ts
+#EXTINF:-1,FILMZONE  *
+http://basic.ioiptv.com:8000/live/santi/santi/3711.ts
+#EXTINF:-1,Fox Channel  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5596.ts
+#EXTINF:-1,FOX  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5571.ts
+#EXTINF:-1,FOX  D
+http://basic.ioiptv.com:8000/live/santi/santi/3710.ts
+#EXTINF:-1,FOX SERIES
+http://basic.ioiptv.com:8000/live/santi/santi/3709.ts
+#EXTINF:-1,FOX Action  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5569.ts
+#EXTINF:-1,FOX ACTION  D
+http://basic.ioiptv.com:8000/live/santi/santi/3708.ts
+#EXTINF:-1,Fox Cinema  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5595.ts
+#EXTINF:-1,FOX CINEMA  *
+http://basic.ioiptv.com:8000/live/santi/santi/3707.ts
+#EXTINF:-1,FOX CLASSIC  *
+http://basic.ioiptv.com:8000/live/santi/santi/3706.ts
+#EXTINF:-1,Fox Comedy  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5594.ts
+#EXTINF:-1,Fox Comedy  *
+http://basic.ioiptv.com:8000/live/santi/santi/3705.ts
+#EXTINF:-1,FOX Family  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5593.ts
+#EXTINF:-1,FOX Family  *
+http://basic.ioiptv.com:8000/live/santi/santi/3704.ts
+#EXTINF:-1,FOX LIFE  D
+http://basic.ioiptv.com:8000/live/santi/santi/3703.ts
+#EXTINF:-1,FOX Movies  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5592.ts
+#EXTINF:-1,FOX MOVIES  D
+http://basic.ioiptv.com:8000/live/santi/santi/3702.ts
+#EXTINF:-1,FX  D
+http://basic.ioiptv.com:8000/live/santi/santi/3701.ts
+#EXTINF:-1,GOLDEN  D
+http://basic.ioiptv.com:8000/live/santi/santi/3700.ts
+#EXTINF:-1,GOLDEN EDGE  D
+http://basic.ioiptv.com:8000/live/santi/santi/3699.ts
+#EXTINF:-1,Golden Premiere 1  D
+http://basic.ioiptv.com:8000/live/santi/santi/3698.ts
+#EXTINF:-1,Golden Premiere 2  D
+http://basic.ioiptv.com:8000/live/santi/santi/3697.ts
+#EXTINF:-1,HBO  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5590.ts
+#EXTINF:-1,HBO
+http://basic.ioiptv.com:8000/live/santi/santi/3696.ts
+#EXTINF:-1,HBO2  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5589.ts
+#EXTINF:-1,HBO 2  *
+http://basic.ioiptv.com:8000/live/santi/santi/3695.ts
+#EXTINF:-1,HBO Family  *
+http://basic.ioiptv.com:8000/live/santi/santi/3693.ts
+#EXTINF:-1,HBO Plus Este  *
+http://basic.ioiptv.com:8000/live/santi/santi/3691.ts
+#EXTINF:-1,HBO Plus Oeste  *
+http://basic.ioiptv.com:8000/live/santi/santi/3690.ts
+#EXTINF:-1,Hbo Signature  *
+http://basic.ioiptv.com:8000/live/santi/santi/3689.ts
+#EXTINF:-1,History  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5588.ts
+#EXTINF:-1,HISTORY
+http://basic.ioiptv.com:8000/live/santi/santi/3688.ts
+#EXTINF:-1,H2  *
+http://basic.ioiptv.com:8000/live/santi/santi/3687.ts
+#EXTINF:-1,ID  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5568.ts
+#EXTINF:-1,DISCOVERY ID  D
+http://basic.ioiptv.com:8000/live/santi/santi/3686.ts
+#EXTINF:-1,LIFETIME  D
+http://basic.ioiptv.com:8000/live/santi/santi/3685.ts
+#EXTINF:-1,MAX  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5567.ts
+#EXTINF:-1,Max  *
+http://basic.ioiptv.com:8000/live/santi/santi/3684.ts
+#EXTINF:-1,MAX Prime Este
+http://basic.ioiptv.com:8000/live/santi/santi/3683.ts
+#EXTINF:-1,MAX Prime Oeste
+http://basic.ioiptv.com:8000/live/santi/santi/3681.ts
+#EXTINF:-1,Max UP HD
+http://basic.ioiptv.com:8000/live/santi/santi/3680.ts
+#EXTINF:-1,Mundo fox  *
+http://basic.ioiptv.com:8000/live/santi/santi/3678.ts
+#EXTINF:-1,Nat Geo Wild  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5587.ts
+#EXTINF:-1,NATGEO WILD  D
+http://basic.ioiptv.com:8000/live/santi/santi/3677.ts
+#EXTINF:-1,Natgeo  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5586.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC  D
+http://basic.ioiptv.com:8000/live/santi/santi/3676.ts
+#EXTINF:-1,Paramount Channel  *
+http://basic.ioiptv.com:8000/live/santi/santi/3675.ts
+#EXTINF:-1,SONY  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5582.ts
+#EXTINF:-1,SONY  D
+http://basic.ioiptv.com:8000/live/santi/santi/3673.ts
+#EXTINF:-1,HBO (1)
+http://basic.ioiptv.com:8000/live/santi/santi/3672.ts
+#EXTINF:-1,SPACE  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5583.ts
+#EXTINF:-1,SPACE HD  D
+http://basic.ioiptv.com:8000/live/santi/santi/3671.ts
+#EXTINF:-1,Studio Universal  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5581.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://basic.ioiptv.com:8000/live/santi/santi/3670.ts
+#EXTINF:-1,Sundance TV
+http://basic.ioiptv.com:8000/live/santi/santi/3669.ts
+#EXTINF:-1,SYFY *
+http://basic.ioiptv.com:8000/live/santi/santi/3668.ts
+#EXTINF:-1,TCM  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5580.ts
+#EXTINF:-1,TCM  *
+http://basic.ioiptv.com:8000/live/santi/santi/3667.ts
+#EXTINF:-1,Telemundo HD
+http://basic.ioiptv.com:8000/live/santi/santi/3666.ts
+#EXTINF:-1,The Film Zone  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5579.ts
+#EXTINF:-1,TNT  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5573.ts
+#EXTINF:-1,TNT  *
+http://basic.ioiptv.com:8000/live/santi/santi/3665.ts
+#EXTINF:-1,TNT Series  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5574.ts
+#EXTINF:-1,TNT SERIES  *
+http://basic.ioiptv.com:8000/live/santi/santi/3664.ts
+#EXTINF:-1,TRUtv  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5578.ts
+#EXTINF:-1,TRU TV  *
+http://basic.ioiptv.com:8000/live/santi/santi/3663.ts
+#EXTINF:-1,UNIVERSAL  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5575.ts
+#EXTINF:-1,UNIVERSAL CHANNEL  *
+http://basic.ioiptv.com:8000/live/santi/santi/3662.ts
+#EXTINF:-1,Univision 41 HD 720
+http://basic.ioiptv.com:8000/live/santi/santi/3661.ts
+#EXTINF:-1,Warner Channel  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5572.ts
+#EXTINF:-1,WARNER BROS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3660.ts
+#EXTINF:-1,►►● INFANTIL ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3430.ts
+#EXTINF:-1,>>>> INFANTIL <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3745.ts
+#EXTINF:-1,Baby TV
+http://basic.ioiptv.com:8000/live/santi/santi/3744.ts
+#EXTINF:-1,Boomerang  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5609.ts
+#EXTINF:-1,BOOMERANG
+http://basic.ioiptv.com:8000/live/santi/santi/3743.ts
+#EXTINF:-1,Cartoon Network  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5570.ts
+#EXTINF:-1,CARTOON NETWORK  D
+http://basic.ioiptv.com:8000/live/santi/santi/3742.ts
+#EXTINF:-1,Discovery Kids  (Sat1)  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5603.ts
+#EXTINF:-1,DISCOVERY KIDS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3741.ts
+#EXTINF:-1,Disney Channel  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5600.ts
+#EXTINF:-1,DISNEY CHANNEL  D
+http://basic.ioiptv.com:8000/live/santi/santi/3740.ts
+#EXTINF:-1,Disney Junior  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5599.ts
+#EXTINF:-1,DISNEY JUNIOR  D
+http://basic.ioiptv.com:8000/live/santi/santi/3739.ts
+#EXTINF:-1,Disney XD  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5598.ts
+#EXTINF:-1,DISNEY XD  D
+http://basic.ioiptv.com:8000/live/santi/santi/3738.ts
+#EXTINF:-1,NICK 2  D
+http://basic.ioiptv.com:8000/live/santi/santi/3737.ts
+#EXTINF:-1,NICK JR  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5585.ts
+#EXTINF:-1,NICK JUNIOR  D
+http://basic.ioiptv.com:8000/live/santi/santi/3736.ts
+#EXTINF:-1,NICKTOONS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3735.ts
+#EXTINF:-1,Nickelodeon  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5584.ts
+#EXTINF:-1,NICKELODEON  D
+http://basic.ioiptv.com:8000/live/santi/santi/3734.ts
+#EXTINF:-1,Once Niños
+http://basic.ioiptv.com:8000/live/santi/santi/3733.ts
+#EXTINF:-1,TIIN  D
+http://basic.ioiptv.com:8000/live/santi/santi/3732.ts
+#EXTINF:-1,TOONCAST  D
+http://basic.ioiptv.com:8000/live/santi/santi/3731.ts
+#EXTINF:-1,►►● DEPORTES ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3429.ts
+#EXTINF:-1,>>>> DEPORTES <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3658.ts
+#EXTINF:-1,AYM SPORTS
+http://basic.ioiptv.com:8000/live/santi/santi/3657.ts
+#EXTINF:-1,Bein Sport Ñ
+http://basic.ioiptv.com:8000/live/santi/santi/3656.ts
+#EXTINF:-1,Directv Sports (test)
+http://basic.ioiptv.com:8000/live/santi/santi/5520.ts
+#EXTINF:-1,ESPN  D
+http://basic.ioiptv.com:8000/live/santi/santi/3655.ts
+#EXTINF:-1,ESPN 2  D
+http://basic.ioiptv.com:8000/live/santi/santi/3654.ts
+#EXTINF:-1,ESPN 3  D
+http://basic.ioiptv.com:8000/live/santi/santi/3653.ts
+#EXTINF:-1,ESPN Plus *
+http://basic.ioiptv.com:8000/live/santi/santi/3659.ts
+#EXTINF:-1,F1
+http://basic.ioiptv.com:8000/live/santi/santi/3650.ts
+#EXTINF:-1,FIGHT NETWORK  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5597.ts
+#EXTINF:-1,FOX SPORTS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3649.ts
+#EXTINF:-1,FOX SPORTS 2  D
+http://basic.ioiptv.com:8000/live/santi/santi/3648.ts
+#EXTINF:-1,PX TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3646.ts
+#EXTINF:-1,UNIVISION TDN
+http://basic.ioiptv.com:8000/live/santi/santi/4018.ts
+#EXTINF:-1,Univision Deportes
+http://basic.ioiptv.com:8000/live/santi/santi/3642.ts
+#EXTINF:-1,UFC Network  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5576.ts
+#EXTINF:-1,UFC *
+http://basic.ioiptv.com:8000/live/santi/santi/2717.ts
+#EXTINF:-1,VTV Uruguay HD *
+http://basic.ioiptv.com:8000/live/santi/santi/2434.ts
+#EXTINF:-1,UY: VTV
+http://basic.ioiptv.com:8000/live/santi/santi/4002.ts
+#EXTINF:-1,FOX SPORTS 3
+http://basic.ioiptv.com:8000/live/santi/santi/4001.ts
+#EXTINF:-1,►►● VARIOS ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/3431.ts
+#EXTINF:-1,>>>> VARIOS <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3592.ts
+#EXTINF:-1,ADN 40
+http://basic.ioiptv.com:8000/live/santi/santi/3591.ts
+#EXTINF:-1,Cadena H
+http://basic.ioiptv.com:8000/live/santi/santi/3590.ts
+#EXTINF:-1,EL FINANCIERO  D
+http://basic.ioiptv.com:8000/live/santi/santi/3586.ts
+#EXTINF:-1,EL GOURMET
+http://basic.ioiptv.com:8000/live/santi/santi/3585.ts
+#EXTINF:-1,FASHION TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3584.ts
+#EXTINF:-1,FORO TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3583.ts
+#EXTINF:-1,GALA TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3582.ts
+#EXTINF:-1,GARAGE TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3580.ts
+#EXTINF:-1,GLITZ
+http://basic.ioiptv.com:8000/live/santi/santi/3579.ts
+#EXTINF:-1,BOXNATION  *
+http://basic.ioiptv.com:8000/live/santi/santi/3578.ts
+#EXTINF:-1,HOLA TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3577.ts
+#EXTINF:-1,I SAT  D
+http://basic.ioiptv.com:8000/live/santi/santi/3576.ts
+#EXTINF:-1,Imagen TV
+http://basic.ioiptv.com:8000/live/santi/santi/3575.ts
+#EXTINF:-1,MAS CHIC
+http://basic.ioiptv.com:8000/live/santi/santi/3574.ts
+#EXTINF:-1,MILENIO TV  D
+http://basic.ioiptv.com:8000/live/santi/santi/3573.ts
+#EXTINF:-1,NBC Universo HD
+http://basic.ioiptv.com:8000/live/santi/santi/3572.ts
+#EXTINF:-1,TBS  D
+http://basic.ioiptv.com:8000/live/santi/santi/3571.ts
+#EXTINF:-1,TELEFORMULA  D
+http://basic.ioiptv.com:8000/live/santi/santi/3570.ts
+#EXTINF:-1,TVE
+http://basic.ioiptv.com:8000/live/santi/santi/3569.ts
+#EXTINF:-1,UNICABLE  D
+http://basic.ioiptv.com:8000/live/santi/santi/3594.ts
+#EXTINF:-1,UniMas
+http://basic.ioiptv.com:8000/live/santi/santi/3593.ts
+#EXTINF:-1,UY: CANAL 10
+http://basic.ioiptv.com:8000/live/santi/santi/3567.ts
+#EXTINF:-1,UY: Montecarlo
+http://basic.ioiptv.com:8000/live/santi/santi/3566.ts
+#EXTINF:-1,VE: TV AGRO
+http://basic.ioiptv.com:8000/live/santi/santi/3565.ts
+#EXTINF:-1,VE: NTN 24
+http://basic.ioiptv.com:8000/live/santi/santi/4020.ts
+#EXTINF:-1,WOBI  D
+http://basic.ioiptv.com:8000/live/santi/santi/3568.ts
+#EXTINF:-1,>>>> MUSICA <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3805.ts
+#EXTINF:-1,BANDAMAX
+http://basic.ioiptv.com:8000/live/santi/santi/3804.ts
+#EXTINF:-1,MTV
+http://basic.ioiptv.com:8000/live/santi/santi/3803.ts
+#EXTINF:-1,MTV HITS
+http://basic.ioiptv.com:8000/live/santi/santi/3802.ts
+#EXTINF:-1,MTV MUSIC  *
+http://basic.ioiptv.com:8000/live/santi/santi/3801.ts
+#EXTINF:-1,RITMOSON
+http://basic.ioiptv.com:8000/live/santi/santi/3800.ts
+#EXTINF:-1,TELEHIT  *
+http://basic.ioiptv.com:8000/live/santi/santi/3799.ts
+#EXTINF:-1,VH1  *
+http://basic.ioiptv.com:8000/live/santi/santi/3798.ts
+#EXTINF:-1,VH1 CLASSICS  *
+http://basic.ioiptv.com:8000/live/santi/santi/3797.ts
+#EXTINF:-1,>>>> ARGENTINA <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3759.ts
+#EXTINF:-1,AR: AMERICA TV
+http://basic.ioiptv.com:8000/live/santi/santi/3758.ts
+#EXTINF:-1,AR: TN*
+http://basic.ioiptv.com:8000/live/santi/santi/3757.ts
+#EXTINF:-1,AR: canal 26*
+http://basic.ioiptv.com:8000/live/santi/santi/3756.ts
+#EXTINF:-1,AR: Canal 9
+http://basic.ioiptv.com:8000/live/santi/santi/3755.ts
+#EXTINF:-1,AR: DeporTV
+http://basic.ioiptv.com:8000/live/santi/santi/3754.ts
+#EXTINF:-1,AR: ESPN
+http://basic.ioiptv.com:8000/live/santi/santi/3752.ts
+#EXTINF:-1,AR: ESPN 2*
+http://basic.ioiptv.com:8000/live/santi/santi/3751.ts
+#EXTINF:-1,AR: FOX SPORTS 1 SUR
+http://basic.ioiptv.com:8000/live/santi/santi/3750.ts
+#EXTINF:-1,AR: FOX SPORTS 2 SUR  *
+http://basic.ioiptv.com:8000/live/santi/santi/3749.ts
+#EXTINF:-1,AR: FOX SPORTS 3 SUR  *
+http://basic.ioiptv.com:8000/live/santi/santi/3748.ts
+#EXTINF:-1,AR: TELEFE
+http://basic.ioiptv.com:8000/live/santi/santi/3747.ts
+#EXTINF:-1,AR: Trece HD*
+http://basic.ioiptv.com:8000/live/santi/santi/3753.ts
+#EXTINF:-1,AR: TYC Sport **
+http://basic.ioiptv.com:8000/live/santi/santi/3746.ts
+#EXTINF:-1,►►● ECUADOR ●◄◄
+http://basic.ioiptv.com:8000/live/santi/santi/4014.ts
+#EXTINF:-1,EC: Canal UNO *
+http://basic.ioiptv.com:8000/live/santi/santi/4006.ts
+#EXTINF:-1,EC: CNT SPORT *
+http://basic.ioiptv.com:8000/live/santi/santi/4007.ts
+#EXTINF:-1,EC: Ecuador TV   *
+http://basic.ioiptv.com:8000/live/santi/santi/4005.ts
+#EXTINF:-1,EC: ECUAVISA *
+http://basic.ioiptv.com:8000/live/santi/santi/4008.ts
+#EXTINF:-1,EC: GAMA TV *
+http://basic.ioiptv.com:8000/live/santi/santi/4009.ts
+#EXTINF:-1,EC: OROMAR TV *
+http://basic.ioiptv.com:8000/live/santi/santi/4010.ts
+#EXTINF:-1,EC: RTS *
+http://basic.ioiptv.com:8000/live/santi/santi/4011.ts
+#EXTINF:-1,EC: TC Television *
+http://basic.ioiptv.com:8000/live/santi/santi/4012.ts
+#EXTINF:-1,EC: Teleamazonas *
+http://basic.ioiptv.com:8000/live/santi/santi/4013.ts
+#EXTINF:-1,>>>> CHILE <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3785.ts
+#EXTINF:-1,24/7 Morandé con compañía  iO
+http://basic.ioiptv.com:8000/live/santi/santi/4872.ts
+#EXTINF:-1,CL: CANAL 13 HD
+http://basic.ioiptv.com:8000/live/santi/santi/3784.ts
+#EXTINF:-1,CL: CDF  basico (TEST)
+http://basic.ioiptv.com:8000/live/santi/santi/3783.ts
+#EXTINF:-1,CL: CDF hd (test)
+http://basic.ioiptv.com:8000/live/santi/santi/5521.ts
+#EXTINF:-1,CL: CDF PREMIUM *
+http://basic.ioiptv.com:8000/live/santi/santi/3782.ts
+#EXTINF:-1,CL: CHV HD*
+http://basic.ioiptv.com:8000/live/santi/santi/3781.ts
+#EXTINF:-1,CL: CNN
+http://basic.ioiptv.com:8000/live/santi/santi/3780.ts
+#EXTINF:-1,CL: EL 13 HD  *
+http://basic.ioiptv.com:8000/live/santi/santi/4000.ts
+#EXTINF:-1,Fox Sports 1 Chile  (Sat1)
+http://basic.ioiptv.com:8000/live/santi/santi/5591.ts
+#EXTINF:-1,CL: FOX Sport HD *
+http://basic.ioiptv.com:8000/live/santi/santi/3779.ts
+#EXTINF:-1,CL: LA RED*
+http://basic.ioiptv.com:8000/live/santi/santi/3778.ts
+#EXTINF:-1,CL: MEGA HD
+http://basic.ioiptv.com:8000/live/santi/santi/3777.ts
+#EXTINF:-1,CL: TELETRAK CHILE
+http://basic.ioiptv.com:8000/live/santi/santi/3776.ts
+#EXTINF:-1,CL: TVN HD
+http://basic.ioiptv.com:8000/live/santi/santi/3775.ts
+#EXTINF:-1,CL: TELE 13*
+http://basic.ioiptv.com:8000/live/santi/santi/3774.ts
+#EXTINF:-1,CL: UCV HD*
+http://basic.ioiptv.com:8000/live/santi/santi/3999.ts
+#EXTINF:-1,VIdeos Portal FoxMix
+http://basic.ioiptv.com:8000/live/santi/santi/4021.ts
+#EXTINF:-1,>>>> COLOMBIA <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3773.ts
+#EXTINF:-1,CO: Ve Plus TV Colombia *
+http://basic.ioiptv.com:8000/live/santi/santi/3772.ts
+#EXTINF:-1,CO: CARACOL INTERNACIONAL*
+http://basic.ioiptv.com:8000/live/santi/santi/3771.ts
+#EXTINF:-1,CO: CARACOL HD
+http://basic.ioiptv.com:8000/live/santi/santi/3770.ts
+#EXTINF:-1,CO: CITYTV
+http://basic.ioiptv.com:8000/live/santi/santi/3769.ts
+#EXTINF:-1,CLARO SPORT
+http://basic.ioiptv.com:8000/live/santi/santi/3768.ts
+#EXTINF:-1,CO: COSMO VISION*
+http://basic.ioiptv.com:8000/live/santi/santi/3767.ts
+#EXTINF:-1,CO: EL TIEMPO
+http://basic.ioiptv.com:8000/live/santi/santi/3766.ts
+#EXTINF:-1,CO: RCN HD
+http://basic.ioiptv.com:8000/live/santi/santi/3765.ts
+#EXTINF:-1,CO: SEÑAL COLOMBIA *
+http://basic.ioiptv.com:8000/live/santi/santi/3764.ts
+#EXTINF:-1,CO: TELEANTIOQUIA
+http://basic.ioiptv.com:8000/live/santi/santi/3763.ts
+#EXTINF:-1,CO: TELEMEDELLIN*
+http://basic.ioiptv.com:8000/live/santi/santi/3762.ts
+#EXTINF:-1,CO: TR3CE HD Colombia
+http://basic.ioiptv.com:8000/live/santi/santi/3761.ts
+#EXTINF:-1,CO: WIN SPORT
+http://basic.ioiptv.com:8000/live/santi/santi/3760.ts
+#EXTINF:-1,>>>> PERU <<<<
+http://basic.ioiptv.com:8000/live/santi/santi/3796.ts
+#EXTINF:-1,PE: America TV
+http://basic.ioiptv.com:8000/live/santi/santi/3795.ts
+#EXTINF:-1,PE: ATV HD*
+http://basic.ioiptv.com:8000/live/santi/santi/3794.ts
+#EXTINF:-1,PE: Capital TV
+http://basic.ioiptv.com:8000/live/santi/santi/3793.ts
+#EXTINF:-1,PE: Movisar Deportes (CMD) *
+http://basic.ioiptv.com:8000/live/santi/santi/3810.ts
+#EXTINF:-1,PE: GOLPERU*
+http://basic.ioiptv.com:8000/live/santi/santi/3792.ts
+#EXTINF:-1,PE: LATINA*
+http://basic.ioiptv.com:8000/live/santi/santi/3807.ts
+#EXTINF:-1,PE: IPE
+http://basic.ioiptv.com:8000/live/santi/santi/3791.ts
+#EXTINF:-1,PE: PANAMERICANA*
+http://basic.ioiptv.com:8000/live/santi/santi/3790.ts
+#EXTINF:-1,PE: PERU MAGICO*
+http://basic.ioiptv.com:8000/live/santi/santi/3789.ts
+#EXTINF:-1,PE: TV Peru*
+http://basic.ioiptv.com:8000/live/santi/santi/3806.ts
+#EXTINF:-1,PE: TV PERU 7.3
+http://basic.ioiptv.com:8000/live/santi/santi/3788.ts
+#EXTINF:-1,PE: TV PERU HD
+http://basic.ioiptv.com:8000/live/santi/santi/3787.ts
+#EXTINF:-1,PE: Willax
+http://basic.ioiptv.com:8000/live/santi/santi/3786.ts
+
+
+
+
 
