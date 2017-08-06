@@ -88,216 +88,6 @@ http://46.249.60.210:15099/play/a01c
 
 
 
-#EXTINF:-1,Channel 4 (HD)
-http://s11.iptvapi.com:8081/HDCH4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,RTE One
-http://s2.iptvapi.com:8081/RTE1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,RTE Two [HD]
-http://s2.iptvapi.com:8081/RTE2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BBC 1 HD
-http://s11.iptvapi.com:8081/HDBBC1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BBC Two [HD]
-http://s11.iptvapi.com:8081/HDBBC2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,ITV
-http://s5.iptvapi.com:8081/ITV1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,ITV 2
-http://s11.iptvapi.com:8081/ITV2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,ITV 3
-http://s2.iptvapi.com:8081/ITV3/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,ITV 4
-http://s10.iptvapi.com:8081/ITV4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,3e
-http://s2.iptvapi.com:8081/3e/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,TV3 IE
-http://s2.iptvapi.com:8081/TV3IRL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky 1
-http://s11.iptvapi.com:8081/Sky1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky 2
-http://s11.iptvapi.com:8081/Sky2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Atlantic
-http://s11.iptvapi.com:8081/SkyAtl/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Dave
-http://s2.iptvapi.com:8081/dave/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,TG4
-http://s11.iptvapi.com:8081/TG4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,TCM +1 UK
-http://s2.iptvapi.com:8081/TCMUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Comedy Xtra
-http://s11.iptvapi.com:8081/CmdyXtr/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,CBS Reality
-http://s2.iptvapi.com:8081/CBSReality/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Cartoon Network UK
-http://s2.iptvapi.com:8081/CARUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,RTEjr
-http://s11.iptvapi.com:8081/RTEJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,DisneyJunior
-http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,DisneyChnl
-http://s11.iptvapi.com:8081/Disney/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Boomerang
-http://s11.iptvapi.com:8081/BOO/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Nick JR/VH1
-http://s11.iptvapi.com:8081/NICKJR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV Hits
-http://s2.iptvapi.com:8081/MTVH/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV MUSIC
-http://s11.iptvapi.com:8081/MTVM/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV Dance
-http://s11.iptvapi.com:8081/MTVD/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV BASE
-http://s2.iptvapi.com:8081/MTVB/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV ROCKS
-http://s11.iptvapi.com:8081/MTVR/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Viva
-http://s2.iptvapi.com:8081/VIVA/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Discovery History
-http://s2.iptvapi.com:8081/DISHist/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,ID UK
-http://s11.iptvapi.com:8081/IDUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Travel Channel+1 UK
-http://s5.iptvapi.com:8081/TRAUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Discovery1
-http://s11.iptvapi.com:8081/DIS1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Discovery Turbo
-http://s11.iptvapi.com:8081/DISTurbo/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Discovery Science
-http://s11.iptvapi.com:8081/DISS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Animal Planet uk
-http://s10.iptvapi.com:8081/ANIUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Greats Movies
-http://s11.iptvapi.com:8081/SkyGreats/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Movies Select
-http://s5.iptvapi.com:8081/SkySelect/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Premiere Movies
-http://s11.iptvapi.com:8081/SkyPremiere/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Action Movies
-http://s2.iptvapi.com:8081/SkyAction/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,SkyThriller Movies
-http://s2.iptvapi.com:8081/SkyCrime/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Comedy Movies
-http://s11.iptvapi.com:8081/SkyComedy/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky ScFiHorror Movies
-http://s11.iptvapi.com:8081/SkySci/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Family Movies
-http://s2.iptvapi.com:8081/SkyFamily/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Movies Disney
-http://s11.iptvapi.com:8081/SkyDisney/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky DramaRom Movies
-http://s11.iptvapi.com:8081/SkyDrama/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,mov4men1
-http://s2.iptvapi.com:8081/M4M/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Viasat Golf
-http://s11.iptvapi.com:8081/VSGOLF/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,British Eurosport2
-http://s11.iptvapi.com:8081/EU2UK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Setanta Ireland
-http://s2.iptvapi.com:8081/SETIRL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Racing UK
-http://s2.iptvapi.com:8081/RACUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Eurosport 1 RU
-http://s2.iptvapi.com:8081/EUru/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Premier Sports
-http://s11.iptvapi.com:8081/PRMSP/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Motors TV
-http://s2.iptvapi.com:8081/MOTUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,British Eurosport
-http://s11.iptvapi.com:8081/EUUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport ESPN
-http://s11.iptvapi.com:8081/BTSpESPN/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sp News HQ
-http://s2.iptvapi.com:8081/SKYSPNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport 3
-http://s2.iptvapi.com:8081/BTSpE/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport 1
-http://s2.iptvapi.com:8081/BTSp1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport 2
-http://s11.iptvapi.com:8081/BTSp2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Box Nation
-http://s10.iptvapi.com:8081/BOX/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports 1
-http://s9.iptvapi.com:8081/SkySP1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports 2
-http://s10.iptvapi.com:8081/SkySP2/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports 3
-http://s11.iptvapi.com:8081/SkySP3/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports 4
-http://s11.iptvapi.com:8081/SkySP4/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports 5
-http://s2.iptvapi.com:8081/SkySP5/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sports F1
-http://s2.iptvapi.com:8081/SkySPf1/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MUTV
-http://s11.iptvapi.com:8081/MUTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Chelsea TV
-http://s11.iptvapi.com:8081/Chls/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,LFC TV
-http://s2.iptvapi.com:8081/LFCTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Discovery Channel Russia (HD)
-http://s2.iptvapi.com:8081/HDDIS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,MTV Live HD
-http://s2.iptvapi.com:8081/HDMTVL/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,HD-Life
-http://s11.iptvapi.com:8081/HDLIFE/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Eurosport 1 HD
-http://s2.iptvapi.com:8081/HDEU/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,SKY NEWS
-http://s2.iptvapi.com:8081/SKYNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Crime Investigation
-http://s2.iptvapi.com:8081/Crime/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Cartoonito
-http://s2.iptvapi.com:8081/CARTOONITO/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Comedy Central
-http://s2.iptvapi.com:8081/COMEDY/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,History UK
-http://s2.iptvapi.com:8081/HISTUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Nat Geo Wild UK
-http://s10.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,National Geographic UK
-http://s2.iptvapi.com:8081/NATGEOUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,H2 UK
-http://s10.iptvapi.com:8081/H2UK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,At The Races
-http://s2.iptvapi.com:8081/ATRACES/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Fox News
-http://s11.iptvapi.com:8081/FOXNEWS/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Real Lives
-http://s2.iptvapi.com:8081/REALLIVES/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,GOLD UK
-http://s11.iptvapi.com:8081/gold/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Eden +1
-http://s11.iptvapi.com:8081/eden/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Home +1
-http://s11.iptvapi.com:8081/home/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Alibi
-http://s11.iptvapi.com:8081/alibi/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Watch
-http://s9.iptvapi.com:8081/watch/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Yesterday +1
-http://s2.iptvapi.com:8081/yesterday/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky living
-http://s2.iptvapi.com:8081/SkyLiving/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Baby TV
-http://s2.iptvapi.com:8081/BABYTV/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Nick UK
-http://s11.iptvapi.com:8081/NICUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,NICK TOONS
-http://s11.iptvapi.com:8081/NICTOON/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Nick Junior
-http://s11.iptvapi.com:8081/NICJRUK/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport 1 HD (test)
-http://s2.iptvapi.com:8081/re-bt1hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,BT Sport 2 HD (test)
-http://s11.iptvapi.com:8081/re-bt2hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sport 1 HD (test)
-http://s9.iptvapi.com:8081/re-skysp1hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sport 2 HD (test)
-http://s9.iptvapi.com:8081/re-skysp2hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sport 4 HD (test)
-http://s11.iptvapi.com:8081/re-skysp4hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sport 3 HD (test)
-http://s2.iptvapi.com:8081/re-skysp3hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
-#EXTINF:-1,Sky Sport 5 HD (test)
-http://s11.iptvapi.com:8081/re-skysp5hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
 
 
 
@@ -312,844 +102,297 @@ http://s11.iptvapi.com:8081/re-skysp5hd/index.m3u8?token=-n0ypqRS7jI_Codrh6kJbQ
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,Big Brother 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/528.ts
-#EXTINF:-1,Big Brother 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/527.ts
-#EXTINF:-1,RTK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/1.ts
-#EXTINF:-1,RTK 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/15.ts
-#EXTINF:-1,RTK 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/16.ts
-#EXTINF:-1,TVSH
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/2.ts
-#EXTINF:-1,RTVM 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/17.ts
-#EXTINF:-1,MRT2 Sat
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/291.ts
-#EXTINF:-1,Alsat M
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/3.ts
-#EXTINF:-1,Alsat M 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/549.ts
-#EXTINF:-1,TV Shenja
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/512.ts
-#EXTINF:-1,KTV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/5.ts
-#EXTINF:-1,Klan
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/4.ts
-#EXTINF:-1,Klan Kosova
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/11.ts
-#EXTINF:-1,Top Channel
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/6.ts
-#EXTINF:-1,21 RTV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/7.ts
-#EXTINF:-1,21TV Maqedonia
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/9.ts
-#EXTINF:-1,21 Popullore
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/10.ts
-#EXTINF:-1,21 Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/8.ts
-#EXTINF:-1,Klan Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/14.ts
-#EXTINF:-1,Bang Bang
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/21.ts
-#EXTINF:-1,Cufo
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/20.ts
-#EXTINF:-1,Tring Tring
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/22.ts
-#EXTINF:-1,Explorer Shkence
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/18.ts
-#EXTINF:-1,Explorer Natyra
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/19.ts
-#EXTINF:-1,Explorer History
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/221.ts
-#EXTINF:-1,Digi Gold 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/514.ts
-#EXTINF:-1,Digi Gold 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/515.ts
-#EXTINF:-1,Digi Gold 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/516.ts
-#EXTINF:-1,Digi Gold 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/517.ts
-#EXTINF:-1,Film Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/24.ts
-#EXTINF:-1,Film Autor
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/26.ts
-#EXTINF:-1,Film Hits
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/25.ts
-#EXTINF:-1,Digitalb Hits 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/12.ts
-#EXTINF:-1,Film Drame
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/27.ts
-#EXTINF:-1,Film Thriler
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/28.ts
-#EXTINF:-1,Film Nje
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/29.ts
-#EXTINF:-1,Film Dy
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/30.ts
-#EXTINF:-1,Tring World
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/34.ts
-#EXTINF:-1,Tring Super
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/39.ts
-#EXTINF:-1,Tring Smile
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/53.ts
-#EXTINF:-1,Tring Shqip
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/42.ts
-#EXTINF:-1,Tring Planet
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/35.ts
-#EXTINF:-1,Tring Max
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/38.ts
-#EXTINF:-1,Tring Life
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/41.ts
-#EXTINF:-1,Tring Komedy
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/40.ts
-#EXTINF:-1,Tring Histori
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/36.ts
-#EXTINF:-1,T
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/13.ts
-#EXTINF:-1,Tring Fantazi
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/37.ts
-#EXTINF:-1,Tring 3Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/43.ts
-#EXTINF:-1,Tring Living
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/48.ts
-#EXTINF:-1,Kino Premium 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/521.ts
-#EXTINF:-1,Kino Premium 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/78.ts
-#EXTINF:-1,Kino Premium 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/522.ts
-#EXTINF:-1,Kino Premium Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/529.ts
-#EXTINF:-1,Sky Histori Al
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/526.ts
-#EXTINF:-1,TV OPOJA
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/525.ts
-#EXTINF:-1,TV21 Mix
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/520.ts
-#EXTINF:-1,Vizion Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/45.ts
-#EXTINF:-1,Muse
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/49.ts
-#EXTINF:-1,Tetova
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/629.ts
-#EXTINF:-1,Stinet
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/33.ts
-#EXTINF:-1,Ora News
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/292.ts
-#EXTINF:-1,Abc News
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/55.ts
-#EXTINF:-1,Top News
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/54.ts
-#EXTINF:-1,Kanal 7
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/47.ts
-#EXTINF:-1,Tip Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/50.ts
-#EXTINF:-1,First Channel
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/46.ts
-#EXTINF:-1,Tirana TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/56.ts
-#EXTINF:-1,21 Junior
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/23.ts
-#EXTINF:-1,Rrokum
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/44.ts
-#EXTINF:-1,Tribuna TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/63.ts
-#EXTINF:-1,TV2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/72.ts
-#EXTINF:-1,MTV Kosova
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/303.ts
-#EXTINF:-1,TV Besa
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/302.ts
-#EXTINF:-1,BBF
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/58.ts
-#EXTINF:-1,Folklorit
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/60.ts
-#EXTINF:-1,Folk Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/57.ts
-#EXTINF:-1,Supersonik TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/65.ts
-#EXTINF:-1,Amol
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/59.ts
-#EXTINF:-1,STV Folk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/68.ts
-#EXTINF:-1,Dasma
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/62.ts
-#EXTINF:-1,ZIKO TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/230.ts
-#EXTINF:-1,Super Sky
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/67.ts
-#EXTINF:-1,Jolly
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/32.ts
-#EXTINF:-1,TV Koha
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/75.ts
-#EXTINF:-1,TV Islam Sq
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/76.ts
-#EXTINF:-1,Peace TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/276.ts
-#EXTINF:-1,A1 Islam
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/69.ts
-#EXTINF:-1,Arta TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/229.ts
-#EXTINF:-1,Club TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/71.ts
-#EXTINF:-1,TV MITROVICA
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/70.ts
-#EXTINF:-1,Top Estrada
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/51.ts
-#EXTINF:-1,Dugagjini
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/299.ts
-#EXTINF:-1,National Geografic AL
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/52.ts
-#EXTINF:-1,A1 Music
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/61.ts
-#EXTINF:-1,ALB UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/300.ts
-#EXTINF:-1,Weding Channel
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/290.ts
-#EXTINF:-1,Sky Nostalgie
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/132.ts
-#EXTINF:-1,Sky Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/138.ts
-#EXTINF:-1,Sky Cinema
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/136.ts
-#EXTINF:-1,Sky Cinema 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/124.ts
-#EXTINF:-1,Sky Cinema 24
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/135.ts
-#EXTINF:-1,Sky Emotion
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/133.ts
-#EXTINF:-1,Sky Atlantic
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/137.ts
-#EXTINF:-1,Sky 13 Street
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/166.ts
-#EXTINF:-1,Sky Crimi
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/131.ts
-#EXTINF:-1,Sky Comedy
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/134.ts
-#EXTINF:-1,Phoenix
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/145.ts
-#EXTINF:-1,National Geografic De
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/164.ts
-#EXTINF:-1,RTL Nitro
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/161.ts
-#EXTINF:-1,RTL 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/162.ts
-#EXTINF:-1,RTL
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/163.ts
-#EXTINF:-1,ZDF
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/167.ts
-#EXTINF:-1,Fox Life
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/151.ts
-#EXTINF:-1,Pro 7
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/158.ts
-#EXTINF:-1,Sixx
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/147.ts
-#EXTINF:-1,Sat 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/146.ts
-#EXTINF:-1,Kabel 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/149.ts
-#EXTINF:-1,Dmaxx
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/165.ts
-#EXTINF:-1,3 Sat
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/157.ts
-#EXTINF:-1,Vox
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/168.ts
-#EXTINF:-1,Super RTL
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/143.ts
-#EXTINF:-1,Kika
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/148.ts
-#EXTINF:-1,Disney Cinemagic
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/153.ts
-#EXTINF:-1,AXN Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/150.ts
-#EXTINF:-1,ORF1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/160.ts
-#EXTINF:-1,ORF2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/159.ts
-#EXTINF:-1,SF1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/140.ts
-#EXTINF:-1,SF2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/141.ts
-#EXTINF:-1,N24
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/125.ts
-#EXTINF:-1,N-TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/144.ts
-#EXTINF:-1,Austria 24
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/154.ts
-#EXTINF:-1,ZDF Neo
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/155.ts
-#EXTINF:-1,Ard
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/156.ts
-#EXTINF:-1,Joiz
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/294.ts
-#EXTINF:-1,7Maxx
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/139.ts
-#EXTINF:-1,Sky select 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/130.ts
-#EXTINF:-1,sky Select 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/129.ts
-#EXTINF:-1,Sky Select 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/128.ts
-#EXTINF:-1,Sky Select 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/127.ts
-#EXTINF:-1,Sky Select 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/126.ts
-#EXTINF:-1,Sky Select 7
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/538.ts
-#EXTINF:-1,Sky Select 6
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/537.ts
-#EXTINF:-1,Sky Select 8
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/539.ts
-#EXTINF:-1,Film Club 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/540.ts
-#EXTINF:-1,Film Club 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/541.ts
-#EXTINF:-1,Film Club 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/542.ts
-#EXTINF:-1,Film Club 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/543.ts
-#EXTINF:-1,Film Club 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/544.ts
-#EXTINF:-1,Film Club 6
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/545.ts
-#EXTINF:-1,Teleclub Cinema
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/548.ts
-#EXTINF:-1,Teleclub star
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/546.ts
-#EXTINF:-1,Teleclub Prime
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/547.ts
-#EXTINF:-1,Super Sport 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/106.ts
-#EXTINF:-1,Super Sport 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/105.ts
-#EXTINF:-1,Super Sport 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/104.ts
-#EXTINF:-1,Super Sport 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/103.ts
-#EXTINF:-1,Super Sport 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/102.ts
-#EXTINF:-1,Super Sport 6
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/536.ts
-#EXTINF:-1,Super Sport 1 HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/531.ts
-#EXTINF:-1,Super Sport 2 HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/532.ts
-#EXTINF:-1,Super Sport 3 HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/533.ts
-#EXTINF:-1,Super Sport 4 HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/534.ts
-#EXTINF:-1,Super Sport 5 HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/535.ts
-#EXTINF:-1,Super Sport Kosova 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/101.ts
-#EXTINF:-1,Super Sport Kosova 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/100.ts
-#EXTINF:-1,Kujtesa Sport 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/635.ts
-#EXTINF:-1,Kujtesa Sport 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/634.ts
-#EXTINF:-1,Kujtesa Sport 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/633.ts
-#EXTINF:-1,Kujtesa Sport 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/632.ts
-#EXTINF:-1,Tring Sport News
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/99.ts
-#EXTINF:-1,Tring Sport 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/98.ts
-#EXTINF:-1,Tring Sport 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/97.ts
-#EXTINF:-1,Tring Sport 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/96.ts
-#EXTINF:-1,Tring Sport 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/95.ts
-#EXTINF:-1,Sky Sport 1 De
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/94.ts
-#EXTINF:-1,Sky Sport 2 De
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/93.ts
-#EXTINF:-1,Sky Bundesliga 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/92.ts
-#EXTINF:-1,Sky Sport Austria
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/91.ts
-#EXTINF:-1,Sport Klub 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/90.ts
-#EXTINF:-1,Sport Klub 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/89.ts
-#EXTINF:-1,Sport klub 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/88.ts
-#EXTINF:-1,Arena Sport 1 HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/82.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/81.ts
-#EXTINF:-1,Sky Calcio 2 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/618.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/80.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/79.ts
-#EXTINF:-1,Arena Sport 1 Sr
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/87.ts
-#EXTINF:-1,Arena Sport  2 Sr
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/86.ts
-#EXTINF:-1,Arena Sport 3 SR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/85.ts
-#EXTINF:-1,Arena Sport 4 Sr
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/84.ts
-#EXTINF:-1,Arena Sport  5 SR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/83.ts
-#EXTINF:-1,BT Sport 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/304.ts
-#EXTINF:-1,BT Sport 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/622.ts
-#EXTINF:-1,Sky Sport 1 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/621.ts
-#EXTINF:-1,Sky Sport 2 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/623.ts
-#EXTINF:-1,Sky Sport3 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/593.ts
-#EXTINF:-1,Sky Sport 4 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/597.ts
-#EXTINF:-1,Sky Sport 5 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/594.ts
-#EXTINF:-1,Sky Sport F1 UK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/595.ts
-#EXTINF:-1,Sky Sport 1 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/309.ts
-#EXTINF:-1,Sky Sport 2 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/620.ts
-#EXTINF:-1,Sky Calcio 1 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/617.ts
-#EXTINF:-1,Sky Calcio 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/619.ts
-#EXTINF:-1,Sky Super Calcio IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/615.ts
-#EXTINF:-1,Bein Sport 1 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/616.ts
-#EXTINF:-1,Bein Sport 2 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/614.ts
-#EXTINF:-1,Bein Sport 3 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/306.ts
-#EXTINF:-1,Bein Sport 4 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/307.ts
-#EXTINF:-1,Bein Sport 5 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/631.ts
-#EXTINF:-1,Bein Sport 6 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/637.ts
-#EXTINF:-1,Bein Sport 7 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/638.ts
-#EXTINF:-1,Bein Sport 8 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/639.ts
-#EXTINF:-1,Bein Sport 9 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/640.ts
-#EXTINF:-1,Bein Sport 10 AR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/641.ts
-#EXTINF:-1,Real Madrid FC
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/627.ts
-#EXTINF:-1,RTS 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/283.ts
-#EXTINF:-1,RTS 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/282.ts
-#EXTINF:-1,RTS 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/530.ts
-#EXTINF:-1,HRT 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/287.ts
-#EXTINF:-1,HRT 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/286.ts
-#EXTINF:-1,HRT 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/285.ts
-#EXTINF:-1,HRT 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/284.ts
-#EXTINF:-1,RTRS
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/274.ts
-#EXTINF:-1,RTL HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/281.ts
-#EXTINF:-1,RTL 2 HR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/280.ts
-#EXTINF:-1,Prva TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/279.ts
-#EXTINF:-1,Prva Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/278.ts
-#EXTINF:-1,Planet Si
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/295.ts
-#EXTINF:-1,Pink
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/273.ts
-#EXTINF:-1,Pink 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/272.ts
-#EXTINF:-1,Pink 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/271.ts
-#EXTINF:-1,Pink Zabava
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/269.ts
-#EXTINF:-1,Pink Western
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/270.ts
-#EXTINF:-1,Klasik
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/252.ts
-#EXTINF:-1,Pink Soap
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/253.ts
-#EXTINF:-1,PINK SCI-FI & FANTASY
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/254.ts
-#EXTINF:-1,Pink Romance
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/255.ts
-#EXTINF:-1,Pink Reality
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/256.ts
-#EXTINF:-1,Pink Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/257.ts
-#EXTINF:-1,Pink M
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/258.ts
-#EXTINF:-1,Pink Koncert
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/259.ts
-#EXTINF:-1,Pink Horror
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/260.ts
-#EXTINF:-1,Pink Folk 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/265.ts
-#EXTINF:-1,Pink Folk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/266.ts
-#EXTINF:-1,Pink Film
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/268.ts
-#EXTINF:-1,Pink Extra
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/267.ts
-#EXTINF:-1,PINK CRIME & MYSTERY
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/261.ts
-#EXTINF:-1,Pink Comedy
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/262.ts
-#EXTINF:-1,Pink Preminium
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/263.ts
-#EXTINF:-1,Pink BH
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/264.ts
-#EXTINF:-1,Al Jazeera balkan
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/228.ts
-#EXTINF:-1,OBN
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/288.ts
-#EXTINF:-1,Nova Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/289.ts
-#EXTINF:-1,HBO Comedy
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/251.ts
-#EXTINF:-1,HBO Adria
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/250.ts
-#EXTINF:-1,RTL Living
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/152.ts
-#EXTINF:-1,Hayat Plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/249.ts
-#EXTINF:-1,Hayat Music
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/248.ts
-#EXTINF:-1,Hayat Folk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/247.ts
-#EXTINF:-1,Hayat Bih
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/246.ts
-#EXTINF:-1,Happy tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/245.ts
-#EXTINF:-1,BHT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/244.ts
-#EXTINF:-1,Face TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/243.ts
-#EXTINF:-1,Doma Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/242.ts
-#EXTINF:-1,DM Sat
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/241.ts
-#EXTINF:-1,Discovery src
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/240.ts
-#EXTINF:-1,Atlas TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/239.ts
-#EXTINF:-1,Cinestar Premiere
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/238.ts
-#EXTINF:-1,Cinestar
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/237.ts
-#EXTINF:-1,Cinemax2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/235.ts
-#EXTINF:-1,Cinemax
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/236.ts
-#EXTINF:-1,Balkanika
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/223.ts
-#EXTINF:-1,Vip TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/226.ts
-#EXTINF:-1,BN TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/232.ts
-#EXTINF:-1,BN Music
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/231.ts
-#EXTINF:-1,BH TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/233.ts
-#EXTINF:-1,B 92
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/234.ts
-#EXTINF:-1,RTV CG
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/227.ts
-#EXTINF:-1,Valentino
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/225.ts
-#EXTINF:-1,KCN 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/277.ts
-#EXTINF:-1,KCN 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/275.ts
-#EXTINF:-1,MRTV 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/123.ts
-#EXTINF:-1,MRTV 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/122.ts
-#EXTINF:-1,ORBIS
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/121.ts
-#EXTINF:-1,Telma
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/115.ts
-#EXTINF:-1,Alfa Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/116.ts
-#EXTINF:-1,kanal 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/120.ts
-#EXTINF:-1,Kanal 5 plus
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/119.ts
-#EXTINF:-1,Sitel 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/117.ts
-#EXTINF:-1,Sitel
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/118.ts
-#EXTINF:-1,MRTV Sat 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/220.ts
-#EXTINF:-1,Mrtv Sobraniski
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/213.ts
-#EXTINF:-1,TV+
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/636.ts
-#EXTINF:-1,Roma TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/114.ts
-#EXTINF:-1,TV Nova
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/142.ts
-#EXTINF:-1,Kanal D
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/169.ts
-#EXTINF:-1,Star Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/174.ts
-#EXTINF:-1,ATV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/170.ts
-#EXTINF:-1,ATV Avrupa
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/171.ts
-#EXTINF:-1,Show tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/172.ts
-#EXTINF:-1,Show Turk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/173.ts
-#EXTINF:-1,TV7
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/182.ts
-#EXTINF:-1,TV7 int
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/181.ts
-#EXTINF:-1,TV 8
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/204.ts
-#EXTINF:-1,Fox Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/178.ts
-#EXTINF:-1,TV 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/180.ts
-#EXTINF:-1,NTV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/176.ts
-#EXTINF:-1,NTV Spor
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/177.ts
-#EXTINF:-1,Flash Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/202.ts
-#EXTINF:-1,Kral
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/185.ts
-#EXTINF:-1,TVNET
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/184.ts
-#EXTINF:-1,TRT HD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/188.ts
-#EXTINF:-1,TRT Turk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/191.ts
-#EXTINF:-1,TRT Muzik
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/190.ts
-#EXTINF:-1,TRT Diyanet
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/193.ts
-#EXTINF:-1,TRT Cocuk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/192.ts
-#EXTINF:-1,TRT Avaz
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/189.ts
-#EXTINF:-1,Tek Rumeli
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/196.ts
-#EXTINF:-1,Rumeli TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/197.ts
-#EXTINF:-1,Balkan TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/183.ts
-#EXTINF:-1,Dugun TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/208.ts
-#EXTINF:-1,360 Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/207.ts
-#EXTINF:-1,24Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/206.ts
-#EXTINF:-1,Haber Turk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/187.ts
-#EXTINF:-1,CNN Turk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/203.ts
-#EXTINF:-1,Dream TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/199.ts
-#EXTINF:-1,Dream Turk
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/200.ts
-#EXTINF:-1,Dost TV
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/195.ts
-#EXTINF:-1,Bereket Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/201.ts
-#EXTINF:-1,Meltem
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/205.ts
-#EXTINF:-1,Yaban
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/198.ts
-#EXTINF:-1,Hugo Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/186.ts
-#EXTINF:-1,France 0
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/551.ts
-#EXTINF:-1,France 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/555.ts
-#EXTINF:-1,France 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/554.ts
-#EXTINF:-1,France 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/553.ts
-#EXTINF:-1,France 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/552.ts
-#EXTINF:-1,Cine FX
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/563.ts
-#EXTINF:-1,Cine Classic
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/562.ts
-#EXTINF:-1,Canal+ Famiz
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/560.ts
-#EXTINF:-1,Canal+ Familly
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/558.ts
-#EXTINF:-1,Canal+ decale
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/559.ts
-#EXTINF:-1,Canal+
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/557.ts
-#EXTINF:-1,CANAL J
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/576.ts
-#EXTINF:-1,ALACARTE 1
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/592.ts
-#EXTINF:-1,ALACARTE 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/591.ts
-#EXTINF:-1,ALACARTE 3
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/590.ts
-#EXTINF:-1,ALACARTE 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/589.ts
-#EXTINF:-1,ALACARTE 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/588.ts
-#EXTINF:-1,Discovery Science
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/568.ts
-#EXTINF:-1,Discovery
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/569.ts
-#EXTINF:-1,Planete+
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/565.ts
-#EXTINF:-1,CHASSHE ET PECHE
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/573.ts
-#EXTINF:-1,ZOUZOU
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/587.ts
-#EXTINF:-1,TIJI
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/586.ts
-#EXTINF:-1,NICLODEON
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/581.ts
-#EXTINF:-1,MANGAS
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/582.ts
-#EXTINF:-1,GULLI
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/575.ts
-#EXTINF:-1,Ushuaja
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/571.ts
-#EXTINF:-1,Tout Le History
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/572.ts
-#EXTINF:-1,National wild
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/566.ts
-#EXTINF:-1,National Geografic FR
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/567.ts
-#EXTINF:-1,DiSNEY XD
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/579.ts
-#EXTINF:-1,DISNEY CINEMA
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/577.ts
-#EXTINF:-1,DiSNEY CHANNEL
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/578.ts
-#EXTINF:-1,CARTOON NETWORK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/584.ts
-#EXTINF:-1,BOOMERANG
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/580.ts
-#EXTINF:-1,BOING
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/585.ts
-#EXTINF:-1,Sky folk MK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/550.ts
-#EXTINF:-1,Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/222.ts
-#EXTINF:-1,Serie club
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/561.ts
-#EXTINF:-1,RMC
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/570.ts
-#EXTINF:-1,OCS CHOK
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/564.ts
-#EXTINF:-1,ANIMAUX
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/574.ts
-#EXTINF:-1,M6
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/556.ts
-#EXTINF:-1,GAME ONE
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/583.ts
-#EXTINF:-1,Sky Cinema1 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/624.ts
-#EXTINF:-1,Cinema Comedy IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/606.ts
-#EXTINF:-1,Sky Prima Fila 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/596.ts
-#EXTINF:-1,Sky Prima Fila 5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/598.ts
-#EXTINF:-1,Sky Prima Fila 6
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/599.ts
-#EXTINF:-1,Sky Prima Fila 7
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/600.ts
-#EXTINF:-1,Sky Prima Fila 8
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/601.ts
-#EXTINF:-1,Sky Prima Fila 9
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/602.ts
-#EXTINF:-1,Sky Prima Fila 10
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/603.ts
-#EXTINF:-1,Sky Uno IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/626.ts
-#EXTINF:-1,DMaxx IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/604.ts
-#EXTINF:-1,History Channel IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/612.ts
-#EXTINF:-1,National Geografic Wild IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/608.ts
-#EXTINF:-1,National Geografic People
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/607.ts
-#EXTINF:-1,Rai Movie
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/308.ts
-#EXTINF:-1,Rete 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/305.ts
-#EXTINF:-1,Mediaset La-5
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/605.ts
-#EXTINF:-1,Marco Polo
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/609.ts
-#EXTINF:-1,LA 7 IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/610.ts
-#EXTINF:-1,K2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/611.ts
-#EXTINF:-1,Focus IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/625.ts
-#EXTINF:-1,Carton network IT
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/613.ts
-#EXTINF:-1,Mekke
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/209.ts
-#EXTINF:-1,Medina
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/210.ts
-#EXTINF:-1,Katar Tv
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/214.ts
-#EXTINF:-1,Dubai one
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/212.ts
-#EXTINF:-1,MBC Maxx
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/218.ts
-#EXTINF:-1,MBC Action 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/219.ts
-#EXTINF:-1,MBC Action
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/217.ts
-#EXTINF:-1,MBC 4
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/216.ts
-#EXTINF:-1,MBC 2
-http://albanet.mytring.al:8000/live/soloturn/tetor2017/215.ts
+#EXTINF:0,CA: TSC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14969.ts
+#EXTINF:0,USA: A&E
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9315.ts
+#EXTINF:0,USA: ABC News
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/2931.ts
+#EXTINF:0,USA: ABC Spark HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15243.ts
+#EXTINF:0,USA: AFN SPORTS
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9516.ts
+#EXTINF:0,USA: AFN SPECTRUM
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/10166.ts
+#EXTINF:0,USA: AFN Prime Atlantic
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/10167.ts
+#EXTINF:0,USA: AFN MOVIE
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9488.ts
+#EXTINF:0,USA: AFN SPORTS 2
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9517.ts
+#EXTINF:0,USA: ABC W HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15244.ts
+#EXTINF:0,USA: 360 North
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3863.ts
+#EXTINF:0,USA: Animal Planet
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15250.ts
+#EXTINF:0,USA: Astro SUPERSPORT 3
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9520.ts
+#EXTINF:0,USA: ASD TV
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3861.ts
+#EXTINF:0,USA: AMC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8415.ts
+#EXTINF:0,USA: Astro SUPERSPORT 1
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9518.ts
+#EXTINF:0,USA: Church Channel
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9536.ts
+#EXTINF:0,USA: Discovery Science
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9546.ts
+#EXTINF:0,USA: DTX
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9547.ts
+#EXTINF:0,USA: FOX Sport 1
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8681.ts
+#EXTINF:0,USA: Comedy Central
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15249.ts
+#EXTINF:0,USA: Discovery Channel
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15248.ts
+#EXTINF:0,USA: Food Network
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9337.ts
+#EXTINF:0,USA: Family CHRGD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15246.ts
+#EXTINF:0,USA: Bloomberg
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9510.ts
+#EXTINF:0,USA: Eurosport 1
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14079.ts
+#EXTINF:0,USA: Family Junior HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15247.ts
+#EXTINF:0,USA: CNN HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8692.ts
+#EXTINF:0,USA: Bravo
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8691.ts
+#EXTINF:0,USA: ESPN 2
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/13230.ts
+#EXTINF:0,USA: Channel 11
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3860.ts
+#EXTINF:0,USA: Country Music Channel
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3859.ts
+#EXTINF:0,USA: CBS News HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9508.ts
+#EXTINF:0,USA: Fight Sport
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8308.ts
+#EXTINF:0,USA: E!
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8417.ts
+#EXTINF:0,USA: C-SPAN
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9318.ts
+#EXTINF:0,USA: CSPAN 2
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9319.ts
+#EXTINF:0,USA: C-SPAN 3
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9320.ts
+#EXTINF:0,USA: E! Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9321.ts
+#EXTINF:0,USA: BeIN Sports USA HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/13227.ts
+#EXTINF:0,USA: Astro SUPERSPORT 2
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9519.ts
+#EXTINF:0,USA: Fox Sport 2
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9391.ts
+#EXTINF:0,USA: NBA TV
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8309.ts
+#EXTINF:0,USA: HBO FAMILY
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8414.ts
+#EXTINF:0,USA: HBO HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8411.ts
+#EXTINF:0,USA: HBO ZONE
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8412.ts
+#EXTINF:0,USA: NBC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8393.ts
+#EXTINF:0,USA: Fox Sports 506 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9528.ts
+#EXTINF:0,USA: LIFE TIME
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8687.ts
+#EXTINF:0,USA: HBO Comedy
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9831.ts
+#EXTINF:0,USA: History HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15245.ts
+#EXTINF:0,USA: Mello TV
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9502.ts
+#EXTINF:0,USA: NBC Sports Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9523.ts
+#EXTINF:0,USA: MLB Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15239.ts
+#EXTINF:0,USA: Fox 43
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/10174.ts
+#EXTINF:0,USA: CBN News
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3872.ts
+#EXTINF:0,USA: Starz Edge
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/10171.ts
+#EXTINF:0,USA: TLC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9480.ts
+#EXTINF:0,USA: NHL Network
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/12479.ts
+#EXTINF:0,USA: RT Documentary
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9497.ts
+#EXTINF:0,USA: RT America HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9498.ts
+#EXTINF:0,USA: Nick
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9333.ts
+#EXTINF:0,USA: NBCSN Golf HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9526.ts
+#EXTINF:0,USA: Nasa TV HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9499.ts
+#EXTINF:0,USA: Spike HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/13179.ts
+#EXTINF:0,USA: Sportsnet West HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/13232.ts
+#EXTINF:0,USA: NFL Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8693.ts
+#EXTINF:0,USA: Sporstnet 360
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14036.ts
+#EXTINF:0,USA: Sporstnet East HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14035.ts
+#EXTINF:0,USA: Sporstnet Ontario HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14034.ts
+#EXTINF:0,USA: Sporstnet Pacific HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14033.ts
+#EXTINF:0,USA: Sportnet One HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14037.ts
+#EXTINF:0,USA: Sportsnet World
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14032.ts
+#EXTINF:0,USA: TNT HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/13180.ts
+#EXTINF:0,USA: PAC-12 Washington HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/10143.ts
+#EXTINF:0,USA: PAC Mountain 1080P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14067.ts
+#EXTINF:0,USA: PAC Network National 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14068.ts
+#EXTINF:0,USA: PAC-12 Net. (Arizona) 1080P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14070.ts
+#EXTINF:0,USA: PAC-12 Net. (Arizona) 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14069.ts
+#EXTINF:0,USA: PAC-12 Net. (Bay Area) 1080P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14072.ts
+#EXTINF:0,USA: PAC-12 Net. (Bay Area) 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14071.ts
+#EXTINF:0,USA: PAC-12 Net. (Encore)
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14078.ts
+#EXTINF:0,USA: PAC-12 Net. (Los Angeles) 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14073.ts
+#EXTINF:0,USA: PAC-12 Net. (Oregon) 1080P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14075.ts
+#EXTINF:0,USA: TBN
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9542.ts
+#EXTINF:0,USA: PAC-12 Net. (Washington) 1080P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14077.ts
+#EXTINF:0,USA: PAC-12 Net. (Washington) 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14076.ts
+#EXTINF:0,USA: PAC-12 Net. (Oregon) 720P
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/14074.ts
+#EXTINF:0,USA: Star Z Cinema
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9832.ts
+#EXTINF:0,USA: TBS HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8685.ts
+#EXTINF:0,USA: The Florida Channel
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9495.ts
+#EXTINF:0,USA: Travel Channel HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9476.ts
+#EXTINF:0,USA: Tru TV HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9330.ts
+#EXTINF:0,USA: USA Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9329.ts
+#EXTINF:0,USA: Willow HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9328.ts
+#EXTINF:0,USA: WWE
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9530.ts
+#EXTINF:0,USA: Tsn Sport 1 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8293.ts
+#EXTINF:0,USA: Tsn Sport 2 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8292.ts
+#EXTINF:0,USA: Tsn Sport 3 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8291.ts
+#EXTINF:0,USA: Tsn Sport 4 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8290.ts
+#EXTINF:0,USA: Tsn-Sport 5 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8289.ts
+#EXTINF:0,USA: Tsn Sport 5 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/12547.ts
+#EXTINF:0,USA: WWE Network
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/8410.ts
+#EXTINF:0,USA: UALR TV
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/3865.ts
+#EXTINF:0,USA: Teletoon
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15251.ts
+#EXTINF:0,USA: WHDH
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/9491.ts
+#EXTINF:0,USA: ABC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16858.ts
+#EXTINF:0,USA: BBC America
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16857.ts
+#EXTINF:0,USA: BNN HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16856.ts
+#EXTINF:0,USA: CBC HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16855.ts
+#EXTINF:0,USA: CBC News HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16854.ts
+#EXTINF:0,USA: CBC Vancover
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16853.ts
+#EXTINF:0,USA: CBS HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16852.ts
+#EXTINF:0,USA: CBS Sports Network HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16851.ts
+#EXTINF:0,USA: CBS W HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16850.ts
+#EXTINF:0,USA: CityTV Vancouver
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16815.ts
+#EXTINF:0,USA: CNN News HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16813.ts
+#EXTINF:0,USA: CP24 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16821.ts
+#EXTINF:0,USA: CTV HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16820.ts
+#EXTINF:0,USA: Discovery Channel CA HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16823.ts
+#EXTINF:0,USA: Disney XD HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16822.ts
+#EXTINF:0,USA: Family HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16825.ts
+#EXTINF:0,USA: FOX HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16824.ts
+#EXTINF:0,USA: Fox News HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16826.ts
+#EXTINF:0,USA: FX HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16835.ts
+#EXTINF:0,USA: FXX HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16834.ts
+#EXTINF:0,USA: Global BC
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16833.ts
+#EXTINF:0,USA: Global HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16832.ts
+#EXTINF:0,USA: Hallmark Channel HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16831.ts
+#EXTINF:0,USA: HGTV CA HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16830.ts
+#EXTINF:0,USA: HGTV HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16829.ts
+#EXTINF:0,USA: HLN HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16828.ts
+#EXTINF:0,USA: ID HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16827.ts
+#EXTINF:0,USA: NBC W HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16849.ts
+#EXTINF:0,USA: OMNI 1 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16848.ts
+#EXTINF:0,USA: OMNI 2 HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16847.ts
+#EXTINF:0,USA: OWN HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16846.ts
+#EXTINF:0,USA: PBS HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16845.ts
+#EXTINF:0,USA: Slice HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16844.ts
+#EXTINF:0,USA: Starz Comedy
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16843.ts
+#EXTINF:0,USA: Starz Encore
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16842.ts
+#EXTINF:0,USA: Starz Kids & Family
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16841.ts
+#EXTINF:0,USA: Sundance HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16840.ts
+#EXTINF:0,USA: SYFY HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16839.ts
+#EXTINF:0,USA: TLC CA HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16838.ts
+#EXTINF:0,USA: Velocity HD
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16837.ts
+#EXTINF:0,USA: YTV HD CA
+http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/16836.ts
