@@ -2,17 +2,418 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
+#EXTINF:0,MAIS GLOBOSAT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/645.ts
+#EXTINF:0,A&E
+http://dragoniptv99.dyndns.tv:8505/live/django/django/703.ts
+#EXTINF:0,ANIMAL PLANET
+http://dragoniptv99.dyndns.tv:8505/live/django/django/702.ts
+#EXTINF:0,ANIMAL PLANET HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/769.ts
+#EXTINF:0,APARECIDA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/701.ts
+#EXTINF:0,ARTE 1
+http://dragoniptv99.dyndns.tv:8505/live/django/django/700.ts
+#EXTINF:0,AXN
+http://dragoniptv99.dyndns.tv:8505/live/django/django/699.ts
+#EXTINF:0,AXN HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/768.ts
+#EXTINF:0,BAND HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/767.ts
+#EXTINF:0,BAND NEWS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/697.ts
+#EXTINF:0,BAND SPORTS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/696.ts
+#EXTINF:0,BAND SPORTS HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/766.ts
+#EXTINF:0,BANDEIRANTES
+http://dragoniptv99.dyndns.tv:8505/live/django/django/695.ts
+#EXTINF:0,BIS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/693.ts
+#EXTINF:0,BIS HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/765.ts
+#EXTINF:0,BOOMERANG
+http://dragoniptv99.dyndns.tv:8505/live/django/django/692.ts
+#EXTINF:0,CANAL BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/691.ts
+#EXTINF:0,CANAL RURAL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/690.ts
+#EXTINF:0,CANAL SONY
+http://dragoniptv99.dyndns.tv:8505/live/django/django/689.ts
+#EXTINF:0,CANAL SONY HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/764.ts
+#EXTINF:0,CANCAO NOVA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/688.ts
+#EXTINF:0,CARTOON NETWORK
+http://dragoniptv99.dyndns.tv:8505/live/django/django/687.ts
+#EXTINF:0,CARTOON NETWORK HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/704.ts
+#EXTINF:0,CINEMAX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/686.ts
+#EXTINF:0,COMBATE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/685.ts
+#EXTINF:0,COMBATE HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/763.ts
+#EXTINF:0,COMEDY CENTRAL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/684.ts
+#EXTINF:0,CURTA!
+http://dragoniptv99.dyndns.tv:8505/live/django/django/683.ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/682.ts
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/762.ts
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://dragoniptv99.dyndns.tv:8505/live/django/django/681.ts
+#EXTINF:0,DISCOVERY H&H
+http://dragoniptv99.dyndns.tv:8505/live/django/django/680.ts
+#EXTINF:0,DISCOVERY H&H HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/761.ts
+#EXTINF:0,DISCOVERY KIDS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/679.ts
+#EXTINF:0,DISCOVERY THEATER HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/760.ts
+#EXTINF:0,DISCOVERY SCIENCE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/678.ts
+#EXTINF:0,DISCOVERY TURBO
+http://dragoniptv99.dyndns.tv:8505/live/django/django/677.ts
+#EXTINF:0,DISCOVERY TURBO HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/759.ts
+#EXTINF:0,DISCOVERY WORLD HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/758.ts
+#EXTINF:0,DISNEY
+http://dragoniptv99.dyndns.tv:8505/live/django/django/676.ts
+#EXTINF:0,DISNEY JR
+http://dragoniptv99.dyndns.tv:8505/live/django/django/675.ts
+#EXTINF:0,DISNEY XD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/674.ts
+#EXTINF:0,E!
+http://dragoniptv99.dyndns.tv:8505/live/django/django/673.ts
+#EXTINF:0,EI MAXX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/672.ts
+#EXTINF:0,EI MAXX 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/671.ts
+#EXTINF:0,EI MAXX 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/757.ts
+#EXTINF:0,EI MAXX HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/756.ts
+#EXTINF:0,ESPN
+http://dragoniptv99.dyndns.tv:8505/live/django/django/670.ts
+#EXTINF:0,ESPN+ HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/755.ts
+#EXTINF:0,ESPN BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/669.ts
+#EXTINF:0,ESPN BRASIL HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/754.ts
+#EXTINF:0,ESPN HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/753.ts
+#EXTINF:0,ESPORTE INTERATIVO HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/752.ts
+#EXTINF:0,FISH TV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/668.ts
+#EXTINF:0,FOOD NETWORK
+http://dragoniptv99.dyndns.tv:8505/live/django/django/667.ts
+#EXTINF:0,FOX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/666.ts
+#EXTINF:0,FOX PREMIUM HD 1
+http://dragoniptv99.dyndns.tv:8505/live/django/django/751.ts
+#EXTINF:0,FOX PREMIUM HD 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/750.ts
+#EXTINF:0,FOX HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/749.ts
+#EXTINF:0,FOX LIFE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/665.ts
+#EXTINF:0,FOX LIFE HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/748.ts
+#EXTINF:0,FOX SPORTS HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/747.ts
+#EXTINF:0,FOX SPORTS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/664.ts
+#EXTINF:0,FOX SPORTS 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/663.ts
+#EXTINF:0,FOX SPORTS 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/746.ts
+#EXTINF:0,FUTURA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/662.ts
+#EXTINF:0,FX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/661.ts
+#EXTINF:0,FX HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/745.ts
+#EXTINF:0,GLOBO BRASILIA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/566.ts
+#EXTINF:0,GLOBO MG
+http://dragoniptv99.dyndns.tv:8505/live/django/django/567.ts
+#EXTINF:0,GLOBO RJ
+http://dragoniptv99.dyndns.tv:8505/live/django/django/571.ts
+#EXTINF:0,GLOBO RJ HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/744.ts
+#EXTINF:0,GLOBO SP
+http://dragoniptv99.dyndns.tv:8505/live/django/django/660.ts
+#EXTINF:0,GLOBO NEWS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/659.ts
+#EXTINF:0,GLOOB
+http://dragoniptv99.dyndns.tv:8505/live/django/django/658.ts
+#EXTINF:0,GNT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/657.ts
+#EXTINF:0,GNT HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/743.ts
+#EXTINF:0,H2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/656.ts
+#EXTINF:0,H2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/742.ts
+#EXTINF:0,HBO
+http://dragoniptv99.dyndns.tv:8505/live/django/django/655.ts
+#EXTINF:0,HBO 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/741.ts
+#EXTINF:0,HBO FAMILY
+http://dragoniptv99.dyndns.tv:8505/live/django/django/654.ts
+#EXTINF:0,HBO FAMILY HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/740.ts
+#EXTINF:0,HBO HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/739.ts
+#EXTINF:0,HBO PLUS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/653.ts
+#EXTINF:0,HBO PLUS *E
+http://dragoniptv99.dyndns.tv:8505/live/django/django/652.ts
+#EXTINF:0,HBO PLUS HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/738.ts
+#EXTINF:0,HBO SIGNATURE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/651.ts
+#EXTINF:0,HBO SIGNATURE HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/737.ts
+#EXTINF:0,HBO 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/650.ts
+#EXTINF:0,HISTORY CHANNEL HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/736.ts
+#EXTINF:0,IDEAL TV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/647.ts
+#EXTINF:0,ID
+http://dragoniptv99.dyndns.tv:8505/live/django/django/648.ts
+#EXTINF:0,ID HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/735.ts
+#EXTINF:0,I-SAT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/649.ts
+#EXTINF:0,LIFETIME
+http://dragoniptv99.dyndns.tv:8505/live/django/django/646.ts
+#EXTINF:0,MAX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/644.ts
+#EXTINF:0,MAX PRIME
+http://dragoniptv99.dyndns.tv:8505/live/django/django/643.ts
+#EXTINF:0,MAX PRIME *E
+http://dragoniptv99.dyndns.tv:8505/live/django/django/642.ts
+#EXTINF:0,MAX UP
+http://dragoniptv99.dyndns.tv:8505/live/django/django/641.ts
+#EXTINF:0,MEGAPIX
+http://dragoniptv99.dyndns.tv:8505/live/django/django/640.ts
+#EXTINF:0,MEGAPIX HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/734.ts
+#EXTINF:0,MTV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/639.ts
+#EXTINF:0,MULTISHOW
+http://dragoniptv99.dyndns.tv:8505/live/django/django/638.ts
+#EXTINF:0,MULTISHOW HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/733.ts
+#EXTINF:0,MUSIC BOX BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/637.ts
+#EXTINF:0,NATGEO WILD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/636.ts
+#EXTINF:0,NATGEO WILD HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/732.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://dragoniptv99.dyndns.tv:8505/live/django/django/635.ts
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/731.ts
+#EXTINF:0,NBR
+http://dragoniptv99.dyndns.tv:8505/live/django/django/634.ts
+#EXTINF:0,NHK
+http://dragoniptv99.dyndns.tv:8505/live/django/django/633.ts
+#EXTINF:0,NICK JR
+http://dragoniptv99.dyndns.tv:8505/live/django/django/632.ts
+#EXTINF:0,NICKELODEON
+http://dragoniptv99.dyndns.tv:8505/live/django/django/631.ts
+#EXTINF:0,NOVO TEMPO
+http://dragoniptv99.dyndns.tv:8505/live/django/django/630.ts
+#EXTINF:0,OFF
+http://dragoniptv99.dyndns.tv:8505/live/django/django/629.ts
+#EXTINF:0,OFF HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/730.ts
+#EXTINF:0,PARAMOUNT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/628.ts
+#EXTINF:0,PARAMOUNT HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/729.ts
+#EXTINF:0,PLAY TV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/627.ts
+#EXTINF:0,PREMIERE CLUBES HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/728.ts
+#EXTINF:0,PREMIERE CLUBES
+http://dragoniptv99.dyndns.tv:8505/live/django/django/617.ts
+#EXTINF:0,PREMIERE 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/625.ts
+#EXTINF:0,PREMIERE 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/727.ts
+#EXTINF:0,PREMIERE 3
+http://dragoniptv99.dyndns.tv:8505/live/django/django/624.ts
+#EXTINF:0,PREMIERE 3 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/726.ts
+#EXTINF:0,PREMIERE 4
+http://dragoniptv99.dyndns.tv:8505/live/django/django/623.ts
+#EXTINF:0,PREMIERE 4 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/725.ts
+#EXTINF:0,PREMIERE 5
+http://dragoniptv99.dyndns.tv:8505/live/django/django/622.ts
+#EXTINF:0,PREMIERE 5 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/724.ts
+#EXTINF:0,PREMIERE 6
+http://dragoniptv99.dyndns.tv:8505/live/django/django/621.ts
+#EXTINF:0,PREMIERE 7
+http://dragoniptv99.dyndns.tv:8505/live/django/django/620.ts
+#EXTINF:0,PREMIERE 8
+http://dragoniptv99.dyndns.tv:8505/live/django/django/619.ts
+#EXTINF:0,PREMIERE 9
+http://dragoniptv99.dyndns.tv:8505/live/django/django/618.ts
+#EXTINF:0,PRIME BOX BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/616.ts
+#EXTINF:0,RBI
+http://dragoniptv99.dyndns.tv:8505/live/django/django/615.ts
+#EXTINF:0,RBS TV POA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/614.ts
+#EXTINF:0,RECORD HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/723.ts
+#EXTINF:0,RECORD NEWS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/613.ts
+#EXTINF:0,RECORDTV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/612.ts
+#EXTINF:0,REDE BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/611.ts
+#EXTINF:0,REDE TV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/610.ts
+#EXTINF:0,REDETV HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/722.ts
+#EXTINF:0,REDE VIDA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/609.ts
+#EXTINF:0,SBT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/607.ts
+#EXTINF:0,SBT HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/721.ts
+#EXTINF:0,SIC INTERNACIONAL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/604.ts
+#EXTINF:0,SPACE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/603.ts
+#EXTINF:0,SPACE HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/720.ts
+#EXTINF:0,SPORTV 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/719.ts
+#EXTINF:0,SPORTV 3 HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/718.ts
+#EXTINF:0,SPORTV HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/717.ts
+#EXTINF:0,SPORTV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/602.ts
+#EXTINF:0,SPORTV 2
+http://dragoniptv99.dyndns.tv:8505/live/django/django/601.ts
+#EXTINF:0,SPORTV 2 ALTERNATIVO
+http://dragoniptv99.dyndns.tv:8505/live/django/django/600.ts
+#EXTINF:0,SPORTV 3
+http://dragoniptv99.dyndns.tv:8505/live/django/django/599.ts
+#EXTINF:0,SPORTV ALTERNATIVO
+http://dragoniptv99.dyndns.tv:8505/live/django/django/598.ts
+#EXTINF:0,STUDIO UNIVERSAL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/597.ts
+#EXTINF:0,SYFY
+http://dragoniptv99.dyndns.tv:8505/live/django/django/596.ts
+#EXTINF:0,TBS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/595.ts
+#EXTINF:0,TBS HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/716.ts
+#EXTINF:0,TC ACTION HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/715.ts
+#EXTINF:0,TC FUN HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/714.ts
+#EXTINF:0,TC PIPOCA HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/713.ts
+#EXTINF:0,TC PREMIUM HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/712.ts
+#EXTINF:0,TC TOUCH HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/711.ts
+#EXTINF:0,TCM
+http://dragoniptv99.dyndns.tv:8505/live/django/django/594.ts
+#EXTINF:0,TC ACTION
+http://dragoniptv99.dyndns.tv:8505/live/django/django/593.ts
+#EXTINF:0,TC CULT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/592.ts
+#EXTINF:0,TC FUN
+http://dragoniptv99.dyndns.tv:8505/live/django/django/591.ts
+#EXTINF:0,TC PIPOCA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/590.ts
+#EXTINF:0,TC PREMIUM
+http://dragoniptv99.dyndns.tv:8505/live/django/django/589.ts
+#EXTINF:0,TC TOUCH
+http://dragoniptv99.dyndns.tv:8505/live/django/django/588.ts
+#EXTINF:0,TERRA VIVA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/587.ts
+#EXTINF:0,THE HISTORY
+http://dragoniptv99.dyndns.tv:8505/live/django/django/586.ts
+#EXTINF:0,TLC
+http://dragoniptv99.dyndns.tv:8505/live/django/django/585.ts
+#EXTINF:0,TNT
+http://dragoniptv99.dyndns.tv:8505/live/django/django/584.ts
+#EXTINF:0,TNT HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/710.ts
+#EXTINF:0,TNT SERIES
+http://dragoniptv99.dyndns.tv:8505/live/django/django/583.ts
+#EXTINF:0,TNT SERIES HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/709.ts
+#EXTINF:0,TOONCAST
+http://dragoniptv99.dyndns.tv:8505/live/django/django/582.ts
+#EXTINF:0,TRUE TV
+http://dragoniptv99.dyndns.tv:8505/live/django/django/581.ts
+#EXTINF:0,TV ANHANGUERA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/568.ts
+#EXTINF:0,TV BRASIL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/580.ts
+#EXTINF:0,TV CULTURA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/579.ts
+#EXTINF:0,TV RA TIM BUM
+http://dragoniptv99.dyndns.tv:8505/live/django/django/578.ts
+#EXTINF:0,TV TEM BAURU
+http://dragoniptv99.dyndns.tv:8505/live/django/django/569.ts
+#EXTINF:0,TV TEM SOROCABA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/570.ts
+#EXTINF:0,TVE
+http://dragoniptv99.dyndns.tv:8505/live/django/django/577.ts
+#EXTINF:0,UNIVERSAL CHANNEL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/576.ts
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/708.ts
+#EXTINF:0,VH1 MEGA HITS
+http://dragoniptv99.dyndns.tv:8505/live/django/django/575.ts
+#EXTINF:0,VIVA
+http://dragoniptv99.dyndns.tv:8505/live/django/django/574.ts
+#EXTINF:0,VIVA HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/707.ts
+#EXTINF:0,WARNER CHANNEL
+http://dragoniptv99.dyndns.tv:8505/live/django/django/573.ts
+#EXTINF:0,WARNER CHANNEL HD
+http://dragoniptv99.dyndns.tv:8505/live/django/django/705.ts
 
 
 
-#EXTM3U
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,FOX
 http://185.26.174.67:44444/play/a010
 #EXTINF:-1,APPALCO
