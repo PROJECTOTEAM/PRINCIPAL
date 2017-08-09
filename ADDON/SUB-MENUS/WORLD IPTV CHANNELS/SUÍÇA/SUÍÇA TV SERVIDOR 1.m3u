@@ -3,77 +3,47 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-
-
-#EXTINF:-1, ch_76_1
-http://94.158.80.117:9000/play/ch_76_1
-#EXTINF:-1, ch_53_2
-http://94.158.80.117:9000/play/ch_53_2
-#EXTINF:-1, ch_145_1
-http://94.158.80.117:9000/play/ch_145_1
-#EXTINF:-1, ch_313_1
-http://94.158.80.117:9000/play/ch_313_1
-#EXTINF:-1, ch_55_1
-http://94.158.80.117:9000/play/ch_55_1
-#EXTINF:-1, ch_80_1
-http://94.158.80.117:9000/play/ch_80_1
-#EXTINF:-1, ch_206_1
-http://94.158.80.117:9000/play/ch_206_1
-#EXTINF:-1, ch_57_1
-http://94.158.80.117:9000/play/ch_57_1
-#EXTINF:-1, ch_51_1
-http://94.158.80.117:9000/play/ch_51_1
-#EXTINF:-1, ch_54_1
-http://94.158.80.117:9000/play/ch_54_1
-#EXTINF:-1, ch_73_2
-http://94.158.80.117:9000/play/ch_73_2
-#EXTINF:-1, ch_216_1
-http://94.158.80.117:9000/play/ch_216_1
-#EXTINF:-1, ch_53_1
-http://94.158.80.117:9000/play/ch_53_1
-#EXTINF:-1, ch_56_2
-http://94.158.80.117:9000/play/ch_56_2
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, ch_80_1
-http://94.158.80.117:9000/play/ch_80_1
-#EXTINF:-1, ch_145_1
-http://94.158.80.117:9000/play/ch_145_1
-#EXTINF:-1, ch_51_1
-http://94.158.80.117:9000/play/ch_51_1
-#EXTINF:-1, ch_54_1
-http://94.158.80.117:9000/play/ch_54_1
-#EXTINF:-1, ch_57_1
-http://94.158.80.117:9000/play/ch_57_1
-#EXTINF:-1, ch_56_2
-http://94.158.80.117:9000/play/ch_56_2
-#EXTINF:-1, ch_206_1
-http://94.158.80.117:9000/play/ch_206_1
-#EXTINF:-1, ch_53_1
-http://94.158.80.117:9000/play/ch_53_1
-#EXTINF:-1, ch_76_1
-http://94.158.80.117:9000/play/ch_76_1
-#EXTINF:-1, ch_53_2
-http://94.158.80.117:9000/play/ch_53_2
-#EXTINF:-1, ch_73_2
-http://94.158.80.117:9000/play/ch_73_2
-#EXTINF:-1, ch_216_1
-http://94.158.80.117:9000/play/ch_216_1
-#EXTINF:-1, ch_55_1
-http://94.158.80.117:9000/play/ch_55_1
+#EXTINF:-1,SRG|RSI LA1HD
+http://topiptv.net:5890/live/bachir1/bachir1/4143.ts
+#EXTINF:-1,SRG|RSI LA2HD
+http://topiptv.net:5890/live/bachir1/bachir1/4142.ts
+#EXTINF:-1,SRG|RTS 1
+http://topiptv.net:5890/live/bachir1/bachir1/4141.ts
+#EXTINF:-1,SRG|RTS Deux HD
+http://topiptv.net:5890/live/bachir1/bachir1/4140.ts
+#EXTINF:-1,SRG|RTS Un HD
+http://topiptv.net:5890/live/bachir1/bachir1/4139.ts
+#EXTINF:-1,SRG|SRF 1 CH
+http://topiptv.net:5890/live/bachir1/bachir1/4138.ts
+#EXTINF:-1,SRG|SRF 1 HD
+http://topiptv.net:5890/live/bachir1/bachir1/4137.ts
+#EXTINF:-1,SRG|SRF 2
+http://topiptv.net:5890/live/bachir1/bachir1/4136.ts
+#EXTINF:-1,SRG|SRF 2 HD
+http://topiptv.net:5890/live/bachir1/bachir1/4135.ts
+#EXTINF:-1,SRG|SRF Info HD
+http://topiptv.net:5890/live/bachir1/bachir1/4134.ts
+#EXTINF:-1,SRG|Teleclub Cinema
+http://topiptv.net:5890/live/bachir1/bachir1/4133.ts
+#EXTINF:-1,SRG|Teleclub Cinema HD
+http://topiptv.net:5890/live/bachir1/bachir1/4132.ts
+#EXTINF:-1,SRG|Teleclub Prime
+http://topiptv.net:5890/live/bachir1/bachir1/4131.ts
+#EXTINF:-1,SRG|Teleclub Sport 1
+http://topiptv.net:5890/live/bachir1/bachir1/4126.ts
+#EXTINF:-1,SRG|Teleclub Sport 2
+http://topiptv.net:5890/live/bachir1/bachir1/4125.ts
+#EXTINF:-1,SRG|Teleclub Sport 3
+http://topiptv.net:5890/live/bachir1/bachir1/4124.ts
+#EXTINF:-1,SRG|Teleclub Star HD
+http://topiptv.net:5890/live/bachir1/bachir1/4128.ts
+#EXTINF:-1,SRG|Telezuri
+http://topiptv.net:5890/live/bachir1/bachir1/4127.ts
+#EXTINF:-1,SRG|Zurich Uetliberg
+http://topiptv.net:5890/live/bachir1/bachir1/4123.ts

@@ -3,22 +3,49 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 30-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-#EXTINF:-1,AF: Tvce (Nigeria)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13312.ts
-#EXTINF:-1,AF: TVC News (Nigeria)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13318.ts
-#EXTINF:-1,AF: TV3 Live
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13316.ts
-#EXTINF:-1,AF: NTAi (Nigeria)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13317.ts
-#EXTINF:-1,AF: ANN7 (South Africa)
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13314.ts
-#EXTINF:-1,AF: Afrique Media TV
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/13315.ts
-#EXTINF:-1,AF: Channels Television Africa
-http://145.239.108.17:6500/live/FabioS/lG70iLmV0W/14541.ts
+#EXTINF:-1,AF|Africa Tv 1
+http://topiptv.net:5890/live/bachir1/bachir1/1541.ts
+#EXTINF:-1,AF|Africa Tv 2
+http://topiptv.net:5890/live/bachir1/bachir1/1539.ts
+#EXTINF:-1,AF|Africa Tv 3
+http://topiptv.net:5890/live/bachir1/bachir1/1533.ts
+#EXTINF:-1,AF|Africa Tv 4
+http://topiptv.net:5890/live/bachir1/bachir1/1544.ts
+#EXTINF:-1,AF|Eri-TV
+http://topiptv.net:5890/live/bachir1/bachir1/1696.ts
+#EXTINF:-1,AF|RTI 1 tv
+http://topiptv.net:5890/live/bachir1/bachir1/1534.ts
+#EXTINF:-1,AF|PrestigeTv
+http://topiptv.net:5890/live/bachir1/bachir1/1546.ts
+#EXTINF:-1,AF|Canal 225
+http://topiptv.net:5890/live/bachir1/bachir1/1532.ts
+#EXTINF:-1,AF|canal2 info
+http://topiptv.net:5890/live/bachir1/bachir1/1537.ts
+#EXTINF:-1,AF|RTS 1
+http://topiptv.net:5890/live/bachir1/bachir1/2582.ts
+#EXTINF:-1,AF|RTNC (congo)
+http://topiptv.net:5890/live/bachir1/bachir1/3168.ts
+#EXTINF:-1,AF|emmanuel tv
+http://topiptv.net:5890/live/bachir1/bachir1/3169.ts
+#EXTINF:-1,AF|DTV
+http://topiptv.net:5890/live/bachir1/bachir1/3173.ts
+#EXTINF:-1,AF|Nollywood movies premium
+http://topiptv.net:5890/live/bachir1/bachir1/3171.ts
+#EXTINF:-1,AF|Nollywood tv
+http://topiptv.net:5890/live/bachir1/bachir1/3170.ts
+#EXTINF:-1,FR|1080p|NOLLYWOOD
+http://topiptv.net:5890/live/bachir1/bachir1/3673.ts
+#EXTINF:-1,AF|Rave tv
+http://topiptv.net:5890/live/bachir1/bachir1/3172.ts
+#EXTINF:-1,AF|ORTM
+http://topiptv.net:5890/live/bachir1/bachir1/3174.ts
+#EXTINF:-1,KUR|NRT
+http://topiptv.net:5890/live/bachir1/bachir1/1571.ts
+#EXTINF:-1,KUR|NRT 2
+http://topiptv.net:5890/live/bachir1/bachir1/1578.ts
+#EXTINF:-1,KUR|KNN
+http://topiptv.net:5890/live/bachir1/bachir1/1572.t
