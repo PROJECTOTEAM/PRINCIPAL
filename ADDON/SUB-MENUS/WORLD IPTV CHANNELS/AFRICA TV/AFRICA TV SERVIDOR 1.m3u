@@ -3,49 +3,225 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,AF|Africa Tv 1
-http://topiptv.net:5890/live/bachir1/bachir1/1541.ts
-#EXTINF:-1,AF|Africa Tv 2
-http://topiptv.net:5890/live/bachir1/bachir1/1539.ts
-#EXTINF:-1,AF|Africa Tv 3
-http://topiptv.net:5890/live/bachir1/bachir1/1533.ts
-#EXTINF:-1,AF|Africa Tv 4
-http://topiptv.net:5890/live/bachir1/bachir1/1544.ts
-#EXTINF:-1,AF|Eri-TV
-http://topiptv.net:5890/live/bachir1/bachir1/1696.ts
-#EXTINF:-1,AF|RTI 1 tv
-http://topiptv.net:5890/live/bachir1/bachir1/1534.ts
-#EXTINF:-1,AF|PrestigeTv
-http://topiptv.net:5890/live/bachir1/bachir1/1546.ts
-#EXTINF:-1,AF|Canal 225
-http://topiptv.net:5890/live/bachir1/bachir1/1532.ts
-#EXTINF:-1,AF|canal2 info
-http://topiptv.net:5890/live/bachir1/bachir1/1537.ts
-#EXTINF:-1,AF|RTS 1
-http://topiptv.net:5890/live/bachir1/bachir1/2582.ts
-#EXTINF:-1,AF|RTNC (congo)
-http://topiptv.net:5890/live/bachir1/bachir1/3168.ts
-#EXTINF:-1,AF|emmanuel tv
-http://topiptv.net:5890/live/bachir1/bachir1/3169.ts
-#EXTINF:-1,AF|DTV
-http://topiptv.net:5890/live/bachir1/bachir1/3173.ts
-#EXTINF:-1,AF|Nollywood movies premium
-http://topiptv.net:5890/live/bachir1/bachir1/3171.ts
-#EXTINF:-1,AF|Nollywood tv
-http://topiptv.net:5890/live/bachir1/bachir1/3170.ts
-#EXTINF:-1,FR|1080p|NOLLYWOOD
-http://topiptv.net:5890/live/bachir1/bachir1/3673.ts
-#EXTINF:-1,AF|Rave tv
-http://topiptv.net:5890/live/bachir1/bachir1/3172.ts
-#EXTINF:-1,AF|ORTM
-http://topiptv.net:5890/live/bachir1/bachir1/3174.ts
-#EXTINF:-1,KUR|NRT
-http://topiptv.net:5890/live/bachir1/bachir1/1571.ts
-#EXTINF:-1,KUR|NRT 2
-http://topiptv.net:5890/live/bachir1/bachir1/1578.ts
-#EXTINF:-1,KUR|KNN
-http://topiptv.net:5890/live/bachir1/bachir1/1572.t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AF: Africa TV 1
+http://185.2.83.209:8000/live/tony2/tony2/989.ts
+#EXTINF:-1,AF: Africa TV 2
+http://185.2.83.209:8000/live/tony2/tony2/958.ts
+#EXTINF:-1,AF: Africa TV 4
+http://185.2.83.209:8000/live/tony2/tony2/996.ts
+#EXTINF:-1,AF: Africa TV 3
+http://185.2.83.209:8000/live/tony2/tony2/972.ts
+#EXTINF:-1,AF: NollyWood Movies
+http://185.2.83.209:8000/live/tony2/tony2/992.ts
+#EXTINF:-1,AF: NollyWood French
+http://185.2.83.209:8000/live/tony2/tony2/991.ts
+#EXTINF:-1,AF: NollyWood Premier
+http://185.2.83.209:8000/live/tony2/tony2/993.ts
+#EXTINF:-1,AF: Canal 2
+http://185.2.83.209:8000/live/tony2/tony2/959.ts
+#EXTINF:-1,AF: Music Viva Africa
+http://185.2.83.209:8000/live/tony2/tony2/975.ts
+#EXTINF:-1,AF: GBC Entertainment
+http://185.2.83.209:8000/live/tony2/tony2/957.ts
+#EXTINF:-1,AF: Burkina Info
+http://185.2.83.209:8000/live/tony2/tony2/961.ts
+#EXTINF:-1,AF: Ratelki TV
+http://185.2.83.209:8000/live/tony2/tony2/985.ts
+#EXTINF:-1,AF: Wazobia TV
+http://185.2.83.209:8000/live/tony2/tony2/973.ts
+#EXTINF:-1,AF: RTV TV
+http://185.2.83.209:8000/live/tony2/tony2/984.ts
+#EXTINF:-1,AF: LC2 Benin
+http://185.2.83.209:8000/live/tony2/tony2/983.ts
+#EXTINF:-1,AF: Nigerian Movies
+http://185.2.83.209:8000/live/tony2/tony2/995.ts
+#EXTINF:-1,AF: 2STV ( Senegal )
+http://185.2.83.209:8000/live/tony2/tony2/974.ts
+#EXTINF:-1,AF: RTG ( Guiniea )
+http://185.2.83.209:8000/live/tony2/tony2/970.ts
+#EXTINF:-1,AF: Hope Channel TV
+http://185.2.83.209:8000/live/tony2/tony2/997.ts
+#EXTINF:-1,AF: TVC News
+http://185.2.83.209:8000/live/tony2/tony2/977.ts
+#EXTINF:-1,AF: ORTB
+http://185.2.83.209:8000/live/tony2/tony2/994.ts
+#EXTINF:-1,AF: RWANDA TV
+http://185.2.83.209:8000/live/tony2/tony2/979.ts
+#EXTINF:-1,AF: Walf TV Senegal
+http://185.2.83.209:8000/live/tony2/tony2/981.ts
+#EXTINF:-1,AF1: Lagos TV ( Nigeria )
+http://185.2.83.209:8000/live/tony2/tony2/980.ts
+#EXTINF:-1,AF: TV Jrc
+http://185.2.83.209:8000/live/tony2/tony2/990.ts
+#EXTINF:-1,AF: Diaspora24 ( Ghana )
+http://185.2.83.209:8000/live/tony2/tony2/971.ts
+#EXTINF:-1,AF: Realnolly tv
+http://185.2.83.209:8000/live/tony2/tony2/978.ts
+#EXTINF:-1,AF: Canal 2 Movies
+http://185.2.83.209:8000/live/tony2/tony2/988.ts
+#EXTINF:-1,AF: Music BOMBA
+http://185.2.83.209:8000/live/tony2/tony2/976.ts
+#EXTINF:-1,AF: CRTV
+http://185.2.83.209:8000/live/tony2/tony2/987.ts
+#EXTINF:-1,AF: Channels Television ( Nigeria )
+http://185.2.83.209:8000/live/tony2/tony2/986.ts
+#EXTINF:-1,AF: SenTV HD
+http://185.2.83.209:8000/live/tony2/tony2/982.ts
+#EXTINF:-1,AF: Kalsan TV Somali
+http://185.2.83.209:8000/live/tony2/tony2/966.ts
+#EXTINF:-1,AF: RTS2
+http://185.2.83.209:8000/live/tony2/tony2/963.ts
+#EXTINF:-1,AF: ORTM [Mali]
+http://185.2.83.209:8000/live/tony2/tony2/964.ts
+#EXTINF:-1,AF: Emmanuel TV ( Nigeria )
+http://185.2.83.209:8000/live/tony2/tony2/969.ts
+#EXTINF:-1,AF: TELE BOSTON
+http://185.2.83.209:8000/live/tony2/tony2/967.ts
+#EXTINF:-1,AF: Fashion One
+http://185.2.83.209:8000/live/tony2/tony2/962.ts
+#EXTINF:-1,AF: Kana TV
+http://185.2.83.209:8000/live/tony2/tony2/968.ts
+#EXTINF:-1,AF: Aci TV ( OM5 TV )
+http://185.2.83.209:8000/live/tony2/tony2/960.ts
+#EXTINF:-1,AF: Musique et Mode (2S)
+http://185.2.83.209:8000/live/tony2/tony2/940.ts
+#EXTINF:-1,AF: ANN 7
+http://185.2.83.209:8000/live/tony2/tony2/941.ts
+#EXTINF:-1,AF: Fusion Plus TV
+http://185.2.83.209:8000/live/tony2/tony2/943.ts
+#EXTINF:-1,AF: Movies GHTV
+http://185.2.83.209:8000/live/tony2/tony2/944.ts
+#EXTINF:-1,AF: NBS
+http://185.2.83.209:8000/live/tony2/tony2/945.ts
+#EXTINF:-1,AF: GhTv Abroad
+http://185.2.83.209:8000/live/tony2/tony2/946.ts
+#EXTINF:-1,AF: RTS1
+http://185.2.83.209:8000/live/tony2/tony2/947.ts
+#EXTINF:-1,AF: Biafra 1 [Nigeria]
+http://185.2.83.209:8000/live/tony2/tony2/948.ts
+#EXTINF:-1,AF: Biafra 2 [Nigeria]
+http://185.2.83.209:8000/live/tony2/tony2/949.ts
+#EXTINF:-1,AF: Somali Broadcasting
+http://185.2.83.209:8000/live/tony2/tony2/965.ts
+#EXTINF:-1,AF: Somalia ESTV (EV)
+http://185.2.83.209:8000/live/tony2/tony2/942.ts
+#EXTINF:-1,AF: Somalia Cabel
+http://185.2.83.209:8000/live/tony2/tony2/3192.ts
+#EXTINF:-1,AF: Somalia ETN TV
+http://185.2.83.209:8000/live/tony2/tony2/3199.ts
+#EXTINF:-1,AF: Somalia HCTV
+http://185.2.83.209:8000/live/tony2/tony2/3197.ts
+#EXTINF:-1,AF: Somalia JABUUTI
+http://185.2.83.209:8000/live/tony2/tony2/3198.ts
+#EXTINF:-1,AF: Somalia Jubbaland TV
+http://185.2.83.209:8000/live/tony2/tony2/3194.ts
+#EXTINF:-1,AF: Somalia SBC
+http://185.2.83.209:8000/live/tony2/tony2/3195.ts
+#EXTINF:-1,AF: Somalia SNTV
+http://185.2.83.209:8000/live/tony2/tony2/3200.ts
+#EXTINF:-1,AF: Somalia Star TV
+http://185.2.83.209:8000/live/tony2/tony2/3193.ts
+#EXTINF:-1,AF: Somalia Universal
+http://185.2.83.209:8000/live/tony2/tony2/3196.ts
+#EXTINF:-1,AF: Hesso Somali HD
+http://185.2.83.209:8000/live/tony2/tony2/3228.ts
+#EXTINF:-1,AF: Somali Puntland TV
+http://185.2.83.209:8000/live/tony2/tony2/3229.ts
+#EXTINF:-1,AF: Somalia Land
+http://185.2.83.209:8000/live/tony2/tony2/3201.ts
+#EXTINF:-1,AF: TFM HD ( Sengal )
+http://185.2.83.209:8000/live/tony2/tony2/3208.ts
+#EXTINF:-1,AF: TVM 1 ( Mozambique )
+http://185.2.83.209:8000/live/tony2/tony2/3211.ts
+#EXTINF:-1,AF: TVM 2 ( Mozambique )
+http://185.2.83.209:8000/live/tony2/tony2/3212.ts
+#EXTINF:-1,AF: TPA africa
+http://185.2.83.209:8000/live/tony2/tony2/3202.ts
+#EXTINF:-1,AF: Afrique Media
+http://185.2.83.209:8000/live/tony2/tony2/938.ts
+#EXTINF:-1,AF: Biafra 3 [Nigeria]
+http://185.2.83.209:8000/live/tony2/tony2/950.ts
+#EXTINF:-1,AF: Delta TV
+http://185.2.83.209:8000/live/tony2/tony2/953.ts
+#EXTINF:-1,AF: Channel Télévision [Nigéria]
+http://185.2.83.209:8000/live/tony2/tony2/951.ts
+#EXTINF:-1,AF: RTI1
+http://185.2.83.209:8000/live/tony2/tony2/952.ts
+#EXTINF:-1,AF: TFM [Senegal]
+http://185.2.83.209:8000/live/tony2/tony2/954.ts
+#EXTINF:-1,AF: TVC Benin
+http://185.2.83.209:8000/live/tony2/tony2/939.ts
+#EXTINF:-1,AF: Vox Africa
+http://185.2.83.209:8000/live/tony2/tony2/955.ts
+#EXTINF:-1,AF: Power TV
+http://185.2.83.209:8000/live/tony2/tony2/956.ts
+#EXTINF:-1,AF: Africa HD
+http://185.2.83.209:8000/live/tony2/tony2/3220.ts
+#EXTINF:-1,AF: Africa One
+http://185.2.83.209:8000/live/tony2/tony2/3221.ts
+#EXTINF:-1,AF: Afro Music
+http://185.2.83.209:8000/live/tony2/tony2/3222.ts
+#EXTINF:-1,AF: LoveWorld Plus
+http://185.2.83.209:8000/live/tony2/tony2/3223.ts
+#EXTINF:-1,AF: Ashanti24
+http://185.2.83.209:8000/live/tony2/tony2/3224.ts
+#EXTINF:-1,AF: Canal CVV Internationa
+http://185.2.83.209:8000/live/tony2/tony2/3213.ts
+#EXTINF:-1,AF: Vox Afrique
+http://185.2.83.209:8000/live/tony2/tony2/3203.ts
+#EXTINF:-1,AF: Catholic TV
+http://185.2.83.209:8000/live/tony2/tony2/3214.ts
+#EXTINF:-1,AF: Dove TV
+http://185.2.83.209:8000/live/tony2/tony2/3205.ts
+#EXTINF:-1,AF: Elshaddai Television Network
+http://185.2.83.209:8000/live/tony2/tony2/3207.ts
+#EXTINF:-1,AF: Eri-TV
+http://185.2.83.209:8000/live/tony2/tony2/3215.ts
+#EXTINF:-1,AF: Faith TV
+http://185.2.83.209:8000/live/tony2/tony2/3216.ts
+#EXTINF:-1,AF: Fith TV
+http://185.2.83.209:8000/live/tony2/tony2/3209.ts
+#EXTINF:-1,AF: Generations TV
+http://185.2.83.209:8000/live/tony2/tony2/3217.ts
+#EXTINF:-1,AF: Ghana Entertainment TV
+http://185.2.83.209:8000/live/tony2/tony2/3218.ts
+#EXTINF:-1,AF: Kessben TV ( Ghana )
+http://185.2.83.209:8000/live/tony2/tony2/3219.ts
+#EXTINF:-1,AF: Logo TV
+http://185.2.83.209:8000/live/tony2/tony2/3206.ts
+#EXTINF:-1,AF: MusicTV ( Senegal )
+http://185.2.83.209:8000/live/tony2/tony2/3204.ts
+#EXTINF:-1,AF: Nigerian Movies 2
+http://185.2.83.209:8000/live/tony2/tony2/3227.ts
+#EXTINF:-1,AF: PEACE TV ENGLISH
+http://185.2.83.209:8000/live/tony2/tony2/3210.ts
+#EXTINF:-1,AF: TV Kin
+http://185.2.83.209:8000/live/tony2/tony2/3225.ts
+#EXTINF:-1,AF: Wife Movies
+http://185.2.83.209:8000/live/tony2/tony2/3226.ts

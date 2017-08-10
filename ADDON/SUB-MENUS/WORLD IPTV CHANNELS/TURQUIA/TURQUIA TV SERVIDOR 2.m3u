@@ -1,152 +1,266 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-#EXTINF:-1,TR|Sports tv
-http://topiptv.net:5890/live/bachir1/bachir1/1132.ts
-#EXTINF:-1,TR|TRT Sport
-http://topiptv.net:5890/live/bachir1/bachir1/1099.ts
-#EXTINF:-1,TR|NTV SPORT
-http://topiptv.net:5890/live/bachir1/bachir1/2214.ts
-#EXTINF:-1,TR|TIVIBUR SPORT
-http://topiptv.net:5890/live/bachir1/bachir1/2215.ts
-#EXTINF:-1,TR|TIVIBUR SPORT 2
-http://topiptv.net:5890/live/bachir1/bachir1/2224.ts
-#EXTINF:-1,TR|SMART SPORT
-http://topiptv.net:5890/live/bachir1/bachir1/2217.ts
-#EXTINF:-1,TR|SMART SPORT 2
-http://topiptv.net:5890/live/bachir1/bachir1/2223.ts
-#EXTINF:-1,TR|beIN SPORTS HD1
-http://topiptv.net:5890/live/bachir1/bachir1/1065.ts
-#EXTINF:-1,TR|beIN SPORTS HD2
-http://topiptv.net:5890/live/bachir1/bachir1/1066.ts
-#EXTINF:-1,TR|beIN SPORTS HD3
-http://topiptv.net:5890/live/bachir1/bachir1/1067.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1287.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1284.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1293.ts
-#EXTINF:-1,TR|beIN MOVIES Family
-http://topiptv.net:5890/live/bachir1/bachir1/1288.ts
-#EXTINF:-1,TR|beIN MOVIES COMEDY
-http://topiptv.net:5890/live/bachir1/bachir1/1289.ts
-#EXTINF:-1,TR|beIN MOVIES
-http://topiptv.net:5890/live/bachir1/bachir1/1296.ts
-#EXTINF:-1,TR|beIN IZ HD
-http://topiptv.net:5890/live/bachir1/bachir1/1279.ts
-#EXTINF:-1,TR|beIN GUME HD
-http://topiptv.net:5890/live/bachir1/bachir1/1295.ts
-#EXTINF:-1,TR|Star TV
-http://topiptv.net:5890/live/bachir1/bachir1/1298.ts
-#EXTINF:-1,TR|Fox  HD
-http://topiptv.net:5890/live/bachir1/bachir1/1297.ts
-#EXTINF:-1,TR|ATV HD
-http://topiptv.net:5890/live/bachir1/bachir1/1299.ts
-#EXTINF:-1,TR|TRT 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1096.ts
-#EXTINF:-1,TR|Kanal D HD
-http://topiptv.net:5890/live/bachir1/bachir1/1107.ts
-#EXTINF:-1,TR|A2
-http://topiptv.net:5890/live/bachir1/bachir1/1488.ts
-#EXTINF:-1,TR|Showtv
-http://topiptv.net:5890/live/bachir1/bachir1/1097.ts
-#EXTINF:-1,TR|Show MAX
-http://topiptv.net:5890/live/bachir1/bachir1/1280.ts
-#EXTINF:-1,TR|TV8
-http://topiptv.net:5890/live/bachir1/bachir1/2216.ts
-#EXTINF:-1,TR|360 TV
-http://topiptv.net:5890/live/bachir1/bachir1/1136.ts
-#EXTINF:-1,TR|ISTANBUL HD
-http://topiptv.net:5890/live/bachir1/bachir1/2367.ts
-#EXTINF:-1,TR|Beyaz
-http://topiptv.net:5890/live/bachir1/bachir1/1292.ts
-#EXTINF:-1,TR|TV 52
-http://topiptv.net:5890/live/bachir1/bachir1/1500.ts
-#EXTINF:-1,TR|kanal 24
-http://topiptv.net:5890/live/bachir1/bachir1/1135.ts
-#EXTINF:-1,TR|haber turk
-http://topiptv.net:5890/live/bachir1/bachir1/1133.ts
-#EXTINF:-1,TR|Kanal 7 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1098.ts
-#EXTINF:-1,TR-ULKE-HD
-http://topiptv.net:5890/live/bachir1/bachir1/2049.ts
-#EXTINF:-1,TR|SAMANYOLU-TV-HD
-http://topiptv.net:5890/live/bachir1/bachir1/2048.ts
-#EXTINF:-1,TR|TRT COCUK
-http://topiptv.net:5890/live/bachir1/bachir1/1127.ts
-#EXTINF:-1,TR|NICKELODEON
-http://topiptv.net:5890/live/bachir1/bachir1/2219.ts
-#EXTINF:-1,TR|NICKELODEON JR
-http://topiptv.net:5890/live/bachir1/bachir1/2218.ts
-#EXTINF:-1,TR|TRT BELGESEL
-http://topiptv.net:5890/live/bachir1/bachir1/1126.ts
-#EXTINF:-1,TR|Animal Planet
-http://topiptv.net:5890/live/bachir1/bachir1/2220.ts
-#EXTINF:-1,TR|NAT WILD
-http://topiptv.net:5890/live/bachir1/bachir1/1291.ts
-#EXTINF:-1,TR|NAT GEO
-http://topiptv.net:5890/live/bachir1/bachir1/1290.ts
-#EXTINF:-1,TR|Discovery
-http://topiptv.net:5890/live/bachir1/bachir1/2221.ts
-#EXTINF:-1,TR|Discovery sc
-http://topiptv.net:5890/live/bachir1/bachir1/2222.ts
-#EXTINF:-1,TR|TRT WORLD
-http://topiptv.net:5890/live/bachir1/bachir1/1138.ts
-#EXTINF:-1,TR|TRT HABER HD
-http://topiptv.net:5890/live/bachir1/bachir1/1134.ts
-#EXTINF:-1,TR|TRT DIYANET
-http://topiptv.net:5890/live/bachir1/bachir1/1137.ts
-#EXTINF:-1,TURK| CINESTAR AILE
-http://topiptv.net:5890/live/bachir1/bachir1/4649.ts
-#EXTINF:-1,TURK| CINESTAR GERILIM
-http://topiptv.net:5890/live/bachir1/bachir1/4648.ts
-#EXTINF:-1,TURK| CINESTAR KOMEDI
-http://topiptv.net:5890/live/bachir1/bachir1/4647.ts
-#EXTINF:-1,TURK| CINESTAR KORKU
-http://topiptv.net:5890/live/bachir1/bachir1/4646.ts
-#EXTINF:-1,TURK| CINESTAR T?RK
-http://topiptv.net:5890/live/bachir1/bachir1/4645.ts
-#EXTINF:-1,TURK| CINESTAR VIZYON 1
-http://topiptv.net:5890/live/bachir1/bachir1/4644.ts
-#EXTINF:-1,TURK| CINESTAR VIZYON 2
-http://topiptv.net:5890/live/bachir1/bachir1/4643.ts
-#EXTINF:-1,TURK| CINESTAR VIZYON 3
-http://topiptv.net:5890/live/bachir1/bachir1/4642.ts
-#EXTINF:-1,TURK| LOCA 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4660.ts
-#EXTINF:-1,TURK| LOCA 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4659.ts
-#EXTINF:-1,TURK| LOCA 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4658.ts
-#EXTINF:-1,TURK| SINEMA TV 1001
-http://topiptv.net:5890/live/bachir1/bachir1/4657.ts
-#EXTINF:-1,TURK| SINEMA TV 2 / DIZI TV
-http://topiptv.net:5890/live/bachir1/bachir1/4656.ts
-#EXTINF:-1,TURK| SINEMA TV AILE
-http://topiptv.net:5890/live/bachir1/bachir1/4655.ts
-#EXTINF:-1,TURK| SINEMA TV AKSIYON
-http://topiptv.net:5890/live/bachir1/bachir1/4654.ts
-#EXTINF:-1,TURK| SINEMA TV HD
-http://topiptv.net:5890/live/bachir1/bachir1/4653.ts
-#EXTINF:-1,TURK| SINETIVI 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4652.ts
-#EXTINF:-1,TURK| SINETIVI ADRENANIL HD
-http://topiptv.net:5890/live/bachir1/bachir1/4651.ts
-#EXTINF:-1,TURK| SINETIVI HD
-http://topiptv.net:5890/live/bachir1/bachir1/4650.ts
-#EXTINF:-1,|!p|-----ARENA SPORTS-----|!p|
-http://topiptv.net:5890/live/bachir1/bachir1/1094.ts
-#EXTINF:-1,Arena|Sports 1
-http://topiptv.net:5890/live/bachir1/bachir1/1072.ts
-#EXTINF:-1,Arena|Sports 2
-http://topiptv.net:5890/live/bachir1/bachir1/1073.ts
-#EXTINF:-1,Arena|Sports 3
-http://topiptv.net:5890/live/bachir1/bachir1/1074.ts
-#EXTINF:-1,Arena|Sports 4
-http://topiptv.net:5890/live/bachir1/bachir1/1075.ts
+#EXTINF:-1,TR: bein Box Office 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2167.ts
+#EXTINF:-1,TR: bein Box Office 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/2175.ts
+#EXTINF:-1,TR: bein Box Office 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/2176.ts
+#EXTINF:-1,TR: bein Movies Famly HD
+http://185.2.83.209:8000/live/tony2/tony2/2020.ts
+#EXTINF:-1,TR: Sony Movie Channel HD
+http://185.2.83.209:8000/live/tony2/tony2/2156.ts
+#EXTINF:-1,TR: Showtime Channel 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2160.ts
+#EXTINF:-1,TR: Hallmark Channel Film HD
+http://185.2.83.209:8000/live/tony2/tony2/2023.ts
+#EXTINF:-1,TR: Showtime Channel 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/2162.ts
+#EXTINF:-1,TR: bein Movies Turk HD
+http://185.2.83.209:8000/live/tony2/tony2/2024.ts
+#EXTINF:-1,TR: bein Movies Festival HD
+http://185.2.83.209:8000/live/tony2/tony2/2025.ts
+#EXTINF:-1,TR: bin Movies HD
+http://185.2.83.209:8000/live/tony2/tony2/2028.ts
+#EXTINF:-1,TR: Movie Smart Oscar HD
+http://185.2.83.209:8000/live/tony2/tony2/2026.ts
+#EXTINF:-1,TR: Movie Max premier HD
+http://185.2.83.209:8000/live/tony2/tony2/2027.ts
+#EXTINF:-1,TR: Movies Smart Fest HD
+http://185.2.83.209:8000/live/tony2/tony2/2163.ts
+#EXTINF:-1,TR: Movies Smart Gold HD
+http://185.2.83.209:8000/live/tony2/tony2/2022.ts
+#EXTINF:-1,TR: Movies Smart Platin HD
+http://185.2.83.209:8000/live/tony2/tony2/2018.ts
+#EXTINF:-1,TR: Movies Smart Famly HD
+http://185.2.83.209:8000/live/tony2/tony2/2033.ts
+#EXTINF:-1,TR: Movies Smart Action HD
+http://185.2.83.209:8000/live/tony2/tony2/2017.ts
+#EXTINF:-1,TR: MagicBox Turk
+http://185.2.83.209:8000/live/tony2/tony2/2165.ts
+#EXTINF:-1,TR: MagicBox Aksiyon HD
+http://185.2.83.209:8000/live/tony2/tony2/2157.ts
+#EXTINF:-1,TR: MagicBox Komedi HD
+http://185.2.83.209:8000/live/tony2/tony2/2166.ts
+#EXTINF:-1,TR: MagicBox Korku HD
+http://185.2.83.209:8000/live/tony2/tony2/2032.ts
+#EXTINF:-1,TR: MagicBox Western HD
+http://185.2.83.209:8000/live/tony2/tony2/2168.ts
+#EXTINF:-1,TR: MagicBox Animasyon HD
+http://185.2.83.209:8000/live/tony2/tony2/2169.ts
+#EXTINF:-1,TR: Hallmark Channel 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2019.ts
+#EXTINF:-1,TR: HBO HD
+http://185.2.83.209:8000/live/tony2/tony2/2161.ts
+#EXTINF:-1,TR: Yesilçam 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/2021.ts
+#EXTINF:-1,TR: Moviemax Türk HD
+http://185.2.83.209:8000/live/tony2/tony2/2016.ts
+#EXTINF:-1,TR: Digi Max TV
+http://185.2.83.209:8000/live/tony2/tony2/2158.ts
+#EXTINF:-1,TR: Digi max Animasyon HD
+http://185.2.83.209:8000/live/tony2/tony2/2164.ts
+#EXTINF:-1,TR: Turk Max Gurme HD
+http://185.2.83.209:8000/live/tony2/tony2/2029.ts
+#EXTINF:-1,TR: Cinevision 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2159.ts
+#EXTINF:-1,TR: Sinema Yesilcam HD
+http://185.2.83.209:8000/live/tony2/tony2/2177.ts
+#EXTINF:-1,TR: Sinema tv HD
+http://185.2.83.209:8000/live/tony2/tony2/2178.ts
+#EXTINF:-1,TR: Sinema Junior HD
+http://185.2.83.209:8000/live/tony2/tony2/2179.ts
+#EXTINF:-1,TR: Sinema Komedi HD
+http://185.2.83.209:8000/live/tony2/tony2/2181.ts
+#EXTINF:-1,TR: Sinetivikarnaval 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/2180.ts
+#EXTINF:-1,TR: Sinetivikarnaval 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2182.ts
+#EXTINF:-1,TR: Sinetivi 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/2183.ts
+#EXTINF:-1,TR: Sinetivi 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2184.ts
+#EXTINF:-1,TR: Sinetiviadrenalin 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/1936.ts
+#EXTINF:-1,TR: Sinetiviadrenalin 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/1935.ts
+#EXTINF:-1,TR: Dizi TV HD
+http://185.2.83.209:8000/live/tony2/tony2/1934.ts
+#EXTINF:-1,TR: MGM Channel HD
+http://185.2.83.209:8000/live/tony2/tony2/1933.ts
+#EXTINF:-1,TR: Animasyon HD
+http://185.2.83.209:8000/live/tony2/tony2/2030.ts
+#EXTINF:-1,TR: Sinema 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/1974.ts
+#EXTINF:-1,TR: Sinema 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/1975.ts
+#EXTINF:-1,TR: Sinema 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/1976.ts
+#EXTINF:-1,TR: Sinema 4 HD
+http://185.2.83.209:8000/live/tony2/tony2/1967.ts
+#EXTINF:-1,TR: Sinema 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/1968.ts
+#EXTINF:-1,TR: Sinema 6 HD
+http://185.2.83.209:8000/live/tony2/tony2/1969.ts
+#EXTINF:-1,TR: Sinema 7 HD
+http://185.2.83.209:8000/live/tony2/tony2/1970.ts
+#EXTINF:-1,TR: Loca 1
+http://185.2.83.209:8000/live/tony2/tony2/1941.ts
+#EXTINF:-1,TR: Salon 1
+http://185.2.83.209:8000/live/tony2/tony2/2003.ts
+#EXTINF:-1,TR: Salon 2
+http://185.2.83.209:8000/live/tony2/tony2/1942.ts
+#EXTINF:-1,TR: Salon 3
+http://185.2.83.209:8000/live/tony2/tony2/1943.ts
+#EXTINF:-1,TR: Salon 4
+http://185.2.83.209:8000/live/tony2/tony2/1948.ts
+#EXTINF:-1,TR: Lig TV 1
+http://185.2.83.209:8000/live/tony2/tony2/2002.ts
+#EXTINF:-1,TR: Lig TV 2
+http://185.2.83.209:8000/live/tony2/tony2/2001.ts
+#EXTINF:-1,TR: Lig TV 3
+http://185.2.83.209:8000/live/tony2/tony2/2000.ts
+#EXTINF:-1,TR: NTV Spor
+http://185.2.83.209:8000/live/tony2/tony2/1996.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/1997.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/1965.ts
+#EXTINF:-1,TR: Tivibu Spor 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/2170.ts
+#EXTINF:-1,TR: Tivibu Spor 4 HD
+http://185.2.83.209:8000/live/tony2/tony2/2171.ts
+#EXTINF:-1,TR: Smart Sport HD
+http://185.2.83.209:8000/live/tony2/tony2/1998.ts
+#EXTINF:-1,TR: Smart Sport 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/1964.ts
+#EXTINF:-1,TR: Eurosport 2 Avrupa
+http://185.2.83.209:8000/live/tony2/tony2/1959.ts
+#EXTINF:-1,TR: Bursa Spor tv
+http://185.2.83.209:8000/live/tony2/tony2/1999.ts
+#EXTINF:-1,TR: GS TV
+http://185.2.83.209:8000/live/tony2/tony2/2015.ts
+#EXTINF:-1,TR: TRT Sports
+http://185.2.83.209:8000/live/tony2/tony2/1981.ts
+#EXTINF:-1,TR: TRT 1
+http://185.2.83.209:8000/live/tony2/tony2/1977.ts
+#EXTINF:-1,TR: TRT Okul
+http://185.2.83.209:8000/live/tony2/tony2/1939.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://185.2.83.209:8000/live/tony2/tony2/1982.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://185.2.83.209:8000/live/tony2/tony2/1937.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://185.2.83.209:8000/live/tony2/tony2/1938.ts
+#EXTINF:-1,TR: TRT COCUK
+http://185.2.83.209:8000/live/tony2/tony2/1940.ts
+#EXTINF:-1,TR: TRT Turk
+http://185.2.83.209:8000/live/tony2/tony2/1979.ts
+#EXTINF:-1,TR: TRT Muzik
+http://185.2.83.209:8000/live/tony2/tony2/1971.ts
+#EXTINF:-1,TR: TRT AVAZ
+http://185.2.83.209:8000/live/tony2/tony2/1983.ts
+#EXTINF:-1,TR: Kanal D
+http://185.2.83.209:8000/live/tony2/tony2/1993.ts
+#EXTINF:-1,TR: Kanal A
+http://185.2.83.209:8000/live/tony2/tony2/1994.ts
+#EXTINF:-1,TR: Kanal Urfa
+http://185.2.83.209:8000/live/tony2/tony2/1945.ts
+#EXTINF:-1,TR: Kanal Turk
+http://185.2.83.209:8000/live/tony2/tony2/1947.ts
+#EXTINF:-1,TR: Kanal 7
+http://185.2.83.209:8000/live/tony2/tony2/1961.ts
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://185.2.83.209:8000/live/tony2/tony2/1958.ts
+#EXTINF:-1,TR: ATV
+http://185.2.83.209:8000/live/tony2/tony2/1978.ts
+#EXTINF:-1,TR: ATV Avrupa
+http://185.2.83.209:8000/live/tony2/tony2/1957.ts
+#EXTINF:-1,TR: Show TV
+http://185.2.83.209:8000/live/tony2/tony2/1990.ts
+#EXTINF:-1,TR: Show Turk
+http://185.2.83.209:8000/live/tony2/tony2/1989.ts
+#EXTINF:-1,TR: Tarsusguneyt
+http://185.2.83.209:8000/live/tony2/tony2/2174.ts
+#EXTINF:-1,TR: SkyTurk 360
+http://185.2.83.209:8000/live/tony2/tony2/2172.ts
+#EXTINF:-1,TR: Breket TV
+http://185.2.83.209:8000/live/tony2/tony2/2173.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://185.2.83.209:8000/live/tony2/tony2/1986.ts
+#EXTINF:-1,TR: Power Turk
+http://185.2.83.209:8000/live/tony2/tony2/1946.ts
+#EXTINF:-1,TR: CNN TURK
+http://185.2.83.209:8000/live/tony2/tony2/1995.ts
+#EXTINF:-1,TR: TV 2
+http://185.2.83.209:8000/live/tony2/tony2/1960.ts
+#EXTINF:-1,TR: TV8
+http://185.2.83.209:8000/live/tony2/tony2/1980.ts
+#EXTINF:-1,TR: Star tv HD
+http://185.2.83.209:8000/live/tony2/tony2/1987.ts
+#EXTINF:-1,TR: Fox TV HD
+http://185.2.83.209:8000/live/tony2/tony2/1988.ts
+#EXTINF:-1,TR: Fox Crime tv
+http://185.2.83.209:8000/live/tony2/tony2/2011.ts
+#EXTINF:-1,TR: FX TV
+http://185.2.83.209:8000/live/tony2/tony2/2010.ts
+#EXTINF:-1,TR: Life Time
+http://185.2.83.209:8000/live/tony2/tony2/2009.ts
+#EXTINF:-1,TR: Euro D
+http://185.2.83.209:8000/live/tony2/tony2/1952.ts
+#EXTINF:-1,TR: EGE TV
+http://185.2.83.209:8000/live/tony2/tony2/2014.ts
+#EXTINF:-1,TR: TJK TV
+http://185.2.83.209:8000/live/tony2/tony2/2008.ts
+#EXTINF:-1,TR: Semerkant tv
+http://185.2.83.209:8000/live/tony2/tony2/2013.ts
+#EXTINF:-1,TR: National Geo Wild HD
+http://185.2.83.209:8000/live/tony2/tony2/1985.ts
+#EXTINF:-1,TR: National Geographic HD
+http://185.2.83.209:8000/live/tony2/tony2/1984.ts
+#EXTINF:-1,TR: National Geo People HD
+http://185.2.83.209:8000/live/tony2/tony2/2006.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://185.2.83.209:8000/live/tony2/tony2/1955.ts
+#EXTINF:-1,TR: History Channle
+http://185.2.83.209:8000/live/tony2/tony2/2007.ts
+#EXTINF:-1,TR: Discovery Channle
+http://185.2.83.209:8000/live/tony2/tony2/2005.ts
+#EXTINF:-1,TR: Cartoon NetWork
+http://185.2.83.209:8000/live/tony2/tony2/1953.ts
+#EXTINF:-1,TR: Disney Channle
+http://185.2.83.209:8000/live/tony2/tony2/1992.ts
+#EXTINF:-1,TR: DA Vinci Learning
+http://185.2.83.209:8000/live/tony2/tony2/2012.ts
+#EXTINF:-1,TR: World Travel Channel
+http://185.2.83.209:8000/live/tony2/tony2/1956.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://185.2.83.209:8000/live/tony2/tony2/1951.ts
+#EXTINF:-1,TR: Istanbul 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/1991.ts
+#EXTINF:-1,TR: TV Kayseri
+http://185.2.83.209:8000/live/tony2/tony2/2004.ts
+#EXTINF:-1,TR: TGRT Haber
+http://185.2.83.209:8000/live/tony2/tony2/1949.ts
+#EXTINF:-1,TR: Teledunya Info
+http://185.2.83.209:8000/live/tony2/tony2/1962.ts
+#EXTINF:-1,TR: Minika Go
+http://185.2.83.209:8000/live/tony2/tony2/1963.ts
+#EXTINF:-1,TR: Dream Turk
+http://185.2.83.209:8000/live/tony2/tony2/1944.ts
+#EXTINF:-1,TR: A2
+http://185.2.83.209:8000/live/tony2/tony2/1950.ts
+#EXTINF:-1,TR: Bloomberg HT HD
+http://185.2.83.209:8000/live/tony2/tony2/2031.ts
+#EXTINF:-1,TR: TV 41
+http://185.2.83.209:8000/live/tony2/tony2/1954.ts
+#EXTINF:-1,TR: Kral TV
+http://185.2.83.209:8000/live/tony2/tony2/1966.ts
+#EXTINF:-1,TR: Kral Pop
+http://185.2.83.209:8000/live/tony2/tony2/1972.ts
+#EXTINF:-1,TR: Hilal TV
+http://185.2.83.209:8000/live/tony2/tony2/1973.ts

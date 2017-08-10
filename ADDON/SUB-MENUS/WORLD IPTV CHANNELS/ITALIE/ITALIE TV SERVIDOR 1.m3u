@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -69,184 +69,335 @@ http://144.2.100.111:8000/play/a00b
 
 
 
-
-#EXTINF:-1,IT|Rai 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/388.ts
-#EXTINF:-1,IT|Rai 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/389.ts
-#EXTINF:-1,IT|Rai 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/390.ts
-#EXTINF:-1,IT|Rai 4 HD
-http://topiptv.net:5890/live/bachir1/bachir1/391.ts
-#EXTINF:-1,IT|Rai 5 HD
-http://topiptv.net:5890/live/bachir1/bachir1/392.ts
-#EXTINF:-1,IT|Italia 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1579.ts
-#EXTINF:-1,IT|Rete 4 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1581.ts
-#EXTINF:-1,IT|Canale 5 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1580.ts
-#EXTINF:-1,IT|Rai News
-http://topiptv.net:5890/live/bachir1/bachir1/1622.ts
-#EXTINF:-1,IT|Rai Movie
-http://topiptv.net:5890/live/bachir1/bachir1/1310.ts
-#EXTINF:-1,IT|Rai Scuola
-http://topiptv.net:5890/live/bachir1/bachir1/397.ts
-#EXTINF:-1,IT|Rai Premium
-http://topiptv.net:5890/live/bachir1/bachir1/398.ts
-#EXTINF:-1,IT|Rai Gulp
-http://topiptv.net:5890/live/bachir1/bachir1/393.ts
-#EXTINF:-1,--|IT RAGAZZI|--
-http://topiptv.net:5890/live/bachir1/bachir1/1437.ts
-#EXTINF:-1,IT|Rai Yoyo
-http://topiptv.net:5890/live/bachir1/bachir1/394.ts
-#EXTINF:-1,IT|Disney Junior HD
-http://topiptv.net:5890/live/bachir1/bachir1/414.ts
-#EXTINF:-1,IT|Disney Channel HD
-http://topiptv.net:5890/live/bachir1/bachir1/837.ts
-#EXTINF:-1,--|IT CINEMA|--
-http://topiptv.net:5890/live/bachir1/bachir1/1433.ts
-#EXTINF:-1,IT|Axn
-http://topiptv.net:5890/live/bachir1/bachir1/1236.ts
-#EXTINF:-1,IT|Fox HD
-http://topiptv.net:5890/live/bachir1/bachir1/1144.ts
-#EXTINF:-1,IT|Fox Comedy HD
-http://topiptv.net:5890/live/bachir1/bachir1/1145.ts
-#EXTINF:-1,IT|Fox Life
-http://topiptv.net:5890/live/bachir1/bachir1/424.ts
-#EXTINF:-1,IT|Fox Crime HD
-http://topiptv.net:5890/live/bachir1/bachir1/425.ts
-#EXTINF:-1,IT|Fox Animation
-http://topiptv.net:5890/live/bachir1/bachir1/426.ts
-#EXTINF:-1,IT|Sky 3D
-http://topiptv.net:5890/live/bachir1/bachir1/1244.ts
-#EXTINF:-1,IT|Sky Uno HD
-http://topiptv.net:5890/live/bachir1/bachir1/1243.ts
-#EXTINF:-1,IT|Sky Atlantic
-http://topiptv.net:5890/live/bachir1/bachir1/1143.ts
-#EXTINF:-1,IT|Sky Cinema 1
-http://topiptv.net:5890/live/bachir1/bachir1/408.ts
-#EXTINF:-1,IT|Sky Cinema 24 HD
-http://topiptv.net:5890/live/bachir1/bachir1/409.ts
-#EXTINF:-1,IT|Sky Cinema Max HD
-http://topiptv.net:5890/live/bachir1/bachir1/410.ts
-#EXTINF:-1,IT|Sky Cinema Family
-http://topiptv.net:5890/live/bachir1/bachir1/411.ts
-#EXTINF:-1,IT|Sky Cinema Comedy HD
-http://topiptv.net:5890/live/bachir1/bachir1/412.ts
-#EXTINF:-1,IT|Sky Cinema Passion HD
-http://topiptv.net:5890/live/bachir1/bachir1/1141.ts
-#EXTINF:-1,IT|Sky Cinema Oscar HD
-http://topiptv.net:5890/live/bachir1/bachir1/1142.ts
-#EXTINF:-1,IT|Sky Cinema Cult HD
-http://topiptv.net:5890/live/bachir1/bachir1/1140.ts
-#EXTINF:-1,IT|Sky Cinema Classic HD
-http://topiptv.net:5890/live/bachir1/bachir1/413.ts
-#EXTINF:-1,--|IT SPORT|--
-http://topiptv.net:5890/live/bachir1/bachir1/1435.ts
-#EXTINF:-1,IT|Sky Sport 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/420.ts
-#EXTINF:-1,IT|Sky Sport 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1232.ts
-#EXTINF:-1,IT|Sky Sport 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/417.ts
-#EXTINF:-1,IT|Sky Sport 24 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1235.ts
-#EXTINF:-1,IT|Sky Sport F1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/422.ts
-#EXTINF:-1,IT|Sky Calcio 1
-http://topiptv.net:5890/live/bachir1/bachir1/1233.ts
-#EXTINF:-1,IT|Sky Calcio 2
-http://topiptv.net:5890/live/bachir1/bachir1/1234.ts
-#EXTINF:-1,IT|Super Tennis HD
-http://topiptv.net:5890/live/bachir1/bachir1/1149.ts
-#EXTINF:-1,IT|Fox Sports HD
-http://topiptv.net:5890/live/bachir1/bachir1/1147.ts
-#EXTINF:-1,IT|Sky Moto Gp HD
-http://topiptv.net:5890/live/bachir1/bachir1/1336.ts
-#EXTINF:-1,--|IT CULTURE|--
-http://topiptv.net:5890/live/bachir1/bachir1/1436.ts
-#EXTINF:-1,IT| Nat Geo Wild
-http://topiptv.net:5890/live/bachir1/bachir1/416.ts
-#EXTINF:-1,IT|Nat Geo People
-http://topiptv.net:5890/live/bachir1/bachir1/433.ts
-#EXTINF:-1,IT|National Geo
-http://topiptv.net:5890/live/bachir1/bachir1/415.ts
-#EXTINF:-1,IT|Discovery Science
-http://topiptv.net:5890/live/bachir1/bachir1/419.ts
-#EXTINF:-1,IT|Discovery
-http://topiptv.net:5890/live/bachir1/bachir1/418.ts
-#EXTINF:-1,IT|Caccia Pesca
-http://topiptv.net:5890/live/bachir1/bachir1/1308.ts
-#EXTINF:-1,IT|Discovery Travel HD
-http://topiptv.net:5890/live/bachir1/bachir1/1148.ts
-#EXTINF:-1,IT|Animal Planet
-http://topiptv.net:5890/live/bachir1/bachir1/836.ts
-#EXTINF:-1,--|IT MEDIASET|--
-http://topiptv.net:5890/live/bachir1/bachir1/1422.ts
-#EXTINF:-1,IT|Premium Sport 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/439.ts
-#EXTINF:-1,IT|Premium Sport 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/423.ts
-#EXTINF:-1,IT|Premium Calcio HD1
-http://topiptv.net:5890/live/bachir1/bachir1/3844.ts
-#EXTINF:-1,IT|Premium Calcio HD2
-http://topiptv.net:5890/live/bachir1/bachir1/3843.ts
-#EXTINF:-1,IT|Premium Calcio HD3
-http://topiptv.net:5890/live/bachir1/bachir1/3842.ts
-#EXTINF:-1,IT|Premium Calcio HD4
-http://topiptv.net:5890/live/bachir1/bachir1/3841.ts
-#EXTINF:-1,IT|Premium Calcio HD5
-http://topiptv.net:5890/live/bachir1/bachir1/3840.ts
-#EXTINF:-1,IT|Premium Calcio HD6
-http://topiptv.net:5890/live/bachir1/bachir1/3839.ts
-#EXTINF:-1,IT|Premium Calcio HD7
-http://topiptv.net:5890/live/bachir1/bachir1/3838.ts
-#EXTINF:-1,IT|Premium Crime HD
-http://topiptv.net:5890/live/bachir1/bachir1/835.ts
-#EXTINF:-1,IT|Premium Crime +24 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1238.ts
-#EXTINF:-1,IT|Premium Cinema HD
-http://topiptv.net:5890/live/bachir1/bachir1/427.ts
-#EXTINF:-1,IT|Premium Cinema 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/428.ts
-#EXTINF:-1,IT|Premium Cinema +24 HD
-http://topiptv.net:5890/live/bachir1/bachir1/429.ts
-#EXTINF:-1,IT|Premium Action HD
-http://topiptv.net:5890/live/bachir1/bachir1/430.ts
-#EXTINF:-1,IT|Premium Action +24 HD
-http://topiptv.net:5890/live/bachir1/bachir1/431.ts
-#EXTINF:-1,IT|Premium Energy HD
-http://topiptv.net:5890/live/bachir1/bachir1/435.ts
-#EXTINF:-1,IT|Premium Emotion HD
-http://topiptv.net:5890/live/bachir1/bachir1/436.ts
-#EXTINF:-1,IT|Premium Comedy HD
-http://topiptv.net:5890/live/bachir1/bachir1/432.ts
-#EXTINF:-1,IT|Premium Stories HD
-http://topiptv.net:5890/live/bachir1/bachir1/434.ts
-#EXTINF:-1,IT|Premium Joi HD
-http://topiptv.net:5890/live/bachir1/bachir1/1237.ts
-#EXTINF:-1,--|IT PPV|--
-http://topiptv.net:5890/live/bachir1/bachir1/1432.ts
-#EXTINF:-1,IT|Primafila 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/440.ts
-#EXTINF:-1,IT|Primafila 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/441.ts
-#EXTINF:-1,IT|Primafila 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/442.ts
-#EXTINF:-1,IT|Primafila 4 HD
-http://topiptv.net:5890/live/bachir1/bachir1/443.ts
-#EXTINF:-1,IT|Primafila 5 HD
-http://topiptv.net:5890/live/bachir1/bachir1/444.ts
-#EXTINF:-1,IT|Primafila 6 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1112.ts
-#EXTINF:-1,IT|Primafila 7 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1113.ts
-#EXTINF:-1,IT|Primafila 8 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1114.ts
-#EXTINF:-1,IT|Primafila 9 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1115.ts
-#EXTINF:-1,IT|Primafila 10 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1245.ts
-#EXTINF:-1,IT|Primafila 11 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1122.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/693.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/692.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/691.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://185.2.83.209:8000/live/tony2/tony2/690.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/563.ts
+#EXTINF:-1,IT: Rai yoyo
+http://185.2.83.209:8000/live/tony2/tony2/553.ts
+#EXTINF:-1,IT: Rai Gulp
+http://185.2.83.209:8000/live/tony2/tony2/552.ts
+#EXTINF:-1,IT: Rai Movie
+http://185.2.83.209:8000/live/tony2/tony2/584.ts
+#EXTINF:-1,IT: Rai Premium
+http://185.2.83.209:8000/live/tony2/tony2/583.ts
+#EXTINF:-1,IT: Rai News 24
+http://185.2.83.209:8000/live/tony2/tony2/689.ts
+#EXTINF:-1,IT: Rete 4
+http://185.2.83.209:8000/live/tony2/tony2/1848.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://185.2.83.209:8000/live/tony2/tony2/688.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://185.2.83.209:8000/live/tony2/tony2/687.ts
+#EXTINF:-1,IT: History alb
+http://185.2.83.209:8000/live/tony2/tony2/1873.ts
+#EXTINF:-1,IT: Telearena
+http://185.2.83.209:8000/live/tony2/tony2/561.ts
+#EXTINF:-1,IT: Telepavia
+http://185.2.83.209:8000/live/tony2/tony2/1843.ts
+#EXTINF:-1,IT: Trentino TV
+http://185.2.83.209:8000/live/tony2/tony2/1842.ts
+#EXTINF:-1,IT: TeleTicino
+http://185.2.83.209:8000/live/tony2/tony2/1869.ts
+#EXTINF:-1,IT: Canale 10
+http://185.2.83.209:8000/live/tony2/tony2/565.ts
+#EXTINF:-1,IT: TG2000
+http://185.2.83.209:8000/live/tony2/tony2/564.ts
+#EXTINF:-1,IT: Orler
+http://185.2.83.209:8000/live/tony2/tony2/1871.ts
+#EXTINF:-1,IT: Super TV
+http://185.2.83.209:8000/live/tony2/tony2/1870.ts
+#EXTINF:-1,IT: Aslive3
+http://185.2.83.209:8000/live/tony2/tony2/555.ts
+#EXTINF:-1,IT: videocalabria
+http://185.2.83.209:8000/live/tony2/tony2/569.ts
+#EXTINF:-1,IT: Tele 8
+http://185.2.83.209:8000/live/tony2/tony2/1845.ts
+#EXTINF:-1,IT: RTV San Marino
+http://185.2.83.209:8000/live/tony2/tony2/1841.ts
+#EXTINF:-1,IT: Euroneww Italia
+http://185.2.83.209:8000/live/tony2/tony2/1844.ts
+#EXTINF:-1,IT: Canale 7
+http://185.2.83.209:8000/live/tony2/tony2/1846.ts
+#EXTINF:-1,IT: TVM 1 Dvr
+http://185.2.83.209:8000/live/tony2/tony2/571.ts
+#EXTINF:-1,IT: TVM 2 Dvr
+http://185.2.83.209:8000/live/tony2/tony2/570.ts
+#EXTINF:-1,IT: Cartoonito
+http://185.2.83.209:8000/live/tony2/tony2/554.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/685.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/686.ts
+#EXTINF:-1,IT: Real Time
+http://185.2.83.209:8000/live/tony2/tony2/684.ts
+#EXTINF:-1,IT: Dmax
+http://185.2.83.209:8000/live/tony2/tony2/657.ts
+#EXTINF:-1,IT: Telerama
+http://185.2.83.209:8000/live/tony2/tony2/585.ts
+#EXTINF:-1,IT: La 5
+http://185.2.83.209:8000/live/tony2/tony2/556.ts
+#EXTINF:-1,IT: La7
+http://185.2.83.209:8000/live/tony2/tony2/683.ts
+#EXTINF:-1,---------- Cinma ----------
+http://185.2.83.209:8000/live/tony2/tony2/682.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/681.ts
+#EXTINF:-1,IT: Sky Cinema +1 HD
+http://185.2.83.209:8000/live/tony2/tony2/680.ts
+#EXTINF:-1,IT: Sky Cinema +24 HD
+http://185.2.83.209:8000/live/tony2/tony2/679.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://185.2.83.209:8000/live/tony2/tony2/675.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://185.2.83.209:8000/live/tony2/tony2/672.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://185.2.83.209:8000/live/tony2/tony2/677.ts
+#EXTINF:-1,IT: Sky Cinema +Max HD
+http://185.2.83.209:8000/live/tony2/tony2/673.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://185.2.83.209:8000/live/tony2/tony2/678.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://185.2.83.209:8000/live/tony2/tony2/671.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://185.2.83.209:8000/live/tony2/tony2/670.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://185.2.83.209:8000/live/tony2/tony2/674.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://185.2.83.209:8000/live/tony2/tony2/669.ts
+#EXTINF:-1,IT: Fm italia
+http://185.2.83.209:8000/live/tony2/tony2/663.ts
+#EXTINF:-1,IT: Mtv Music
+http://185.2.83.209:8000/live/tony2/tony2/668.ts
+#EXTINF:-1,IT: Giallo
+http://185.2.83.209:8000/live/tony2/tony2/1850.ts
+#EXTINF:-1,IT: Cielo
+http://185.2.83.209:8000/live/tony2/tony2/658.ts
+#EXTINF:-1,IT: k2
+http://185.2.83.209:8000/live/tony2/tony2/557.ts
+#EXTINF:-1,IT: Boing
+http://185.2.83.209:8000/live/tony2/tony2/659.ts
+#EXTINF:-1,IT: Super!
+http://185.2.83.209:8000/live/tony2/tony2/558.ts
+#EXTINF:-1,IT: Frisbee
+http://185.2.83.209:8000/live/tony2/tony2/1857.ts
+#EXTINF:-1,IT: Sky Baby
+http://185.2.83.209:8000/live/tony2/tony2/1901.ts
+#EXTINF:-1,IT: Sky Boomerang
+http://185.2.83.209:8000/live/tony2/tony2/1898.ts
+#EXTINF:-1,IT: Sky DeA Junior
+http://185.2.83.209:8000/live/tony2/tony2/1899.ts
+#EXTINF:-1,IT: Sky DeA Kids
+http://185.2.83.209:8000/live/tony2/tony2/1900.ts
+#EXTINF:-1,IT: R italya HD
+http://185.2.83.209:8000/live/tony2/tony2/664.ts
+#EXTINF:-1,IT: Iris
+http://185.2.83.209:8000/live/tony2/tony2/676.ts
+#EXTINF:-1,IT: Alice HD
+http://185.2.83.209:8000/live/tony2/tony2/665.ts
+#EXTINF:-1,IT: Sat 2000
+http://185.2.83.209:8000/live/tony2/tony2/662.ts
+#EXTINF:-1,IT: Onda tv
+http://185.2.83.209:8000/live/tony2/tony2/1849.ts
+#EXTINF:-1,IT: TV 8
+http://185.2.83.209:8000/live/tony2/tony2/1851.ts
+#EXTINF:-1,IT: Paramount
+http://185.2.83.209:8000/live/tony2/tony2/1852.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://185.2.83.209:8000/live/tony2/tony2/1874.ts
+#EXTINF:-1,IT: Fine Living
+http://185.2.83.209:8000/live/tony2/tony2/1853.ts
+#EXTINF:-1,IT: Deejay TV
+http://185.2.83.209:8000/live/tony2/tony2/1854.ts
+#EXTINF:-1,IT: Classica HD
+http://185.2.83.209:8000/live/tony2/tony2/1856.ts
+#EXTINF:-1,IT: Gambero Rosso
+http://185.2.83.209:8000/live/tony2/tony2/1855.ts
+#EXTINF:-1,IT: Pescare Cacciare TV
+http://185.2.83.209:8000/live/tony2/tony2/1867.ts
+#EXTINF:-1,IT: Telelombardia
+http://185.2.83.209:8000/live/tony2/tony2/1866.ts
+#EXTINF:-1,IT: Nuvolari
+http://185.2.83.209:8000/live/tony2/tony2/1868.ts
+#EXTINF:-1,IT: Sky Top Crime
+http://185.2.83.209:8000/live/tony2/tony2/559.ts
+#EXTINF:-1,IT: Sky Sienatv
+http://185.2.83.209:8000/live/tony2/tony2/666.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://185.2.83.209:8000/live/tony2/tony2/667.ts
+#EXTINF:-1,IT: Sky Focus
+http://185.2.83.209:8000/live/tony2/tony2/660.ts
+#EXTINF:-1,IT: Sky Mediaset Extra
+http://185.2.83.209:8000/live/tony2/tony2/603.ts
+#EXTINF:-1,IT: Sky Mediaset Italia 2
+http://185.2.83.209:8000/live/tony2/tony2/661.ts
+#EXTINF:-1,IT: Sky Fox Animation HD
+http://185.2.83.209:8000/live/tony2/tony2/1865.ts
+#EXTINF:-1,IT: Sky Fox Comedy HD
+http://185.2.83.209:8000/live/tony2/tony2/1864.ts
+#EXTINF:-1,IT: Sky Fox Crime HD
+http://185.2.83.209:8000/live/tony2/tony2/1863.ts
+#EXTINF:-1,IT: Sky Fox Life HD
+http://185.2.83.209:8000/live/tony2/tony2/1862.ts
+#EXTINF:-1,IT: Sky Fox HD
+http://185.2.83.209:8000/live/tony2/tony2/1861.ts
+#EXTINF:-1,---------- sport ----------
+http://185.2.83.209:8000/live/tony2/tony2/656.ts
+#EXTINF:-1,IT: Sky Fox Sport HD
+http://185.2.83.209:8000/live/tony2/tony2/650.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/655.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/654.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/653.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://185.2.83.209:8000/live/tony2/tony2/652.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://185.2.83.209:8000/live/tony2/tony2/651.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://185.2.83.209:8000/live/tony2/tony2/646.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://185.2.83.209:8000/live/tony2/tony2/645.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://185.2.83.209:8000/live/tony2/tony2/639.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://185.2.83.209:8000/live/tony2/tony2/560.ts
+#EXTINF:-1,IT: SportTitalia
+http://185.2.83.209:8000/live/tony2/tony2/638.ts
+#EXTINF:-1,IT: Rete Sport
+http://185.2.83.209:8000/live/tony2/tony2/1840.ts
+#EXTINF:-1,IT: Milan Channel
+http://185.2.83.209:8000/live/tony2/tony2/1860.ts
+#EXTINF:-1,IT: Sky Roma Channel
+http://185.2.83.209:8000/live/tony2/tony2/636.ts
+#EXTINF:-1,IT: Sky Juventus Channel
+http://185.2.83.209:8000/live/tony2/tony2/637.ts
+#EXTINF:-1,---------- Calcio -----------
+http://185.2.83.209:8000/live/tony2/tony2/644.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://185.2.83.209:8000/live/tony2/tony2/643.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/642.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/641.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/640.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://185.2.83.209:8000/live/tony2/tony2/568.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/567.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://185.2.83.209:8000/live/tony2/tony2/566.ts
+#EXTINF:-1,--------- Cultura ----------
+http://185.2.83.209:8000/live/tony2/tony2/635.ts
+#EXTINF:-1,IT: Sky TG 24
+http://185.2.83.209:8000/live/tony2/tony2/629.ts
+#EXTINF:-1,IT: Discovery HD
+http://185.2.83.209:8000/live/tony2/tony2/630.ts
+#EXTINF:-1,IT: Discovery T&L
+http://185.2.83.209:8000/live/tony2/tony2/1859.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://185.2.83.209:8000/live/tony2/tony2/1858.ts
+#EXTINF:-1,IT: Sky History HD
+http://185.2.83.209:8000/live/tony2/tony2/634.ts
+#EXTINF:-1,IT: National Geo HD
+http://185.2.83.209:8000/live/tony2/tony2/633.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://185.2.83.209:8000/live/tony2/tony2/632.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://185.2.83.209:8000/live/tony2/tony2/631.ts
+#EXTINF:-1,IT: Sky Animal Planet
+http://185.2.83.209:8000/live/tony2/tony2/604.ts
+#EXTINF:-1,----MwdiaEst Premium ----
+http://185.2.83.209:8000/live/tony2/tony2/628.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://185.2.83.209:8000/live/tony2/tony2/627.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/609.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://185.2.83.209:8000/live/tony2/tony2/612.ts
+#EXTINF:-1,IT: Premium Crime
+http://185.2.83.209:8000/live/tony2/tony2/621.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://185.2.83.209:8000/live/tony2/tony2/611.ts
+#EXTINF:-1,IT: Premium Action HD
+http://185.2.83.209:8000/live/tony2/tony2/626.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://185.2.83.209:8000/live/tony2/tony2/618.ts
+#EXTINF:-1,IT: Premium Stories
+http://185.2.83.209:8000/live/tony2/tony2/625.ts
+#EXTINF:-1,IT: Premium Stories +24
+http://185.2.83.209:8000/live/tony2/tony2/614.ts
+#EXTINF:-1,IT: Premium Energy
+http://185.2.83.209:8000/live/tony2/tony2/623.ts
+#EXTINF:-1,IT: Premium Energy +24
+http://185.2.83.209:8000/live/tony2/tony2/1872.ts
+#EXTINF:-1,IT: Premium Joy
+http://185.2.83.209:8000/live/tony2/tony2/624.ts
+#EXTINF:-1,IT: Premium Comedy
+http://185.2.83.209:8000/live/tony2/tony2/620.ts
+#EXTINF:-1,IT: Premium Emotion
+http://185.2.83.209:8000/live/tony2/tony2/622.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://185.2.83.209:8000/live/tony2/tony2/619.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://185.2.83.209:8000/live/tony2/tony2/617.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://185.2.83.209:8000/live/tony2/tony2/616.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://185.2.83.209:8000/live/tony2/tony2/613.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/608.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/610.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/606.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/605.ts
+#EXTINF:-1,IT: Premium Sport
+http://185.2.83.209:8000/live/tony2/tony2/615.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://185.2.83.209:8000/live/tony2/tony2/562.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://185.2.83.209:8000/live/tony2/tony2/607.ts
+#EXTINF:-1,---------- Primrafila ---------
+http://185.2.83.209:8000/live/tony2/tony2/602.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/601.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/600.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/599.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://185.2.83.209:8000/live/tony2/tony2/598.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/597.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://185.2.83.209:8000/live/tony2/tony2/596.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://185.2.83.209:8000/live/tony2/tony2/595.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://185.2.83.209:8000/live/tony2/tony2/594.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://185.2.83.209:8000/live/tony2/tony2/593.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://185.2.83.209:8000/live/tony2/tony2/592.ts
+#EXTINF:-1,IT: Sky Prima fila 11 HD
+http://185.2.83.209:8000/live/tony2/tony2/591.ts
+#EXTINF:-1,IT: Sky Prima fila 12 HD
+http://185.2.83.209:8000/live/tony2/tony2/590.ts
+#EXTINF:-1,IT: Sky Prima fila 13 HD
+http://185.2.83.209:8000/live/tony2/tony2/589.ts
+#EXTINF:-1,IT: Sky Prima fila 14 HD
+http://185.2.83.209:8000/live/tony2/tony2/588.ts
+#EXTINF:-1,IT: Sky Prima fila 15 HD
+http://185.2.83.209:8000/live/tony2/tony2/587.ts
+#EXTINF:-1,IT: Sky Prima Fila WWE HD
+http://185.2.83.209:8000/live/tony2/tony2/586.ts

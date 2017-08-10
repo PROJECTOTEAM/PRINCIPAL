@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -16,390 +16,159 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,ESP|LA 1
-http://topiptv.net:5890/live/bachir1/bachir1/490.ts
-#EXTINF:-1,ESP|LA 2
-http://topiptv.net:5890/live/bachir1/bachir1/489.ts
-#EXTINF:-1,ESP|ANTENA 3
-http://topiptv.net:5890/live/bachir1/bachir1/545.ts
-#EXTINF:-1,ESP|Atreseries
-http://topiptv.net:5890/live/bachir1/bachir1/912.ts
-#EXTINF:-1,ESP|Cuatro
-http://topiptv.net:5890/live/bachir1/bachir1/817.ts
-#EXTINF:-1,ESP|TELECINCO
-http://topiptv.net:5890/live/bachir1/bachir1/818.ts
-#EXTINF:-1,ESP|lasexta
-http://topiptv.net:5890/live/bachir1/bachir1/527.ts
-#EXTINF:-1,ESP|BE MAD
-http://topiptv.net:5890/live/bachir1/bachir1/1007.ts
-#EXTINF:-1,ESP|Neox
-http://topiptv.net:5890/live/bachir1/bachir1/1002.ts
-#EXTINF:-1,ESP|Nova
-http://topiptv.net:5890/live/bachir1/bachir1/1003.ts
-#EXTINF:-1,ESP|ENERGY
-http://topiptv.net:5890/live/bachir1/bachir1/1383.ts
-#EXTINF:-1,ESP|DIVINITY
-http://topiptv.net:5890/live/bachir1/bachir1/1384.ts
-#EXTINF:-1,ESP|MTV
-http://topiptv.net:5890/live/bachir1/bachir1/1865.ts
-#EXTINF:-1,ESP|Mega
-http://topiptv.net:5890/live/bachir1/bachir1/526.ts
-#EXTINF:-1,ESP|Andalusia
-http://topiptv.net:5890/live/bachir1/bachir1/1377.ts
-#EXTINF:-1,ESP|8 TV
-http://topiptv.net:5890/live/bachir1/bachir1/1380.ts
-#EXTINF:-1,ESP|3 24
-http://topiptv.net:5890/live/bachir1/bachir1/1381.ts
-#EXTINF:-1,ESP|Canal 40
-http://topiptv.net:5890/live/bachir1/bachir1/1378.ts
-#EXTINF:-1,ESP|24 HORAS
-http://topiptv.net:5890/live/bachir1/bachir1/1389.ts
-#EXTINF:-1,ESP|Mediterraneo
-http://topiptv.net:5890/live/bachir1/bachir1/1005.ts
-#EXTINF:-1,ESP|13 TV
-http://topiptv.net:5890/live/bachir1/bachir1/1006.ts
-#EXTINF:-1,ESP|TVG
-http://topiptv.net:5890/live/bachir1/bachir1/530.ts
-#EXTINF:-1,--|ESP DEPORTES|--
-http://topiptv.net:5890/live/bachir1/bachir1/1411.ts
-#EXTINF:-1,ESP|BEIN SPORTS HD
-http://topiptv.net:5890/live/bachir1/bachir1/2213.ts
-#EXTINF:-1,ESP|Bein Sports
-http://topiptv.net:5890/live/bachir1/bachir1/1302.ts
-#EXTINF:-1,ESP|Bein LaLiga
-http://topiptv.net:5890/live/bachir1/bachir1/1410.ts
-#EXTINF:-1,ESP|LaLiga Bar
-http://topiptv.net:5890/live/bachir1/bachir1/534.ts
-#EXTINF:-1,ESP|M.Fútbol
-http://topiptv.net:5890/live/bachir1/bachir1/535.ts
-#EXTINF:-1,ESP|M.Partidazo
-http://topiptv.net:5890/live/bachir1/bachir1/1386.ts
-#EXTINF:-1,ESP|M.Deportes
-http://topiptv.net:5890/live/bachir1/bachir1/536.ts
-#EXTINF:-1,ESP|M.Deportes 2
-http://topiptv.net:5890/live/bachir1/bachir1/1817.ts
-#EXTINF:-1,ESP|GOL TV
-http://topiptv.net:5890/live/bachir1/bachir1/2038.ts
-#EXTINF:-1,ESP|Barça TV
-http://topiptv.net:5890/live/bachir1/bachir1/542.ts
-#EXTINF:-1,ESP|R. MADRID
-http://topiptv.net:5890/live/bachir1/bachir1/491.ts
-#EXTINF:-1,ESP|TELEDEPORTE
-http://topiptv.net:5890/live/bachir1/bachir1/1379.ts
-#EXTINF:-1,ESP|Eurosport1
-http://topiptv.net:5890/live/bachir1/bachir1/2504.ts
-#EXTINF:-1,ESP|Movistar F1
-http://topiptv.net:5890/live/bachir1/bachir1/1246.ts
-#EXTINF:-1,ESP|Movistar MotoGP
-http://topiptv.net:5890/live/bachir1/bachir1/1247.ts
-#EXTINF:-1,ESP|M.GOLF
-http://topiptv.net:5890/live/bachir1/bachir1/1549.ts
-#EXTINF:-1,ESP|TOROS
-http://topiptv.net:5890/live/bachir1/bachir1/1453.ts
-#EXTINF:-1,--|ESP CINE|--
-http://topiptv.net:5890/live/bachir1/bachir1/1412.ts
-#EXTINF:-1,ESP|#0 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2011.ts
-#EXTINF:-1,ESP|# 0
-http://topiptv.net:5890/live/bachir1/bachir1/815.ts
-#EXTINF:-1,ESP|M.Estrenos
-http://topiptv.net:5890/live/bachir1/bachir1/814.ts
-#EXTINF:-1,ESP|M.CINE N
-http://topiptv.net:5890/live/bachir1/bachir1/2508.ts
-#EXTINF:-1,ESP|M.DCine
-http://topiptv.net:5890/live/bachir1/bachir1/539.ts
-#EXTINF:-1,ESP|M.comedia
-http://topiptv.net:5890/live/bachir1/bachir1/540.ts
-#EXTINF:-1,ESP|M.Acción
-http://topiptv.net:5890/live/bachir1/bachir1/541.ts
-#EXTINF:-1,ESP|M.SERIES HD
-http://topiptv.net:5890/live/bachir1/bachir1/532.ts
-#EXTINF:-1,ESP|M.Series Xtra
-http://topiptv.net:5890/live/bachir1/bachir1/1991.ts
-#EXTINF:-1,ESP|Hollywood
-http://topiptv.net:5890/live/bachir1/bachir1/529.ts
-#EXTINF:-1,ESP|M.Xtra
-http://topiptv.net:5890/live/bachir1/bachir1/531.ts
-#EXTINF:-1,ESP|Fox
-http://topiptv.net:5890/live/bachir1/bachir1/488.ts
-#EXTINF:-1,ESP|FOX LIFE
-http://topiptv.net:5890/live/bachir1/bachir1/1108.ts
-#EXTINF:-1,ESP|COSMO HD
-http://topiptv.net:5890/live/bachir1/bachir1/816.ts
-#EXTINF:-1,ESP|TNT
-http://topiptv.net:5890/live/bachir1/bachir1/1016.ts
-#EXTINF:-1,ESP|AMC
-http://topiptv.net:5890/live/bachir1/bachir1/1388.ts
-#EXTINF:-1,ESP|SYFY HD
-http://topiptv.net:5890/live/bachir1/bachir1/487.ts
-#EXTINF:-1,ESP|Calle 13
-http://topiptv.net:5890/live/bachir1/bachir1/538.ts
-#EXTINF:-1,ESP|AXN WHITE HD
-http://topiptv.net:5890/live/bachir1/bachir1/543.ts
-#EXTINF:-1,ESP|AXN HD
-http://topiptv.net:5890/live/bachir1/bachir1/544.ts
-#EXTINF:-1,ESP|TCM HD
-http://topiptv.net:5890/live/bachir1/bachir1/1819.ts
-#EXTINF:-1,ESP|Comedy Central HD
-http://topiptv.net:5890/live/bachir1/bachir1/1820.ts
-#EXTINF:-1,ESP|Parlamento
-http://topiptv.net:5890/live/bachir1/bachir1/3077.ts
-#EXTINF:-1,ESP|PARAMOUNT
-http://topiptv.net:5890/live/bachir1/bachir1/3076.ts
-#EXTINF:-1,--|ESP CULTURALES|--
-http://topiptv.net:5890/live/bachir1/bachir1/1413.ts
-#EXTINF:-1,ESP|VIAJAR HD
-http://topiptv.net:5890/live/bachir1/bachir1/2212.ts
-#EXTINF:-1,ESP|Viajar
-http://topiptv.net:5890/live/bachir1/bachir1/1382.ts
-#EXTINF:-1,ESP|HISTORIA
-http://topiptv.net:5890/live/bachir1/bachir1/1387.ts
-#EXTINF:-1,ESP|Nat Geographic
-http://topiptv.net:5890/live/bachir1/bachir1/1109.ts
-#EXTINF:-1,ESP|NAT GEO WILD
-http://topiptv.net:5890/live/bachir1/bachir1/924.ts
-#EXTINF:-1,ESP|DISCOVERY
-http://topiptv.net:5890/live/bachir1/bachir1/2509.ts
-#EXTINF:-1,ESP|AyE
-http://topiptv.net:5890/live/bachir1/bachir1/1385.ts
-#EXTINF:-1,ESP|CRIMIN INV
-http://topiptv.net:5890/live/bachir1/bachir1/2503.ts
-#EXTINF:-1,ESP|CAZA Y PESCA
-http://topiptv.net:5890/live/bachir1/bachir1/981.ts
-#EXTINF:-1,ESP|DECASA
-http://topiptv.net:5890/live/bachir1/bachir1/2507.ts
-#EXTINF:-1,ESP|Od!sea
-http://topiptv.net:5890/live/bachir1/bachir1/915.ts
-#EXTINF:-1,ESP|Canal Cocina
-http://topiptv.net:5890/live/bachir1/bachir1/1818.ts
-#EXTINF:-1,--|ESP NINIOS|--
-http://topiptv.net:5890/live/bachir1/bachir1/1993.ts
-#EXTINF:-1,ESP|FDF
-http://topiptv.net:5890/live/bachir1/bachir1/1868.ts
-#EXTINF:-1,ESP|boing
-http://topiptv.net:5890/live/bachir1/bachir1/2001.ts
-#EXTINF:-1,ESP|Panda
-http://topiptv.net:5890/live/bachir1/bachir1/2500.ts
-#EXTINF:-1,ESP|Clan TVE
-http://topiptv.net:5890/live/bachir1/bachir1/1866.ts
-#EXTINF:-1,ESP|Disney XD
-http://topiptv.net:5890/live/bachir1/bachir1/1992.ts
-#EXTINF:-1,ESP|Disney Channel
-http://topiptv.net:5890/live/bachir1/bachir1/1990.ts
-#EXTINF:-1,ESP|DISNEY JR
-http://topiptv.net:5890/live/bachir1/bachir1/874.ts
-#EXTINF:-1,ESP|Nickelodeon
-http://topiptv.net:5890/live/bachir1/bachir1/3071.ts
-#EXTINF:-1,--|ESP PPV|--
-http://topiptv.net:5890/live/bachir1/bachir1/1897.ts
-#EXTINF:-1,ESP|Taquilla 1
-http://topiptv.net:5890/live/bachir1/bachir1/1896.ts
-#EXTINF:-1,ESP|Taquilla 2
-http://topiptv.net:5890/live/bachir1/bachir1/2002.ts
-#EXTINF:-1,ESP|Taquilla 3
-http://topiptv.net:5890/live/bachir1/bachir1/2003.ts
-#EXTINF:-1,ESP|Taquilla 4
-http://topiptv.net:5890/live/bachir1/bachir1/2004.ts
-#EXTINF:-1,ESP|Taquilla 5
-http://topiptv.net:5890/live/bachir1/bachir1/2005.ts
-#EXTINF:-1,ESP|Taquilla 6
-http://topiptv.net:5890/live/bachir1/bachir1/2006.ts
-#EXTINF:-1,ESP|Taquilla 7
-http://topiptv.net:5890/live/bachir1/bachir1/2007.ts
-#EXTINF:-1,ESP|Taquilla 8
-http://topiptv.net:5890/live/bachir1/bachir1/2008.ts
-#EXTINF:-1,|!p|-----LOCAL 1080P ESP-----|!p|
-http://topiptv.net:5890/live/bachir1/bachir1/3107.ts
-#EXTINF:-1,ESP|1080p|LA 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/3022.ts
-#EXTINF:-1,ESP|1080p|ANTENA 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2933.ts
-#EXTINF:-1,ESP|1080p|CUATRO HD
-http://topiptv.net:5890/live/bachir1/bachir1/2986.ts
-#EXTINF:-1,ESP|1080p|TELECINCO HD
-http://topiptv.net:5890/live/bachir1/bachir1/3085.ts
-#EXTINF:-1,ESP|1080p|LASEXTA HD
-http://topiptv.net:5890/live/bachir1/bachir1/3025.ts
-#EXTINF:-1,ESP|1080p|MEGA HD
-http://topiptv.net:5890/live/bachir1/bachir1/3115.ts
-#EXTINF:-1,ESP|576p|TVGA
-http://topiptv.net:5890/live/bachir1/bachir1/3015.ts
-#EXTINF:-1,ESP|576p|24 HORAS
-http://topiptv.net:5890/live/bachir1/bachir1/3006.ts
-#EXTINF:-1,--Deportes|Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3108.ts
-#EXTINF:-1,ESP|1080p|M.FUTBOL HD
-http://topiptv.net:5890/live/bachir1/bachir1/3054.ts
-#EXTINF:-1,ESP|1080p|M.DEP 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/3031.ts
-#EXTINF:-1,ESP|1080p|M.DEP 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/3032.ts
-#EXTINF:-1,ESP|1080p|M.Partidazo HD
-http://topiptv.net:5890/live/bachir1/bachir1/3042.ts
-#EXTINF:-1,ESP|1080p|LALIGA TV BAR HD
-http://topiptv.net:5890/live/bachir1/bachir1/3027.ts
-#EXTINF:-1,ESP|1080p|beIN LALIGA HD
-http://topiptv.net:5890/live/bachir1/bachir1/2942.ts
-#EXTINF:-1,ESP|1080p|beIN LALIGA 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2957.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 1
-http://topiptv.net:5890/live/bachir1/bachir1/2959.ts
-#EXTINF:-1,ESP|1080p|beIN LALIGA 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2958.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 2
-http://topiptv.net:5890/live/bachir1/bachir1/2960.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 3
-http://topiptv.net:5890/live/bachir1/bachir1/2961.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 4
-http://topiptv.net:5890/live/bachir1/bachir1/2962.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 5
-http://topiptv.net:5890/live/bachir1/bachir1/2963.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 6
-http://topiptv.net:5890/live/bachir1/bachir1/2964.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 7
-http://topiptv.net:5890/live/bachir1/bachir1/2965.ts
-#EXTINF:-1,ESP|576p|beIN LALIGA 8
-http://topiptv.net:5890/live/bachir1/bachir1/2966.ts
-#EXTINF:-1,ESP|1080p|beIN SPORTS HD
-http://topiptv.net:5890/live/bachir1/bachir1/2944.ts
-#EXTINF:-1,ESP|1080p|beIN MAX 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2945.ts
-#EXTINF:-1,ESP|576p|beIN MAX 1 SD
-http://topiptv.net:5890/live/bachir1/bachir1/2946.ts
-#EXTINF:-1,ESP|576p|beIN MAX 1
-http://topiptv.net:5890/live/bachir1/bachir1/2949.ts
-#EXTINF:-1,ESP|1080p|beIN MAX 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2948.ts
-#EXTINF:-1,ESP|576p|beIN MAX SD
-http://topiptv.net:5890/live/bachir1/bachir1/2947.ts
-#EXTINF:-1,ESP|576p|beIN MAX 2
-http://topiptv.net:5890/live/bachir1/bachir1/2950.ts
-#EXTINF:-1,ESP|576p|beIN MAX 3
-http://topiptv.net:5890/live/bachir1/bachir1/2951.ts
-#EXTINF:-1,ESP|576p|beIN MAX 4
-http://topiptv.net:5890/live/bachir1/bachir1/2952.ts
-#EXTINF:-1,ESP|576p|beIN MAX 5
-http://topiptv.net:5890/live/bachir1/bachir1/2953.ts
-#EXTINF:-1,ESP|576p|beIN MAX 6
-http://topiptv.net:5890/live/bachir1/bachir1/2954.ts
-#EXTINF:-1,ESP|576p|beIN MAX 7
-http://topiptv.net:5890/live/bachir1/bachir1/2955.ts
-#EXTINF:-1,ESP|576p|beIN MAX 8
-http://topiptv.net:5890/live/bachir1/bachir1/2956.ts
-#EXTINF:-1,ESP|1080p| EUROSPORT 1HD
-http://topiptv.net:5890/live/bachir1/bachir1/3103.ts
-#EXTINF:-1,ESP|1080p|M.MOTOGP HD
-http://topiptv.net:5890/live/bachir1/bachir1/3057.ts
-#EXTINF:-1,ESP|1080p|M.GOLF HD
-http://topiptv.net:5890/live/bachir1/bachir1/3055.ts
-#EXTINF:-1,ESP|1080p|M.FORMULA 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/3053.ts
-#EXTINF:-1,ESP|1080p|TOROS  HD
-http://topiptv.net:5890/live/bachir1/bachir1/3091.ts
-#EXTINF:-1,ESP|576p|MULTIDEPORTE
-http://topiptv.net:5890/live/bachir1/bachir1/3060.ts
-#EXTINF:-1,ESP|576p|Multideporte 1
-http://topiptv.net:5890/live/bachir1/bachir1/3061.ts
-#EXTINF:-1,ESP|576p|Multideporte 2
-http://topiptv.net:5890/live/bachir1/bachir1/3062.ts
-#EXTINF:-1,ESP|576p|Multideporte 3
-http://topiptv.net:5890/live/bachir1/bachir1/3063.ts
-#EXTINF:-1,ESP|576p|Multideporte 4
-http://topiptv.net:5890/live/bachir1/bachir1/3064.ts
-#EXTINF:-1,ESP|576p|Multideporte 5
-http://topiptv.net:5890/live/bachir1/bachir1/3065.ts
-#EXTINF:-1,--Cine-|Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3109.ts
-#EXTINF:-1,ESP|1080p|#0 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2928.ts
-#EXTINF:-1,ESP|1080p|M.ESTRENOS HD
-http://topiptv.net:5890/live/bachir1/bachir1/3035.ts
-#EXTINF:-1,ESP|1080p|M.COMEDIA HD
-http://topiptv.net:5890/live/bachir1/bachir1/3048.ts
-#EXTINF:-1,ESP|1080p|M.ACCI©N HD
-http://topiptv.net:5890/live/bachir1/bachir1/3046.ts
-#EXTINF:-1,ESP|1080p|M.DCINE HD
-http://topiptv.net:5890/live/bachir1/bachir1/3049.ts
-#EXTINF:-1,ESP|1080p|M.Series Xtra HD
-http://topiptv.net:5890/live/bachir1/bachir1/3045.ts
-#EXTINF:-1,ESP|1080p|SERIES HD
-http://topiptv.net:5890/live/bachir1/bachir1/3033.ts
-#EXTINF:-1,ESP|1080p|AMC HD
-http://topiptv.net:5890/live/bachir1/bachir1/2931.ts
-#EXTINF:-1,ESP|1080p|TNT HD
-http://topiptv.net:5890/live/bachir1/bachir1/3089.ts
-#EXTINF:-1,ESP|1080p|TCM HD
-http://topiptv.net:5890/live/bachir1/bachir1/3083.ts
-#EXTINF:-1,ESP|1080p|SYFYHD
-http://topiptv.net:5890/live/bachir1/bachir1/3106.ts
-#EXTINF:-1,ESP|1080p|HOLLYWOOD HD
-http://topiptv.net:5890/live/bachir1/bachir1/3019.ts
-#EXTINF:-1,ESP|1080p|FOX LIFE HD
-http://topiptv.net:5890/live/bachir1/bachir1/3001.ts
-#EXTINF:-1,ESP|1080p|FOX HD
-http://topiptv.net:5890/live/bachir1/bachir1/2999.ts
-#EXTINF:-1,ESP|1080p|COSMO HD
-http://topiptv.net:5890/live/bachir1/bachir1/2984.ts
-#EXTINF:-1,ESP|1080p|COMEDY CENTRAL HD
-http://topiptv.net:5890/live/bachir1/bachir1/2982.ts
-#EXTINF:-1,ESP|1080p|CALLE 13 HD
-http://topiptv.net:5890/live/bachir1/bachir1/2971.ts
-#EXTINF:-1,ESP|1080p|AXN WHITE HD
-http://topiptv.net:5890/live/bachir1/bachir1/2938.ts
-#EXTINF:-1,ESP|1080p|AXN HD
-http://topiptv.net:5890/live/bachir1/bachir1/2936.ts
-#EXTINF:-1,ESP|1080p|M.XTRA HD
-http://topiptv.net:5890/live/bachir1/bachir1/3034.ts
-#EXTINF:-1,ESP|1080p|CLASSICA
-http://topiptv.net:5890/live/bachir1/bachir1/2981.ts
-#EXTINF:-1,--PPV|Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3114.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 1
-http://topiptv.net:5890/live/bachir1/bachir1/3094.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 2
-http://topiptv.net:5890/live/bachir1/bachir1/3095.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 5
-http://topiptv.net:5890/live/bachir1/bachir1/3098.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 3
-http://topiptv.net:5890/live/bachir1/bachir1/3096.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 4
-http://topiptv.net:5890/live/bachir1/bachir1/3097.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 6
-http://topiptv.net:5890/live/bachir1/bachir1/3099.ts
-#EXTINF:-1,ESP|1080p|ALQUILER 7
-http://topiptv.net:5890/live/bachir1/bachir1/3100.ts
-#EXTINF:-1,--Culturales|Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3110.ts
-#EXTINF:-1,ESP|1080p|VIAJAR HD
-http://topiptv.net:5890/live/bachir1/bachir1/3093.ts
-#EXTINF:-1,ESP|1080p|RT DOC
-http://topiptv.net:5890/live/bachir1/bachir1/3013.ts
-#EXTINF:-1,ESP|576p|RT DOC
-http://topiptv.net:5890/live/bachir1/bachir1/3012.ts
-#EXTINF:-1,ESP|1080p|National Geographic HD
-http://topiptv.net:5890/live/bachir1/bachir1/3069.ts
-#EXTINF:-1,ESP|1080p| NATGEO WILD HD
-http://topiptv.net:5890/live/bachir1/bachir1/3104.ts
-#EXTINF:-1,ESP|1080p|CAZA Y PESCA HD
-http://topiptv.net:5890/live/bachir1/bachir1/2979.ts
-#EXTINF:-1,--Ninios|Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3111.ts
-#EXTINF:-1,ESP|1080p|NICKELODEONHD
-http://topiptv.net:5890/live/bachir1/bachir1/3105.ts
-#EXTINF:-1,ESP|1080p|DISNEY CHANNEL HD
-http://topiptv.net:5890/live/bachir1/bachir1/3102.ts
-#EXTINF:-1,--Musica||Full¡1080p|--
-http://topiptv.net:5890/live/bachir1/bachir1/3112.ts
-#EXTINF:-1,ESP|576p|NONSTOPEOPLE
-http://topiptv.net:5890/live/bachir1/bachir1/3073.ts
-#EXTINF:-1,ESP|576p|MTV ESPANA
-http://topiptv.net:5890/live/bachir1/bachir1/3066.ts
-#EXTINF:-1,ESP|1080p|MEZZO LIVE HD
-http://topiptv.net:5890/live/bachir1/bachir1/3037.ts
-#EXTINF:-1,ESP|576p|Mezzo
-http://topiptv.net:5890/live/bachir1/bachir1/3036.ts
-#EXTINF:-1,ESP|1080p|LOS 40
-http://topiptv.net:5890/live/bachir1/bachir1/3028.ts
-#EXTINF:-1,ESP|1080p|40 TV
-http://topiptv.net:5890/live/bachir1/bachir1/2994.ts
+#EXTINF:-1,ES: 24 Horas
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3366.ts
+#EXTINF:-1,ES: A&E
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3365.ts
+#EXTINF:-1,ES: AMC
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3364.ts
+#EXTINF:-1,ES: Antenna 3
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3362.ts
+#EXTINF:-1,ES: Axn
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3361.ts
+#EXTINF:-1,ES: AXN White
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3363.ts
+#EXTINF:-1,ES: Baby TV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3360.ts
+#EXTINF:-1,ES: Barca TV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3359.ts
+#EXTINF:-1,ES: Bein La Liga
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3358.ts
+#EXTINF:-1,ES: Bein Sport Spain
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3357.ts
+#EXTINF:-1,ES: Boing
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3356.ts
+#EXTINF:-1,ES: Calle 13
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3354.ts
+#EXTINF:-1,ES: CANAL #0*
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3355.ts
+#EXTINF:-1,ES: Canal #0
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3353.ts
+#EXTINF:-1,ES: Canal Accion
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3352.ts
+#EXTINF:-1,ES: Canal Cocina
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3351.ts
+#EXTINF:-1,ES: Canal Comedia
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3350.ts
+#EXTINF:-1,ES: Canal Dcine
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3349.ts
+#EXTINF:-1,ES: Canal Deportes 1
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3347.ts
+#EXTINF:-1,ES: Canal Deportes 2
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3346.ts
+#EXTINF:-1,ES: Canal Estrenos
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3345.ts
+#EXTINF:-1,ES: Canal F1
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3344.ts
+#EXTINF:-1,ES: Canal Futbal
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3343.ts
+#EXTINF:-1,ES: Canal Golf
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3342.ts
+#EXTINF:-1,ES: Canal Motogp
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3341.ts
+#EXTINF:-1,ES: Canal Orbe 21
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3340.ts
+#EXTINF:-1,ES: Canal Series
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3339.ts
+#EXTINF:-1,ES: Canal Series Xtra
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3338.ts
+#EXTINF:-1,ES: Canal Xtra
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3337.ts
+#EXTINF:-1,ES: Cazaypesca
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3336.ts
+#EXTINF:-1,ES: Comedy Central
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3335.ts
+#EXTINF:-1,ES: Cosmo
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3334.ts
+#EXTINF:-1,ES: Crime&Investigation
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3333.ts
+#EXTINF:-1,ES: Cuatro
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3332.ts
+#EXTINF:-1,ES: Decasa
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3331.ts
+#EXTINF:-1,ES: Discovery Channel
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3330.ts
+#EXTINF:-1,ES: Disney Channel
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3329.ts
+#EXTINF:-1,ES: Disney Jr.
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3328.ts
+#EXTINF:-1,ES: Disney XD
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3327.ts
+#EXTINF:-1,ES: Eurosport 1
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3325.ts
+#EXTINF:-1,ES: Eurosport 2
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3324.ts
+#EXTINF:-1,ES: FDF
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3323.ts
+#EXTINF:-1,ES: Fox
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3321.ts
+#EXTINF:-1,ES: FOX LIFE
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3322.ts
+#EXTINF:-1,ES: GOL
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3320.ts
+#EXTINF:-1,ES: Historia
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3319.ts
+#EXTINF:-1,ES: Canal Hollywood HD
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3318.ts
+#EXTINF:-1,ES: Iberalia TV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3317.ts
+#EXTINF:-1,ES: LA 1
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3316.ts
+#EXTINF:-1,ES: La 2
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3304.ts
+#EXTINF:-1,ES: La Liga
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3314.ts
+#EXTINF:-1,ES: LA Sexta
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3315.ts
+#EXTINF:-1,ES: Los 40
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3313.ts
+#EXTINF:-1,ES: MEZZO
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3312.ts
+#EXTINF:-1,ES: MTV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3311.ts
+#EXTINF:-1,ES: Nat Geo
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3326.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3309.ts
+#EXTINF:-1,ES: Nick Jr.
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3348.ts
+#EXTINF:-1,ES: Nonstop People
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3308.ts
+#EXTINF:-1,ES: NOVA
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3310.ts
+#EXTINF:-1,ES: Odisea
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3307.ts
+#EXTINF:-1,ES: Paramount Channel
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3306.ts
+#EXTINF:-1,ES: Real madrid
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3305.ts
+#EXTINF:-1,ES: Syfy
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3303.ts
+#EXTINF:-1,ES: TCM
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3302.ts
+#EXTINF:-1,ES: Telecinco
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3298.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3301.ts
+#EXTINF:-1,ES: TNT
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3300.ts
+#EXTINF:-1,ES: Toros
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3297.ts
+#EXTINF:-1,ES: TV Galicia
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3299.ts
+#EXTINF:-1,ES:  Cantabria
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1194.ts
+#EXTINF:-1,ES: DW Espanol
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1185.ts
+#EXTINF:-1,ES: el Correo tv
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1187.ts
+#EXTINF:-1,ES: telesur
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1198.ts
+#EXTINF:-1,ES: TVES TV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1200.ts
+#EXTINF:-1,ES: TVES TV ?
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1201.ts
+#EXTINF:-1,ES:Levente TV
+http://nitrotv.for-the.biz:25461/live/sherman/123456/1193.ts
+#EXTINF:-1,ES: Viajar
+http://nitrotv.for-the.biz:25461/live/sherman/123456/3296.ts

@@ -4,75 +4,91 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,NPO 1
-http://topiptv.net:5890/live/bachir1/bachir1/842.ts
-#EXTINF:-1,NPO 2
-http://topiptv.net:5890/live/bachir1/bachir1/843.ts
-#EXTINF:-1,NPO 3
-http://topiptv.net:5890/live/bachir1/bachir1/844.ts
-#EXTINF:-1,NET 5
-http://topiptv.net:5890/live/bachir1/bachir1/841.ts
-#EXTINF:-1,RTL 4
-http://topiptv.net:5890/live/bachir1/bachir1/1867.ts
-#EXTINF:-1,RTL 5
-http://topiptv.net:5890/live/bachir1/bachir1/771.ts
-#EXTINF:-1,RTL 7
-http://topiptv.net:5890/live/bachir1/bachir1/772.ts
-#EXTINF:-1,RTL 8
-http://topiptv.net:5890/live/bachir1/bachir1/845.ts
-#EXTINF:-1,SBS 9
-http://topiptv.net:5890/live/bachir1/bachir1/1708.ts
-#EXTINF:-1,SBS 6
-http://topiptv.net:5890/live/bachir1/bachir1/1707.ts
-#EXTINF:-1,Ziggo Sport Select
-http://topiptv.net:5890/live/bachir1/bachir1/998.ts
-#EXTINF:-1,FOX Sports 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/999.ts
-#EXTINF:-1,FOX Sports 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1000.ts
-#EXTINF:-1,FOX Sports 3 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1249.ts
-#EXTINF:-1,FOX Sports 4 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1250.ts
-#EXTINF:-1,FOX Sports 5 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1251.ts
-#EXTINF:-1,FOX Sports 6 HD
-http://topiptv.net:5890/live/bachir1/bachir1/1252.ts
-#EXTINF:-1,HBO 1
-http://topiptv.net:5890/live/bachir1/bachir1/774.ts
-#EXTINF:-1,HBO 2
-http://topiptv.net:5890/live/bachir1/bachir1/775.ts
-#EXTINF:-1,HBO 3
-http://topiptv.net:5890/live/bachir1/bachir1/776.ts
-#EXTINF:-1,Film1 Action
-http://topiptv.net:5890/live/bachir1/bachir1/777.ts
-#EXTINF:-1,Film1 Spotlght
-http://topiptv.net:5890/live/bachir1/bachir1/1248.ts
-#EXTINF:-1,Film 1 Sundance
-http://topiptv.net:5890/live/bachir1/bachir1/1709.ts
-#EXTINF:-1,Film1 Premiere HD
-http://topiptv.net:5890/live/bachir1/bachir1/778.ts
-#EXTINF:-1,Film1 Comedy Kids
-http://topiptv.net:5890/live/bachir1/bachir1/779.ts
-#EXTINF:-1,NATGEO
-http://topiptv.net:5890/live/bachir1/bachir1/1710.ts
-#EXTINF:-1,Nat Geo
-http://topiptv.net:5890/live/bachir1/bachir1/1999.ts
-#EXTINF:-1,FOX
-http://topiptv.net:5890/live/bachir1/bachir1/1998.ts
-#EXTINF:-1,Comedy Central
-http://topiptv.net:5890/live/bachir1/bachir1/2000.ts
-#EXTINF:-1,Discovery Channel
-http://topiptv.net:5890/live/bachir1/bachir1/928.ts
-#EXTINF:-1,NICKELODEON
-http://topiptv.net:5890/live/bachir1/bachir1/1741.ts
-#EXTINF:-1,Disney Channel
-http://topiptv.net:5890/live/bachir1/bachir1/1743.ts
-#EXTINF:-1,CARTOON
-http://topiptv.net:5890/live/bachir1/bachir1/1742.ts
-#EXTINF:-1,MTV
-http://topiptv.net:5890/live/bachir1/bachir1/1706.ts
+
+
+
+
+
+
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/360.ts
+#EXTINF:-1,NL: Ziggo Sport Select
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/359.ts
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/358.ts
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/357.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/356.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/355.ts
+#EXTINF:-1,NL: FOX SPORT 1 HD
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/354.ts
+#EXTINF:-1,NL: Veronica / Disney XD
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/353.ts
+#EXTINF:-1,NL: TLC
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/352.ts
+#EXTINF:-1,NL: SBS 9
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/350.ts
+#EXTINF:-1,NL: SBS 6
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/349.ts
+#EXTINF:-1,NL: RTL 4
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/348.ts
+#EXTINF:-1,NL: RTL 8
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/347.ts
+#EXTINF:-1,NL: RTL 7
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/346.ts
+#EXTINF:-1,NL: RTL 5
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/345.ts
+#EXTINF:-1,NL: RTV Drenthe HD
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/344.ts
+#EXTINF:-1,NL: NPO 3
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/343.ts
+#EXTINF:-1,NL: NPO 2
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/342.ts
+#EXTINF:-1,NL: NPO 1
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/341.ts
+#EXTINF:-1,NL: NET 5
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/340.ts
+#EXTINF:-1,NL: HBO 3
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/338.ts
+#EXTINF:-1,NL: HBO 2
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/337.ts
+#EXTINF:-1,NL: HBO HD
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/336.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/335.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/334.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/333.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/332.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/331.ts
+#EXTINF:-1,NL: FOX
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/329.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/328.ts
+#EXTINF:-1,NL: Film 1 Spotlight
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/327.ts
+#EXTINF:-1,NL: Film 1 Premiere
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/326.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/325.ts
+#EXTINF:-1,NL: Film 1 Action
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/324.ts
+#EXTINF:-1,NL: FOX SPORT 2 HD
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/323.ts
+#EXTINF:-1,NL: Disney Channel
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/322.ts
+#EXTINF:-1,NL: Film 1 Comedy
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/321.ts
+#EXTINF:-1,NL: Comedy Central
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/320.ts
+#EXTINF:-1,NL: 13th Street
+http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/319.ts

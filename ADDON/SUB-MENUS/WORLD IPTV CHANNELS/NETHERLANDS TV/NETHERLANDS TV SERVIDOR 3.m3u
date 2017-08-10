@@ -1,154 +1,133 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 17-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,NL: 13th
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8837.ts
-#EXTINF:-1,NL: 24 Ktirchen
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15337.ts
-#EXTINF:-1,NL: Animal Planet
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8872.ts
-#EXTINF:-1,NL: Boomerang
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8856.ts
-#EXTINF:-1,NL: CI
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8865.ts
-#EXTINF:-1,NL: DISCOVERY CHANNEL HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8869.ts
-#EXTINF:-1,NL: Discovery FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15983.ts
-#EXTINF:-1,NL: Disney Channel
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8855.ts
-#EXTINF:-1,NL: Disney Junior
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8858.ts
-#EXTINF:-1,NL: EuroSpot 1 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16866.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8827.ts
-#EXTINF:-1,NL: Film 1 Comedy & Kids
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8826.ts
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8825.ts
-#EXTINF:-1,NL: Film 1 Spotlight
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8823.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8824.ts
-#EXTINF:-1,NL: FOX HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8843.ts
-#EXTINF:-1,NL: Fox Sports 1 Eredivise
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6974.ts
-#EXTINF:-1,NL: FOX Sports 1 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15982.ts
-#EXTINF:-1,NL: FOX Sports 2 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15981.ts
-#EXTINF:-1,NL: Fox Sports 2 International
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6973.ts
-#EXTINF:-1,NL: Fox Sports 3 Eredivise
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6972.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6971.ts
-#EXTINF:-1,NL: Fox Sports 5 Eredivise
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6970.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/6969.ts
-#EXTINF:-1,NL: HISTORY FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8867.ts
-#EXTINF:-1,NL: I Concerts
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15768.ts
-#EXTINF:-1,NL: Investigation Discovery
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8871.ts
-#EXTINF:-1,NL: JimJam
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8862.ts
-#EXTINF:-1,NL: MAX FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16867.ts
-#EXTINF:-1,NL: NAT GEO WILD FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8866.ts
-#EXTINF:-1,NL: NATIONAL GEOGRAPHIC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8870.ts
-#EXTINF:-1,NL: NET 5 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8846.ts
-#EXTINF:-1,NL: NICK JR HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8861.ts
-#EXTINF:-1,NL: NICK TOONS HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8859.ts
-#EXTINF:-1,NL: Nickelodeon
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8857.ts
-#EXTINF:-1,NL: NPO 1 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15992.ts
-#EXTINF:-1,NL: NPO 1 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8833.ts
-#EXTINF:-1,NL: NPO 101 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8832.ts
-#EXTINF:-1,NL: NPO 2 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15991.ts
-#EXTINF:-1,NL: NPO 2 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8834.ts
-#EXTINF:-1,NL: NPO 3 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15990.ts
-#EXTINF:-1,NL: NPO 3 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8835.ts
-#EXTINF:-1,NL: NPO DOC
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8868.ts
-#EXTINF:-1,NL: NPO Xtra Zappelin
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8831.ts
-#EXTINF:-1,NL: RTL 4 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15989.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,NL: NPO 1
+http://185.2.83.209:8000/live/tony2/tony2/715.ts
+#EXTINF:-1,NL: NPO 2
+http://185.2.83.209:8000/live/tony2/tony2/716.ts
+#EXTINF:-1,NL: NPO 3
+http://185.2.83.209:8000/live/tony2/tony2/717.ts
 #EXTINF:-1,NL: RTL 4 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8847.ts
-#EXTINF:-1,NL: RTL 5 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15988.ts
+http://185.2.83.209:8000/live/tony2/tony2/699.ts
 #EXTINF:-1,NL: RTL 5 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8848.ts
-#EXTINF:-1,NL: RTL 7 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15986.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8849.ts
-#EXTINF:-1,NL: RTL 8 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15985.ts
-#EXTINF:-1,NL: RTL 8 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8850.ts
-#EXTINF:-1,NL: RTL lounge
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8842.ts
-#EXTINF:-1,NL: RTL Z HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8836.ts
-#EXTINF:-1,NL: SBS 6 FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15987.ts
+http://185.2.83.209:8000/live/tony2/tony2/695.ts
+#EXTINF:-1,NL: NET 5 HD
+http://185.2.83.209:8000/live/tony2/tony2/698.ts
 #EXTINF:-1,NL: SBS 6 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8851.ts
+http://185.2.83.209:8000/live/tony2/tony2/701.ts
+#EXTINF:-1,NL: RTL 7 HD
+http://185.2.83.209:8000/live/tony2/tony2/696.ts
+#EXTINF:-1,NL: RTL 8 HD
+http://185.2.83.209:8000/live/tony2/tony2/697.ts
 #EXTINF:-1,NL: SBS 9
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8852.ts
-#EXTINF:-1,NL: Syfy
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8845.ts
-#EXTINF:-1,NL: TLC HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8841.ts
-#EXTINF:-1,NL: Travel Channel FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16868.ts
+http://185.2.83.209:8000/live/tony2/tony2/724.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://185.2.83.209:8000/live/tony2/tony2/710.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://185.2.83.209:8000/live/tony2/tony2/711.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://185.2.83.209:8000/live/tony2/tony2/712.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://185.2.83.209:8000/live/tony2/tony2/713.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://185.2.83.209:8000/live/tony2/tony2/714.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://185.2.83.209:8000/live/tony2/tony2/743.ts
+#EXTINF:-1,NL: EuroSport 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/734.ts
+#EXTINF:-1,NL: EuroSport 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/417.ts
+#EXTINF:-1,NL: Sport 1 Voetbal HD
+http://185.2.83.209:8000/live/tony2/tony2/709.ts
+#EXTINF:-1,NL: Sport 1 Select HD
+http://185.2.83.209:8000/live/tony2/tony2/708.ts
+#EXTINF:-1,NL: Sport 1 Racing
+http://185.2.83.209:8000/live/tony2/tony2/707.ts
+#EXTINF:-1,NL: Sport Extra 1
+http://185.2.83.209:8000/live/tony2/tony2/735.ts
+#EXTINF:-1,NL: Sport Extra 2
+http://185.2.83.209:8000/live/tony2/tony2/736.ts
+#EXTINF:-1,NL: Film 1 Action
+http://185.2.83.209:8000/live/tony2/tony2/721.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://185.2.83.209:8000/live/tony2/tony2/722.ts
+#EXTINF:-1,NL: Film1 Spotlight
+http://185.2.83.209:8000/live/tony2/tony2/702.ts
+#EXTINF:-1,NL: Film1 Premiere HD
+http://185.2.83.209:8000/live/tony2/tony2/723.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://185.2.83.209:8000/live/tony2/tony2/414.ts
 #EXTINF:-1,NL: Veronica / Disney XD HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8860.ts
-#EXTINF:-1,NL: Veronica/DisneyXD FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15984.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12998.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12999.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8818.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8815.ts
-#EXTINF:-1,NL: Ziggo Sport Golf FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16869.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12997.ts
-#EXTINF:-1,NL: Ziggo sport select FHD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15976.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13000.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8814.ts
-#EXTINF:-1,NL:Ziggo Sport Extra 1 HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8817.ts
+http://185.2.83.209:8000/live/tony2/tony2/726.ts
+#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
+http://185.2.83.209:8000/live/tony2/tony2/739.ts
+#EXTINF:-1,NL: Discovery ID
+http://185.2.83.209:8000/live/tony2/tony2/733.ts
+#EXTINF:-1,NL: Discovery Channle
+http://185.2.83.209:8000/live/tony2/tony2/704.ts
+#EXTINF:-1,NL: Discovery Showcase HD
+http://185.2.83.209:8000/live/tony2/tony2/732.ts
+#EXTINF:-1,NL: National Geographic
+http://185.2.83.209:8000/live/tony2/tony2/725.ts
+#EXTINF:-1,NL: Nat Geo Wild HD
+http://185.2.83.209:8000/live/tony2/tony2/416.ts
+#EXTINF:-1,NL: Animal Planet
+http://185.2.83.209:8000/live/tony2/tony2/410.ts
+#EXTINF:-1,NL: Cartoon Network
+http://185.2.83.209:8000/live/tony2/tony2/413.ts
+#EXTINF:-1,NL: Disney Channel
+http://185.2.83.209:8000/live/tony2/tony2/706.ts
+#EXTINF:-1,NL: Nickelodeon
+http://185.2.83.209:8000/live/tony2/tony2/727.ts
+#EXTINF:-1,NL: Boomerang
+http://185.2.83.209:8000/live/tony2/tony2/412.ts
+#EXTINF:-1,NL: Baby TV
+http://185.2.83.209:8000/live/tony2/tony2/411.ts
+#EXTINF:-1,NL: Spike
+http://185.2.83.209:8000/live/tony2/tony2/415.ts
+#EXTINF:-1,NL: Comedy Central
+http://185.2.83.209:8000/live/tony2/tony2/703.ts
+#EXTINF:-1,NL: MTV Nederland
+http://185.2.83.209:8000/live/tony2/tony2/737.ts
+#EXTINF:-1,NL: RTL Lounge
+http://185.2.83.209:8000/live/tony2/tony2/740.ts
+#EXTINF:-1,NL: RTL CRIME
+http://185.2.83.209:8000/live/tony2/tony2/705.ts
+#EXTINF:-1,NL: HBO 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/718.ts
+#EXTINF:-1,NL: HBO 2 HD
+http://185.2.83.209:8000/live/tony2/tony2/719.ts
+#EXTINF:-1,NL: HBO 3 HD
+http://185.2.83.209:8000/live/tony2/tony2/720.ts
+#EXTINF:-1,NL: Fox
+http://185.2.83.209:8000/live/tony2/tony2/700.ts
+#EXTINF:-1,NL: TLC
+http://185.2.83.209:8000/live/tony2/tony2/728.ts
+#EXTINF:-1,NL: Xite Awrds
+http://185.2.83.209:8000/live/tony2/tony2/729.ts
+#EXTINF:-1,NL: 24 Kitchen
+http://185.2.83.209:8000/live/tony2/tony2/409.ts
+#EXTINF:-1,NL: Shorts TV
+http://185.2.83.209:8000/live/tony2/tony2/744.ts
+#EXTINF:-1,NL: RTV Noord
+http://185.2.83.209:8000/live/tony2/tony2/741.ts
+#EXTINF:-1,NL: Omroep Fryslan
+http://185.2.83.209:8000/live/tony2/tony2/738.ts
+#EXTINF:-1,NL: Omroep Zeeland
+http://185.2.83.209:8000/live/tony2/tony2/742.ts
 
 
 
@@ -166,33 +145,41 @@ http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8817.ts
 
 
 
-#EXTINF:-1,BE: La Une HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12995.ts
-#EXTINF:-1,BE: LA DEUX
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12596.ts
-#EXTINF:-1,BE:RTL TVI
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12598.ts
-#EXTINF:-1,BE: Plug RTL HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13717.ts
-#EXTINF:-1,BE: PLUG rtl
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12599.ts
-#EXTINF:-1,BE: LA TROIS
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12597.ts
-#EXTINF:-1,BE: KETNET
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12608.ts
-#EXTINF:-1,BE: EEN HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12609.ts
-#EXTINF:-1,BE: CLUB RTL
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12600.ts
-#EXTINF:-1,BE: CINEMA 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12607.ts
-#EXTINF:-1,BE: CINEMA 2
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12606.ts
-#EXTINF:-1,BE: CANVAS
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12610.ts
-#EXTINF:-1,BE: BE CINE
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12603.ts
-#EXTINF:-1,BE: BE 1
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12604.ts
-#EXTINF:-1,BE: Vier HD
-http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12996.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,BE: Cinema 1
+http://185.2.83.209:8000/live/tony2/tony2/396.ts
+#EXTINF:-1,BE: Cinema 2
+http://185.2.83.209:8000/live/tony2/tony2/395.ts
+#EXTINF:-1,BE: Cinema Kids
+http://185.2.83.209:8000/live/tony2/tony2/392.ts
+#EXTINF:-1,BE: Een HD
+http://185.2.83.209:8000/live/tony2/tony2/730.ts
+#EXTINF:-1,BE: Canvas HD
+http://185.2.83.209:8000/live/tony2/tony2/731.ts
+#EXTINF:-1,BE: VTM HD
+http://185.2.83.209:8000/live/tony2/tony2/389.ts
+#EXTINF:-1,BE: Vitaya
+http://185.2.83.209:8000/live/tony2/tony2/390.ts
+#EXTINF:-1,BE: Vijf
+http://185.2.83.209:8000/live/tony2/tony2/391.ts
+#EXTINF:-1,BE: Plug RTL
+http://185.2.83.209:8000/live/tony2/tony2/384.ts
+#EXTINF:-1,BE: La télé X
+http://185.2.83.209:8000/live/tony2/tony2/385.ts
+#EXTINF:-1,BE: Club RTL
+http://185.2.83.209:8000/live/tony2/tony2/386.ts
+#EXTINF:-1,BE: Acht
+http://185.2.83.209:8000/live/tony2/tony2/388.ts
+#EXTINF:-1,BE: 2BE HD
+http://185.2.83.209:8000/live/tony2/tony2/387.ts
+#EXTINF:-1,BE: Kadet
+http://185.2.83.209:8000/live/tony2/tony2/393.ts
+#EXTINF:-1,BE: BX1
+http://185.2.83.209:8000/live/tony2/tony2/394.ts
