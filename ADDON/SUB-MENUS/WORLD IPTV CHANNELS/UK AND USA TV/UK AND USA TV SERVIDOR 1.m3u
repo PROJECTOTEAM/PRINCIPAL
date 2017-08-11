@@ -85,561 +85,166 @@ http://46.249.60.210:15099/play/a01c
 
 
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: Sky News HD
-http://185.2.83.209:8000/live/tony2/tony2/550.ts
-#EXTINF:-1,UK: Sky RTE News
-http://185.2.83.209:8000/live/tony2/tony2/431.ts
-#EXTINF:-1,UK: Sky BBC News
-http://185.2.83.209:8000/live/tony2/tony2/428.ts
-#EXTINF:-1,UK: Sky Sports News
-http://185.2.83.209:8000/live/tony2/tony2/549.ts
-#EXTINF:-1,UK: Sky Sport 1 SD
-http://185.2.83.209:8000/live/tony2/tony2/533.ts
-#EXTINF:-1,UK: Sky Sport 2 SD
-http://185.2.83.209:8000/live/tony2/tony2/532.ts
-#EXTINF:-1,UK: Sky Sport 3 SD
-http://185.2.83.209:8000/live/tony2/tony2/531.ts
-#EXTINF:-1,UK: Sky Sport 4 SD
-http://185.2.83.209:8000/live/tony2/tony2/530.ts
-#EXTINF:-1,UK: Sky Sport 5 SD
-http://185.2.83.209:8000/live/tony2/tony2/529.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/548.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/547.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/546.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/545.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/544.ts
-#EXTINF:-1,UK: Sky Sport Arena
-http://185.2.83.209:8000/live/tony2/tony2/1558.ts
-#EXTINF:-1,UK: Sky Sport Football
-http://185.2.83.209:8000/live/tony2/tony2/1559.ts
-#EXTINF:-1,UK: Sky Sports Action
-http://185.2.83.209:8000/live/tony2/tony2/1560.ts
-#EXTINF:-1,UK: Sky motorsport.tv
-http://185.2.83.209:8000/live/tony2/tony2/1555.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://185.2.83.209:8000/live/tony2/tony2/539.ts
-#EXTINF:-1,UK: Sky Sport AU 1
-http://185.2.83.209:8000/live/tony2/tony2/438.ts
-#EXTINF:-1,UK: Sky BT Sport 1
-http://185.2.83.209:8000/live/tony2/tony2/543.ts
-#EXTINF:-1,UK: Sky BT Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/542.ts
-#EXTINF:-1,UK: Sky BT Sport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/528.ts
-#EXTINF:-1,UK: Sky BT Sport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/527.ts
-#EXTINF:-1,UK: Sky BT Sport 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/453.ts
-#EXTINF:-1,UK: Sky BT Sport Extra
-http://185.2.83.209:8000/live/tony2/tony2/479.ts
-#EXTINF:-1,UK: Sky Eurosport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/541.ts
-#EXTINF:-1,UK: Sky Eurosport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/540.ts
-#EXTINF:-1,UK: Sky Eir Sport 1
-http://185.2.83.209:8000/live/tony2/tony2/1566.ts
-#EXTINF:-1,UK: Sky Eir Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/1567.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://185.2.83.209:8000/live/tony2/tony2/1564.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://185.2.83.209:8000/live/tony2/tony2/1563.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://185.2.83.209:8000/live/tony2/tony2/1561.ts
-#EXTINF:-1,UK: Sky Sports Premier
-http://185.2.83.209:8000/live/tony2/tony2/1565.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://185.2.83.209:8000/live/tony2/tony2/1562.ts
-#EXTINF:-1,UK: Sky Sports MixHD
-http://185.2.83.209:8000/live/tony2/tony2/513.ts
-#EXTINF:-1,UK: Sky Setanta Sports
-http://185.2.83.209:8000/live/tony2/tony2/484.ts
-#EXTINF:-1,UK: Sky Liverpool FC TV HD
-http://185.2.83.209:8000/live/tony2/tony2/536.ts
-#EXTINF:-1,UK: Sky Chelsea TV HD
-http://185.2.83.209:8000/live/tony2/tony2/537.ts
-#EXTINF:-1,UK: Sky MUTV
-http://185.2.83.209:8000/live/tony2/tony2/535.ts
-#EXTINF:-1,Uk: Sky At the Races
-http://185.2.83.209:8000/live/tony2/tony2/461.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/421.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/420.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/419.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/1542.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://185.2.83.209:8000/live/tony2/tony2/519.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://185.2.83.209:8000/live/tony2/tony2/516.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://185.2.83.209:8000/live/tony2/tony2/517.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://185.2.83.209:8000/live/tony2/tony2/511.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://185.2.83.209:8000/live/tony2/tony2/518.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://185.2.83.209:8000/live/tony2/tony2/520.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://185.2.83.209:8000/live/tony2/tony2/521.ts
-#EXTINF:-1,UK: Sky Movies Comedy HD
-http://185.2.83.209:8000/live/tony2/tony2/524.ts
-#EXTINF:-1,UK: Sky Home & Health
-http://185.2.83.209:8000/live/tony2/tony2/1547.ts
-#EXTINF:-1,UK: Sky Movies Crime
-http://185.2.83.209:8000/live/tony2/tony2/512.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi+
-http://185.2.83.209:8000/live/tony2/tony2/515.ts
-#EXTINF:-1,UK: Sky Watch
-http://185.2.83.209:8000/live/tony2/tony2/523.ts
-#EXTINF:-1,UK: Sky True Movies 1
-http://185.2.83.209:8000/live/tony2/tony2/472.ts
-#EXTINF:-1,UK: Sky True Movies 2
-http://185.2.83.209:8000/live/tony2/tony2/534.ts
-#EXTINF:-1,UK: Sky True Entertaimnt
-http://185.2.83.209:8000/live/tony2/tony2/1546.ts
-#EXTINF:-1,UK: Sky More 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/504.ts
-#EXTINF:-1,UK: Sky Movies4Men
-http://185.2.83.209:8000/live/tony2/tony2/1557.ts
-#EXTINF:-1,UK: Sky Horse & Country
-http://185.2.83.209:8000/live/tony2/tony2/1549.ts
-#EXTINF:-1,UK: Sky Home
-http://185.2.83.209:8000/live/tony2/tony2/1553.ts
-#EXTINF:-1,UK: Sky Quest
-http://185.2.83.209:8000/live/tony2/tony2/1551.ts
-#EXTINF:-1,UK: Sky Really
-http://185.2.83.209:8000/live/tony2/tony2/1552.ts
-#EXTINF:-1,UK: Sky Travel Channel
-http://185.2.83.209:8000/live/tony2/tony2/1556.ts
-#EXTINF:-1,UK: Sky Horror Channel
-http://185.2.83.209:8000/live/tony2/tony2/1548.ts
-#EXTINF:-1,UK: Sky S4C
-http://185.2.83.209:8000/live/tony2/tony2/435.ts
-#EXTINF:-1,UK: Sky 5 Star +1
-http://185.2.83.209:8000/live/tony2/tony2/505.ts
-#EXTINF:-1,UK: Sky CBBC HD
-http://185.2.83.209:8000/live/tony2/tony2/430.ts
-#EXTINF:-1,UK: Sky ITV 1
-http://185.2.83.209:8000/live/tony2/tony2/471.ts
-#EXTINF:-1,UK: Sky ITV 2
-http://185.2.83.209:8000/live/tony2/tony2/470.ts
-#EXTINF:-1,UK: Sky ITV 3
-http://185.2.83.209:8000/live/tony2/tony2/469.ts
-#EXTINF:-1,UK: Sky ITV 4
-http://185.2.83.209:8000/live/tony2/tony2/468.ts
-#EXTINF:-1,UK: Sky ITV Be
-http://185.2.83.209:8000/live/tony2/tony2/429.ts
-#EXTINF:-1,UK: Sky ITV Encore
-http://185.2.83.209:8000/live/tony2/tony2/467.ts
-#EXTINF:-1,UK: Sky BBC4/CBEEBIES
-http://185.2.83.209:8000/live/tony2/tony2/433.ts
-#EXTINF:-1,UK: Sky 3e
-http://185.2.83.209:8000/live/tony2/tony2/432.ts
-#EXTINF:-1,UK: Sky TV3
-http://185.2.83.209:8000/live/tony2/tony2/434.ts
-#EXTINF:-1,UK: Sky CITV
-http://185.2.83.209:8000/live/tony2/tony2/436.ts
-#EXTINF:-1,UK: Sky Cbs Drama
-http://185.2.83.209:8000/live/tony2/tony2/482.ts
-#EXTINF:-1,UK: Sky Pick
-http://185.2.83.209:8000/live/tony2/tony2/437.ts
-#EXTINF:-1,UK: Sky Cbs Action
-http://185.2.83.209:8000/live/tony2/tony2/481.ts
-#EXTINF:-1,UK: Sky CBS Reality
-http://185.2.83.209:8000/live/tony2/tony2/510.ts
-#EXTINF:-1,UK: Sky BBC One HD
-http://185.2.83.209:8000/live/tony2/tony2/488.ts
-#EXTINF:-1,UK: Sky BBC Two HD
-http://185.2.83.209:8000/live/tony2/tony2/487.ts
-#EXTINF:-1,UK: Sky BBC Three HD
-http://185.2.83.209:8000/live/tony2/tony2/486.ts
-#EXTINF:-1,UK: Sky BBC Four HD
-http://185.2.83.209:8000/live/tony2/tony2/485.ts
-#EXTINF:-1,UK: Sky Channel 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/426.ts
-#EXTINF:-1,UK: Sky Channel 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/427.ts
-#EXTINF:-1,UK: Sky Comedy Central
-http://185.2.83.209:8000/live/tony2/tony2/463.ts
-#EXTINF:-1,UK: Sky Comedy Central Ex
-http://185.2.83.209:8000/live/tony2/tony2/462.ts
-#EXTINF:-1,UK: Sky Food Network
-http://185.2.83.209:8000/live/tony2/tony2/495.ts
-#EXTINF:-1,UK: Sky Sony Movies
-http://185.2.83.209:8000/live/tony2/tony2/501.ts
-#EXTINF:-1,UK: Sky Bloomberg HD
-http://185.2.83.209:8000/live/tony2/tony2/457.ts
-#EXTINF:-1,UK: Sky Boomerang
-http://185.2.83.209:8000/live/tony2/tony2/444.ts
-#EXTINF:-1,UK: Sky Cartoon Network
-http://185.2.83.209:8000/live/tony2/tony2/522.ts
-#EXTINF:-1,UK: Sky Nickelodeon
-http://185.2.83.209:8000/live/tony2/tony2/503.ts
-#EXTINF:-1,UK: Sky Nickelodeon JR
-http://185.2.83.209:8000/live/tony2/tony2/423.ts
-#EXTINF:-1,UK: Sky NickToons
-http://185.2.83.209:8000/live/tony2/tony2/446.ts
-#EXTINF:-1,UK: Sky Disney XD HD
-http://185.2.83.209:8000/live/tony2/tony2/493.ts
-#EXTINF:-1,UK: Sky Disney Junior HD
-http://185.2.83.209:8000/live/tony2/tony2/494.ts
-#EXTINF:-1,UK: Sky Disney Chaneel HD
-http://185.2.83.209:8000/live/tony2/tony2/492.ts
-#EXTINF:-1,UK: Sky Discovery Science
-http://185.2.83.209:8000/live/tony2/tony2/526.ts
-#EXTINF:-1,UK: Sky Discovery History
-http://185.2.83.209:8000/live/tony2/tony2/491.ts
-#EXTINF:-1,UK: Sky Discovery Turbo
-http://185.2.83.209:8000/live/tony2/tony2/465.ts
-#EXTINF:-1,UK: Sky Discovery Shed
-http://185.2.83.209:8000/live/tony2/tony2/445.ts
-#EXTINF:-1,UK: Sky Discovery
-http://185.2.83.209:8000/live/tony2/tony2/464.ts
-#EXTINF:-1,UK: Sky National Geographic HD
-http://185.2.83.209:8000/live/tony2/tony2/499.ts
-#EXTINF:-1,UK: Sky Nat Geo Wild HD
-http://185.2.83.209:8000/live/tony2/tony2/498.ts
-#EXTINF:-1,UK: Sky Animal Planet HD
-http://185.2.83.209:8000/live/tony2/tony2/497.ts
-#EXTINF:-1,UK: Sky History HD
-http://185.2.83.209:8000/live/tony2/tony2/496.ts
-#EXTINF:-1,UK: Sky History 2
-http://185.2.83.209:8000/live/tony2/tony2/452.ts
-#EXTINF:-1,UK: Sky Ci
-http://185.2.83.209:8000/live/tony2/tony2/514.ts
-#EXTINF:-1,UK: Sky 1
-http://185.2.83.209:8000/live/tony2/tony2/475.ts
-#EXTINF:-1,UK: Sky 2
-http://185.2.83.209:8000/live/tony2/tony2/507.ts
+#EXTINF:-1,UK:  BT Sport 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2505.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2528.ts
+#EXTINF:-1,UK:  Eurosport 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2527.ts
+#EXTINF:-1,UK:  True.Movie.1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2510.ts
+#EXTINF:-1,UK: _Animal.Planet.UK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2533.ts
+#EXTINF:-1,UK: Discovery Channel
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2532.ts
+#EXTINF:-1,UK: Sky.Movies.Action.&.Adventure
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2523.ts
+#EXTINF:-1,UK: _Sky.Movies.Family.UK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2521.ts
+#EXTINF:-1,UK: Sky Movies Modern HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2520.ts
+#EXTINF:-1,UK: _Sky.Movies.Sci-Fi.&.Horror
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2518.ts
+#EXTINF:-1,UK: True_Movies_2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2511.ts
+#EXTINF:-1,UK: Alibi
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/519.ts
+#EXTINF:-1,UK: Baby TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/522.ts
+#EXTINF:-1,UK: BBC Four
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/491.ts
+#EXTINF:-1,UK: BBC One
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/488.ts
+#EXTINF:-1,UK: BBC Three
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2671.ts
+#EXTINF:-1,UK: BBC Two
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/489.ts
+#EXTINF:-1,UK: Boomerang HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/521.ts
+#EXTINF:-1,UK: Cartoon Network
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/520.ts
+#EXTINF:-1,UK: CBS Action
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/518.ts
+#EXTINF:-1,UK: CBS Reality
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/517.ts
+#EXTINF:-1,UK: Comedy Central
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/516.ts
+#EXTINF:-1,UK: Discovery
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/515.ts
+#EXTINF:-1,UK: Discovery History
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/514.ts
+#EXTINF:-1,UK: Discovery Science
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/512.ts
+#EXTINF:-1,UK: Disney Channel
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/511.ts
+#EXTINF:-1,UK: Disney XD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/510.ts
+#EXTINF:-1,UK: ITV 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/492.ts
+#EXTINF:-1,UK: ITV 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/493.ts
+#EXTINF:-1,UK: ITV 3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/494.ts
+#EXTINF:-1,UK: ITV 4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/495.ts
+#EXTINF:-1,UK: ITV BE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/496.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/509.ts
+#EXTINF:-1,UK: Nick JR
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/508.ts
+#EXTINF:-1,UK: RTE 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/497.ts
+#EXTINF:-1,UK: RTE 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/498.ts
+#EXTINF:-1,UK: Sky Action
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/506.ts
 #EXTINF:-1,UK: Sky Atlantic
-http://185.2.83.209:8000/live/tony2/tony2/483.ts
-#EXTINF:-1,UK: Sky E!
-http://185.2.83.209:8000/live/tony2/tony2/447.ts
-#EXTINF:-1,UK: Sky VH1
-http://185.2.83.209:8000/live/tony2/tony2/449.ts
-#EXTINF:-1,UK: Sky E4
-http://185.2.83.209:8000/live/tony2/tony2/451.ts
-#EXTINF:-1,UK: Sky TG4
-http://185.2.83.209:8000/live/tony2/tony2/422.ts
-#EXTINF:-1,UK: Sky Syfy
-http://185.2.83.209:8000/live/tony2/tony2/538.ts
-#EXTINF:-1,UK: Sky CNBC
-http://185.2.83.209:8000/live/tony2/tony2/466.ts
-#EXTINF:-1,UK: Sky Dave HD
-http://185.2.83.209:8000/live/tony2/tony2/506.ts
-#EXTINF:-1,UK: Sky RTE One
-http://185.2.83.209:8000/live/tony2/tony2/474.ts
-#EXTINF:-1,UK: Sky RTE Two
-http://185.2.83.209:8000/live/tony2/tony2/478.ts
-#EXTINF:-1,UK: SKY Fox
-http://185.2.83.209:8000/live/tony2/tony2/460.ts
-#EXTINF:-1,UK: Sky Five
-http://185.2.83.209:8000/live/tony2/tony2/473.ts
-#EXTINF:-1,UK: Sky Arts 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/489.ts
-#EXTINF:-1,UK: Sky Baby
-http://185.2.83.209:8000/live/tony2/tony2/424.ts
-#EXTINF:-1,UK: Sky Eden
-http://185.2.83.209:8000/live/tony2/tony2/425.ts
-#EXTINF:-1,UK: Sky Alibi
-http://185.2.83.209:8000/live/tony2/tony2/509.ts
-#EXTINF:-1,UK: Sky Living HD
-http://185.2.83.209:8000/live/tony2/tony2/502.ts
-#EXTINF:-1,UK: Sky BoxNation
-http://185.2.83.209:8000/live/tony2/tony2/490.ts
-#EXTINF:-1,UK: Sky Racing
-http://185.2.83.209:8000/live/tony2/tony2/458.ts
-#EXTINF:-1,UK: Sky Gold
-http://185.2.83.209:8000/live/tony2/tony2/508.ts
-#EXTINF:-1,UK: Sky 5 USA
-http://185.2.83.209:8000/live/tony2/tony2/480.ts
-#EXTINF:-1,UK: Sky 5 star
-http://185.2.83.209:8000/live/tony2/tony2/477.ts
-#EXTINF:-1,UK: Sky life Time
-http://185.2.83.209:8000/live/tony2/tony2/476.ts
-#EXTINF:-1,UK: Sky Spike
-http://185.2.83.209:8000/live/tony2/tony2/525.ts
-#EXTINF:-1,UK: Sky TCM
-http://185.2.83.209:8000/live/tony2/tony2/459.ts
-#EXTINF:-1,UK: Sky CNN
-http://185.2.83.209:8000/live/tony2/tony2/454.ts
-#EXTINF:-1,UK: Sky Dmax
-http://185.2.83.209:8000/live/tony2/tony2/456.ts
-#EXTINF:-1,UK: Sky TLC
-http://185.2.83.209:8000/live/tony2/tony2/455.ts
-#EXTINF:-1,UK: Sky STV
-http://185.2.83.209:8000/live/tony2/tony2/448.ts
-#EXTINF:-1,UK: Sky MTV
-http://185.2.83.209:8000/live/tony2/tony2/1550.ts
-#EXTINF:-1,UK: Sky MTV Rocks HD
-http://185.2.83.209:8000/live/tony2/tony2/442.ts
-#EXTINF:-1,UK: Sky MTV Hits HD
-http://185.2.83.209:8000/live/tony2/tony2/443.ts
-#EXTINF:-1,UK: Sky MTV Dance HD
-http://185.2.83.209:8000/live/tony2/tony2/441.ts
-#EXTINF:-1,UK: Sky MTV Classic
-http://185.2.83.209:8000/live/tony2/tony2/500.ts
-#EXTINF:-1,UK: Sky MTV Base
-http://185.2.83.209:8000/live/tony2/tony2/440.ts
-#EXTINF:-1,UK: Sky VIVA the Hits!
-http://185.2.83.209:8000/live/tony2/tony2/1544.ts
-#EXTINF:-1,UK: Sky 4 Music
-http://185.2.83.209:8000/live/tony2/tony2/1543.ts
-#EXTINF:-1,UK: Sky VH1 Classic
-http://185.2.83.209:8000/live/tony2/tony2/450.ts
-#EXTINF:-1,UK: Sky VIVA the Hits
-http://185.2.83.209:8000/live/tony2/tony2/439.ts
-#EXTINF:-1,UK: Sky Kronehit TV
-http://185.2.83.209:8000/live/tony2/tony2/1545.ts
-#EXTINF:-1,———– USA ———–
-http://185.2.83.209:8000/live/tony2/tony2/1554.ts
-#EXTINF:-1,US: Sport TSN 1
-http://185.2.83.209:8000/live/tony2/tony2/1451.ts
-#EXTINF:-1,US: Sport TSN 2
-http://185.2.83.209:8000/live/tony2/tony2/1452.ts
-#EXTINF:-1,US: Sport TSN 3
-http://185.2.83.209:8000/live/tony2/tony2/1453.ts
-#EXTINF:-1,US: Sport TSN 4
-http://185.2.83.209:8000/live/tony2/tony2/1454.ts
-#EXTINF:-1,US: Sport TSN 5
-http://185.2.83.209:8000/live/tony2/tony2/1455.ts
-#EXTINF:-1,US: Skynet Sports HD
-http://185.2.83.209:8000/live/tony2/tony2/1476.ts
-#EXTINF:-1,US: Skynet Sports 1
-http://185.2.83.209:8000/live/tony2/tony2/1431.ts
-#EXTINF:-1,US: Skynet Sports 2
-http://185.2.83.209:8000/live/tony2/tony2/1436.ts
-#EXTINF:-1,US: Skynet Sports 3
-http://185.2.83.209:8000/live/tony2/tony2/1472.ts
-#EXTINF:-1,US: Skynet Sports 4
-http://185.2.83.209:8000/live/tony2/tony2/1473.ts
-#EXTINF:-1,US: Skynet Sports 5
-http://185.2.83.209:8000/live/tony2/tony2/1474.ts
-#EXTINF:-1,US: Skynet Sports 6
-http://185.2.83.209:8000/live/tony2/tony2/1475.ts
-#EXTINF:-1,US: Sports NET 360 HD
-http://185.2.83.209:8000/live/tony2/tony2/1497.ts
-#EXTINF:-1,US: Sports NET PACIFIC
-http://185.2.83.209:8000/live/tony2/tony2/1502.ts
-#EXTINF:-1,US: Sports NET ONE HD
-http://185.2.83.209:8000/live/tony2/tony2/1508.ts
-#EXTINF:-1,US: Sports NET WORLD
-http://185.2.83.209:8000/live/tony2/tony2/1526.ts
-#EXTINF:-1,US: Sports NET ONTARIO
-http://185.2.83.209:8000/live/tony2/tony2/1503.ts
-#EXTINF:-1,US: Sports NET WEST HD
-http://185.2.83.209:8000/live/tony2/tony2/1525.ts
-#EXTINF:-1,US: Sports Tonight
-http://185.2.83.209:8000/live/tony2/tony2/1490.ts
-#EXTINF:-1,US: Sport Network
-http://185.2.83.209:8000/live/tony2/tony2/1459.ts
-#EXTINF:-1,US: Sport LTVE HD
-http://185.2.83.209:8000/live/tony2/tony2/1496.ts
-#EXTINF:-1,US: USA Network
-http://185.2.83.209:8000/live/tony2/tony2/1498.ts
-#EXTINF:-1,US: Espn Sport
-http://185.2.83.209:8000/live/tony2/tony2/1483.ts
-#EXTINF:-1,US: BeIN Sports US
-http://185.2.83.209:8000/live/tony2/tony2/1486.ts
-#EXTINF:-1,US: Spike HD
-http://185.2.83.209:8000/live/tony2/tony2/1442.ts
-#EXTINF:-1,US: Sports NFL Now HD
-http://185.2.83.209:8000/live/tony2/tony2/1434.ts
-#EXTINF:-1,US: NHL Network HD
-http://185.2.83.209:8000/live/tony2/tony2/1429.ts
-#EXTINF:-1,US: Sport Snet Central
-http://185.2.83.209:8000/live/tony2/tony2/1430.ts
-#EXTINF:-1,US: ShowTime HD
-http://185.2.83.209:8000/live/tony2/tony2/1439.ts
-#EXTINF:-1,US: Showtime US
-http://185.2.83.209:8000/live/tony2/tony2/1480.ts
-#EXTINF:-1,US: AFN Prime HD
-http://185.2.83.209:8000/live/tony2/tony2/1479.ts
-#EXTINF:-1,US: AFN Movies HD
-http://185.2.83.209:8000/live/tony2/tony2/1477.ts
-#EXTINF:-1,US: TMN Action
-http://185.2.83.209:8000/live/tony2/tony2/1471.ts
-#EXTINF:-1,US: Animal Planet+1
-http://185.2.83.209:8000/live/tony2/tony2/1467.ts
-#EXTINF:-1,US: TMN Movies 2
-http://185.2.83.209:8000/live/tony2/tony2/1468.ts
-#EXTINF:-1,US: TMN Movies 3
-http://185.2.83.209:8000/live/tony2/tony2/1469.ts
-#EXTINF:-1,US: TMN Movies 4
-http://185.2.83.209:8000/live/tony2/tony2/1470.ts
-#EXTINF:-1,US: FX HD
-http://185.2.83.209:8000/live/tony2/tony2/1478.ts
-#EXTINF:-1,US: FOX 1
-http://185.2.83.209:8000/live/tony2/tony2/1435.ts
-#EXTINF:-1,US: E TV
-http://185.2.83.209:8000/live/tony2/tony2/1531.ts
-#EXTINF:-1,US: FOX 30
-http://185.2.83.209:8000/live/tony2/tony2/1523.ts
-#EXTINF:-1,US: FOX 23
-http://185.2.83.209:8000/live/tony2/tony2/1519.ts
-#EXTINF:-1,US: Fox 24 HD
-http://185.2.83.209:8000/live/tony2/tony2/1509.ts
-#EXTINF:-1,US: Fox Action
-http://185.2.83.209:8000/live/tony2/tony2/1448.ts
-#EXTINF:-1,US: Fox Action HD
-http://185.2.83.209:8000/live/tony2/tony2/1441.ts
-#EXTINF:-1,US: Fox Premium HD
-http://185.2.83.209:8000/live/tony2/tony2/1437.ts
-#EXTINF:-1,US: Cinemax ActionMax
-http://185.2.83.209:8000/live/tony2/tony2/1512.ts
-#EXTINF:-1,US: HBO Signature
-http://185.2.83.209:8000/live/tony2/tony2/1517.ts
-#EXTINF:-1,US: NBCSN Golf
-http://185.2.83.209:8000/live/tony2/tony2/1533.ts
-#EXTINF:-1,US: SYFY HD
-http://185.2.83.209:8000/live/tony2/tony2/1481.ts
-#EXTINF:-1,US: CBS HD
-http://185.2.83.209:8000/live/tony2/tony2/1485.ts
-#EXTINF:-1,US: HBO 1
-http://185.2.83.209:8000/live/tony2/tony2/1433.ts
-#EXTINF:-1,US: Bravo
-http://185.2.83.209:8000/live/tony2/tony2/1482.ts
-#EXTINF:-1,US: Starz Edge
-http://185.2.83.209:8000/live/tony2/tony2/1438.ts
-#EXTINF:-1,US: Starz East
-http://185.2.83.209:8000/live/tony2/tony2/1450.ts
-#EXTINF:-1,US: TBS HD
-http://185.2.83.209:8000/live/tony2/tony2/1506.ts
-#EXTINF:-1,US: Fight Network
-http://185.2.83.209:8000/live/tony2/tony2/1457.ts
-#EXTINF:-1,US: Bravo HD
-http://185.2.83.209:8000/live/tony2/tony2/1507.ts
-#EXTINF:-1,US: A&E HD
-http://185.2.83.209:8000/live/tony2/tony2/1500.ts
-#EXTINF:-1,US: HBO Action
-http://185.2.83.209:8000/live/tony2/tony2/1511.ts
-#EXTINF:-1,US: Movie Time HD
-http://185.2.83.209:8000/live/tony2/tony2/1499.ts
-#EXTINF:-1,US: RDS2
-http://185.2.83.209:8000/live/tony2/tony2/1505.ts
-#EXTINF:-1,US: NBCSN
-http://185.2.83.209:8000/live/tony2/tony2/1456.ts
-#EXTINF:-1,US: HSN
-http://185.2.83.209:8000/live/tony2/tony2/1462.ts
-#EXTINF:-1,US: London Live
-http://185.2.83.209:8000/live/tony2/tony2/1494.ts
-#EXTINF:-1,US: Star Chinese Movies
-http://185.2.83.209:8000/live/tony2/tony2/1491.ts
-#EXTINF:-1,US: Starz Encore US
-http://185.2.83.209:8000/live/tony2/tony2/1524.ts
-#EXTINF:-1,US: AFN Movie HD
-http://185.2.83.209:8000/live/tony2/tony2/1522.ts
-#EXTINF:-1,US: Kiro 7
-http://185.2.83.209:8000/live/tony2/tony2/1520.ts
-#EXTINF:-1,US: HBO East
-http://185.2.83.209:8000/live/tony2/tony2/1518.ts
-#EXTINF:-1,US: CBSN
-http://185.2.83.209:8000/live/tony2/tony2/1521.ts
-#EXTINF:-1,US: Famly HD
-http://185.2.83.209:8000/live/tony2/tony2/1495.ts
-#EXTINF:-1,US: Olympic Channel
-http://185.2.83.209:8000/live/tony2/tony2/1493.ts
-#EXTINF:-1,US: AMC
-http://185.2.83.209:8000/live/tony2/tony2/1492.ts
-#EXTINF:-1,US: BBC Two Eng
-http://185.2.83.209:8000/live/tony2/tony2/1443.ts
-#EXTINF:-1,US: Msnbc
-http://185.2.83.209:8000/live/tony2/tony2/1447.ts
-#EXTINF:-1,US: Cinemax
-http://185.2.83.209:8000/live/tony2/tony2/1461.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/505.ts
+#EXTINF:-1,UK: Sky Comedy
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/504.ts
+#EXTINF:-1,UK: Sky Living
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/502.ts
+#EXTINF:-1,UK: SKY SPORT 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2494.ts
+#EXTINF:-1,UK: SKY SPORT 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2495.ts
+#EXTINF:-1,UK: SKY SPORT 3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2496.ts
+#EXTINF:-1,UK: SKY SPORT 4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2497.ts
+#EXTINF:-1,UK: Sky Thriller
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/501.ts
+#EXTINF:-1,UK: True Movies
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/499.ts
+#EXTINF:-1,UK: VH1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/507.ts
+#EXTINF:-1,US:  ABC HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1123.ts
+#EXTINF:-1,US:  ABC Spark
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1122.ts
 #EXTINF:-1,US: AMC HD
-http://185.2.83.209:8000/live/tony2/tony2/1534.ts
-#EXTINF:-1,US: Life Time HD
-http://185.2.83.209:8000/live/tony2/tony2/1460.ts
-#EXTINF:-1,US: C-Span 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/1487.ts
-#EXTINF:-1,US: C-Span 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/1488.ts
-#EXTINF:-1,US: C-Span 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/1489.ts
-#EXTINF:-1,US: Showtime Extreme
-http://185.2.83.209:8000/live/tony2/tony2/1539.ts
-#EXTINF:-1,US: CBC Toronto
-http://185.2.83.209:8000/live/tony2/tony2/1541.ts
-#EXTINF:-1,US: Comedy Central HD US
-http://185.2.83.209:8000/live/tony2/tony2/1540.ts
-#EXTINF:-1,US: ActionMAX US
-http://185.2.83.209:8000/live/tony2/tony2/1527.ts
-#EXTINF:-1,US: CP24 HD
-http://185.2.83.209:8000/live/tony2/tony2/1528.ts
-#EXTINF:-1,US: Discovery Velocity HD
-http://185.2.83.209:8000/live/tony2/tony2/1529.ts
-#EXTINF:-1,US: CTV Toronto HD
-http://185.2.83.209:8000/live/tony2/tony2/1530.ts
-#EXTINF:-1,US: TWiT TV
-http://185.2.83.209:8000/live/tony2/tony2/1535.ts
-#EXTINF:-1,US: HBO Family
-http://185.2.83.209:8000/live/tony2/tony2/1536.ts
-#EXTINF:-1,US: Starz Comedy
-http://185.2.83.209:8000/live/tony2/tony2/1537.ts
-#EXTINF:-1,US: Starz Cinema
-http://185.2.83.209:8000/live/tony2/tony2/1538.ts
-#EXTINF:-1,US: W Network HD
-http://185.2.83.209:8000/live/tony2/tony2/1532.ts
-#EXTINF:-1,US: Bloomberg
-http://185.2.83.209:8000/live/tony2/tony2/1464.ts
-#EXTINF:-1,US: Amazing Discoveries
-http://185.2.83.209:8000/live/tony2/tony2/1465.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://185.2.83.209:8000/live/tony2/tony2/1466.ts
-#EXTINF:-1,US: A&E Network
-http://185.2.83.209:8000/live/tony2/tony2/1458.ts
-#EXTINF:-1,US: AFN Prime Atlantic HD
-http://185.2.83.209:8000/live/tony2/tony2/1484.ts
-#EXTINF:-1,US: Thai CH8
-http://185.2.83.209:8000/live/tony2/tony2/1463.ts
-#EXTINF:-1,US: World Fashion TV
-http://185.2.83.209:8000/live/tony2/tony2/1432.ts
-#EXTINF:-1,US: TBS Channle
-http://185.2.83.209:8000/live/tony2/tony2/1449.ts
-#EXTINF:-1,US: Amazing Music
-http://185.2.83.209:8000/live/tony2/tony2/1446.ts
-#EXTINF:-1,US: ABC
-http://185.2.83.209:8000/live/tony2/tony2/1504.ts
-#EXTINF:-1,US: WGN 9 HD
-http://185.2.83.209:8000/live/tony2/tony2/1515.ts
-#EXTINF:-1,US: Euro plus
-http://185.2.83.209:8000/live/tony2/tony2/1516.ts
-#EXTINF:-1,US: TRT World
-http://185.2.83.209:8000/live/tony2/tony2/1513.ts
-#EXTINF:-1,US: TLC
-http://185.2.83.209:8000/live/tony2/tony2/1510.ts
-#EXTINF:-1,US: NBC Live
-http://185.2.83.209:8000/live/tony2/tony2/1501.ts
-#EXTINF:-1,US: BBC Amrica
-http://185.2.83.209:8000/live/tony2/tony2/1514.ts
-
-
-
-
-
-
-
-
-
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1120.ts
+#EXTINF:-1,US: Bravo HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1114.ts
+#EXTINF:-1,US: CBN News
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1113.ts
+#EXTINF:-1,US:  CBS HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1095.ts
+#EXTINF:-1,US:  Cinemax East
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1111.ts
+#EXTINF:-1,US: CW HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1094.ts
+#EXTINF:-1,US:  DISCCOVERY
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1134.ts
+#EXTINF:-1,US:  ESPN 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1118.ts
+#EXTINF:-1,US:  ESPN HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1136.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1138.ts
+#EXTINF:-1,US:  Fox Sport 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1139.ts
+#EXTINF:-1,US:  FX HD USA
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1098.ts
+#EXTINF:-1,US:  HBO Zone HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1108.ts
+#EXTINF:-1,US: HISTORY
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1133.ts
+#EXTINF:-1,US: LIFETIME HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1117.ts
+#EXTINF:-1,US: NAT GEOGRAPHIC
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1135.ts
+#EXTINF:-1,US:  NBA Network
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1116.ts
+#EXTINF:-1,US:  NBC SPORT
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1137.ts
+#EXTINF:-1,US: Network HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1132.ts
+#EXTINF:-1,US:  NFL Network
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1107.ts
+#EXTINF:-1,US:  PBS HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1096.ts
+#EXTINF:-1,US: SPIKE HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1131.ts
+#EXTINF:-1,US:  SYFY HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1130.ts
+#EXTINF:-1,US:  TBS HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1129.ts
+#EXTINF:-1,US: TNT HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1128.ts
+#EXTINF:-1,US:  TSN 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1097.ts
+#EXTINF:-1,US:  TSN 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1124.ts
+#EXTINF:-1,US:  TSN 3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1125.ts
+#EXTINF:-1,US: TSN 4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1126.ts
+#EXTINF:-1,US:  TSN 5
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1127.ts
+#EXTINF:-1,US:  WILLOW CRICKET HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1102.ts
 
 
 

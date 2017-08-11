@@ -56,116 +56,295 @@ rtsp://stream2.taksimbilisim.com:1935/drt/_definst_/bant2
 
 
 
-#EXTINF:-1,TR: TV8 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13658.ts
-#EXTINF:-1,TR: TV2
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13656.ts
-#EXTINF:-1,TR: TRT1
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13667.ts
-#EXTINF:-1,TR: TRT TURK
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13668.ts
-#EXTINF:-1,TR: TRT SPOR
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13697.ts
-#EXTINF:-1,TR: TRT Okul
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13670.ts
-#EXTINF:-1,TR: TRT Muzik
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13671.ts
-#EXTINF:-1,TR: TRT Haber
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13669.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13672.ts
-#EXTINF:-1,TR: TRT Cocuk
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13673.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13674.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13637.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13636.ts
+
+
+#EXTINF:-1,TR:BEİNSPORT 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5737.ts
+#EXTINF:-1,TR: BEİNSPORT 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5736.ts
+#EXTINF:-1,TR: BEİNSPORT 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5734.ts
+#EXTINF:-1,TR: BEİNSPORT 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5732.ts
+#EXTINF:-1,TR: BEİNSPORT 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5731.ts
+#EXTINF:-1,TR:TIVIBU SPOR 1 HD YEDEK (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5729.ts
+#EXTINF:-1,TR:TIVIBU SPOR 2 HD YEDEK (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5728.ts
+#EXTINF:-1,TR:TIVIBUSPOR 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5727.ts
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5726.ts
+#EXTINF:-1,TR:TIVIBUSPOR 3 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5725.ts
+#EXTINF:-1,TR:TIVIBUSPOR 4 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5724.ts
+#EXTINF:-1,TR:A HABER (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5669.ts
+#EXTINF:-1,TR: A SPOR
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5721.ts
+#EXTINF:-1,TR:AB MOTEURS HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5697.ts
+#EXTINF:-1,TR:ANIMAL PLANET HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5696.ts
+#EXTINF:-1,TR:ATV HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5680.ts
+#EXTINF:-1,TR:BBC EARTH HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5695.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 1 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5710.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 2 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5709.ts
+#EXTINF:-1,TR:BEIN BOX OFFICE 3 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5708.ts
+#EXTINF:-1,TR:BEIN IZ TV HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5694.ts
+#EXTINF:-1,TR:BEIN MOVIES TURK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5707.ts
+#EXTINF:-1,TR: BEIN SERIES SCi-Fi HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5698.ts
+#EXTINF:-1,TR:SMART SPOR HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5730.ts
+#EXTINF:-1,TR:CARTOON NETWORK (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5675.ts
+#EXTINF:-1,TR: CNN HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5668.ts
+#EXTINF:-1,TR: KRAL TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3736.ts
 #EXTINF:-1,TR: STAR TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13660.ts
-#EXTINF:-1,TR: SPORTS TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13695.ts
-#EXTINF:-1,TR: SINEMATV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13693.ts
-#EXTINF:-1,TR: SINEMA2
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13694.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3770.ts
 #EXTINF:-1,TR: SHOW TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13661.ts
-#EXTINF:-1,TR: SHOW MAX
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13638.ts
-#EXTINF:-1,TR: SANSAR ÃœLKE TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13680.ts
-#EXTINF:-1,TR: SALON 3 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13692.ts
-#EXTINF:-1,TR: SALON 2 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13691.ts
-#EXTINF:-1,TR: SALON 1 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13690.ts
-#EXTINF:-1,TR: POWER Turk HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13662.ts
-#EXTINF:-1,TR: PLANET TURK
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13685.ts
-#EXTINF:-1,TR: PLANET MUFTAK
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13686.ts
-#EXTINF:-1,TR: PLANET COCUK
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13687.ts
-#EXTINF:-1,TR: NTV SPOR
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13698.ts
-#EXTINF:-1,TR: NTV AVRUPA
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13639.ts
-#EXTINF:-1,TR: MovieSmart Turk
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13640.ts
-#EXTINF:-1,TR: Movie Smart  Gold HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13641.ts
-#EXTINF:-1,TR: MOVIEMAX FESTIVAL HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13642.ts
-#EXTINF:-1,TR: MOVIEMAX FAMILY HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13643.ts
-#EXTINF:-1,TR: MOVIEMAX ACTION HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13644.ts
-#EXTINF:-1,TR: MINIKAGO
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13682.ts
-#EXTINF:-1,TR: LOCA 2
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13689.ts
-#EXTINF:-1,TR: LOCA 1
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13688.ts
-#EXTINF:-1,TR: LIG TV 4 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13721.ts
-#EXTINF:-1,TR: LIG TV 3 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13701.ts
-#EXTINF:-1,TR: LIG TV 2 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13700.ts
-#EXTINF:-1,TR: LIG TV 1 HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13699.ts
-#EXTINF:-1,TR: KANAL D
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13655.ts
-#EXTINF:-1,TR: KANAL 7
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13654.ts
-#EXTINF:-1,TR: ISTANBUL TV1
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13645.ts
-#EXTINF:-1,TR: HALK TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13650.ts
-#EXTINF:-1,TR: GS
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13646.ts
-#EXTINF:-1,TR: FOX HD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13653.ts
-#EXTINF:-1,TR: FLASH TV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13665.ts
-#EXTINF:-1,TR: FILTV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13678.ts
-#EXTINF:-1,TR: FENERBAHCE
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13647.ts
-#EXTINF:-1,TR: FANATIKTV
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13675.ts
-#EXTINF:-1,TR: EURO STAR
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13648.ts
-#EXTINF:-1,TR: EURO D
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13649.ts
-#EXTINF:-1,TR: DREAM TURK
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13681.ts
-#EXTINF:-1,TR: DISNEY XD
-http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13683.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3768.ts
+#EXTINF:-1,TR: POWER TURK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3734.ts
+#EXTINF:-1,TR:Comedy Central
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5659.ts
+#EXTINF:-1,TR:De Película
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5658.ts
+#EXTINF:-1,TR:Discovery Channel
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5657.ts
+#EXTINF:-1,TR:DISCOVERY CHANNEL HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5692.ts
+#EXTINF:-1,TR:Discovery Civilization
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5656.ts
+#EXTINF:-1,TR:Discovery Home & Health
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5655.ts
+#EXTINF:-1,TR:DISCOVERY IDX (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5691.ts
+#EXTINF:-1,TR:Discovery Kids
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5654.ts
+#EXTINF:-1,TR:Discovery Science
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5653.ts
+#EXTINF:-1,TR:DISCOVERY SHOWCASE HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5690.ts
+#EXTINF:-1,TR:Discovery Theater
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5652.ts
+#EXTINF:-1,TR:Discovery Turbo
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5651.ts
+#EXTINF:-1,TR:Discovery World
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5650.ts
+#EXTINF:-1,TR:DISNEY CHANNEL HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5674.ts
+#EXTINF:-1,TR:Distrito Comedia
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5649.ts
+#EXTINF:-1,TR:E!
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5648.ts
+#EXTINF:-1,TR:ESPN
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5647.ts
+#EXTINF:-1,TR:ESPN 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5646.ts
+#EXTINF:-1,TR:ESPN 3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5645.ts
+#EXTINF:-1,TR:ESPN Plus
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5644.ts
+#EXTINF:-1,TR:Estrellas
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5643.ts
+#EXTINF:-1,TR:FilmZone
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5642.ts
+#EXTINF:-1,TR:Foro TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5641.ts
+#EXTINF:-1,TR: Fox
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5640.ts
+#EXTINF:-1,TR:Fox Action
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5639.ts
+#EXTINF:-1,TR:Fox Cinema
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5638.ts
+#EXTINF:-1,TR:Fox Classics
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5637.ts
+#EXTINF:-1,TR:FOX CRIME HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5701.ts
+#EXTINF:-1,TR:Fox Life
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5636.ts
+#EXTINF:-1,TR:FOX LIFE HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5700.ts
+#EXTINF:-1,TR:Fox Movies
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5635.ts
+#EXTINF:-1,TR:Fox Sports
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5633.ts
+#EXTINF:-1,TR:FOX TV HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5679.ts
+#EXTINF:-1,TR:FX HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5699.ts
+#EXTINF:-1,TR:HABERTURK (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5667.ts
+#EXTINF:-1,TR:HALK TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5666.ts
+#EXTINF:-1,TR:HISTORY DOCUMANTARY (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5689.ts
+#EXTINF:-1,TR:HISTORY HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5688.ts
+#EXTINF:-1,TR: KANAL D HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5683.ts
+#EXTINF:-1,TR:LIFETIME (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5693.ts
+#EXTINF:-1,TR:MGM HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5660.ts
+#EXTINF:-1,TR:MINIKA GO (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5673.ts
+#EXTINF:-1,TR:NAT GEO WILD HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5687.ts
+#EXTINF:-1,TR:NATIONAL GEO HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5686.ts
+#EXTINF:-1,TR:NATIONAL GEO PEOPLE HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5685.ts
+#EXTINF:-1,TR:NICK JR (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5672.ts
+#EXTINF:-1,TR:NTV (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5665.ts
+#EXTINF:-1,TR:NTV SPOR (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5720.ts
+#EXTINF:-1,TR: PLANET ÇOCUK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5671.ts
+#EXTINF:-1,TR:SALON 1 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5706.ts
+#EXTINF:-1,TR:SALON 2 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5705.ts
+#EXTINF:-1,TR:SALON 3 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5704.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5681.ts
+#EXTINF:-1,TR: SHOWMAX HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5677.ts
+#EXTINF:-1,TR:SINETIVI 2 HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5703.ts
+#EXTINF:-1,TR:SINETIVI ADRENALIN HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5702.ts
+#EXTINF:-1,TR:STAR TV HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5682.ts
+#EXTINF:-1,TR: TEVE 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5676.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5684.ts
+#EXTINF:-1,TR:TRT COCUK (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5670.ts
+#EXTINF:-1,TR:TRT HABER (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5664.ts
+#EXTINF:-1,TR:TRTSPOR HD (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5719.ts
+#EXTINF:-1,TR:TV 24 (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5663.ts
+#EXTINF:-1,TR: TV8 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5678.ts
+#EXTINF:-1,TR:ULKE TV  (TR)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5662.ts
+#EXTINF:-1,TR: ULUSAL KANAL
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5661.ts
+#EXTINF:-1,KURDISH|KURD MAX TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3049.ts
+#EXTINF:-1,KURDISH|KURD SAT TV HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3048.ts
+#EXTINF:-1,KURDISH|KURDISTAN TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3047.ts
+#EXTINF:-1,KURDISH|KURDISTAN TV  Org
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3046.ts
+#EXTINF:-1,KURDISH|KURDSAT-HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3045.ts
+#EXTINF:-1,KURDISH|MED MUZÄ°C
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3044.ts
+#EXTINF:-1,KURDISH|MED NUCE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3043.ts
+#EXTINF:-1,KURDISH|MED NUCE TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3042.ts
+#EXTINF:-1,KURDISH|MED TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3041.ts
+#EXTINF:-1,KURDISH|NEWROZ TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3040.ts
+#EXTINF:-1,KURDISH|NRT  Tv HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3039.ts
+#EXTINF:-1,KURDISH|NRT 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3038.ts
+#EXTINF:-1,KURDISH|NRT HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3037.ts
+#EXTINF:-1,KURDISH|OZGUR GUN TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3036.ts
+#EXTINF:-1,KURDISH|RUDAW HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3035.ts
+#EXTINF:-1,KURDISH|STERK TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3034.ts
+#EXTINF:-1,KURDISH|STERK ZINDI
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3033.ts
+#EXTINF:-1,KURDISH|TRT KHURDI
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3032.ts
+#EXTINF:-1,KURDISH|TV 10
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3031.ts
+#EXTINF:-1,KURDISH|ZAGROS
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3030.ts
+
+
+#EXTINF:-1,TR_24-TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3746.ts
+#EXTINF:-1,TR_A_SPOR
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3784.ts
+#EXTINF:-1,TR_A2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3774.ts
+#EXTINF:-1,TR_AHABER_LOCAL
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3741.ts
+#EXTINF:-1,TR_ANIMAL_PLANET
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3709.ts
+#EXTINF:-1,TR_ATV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3773.ts
+#EXTINF:-1,TR_ATV_FULLHD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3772.ts
+#EXTINF:-1,TR_BABY TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3727.ts
+#EXTINF:-1,TR_BBC_Earth_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3708.ts
+#EXTINF:-1,TR_BEIN MOVIES COMEDY HD [CANLI]
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3702.ts
+#EXTINF:-1,TR_BEIN MOVIES FAMiLY HD [CANLI]
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3701.ts
+#EXTINF:-1,TR_BEIN MOVIES FESTiVAL HD [CANLI]
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3700.ts
+#EXTINF:-1,TR_BEIN MOVIES STARS HD [CANLI]
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3698.ts
+#EXTINF:-1,TR_BEIN MOVIES TURK (CANLI)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3697.ts
+#EXTINF:-1,TR_BEIN SERIES SCi-Fi HD [CANLI]
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3696.ts
+#EXTINF:-1,TR_BEIN SPORT 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3805.ts
+#EXTINF:-1,TR: BEIN SPORT 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3803.ts
+#EXTINF:-1,TR_BEiN_GURME
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3747.ts
+#EXTINF:-1,TR_BEiN_iZTV HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3711.ts
+#EXTINF:-1,TR_BEYAZ_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3756.ts
+#EXTINF:-1,TR_BEYAZ_TV_FULLHD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3757.ts
+#EXTINF:-1,TR_BJK TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3789.ts
+#EXTINF:-1,TR_BURSASPORTV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3788.ts
+#EXTINF:-1,TR_CARTON_NETWORK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3726.ts
+#EXTINF:-1,TR_CAY_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3750.ts
+#EXTINF:-1,TR_Cem_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3730.ts
+
 
 
 

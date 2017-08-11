@@ -18,210 +18,185 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,AF: Africa TV 1
-http://185.2.83.209:8000/live/tony2/tony2/989.ts
-#EXTINF:-1,AF: Africa TV 2
-http://185.2.83.209:8000/live/tony2/tony2/958.ts
-#EXTINF:-1,AF: Africa TV 4
-http://185.2.83.209:8000/live/tony2/tony2/996.ts
-#EXTINF:-1,AF: Africa TV 3
-http://185.2.83.209:8000/live/tony2/tony2/972.ts
-#EXTINF:-1,AF: NollyWood Movies
-http://185.2.83.209:8000/live/tony2/tony2/992.ts
-#EXTINF:-1,AF: NollyWood French
-http://185.2.83.209:8000/live/tony2/tony2/991.ts
+#EXTINF:-1,AF_2S_TV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3883.ts
+#EXTINF:-1,AF_A2i_TV ( Senegal )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3916.ts
+#EXTINF:-1,AF_Abc News
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3870.ts
+#EXTINF:-1,AF: Adom TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3922.ts
+#EXTINF:-1,AF_Africa_24
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3928.ts
+#EXTINF:-1,AF_Africa_Today_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3925.ts
+#EXTINF:-1,AF_Africa_TV_1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3932.ts
+#EXTINF:-1,AF_Africa_TV_2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3931.ts
+#EXTINF:-1,AF_Africa_TV_3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3930.ts
+#EXTINF:-1,AF_Africa_TV_4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3929.ts
+#EXTINF:-1,AF_Afro_Music
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3903.ts
+#EXTINF:-1,AF_Ait_International
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3902.ts
+#EXTINF:-1,AF_Amazing_Discoveries_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3919.ts
+#EXTINF:-1,AF_ANN_7_South_Africa
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3918.ts
+#EXTINF:-1,AF_Ben_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3869.ts
+#EXTINF:-1,AF_Channels24_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3900.ts
+#EXTINF:-1,AF_Cherifa_TV ( Mali )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3899.ts
+#EXTINF:-1,AF_Cine_Stream_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3901.ts
+#EXTINF:-1,AF: CRTV  (Cameroun)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3872.ts
+#EXTINF:-1,AF_D_24
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3904.ts
+#EXTINF:-1,AF_DBS_TV_(Cameroun)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3921.ts
+#EXTINF:-1,AF_Diaspora_24 (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3885.ts
+#EXTINF:-1,AF_Djibouti
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3905.ts
+#EXTINF:-1,AF_DTV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3887.ts
+#EXTINF:-1,AF_Emmanuel_TV_Nigeria
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3888.ts
+#EXTINF:-1,AF_Erbu_Africa
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3857.ts
+#EXTINF:-1,AF_Eritrea_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3938.ts
+#EXTINF:-1,AF_Estv_Eritrea
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3937.ts
+#EXTINF:-1,AF_Etv_Eritre
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3936.ts
+#EXTINF:-1,AF: GTV Sports Plus
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3854.ts
+#EXTINF:-1,AF_Horn_Cable_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3906.ts
+#EXTINF:-1,AF_Joy_Prime_TV ( Ghana )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3889.ts
+#EXTINF:-1,AF_Kalsan_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3907.ts
+#EXTINF:-1,AF_Kedu_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3908.ts
+#EXTINF:-1,AF_Ktn_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3856.ts
+#EXTINF:-1,AF_La_Tele_du_Sahel_Nigeria
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3920.ts
+#EXTINF:-1,AF_Lamp_Fall_TV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3923.ts
+#EXTINF:-1,AF_Love_World_Nigeria
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3910.ts
+#EXTINF:-1,AF_Maisha TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3855.ts
+#EXTINF:-1,AF_Mana_Maputo
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3911.ts
+#EXTINF:-1,AF_ManaSat_MZ ( Mozambique )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3909.ts
+#EXTINF:-1,AF_MFM_TV_Nigeria
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3895.ts
+#EXTINF:-1,AF_MOURCHID_TV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3924.ts
+#EXTINF:-1,AF_MUSICTV (SENEGAL)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3886.ts
+#EXTINF:-1,AF_Neema TV Congo
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3864.ts
+#EXTINF:-1,AF_Nigezie_TV ( Nigeria )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3891.ts
+#EXTINF:-1,AF_Nikadys_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3879.ts
+#EXTINF:-1,AF_Nollywood_French
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3912.ts
+#EXTINF:-1,AF_Nollywood_Movies
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3914.ts
+#EXTINF:-1,AF: Nollywood Movies Premium
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3913.ts
+#EXTINF:-1,AF_Ortm_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3858.ts
+#EXTINF:-1,AF_RADIO_MONTE_CARLO_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3882.ts
+#EXTINF:-1,AF_Rave_TV_(Nigeria)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3859.ts
+#EXTINF:-1,AF_Rok_TV ( Nigeria )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3896.ts
+#EXTINF:-1,AF_Rtb
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3860.ts
+#EXTINF:-1,AF_RTi1_(Cote_d'Ivoire)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3878.ts
+#EXTINF:-1,AF_RTi2_(Cote_d'Ivoire)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3877.ts
+#EXTINF:-1,AF: RTNC
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3898.ts
+#EXTINF:-1,AF_Rts_1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3893.ts
+#EXTINF:-1,AF_RTS_2 ( Senegal )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3892.ts
+#EXTINF:-1,AF_Rwanda_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3915.ts
+#EXTINF:-1,AF_SEN_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3927.ts
+#EXTINF:-1,AF_Sikka_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3871.ts
+#EXTINF:-1,AF_Sntv_Somalia
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3933.ts
+#EXTINF:-1,AF_Somali_Africa_TV4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3890.ts
+#EXTINF:-1,AF_Somali_Cable
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3934.ts
+#EXTINF:-1,AF_Somali_Land_TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3935.ts
+#EXTINF:-1,AF:STV ( Cameroun )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3862.ts
+#EXTINF:-1,AF: Sudan TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3863.ts
+#EXTINF:-1,AF_TELEECOLE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3880.ts
+#EXTINF:-1,AF_TFM_HD (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3881.ts
+#EXTINF:-1,AF_TFM_OLE (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3894.ts
+#EXTINF:-1,AF_Tfm_Regional (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3917.ts
+#EXTINF:-1,AF_TM2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3861.ts
+#EXTINF:-1,AF: TOUBA MONDE BI
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3875.ts
+#EXTINF:-1,AF_TOUBA_TV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3874.ts
+#EXTINF:-1,AF_TVC_NEWS
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3868.ts
+#EXTINF:-1,AF_TVS1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3876.ts
+#EXTINF:-1,AF_VOX_AFRIQUE_FRENCH
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3865.ts
+#EXTINF:-1,AF_Walf_TV (Senegal)
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3897.ts
+#EXTINF:-1,AF_WAP_TV ( Nigeria )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3866.ts
+#EXTINF:-1,AF_ZTV ( Ghana )
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3873.ts
+#EXTINF:-1,AF: A+
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2328.ts
+#EXTINF:-1,AF: CANAL 2 VIE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1844.ts
+#EXTINF:-1,AF: CANAL 255
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1843.ts
 #EXTINF:-1,AF: NollyWood Premier
-http://185.2.83.209:8000/live/tony2/tony2/993.ts
-#EXTINF:-1,AF: Canal 2
-http://185.2.83.209:8000/live/tony2/tony2/959.ts
-#EXTINF:-1,AF: Music Viva Africa
-http://185.2.83.209:8000/live/tony2/tony2/975.ts
-#EXTINF:-1,AF: GBC Entertainment
-http://185.2.83.209:8000/live/tony2/tony2/957.ts
-#EXTINF:-1,AF: Burkina Info
-http://185.2.83.209:8000/live/tony2/tony2/961.ts
-#EXTINF:-1,AF: Ratelki TV
-http://185.2.83.209:8000/live/tony2/tony2/985.ts
-#EXTINF:-1,AF: Wazobia TV
-http://185.2.83.209:8000/live/tony2/tony2/973.ts
-#EXTINF:-1,AF: RTV TV
-http://185.2.83.209:8000/live/tony2/tony2/984.ts
-#EXTINF:-1,AF: LC2 Benin
-http://185.2.83.209:8000/live/tony2/tony2/983.ts
-#EXTINF:-1,AF: Nigerian Movies
-http://185.2.83.209:8000/live/tony2/tony2/995.ts
-#EXTINF:-1,AF: 2STV ( Senegal )
-http://185.2.83.209:8000/live/tony2/tony2/974.ts
-#EXTINF:-1,AF: RTG ( Guiniea )
-http://185.2.83.209:8000/live/tony2/tony2/970.ts
-#EXTINF:-1,AF: Hope Channel TV
-http://185.2.83.209:8000/live/tony2/tony2/997.ts
-#EXTINF:-1,AF: TVC News
-http://185.2.83.209:8000/live/tony2/tony2/977.ts
-#EXTINF:-1,AF: ORTB
-http://185.2.83.209:8000/live/tony2/tony2/994.ts
-#EXTINF:-1,AF: RWANDA TV
-http://185.2.83.209:8000/live/tony2/tony2/979.ts
-#EXTINF:-1,AF: Walf TV Senegal
-http://185.2.83.209:8000/live/tony2/tony2/981.ts
-#EXTINF:-1,AF1: Lagos TV ( Nigeria )
-http://185.2.83.209:8000/live/tony2/tony2/980.ts
-#EXTINF:-1,AF: TV Jrc
-http://185.2.83.209:8000/live/tony2/tony2/990.ts
-#EXTINF:-1,AF: Diaspora24 ( Ghana )
-http://185.2.83.209:8000/live/tony2/tony2/971.ts
-#EXTINF:-1,AF: Realnolly tv
-http://185.2.83.209:8000/live/tony2/tony2/978.ts
-#EXTINF:-1,AF: Canal 2 Movies
-http://185.2.83.209:8000/live/tony2/tony2/988.ts
-#EXTINF:-1,AF: Music BOMBA
-http://185.2.83.209:8000/live/tony2/tony2/976.ts
-#EXTINF:-1,AF: CRTV
-http://185.2.83.209:8000/live/tony2/tony2/987.ts
-#EXTINF:-1,AF: Channels Television ( Nigeria )
-http://185.2.83.209:8000/live/tony2/tony2/986.ts
-#EXTINF:-1,AF: SenTV HD
-http://185.2.83.209:8000/live/tony2/tony2/982.ts
-#EXTINF:-1,AF: Kalsan TV Somali
-http://185.2.83.209:8000/live/tony2/tony2/966.ts
-#EXTINF:-1,AF: RTS2
-http://185.2.83.209:8000/live/tony2/tony2/963.ts
-#EXTINF:-1,AF: ORTM [Mali]
-http://185.2.83.209:8000/live/tony2/tony2/964.ts
-#EXTINF:-1,AF: Emmanuel TV ( Nigeria )
-http://185.2.83.209:8000/live/tony2/tony2/969.ts
-#EXTINF:-1,AF: TELE BOSTON
-http://185.2.83.209:8000/live/tony2/tony2/967.ts
-#EXTINF:-1,AF: Fashion One
-http://185.2.83.209:8000/live/tony2/tony2/962.ts
-#EXTINF:-1,AF: Kana TV
-http://185.2.83.209:8000/live/tony2/tony2/968.ts
-#EXTINF:-1,AF: Aci TV ( OM5 TV )
-http://185.2.83.209:8000/live/tony2/tony2/960.ts
-#EXTINF:-1,AF: Musique et Mode (2S)
-http://185.2.83.209:8000/live/tony2/tony2/940.ts
-#EXTINF:-1,AF: ANN 7
-http://185.2.83.209:8000/live/tony2/tony2/941.ts
-#EXTINF:-1,AF: Fusion Plus TV
-http://185.2.83.209:8000/live/tony2/tony2/943.ts
-#EXTINF:-1,AF: Movies GHTV
-http://185.2.83.209:8000/live/tony2/tony2/944.ts
-#EXTINF:-1,AF: NBS
-http://185.2.83.209:8000/live/tony2/tony2/945.ts
-#EXTINF:-1,AF: GhTv Abroad
-http://185.2.83.209:8000/live/tony2/tony2/946.ts
-#EXTINF:-1,AF: RTS1
-http://185.2.83.209:8000/live/tony2/tony2/947.ts
-#EXTINF:-1,AF: Biafra 1 [Nigeria]
-http://185.2.83.209:8000/live/tony2/tony2/948.ts
-#EXTINF:-1,AF: Biafra 2 [Nigeria]
-http://185.2.83.209:8000/live/tony2/tony2/949.ts
-#EXTINF:-1,AF: Somali Broadcasting
-http://185.2.83.209:8000/live/tony2/tony2/965.ts
-#EXTINF:-1,AF: Somalia ESTV (EV)
-http://185.2.83.209:8000/live/tony2/tony2/942.ts
-#EXTINF:-1,AF: Somalia Cabel
-http://185.2.83.209:8000/live/tony2/tony2/3192.ts
-#EXTINF:-1,AF: Somalia ETN TV
-http://185.2.83.209:8000/live/tony2/tony2/3199.ts
-#EXTINF:-1,AF: Somalia HCTV
-http://185.2.83.209:8000/live/tony2/tony2/3197.ts
-#EXTINF:-1,AF: Somalia JABUUTI
-http://185.2.83.209:8000/live/tony2/tony2/3198.ts
-#EXTINF:-1,AF: Somalia Jubbaland TV
-http://185.2.83.209:8000/live/tony2/tony2/3194.ts
-#EXTINF:-1,AF: Somalia SBC
-http://185.2.83.209:8000/live/tony2/tony2/3195.ts
-#EXTINF:-1,AF: Somalia SNTV
-http://185.2.83.209:8000/live/tony2/tony2/3200.ts
-#EXTINF:-1,AF: Somalia Star TV
-http://185.2.83.209:8000/live/tony2/tony2/3193.ts
-#EXTINF:-1,AF: Somalia Universal
-http://185.2.83.209:8000/live/tony2/tony2/3196.ts
-#EXTINF:-1,AF: Hesso Somali HD
-http://185.2.83.209:8000/live/tony2/tony2/3228.ts
-#EXTINF:-1,AF: Somali Puntland TV
-http://185.2.83.209:8000/live/tony2/tony2/3229.ts
-#EXTINF:-1,AF: Somalia Land
-http://185.2.83.209:8000/live/tony2/tony2/3201.ts
-#EXTINF:-1,AF: TFM HD ( Sengal )
-http://185.2.83.209:8000/live/tony2/tony2/3208.ts
-#EXTINF:-1,AF: TVM 1 ( Mozambique )
-http://185.2.83.209:8000/live/tony2/tony2/3211.ts
-#EXTINF:-1,AF: TVM 2 ( Mozambique )
-http://185.2.83.209:8000/live/tony2/tony2/3212.ts
-#EXTINF:-1,AF: TPA africa
-http://185.2.83.209:8000/live/tony2/tony2/3202.ts
-#EXTINF:-1,AF: Afrique Media
-http://185.2.83.209:8000/live/tony2/tony2/938.ts
-#EXTINF:-1,AF: Biafra 3 [Nigeria]
-http://185.2.83.209:8000/live/tony2/tony2/950.ts
-#EXTINF:-1,AF: Delta TV
-http://185.2.83.209:8000/live/tony2/tony2/953.ts
-#EXTINF:-1,AF: Channel Télévision [Nigéria]
-http://185.2.83.209:8000/live/tony2/tony2/951.ts
-#EXTINF:-1,AF: RTI1
-http://185.2.83.209:8000/live/tony2/tony2/952.ts
-#EXTINF:-1,AF: TFM [Senegal]
-http://185.2.83.209:8000/live/tony2/tony2/954.ts
-#EXTINF:-1,AF: TVC Benin
-http://185.2.83.209:8000/live/tony2/tony2/939.ts
-#EXTINF:-1,AF: Vox Africa
-http://185.2.83.209:8000/live/tony2/tony2/955.ts
-#EXTINF:-1,AF: Power TV
-http://185.2.83.209:8000/live/tony2/tony2/956.ts
-#EXTINF:-1,AF: Africa HD
-http://185.2.83.209:8000/live/tony2/tony2/3220.ts
-#EXTINF:-1,AF: Africa One
-http://185.2.83.209:8000/live/tony2/tony2/3221.ts
-#EXTINF:-1,AF: Afro Music
-http://185.2.83.209:8000/live/tony2/tony2/3222.ts
-#EXTINF:-1,AF: LoveWorld Plus
-http://185.2.83.209:8000/live/tony2/tony2/3223.ts
-#EXTINF:-1,AF: Ashanti24
-http://185.2.83.209:8000/live/tony2/tony2/3224.ts
-#EXTINF:-1,AF: Canal CVV Internationa
-http://185.2.83.209:8000/live/tony2/tony2/3213.ts
-#EXTINF:-1,AF: Vox Afrique
-http://185.2.83.209:8000/live/tony2/tony2/3203.ts
-#EXTINF:-1,AF: Catholic TV
-http://185.2.83.209:8000/live/tony2/tony2/3214.ts
-#EXTINF:-1,AF: Dove TV
-http://185.2.83.209:8000/live/tony2/tony2/3205.ts
-#EXTINF:-1,AF: Elshaddai Television Network
-http://185.2.83.209:8000/live/tony2/tony2/3207.ts
-#EXTINF:-1,AF: Eri-TV
-http://185.2.83.209:8000/live/tony2/tony2/3215.ts
-#EXTINF:-1,AF: Faith TV
-http://185.2.83.209:8000/live/tony2/tony2/3216.ts
-#EXTINF:-1,AF: Fith TV
-http://185.2.83.209:8000/live/tony2/tony2/3209.ts
-#EXTINF:-1,AF: Generations TV
-http://185.2.83.209:8000/live/tony2/tony2/3217.ts
-#EXTINF:-1,AF: Ghana Entertainment TV
-http://185.2.83.209:8000/live/tony2/tony2/3218.ts
-#EXTINF:-1,AF: Kessben TV ( Ghana )
-http://185.2.83.209:8000/live/tony2/tony2/3219.ts
-#EXTINF:-1,AF: Logo TV
-http://185.2.83.209:8000/live/tony2/tony2/3206.ts
-#EXTINF:-1,AF: MusicTV ( Senegal )
-http://185.2.83.209:8000/live/tony2/tony2/3204.ts
-#EXTINF:-1,AF: Nigerian Movies 2
-http://185.2.83.209:8000/live/tony2/tony2/3227.ts
-#EXTINF:-1,AF: PEACE TV ENGLISH
-http://185.2.83.209:8000/live/tony2/tony2/3210.ts
-#EXTINF:-1,AF: TV Kin
-http://185.2.83.209:8000/live/tony2/tony2/3225.ts
-#EXTINF:-1,AF: Wife Movies
-http://185.2.83.209:8000/live/tony2/tony2/3226.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1837.ts
+#EXTINF:-1,AF: ORTM MALI
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1835.ts
+#EXTINF:-1,AF: RMC MUSIC
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1834.ts
+#EXTINF:-1,AF: RTI1 COTE D'IVOIRE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1833.ts
+#EXTINF:-1,AF: RTNC congo
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1832.ts
+#EXTINF:-1,AF: RTS1 senegal
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1830.ts

@@ -69,335 +69,265 @@ http://144.2.100.111:8000/play/a00b
 
 
 
-#EXTINF:-1,IT: Rai 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/693.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/692.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/691.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/690.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/563.ts
-#EXTINF:-1,IT: Rai yoyo
-http://185.2.83.209:8000/live/tony2/tony2/553.ts
-#EXTINF:-1,IT: Rai Gulp
-http://185.2.83.209:8000/live/tony2/tony2/552.ts
-#EXTINF:-1,IT: Rai Movie
-http://185.2.83.209:8000/live/tony2/tony2/584.ts
-#EXTINF:-1,IT: Rai Premium
-http://185.2.83.209:8000/live/tony2/tony2/583.ts
-#EXTINF:-1,IT: Rai News 24
-http://185.2.83.209:8000/live/tony2/tony2/689.ts
-#EXTINF:-1,IT: Rete 4
-http://185.2.83.209:8000/live/tony2/tony2/1848.ts
-#EXTINF:-1,IT: RSI La1 HD
-http://185.2.83.209:8000/live/tony2/tony2/688.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://185.2.83.209:8000/live/tony2/tony2/687.ts
-#EXTINF:-1,IT: History alb
-http://185.2.83.209:8000/live/tony2/tony2/1873.ts
-#EXTINF:-1,IT: Telearena
-http://185.2.83.209:8000/live/tony2/tony2/561.ts
-#EXTINF:-1,IT: Telepavia
-http://185.2.83.209:8000/live/tony2/tony2/1843.ts
-#EXTINF:-1,IT: Trentino TV
-http://185.2.83.209:8000/live/tony2/tony2/1842.ts
-#EXTINF:-1,IT: TeleTicino
-http://185.2.83.209:8000/live/tony2/tony2/1869.ts
-#EXTINF:-1,IT: Canale 10
-http://185.2.83.209:8000/live/tony2/tony2/565.ts
-#EXTINF:-1,IT: TG2000
-http://185.2.83.209:8000/live/tony2/tony2/564.ts
-#EXTINF:-1,IT: Orler
-http://185.2.83.209:8000/live/tony2/tony2/1871.ts
-#EXTINF:-1,IT: Super TV
-http://185.2.83.209:8000/live/tony2/tony2/1870.ts
-#EXTINF:-1,IT: Aslive3
-http://185.2.83.209:8000/live/tony2/tony2/555.ts
-#EXTINF:-1,IT: videocalabria
-http://185.2.83.209:8000/live/tony2/tony2/569.ts
-#EXTINF:-1,IT: Tele 8
-http://185.2.83.209:8000/live/tony2/tony2/1845.ts
-#EXTINF:-1,IT: RTV San Marino
-http://185.2.83.209:8000/live/tony2/tony2/1841.ts
-#EXTINF:-1,IT: Euroneww Italia
-http://185.2.83.209:8000/live/tony2/tony2/1844.ts
-#EXTINF:-1,IT: Canale 7
-http://185.2.83.209:8000/live/tony2/tony2/1846.ts
-#EXTINF:-1,IT: TVM 1 Dvr
-http://185.2.83.209:8000/live/tony2/tony2/571.ts
-#EXTINF:-1,IT: TVM 2 Dvr
-http://185.2.83.209:8000/live/tony2/tony2/570.ts
-#EXTINF:-1,IT: Cartoonito
-http://185.2.83.209:8000/live/tony2/tony2/554.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/685.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/686.ts
-#EXTINF:-1,IT: Real Time
-http://185.2.83.209:8000/live/tony2/tony2/684.ts
-#EXTINF:-1,IT: Dmax
-http://185.2.83.209:8000/live/tony2/tony2/657.ts
-#EXTINF:-1,IT: Telerama
-http://185.2.83.209:8000/live/tony2/tony2/585.ts
+#EXTINF:-1,IT: ALICE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1243.ts
+#EXTINF:-1,IT: ANIMAL_PLANETE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1287.ts
+#EXTINF:-1,IT: CANALE 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1247.ts
+#EXTINF:-1,IT: Canale_7
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1246.ts
+#EXTINF:-1,IT: CARTOONITO
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1288.ts
+#EXTINF:-1,IT: CRIME NVESTIGATION HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1294.ts
+#EXTINF:-1,IT: DISCOVERY HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1293.ts
+#EXTINF:-1,IT: DISCOVERY SCIENCE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1280.ts
+#EXTINF:-1,IT: DISCOVERY Travel & Living
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1278.ts
+#EXTINF:-1,IT: Disney HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1292.ts
+#EXTINF:-1,IT: DISNEY_XD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1291.ts
+#EXTINF:-1,IT: DMAX HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1290.ts
+#EXTINF:-1,IT: DMAX_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3317.ts
+#EXTINF:-1,IT: EUROSPORT 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1265.ts
+#EXTINF:-1,IT: EUROSPORT 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1264.ts
+#EXTINF:-1,IT: FOX ANIMATION HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1289.ts
+#EXTINF:-1,IT: FOX HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1286.ts
+#EXTINF:-1,IT: FOX LIFE HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1285.ts
+#EXTINF:-1,IT: ITALIA 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1242.ts
 #EXTINF:-1,IT: La 5
-http://185.2.83.209:8000/live/tony2/tony2/556.ts
-#EXTINF:-1,IT: La7
-http://185.2.83.209:8000/live/tony2/tony2/683.ts
-#EXTINF:-1,---------- Cinma ----------
-http://185.2.83.209:8000/live/tony2/tony2/682.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/681.ts
-#EXTINF:-1,IT: Sky Cinema +1 HD
-http://185.2.83.209:8000/live/tony2/tony2/680.ts
-#EXTINF:-1,IT: Sky Cinema +24 HD
-http://185.2.83.209:8000/live/tony2/tony2/679.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://185.2.83.209:8000/live/tony2/tony2/675.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://185.2.83.209:8000/live/tony2/tony2/672.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://185.2.83.209:8000/live/tony2/tony2/677.ts
-#EXTINF:-1,IT: Sky Cinema +Max HD
-http://185.2.83.209:8000/live/tony2/tony2/673.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://185.2.83.209:8000/live/tony2/tony2/678.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://185.2.83.209:8000/live/tony2/tony2/671.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://185.2.83.209:8000/live/tony2/tony2/670.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://185.2.83.209:8000/live/tony2/tony2/674.ts
-#EXTINF:-1,------ Intrattenimento ----
-http://185.2.83.209:8000/live/tony2/tony2/669.ts
-#EXTINF:-1,IT: Fm italia
-http://185.2.83.209:8000/live/tony2/tony2/663.ts
-#EXTINF:-1,IT: Mtv Music
-http://185.2.83.209:8000/live/tony2/tony2/668.ts
-#EXTINF:-1,IT: Giallo
-http://185.2.83.209:8000/live/tony2/tony2/1850.ts
-#EXTINF:-1,IT: Cielo
-http://185.2.83.209:8000/live/tony2/tony2/658.ts
-#EXTINF:-1,IT: k2
-http://185.2.83.209:8000/live/tony2/tony2/557.ts
-#EXTINF:-1,IT: Boing
-http://185.2.83.209:8000/live/tony2/tony2/659.ts
-#EXTINF:-1,IT: Super!
-http://185.2.83.209:8000/live/tony2/tony2/558.ts
-#EXTINF:-1,IT: Frisbee
-http://185.2.83.209:8000/live/tony2/tony2/1857.ts
-#EXTINF:-1,IT: Sky Baby
-http://185.2.83.209:8000/live/tony2/tony2/1901.ts
-#EXTINF:-1,IT: Sky Boomerang
-http://185.2.83.209:8000/live/tony2/tony2/1898.ts
-#EXTINF:-1,IT: Sky DeA Junior
-http://185.2.83.209:8000/live/tony2/tony2/1899.ts
-#EXTINF:-1,IT: Sky DeA Kids
-http://185.2.83.209:8000/live/tony2/tony2/1900.ts
-#EXTINF:-1,IT: R italya HD
-http://185.2.83.209:8000/live/tony2/tony2/664.ts
-#EXTINF:-1,IT: Iris
-http://185.2.83.209:8000/live/tony2/tony2/676.ts
-#EXTINF:-1,IT: Alice HD
-http://185.2.83.209:8000/live/tony2/tony2/665.ts
-#EXTINF:-1,IT: Sat 2000
-http://185.2.83.209:8000/live/tony2/tony2/662.ts
-#EXTINF:-1,IT: Onda tv
-http://185.2.83.209:8000/live/tony2/tony2/1849.ts
-#EXTINF:-1,IT: TV 8
-http://185.2.83.209:8000/live/tony2/tony2/1851.ts
-#EXTINF:-1,IT: Paramount
-http://185.2.83.209:8000/live/tony2/tony2/1852.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://185.2.83.209:8000/live/tony2/tony2/1874.ts
-#EXTINF:-1,IT: Fine Living
-http://185.2.83.209:8000/live/tony2/tony2/1853.ts
-#EXTINF:-1,IT: Deejay TV
-http://185.2.83.209:8000/live/tony2/tony2/1854.ts
-#EXTINF:-1,IT: Classica HD
-http://185.2.83.209:8000/live/tony2/tony2/1856.ts
-#EXTINF:-1,IT: Gambero Rosso
-http://185.2.83.209:8000/live/tony2/tony2/1855.ts
-#EXTINF:-1,IT: Pescare Cacciare TV
-http://185.2.83.209:8000/live/tony2/tony2/1867.ts
-#EXTINF:-1,IT: Telelombardia
-http://185.2.83.209:8000/live/tony2/tony2/1866.ts
-#EXTINF:-1,IT: Nuvolari
-http://185.2.83.209:8000/live/tony2/tony2/1868.ts
-#EXTINF:-1,IT: Sky Top Crime
-http://185.2.83.209:8000/live/tony2/tony2/559.ts
-#EXTINF:-1,IT: Sky Sienatv
-http://185.2.83.209:8000/live/tony2/tony2/666.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://185.2.83.209:8000/live/tony2/tony2/667.ts
-#EXTINF:-1,IT: Sky Focus
-http://185.2.83.209:8000/live/tony2/tony2/660.ts
-#EXTINF:-1,IT: Sky Mediaset Extra
-http://185.2.83.209:8000/live/tony2/tony2/603.ts
-#EXTINF:-1,IT: Sky Mediaset Italia 2
-http://185.2.83.209:8000/live/tony2/tony2/661.ts
-#EXTINF:-1,IT: Sky Fox Animation HD
-http://185.2.83.209:8000/live/tony2/tony2/1865.ts
-#EXTINF:-1,IT: Sky Fox Comedy HD
-http://185.2.83.209:8000/live/tony2/tony2/1864.ts
-#EXTINF:-1,IT: Sky Fox Crime HD
-http://185.2.83.209:8000/live/tony2/tony2/1863.ts
-#EXTINF:-1,IT: Sky Fox Life HD
-http://185.2.83.209:8000/live/tony2/tony2/1862.ts
-#EXTINF:-1,IT: Sky Fox HD
-http://185.2.83.209:8000/live/tony2/tony2/1861.ts
-#EXTINF:-1,---------- sport ----------
-http://185.2.83.209:8000/live/tony2/tony2/656.ts
-#EXTINF:-1,IT: Sky Fox Sport HD
-http://185.2.83.209:8000/live/tony2/tony2/650.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/655.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/654.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/653.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://185.2.83.209:8000/live/tony2/tony2/652.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://185.2.83.209:8000/live/tony2/tony2/651.ts
-#EXTINF:-1,IT: Sky Moto GP HD
-http://185.2.83.209:8000/live/tony2/tony2/646.ts
-#EXTINF:-1,IT: Super Tennis HD
-http://185.2.83.209:8000/live/tony2/tony2/645.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://185.2.83.209:8000/live/tony2/tony2/639.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/560.ts
-#EXTINF:-1,IT: SportTitalia
-http://185.2.83.209:8000/live/tony2/tony2/638.ts
-#EXTINF:-1,IT: Rete Sport
-http://185.2.83.209:8000/live/tony2/tony2/1840.ts
-#EXTINF:-1,IT: Milan Channel
-http://185.2.83.209:8000/live/tony2/tony2/1860.ts
-#EXTINF:-1,IT: Sky Roma Channel
-http://185.2.83.209:8000/live/tony2/tony2/636.ts
-#EXTINF:-1,IT: Sky Juventus Channel
-http://185.2.83.209:8000/live/tony2/tony2/637.ts
-#EXTINF:-1,---------- Calcio -----------
-http://185.2.83.209:8000/live/tony2/tony2/644.ts
-#EXTINF:-1,IT: Sky Supercalcio HD
-http://185.2.83.209:8000/live/tony2/tony2/643.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/642.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/641.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/640.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/568.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/567.ts
-#EXTINF:-1,IT: Sky Calcio 6 HD
-http://185.2.83.209:8000/live/tony2/tony2/566.ts
-#EXTINF:-1,--------- Cultura ----------
-http://185.2.83.209:8000/live/tony2/tony2/635.ts
-#EXTINF:-1,IT: Sky TG 24
-http://185.2.83.209:8000/live/tony2/tony2/629.ts
-#EXTINF:-1,IT: Discovery HD
-http://185.2.83.209:8000/live/tony2/tony2/630.ts
-#EXTINF:-1,IT: Discovery T&L
-http://185.2.83.209:8000/live/tony2/tony2/1859.ts
-#EXTINF:-1,IT: Discovery Sci HD
-http://185.2.83.209:8000/live/tony2/tony2/1858.ts
-#EXTINF:-1,IT: Sky History HD
-http://185.2.83.209:8000/live/tony2/tony2/634.ts
-#EXTINF:-1,IT: National Geo HD
-http://185.2.83.209:8000/live/tony2/tony2/633.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://185.2.83.209:8000/live/tony2/tony2/632.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://185.2.83.209:8000/live/tony2/tony2/631.ts
-#EXTINF:-1,IT: Sky Animal Planet
-http://185.2.83.209:8000/live/tony2/tony2/604.ts
-#EXTINF:-1,----MwdiaEst Premium ----
-http://185.2.83.209:8000/live/tony2/tony2/628.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://185.2.83.209:8000/live/tony2/tony2/627.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/609.ts
-#EXTINF:-1,IT: Premium Cinema +24
-http://185.2.83.209:8000/live/tony2/tony2/612.ts
-#EXTINF:-1,IT: Premium Crime
-http://185.2.83.209:8000/live/tony2/tony2/621.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1244.ts
+#EXTINF:-1,IT: La 7
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1245.ts
+#EXTINF:-1,IT: MILAN CHANNEL
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1263.ts
+#EXTINF:-1,IT: NAT GEOGRAPHIC HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1281.ts
+#EXTINF:-1,IT: NATIONALGEO PEOPLE HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1283.ts
+#EXTINF:-1,IT: NATIONALGEO WILD HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1282.ts
+#EXTINF:-1,IT: PESCA E CACCIA
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1279.ts
+#EXTINF:-1,IT: PREMIUM CARTOON NETWORK
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1327.ts
+#EXTINF:-1,IT: PREMIUM CINEMA 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1326.ts
 #EXTINF:-1,IT: Premium Crime +24
-http://185.2.83.209:8000/live/tony2/tony2/611.ts
-#EXTINF:-1,IT: Premium Action HD
-http://185.2.83.209:8000/live/tony2/tony2/626.ts
-#EXTINF:-1,IT: Premium Action +24 HD
-http://185.2.83.209:8000/live/tony2/tony2/618.ts
-#EXTINF:-1,IT: Premium Stories
-http://185.2.83.209:8000/live/tony2/tony2/625.ts
-#EXTINF:-1,IT: Premium Stories +24
-http://185.2.83.209:8000/live/tony2/tony2/614.ts
-#EXTINF:-1,IT: Premium Energy
-http://185.2.83.209:8000/live/tony2/tony2/623.ts
-#EXTINF:-1,IT: Premium Energy +24
-http://185.2.83.209:8000/live/tony2/tony2/1872.ts
-#EXTINF:-1,IT: Premium Joy
-http://185.2.83.209:8000/live/tony2/tony2/624.ts
-#EXTINF:-1,IT: Premium Comedy
-http://185.2.83.209:8000/live/tony2/tony2/620.ts
-#EXTINF:-1,IT: Premium Emotion
-http://185.2.83.209:8000/live/tony2/tony2/622.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://185.2.83.209:8000/live/tony2/tony2/619.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://185.2.83.209:8000/live/tony2/tony2/617.ts
-#EXTINF:-1,IT: Premium Disney Channel
-http://185.2.83.209:8000/live/tony2/tony2/616.ts
-#EXTINF:-1,IT: Premium Cartoon Network
-http://185.2.83.209:8000/live/tony2/tony2/613.ts
-#EXTINF:-1,IT: Premium EuroSport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/608.ts
-#EXTINF:-1,IT: Premium EuroSport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/610.ts
-#EXTINF:-1,IT: Premium Sport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/606.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/605.ts
-#EXTINF:-1,IT: Premium Sport
-http://185.2.83.209:8000/live/tony2/tony2/615.ts
-#EXTINF:-1,IT: Premium Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/562.ts
-#EXTINF:-1,IT: Premium Calcio HD
-http://185.2.83.209:8000/live/tony2/tony2/607.ts
-#EXTINF:-1,---------- Primrafila ---------
-http://185.2.83.209:8000/live/tony2/tony2/602.ts
-#EXTINF:-1,IT: Sky Prima fila 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/601.ts
-#EXTINF:-1,IT: Sky Prima fila 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/600.ts
-#EXTINF:-1,IT: Sky Prima fila 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/599.ts
-#EXTINF:-1,IT: Sky Prima fila 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/598.ts
-#EXTINF:-1,IT: Sky Prima fila 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/597.ts
-#EXTINF:-1,IT: Sky Prima fila 6 HD
-http://185.2.83.209:8000/live/tony2/tony2/596.ts
-#EXTINF:-1,IT: Sky Prima fila 7 HD
-http://185.2.83.209:8000/live/tony2/tony2/595.ts
-#EXTINF:-1,IT: Sky Prima fila 8 HD
-http://185.2.83.209:8000/live/tony2/tony2/594.ts
-#EXTINF:-1,IT: Sky Prima fila 9 HD
-http://185.2.83.209:8000/live/tony2/tony2/593.ts
-#EXTINF:-1,IT: Sky Prima fila 10 HD
-http://185.2.83.209:8000/live/tony2/tony2/592.ts
-#EXTINF:-1,IT: Sky Prima fila 11 HD
-http://185.2.83.209:8000/live/tony2/tony2/591.ts
-#EXTINF:-1,IT: Sky Prima fila 12 HD
-http://185.2.83.209:8000/live/tony2/tony2/590.ts
-#EXTINF:-1,IT: Sky Prima fila 13 HD
-http://185.2.83.209:8000/live/tony2/tony2/589.ts
-#EXTINF:-1,IT: Sky Prima fila 14 HD
-http://185.2.83.209:8000/live/tony2/tony2/588.ts
-#EXTINF:-1,IT: Sky Prima fila 15 HD
-http://185.2.83.209:8000/live/tony2/tony2/587.ts
-#EXTINF:-1,IT: Sky Prima Fila WWE HD
-http://185.2.83.209:8000/live/tony2/tony2/586.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1319.ts
+#EXTINF:-1,IT: PREMIUM ACTION 24
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1324.ts
+#EXTINF:-1,IT: PREMIUM ACTION HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1328.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1306.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1307.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_3_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1308.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_4_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1309.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1310.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_6_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1311.ts
+#EXTINF:-1,IT: PREMIUM_CALCIO_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1305.ts
+#EXTINF:-1,IT: PREMIUM_CINEMA_24
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1325.ts
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1323.ts
+#EXTINF:-1,IT: PREMIUM_CINEMA_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1322.ts
+#EXTINF:-1,IT: PREMIUM_COMEDY_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1321.ts
+#EXTINF:-1,IT: PREMIUM_CRIME_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1320.ts
+#EXTINF:-1,IT: Premium DISNEY CHANNEL HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1316.ts
+#EXTINF:-1,IT: Premium_Disney_Junior
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1315.ts
+#EXTINF:-1,IT: PREMIUM_EMOTION
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1318.ts
+#EXTINF:-1,IT: PREMIUM JOI
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1313.ts
+#EXTINF:-1,IT: PREMIUM_JOY
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1314.ts
+#EXTINF:-1,IT: PREMIUM_SPORT_2_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/3476.ts
+#EXTINF:-1,IT: PREMIUM SPORT HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1312.ts
+#EXTINF:-1,IT: PREMIUM STORIES
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1284.ts
+#EXTINF:-1,IT: Premium STUDIO UNIVERSAL
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1317.ts
+#EXTINF:-1,IT: PRIMAFILA_1_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1209.ts
+#EXTINF:-1,IT: PRIMAFILA_10_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1218.ts
+#EXTINF:-1,IT: PRIMAFILA 11 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1219.ts
+#EXTINF:-1,IT: PRIMAFILA 12 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1220.ts
+#EXTINF:-1,IT: PRIMAFILA 13 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1221.ts
+#EXTINF:-1,IT: PRIMAFILA 14 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1222.ts
+#EXTINF:-1,IT: PRIMAFILA 15 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1223.ts
+#EXTINF:-1,IT: PRIMAFILA_16_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1224.ts
+#EXTINF:-1,IT: PRIMAFILA 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1210.ts
+#EXTINF:-1,IT: PRIMAFILA_3_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1211.ts
+#EXTINF:-1,IT: PRIMAFILA_4_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1212.ts
+#EXTINF:-1,IT: PRIMAFILA 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1213.ts
+#EXTINF:-1,IT: PRIMAFILA 6 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1214.ts
+#EXTINF:-1,IT: PRIMAFILA 7 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1215.ts
+#EXTINF:-1,IT: PRIMAFILA_8_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1216.ts
+#EXTINF:-1,IT: PRIMAFILA 9 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1217.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1227.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1228.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1229.ts
+#EXTINF:-1,IT: RAI 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1230.ts
+#EXTINF:-1,IT: RAI 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1231.ts
+#EXTINF:-1,IT: RAI GULP
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1234.ts
+#EXTINF:-1,IT: RAI NEWS
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1232.ts
+#EXTINF:-1,IT: RAI PREMIUM HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1271.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1237.ts
+#EXTINF:-1,IT: RAI YOYO
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1235.ts
+#EXTINF:-1,IT: RAI MOVIE
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1233.ts
+#EXTINF:-1,IT: RAI SPORT 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1236.ts
+#EXTINF:-1,IT: RETE 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1240.ts
+#EXTINF:-1,IT: RSI LA 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1238.ts
+#EXTINF:-1,IT: RSI LA 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1239.ts
+#EXTINF:-1,IT: SKY AXN HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1275.ts
+#EXTINF:-1,IT: SKY CALCIO 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1256.ts
+#EXTINF:-1,IT: SKY CIELO
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1274.ts
+#EXTINF:-1,IT: SKY CINEMA 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2896.ts
+#EXTINF:-1,IT: SKY CINEMA 24 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1304.ts
+#EXTINF:-1,IT: SKY CINEMA COMEDY HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2900.ts
+#EXTINF:-1,IT: SKY CINEMA CULT HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2899.ts
+#EXTINF:-1,IT: SKY CINEMA HITS HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2902.ts
+#EXTINF:-1,IT: SKY  CINEMA MAX hD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2901.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2898.ts
+#EXTINF:-1,IT: SKY FOX COMEDY HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2903.ts
+#EXTINF:-1,IT: SKY FOX CRIME HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1272.ts
+#EXTINF:-1,IT: Sky Primafila 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/374.ts
+#EXTINF:-1,IT: Sky Primafila 10 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/373.ts
+#EXTINF:-1,IT: Sky Primafila 11 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/372.ts
+#EXTINF:-1,IT: Sky PrimaFila 12 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/371.ts
+#EXTINF:-1,IT: Sky Primafila 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/370.ts
+#EXTINF:-1,IT: Sky Primafila 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/369.ts
+#EXTINF:-1,IT: Sky Primafila 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/368.ts
+#EXTINF:-1,IT: Sky Primafila 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/367.ts
+#EXTINF:-1,IT: Sky Primafila 6 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/366.ts
+#EXTINF:-1,IT: Sky Primafila 7 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/365.ts
+#EXTINF:-1,IT: Sky Primafila 8 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/364.ts
+#EXTINF:-1,IT: Sky Primafila 9 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/363.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1250.ts
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1255.ts
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1252.ts
+#EXTINF:-1,IT: SKY SPORT MOTO GP HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1254.ts
+#EXTINF:-1,IT: SKY SPORTS F1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1253.ts
+#EXTINF:-1,IT: SKY UNO HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1269.ts
+#EXTINF:-1,IT: SKY_ARTE_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1277.ts
+#EXTINF:-1,IT: SKY_ATLANTIC_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1276.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1257.ts
+#EXTINF:-1,IT: SKY CALCIO 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1258.ts
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1259.ts
+#EXTINF:-1,IT: SKY_CALCIO_5_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1260.ts
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1261.ts
+#EXTINF:-1,IT: SKY CALCIO 7 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1262.ts
+#EXTINF:-1,IT: SKY_CINEMA_1_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1303.ts
+#EXTINF:-1,IT: SKY_CINEMA_CLASSICS_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1302.ts
+#EXTINF:-1,IT: SKY_CINEMA_CULT_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1300.ts
+#EXTINF:-1,IT: SKY CINEMA FAMILY HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1299.ts
+#EXTINF:-1,IT: SKY_CINEMA_PASSION_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1296.ts
+#EXTINF:-1,IT: SKY_SPORT_2_HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1251.ts
+#EXTINF:-1,IT: SKY TG 24 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1270.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1241.ts
+#EXTINF:-1,IT: SUPER CALCIO HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1268.ts
+#EXTINF:-1,IT: SUPER TENNIS HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/1267.ts

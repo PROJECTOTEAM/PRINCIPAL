@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 06-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -33,190 +33,114 @@ http://37.152.128.66:6508/play/a008
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,DE: Sky Sport News
-http://185.2.83.209:8000/live/tony2/tony2/759.ts
-#EXTINF:-1,DE: Sky Sport +1
-http://185.2.83.209:8000/live/tony2/tony2/761.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/829.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/826.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://185.2.83.209:8000/live/tony2/tony2/827.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/828.ts
-#EXTINF:-1,DE: Sky Eurosport
-http://185.2.83.209:8000/live/tony2/tony2/809.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://185.2.83.209:8000/live/tony2/tony2/810.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://185.2.83.209:8000/live/tony2/tony2/807.ts
-#EXTINF:-1,DE: Sky Select 1
-http://185.2.83.209:8000/live/tony2/tony2/825.ts
-#EXTINF:-1,DE: Sky Select 2
-http://185.2.83.209:8000/live/tony2/tony2/824.ts
-#EXTINF:-1,DE: Sky Select 3
-http://185.2.83.209:8000/live/tony2/tony2/823.ts
-#EXTINF:-1,DE: Sky Select 4
-http://185.2.83.209:8000/live/tony2/tony2/822.ts
-#EXTINF:-1,DE: Sky Select 5
-http://185.2.83.209:8000/live/tony2/tony2/821.ts
-#EXTINF:-1,DE: Sky Select 6
-http://185.2.83.209:8000/live/tony2/tony2/820.ts
-#EXTINF:-1,DE: Sky Select 7
-http://185.2.83.209:8000/live/tony2/tony2/819.ts
-#EXTINF:-1,DE: Sky Select 8
-http://185.2.83.209:8000/live/tony2/tony2/818.ts
+#EXTINF:-1,DE:  Muenchen TV
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/573.ts
+#EXTINF:-1,DE: 3sat
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/569.ts
+#EXTINF:-1,DE: Dmax
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/567.ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/564.ts
+#EXTINF:-1,DE: Kika HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/563.ts
+#EXTINF:-1,DE: NDR HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/560.ts
+#EXTINF:-1,DE: PRO 7
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/559.ts
+#EXTINF:-1,DE: RTL 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/459.ts
+#EXTINF:-1,DE: RTL HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/555.ts
+#EXTINF:-1,DE: RTL PASSION
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/556.ts
+#EXTINF:-1,DE: SAT 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/554.ts
 #EXTINF:-1,DE: Sky Action
-http://185.2.83.209:8000/live/tony2/tony2/804.ts
-#EXTINF:-1,DE: Sky Cinema
-http://185.2.83.209:8000/live/tony2/tony2/808.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://185.2.83.209:8000/live/tony2/tony2/806.ts
-#EXTINF:-1,DE: Sky Cinema +24
-http://185.2.83.209:8000/live/tony2/tony2/805.ts
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/551.ts
+#EXTINF:-1,DE: Sky Action HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/544.ts
+#EXTINF:-1,DE: SKY Atlantic HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/543.ts
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/550.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/549.ts
+#EXTINF:-1,DE: Sky Cinema 24 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/547.ts
+#EXTINF:-1,DE: Sky CINEMA M
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/546.ts
 #EXTINF:-1,DE: Sky Emotion
-http://185.2.83.209:8000/live/tony2/tony2/801.ts
-#EXTINF:-1,DE: Sky Comedy
-http://185.2.83.209:8000/live/tony2/tony2/799.ts
-#EXTINF:-1,DE: Sky HITS
-http://185.2.83.209:8000/live/tony2/tony2/802.ts
-#EXTINF:-1,DE: Sky Comedy Central
-http://185.2.83.209:8000/live/tony2/tony2/786.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 1
-http://185.2.83.209:8000/live/tony2/tony2/751.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 2
-http://185.2.83.209:8000/live/tony2/tony2/750.ts
-#EXTINF:-1,DE: Sky Teleclub Prime
-http://185.2.83.209:8000/live/tony2/tony2/749.ts
-#EXTINF:-1,DE: Sky Teleclub Cinema HD
-http://185.2.83.209:8000/live/tony2/tony2/748.ts
-#EXTINF:-1,DE: Sky Teleclub Cinema
-http://185.2.83.209:8000/live/tony2/tony2/747.ts
-#EXTINF:-1,DE: Sky Teleclub Star
-http://185.2.83.209:8000/live/tony2/tony2/746.ts
-#EXTINF:-1,DE: Sky RTL
-http://185.2.83.209:8000/live/tony2/tony2/779.ts
-#EXTINF:-1,DE: Sky RTL 2
-http://185.2.83.209:8000/live/tony2/tony2/778.ts
-#EXTINF:-1,DE: Sky RTL Nitro
-http://185.2.83.209:8000/live/tony2/tony2/776.ts
-#EXTINF:-1,DE: Sky RTL Crime
-http://185.2.83.209:8000/live/tony2/tony2/752.ts
-#EXTINF:-1,DE: Sky RTL Living
-http://185.2.83.209:8000/live/tony2/tony2/813.ts
-#EXTINF:-1,DE: Sky RTL Super
-http://185.2.83.209:8000/live/tony2/tony2/800.ts
-#EXTINF:-1,DE: Sky RTL Passion
-http://185.2.83.209:8000/live/tony2/tony2/774.ts
-#EXTINF:-1,DE: Sky Universal HD
-http://185.2.83.209:8000/live/tony2/tony2/812.ts
-#EXTINF:-1,DE: Sky Servus TV
-http://185.2.83.209:8000/live/tony2/tony2/784.ts
-#EXTINF:-1,DE: Sky Sat1 Gold
-http://185.2.83.209:8000/live/tony2/tony2/777.ts
-#EXTINF:-1,DE: Sky Austria 24 TV
-http://185.2.83.209:8000/live/tony2/tony2/796.ts
-#EXTINF:-1,DE: Sky Kinowelt
-http://185.2.83.209:8000/live/tony2/tony2/791.ts
-#EXTINF:-1,DE: Sky ZDF Info
-http://185.2.83.209:8000/live/tony2/tony2/790.ts
-#EXTINF:-1,DE: Sky SRF 1
-http://185.2.83.209:8000/live/tony2/tony2/783.ts
-#EXTINF:-1,DE: Sky ORF 3
-http://185.2.83.209:8000/live/tony2/tony2/782.ts
-#EXTINF:-1,DE: Sky ORF 2
-http://185.2.83.209:8000/live/tony2/tony2/772.ts
-#EXTINF:-1,DE: Sky ORF Enis
-http://185.2.83.209:8000/live/tony2/tony2/771.ts
-#EXTINF:-1,DE: Sky VOX
-http://185.2.83.209:8000/live/tony2/tony2/788.ts
-#EXTINF:-1,DE: Sky FOX
-http://185.2.83.209:8000/live/tony2/tony2/787.ts
-#EXTINF:-1,DE: Sky One
-http://185.2.83.209:8000/live/tony2/tony2/753.ts
-#EXTINF:-1,DE: Sky TNT Comedy HD
-http://185.2.83.209:8000/live/tony2/tony2/811.ts
-#EXTINF:-1,DE: Sky TNT Serie
-http://185.2.83.209:8000/live/tony2/tony2/794.ts
-#EXTINF:-1,DE: Sky TNT Film
-http://185.2.83.209:8000/live/tony2/tony2/758.ts
-#EXTINF:-1,DE: Sky Sony HD
-http://185.2.83.209:8000/live/tony2/tony2/754.ts
-#EXTINF:-1,DE: Sky Disney XD
-http://185.2.83.209:8000/live/tony2/tony2/817.ts
-#EXTINF:-1,DE: Sky Disney Channel
-http://185.2.83.209:8000/live/tony2/tony2/795.ts
-#EXTINF:-1,DE: Sky Cartoon Network
-http://185.2.83.209:8000/live/tony2/tony2/815.ts
-#EXTINF:-1,DE: Sky Nickelodeon
-http://185.2.83.209:8000/live/tony2/tony2/797.ts
-#EXTINF:-1,DE: Sky Boomerang
-http://185.2.83.209:8000/live/tony2/tony2/816.ts
-#EXTINF:-1,DE: Sky  ZEE ONE
-http://185.2.83.209:8000/live/tony2/tony2/814.ts
-#EXTINF:-1,DE: Sky National Geographic
-http://185.2.83.209:8000/live/tony2/tony2/792.ts
-#EXTINF:-1,DE: Sky Nat Geo wild
-http://185.2.83.209:8000/live/tony2/tony2/793.ts
-#EXTINF:-1,DE: Sky History
-http://185.2.83.209:8000/live/tony2/tony2/762.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://185.2.83.209:8000/live/tony2/tony2/760.ts
-#EXTINF:-1,DE: Sky 13th Street
-http://185.2.83.209:8000/live/tony2/tony2/780.ts
-#EXTINF:-1,DE: Sky RBB Berlin
-http://185.2.83.209:8000/live/tony2/tony2/775.ts
-#EXTINF:-1,DE: Sky Phoenix
-http://185.2.83.209:8000/live/tony2/tony2/769.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://185.2.83.209:8000/live/tony2/tony2/798.ts
-#EXTINF:-1,DE: Sky Wdr
-http://185.2.83.209:8000/live/tony2/tony2/789.ts
-#EXTINF:-1,DE: Sky Sixx
-http://185.2.83.209:8000/live/tony2/tony2/785.ts
-#EXTINF:-1,DE: Sky Pro 7
-http://185.2.83.209:8000/live/tony2/tony2/773.ts
-#EXTINF:-1,DE: Sky NDR HD
-http://185.2.83.209:8000/live/tony2/tony2/768.ts
-#EXTINF:-1,DE: Sky N24
-http://185.2.83.209:8000/live/tony2/tony2/767.ts
-#EXTINF:-1,DE: Sky N-TV
-http://185.2.83.209:8000/live/tony2/tony2/766.ts
-#EXTINF:-1,DE: Sky Romance
-http://185.2.83.209:8000/live/tony2/tony2/765.ts
-#EXTINF:-1,DE: Sky Krimi HD
-http://185.2.83.209:8000/live/tony2/tony2/803.ts
-#EXTINF:-1,DE: Sky Kika
-http://185.2.83.209:8000/live/tony2/tony2/764.ts
-#EXTINF:-1,DE: Sky Kabel 1
-http://185.2.83.209:8000/live/tony2/tony2/763.ts
-#EXTINF:-1,DE: Sky Dmax
-http://185.2.83.209:8000/live/tony2/tony2/770.ts
-#EXTINF:-1,DE: Sky Pro 7 Max
-http://185.2.83.209:8000/live/tony2/tony2/757.ts
-#EXTINF:-1,DE: Sky Arte
-http://185.2.83.209:8000/live/tony2/tony2/756.ts
-#EXTINF:-1,DE: Sky ARD
-http://185.2.83.209:8000/live/tony2/tony2/755.ts
-#EXTINF:-1,DE: Sky 3sat
-http://185.2.83.209:8000/live/tony2/tony2/781.ts
-
-
-
-
-
-
-
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/545.ts
+#EXTINF:-1,DE: Sky Germany MGM
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/542.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/537.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/538.ts
+#EXTINF:-1,DE: Sky Sports News
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/477.ts
+#EXTINF:-1,DE: Super RTL
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/536.ts
+#EXTINF:-1,DE: Syfy HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/535.ts
+#EXTINF:-1,DE: VOX
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/483.ts
+#EXTINF:-1,DE: ZDF HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/534.ts
+#EXTINF:-1,DE: Boomerang HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5560.ts
+#EXTINF:-1,DE: Cartoon Network HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5561.ts
+#EXTINF:-1,DE: Disney channel HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5554.ts
+#EXTINF:-1,DE: Disney cinemagic HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5555.ts
+#EXTINF:-1,DE: Disney XD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5556.ts
+#EXTINF:-1,DE: Fox HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5558.ts
+#EXTINF:-1,DE: MTV germany
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5559.ts
+#EXTINF:-1,DE: Nickelodeon
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/5557.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/465.ts
+#EXTINF:-1,Sky Emotion
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/467.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/468.ts
+#EXTINF:-1,DE: SKY SELECT 1
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2825.ts
+#EXTINF:-1,DE: SKY SELECT 2
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2826.ts
+#EXTINF:-1,DE: SKY SELECT 3
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2827.ts
+#EXTINF:-1,DE: SKY SELECT 4
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2828.ts
+#EXTINF:-1,DE: SKY SELECT 5
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2829.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2830.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2831.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2832.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2833.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2834.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2835.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2836.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2837.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2838.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2839.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://gproip.ddns.net:8000/live/616529134468152/1593574628/2840.ts
 
 
 
