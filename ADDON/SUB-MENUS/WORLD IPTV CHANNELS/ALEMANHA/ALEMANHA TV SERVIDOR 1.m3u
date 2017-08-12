@@ -28,121 +28,88 @@ http://37.152.128.66:6508/play/a008
 
 
 
-
-
-
-
-
-#EXTINF:-1,DE:  Muenchen TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/573.ts
-#EXTINF:-1,DE: 3sat
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/569.ts
-#EXTINF:-1,DE: Dmax
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/567.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/564.ts
-#EXTINF:-1,DE: Kika HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/563.ts
-#EXTINF:-1,DE: NDR HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/560.ts
-#EXTINF:-1,DE: PRO 7
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/559.ts
-#EXTINF:-1,DE: RTL 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/459.ts
-#EXTINF:-1,DE: RTL HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/555.ts
-#EXTINF:-1,DE: RTL PASSION
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/556.ts
-#EXTINF:-1,DE: SAT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/554.ts
-#EXTINF:-1,DE: Sky Action
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/551.ts
-#EXTINF:-1,DE: Sky Action HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/544.ts
-#EXTINF:-1,DE: SKY Atlantic HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/543.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/550.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/549.ts
-#EXTINF:-1,DE: Sky Cinema 24 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/547.ts
-#EXTINF:-1,DE: Sky CINEMA M
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/546.ts
-#EXTINF:-1,DE: Sky Emotion
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/545.ts
-#EXTINF:-1,DE: Sky Germany MGM
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/542.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/537.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/538.ts
-#EXTINF:-1,DE: Sky Sports News
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/477.ts
-#EXTINF:-1,DE: Super RTL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/536.ts
-#EXTINF:-1,DE: Syfy HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/535.ts
-#EXTINF:-1,DE: VOX
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/483.ts
-#EXTINF:-1,DE: ZDF HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/534.ts
-#EXTINF:-1,DE: Boomerang HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5560.ts
-#EXTINF:-1,DE: Cartoon Network HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5561.ts
-#EXTINF:-1,DE: Disney channel HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5554.ts
-#EXTINF:-1,DE: Disney cinemagic HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5555.ts
-#EXTINF:-1,DE: Disney XD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5556.ts
-#EXTINF:-1,DE: Fox HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5558.ts
-#EXTINF:-1,DE: MTV germany
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5559.ts
-#EXTINF:-1,DE: Nickelodeon
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/5557.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/465.ts
-#EXTINF:-1,Sky Emotion
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/467.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/468.ts
-#EXTINF:-1,DE: SKY SELECT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2825.ts
-#EXTINF:-1,DE: SKY SELECT 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2826.ts
-#EXTINF:-1,DE: SKY SELECT 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2827.ts
-#EXTINF:-1,DE: SKY SELECT 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2828.ts
-#EXTINF:-1,DE: SKY SELECT 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2829.ts
-#EXTINF:-1,DE: SKY SELECT 6
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2830.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2831.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2832.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2833.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2834.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2835.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2836.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2837.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2838.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2839.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2840.ts
-
-
+#EXTINF:-1,DE:TNT SERIE
+http://ippo.zapto.org:8000/live/hamid/hamid/49.ts
+#EXTINF:-1,DE:SUPER RTL
+http://ippo.zapto.org:8000/live/hamid/hamid/50.ts
+#EXTINF:-1,DE:SRF 1
+http://ippo.zapto.org:8000/live/hamid/hamid/51.ts
+#EXTINF:-1,DE:SKY SELECT 4
+http://ippo.zapto.org:8000/live/hamid/hamid/52.ts
+#EXTINF:-1,DE:SKY SELECT 3
+http://ippo.zapto.org:8000/live/hamid/hamid/53.ts
+#EXTINF:-1,DE:SKY SELECT 2
+http://ippo.zapto.org:8000/live/hamid/hamid/54.ts
+#EXTINF:-1,DE:ZDF
+http://ippo.zapto.org:8000/live/hamid/hamid/70.ts
+#EXTINF:-1,DE:WDR
+http://ippo.zapto.org:8000/live/hamid/hamid/71.ts
+#EXTINF:-1,DE:VOX
+http://ippo.zapto.org:8000/live/hamid/hamid/72.ts
+#EXTINF:-1,DE:TNT FILM
+http://ippo.zapto.org:8000/live/hamid/hamid/73.ts
+#EXTINF:-1,DE:SKY SPORT 2
+http://ippo.zapto.org:8000/live/hamid/hamid/74.ts
+#EXTINF:-1,DE:SKY SPORT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/75.ts
+#EXTINF:-1,DE:SKY SELECT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/55.ts
+#EXTINF:-1,DE:SKY KRIMI
+http://ippo.zapto.org:8000/live/hamid/hamid/56.ts
+#EXTINF:-1,DE:SKY HITS
+http://ippo.zapto.org:8000/live/hamid/hamid/76.ts
+#EXTINF:-1,DE:SKY EMOTION
+http://ippo.zapto.org:8000/live/hamid/hamid/77.ts
+#EXTINF:-1,DE:SKY COMEDY
+http://ippo.zapto.org:8000/live/hamid/hamid/79.ts
+#EXTINF:-1,DE:SKY CINEMA  24
+http://ippo.zapto.org:8000/live/hamid/hamid/80.ts
+#EXTINF:-1,DE:SKY CINEMA  1
+http://ippo.zapto.org:8000/live/hamid/hamid/57.ts
+#EXTINF:-1,DE:SKY CINEMA
+http://ippo.zapto.org:8000/live/hamid/hamid/81.ts
+#EXTINF:-1,DE:SKY BUNDESLIGA
+http://ippo.zapto.org:8000/live/hamid/hamid/82.ts
+#EXTINF:-1,DE:SKY ATLANTIC
+http://ippo.zapto.org:8000/live/hamid/hamid/78.ts
+#EXTINF:-1,DE:SKY ACTION
+http://ippo.zapto.org:8000/live/hamid/hamid/83.ts
+#EXTINF:-1,DE:SIXX
+http://ippo.zapto.org:8000/live/hamid/hamid/58.ts
+#EXTINF:-1,DE:SAT 1
+http://ippo.zapto.org:8000/live/hamid/hamid/84.ts
+#EXTINF:-1,DE:RTL CRIME
+http://ippo.zapto.org:8000/live/hamid/hamid/59.ts
+#EXTINF:-1,DE:RTL 2
+http://ippo.zapto.org:8000/live/hamid/hamid/85.ts
+#EXTINF:-1,DE:RTL 1
+http://ippo.zapto.org:8000/live/hamid/hamid/86.ts
+#EXTINF:-1,DE:PRO 7 MAXX
+http://ippo.zapto.org:8000/live/hamid/hamid/60.ts
+#EXTINF:-1,DE:PRO 7
+http://ippo.zapto.org:8000/live/hamid/hamid/87.ts
+#EXTINF:-1,DE:ORF 2
+http://ippo.zapto.org:8000/live/hamid/hamid/88.ts
+#EXTINF:-1,DE:ORF 1
+http://ippo.zapto.org:8000/live/hamid/hamid/89.ts
+#EXTINF:-1,DE:NATIONAL GEOGRAPHIC
+http://ippo.zapto.org:8000/live/hamid/hamid/62.ts
+#EXTINF:-1,DE:MGM
+http://ippo.zapto.org:8000/live/hamid/hamid/63.ts
+#EXTINF:-1,DE:KINOWELT TV
+http://ippo.zapto.org:8000/live/hamid/hamid/64.ts
+#EXTINF:-1,DE:DMAX
+http://ippo.zapto.org:8000/live/hamid/hamid/65.ts
+#EXTINF:-1,DE:DISNEY XD
+http://ippo.zapto.org:8000/live/hamid/hamid/66.ts
+#EXTINF:-1,DE:DISNEY JUNIOR
+http://ippo.zapto.org:8000/live/hamid/hamid/67.ts
+#EXTINF:-1,DE:DISNEY
+http://ippo.zapto.org:8000/live/hamid/hamid/68.ts
+#EXTINF:-1,DE:BOOMERANG
+http://ippo.zapto.org:8000/live/hamid/hamid/69.ts
+#EXTINF:-1,DE:ARD
+http://ippo.zapto.org:8000/live/hamid/hamid/61.ts
 
 
 
