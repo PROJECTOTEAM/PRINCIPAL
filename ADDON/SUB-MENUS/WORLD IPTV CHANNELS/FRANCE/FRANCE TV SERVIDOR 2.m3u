@@ -456,7 +456,54 @@ http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9289.ts
 
 
 
-
+#EXTINF:-1,Canal +
+http://185.2.83.186/canalplus.m3u8?dvr=false&token=
+#EXTINF:-1,Canal + Family
+http://185.2.83.186/canalplusfamily.m3u8?dvr=false&token=
+#EXTINF:-1,Canal + Cinéma
+http://185.2.83.186/canalpluscinema.m3u8?dvr=false&token=
+#EXTINF:-1,Canal + Décalé
+http://185.2.83.186/canalplusdecale.m3u8?dvr=false&token=
+#EXTINF:-1,Canal + Série
+http://185.2.83.186/canalplusserie.m3u8?dvr=false&token=
+#EXTINF:-1,Canal + Sport
+http://185.2.83.186/canalplussport.m3u8?dvr=false&token=
+#EXTINF:-1,Paramount Channel
+http://185.2.83.186/paramount.m3u8?dvr=false&token=
+#EXTINF:-1,RTS UN
+http://185.2.83.186/rts1.m3u8?dvr=false&token=
+#EXTINF:-1,RTS Deux
+http://185.2.83.186/rts2.m3u8?dvr=false&token=
+#EXTINF:-1,France 2
+http://185.2.83.186/france2.m3u8?dvr=false&token=
+#EXTINF:-1,France 3
+http://185.2.83.186/france3.m3u8?dvr=false&token=
+#EXTINF:-1,France 4
+http://185.2.83.186/france4.m3u8?dvr=false&token=
+#EXTINF:-1,France 5
+http://185.2.83.186/france5.m3u8?dvr=false&token=
+#EXTINF:-1,M6
+http://185.2.83.186/m6.m3u8?dvr=false&token=
+#EXTINF:-1,TMC
+http://185.2.83.186/tmc.m3u8?dvr=false&token=
+#EXTINF:-1,RTL 9
+http://185.2.83.186/rtl9.m3u8?dvr=false&token=
+#EXTINF:-1,C8
+http://185.2.83.186/c8.m3u8?dvr=false&token=
+#EXTINF:-1,HD 1
+http://185.2.83.186/hd1.m3u8?dvr=false&token=
+#EXTINF:-1,13ème Rue
+http://185.2.83.186/13erue.m3u8?dvr=false&token=
+#EXTINF:-1,Syfy
+http://185.2.83.186/syfy.m3u8?dvr=false&token=
+#EXTINF:-1,Série Club
+http://185.2.83.186/serieclub.m3u8?dvr=false&token=
+#EXTINF:-1,Paris Première
+http://185.2.83.186/parispremiere.m3u8?dvr=false&token=
+#EXTINF:-1,Téva
+http://185.2.83.186/teva.m3u8?dvr=false&token=
+#EXTINF:-1,w9
+http://185.2.83.186/w9.m3u8?dvr=false&token=
 
 
 
