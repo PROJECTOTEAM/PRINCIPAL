@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -20,345 +20,539 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: Sky Sports Premiere League HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/241.ts
-#EXTINF:-1,UK: Sky Sports Premiere League
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/123.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/242.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/1.ts
-#EXTINF:-1,UK: Sky Sports Action HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/243.ts
+#EXTINF:-1,UK: Sky News HD
+http://185.2.83.209:8000/live/123456/123456/550.ts
+#EXTINF:-1,UK: Sky RTE News
+http://185.2.83.209:8000/live/123456/123456/431.ts
+#EXTINF:-1,UK: Sky BBC News
+http://185.2.83.209:8000/live/123456/123456/428.ts
+#EXTINF:-1,UK: Sky Sports News
+http://185.2.83.209:8000/live/123456/123456/549.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://185.2.83.209:8000/live/123456/123456/533.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://185.2.83.209:8000/live/123456/123456/532.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://185.2.83.209:8000/live/123456/123456/531.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://185.2.83.209:8000/live/123456/123456/530.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://185.2.83.209:8000/live/123456/123456/529.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://185.2.83.209:8000/live/123456/123456/548.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://185.2.83.209:8000/live/123456/123456/547.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://185.2.83.209:8000/live/123456/123456/546.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://185.2.83.209:8000/live/123456/123456/545.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://185.2.83.209:8000/live/123456/123456/544.ts
+#EXTINF:-1,UK: Sky Sport Arena
+http://185.2.83.209:8000/live/123456/123456/1558.ts
+#EXTINF:-1,UK: Sky Sport Football
+http://185.2.83.209:8000/live/123456/123456/1559.ts
 #EXTINF:-1,UK: Sky Sports Action
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/44.ts
-#EXTINF:-1,UK: Sky Sports -THE OPEN
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/244.ts
-#EXTINF:-1,UK: Sky Sports HD -THE OPEN
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/57.ts
-#EXTINF:-1,UK: Sky Sports PremiereLeague HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/245.ts
-#EXTINF:-1,UK: Sky Sports PremiereLeague
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/59.ts
-#EXTINF:-1,UK: Sky Sport MIX
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/95.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/246.ts
+http://185.2.83.209:8000/live/123456/123456/1560.ts
+#EXTINF:-1,UK: Sky motorsport.tv
+http://185.2.83.209:8000/live/123456/123456/1555.ts
 #EXTINF:-1,UK: Sky Sports F1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/197.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/364.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/362.ts
-#EXTINF:-1,UK: BT Sports 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/250.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/361.ts
-#EXTINF:-1,UK: BT Sports 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/249.ts
-#EXTINF:-1,UK: BT Sport 3
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3036.ts
-#EXTINF:-1,UK: BT ESPN
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/363.ts
-#EXTINF:-1,UK: eir Sport 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/1768.ts
-#EXTINF:-1,UK: eirSport 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2013.ts
-#EXTINF:-1,UK: eirSport 2 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2095.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2023.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/114.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3046.ts
-#EXTINF:-1,UK: Eurosport 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3974.ts
-#EXTINF:-1,UK: Eurosport 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3975.ts
-#EXTINF:-1,UK: Sky Sp News HQ
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/165.ts
-#EXTINF:-1,UK: 3E
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3008.ts
-#EXTINF:-1,UK: 4Music
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2018.ts
-#EXTINF:-1,UK: 5 Star
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/185.ts
-#EXTINF:-1,UK: 5 USA
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/58.ts
-#EXTINF:-1,UK: Al Jazeera HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2098.ts
-#EXTINF:-1,UK: Alibi
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3027.ts
-#EXTINF:-1,UK: Al Jazeera Eng
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/31.ts
-#EXTINF:-1,UK: At The Races
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/106.ts
-#EXTINF:-1,UK: CNC World
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4416.ts
-#EXTINF:-1,UK: London Live
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2081.ts
-#EXTINF:-1,UK: ITV HD.
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/35.ts
-#EXTINF:-1,UK: ITV
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/193.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/38.ts
-#EXTINF:-1,UK: ITV 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4424.ts
-#EXTINF:-1,UK: ITV 3
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/179.ts
-#EXTINF:-1,UK: ITV4
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/46.ts
-#EXTINF:-1,UK: ITVBe
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2020.ts
-#EXTINF:-1,UK: ITV Be HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/67.ts
-#EXTINF:-1,UK: BBC 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2106.ts
-#EXTINF:-1,UK: BBC 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2105.ts
-#EXTINF:-1,UK: BBC London 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3040.ts
-#EXTINF:-1,UK: BBC One East Midlands
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4324.ts
-#EXTINF:-1,UK: BBC One East Yorkshire
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4322.ts
-#EXTINF:-1,UK: BBC One West Midlands
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4323.ts
-#EXTINF:-1,UK: BBC London 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3041.ts
-#EXTINF:-1,UK: BBC 4
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4313.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2107.ts
-#EXTINF:-1,UK: BBC One Lon
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/190.ts
-#EXTINF:-1,UK: BBC One HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/140.ts
-#EXTINF:-1,UK: CBBC
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4427.ts
-#EXTINF:-1,UK: CBBC HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/196.ts
-#EXTINF:-1,UK: CNN HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2094.ts
-#EXTINF:-1,UK: CNN
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4423.ts
-#EXTINF:-1,UK: BBC Four HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/50.ts
-#EXTINF:-1,UK: BBC Two HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/18.ts
-#EXTINF:-1,UK: BBC Two
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/27.ts
-#EXTINF:-1,UK: BBC News
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4412.ts
-#EXTINF:-1,UK: BBC NEWS HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/43.ts
-#EXTINF:-1,UK: BET
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/143.ts
-#EXTINF:-1,UK: BOX OFFICE PPV (LIVE DURING BOXING MATCH)
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/65.ts
-#EXTINF:-1,UK: Boxnation
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3731.ts
-#EXTINF:-1,UK: Bike
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2025.ts
-#EXTINF:-1,UK: Channel 4
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/156.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/126.ts
-#EXTINF:-1,UK: Channel 5
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/70.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3007.ts
-#EXTINF:-1,UK: UTV
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/146.ts
-#EXTINF:-1,UK: TV5 Monde
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/164.ts
-#EXTINF:-1,UK: Forces TV
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/167.ts
-#EXTINF:-1,UK: The Vault
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/172.ts
-#EXTINF:-1,UK: WATCH
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/247.ts
-#EXTINF:-1,UK: Sony Channel
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4422.ts
-#EXTINF:-1,UK: Starz TV
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4414.ts
-#EXTINF:-1,UK: Chartshow
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4428.ts
-#EXTINF:-1,UK: Community
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4415.ts
-#EXTINF:-1,UK: Vintage
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4419.ts
-#EXTINF:-1,UK: Spike
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/145.ts
-#EXTINF:-1,UK: Fine Living
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2027.ts
-#EXTINF:-1,UK: SyFy
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2024.ts
-#EXTINF:-1,UK: Discovery
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/717.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/677.ts
-#EXTINF:-1,UK: Comedy Xtra
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2015.ts
-#EXTINF:-1,UK: VH1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/171.ts
-#EXTINF:-1,UK: My 5
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/177.ts
-#EXTINF:-1,UK: RTE TWO HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/184.ts
-#EXTINF:-1,UK: PBS America
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/168.ts
-#EXTINF:-1,UK: Oireachtas
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/161.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/158.ts
-#EXTINF:-1,UK: MUTV HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2096.ts
-#EXTINF:-1,UK: MTV Classic UK
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/169.ts
-#EXTINF:-1,UK: Movies 4men
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/187.ts
-#EXTINF:-1,UK: Discovery Turbo (L)
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2102.ts
-#EXTINF:-1,UK: S4C HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2101.ts
+http://185.2.83.209:8000/live/123456/123456/539.ts
+#EXTINF:-1,UK: Sky Sport AU 1
+http://185.2.83.209:8000/live/123456/123456/438.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://185.2.83.209:8000/live/123456/123456/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://185.2.83.209:8000/live/123456/123456/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://185.2.83.209:8000/live/123456/123456/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://185.2.83.209:8000/live/123456/123456/527.ts
+#EXTINF:-1,UK: Sky BT Sport 3 HD
+http://185.2.83.209:8000/live/123456/123456/453.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://185.2.83.209:8000/live/123456/123456/479.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://185.2.83.209:8000/live/123456/123456/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://185.2.83.209:8000/live/123456/123456/540.ts
+#EXTINF:-1,UK: Sky Eir Sport 1
+http://185.2.83.209:8000/live/123456/123456/1566.ts
+#EXTINF:-1,UK: Sky Eir Sport 2
+http://185.2.83.209:8000/live/123456/123456/1567.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://185.2.83.209:8000/live/123456/123456/1564.ts
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://185.2.83.209:8000/live/123456/123456/1563.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://185.2.83.209:8000/live/123456/123456/1561.ts
+#EXTINF:-1,UK: Sky Sports Premier
+http://185.2.83.209:8000/live/123456/123456/1565.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://185.2.83.209:8000/live/123456/123456/1562.ts
+#EXTINF:-1,UK: Sky Sports MixHD
+http://185.2.83.209:8000/live/123456/123456/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://185.2.83.209:8000/live/123456/123456/484.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://185.2.83.209:8000/live/123456/123456/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://185.2.83.209:8000/live/123456/123456/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://185.2.83.209:8000/live/123456/123456/535.ts
+#EXTINF:-1,Uk: Sky At the Races
+http://185.2.83.209:8000/live/123456/123456/461.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 1 HD
+http://185.2.83.209:8000/live/123456/123456/421.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 2 HD
+http://185.2.83.209:8000/live/123456/123456/420.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 3 HD
+http://185.2.83.209:8000/live/123456/123456/419.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 4 HD
+http://185.2.83.209:8000/live/123456/123456/1542.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://185.2.83.209:8000/live/123456/123456/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://185.2.83.209:8000/live/123456/123456/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://185.2.83.209:8000/live/123456/123456/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://185.2.83.209:8000/live/123456/123456/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://185.2.83.209:8000/live/123456/123456/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://185.2.83.209:8000/live/123456/123456/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://185.2.83.209:8000/live/123456/123456/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://185.2.83.209:8000/live/123456/123456/524.ts
+#EXTINF:-1,UK: Sky Home & Health
+http://185.2.83.209:8000/live/123456/123456/1547.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://185.2.83.209:8000/live/123456/123456/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://185.2.83.209:8000/live/123456/123456/515.ts
+#EXTINF:-1,UK: Sky Watch
+http://185.2.83.209:8000/live/123456/123456/523.ts
+#EXTINF:-1,UK: Sky True Movies 1
+http://185.2.83.209:8000/live/123456/123456/472.ts
+#EXTINF:-1,UK: Sky True Movies 2
+http://185.2.83.209:8000/live/123456/123456/534.ts
+#EXTINF:-1,UK: Sky True Entertaimnt
+http://185.2.83.209:8000/live/123456/123456/1546.ts
+#EXTINF:-1,UK: Sky More 4 HD
+http://185.2.83.209:8000/live/123456/123456/504.ts
+#EXTINF:-1,UK: Sky Movies4Men
+http://185.2.83.209:8000/live/123456/123456/1557.ts
+#EXTINF:-1,UK: Sky Horse & Country
+http://185.2.83.209:8000/live/123456/123456/1549.ts
+#EXTINF:-1,UK: Sky Home
+http://185.2.83.209:8000/live/123456/123456/1553.ts
+#EXTINF:-1,UK: Sky Quest
+http://185.2.83.209:8000/live/123456/123456/1551.ts
+#EXTINF:-1,UK: Sky Really
+http://185.2.83.209:8000/live/123456/123456/1552.ts
+#EXTINF:-1,UK: Sky Travel Channel
+http://185.2.83.209:8000/live/123456/123456/1556.ts
+#EXTINF:-1,UK: Sky Horror Channel
+http://185.2.83.209:8000/live/123456/123456/1548.ts
+#EXTINF:-1,UK: Sky S4C
+http://185.2.83.209:8000/live/123456/123456/435.ts
+#EXTINF:-1,UK: Sky 5 Star +1
+http://185.2.83.209:8000/live/123456/123456/505.ts
+#EXTINF:-1,UK: Sky CBBC HD
+http://185.2.83.209:8000/live/123456/123456/430.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://185.2.83.209:8000/live/123456/123456/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://185.2.83.209:8000/live/123456/123456/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://185.2.83.209:8000/live/123456/123456/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://185.2.83.209:8000/live/123456/123456/468.ts
+#EXTINF:-1,UK: Sky ITV Be
+http://185.2.83.209:8000/live/123456/123456/429.ts
+#EXTINF:-1,UK: Sky ITV Encore
+http://185.2.83.209:8000/live/123456/123456/467.ts
+#EXTINF:-1,UK: Sky BBC4/CBEEBIES
+http://185.2.83.209:8000/live/123456/123456/433.ts
+#EXTINF:-1,UK: Sky 3e
+http://185.2.83.209:8000/live/123456/123456/432.ts
+#EXTINF:-1,UK: Sky TV3
+http://185.2.83.209:8000/live/123456/123456/434.ts
+#EXTINF:-1,UK: Sky CITV
+http://185.2.83.209:8000/live/123456/123456/436.ts
+#EXTINF:-1,UK: Sky Cbs Drama
+http://185.2.83.209:8000/live/123456/123456/482.ts
+#EXTINF:-1,UK: Sky Pick
+http://185.2.83.209:8000/live/123456/123456/437.ts
+#EXTINF:-1,UK: Sky Cbs Action
+http://185.2.83.209:8000/live/123456/123456/481.ts
+#EXTINF:-1,UK: Sky CBS Reality
+http://185.2.83.209:8000/live/123456/123456/510.ts
+#EXTINF:-1,UK: Sky BBC One HD
+http://185.2.83.209:8000/live/123456/123456/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://185.2.83.209:8000/live/123456/123456/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://185.2.83.209:8000/live/123456/123456/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://185.2.83.209:8000/live/123456/123456/485.ts
+#EXTINF:-1,UK: Sky Channel 4 HD
+http://185.2.83.209:8000/live/123456/123456/426.ts
+#EXTINF:-1,UK: Sky Channel 5 HD
+http://185.2.83.209:8000/live/123456/123456/427.ts
+#EXTINF:-1,UK: Sky Comedy Central
+http://185.2.83.209:8000/live/123456/123456/463.ts
+#EXTINF:-1,UK: Sky Comedy Central Ex
+http://185.2.83.209:8000/live/123456/123456/462.ts
+#EXTINF:-1,UK: Sky Food Network
+http://185.2.83.209:8000/live/123456/123456/495.ts
+#EXTINF:-1,UK: Sky Sony Movies
+http://185.2.83.209:8000/live/123456/123456/501.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://185.2.83.209:8000/live/123456/123456/457.ts
+#EXTINF:-1,UK: Sky Boomerang
+http://185.2.83.209:8000/live/123456/123456/444.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://185.2.83.209:8000/live/123456/123456/522.ts
+#EXTINF:-1,UK: Sky Nickelodeon
+http://185.2.83.209:8000/live/123456/123456/503.ts
+#EXTINF:-1,UK: Sky Nickelodeon JR
+http://185.2.83.209:8000/live/123456/123456/423.ts
+#EXTINF:-1,UK: Sky NickToons
+http://185.2.83.209:8000/live/123456/123456/446.ts
+#EXTINF:-1,UK: Sky Disney XD HD
+http://185.2.83.209:8000/live/123456/123456/493.ts
+#EXTINF:-1,UK: Sky Disney Junior HD
+http://185.2.83.209:8000/live/123456/123456/494.ts
+#EXTINF:-1,UK: Sky Disney Chaneel HD
+http://185.2.83.209:8000/live/123456/123456/492.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://185.2.83.209:8000/live/123456/123456/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://185.2.83.209:8000/live/123456/123456/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://185.2.83.209:8000/live/123456/123456/465.ts
+#EXTINF:-1,UK: Sky Discovery Shed
+http://185.2.83.209:8000/live/123456/123456/445.ts
+#EXTINF:-1,UK: Sky Discovery
+http://185.2.83.209:8000/live/123456/123456/464.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://185.2.83.209:8000/live/123456/123456/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://185.2.83.209:8000/live/123456/123456/498.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://185.2.83.209:8000/live/123456/123456/497.ts
+#EXTINF:-1,UK: Sky History HD
+http://185.2.83.209:8000/live/123456/123456/496.ts
+#EXTINF:-1,UK: Sky History 2
+http://185.2.83.209:8000/live/123456/123456/452.ts
+#EXTINF:-1,UK: Sky Ci
+http://185.2.83.209:8000/live/123456/123456/514.ts
 #EXTINF:-1,UK: Sky 1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/122.ts
+http://185.2.83.209:8000/live/123456/123456/475.ts
 #EXTINF:-1,UK: Sky 2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/162.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2031.ts
-#EXTINF:-1,UK: Sky Family
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/102.ts
-#EXTINF:-1,UK: Sky Comedy
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/99.ts
-#EXTINF:-1,UK: Sky Crime Thriller
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/163.ts
-#EXTINF:-1,UK: Sky ScFi Horror
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/124.ts
-#EXTINF:-1,UK: Sky Premiere HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/120.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/80.ts
-#EXTINF:-1,UK: Sky Action HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/180.ts
-#EXTINF:-1,UK: Sky Drama Rom
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3024.ts
-#EXTINF:-1,UK: Sky Living
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/119.ts
-#EXTINF:-1,UK: Sky Thriller
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3031.ts
-#EXTINF:-1,UK: Sky Disney
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/142.ts
+http://185.2.83.209:8000/live/123456/123456/507.ts
 #EXTINF:-1,UK: Sky Atlantic
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/135.ts
-#EXTINF:-1,UK: Show Biz
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/113.ts
-#EXTINF:-1,UK: Channel 24
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/132.ts
-#EXTINF:-1,UK: POP
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/101.ts
-#EXTINF:-1,UK: NickJr
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/138.ts
-#EXTINF:-1,UK: MTV ROCKS
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/111.ts
-#EXTINF:-1,UK: MTV MUSIC
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/100.ts
-#EXTINF:-1,UK: MTV DANCE
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/115.ts
-#EXTINF:-1,UK: ITV Encore
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/131.ts
-#EXTINF:-1,UK: Film 4 HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/116.ts
-#EXTINF:-1,UK: Horse Country
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/118.ts
-#EXTINF:-1,UK: History
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/107.ts
-#EXTINF:-1,UK: FoodNetwork
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/103.ts
-#EXTINF:-1,UK: Good Food
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3013.ts
-#EXTINF:-1,UK: FLAVA
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/125.ts
-#EXTINF:-1,UK: DisneyXD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/112.ts
-#EXTINF:-1,UK: CrimeInv
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/105.ts
-#EXTINF:-1,UK: Sony Movies
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/117.ts
-#EXTINF:-1,UK: ShowCase
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/108.ts
-#EXTINF:-1,UK:  FOX
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/129.ts
-#EXTINF:-1,UK: Sky Select
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/61.ts
-#EXTINF:-1,UK: RTjr
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/73.ts
-#EXTINF:-1,UK: Pick
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/91.ts
-#EXTINF:-1,UK: National Geographic
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/93.ts
-#EXTINF:-1,UK: BEATS
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/88.ts
-#EXTINF:-1,UK: Home & Health
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/63.ts
-#EXTINF:-1,UK: H2.UK
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/66.ts
-#EXTINF:-1,UK: France Eng
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/96.ts
-#EXTINF:-1,UK: Discovery Shed
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/89.ts
-#EXTINF:-1,UK: Comedy Central
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/84.ts
-#EXTINF:-1,UK: CBS Reality
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/64.ts
-#EXTINF:-1,UK: BBC One Scotland HD
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/52.ts
-#EXTINF:-1,UK: Tru TV
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4420.ts
-#EXTINF:-1,UK: True Ent
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/24.ts
-#EXTINF:-1,UK: True Movies1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/133.ts
-#EXTINF:-1,UK: True Movies2
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/189.ts
-#EXTINF:-1,UK: TrueEnt
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/195.ts
-#EXTINF:-1,UK: True Crime
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/150.ts
-#EXTINF:-1,UK: TRUE ENTERTAINMENT FILMS
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/40.ts
-#EXTINF:-1,UK: TravelChannel
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/19.ts
-#EXTINF:-1,|UK| LIVERPOOL FC
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/23.ts
-#EXTINF:-1,UK: Sky News
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/20.ts
-#EXTINF:-1,UK: Sky Arts
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/34.ts
-#EXTINF:-1,UK: ITV4+1
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/53.ts
-#EXTINF:-1,UK: QUEST
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/22.ts
-#EXTINF:-1,UK: MTV HITS
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/17.ts
-#EXTINF:-1,UK: Scuzz
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4413.ts
-#EXTINF:-1,UK: Viva
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4418.ts
-#EXTINF:-1,UK: Channel AKA
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/4421.ts
-#EXTINF:-1,UK: MTV BASE
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/36.ts
-#EXTINF:-1,UK: Film4
-http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/30.ts
+http://185.2.83.209:8000/live/123456/123456/483.ts
+#EXTINF:-1,UK: Sky E!
+http://185.2.83.209:8000/live/123456/123456/447.ts
+#EXTINF:-1,UK: Sky VH1
+http://185.2.83.209:8000/live/123456/123456/449.ts
+#EXTINF:-1,UK: Sky E4
+http://185.2.83.209:8000/live/123456/123456/451.ts
+#EXTINF:-1,UK: Sky TG4
+http://185.2.83.209:8000/live/123456/123456/422.ts
+#EXTINF:-1,UK: Sky Syfy
+http://185.2.83.209:8000/live/123456/123456/538.ts
+#EXTINF:-1,UK: Sky CNBC
+http://185.2.83.209:8000/live/123456/123456/466.ts
+#EXTINF:-1,UK: Sky Dave HD
+http://185.2.83.209:8000/live/123456/123456/506.ts
+#EXTINF:-1,UK: Sky RTE One
+http://185.2.83.209:8000/live/123456/123456/474.ts
+#EXTINF:-1,UK: Sky RTE Two
+http://185.2.83.209:8000/live/123456/123456/478.ts
+#EXTINF:-1,UK: SKY Fox
+http://185.2.83.209:8000/live/123456/123456/460.ts
+#EXTINF:-1,UK: Sky Five
+http://185.2.83.209:8000/live/123456/123456/473.ts
+#EXTINF:-1,UK: Sky Arts 1 HD
+http://185.2.83.209:8000/live/123456/123456/489.ts
+#EXTINF:-1,UK: Sky Baby
+http://185.2.83.209:8000/live/123456/123456/424.ts
+#EXTINF:-1,UK: Sky Eden
+http://185.2.83.209:8000/live/123456/123456/425.ts
+#EXTINF:-1,UK: Sky Alibi
+http://185.2.83.209:8000/live/123456/123456/509.ts
+#EXTINF:-1,UK: Sky Living HD
+http://185.2.83.209:8000/live/123456/123456/502.ts
+#EXTINF:-1,UK: Sky BoxNation
+http://185.2.83.209:8000/live/123456/123456/490.ts
+#EXTINF:-1,UK: Sky Racing
+http://185.2.83.209:8000/live/123456/123456/458.ts
+#EXTINF:-1,UK: Sky Gold
+http://185.2.83.209:8000/live/123456/123456/508.ts
+#EXTINF:-1,UK: Sky 5 USA
+http://185.2.83.209:8000/live/123456/123456/480.ts
+#EXTINF:-1,UK: Sky 5 star
+http://185.2.83.209:8000/live/123456/123456/477.ts
+#EXTINF:-1,UK: Sky life Time
+http://185.2.83.209:8000/live/123456/123456/476.ts
+#EXTINF:-1,UK: Sky Spike
+http://185.2.83.209:8000/live/123456/123456/525.ts
+#EXTINF:-1,UK: Sky TCM
+http://185.2.83.209:8000/live/123456/123456/459.ts
+#EXTINF:-1,UK: Sky CNN
+http://185.2.83.209:8000/live/123456/123456/454.ts
+#EXTINF:-1,UK: Sky Dmax
+http://185.2.83.209:8000/live/123456/123456/456.ts
+#EXTINF:-1,UK: Sky TLC
+http://185.2.83.209:8000/live/123456/123456/455.ts
+#EXTINF:-1,UK: Sky STV
+http://185.2.83.209:8000/live/123456/123456/448.ts
+#EXTINF:-1,UK: Sky MTV
+http://185.2.83.209:8000/live/123456/123456/1550.ts
+#EXTINF:-1,UK: Sky MTV Rocks HD
+http://185.2.83.209:8000/live/123456/123456/442.ts
+#EXTINF:-1,UK: Sky MTV Hits HD
+http://185.2.83.209:8000/live/123456/123456/443.ts
+#EXTINF:-1,UK: Sky MTV Dance HD
+http://185.2.83.209:8000/live/123456/123456/441.ts
+#EXTINF:-1,UK: Sky MTV Classic
+http://185.2.83.209:8000/live/123456/123456/500.ts
+#EXTINF:-1,UK: Sky MTV Base
+http://185.2.83.209:8000/live/123456/123456/440.ts
+#EXTINF:-1,UK: Sky VIVA the Hits!
+http://185.2.83.209:8000/live/123456/123456/1544.ts
+#EXTINF:-1,UK: Sky 4 Music
+http://185.2.83.209:8000/live/123456/123456/1543.ts
+#EXTINF:-1,UK: Sky VH1 Classic
+http://185.2.83.209:8000/live/123456/123456/450.ts
+#EXTINF:-1,UK: Sky VIVA the Hits
+http://185.2.83.209:8000/live/123456/123456/439.ts
+#EXTINF:-1,UK: Sky Kronehit TV
+http://185.2.83.209:8000/live/123456/123456/1545.ts
+#EXTINF:-1,----------- USA -----------
+http://185.2.83.209:8000/live/123456/123456/1554.ts
+#EXTINF:-1,US: Sport TSN 1
+http://185.2.83.209:8000/live/123456/123456/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://185.2.83.209:8000/live/123456/123456/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://185.2.83.209:8000/live/123456/123456/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://185.2.83.209:8000/live/123456/123456/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://185.2.83.209:8000/live/123456/123456/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://185.2.83.209:8000/live/123456/123456/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://185.2.83.209:8000/live/123456/123456/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://185.2.83.209:8000/live/123456/123456/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://185.2.83.209:8000/live/123456/123456/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://185.2.83.209:8000/live/123456/123456/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://185.2.83.209:8000/live/123456/123456/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://185.2.83.209:8000/live/123456/123456/1475.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://185.2.83.209:8000/live/123456/123456/1497.ts
+#EXTINF:-1,US: Sports NET PACIFIC
+http://185.2.83.209:8000/live/123456/123456/1502.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://185.2.83.209:8000/live/123456/123456/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://185.2.83.209:8000/live/123456/123456/1526.ts
+#EXTINF:-1,US: Sports NET ONTARIO
+http://185.2.83.209:8000/live/123456/123456/1503.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://185.2.83.209:8000/live/123456/123456/1525.ts
+#EXTINF:-1,US: Sports Tonight
+http://185.2.83.209:8000/live/123456/123456/1490.ts
+#EXTINF:-1,US: Sport Network
+http://185.2.83.209:8000/live/123456/123456/1459.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://185.2.83.209:8000/live/123456/123456/1496.ts
+#EXTINF:-1,US: USA Network
+http://185.2.83.209:8000/live/123456/123456/1498.ts
+#EXTINF:-1,US: Espn Sport
+http://185.2.83.209:8000/live/123456/123456/1483.ts
+#EXTINF:-1,US: BeIN Sports US
+http://185.2.83.209:8000/live/123456/123456/1486.ts
+#EXTINF:-1,US: Spike HD
+http://185.2.83.209:8000/live/123456/123456/1442.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://185.2.83.209:8000/live/123456/123456/1434.ts
+#EXTINF:-1,US: NHL Network HD
+http://185.2.83.209:8000/live/123456/123456/1429.ts
+#EXTINF:-1,US: Sport Snet Central
+http://185.2.83.209:8000/live/123456/123456/1430.ts
+#EXTINF:-1,US: ShowTime HD
+http://185.2.83.209:8000/live/123456/123456/1439.ts
+#EXTINF:-1,US: Showtime US
+http://185.2.83.209:8000/live/123456/123456/1480.ts
+#EXTINF:-1,US: AFN Prime HD
+http://185.2.83.209:8000/live/123456/123456/1479.ts
+#EXTINF:-1,US: AFN Movies HD
+http://185.2.83.209:8000/live/123456/123456/1477.ts
+#EXTINF:-1,US: TMN Action
+http://185.2.83.209:8000/live/123456/123456/1471.ts
+#EXTINF:-1,US: Animal Planet+1
+http://185.2.83.209:8000/live/123456/123456/1467.ts
+#EXTINF:-1,US: TMN Movies 2
+http://185.2.83.209:8000/live/123456/123456/1468.ts
+#EXTINF:-1,US: TMN Movies 3
+http://185.2.83.209:8000/live/123456/123456/1469.ts
+#EXTINF:-1,US: TMN Movies 4
+http://185.2.83.209:8000/live/123456/123456/1470.ts
+#EXTINF:-1,US: FX HD
+http://185.2.83.209:8000/live/123456/123456/1478.ts
+#EXTINF:-1,US: FOX 1
+http://185.2.83.209:8000/live/123456/123456/1435.ts
+#EXTINF:-1,US: E TV
+http://185.2.83.209:8000/live/123456/123456/1531.ts
+#EXTINF:-1,US: FOX 30
+http://185.2.83.209:8000/live/123456/123456/1523.ts
+#EXTINF:-1,US: FOX 23
+http://185.2.83.209:8000/live/123456/123456/1519.ts
+#EXTINF:-1,US: Fox 24 HD
+http://185.2.83.209:8000/live/123456/123456/1509.ts
+#EXTINF:-1,US: Fox Action
+http://185.2.83.209:8000/live/123456/123456/1448.ts
+#EXTINF:-1,US: Fox Action HD
+http://185.2.83.209:8000/live/123456/123456/1441.ts
+#EXTINF:-1,US: Fox Premium HD
+http://185.2.83.209:8000/live/123456/123456/1437.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://185.2.83.209:8000/live/123456/123456/1512.ts
+#EXTINF:-1,US: HBO Signature
+http://185.2.83.209:8000/live/123456/123456/1517.ts
+#EXTINF:-1,US: NBCSN Golf
+http://185.2.83.209:8000/live/123456/123456/1533.ts
+#EXTINF:-1,US: SYFY HD
+http://185.2.83.209:8000/live/123456/123456/1481.ts
+#EXTINF:-1,US: CBS HD
+http://185.2.83.209:8000/live/123456/123456/1485.ts
+#EXTINF:-1,US: HBO 1
+http://185.2.83.209:8000/live/123456/123456/1433.ts
+#EXTINF:-1,US: Bravo
+http://185.2.83.209:8000/live/123456/123456/1482.ts
+#EXTINF:-1,US: Starz Edge
+http://185.2.83.209:8000/live/123456/123456/1438.ts
+#EXTINF:-1,US: Starz East
+http://185.2.83.209:8000/live/123456/123456/1450.ts
+#EXTINF:-1,US: TBS HD
+http://185.2.83.209:8000/live/123456/123456/1506.ts
+#EXTINF:-1,US: Fight Network
+http://185.2.83.209:8000/live/123456/123456/1457.ts
+#EXTINF:-1,US: Bravo HD
+http://185.2.83.209:8000/live/123456/123456/1507.ts
+#EXTINF:-1,US: A&E HD
+http://185.2.83.209:8000/live/123456/123456/1500.ts
+#EXTINF:-1,US: HBO Action
+http://185.2.83.209:8000/live/123456/123456/1511.ts
+#EXTINF:-1,US: Movie Time HD
+http://185.2.83.209:8000/live/123456/123456/1499.ts
+#EXTINF:-1,US: RDS2
+http://185.2.83.209:8000/live/123456/123456/1505.ts
+#EXTINF:-1,US: NBCSN
+http://185.2.83.209:8000/live/123456/123456/1456.ts
+#EXTINF:-1,US: HSN
+http://185.2.83.209:8000/live/123456/123456/1462.ts
+#EXTINF:-1,US: London Live
+http://185.2.83.209:8000/live/123456/123456/1494.ts
+#EXTINF:-1,US: Star Chinese Movies
+http://185.2.83.209:8000/live/123456/123456/1491.ts
+#EXTINF:-1,US: Starz Encore US
+http://185.2.83.209:8000/live/123456/123456/1524.ts
+#EXTINF:-1,US: AFN Movie HD
+http://185.2.83.209:8000/live/123456/123456/1522.ts
+#EXTINF:-1,US: Kiro 7
+http://185.2.83.209:8000/live/123456/123456/1520.ts
+#EXTINF:-1,US: HBO East
+http://185.2.83.209:8000/live/123456/123456/1518.ts
+#EXTINF:-1,US: CBSN
+http://185.2.83.209:8000/live/123456/123456/1521.ts
+#EXTINF:-1,US: Famly HD
+http://185.2.83.209:8000/live/123456/123456/1495.ts
+#EXTINF:-1,US: Olympic Channel
+http://185.2.83.209:8000/live/123456/123456/1493.ts
+#EXTINF:-1,US: AMC
+http://185.2.83.209:8000/live/123456/123456/1492.ts
+#EXTINF:-1,US: BBC Two Eng
+http://185.2.83.209:8000/live/123456/123456/1443.ts
+#EXTINF:-1,US: Msnbc
+http://185.2.83.209:8000/live/123456/123456/1447.ts
+#EXTINF:-1,US: Cinemax
+http://185.2.83.209:8000/live/123456/123456/1461.ts
+#EXTINF:-1,US: AMC HD
+http://185.2.83.209:8000/live/123456/123456/1534.ts
+#EXTINF:-1,US: Life Time HD
+http://185.2.83.209:8000/live/123456/123456/1460.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://185.2.83.209:8000/live/123456/123456/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://185.2.83.209:8000/live/123456/123456/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://185.2.83.209:8000/live/123456/123456/1489.ts
+#EXTINF:-1,US: Showtime Extreme
+http://185.2.83.209:8000/live/123456/123456/1539.ts
+#EXTINF:-1,US: CBC Toronto
+http://185.2.83.209:8000/live/123456/123456/1541.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://185.2.83.209:8000/live/123456/123456/1540.ts
+#EXTINF:-1,US: ActionMAX US
+http://185.2.83.209:8000/live/123456/123456/1527.ts
+#EXTINF:-1,US: CP24 HD
+http://185.2.83.209:8000/live/123456/123456/1528.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://185.2.83.209:8000/live/123456/123456/1529.ts
+#EXTINF:-1,US: CTV Toronto HD
+http://185.2.83.209:8000/live/123456/123456/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://185.2.83.209:8000/live/123456/123456/1535.ts
+#EXTINF:-1,US: HBO Family
+http://185.2.83.209:8000/live/123456/123456/1536.ts
+#EXTINF:-1,US: Starz Comedy
+http://185.2.83.209:8000/live/123456/123456/1537.ts
+#EXTINF:-1,US: Starz Cinema
+http://185.2.83.209:8000/live/123456/123456/1538.ts
+#EXTINF:-1,US: W Network HD
+http://185.2.83.209:8000/live/123456/123456/1532.ts
+#EXTINF:-1,US: Bloomberg
+http://185.2.83.209:8000/live/123456/123456/1464.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://185.2.83.209:8000/live/123456/123456/1465.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://185.2.83.209:8000/live/123456/123456/1466.ts
+#EXTINF:-1,US: A&E Network
+http://185.2.83.209:8000/live/123456/123456/1458.ts
+#EXTINF:-1,US: AFN Prime Atlantic HD
+http://185.2.83.209:8000/live/123456/123456/1484.ts
+#EXTINF:-1,US: Thai CH8
+http://185.2.83.209:8000/live/123456/123456/1463.ts
+#EXTINF:-1,US: World Fashion TV
+http://185.2.83.209:8000/live/123456/123456/1432.ts
+#EXTINF:-1,US: TBS Channle
+http://185.2.83.209:8000/live/123456/123456/1449.ts
+#EXTINF:-1,US: Amazing Music
+http://185.2.83.209:8000/live/123456/123456/1446.ts
+#EXTINF:-1,US: ABC
+http://185.2.83.209:8000/live/123456/123456/1504.ts
+#EXTINF:-1,US: WGN 9 HD
+http://185.2.83.209:8000/live/123456/123456/1515.ts
+#EXTINF:-1,US: Replay
+http://185.2.83.209:8000/live/123456/123456/1516.ts
+#EXTINF:-1,US: TRT World
+http://185.2.83.209:8000/live/123456/123456/1513.ts
+#EXTINF:-1,US: CBS
+http://185.2.83.209:8000/live/123456/123456/1510.ts
+#EXTINF:-1,US: NBC Live
+http://185.2.83.209:8000/live/123456/123456/1501.ts
+#EXTINF:-1,US: BBC Amrica
+http://185.2.83.209:8000/live/123456/123456/1514.ts

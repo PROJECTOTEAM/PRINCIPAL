@@ -1,292 +1,151 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-
-#EXTINF:-1,PL: AXN Black Poland
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1163.ts
-#EXTINF:-1,PL: AXN Poland
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1162.ts
-#EXTINF:-1,PL: AXN SPIN HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1161.ts
-#EXTINF:-1,PL: AXN White
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1160.ts
-#EXTINF:-1,PL: CBS Reality
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1152.ts
-#EXTINF:-1,PL: CC Family
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1151.ts
-#EXTINF:-1,PL: Filmbox
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1159.ts
-#EXTINF:-1,PL: Filmbox Action
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1158.ts
-#EXTINF:-1,PL: Filmbox Family
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1157.ts
-#EXTINF:-1,PL: Filmbox Premium
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1156.ts
-#EXTINF:-1,PL: Fox Comedy HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1155.ts
-#EXTINF:-1,PL: Fox Comedy HD Poland
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1154.ts
-#EXTINF:-1,PL: FOX HD Poland
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1153.ts
-#EXTINF:-1,PL: nSport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1165.ts
-#EXTINF:-1,PL: ORANGE SPORT
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1164.ts
+#EXTINF:-1,PL: Eleven
+http://185.2.83.209:8000/live/123456/123456/1307.ts
+#EXTINF:-1,PL: Eleven Sports
+http://185.2.83.209:8000/live/123456/123456/1312.ts
+#EXTINF:-1,PL: N sport+ HD
+http://185.2.83.209:8000/live/123456/123456/1325.ts
+#EXTINF:-1,PL: Canal + Sport HD
+http://185.2.83.209:8000/live/123456/123456/1313.ts
+#EXTINF:-1,PL: Polsat Sport Extrea
+http://185.2.83.209:8000/live/123456/123456/1278.ts
+#EXTINF:-1,PL: Canal +2 Sport HD
+http://185.2.83.209:8000/live/123456/123456/1280.ts
+#EXTINF:-1,PL: TVP Sport
+http://185.2.83.209:8000/live/123456/123456/1319.ts
+#EXTINF:-1,PL: Super Polsat
+http://185.2.83.209:8000/live/123456/123456/1267.ts
+#EXTINF:-1,PL: Sport Klub
+http://185.2.83.209:8000/live/123456/123456/1261.ts
+#EXTINF:-1,PL: Polsat
+http://185.2.83.209:8000/live/123456/123456/1322.ts
 #EXTINF:-1,PL: Polsat 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1149.ts
-#EXTINF:-1,PL: Polsat Cafe
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1148.ts
-#EXTINF:-1,PL: Polsat Film
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1147.ts
-#EXTINF:-1,PL: Polsat HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1146.ts
-#EXTINF:-1,PL: Polsat Play
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1144.ts
+http://185.2.83.209:8000/live/123456/123456/1311.ts
 #EXTINF:-1,PL: Polsat Sport
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1142.ts
-#EXTINF:-1,PL: TVP SPORT
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1166.ts
-#EXTINF:-1,POL: ALE KINO HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2364.ts
-#EXTINF:-1,POL: CANAL SPORT HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2363.ts
-#EXTINF:-1,POL: ELEVEN HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2361.ts
-#EXTINF:-1,POL: ELEVEN SPORTS HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2360.ts
-#EXTINF:-1,POL: POLSAT 2 HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2354.ts
-#EXTINF:-1,POL: POLSAT CAFE HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2353.ts
-#EXTINF:-1,POL: POLSAT FILM HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2352.ts
-#EXTINF:-1,POL: POLSAT PLAY HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2351.ts
-#EXTINF:-1,PL: TV4 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2359.ts
-#EXTINF:-1,PL: TVP 1 HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2358.ts
-#EXTINF:-1,POL: TVP HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2357.ts
-#EXTINF:-1,POL: TVP SPORT HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2356.ts
-#EXTINF:-1,POL: UNIVERSAL HD PL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2355.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a00a
-#EXTINF:-1,CBS Reality
-http://84.243.221.164:8000/play/a02u
-#EXTINF:-1,Filmbox Action
-http://84.243.221.164:8000/play/a02v
-#EXTINF:-1,BBC Lifestyle HD
-http://84.243.221.164:8000/play/a01e
-#EXTINF:-1,TVP INFO HD
-http://84.243.221.164:8000/play/a03q
-#EXTINF:-1,VOX MUSIC TV
-http://84.243.221.164:8000/play/a031
-#EXTINF:-1,Cinemax HD
-http://84.243.221.164:8000/play/a03r
-#EXTINF:-1,CANAL+ SPORT HD
-http://84.243.221.164:8000/play/a03f
-#EXTINF:-1,TV PULS HD
-http://84.243.221.164:8000/play/a02r
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a00e
-#EXTINF:-1,CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a019
-#EXTINF:-1,HIP HOP TV
-http://84.243.221.164:8000/play/a02t
-#EXTINF:-1,KINO POLSKA
-http://84.243.221.164:8000/play/a03x
-#EXTINF:-1,BBC CBeebies
-http://84.243.221.164:8000/play/a01d
-#EXTINF:-1,CANAL+ DISCOVERY HD
-http://84.243.221.164:8000/play/a03i
-#EXTINF:-1,Planete+ HD
-http://84.243.221.164:8000/play/a036
-#EXTINF:-1,TVS
-http://84.243.221.164:8000/play/a02x
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a01p
-#EXTINF:-1,Nat Geo Wild HD
-http://84.243.221.164:8000/play/a03t
-#EXTINF:-1,TVP Polonia
-http://84.243.221.164:8000/play/a018
-#EXTINF:-1,TENIS PREMIUM 1
-http://84.243.221.164:8000/play/a03d
-#EXTINF:-1,Discovery Life HD
-http://84.243.221.164:8000/play/a02s
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a00d
-#EXTINF:-1,TVP HD
-http://84.243.221.164:8000/play/a03n
-#EXTINF:-1,CANAL+ HD
-http://84.243.221.164:8000/play/a01i
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a008
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a00u
-#EXTINF:-1,NATIONAL GEO HD
-http://84.243.221.164:8000/play/a01k
-#EXTINF:-1,TVP SERIALE
-http://84.243.221.164:8000/play/a02w
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,CANAL+ DISCOVERY HD
-http://84.243.221.164:8000/play/a03i
-#EXTINF:-1,TENIS PREMIUM 1
-http://84.243.221.164:8000/play/a03d
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a019
-#EXTINF:-1,Planete+ HD
-http://84.243.221.164:8000/play/a036
-#EXTINF:-1,Nat Geo Wild HD
-http://84.243.221.164:8000/play/a03t
-#EXTINF:-1,CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
-#EXTINF:-1,TV PULS HD
-http://84.243.221.164:8000/play/a02r
-#EXTINF:-1,BBC Lifestyle HD
-http://84.243.221.164:8000/play/a01e
-#EXTINF:-1,Discovery Life HD
-http://84.243.221.164:8000/play/a02s
-#EXTINF:-1,Filmbox Action
-http://84.243.221.164:8000/play/a02v
-#EXTINF:-1,TVP HD
-http://84.243.221.164:8000/play/a03n
-#EXTINF:-1,CANAL+ SPORT HD
-http://84.243.221.164:8000/play/a03f
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a00a
-#EXTINF:-1,KINO POLSKA
-http://84.243.221.164:8000/play/a03x
-#EXTINF:-1,Filmbox
-http://84.243.221.164:8000/play/a02z
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a00u
-#EXTINF:-1,VOX MUSIC TV
-http://84.243.221.164:8000/play/a031
-#EXTINF:-1,TVP INFO HD
-http://84.243.221.164:8000/play/a03q
-#EXTINF:-1,TVP Polonia
-http://84.243.221.164:8000/play/a018
-#EXTINF:-1,BBC CBeebies
-http://84.243.221.164:8000/play/a01d
-#EXTINF:-1,CANAL+ HD
-http://84.243.221.164:8000/play/a01i
-#EXTINF:-1,NATIONAL GEO HD
-http://84.243.221.164:8000/play/a01k
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a01p
-#EXTINF:-1,Cinemax HD
-http://84.243.221.164:8000/play/a03r
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a008
-#EXTINF:-1,CBS Reality
-http://84.243.221.164:8000/play/a02u
-#EXTINF:-1,TVS
-http://84.243.221.164:8000/play/a02x
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a00d
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a00e
-#EXTINF:-1,TVP SERIALE
-http://84.243.221.164:8000/play/a02w
-#EXTINF:-1,Filmbox Family
-http://84.243.221.164:8000/play/a02y
-#EXTINF:-1,HIP HOP TV
-http://84.243.221.164:8000/play/a02t
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Polsat
-http://109.74.108.149:9981/stream/channelid/8
-#EXTINF:-1,Puls 2
-http://109.74.108.149:9981/stream/channelid/7
-#EXTINF:-1,Super polast
-http://109.74.108.149:9981/stream/channelid/3
-#EXTINF:-1,Trwam
-http://109.74.108.149:9981/stream/channelid/13
-#EXTINF:-1,TTV
-http://109.74.108.149:9981/stream/channelid/14
-#EXTINF:-1,TV puls
-http://109.74.108.149:9981/stream/channelid/5
-#EXTINF:-1,TV6
-http://109.74.108.149:9981/stream/channelid/2
-#EXTINF:-1,TVN
-http://109.74.108.149:9981/stream/channelid/1
-#EXTINF:-1,TVN7
-http://109.74.108.149:9981/stream/channelid/6
-#EXTINF:-1,TVP
-http://109.74.108.149:9981/stream/channelid/11
-
-
-
-
-
+http://185.2.83.209:8000/live/123456/123456/1279.ts
+#EXTINF:-1,PL: Polsat Play
+http://185.2.83.209:8000/live/123456/123456/1320.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://185.2.83.209:8000/live/123456/123456/1301.ts
+#EXTINF:-1,PL: Polsat Film HD
+http://185.2.83.209:8000/live/123456/123456/1273.ts
+#EXTINF:-1,PL: Polsat Viasat Explore HD
+http://185.2.83.209:8000/live/123456/123456/1272.ts
+#EXTINF:-1,PL: Polsat Viasat Nature
+http://185.2.83.209:8000/live/123456/123456/1271.ts
+#EXTINF:-1,PL: Kuchina HD
+http://185.2.83.209:8000/live/123456/123456/1281.ts
+#EXTINF:-1,PL: Mini Mini
+http://185.2.83.209:8000/live/123456/123456/1302.ts
+#EXTINF:-1,PL: TVN 4
+http://185.2.83.209:8000/live/123456/123456/1303.ts
+#EXTINF:-1,PL: Film box
+http://185.2.83.209:8000/live/123456/123456/1304.ts
+#EXTINF:-1,PL: Filmbox Family
+http://185.2.83.209:8000/live/123456/123456/1295.ts
+#EXTINF:-1,PL: Filmbox Action
+http://185.2.83.209:8000/live/123456/123456/1324.ts
+#EXTINF:-1,PL: Filmbox Premium
+http://185.2.83.209:8000/live/123456/123456/1288.ts
+#EXTINF:-1,PL: Filmbox Arthouse
+http://185.2.83.209:8000/live/123456/123456/1286.ts
+#EXTINF:-1,PL: Canal+ Family HD
+http://185.2.83.209:8000/live/123456/123456/1306.ts
+#EXTINF:-1,PL: Canal+ Series HD
+http://185.2.83.209:8000/live/123456/123456/1277.ts
+#EXTINF:-1,PL: Canal+ Famly HD
+http://185.2.83.209:8000/live/123456/123456/1291.ts
+#EXTINF:-1,PL: Cinemax HD
+http://185.2.83.209:8000/live/123456/123456/1300.ts
+#EXTINF:-1,PL: Cinemax 2 HD
+http://185.2.83.209:8000/live/123456/123456/1264.ts
+#EXTINF:-1,PL: Comedy Central
+http://185.2.83.209:8000/live/123456/123456/1263.ts
+#EXTINF:-1,PL: Comedy Central Family
+http://185.2.83.209:8000/live/123456/123456/1262.ts
+#EXTINF:-1,PL: Romance
+http://185.2.83.209:8000/live/123456/123456/1276.ts
+#EXTINF:-1,PL: Sundance HD
+http://185.2.83.209:8000/live/123456/123456/1270.ts
+#EXTINF:-1,PL: HBO
+http://185.2.83.209:8000/live/123456/123456/1285.ts
+#EXTINF:-1,PL: HBO 2
+http://185.2.83.209:8000/live/123456/123456/1283.ts
+#EXTINF:-1,PL: HBO 3
+http://185.2.83.209:8000/live/123456/123456/1284.ts
+#EXTINF:-1,PL: CBS Action
+http://185.2.83.209:8000/live/123456/123456/1258.ts
+#EXTINF:-1,PL: CBS Europa HD
+http://185.2.83.209:8000/live/123456/123456/1257.ts
+#EXTINF:-1,PL: CBS Reality
+http://185.2.83.209:8000/live/123456/123456/1256.ts
+#EXTINF:-1,PL: TLC HD
+http://185.2.83.209:8000/live/123456/123456/1268.ts
+#EXTINF:-1,PL: Travel HD
+http://185.2.83.209:8000/live/123456/123456/1260.ts
+#EXTINF:-1,PL: Universal HD
+http://185.2.83.209:8000/live/123456/123456/1265.ts
+#EXTINF:-1,PL: Disney HD
+http://185.2.83.209:8000/live/123456/123456/1282.ts
+#EXTINF:-1,PL: Polo TV
+http://185.2.83.209:8000/live/123456/123456/1298.ts
+#EXTINF:-1,PL: Lech
+http://185.2.83.209:8000/live/123456/123456/1310.ts
+#EXTINF:-1,PL: E!
+http://185.2.83.209:8000/live/123456/123456/1275.ts
+#EXTINF:-1,PL: TVN
+http://185.2.83.209:8000/live/123456/123456/1314.ts
+#EXTINF:-1,PL: TVP 1
+http://185.2.83.209:8000/live/123456/123456/1299.ts
+#EXTINF:-1,PL: TVP 2 HD
+http://185.2.83.209:8000/live/123456/123456/1318.ts
+#EXTINF:-1,PL: TVN 24
+http://185.2.83.209:8000/live/123456/123456/1315.ts
+#EXTINF:-1,PL: TVN Turbo
+http://185.2.83.209:8000/live/123456/123456/1321.ts
+#EXTINF:-1,PL: Kino Polska
+http://185.2.83.209:8000/live/123456/123456/1305.ts
+#EXTINF:-1,PL: Discovery Turbo Xtra
+http://185.2.83.209:8000/live/123456/123456/1323.ts
+#EXTINF:-1,PL: Discovery
+http://185.2.83.209:8000/live/123456/123456/1287.ts
+#EXTINF:-1,PL: History
+http://185.2.83.209:8000/live/123456/123456/1308.ts
+#EXTINF:-1,PL: Nat Geo HD
+http://185.2.83.209:8000/live/123456/123456/1274.ts
+#EXTINF:-1,PL: National Geo Wild
+http://185.2.83.209:8000/live/123456/123456/1289.ts
+#EXTINF:-1,PL: Planete
+http://185.2.83.209:8000/live/123456/123456/1317.ts
+#EXTINF:-1,PL: TeleToon+ HD
+http://185.2.83.209:8000/live/123456/123456/1266.ts
+#EXTINF:-1,PL: Boomerang
+http://185.2.83.209:8000/live/123456/123456/1293.ts
+#EXTINF:-1,PL: Cartoon Network
+http://185.2.83.209:8000/live/123456/123456/1296.ts
+#EXTINF:-1,PL: TVN Fabula HD
+http://185.2.83.209:8000/live/123456/123456/1269.ts
+#EXTINF:-1,PL: TVP ABC
+http://185.2.83.209:8000/live/123456/123456/1259.ts
+#EXTINF:-1,PL: TVP 1 HD
+http://185.2.83.209:8000/live/123456/123456/1294.ts
+#EXTINF:-1,PL: AXN White
+http://185.2.83.209:8000/live/123456/123456/1292.ts
+#EXTINF:-1,PL: AXN HD
+http://185.2.83.209:8000/live/123456/123456/1290.ts
+#EXTINF:-1,PL: Ale Kino
+http://185.2.83.209:8000/live/123456/123456/1316.ts
+#EXTINF:-1,PL: MTV Polska
+http://185.2.83.209:8000/live/123456/123456/1297.ts
+#EXTINF:-1,PL: Music Vox 2 Tv
+http://185.2.83.209:8000/live/123456/123456/1309.ts
 
 
 
