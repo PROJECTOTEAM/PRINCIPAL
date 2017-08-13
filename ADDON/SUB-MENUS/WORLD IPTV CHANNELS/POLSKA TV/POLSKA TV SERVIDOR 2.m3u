@@ -1,68 +1,179 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 31-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-#EXTM3U
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a019
-#EXTINF:-1,Filmbox Action
-http://84.243.221.164:8000/play/a02v
-#EXTINF:-1,VIVID TOUCH
-http://84.243.221.164:8000/play/a02j
-#EXTINF:-1,CBS Reality
-http://84.243.221.164:8000/play/a02u
-#EXTINF:-1,TENIS PREMIUM 1
-http://84.243.221.164:8000/play/a03d
-#EXTINF:-1,TV PULS HD
-http://84.243.221.164:8000/play/a02r
-#EXTINF:-1,TVP Polonia
-http://84.243.221.164:8000/play/a018
-#EXTINF:-1,Hustler HD
-http://84.243.221.164:8000/play/a02g
-#EXTINF:-1,Planete+ HD
-http://84.243.221.164:8000/play/a036
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a00a
-#EXTINF:-1,WP
-http://84.243.221.164:8000/play/a032
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a008
-#EXTINF:-1,CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c
-#EXTINF:-1,TBN Poland
-http://84.243.221.164:8000/play/a014
-#EXTINF:-1,Redlight HD
-http://84.243.221.164:8000/play/a02f
-#EXTINF:-1,Filmbox Family
-http://84.243.221.164:8000/play/a02y
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a00u
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a01p
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a00e
-#EXTINF:-1,NATIONAL GEO HD
-http://84.243.221.164:8000/play/a01k
-#EXTINF:-1,VOX MUSIC TV
-http://84.243.221.164:8000/play/a031
-#EXTINF:-1,BBC CBeebies
-http://84.243.221.164:8000/play/a01d
-#EXTINF:-1,TVP SERIALE
-http://84.243.221.164:8000/play/a02w
-#EXTINF:-1,TVS
-http://84.243.221.164:8000/play/a02x
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a00d
-#EXTINF:-1,Discovery Life HD
-http://84.243.221.164:8000/play/a02s
-#EXTINF:-1,SciFi Universal
-http://84.243.221.164:8000/play/a01t
-#EXTINF:-1,HIP HOP TV
-http://84.243.221.164:8000/play/a02t
-#EXTINF:-1,Filmbox
-http://84.243.221.164:8000/play/a02z
+#EXTINF:-1,PL: 13 ULICA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8355.ts
+#EXTINF:-1,PL: ALE KINO  HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8354.ts
+#EXTINF:-1,PL: ANIMAL PLANET
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8353.ts
+#EXTINF:-1,PL: ATM Rozrywka
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8352.ts
+#EXTINF:-1,PL: AXN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8351.ts
+#EXTINF:-1,PL: AXN BLACK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8350.ts
+#EXTINF:-1,PL: AXN SPIN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8349.ts
+#EXTINF:-1,PL: AXN WHITE
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8348.ts
+#EXTINF:-1,PL: BBC EARTH POLSKA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8333.ts
+#EXTINF:-1,PL: Canal   HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8342.ts
+#EXTINF:-1,PL: CANAL   SPORT 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8347.ts
+#EXTINF:-1,PL: CANAL  FILM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8346.ts
+#EXTINF:-1,PL: Canal  Film HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5513.ts
+#EXTINF:-1,PL: CANAL  SERIALE
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8345.ts
+#EXTINF:-1,PL: Canal  Sport
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5516.ts
+#EXTINF:-1,PL: CANAL  SPORT 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8344.ts
+#EXTINF:-1,PL: CARTOON NETWORK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8343.ts
+#EXTINF:-1,PL: CINEMAX HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5909.ts
+#EXTINF:-1,PL: DISCOVERY
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8341.ts
+#EXTINF:-1,PL: DISCOVERY HISTORIA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8340.ts
+#EXTINF:-1,PL: DISNEY CHANNEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8339.ts
+#EXTINF:-1,PL: DISNEY JUNIOR
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8338.ts
+#EXTINF:-1,PL: ELEVEN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8337.ts
+#EXTINF:-1,PL: ELEVEN EXTRA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8336.ts
+#EXTINF:-1,PL: ELEVEN SPORT
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5512.ts
+#EXTINF:-1,PL: ELEVEN SPORTS HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8335.ts
+#EXTINF:-1,PL: ESKA BEST MUSIC
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8334.ts
+#EXTINF:-1,PL: EUROSPORT 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8332.ts
+#EXTINF:-1,PL: EXTREME SPORT CHANNEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8331.ts
+#EXTINF:-1,PL: FIGHTBOX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8330.ts
+#EXTINF:-1,PL: FILMBOX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8329.ts
+#EXTINF:-1,PL: FILMBOX FAMILY
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6089.ts
+#EXTINF:-1,PL: FILMBOX PREMIUM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8325.ts
+#EXTINF:-1,PL: FOKUS TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8324.ts
+#EXTINF:-1,PL: HBO
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8322.ts
+#EXTINF:-1,PL: HBO 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8321.ts
+#EXTINF:-1,PL: HBO 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8320.ts
+#EXTINF:-1,PL: Hbo HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5918.ts
+#EXTINF:-1,PL: KUCHNIA  HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8318.ts
+#EXTINF:-1,PL: MPL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5916.ts
+#EXTINF:-1,PL: MUSIC VOX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8317.ts
+#EXTINF:-1,PL: MUSIC VOX OLDS COOL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8316.ts
+#EXTINF:-1,PL: N Sport
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8315.ts
+#EXTINF:-1,PL: NAT GEO
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8314.ts
+#EXTINF:-1,PL: POLO TV PARTY
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8311.ts
+#EXTINF:-1,PL: Polsat
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5507.ts
+#EXTINF:-1,PL: POLSAT  1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8310.ts
+#EXTINF:-1,PL: Polsat 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5508.ts
+#EXTINF:-1,PL: Polsat 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8306.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5509.ts
+#EXTINF:-1,PL: Polsat Cafe HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8305.ts
+#EXTINF:-1,PL: Polsat Film
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5511.ts
+#EXTINF:-1,PL: Polsat Film HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8304.ts
+#EXTINF:-1,PL: Polsat News
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8303.ts
+#EXTINF:-1,PL: Polsat Play
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8301.ts
+#EXTINF:-1,PL: Polsat Play HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8302.ts
+#EXTINF:-1,PL: Polsat Sport Extra
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8300.ts
+#EXTINF:-1,PL: Polsat Sport News
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8299.ts
+#EXTINF:-1,PL: REPUBLIKA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5510.ts
+#EXTINF:-1,PL: SFERA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8297.ts
+#EXTINF:-1,PL: STELLA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6087.ts
+#EXTINF:-1,PL: TLC
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8293.ts
+#EXTINF:-1,PL: TRWAM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5514.ts
+#EXTINF:-1,PL: TV ASTA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8290.ts
+#EXTINF:-1,PL: TV ASTRA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5515.ts
+#EXTINF:-1,PL: TV PULS
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8288.ts
+#EXTINF:-1,PL: TV TORUN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8287.ts
+#EXTINF:-1,PL: TV3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8286.ts
+#EXTINF:-1,PL: TV4 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8285.ts
+#EXTINF:-1,PL: TV6
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8284.ts
+#EXTINF:-1,PL: TV7
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8283.ts
+#EXTINF:-1,PL: TVN 24
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8282.ts
+#EXTINF:-1,PL: Tvn Turbo
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5907.ts
+#EXTINF:-1,PL: Tvp
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5503.ts
+#EXTINF:-1,PL: Tvp 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5504.ts
+#EXTINF:-1,PL: TVP 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8281.ts
+#EXTINF:-1,PL: Tvp 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5505.ts
+#EXTINF:-1,PL: TVP 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8280.ts
+#EXTINF:-1,PL: TVP HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8278.ts
+#EXTINF:-1,PL: Tvp Sport
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5506.ts
+#EXTINF:-1,PL: TVP SPORT HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8277.ts
+#EXTINF:-1,PL: TVT
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5927.ts
+#EXTINF:-1,PL: TWOJA TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5921.ts
+#EXTINF:-1,PL: UNIVERSAL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5922.ts
+#EXTINF:-1,PL: WP
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5917.ts
+#EXTINF:-1,PPL: POLSAT  2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/8309.ts

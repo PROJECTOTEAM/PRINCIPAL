@@ -1,266 +1,355 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 11-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,TR: bein Box Office 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2167.ts
-#EXTINF:-1,TR: bein Box Office 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/2175.ts
-#EXTINF:-1,TR: bein Box Office 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/2176.ts
-#EXTINF:-1,TR: bein Movies Famly HD
-http://185.2.83.209:8000/live/tony2/tony2/2020.ts
-#EXTINF:-1,TR: Sony Movie Channel HD
-http://185.2.83.209:8000/live/tony2/tony2/2156.ts
-#EXTINF:-1,TR: Showtime Channel 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2160.ts
-#EXTINF:-1,TR: Hallmark Channel Film HD
-http://185.2.83.209:8000/live/tony2/tony2/2023.ts
-#EXTINF:-1,TR: Showtime Channel 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/2162.ts
-#EXTINF:-1,TR: bein Movies Turk HD
-http://185.2.83.209:8000/live/tony2/tony2/2024.ts
-#EXTINF:-1,TR: bein Movies Festival HD
-http://185.2.83.209:8000/live/tony2/tony2/2025.ts
-#EXTINF:-1,TR: bin Movies HD
-http://185.2.83.209:8000/live/tony2/tony2/2028.ts
-#EXTINF:-1,TR: Movie Smart Oscar HD
-http://185.2.83.209:8000/live/tony2/tony2/2026.ts
-#EXTINF:-1,TR: Movie Max premier HD
-http://185.2.83.209:8000/live/tony2/tony2/2027.ts
-#EXTINF:-1,TR: Movies Smart Fest HD
-http://185.2.83.209:8000/live/tony2/tony2/2163.ts
-#EXTINF:-1,TR: Movies Smart Gold HD
-http://185.2.83.209:8000/live/tony2/tony2/2022.ts
-#EXTINF:-1,TR: Movies Smart Platin HD
-http://185.2.83.209:8000/live/tony2/tony2/2018.ts
-#EXTINF:-1,TR: Movies Smart Famly HD
-http://185.2.83.209:8000/live/tony2/tony2/2033.ts
-#EXTINF:-1,TR: Movies Smart Action HD
-http://185.2.83.209:8000/live/tony2/tony2/2017.ts
-#EXTINF:-1,TR: MagicBox Turk
-http://185.2.83.209:8000/live/tony2/tony2/2165.ts
-#EXTINF:-1,TR: MagicBox Aksiyon HD
-http://185.2.83.209:8000/live/tony2/tony2/2157.ts
-#EXTINF:-1,TR: MagicBox Komedi HD
-http://185.2.83.209:8000/live/tony2/tony2/2166.ts
-#EXTINF:-1,TR: MagicBox Korku HD
-http://185.2.83.209:8000/live/tony2/tony2/2032.ts
-#EXTINF:-1,TR: MagicBox Western HD
-http://185.2.83.209:8000/live/tony2/tony2/2168.ts
-#EXTINF:-1,TR: MagicBox Animasyon HD
-http://185.2.83.209:8000/live/tony2/tony2/2169.ts
-#EXTINF:-1,TR: Hallmark Channel 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2019.ts
-#EXTINF:-1,TR: HBO HD
-http://185.2.83.209:8000/live/tony2/tony2/2161.ts
-#EXTINF:-1,TR: Yesilçam 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/2021.ts
-#EXTINF:-1,TR: Moviemax Türk HD
-http://185.2.83.209:8000/live/tony2/tony2/2016.ts
-#EXTINF:-1,TR: Digi Max TV
-http://185.2.83.209:8000/live/tony2/tony2/2158.ts
-#EXTINF:-1,TR: Digi max Animasyon HD
-http://185.2.83.209:8000/live/tony2/tony2/2164.ts
-#EXTINF:-1,TR: Turk Max Gurme HD
-http://185.2.83.209:8000/live/tony2/tony2/2029.ts
-#EXTINF:-1,TR: Cinevision 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2159.ts
-#EXTINF:-1,TR: Sinema Yesilcam HD
-http://185.2.83.209:8000/live/tony2/tony2/2177.ts
-#EXTINF:-1,TR: Sinema tv HD
-http://185.2.83.209:8000/live/tony2/tony2/2178.ts
-#EXTINF:-1,TR: Sinema Junior HD
-http://185.2.83.209:8000/live/tony2/tony2/2179.ts
-#EXTINF:-1,TR: Sinema Komedi HD
-http://185.2.83.209:8000/live/tony2/tony2/2181.ts
-#EXTINF:-1,TR: Sinetivikarnaval 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/2180.ts
-#EXTINF:-1,TR: Sinetivikarnaval 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2182.ts
-#EXTINF:-1,TR: Sinetivi 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/2183.ts
-#EXTINF:-1,TR: Sinetivi 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2184.ts
-#EXTINF:-1,TR: Sinetiviadrenalin 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/1936.ts
-#EXTINF:-1,TR: Sinetiviadrenalin 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/1935.ts
-#EXTINF:-1,TR: Dizi TV HD
-http://185.2.83.209:8000/live/tony2/tony2/1934.ts
-#EXTINF:-1,TR: MGM Channel HD
-http://185.2.83.209:8000/live/tony2/tony2/1933.ts
-#EXTINF:-1,TR: Animasyon HD
-http://185.2.83.209:8000/live/tony2/tony2/2030.ts
-#EXTINF:-1,TR: Sinema 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/1974.ts
-#EXTINF:-1,TR: Sinema 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/1975.ts
-#EXTINF:-1,TR: Sinema 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/1976.ts
-#EXTINF:-1,TR: Sinema 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/1967.ts
-#EXTINF:-1,TR: Sinema 5 HD
-http://185.2.83.209:8000/live/tony2/tony2/1968.ts
-#EXTINF:-1,TR: Sinema 6 HD
-http://185.2.83.209:8000/live/tony2/tony2/1969.ts
-#EXTINF:-1,TR: Sinema 7 HD
-http://185.2.83.209:8000/live/tony2/tony2/1970.ts
-#EXTINF:-1,TR: Loca 1
-http://185.2.83.209:8000/live/tony2/tony2/1941.ts
-#EXTINF:-1,TR: Salon 1
-http://185.2.83.209:8000/live/tony2/tony2/2003.ts
-#EXTINF:-1,TR: Salon 2
-http://185.2.83.209:8000/live/tony2/tony2/1942.ts
-#EXTINF:-1,TR: Salon 3
-http://185.2.83.209:8000/live/tony2/tony2/1943.ts
-#EXTINF:-1,TR: Salon 4
-http://185.2.83.209:8000/live/tony2/tony2/1948.ts
-#EXTINF:-1,TR: Lig TV 1
-http://185.2.83.209:8000/live/tony2/tony2/2002.ts
-#EXTINF:-1,TR: Lig TV 2
-http://185.2.83.209:8000/live/tony2/tony2/2001.ts
-#EXTINF:-1,TR: Lig TV 3
-http://185.2.83.209:8000/live/tony2/tony2/2000.ts
-#EXTINF:-1,TR: NTV Spor
-http://185.2.83.209:8000/live/tony2/tony2/1996.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/1997.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TR: Bein Sport HD 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6671.ts
+#EXTINF:-1,TR: Bein Sport HD 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6670.ts
+#EXTINF:-1,TR: Bein Sport HD 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6669.ts
+#EXTINF:-1,TR: Bein Sport HD 4
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6668.ts
+#EXTINF:-1,Tivibuspor
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1970.ts
+#EXTINF:-1,TR: Tivibuspor 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6680.ts
 #EXTINF:-1,TR: Tivibu Spor 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/1965.ts
-#EXTINF:-1,TR: Tivibu Spor 3 HD
-http://185.2.83.209:8000/live/tony2/tony2/2170.ts
-#EXTINF:-1,TR: Tivibu Spor 4 HD
-http://185.2.83.209:8000/live/tony2/tony2/2171.ts
-#EXTINF:-1,TR: Smart Sport HD
-http://185.2.83.209:8000/live/tony2/tony2/1998.ts
-#EXTINF:-1,TR: Smart Sport 2 HD
-http://185.2.83.209:8000/live/tony2/tony2/1964.ts
-#EXTINF:-1,TR: Eurosport 2 Avrupa
-http://185.2.83.209:8000/live/tony2/tony2/1959.ts
-#EXTINF:-1,TR: Bursa Spor tv
-http://185.2.83.209:8000/live/tony2/tony2/1999.ts
-#EXTINF:-1,TR: GS TV
-http://185.2.83.209:8000/live/tony2/tony2/2015.ts
-#EXTINF:-1,TR: TRT Sports
-http://185.2.83.209:8000/live/tony2/tony2/1981.ts
-#EXTINF:-1,TR: TRT 1
-http://185.2.83.209:8000/live/tony2/tony2/1977.ts
-#EXTINF:-1,TR: TRT Okul
-http://185.2.83.209:8000/live/tony2/tony2/1939.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://185.2.83.209:8000/live/tony2/tony2/1982.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://185.2.83.209:8000/live/tony2/tony2/1937.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://185.2.83.209:8000/live/tony2/tony2/1938.ts
-#EXTINF:-1,TR: TRT COCUK
-http://185.2.83.209:8000/live/tony2/tony2/1940.ts
-#EXTINF:-1,TR: TRT Turk
-http://185.2.83.209:8000/live/tony2/tony2/1979.ts
-#EXTINF:-1,TR: TRT Muzik
-http://185.2.83.209:8000/live/tony2/tony2/1971.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://185.2.83.209:8000/live/tony2/tony2/1983.ts
-#EXTINF:-1,TR: Kanal D
-http://185.2.83.209:8000/live/tony2/tony2/1993.ts
-#EXTINF:-1,TR: Kanal A
-http://185.2.83.209:8000/live/tony2/tony2/1994.ts
-#EXTINF:-1,TR: Kanal Urfa
-http://185.2.83.209:8000/live/tony2/tony2/1945.ts
-#EXTINF:-1,TR: Kanal Turk
-http://185.2.83.209:8000/live/tony2/tony2/1947.ts
-#EXTINF:-1,TR: Kanal 7
-http://185.2.83.209:8000/live/tony2/tony2/1961.ts
-#EXTINF:-1,TR: Kanal 7 Avrupa
-http://185.2.83.209:8000/live/tony2/tony2/1958.ts
-#EXTINF:-1,TR: ATV
-http://185.2.83.209:8000/live/tony2/tony2/1978.ts
-#EXTINF:-1,TR: ATV Avrupa
-http://185.2.83.209:8000/live/tony2/tony2/1957.ts
-#EXTINF:-1,TR: Show TV
-http://185.2.83.209:8000/live/tony2/tony2/1990.ts
-#EXTINF:-1,TR: Show Turk
-http://185.2.83.209:8000/live/tony2/tony2/1989.ts
-#EXTINF:-1,TR: Tarsusguneyt
-http://185.2.83.209:8000/live/tony2/tony2/2174.ts
-#EXTINF:-1,TR: SkyTurk 360
-http://185.2.83.209:8000/live/tony2/tony2/2172.ts
-#EXTINF:-1,TR: Breket TV
-http://185.2.83.209:8000/live/tony2/tony2/2173.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://185.2.83.209:8000/live/tony2/tony2/1986.ts
-#EXTINF:-1,TR: Power Turk
-http://185.2.83.209:8000/live/tony2/tony2/1946.ts
-#EXTINF:-1,TR: CNN TURK
-http://185.2.83.209:8000/live/tony2/tony2/1995.ts
-#EXTINF:-1,TR: TV 2
-http://185.2.83.209:8000/live/tony2/tony2/1960.ts
-#EXTINF:-1,TR: TV8
-http://185.2.83.209:8000/live/tony2/tony2/1980.ts
-#EXTINF:-1,TR: Star tv HD
-http://185.2.83.209:8000/live/tony2/tony2/1987.ts
-#EXTINF:-1,TR: Fox TV HD
-http://185.2.83.209:8000/live/tony2/tony2/1988.ts
-#EXTINF:-1,TR: Fox Crime tv
-http://185.2.83.209:8000/live/tony2/tony2/2011.ts
-#EXTINF:-1,TR: FX TV
-http://185.2.83.209:8000/live/tony2/tony2/2010.ts
-#EXTINF:-1,TR: Life Time
-http://185.2.83.209:8000/live/tony2/tony2/2009.ts
-#EXTINF:-1,TR: Euro D
-http://185.2.83.209:8000/live/tony2/tony2/1952.ts
-#EXTINF:-1,TR: EGE TV
-http://185.2.83.209:8000/live/tony2/tony2/2014.ts
-#EXTINF:-1,TR: TJK TV
-http://185.2.83.209:8000/live/tony2/tony2/2008.ts
-#EXTINF:-1,TR: Semerkant tv
-http://185.2.83.209:8000/live/tony2/tony2/2013.ts
-#EXTINF:-1,TR: National Geo Wild HD
-http://185.2.83.209:8000/live/tony2/tony2/1985.ts
-#EXTINF:-1,TR: National Geographic HD
-http://185.2.83.209:8000/live/tony2/tony2/1984.ts
-#EXTINF:-1,TR: National Geo People HD
-http://185.2.83.209:8000/live/tony2/tony2/2006.ts
-#EXTINF:-1,TR: Animal Planet HD
-http://185.2.83.209:8000/live/tony2/tony2/1955.ts
-#EXTINF:-1,TR: History Channle
-http://185.2.83.209:8000/live/tony2/tony2/2007.ts
-#EXTINF:-1,TR: Discovery Channle
-http://185.2.83.209:8000/live/tony2/tony2/2005.ts
-#EXTINF:-1,TR: Cartoon NetWork
-http://185.2.83.209:8000/live/tony2/tony2/1953.ts
-#EXTINF:-1,TR: Disney Channle
-http://185.2.83.209:8000/live/tony2/tony2/1992.ts
-#EXTINF:-1,TR: DA Vinci Learning
-http://185.2.83.209:8000/live/tony2/tony2/2012.ts
-#EXTINF:-1,TR: World Travel Channel
-http://185.2.83.209:8000/live/tony2/tony2/1956.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://185.2.83.209:8000/live/tony2/tony2/1951.ts
-#EXTINF:-1,TR: Istanbul 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/1991.ts
-#EXTINF:-1,TR: TV Kayseri
-http://185.2.83.209:8000/live/tony2/tony2/2004.ts
-#EXTINF:-1,TR: TGRT Haber
-http://185.2.83.209:8000/live/tony2/tony2/1949.ts
-#EXTINF:-1,TR: Teledunya Info
-http://185.2.83.209:8000/live/tony2/tony2/1962.ts
-#EXTINF:-1,TR: Minika Go
-http://185.2.83.209:8000/live/tony2/tony2/1963.ts
-#EXTINF:-1,TR: Dream Turk
-http://185.2.83.209:8000/live/tony2/tony2/1944.ts
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1554.ts
+#EXTINF:-1,TR: Tivibuspor 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6681.ts
+#EXTINF:-1,TR: Tivibuspor 4
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6682.ts
+#EXTINF:-1,TR | Movies TR 7
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6675.ts
+#EXTINF:-1,TR : SINEMA 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/524.ts
+#EXTINF:-1,TR_KANAL_7_HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3127.ts
+#EXTINF:-1,TR:  Bloomberg
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6697.ts
+#EXTINF:-1,TR:  BursaSpor
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6698.ts
+#EXTINF:-1,TR:  Discovery Turbo Xtra
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6759.ts
+#EXTINF:-1,TR:  Disney Junior
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6760.ts
+#EXTINF:-1,TR:  Disney XD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6761.ts
+#EXTINF:-1,TR:  Dizi TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6762.ts
+#EXTINF:-1,TR:  Ekin TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6763.ts
+#EXTINF:-1,TR: 24 TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5452.ts
+#EXTINF:-1,TR: 360
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3136.ts
+#EXTINF:-1,TR: A Haber
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6689.ts
+#EXTINF:-1,TR: A Spor
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6691.ts
 #EXTINF:-1,TR: A2
-http://185.2.83.209:8000/live/tony2/tony2/1950.ts
-#EXTINF:-1,TR: Bloomberg HT HD
-http://185.2.83.209:8000/live/tony2/tony2/2031.ts
-#EXTINF:-1,TR: TV 41
-http://185.2.83.209:8000/live/tony2/tony2/1954.ts
-#EXTINF:-1,TR: Kral TV
-http://185.2.83.209:8000/live/tony2/tony2/1966.ts
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6688.ts
+#EXTINF:-1,TR: Aksu TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5453.ts
+#EXTINF:-1,TR: Anadolu TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6690.ts
+#EXTINF:-1,TR: Animal Planet
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6692.ts
+#EXTINF:-1,TR: ATV Avrupa
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6693.ts
+#EXTINF:-1,TR: ATV HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1377.ts
+#EXTINF:-1,TR: BABY TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6694.ts
+#EXTINF:-1,TR: BBC Earth
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6695.ts
+#EXTINF:-1,TR: Belgesel
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6756.ts
+#EXTINF:-1,TR: BENGUTURK TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3545.ts
+#EXTINF:-1,TR: Beyaz TV (TR)
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1376.ts
+#EXTINF:-1,TR: BJK TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6696.ts
+#EXTINF:-1,TR: CARTOON NETWORK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3544.ts
+#EXTINF:-1,TR: CEM TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3547.ts
+#EXTINF:-1,TR: CNN TURK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3542.ts
+#EXTINF:-1,TR: Da Vinci Learning
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6758.ts
+#EXTINF:-1,TR: Discovery Channel
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6757.ts
+#EXTINF:-1,TR: Discovery Science
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5454.ts
+#EXTINF:-1,TR: DISNEY CHANNEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3543.ts
+#EXTINF:-1,TR: Dream Turk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5455.ts
+#EXTINF:-1,TR: Dream TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5456.ts
+#EXTINF:-1,TR: Ege TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5457.ts
+#EXTINF:-1,TR: Euronews
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6766.ts
+#EXTINF:-1,TR: Eurosport 1[
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6767.ts
+#EXTINF:-1,TR: Eurosport 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6768.ts
+#EXTINF:-1,TR: FB TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6764.ts
+#EXTINF:-1,TR: FIL_TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3130.ts
+#EXTINF:-1,TR: Filmbox Arthouse
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6765.ts
+#EXTINF:-1,TR: FLASH TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3128.ts
+#EXTINF:-1,TR: FOX Crime
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6769.ts
+#EXTINF:-1,TR: FOX Life
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6770.ts
+#EXTINF:-1,TR: Fox TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1369.ts
+#EXTINF:-1,TR: FX TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6771.ts
+#EXTINF:-1,TR: GS TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6772.ts
+#EXTINF:-1,TR: Haber
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6803.ts
+#EXTINF:-1,TR: HALK TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3546.ts
+#EXTINF:-1,TR: History Channel
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6773.ts
+#EXTINF:-1,TR: Kanal 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6774.ts
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6775.ts
+#EXTINF:-1,TR: KANAL 7 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1584.ts
+#EXTINF:-1,TR: KANAL A
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1577.ts
+#EXTINF:-1,TR: KANAL AVRUPA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1582.ts
+#EXTINF:-1,TR: KANAL D HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/704.ts
 #EXTINF:-1,TR: Kral Pop
-http://185.2.83.209:8000/live/tony2/tony2/1972.ts
-#EXTINF:-1,TR: Hilal TV
-http://185.2.83.209:8000/live/tony2/tony2/1973.ts
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6777.ts
+#EXTINF:-1,TR: Kral TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6776.ts
+#EXTINF:-1,TR: KRAL_POP
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3134.ts
+#EXTINF:-1,TR: LIG TV 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1104.ts
+#EXTINF:-1,TR: LIG TV 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1105.ts
+#EXTINF:-1,TR: LIG TV 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1228.ts
+#EXTINF:-1,TR: LIG TV 4.
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1575.ts
+#EXTINF:-1,TR: LOCA1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1541.ts
+#EXTINF:-1,TR: LOCA2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1540.ts
+#EXTINF:-1,TR: LOCA3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1539.ts
+#EXTINF:-1,TR: Minika Cocuk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6779.ts
+#EXTINF:-1,TR: Minika Go
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6778.ts
+#EXTINF:-1,TR: Movie smart Gold HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1567.ts
+#EXTINF:-1,TR: Movie TURK HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1569.ts
+#EXTINF:-1,TR: Moviemax Premier
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1565.ts
+#EXTINF:-1,TR: MOViEMAX_FESTIFAL_HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1553.ts
+#EXTINF:-1,TR: MOVIEMAXOSCAR
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1846.ts
+#EXTINF:-1,TR: Moviesmart Action
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6780.ts
+#EXTINF:-1,TR: Moviesmart Classic
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6781.ts
+#EXTINF:-1,TR: Moviesmart Family
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2913.ts
+#EXTINF:-1,TR: Moviesmart Fest
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6782.ts
+#EXTINF:-1,TR: Moviesmart Platin
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6783.ts
+#EXTINF:-1,TR: Moviesmart Premium 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6784.ts
+#EXTINF:-1,TR: MOViESMART_PREMIUM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1552.ts
+#EXTINF:-1,TR: Nat Geo Wild
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6786.ts
+#EXTINF:-1,TR: National Geographic
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6785.ts
+#EXTINF:-1,TR: Nick Jr.
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6788.ts
+#EXTINF:-1,TR: Nickelodeon
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6787.ts
+#EXTINF:-1,TR: NTV HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3541.ts
+#EXTINF:-1,TR: NTV Spor
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/707.ts
+#EXTINF:-1,TR: NUMBER ONE
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3137.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6789.ts
+#EXTINF:-1,TR: Planet Pembe
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6790.ts
+#EXTINF:-1,TR: Planet Turk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6806.ts
+#EXTINF:-1,TR: POWER TURK HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1571.ts
+#EXTINF:-1,TR: Power TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6791.ts
+#EXTINF:-1,TR: SALON1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1230.ts
+#EXTINF:-1,TR: SALON2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1231.ts
+#EXTINF:-1,TR: SALON3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1137.ts
+#EXTINF:-1,TR: Semerkand
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6792.ts
+#EXTINF:-1,TR: Show TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6794.ts
+#EXTINF:-1,TR: Show TV HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1381.ts
+#EXTINF:-1,TR: Showmax
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6793.ts
+#EXTINF:-1,TR: Sinema
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6795.ts
+#EXTINF:-1,TR: Sinema 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6796.ts
+#EXTINF:-1,TR: Sinema 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6797.ts
+#EXTINF:-1,TR: Sinema 4
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6798.ts
+#EXTINF:-1,TR: Sinema 5
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3895.ts
+#EXTINF:-1,TR: Sinema Aile
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6811.ts
+#EXTINF:-1,TR: CINE KING
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7664.ts
+#EXTINF:-1,TR: CINEBOX 7
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7656.ts
+#EXTINF:-1,TR: CINESTAR AILE
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7655.ts
+#EXTINF:-1,TR: CINESTAR GERILIM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7654.ts
+#EXTINF:-1,TR: CINESTAR KOMEDI
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7653.ts
+#EXTINF:-1,TR: CINESTAR KORKU
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7652.ts
+#EXTINF:-1,TR: CINESTAR TÜRK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7650.ts
+#EXTINF:-1,TR: CINESTAR VIZYON 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7649.ts
+#EXTINF:-1,TR: CINESTAR VIZYON 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7648.ts
+#EXTINF:-1,TR: CINESTAR VIZYON 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7647.ts
+#EXTINF:-1,TR: CINESTAR YESILCAM 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7651.ts
+#EXTINF:-1,TR: Sinema Aksiyon
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6799.ts
+#EXTINF:-1,TR: Sinema TV 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1380.ts
+#EXTINF:-1,TR: Sinema TV 1001
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6810.ts
+#EXTINF:-1,TR: SineMAX_Erotic_HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2033.ts
+#EXTINF:-1,TR: Sky Turk 360
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6809.ts
+#EXTINF:-1,TR: SMART SPOR 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5447.ts
+#EXTINF:-1,TR: SMART SPOR 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5448.ts
+#EXTINF:-1,TR: Sports TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6808.ts
+#EXTINF:-1,TR: STAR TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/703.ts
+#EXTINF:-1,TR: Star TV Euro
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6807.ts
+#EXTINF:-1,TR: TAY_TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3135.ts
+#EXTINF:-1,TR: Teve 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6805.ts
+#EXTINF:-1,TR: TGRT EU
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6804.ts
+#EXTINF:-1,TR: Trek
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6802.ts
+#EXTINF:-1,TR: TRT Arapca
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6801.ts
+#EXTINF:-1,TR: TRT Avaz
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6800.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1368.ts
+#EXTINF:-1,TR: TRT HABER HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1167.ts
+#EXTINF:-1,TR: TRT Turk
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1366.ts
+#EXTINF:-1,TR: TRT_1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1138.ts
+#EXTINF:-1,TR: TRT_BELGESEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3126.ts
+#EXTINF:-1,TR: TRT_OKUL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3125.ts
+#EXTINF:-1,TR: TRT_SPOR
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3124.ts
+#EXTINF:-1,TR: TV 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3132.ts
+#EXTINF:-1,TR: TV Net
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6686.ts
+#EXTINF:-1,TR: TV_8_HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3129.ts
+#EXTINF:-1,TR: TV8-5
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6687.ts
+#EXTINF:-1,TR: Ulke TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5459.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5458.ts
+#EXTINF:-1,TR: Vatan TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6685.ts
+#EXTINF:-1,TR: Viasat Nature
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6684.ts
+#EXTINF:-1,TR: YABAN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1757.ts
+#EXTINF:-1,TR: Yasin
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6683.ts
+#EXTINF:-1,TR:KANALTURK
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1561.ts
+#EXTINF:-1,TR:Moviemax_Family
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1780.ts
+#EXTINF:-1,TR:Moviemax_Festival
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1779.ts
+#EXTINF:-1,TR:Moviemax_Premiere
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1778.ts
+#EXTINF:-1,TR:Moviemax_Stars
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1777.ts
+#EXTINF:-1,TR:TRT HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/525.ts
+#EXTINF:-1,TR:TVEM
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1555.ts
+#EXTINF:-1,TR: FILMBOX HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6816.ts

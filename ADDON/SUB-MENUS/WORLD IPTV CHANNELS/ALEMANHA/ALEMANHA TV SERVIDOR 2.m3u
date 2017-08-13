@@ -1,288 +1,326 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 02-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,DE: DAS ERSTE HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2406.ts
+#EXTINF:-1,DE: ZDF HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1869.ts
+#EXTINF:-1,DE: ARD HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2409.ts
+#EXTINF:-1,DE: HR HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4204.ts
+#EXTINF:-1,DE: NDR HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2397.ts
+#EXTINF:-1,DE: WDR HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2393.ts
+#EXTINF:-1,DE: ARTE
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2408.ts
+#EXTINF:-1,DE: SWR HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2783.ts
+#EXTINF:-1,De: Baden TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4203.ts
+#EXTINF:-1,DE: TECTIME TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4205.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2788.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4091.ts
+#EXTINF:-1,DE: RTL HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2379.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1865.ts
+#EXTINF:-1,DE: Rtl Nitro
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2378.ts
+#EXTINF:-1,DE: RTL Crime
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3488.ts
+#EXTINF:-1,DE: SUPER RTL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1867.ts
+#EXTINF:-1,DE: RTL LIVING HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2774.ts
+#EXTINF:-1,DE: RTL_PASSION
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2777.ts
+#EXTINF:-1,DE: PRO MAX 7
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1866.ts
+#EXTINF:-1,DE: Kinowelt
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3923.ts
+#EXTINF:-1,DE: SIXX HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2380.ts
+#EXTINF:-1,DE: SAT 3 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2775.ts
+#EXTINF:-1,DE: KIKA HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2400.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2396.ts
+#EXTINF:-1,DE: SONY HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2820.ts
+#EXTINF:-1,DE: KABEL 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2402.ts
+#EXTINF:-1,DE: ProSieben Max
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2390.ts
+#EXTINF:-1,DE: RIC KINDER KANAL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2394.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2395.ts
+#EXTINF:-1,DE: VOX HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1874.ts
+#EXTINF:-1,DE: N24 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2398.ts
+#EXTINF:-1,DE: KIKA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2391.ts
+#EXTINF:-1,DE: Austria 24
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4208.ts
+#EXTINF:-1,DE: PROSIEBEN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4207.ts
+#EXTINF:-1,DE: Sky Germany Cinema  1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/984.ts
+#EXTINF:-1,DE: Sky Germany Cinema  24
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/982.ts
+#EXTINF:-1,DE: Sky Germany Action
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/986.ts
+#EXTINF:-1,DE: Sky Germany Atlantic
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/985.ts
+#EXTINF:-1,DE: Sky Germany Comedy HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/980.ts
+#EXTINF:-1,DE: Sky Germany Comedy
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/981.ts
+#EXTINF:-1,DE: Sky Gemany Cinema
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/988.ts
+#EXTINF:-1,DE: SKY EMOTION HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2819.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3489.ts
+#EXTINF:-1,DE:Sky Nostalgie
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3915.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2389.ts
+#EXTINF:-1,DE: SYFY HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2782.ts
+#EXTINF:-1,DE:MGM HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2000.ts
+#EXTINF:-1,DE: JUNIOR
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4209.ts
+#EXTINF:-1,DE: DISNEY XD HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4210.ts
+#EXTINF:-1,DE: NICKLODEON HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2776.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1998.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2405.ts
+#EXTINF:-1,DE: Sky Disney Cinemagic HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2392.ts
+#EXTINF:-1,DE: TNT_SERIE HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2780.ts
+#EXTINF:-1,DE: TNT_FILM HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2781.ts
+#EXTINF:-1,DE: FOX HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1048.ts
+#EXTINF:-1,DE: SKY AXN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3922.ts
+#EXTINF:-1,DE: Classica HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2829.ts
+#EXTINF:-1,DE: Sky Germany 13 Street HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/987.ts
+#EXTINF:-1,DE: ROMANCE TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4211.ts
+#EXTINF:-1,DE: DMAX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2387.ts
+#EXTINF:-1,DE: A$E TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2410.ts
+#EXTINF:-1,DE: Discovery HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1999.ts
+#EXTINF:-1,DE: Welt der Wunder
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3925.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3926.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4214.ts
+#EXTINF:-1,DE: ANIMAL PLANET HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4216.ts
+#EXTINF:-1,DE: National Geograph HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2787.ts
+#EXTINF:-1,DE: HISTORY CHANNEL HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2786.ts
+#EXTINF:-1,DE: WELT DER WUNDER TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4217.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHICS PEOPLE HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4215.ts
+#EXTINF:-1,DE: Donau TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6610.ts
+#EXTINF:-1,DE: Filstalwelle
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6612.ts
+#EXTINF:-1,DE: Goldstar TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6611.ts
+#EXTINF:-1,DE: Muenchen TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6613.ts
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1873.ts
+#EXTINF:-1,DE:Sky Bundesliga 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2386.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2411.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2418.ts
+#EXTINF:-1,DE: Sky Sports News HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2823.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/976.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/975.ts
+#EXTINF:-1,DE: Sport digital HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2821.ts
+#EXTINF:-1,DE: SPORT 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2822.ts
+#EXTINF:-1,DE: SKY SPORT Austria
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4093.ts
+#EXTINF:-1,DE: EUROSPORT 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2382.ts
+#EXTINF:-1,DE: EURONEWS
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2785.ts
+#EXTINF:-1,DE: SRF HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5643.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5640.ts
+#EXTINF:-1,DE: Sport 1 Plus  HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5639.ts
+#EXTINF:-1,DE:Vip Sky Select 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5653.ts
+#EXTINF:-1,DE:Vip Sky Select 2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5651.ts
+#EXTINF:-1,DE:Vip Sky Select 3
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5650.ts
+#EXTINF:-1,DE:Vip Sky Select 4
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5649.ts
+#EXTINF:-1,DE:Vip Sky Select 5
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5648.ts
+#EXTINF:-1,DE:Vip Sky Select 6
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5647.ts
+#EXTINF:-1,DE:Vip Sky Select 7
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5646.ts
+#EXTINF:-1,DE:Vip Sky Select 8
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5645.ts
+#EXTINF:-1,DE:Vip Sky Select 9
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5644.ts
+#EXTINF:-1,DE:Vip Sky Select 10
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5652.ts
+#EXTINF:-1,DE: Sky Select HD 1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/978.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/979.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1133.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1134.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1135.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1136.ts
 
+#EXTINF:-1,DE: ORF 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1262.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1263.ts
+#EXTINF:-1,DE: SRF_1
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2778.ts
+#EXTINF:-1,DE: SRF_2
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2779.ts
 
+#EXTINF:-1,DE:MTV Hits
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3928.ts
+#EXTINF:-1,DE:MTV HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3929.ts
+#EXTINF:-1,DE: VIVA
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4092.ts
 
+#EXTINF:-1,DE: AXN HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6655.ts
+#EXTINF:-1,DE: Boomerang
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6653.ts
+#EXTINF:-1,DE: BR
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6656.ts
+#EXTINF:-1,DE: Cartoon Network
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6654.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6652.ts
+#EXTINF:-1,DE: DW TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6651.ts
+#EXTINF:-1,DE: E Entertainm HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6650.ts
+#EXTINF:-1,DE: Anixe
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6667.ts
+#EXTINF:-1,DE: Sky 3D
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6663.ts
+#EXTINF:-1,DE: Westerwald TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/7273.ts
+#EXTINF:-1,DE: Sky Silverline
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6664.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6648.ts
+#EXTINF:-1,DE: FAMILY TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6649.ts
+#EXTINF:-1,DE: HEIMATKANAL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6647.ts
+#EXTINF:-1,DE: JUKEBOX
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6646.ts
+#EXTINF:-1,DE: Nick/Comedy Central
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6644.ts
+#EXTINF:-1,DE: ARD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1868.ts
+#EXTINF:-1,DE: SERVUS TV
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3673.ts
+#EXTINF:-1,DE: Phoenix
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3924.ts
+#EXTINF:-1,DE: Eins Plus
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/3919.ts
+#EXTINF:-1,DE: LIGT CHANNEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2399.ts
+#EXTINF:-1,DE: SKY 1 HD
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6657.ts
+#EXTINF:-1,DE: TELE BAERN
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2425.ts
+#EXTINF:-1,DE: TELE BASEL
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2424.ts
 
-#EXTINF:-1,DE:TNT_SERIE_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10180.ts
-#EXTINF:-1,DE:Tagesschau24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10279.ts
-#EXTINF:-1,DE:SPORT1_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10177.ts
-#EXTINF:-1,DE:Sky_sport_NEWS
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11430.ts
-#EXTINF:-1,DE:Sky_select_7
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11437.ts
-#EXTINF:-1,DE:Sky_select_6
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11433.ts
-#EXTINF:-1,DE:Sky_select_5
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11438.ts
-#EXTINF:-1,DE:Sky_select_4
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11434.ts
-#EXTINF:-1,DE:Sky_select_3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11435.ts
-#EXTINF:-1,DE:Sky_Cinema_24_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11532.ts
-#EXTINF:-1,DE:Eurosport1_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11538.ts
-#EXTINF:-1,DE:Cartoon_Network
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11537.ts
-#EXTINF:-1,DE:BOOMERANG_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11533.ts
-#EXTINF:-1,DE:Sky_select_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11436.ts
-#EXTINF:-1,DE:Sky_cinema+1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10000.ts
-#EXTINF:-1,DE:Servus_Tv
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10176.ts
-#EXTINF:-1,DE:RTL7_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11431.ts
-#EXTINF:-1,DE:RTL5_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11429.ts
-#EXTINF:-1,DE:RTE_ONE
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6891.ts
-#EXTINF:-1,DE:RHEIN_MAIN_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10255.ts
-#EXTINF:-1,DE:RheinMain_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10254.ts
-#EXTINF:-1,DE:ORF_SPORT
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10281.ts
-#EXTINF:-1,DE:NDR_SCLESWIG_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10256.ts
-#EXTINF:-1,DE:NDR_SCLESWIG
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10257.ts
-#EXTINF:-1,DE:NDR_MECK_VORP
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10258.ts
-#EXTINF:-1,DE:NDR_HAMBURG_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10259.ts
-#EXTINF:-1,DE:Light_Channel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10262.ts
-#EXTINF:-1,DE:ITV_2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6884.ts
-#EXTINF:-1,DE:HSE24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10263.ts
-#EXTINF:-1,DE:Dresden_Fernsehen
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10264.ts
-#EXTINF:-1,DE:DRESDEN_FEMSEHEN
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10265.ts
-#EXTINF:-1,DE:Deutsches_Anlegerfernsehen
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10266.ts
-#EXTINF:-1,DE:DEUTSCHES_ANLEG
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10267.ts
-#EXTINF:-1,DE:NDR_HAMBRG
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10260.ts
-#EXTINF:-1,DE:Light_Channel_TV_Deutschland
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10261.ts
-#EXTINF:-1,DE:Deluxe_Music
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10179.ts
-#EXTINF:-1,DE:DAF
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10268.ts
-#EXTINF:-1,DE:BBC_3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6887.ts
-#EXTINF:-1,DE:BADEN_TV2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10269.ts
-#EXTINF:-1,DE:BADEN_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10270.ts
-#EXTINF:-1,DE:AVUSTURYA_24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10271.ts
-#EXTINF:-1,DE:AUSTRIA_24_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10272.ts
-#EXTINF:-1,DE:AUSTRIA_24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10273.ts
-#EXTINF:-1,DE:ANLEGERFERNSEHEN
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10274.ts
-#EXTINF:-1,DE:Alex_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10276.ts
-#EXTINF:-1,DE:ALEX-BERLIN
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10275.ts
-#EXTINF:-1,DE:24_GE_AUS
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10277.ts
-#EXTINF:-1,DE:Sky_bundisliga_2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11439.ts
-#EXTINF:-1,DE:Sky:Select_9_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10178.ts
-#EXTINF:-1,DE:SKY_CINEMA
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9666.ts
-#EXTINF:-1,DE:Sky_Cinema_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9155.ts
-#EXTINF:-1,DE:Sky_KRIMI
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9154.ts
-#EXTINF:-1,DE:Sky_Action
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8441.ts
-#EXTINF:-1,DE:Sky_Nostalgie
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9152.ts
-#EXTINF:-1,DE:SKY_ATLANTIC
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8435.ts
-#EXTINF:-1,DE:SKY_COMEDY
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8432.ts
-#EXTINF:-1,DE:SKY_EMOTION
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8431.ts
-#EXTINF:-1,DE:SKY_SPORT_1_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9622.ts
-#EXTINF:-1,DE:SKY_DISCOVERY
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9624.ts
-#EXTINF:-1,DE:RTLHD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9626.ts
-#EXTINF:-1,DE:ROMANCETV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9620.ts
-#EXTINF:-1,DE:EURONEWS1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9472.ts
-#EXTINF:-1,DE:WDR_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9469.ts
-#EXTINF:-1,DE:SKY_NATIONAL_GEO
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9623.ts
-#EXTINF:-1,DE:RTL_102.5
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9475.ts
-#EXTINF:-1,DE:DISNEY_CHANNEL
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9767.ts
-#EXTINF:-1,DE:AXN_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9766.ts
-#EXTINF:-1,DE:SUPER_RTL
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9664.ts
-#EXTINF:-1,DE:TNT_Film
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9333.ts
-#EXTINF:-1,DE:Sky_Select_HD8
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8616.ts
-#EXTINF:-1,DE:Sixx
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9357.ts
-#EXTINF:-1,DE:RTL_NITRO
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9353.ts
-#EXTINF:-1,DE:National_Geographic
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9356.ts
-#EXTINF:-1,DE:kabel_1HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9358.ts
-#EXTINF:-1,DE:Family_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9363.ts
-#EXTINF:-1,DE:Disney_Cinemagic_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9365.ts
-#EXTINF:-1,DE:ZDF_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8630.ts
-#EXTINF:-1,DE:ZDF_KULTUR
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10162.ts
-#EXTINF:-1,DE:ZDF_INFO
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10163.ts
-#EXTINF:-1,DE:WDR_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10164.ts
-#EXTINF:-1,DE:SWR
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10165.ts
-#EXTINF:-1,DE:SRF1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10166.ts
-#EXTINF:-1,DE:Sky_Sport_5
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10124.ts
-#EXTINF:-1,DE:nat_geo_people
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10146.ts
-#EXTINF:-1,DE:Spiegel_Geschichte
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9164.ts
-#EXTINF:-1,DE:Sky_Sport_Austria
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8631.ts
-#EXTINF:-1,DE:Sky_Sport_3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9174.ts
-#EXTINF:-1,DE:Sky_Sport_2HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9149.ts
-#EXTINF:-1,DE:Sky_Select_6_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9377.ts
-#EXTINF:-1,DE:Sky_Select_5_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9376.ts
-#EXTINF:-1,DE:Sky_Select_4_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9375.ts
-#EXTINF:-1,DE:Sky_Select_3_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9374.ts
-#EXTINF:-1,DE:Sky_Select_2_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9373.ts
-#EXTINF:-1,DE:Sky_Select_1_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9372.ts
-#EXTINF:-1,DE:Sky_BundesLiga_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9150.ts
-#EXTINF:-1,DE:Sky_Bundesliga_2_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9176.ts
-#EXTINF:-1,DE:Sky_Bundesliga_1_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9175.ts
-#EXTINF:-1,DE:Sky_Bundesliga-4
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9178.ts
-#EXTINF:-1,DE:Sky_Bundesliga3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9177.ts
-#EXTINF:-1,DE:Sat_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8632.ts
-#EXTINF:-1,DE:RTL_Passion
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9157.ts
-#EXTINF:-1,DE:RTL_Crime
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9158.ts
-#EXTINF:-1,DE:Pro_7_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8635.ts
-#EXTINF:-1,DE:ORF_1HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8636.ts
-#EXTINF:-1,DE:Nat_Geo_Wild
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9159.ts
-#EXTINF:-1,DE:MGM
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9161.ts
-#EXTINF:-1,DE:Kika_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8626.ts
-#EXTINF:-1,DE:Junior
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9162.ts
-#EXTINF:-1,DE:Jukebox
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9165.ts
-#EXTINF:-1,DE:Fox_Serie
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9167.ts
-#EXTINF:-1,DE:Disney_xd
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8627.ts
-#EXTINF:-1,DE:Discovery_Channel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9169.ts
-#EXTINF:-1,DE:Classica
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8628.ts
-#EXTINF:-1,DE:Beate-Uhse_Tv
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9170.ts
-#EXTINF:-1,DE:3SAT_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8640.ts
-#EXTINF:-1,DE:SKY_SPORT_NEWS
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6896.ts
-#EXTINF:-1,DE:VOX_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8405.ts
-#EXTINF:-1,DE:SPORT_TIME_TV_2HQ_GERMANY
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8445.ts
-#EXTINF:-1,DE:SPORT_TIME_TV_1HQ_GERMANY
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8446.ts
-#EXTINF:-1,DE:Spiegel_TV_Wissen
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8406.ts
-#EXTINF:-1,DE:Syfy
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8407.ts
-#EXTINF:-1,DE:Sky_Select_HD7
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8410.ts
-#EXTINF:-1,DE:SKY_HITS
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8419.ts
-#EXTINF:-1,DE:SKY_Germany_Planet_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8420.ts
-#EXTINF:-1,DE:Sky_Germany_History_Channel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8425.ts
-#EXTINF:-1,DE:13th_Street
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8430.ts
-#EXTINF:-1,DE:RTL_2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8436.ts
-#EXTINF:-1,DE:ORF_2_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8437.ts
-#EXTINF:-1,DE:NDR_SH_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8448.ts
-#EXTINF:-1,DE:N24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8450.ts
-#EXTINF:-1,DE:FOX_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8442.ts
-#EXTINF:-1,DE:EURONEWS
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8452.ts
-#EXTINF:-1,DE:DMAX_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8443.ts
-#EXTINF:-1,DE:ARTE
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8453.ts
-#EXTINF:-1,DE:ARD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8454.ts
-#EXTINF:-1,DE:ANIXE_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/8455.ts
-
-
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6634.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6633.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6632.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6631.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6630.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6629.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6628.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6627.ts
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6626.ts
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6643.ts
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6642.ts
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6641.ts
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6640.ts
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6639.ts
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6638.ts
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6637.ts
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6636.ts
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/6635.ts
 
 
 
