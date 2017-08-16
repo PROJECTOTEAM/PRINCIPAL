@@ -3,781 +3,535 @@
 #EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 12-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-#EXTM3U
-#EXTINF:-1,5STAR
-http://46.249.60.210:15099/play/a01q
-#EXTINF:-1,Film4 +1
-http://46.249.60.210:15099/play/a005
-#EXTINF:-1,Channel 5
-http://46.249.60.210:15099/play/a01n
-#EXTINF:-1,e4
-http://46.249.60.210:15099/play/a00h
-#EXTINF:-1,ITV
-http://46.249.60.210:15099/play/a00j
-#EXTINF:-1,ITVi Stream 44
-http://46.249.60.210:15099/play/a00n
-#EXTINF:-1,c4 l
-http://46.249.60.210:15099/play/a008
-#EXTINF:-1,4Music
-http://46.249.60.210:15099/play/a007
-#EXTINF:-1,ITV2
-http://46.249.60.210:15099/play/a00o
-#EXTINF:-1,ITV4+1
-http://46.249.60.210:15099/play/a00r
-#EXTINF:-1,E4+1
-http://46.249.60.210:15099/play/a00a
-#EXTINF:-1,Channel 4
-http://46.249.60.210:15099/play/a002
-#EXTINF:-1,More4 +1
-http://46.249.60.210:15099/play/a006
-#EXTINF:-1,5 USA
-http://46.249.60.210:15099/play/a01o
-#EXTINF:-1,Channel 5+1
-http://46.249.60.210:15099/play/a01t
-#EXTINF:-1,More4
-http://46.249.60.210:15099/play/a00f
-#EXTINF:-1,ITV2+1
-http://46.249.60.210:15099/play/a01j
-#EXTINF:-1,BBC One Lon
-http://46.249.60.210:15099/play/a00w
-#EXTINF:-1,Channel 4 +1
-http://46.249.60.210:15099/play/a00c
-#EXTINF:-1,ITV Border
-http://46.249.60.210:15099/play/a01d
-#EXTINF:-1,ETV1
-http://46.249.60.210:15099/play/a017
-#EXTINF:-1,Spike
-http://46.249.60.210:15099/play/a01u
-#EXTINF:-1,JUS Punjabi
-http://46.249.60.210:15099/play/a00y
-#EXTINF:-1,Film4
-http://46.249.60.210:15099/play/a004
-#EXTINF:-1,ITV4
-http://46.249.60.210:15099/play/a00p
-#EXTINF:-1,&TV
-http://46.249.60.210:15099/play/a00k
-#EXTINF:-1,5 USA +1
-http://46.249.60.210:15099/play/a01p
-#EXTINF:-1,ITV +1
-http://46.249.60.210:15099/play/a00l
-#EXTINF:-1,BBC Two Eng
-http://46.249.60.210:15099/play/a00x
-#EXTINF:-1,ITVBe
-http://46.249.60.210:15099/play/a00u
-#EXTINF:-1,5STAR +1
-http://46.249.60.210:15099/play/a01s
-#EXTINF:-1,My5
-http://46.249.60.210:15099/play/a01r
-#EXTINF:-1,BBC RB1
-http://46.249.60.210:15099/play/a013
-#EXTINF:-1,ITVBe+1
-http://46.249.60.210:15099/play/a01c
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK:  BT Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2505.ts
-#EXTINF:-1,UK: Eurosport 1 UK
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2528.ts
-#EXTINF:-1,UK:  Eurosport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2527.ts
-#EXTINF:-1,UK:  True.Movie.1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2510.ts
-#EXTINF:-1,UK: _Animal.Planet.UK
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2533.ts
-#EXTINF:-1,UK: Discovery Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2532.ts
-#EXTINF:-1,UK: Sky.Movies.Action.&.Adventure
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2523.ts
-#EXTINF:-1,UK: _Sky.Movies.Family.UK
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2521.ts
-#EXTINF:-1,UK: Sky Movies Modern HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2520.ts
-#EXTINF:-1,UK: _Sky.Movies.Sci-Fi.&.Horror
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2518.ts
-#EXTINF:-1,UK: True_Movies_2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2511.ts
-#EXTINF:-1,UK: Alibi
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/519.ts
-#EXTINF:-1,UK: Baby TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/522.ts
-#EXTINF:-1,UK: BBC Four
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/491.ts
-#EXTINF:-1,UK: BBC One
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/488.ts
-#EXTINF:-1,UK: BBC Three
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2671.ts
-#EXTINF:-1,UK: BBC Two
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/489.ts
-#EXTINF:-1,UK: Boomerang HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/521.ts
-#EXTINF:-1,UK: Cartoon Network
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/520.ts
-#EXTINF:-1,UK: CBS Action
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/518.ts
-#EXTINF:-1,UK: CBS Reality
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/517.ts
-#EXTINF:-1,UK: Comedy Central
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/516.ts
-#EXTINF:-1,UK: Discovery
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/515.ts
-#EXTINF:-1,UK: Discovery History
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/514.ts
-#EXTINF:-1,UK: Discovery Science
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/512.ts
-#EXTINF:-1,UK: Disney Channel
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/511.ts
-#EXTINF:-1,UK: Disney XD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/510.ts
-#EXTINF:-1,UK: ITV 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/492.ts
-#EXTINF:-1,UK: ITV 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/493.ts
-#EXTINF:-1,UK: ITV 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/494.ts
-#EXTINF:-1,UK: ITV 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/495.ts
-#EXTINF:-1,UK: ITV BE
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/496.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/509.ts
-#EXTINF:-1,UK: Nick JR
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/508.ts
-#EXTINF:-1,UK: RTE 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/497.ts
-#EXTINF:-1,UK: RTE 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/498.ts
-#EXTINF:-1,UK: Sky Action
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/506.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/505.ts
-#EXTINF:-1,UK: Sky Comedy
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/504.ts
-#EXTINF:-1,UK: Sky Living
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/502.ts
-#EXTINF:-1,UK: SKY SPORT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2494.ts
-#EXTINF:-1,UK: SKY SPORT 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2495.ts
-#EXTINF:-1,UK: SKY SPORT 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2496.ts
-#EXTINF:-1,UK: SKY SPORT 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2497.ts
-#EXTINF:-1,UK: Sky Thriller
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/501.ts
-#EXTINF:-1,UK: True Movies
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/499.ts
-#EXTINF:-1,UK: VH1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/507.ts
-#EXTINF:-1,US:  ABC HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1123.ts
-#EXTINF:-1,US:  ABC Spark
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1122.ts
-#EXTINF:-1,US: AMC HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1120.ts
-#EXTINF:-1,US: Bravo HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1114.ts
-#EXTINF:-1,US: CBN News
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1113.ts
-#EXTINF:-1,US:  CBS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1095.ts
-#EXTINF:-1,US:  Cinemax East
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1111.ts
-#EXTINF:-1,US: CW HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1094.ts
-#EXTINF:-1,US:  DISCCOVERY
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1134.ts
-#EXTINF:-1,US:  ESPN 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1118.ts
-#EXTINF:-1,US:  ESPN HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1136.ts
-#EXTINF:-1,US: Fox Sport 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1138.ts
-#EXTINF:-1,US:  Fox Sport 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1139.ts
-#EXTINF:-1,US:  FX HD USA
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1098.ts
-#EXTINF:-1,US:  HBO Zone HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1108.ts
-#EXTINF:-1,US: HISTORY
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1133.ts
-#EXTINF:-1,US: LIFETIME HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1117.ts
-#EXTINF:-1,US: NAT GEOGRAPHIC
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1135.ts
-#EXTINF:-1,US:  NBA Network
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1116.ts
-#EXTINF:-1,US:  NBC SPORT
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1137.ts
-#EXTINF:-1,US: Network HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1132.ts
-#EXTINF:-1,US:  NFL Network
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1107.ts
-#EXTINF:-1,US:  PBS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1096.ts
-#EXTINF:-1,US: SPIKE HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1131.ts
-#EXTINF:-1,US:  SYFY HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1130.ts
-#EXTINF:-1,US:  TBS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1129.ts
-#EXTINF:-1,US: TNT HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1128.ts
-#EXTINF:-1,US:  TSN 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1097.ts
-#EXTINF:-1,US:  TSN 2
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1124.ts
-#EXTINF:-1,US:  TSN 3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1125.ts
-#EXTINF:-1,US: TSN 4
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1126.ts
-#EXTINF:-1,US:  TSN 5
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1127.ts
-#EXTINF:-1,US:  WILLOW CRICKET HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/1102.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: My Fight Box HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7957.ts
-#EXTINF:-1,US: EPIX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5874.ts
-#EXTINF:-1,US: EPIX2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5875.ts
-#EXTINF:-1,US: EPIX 3 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3671.ts
-#EXTINF:-1,US: Cinemax HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1394.ts
-#EXTINF:-1,US: Cinemax Moremax HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5870.ts
-#EXTINF:-1,US: Cinemax Thrillermax HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3679.ts
-#EXTINF:-1,US: Showtime HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3670.ts
-#EXTINF:-1,US: Showtime 720
-http://nitrotv.for-the.biz:25461/live/sherman/123456/8186.ts
-#EXTINF:-1,US: Showtime 2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5883.ts
-#EXTINF:-1,US: Showtime Family Zone HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5884.ts
-#EXTINF:-1,US: HBO HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1464.ts
-#EXTINF:-1,US: HBO 720
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7821.ts
-#EXTINF:-1,US: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2444.ts
-#EXTINF:-1,US: HBO Zone HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1412.ts
-#EXTINF:-1,US: HBO Comedy HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5879.ts
-#EXTINF:-1,US: HBO 2 Comedy
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2437.ts
-#EXTINF:-1,US: HBO Signature HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5880.ts
-#EXTINF:-1,US: HBO Family HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1411.ts
-#EXTINF:-1,CA: HBO HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1261.ts
-#EXTINF:-1,CA: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1260.ts
-#EXTINF:-1,US: Starz HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1434.ts
-#EXTINF:-1,US: Starz Edge HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1433.ts
-#EXTINF:-1,US: Sony Movie Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1415.ts
-#EXTINF:-1,US: Chiller HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3664.ts
-#EXTINF:-1,US: MGM HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1393.ts
-#EXTINF:-1,US: Impact HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2443.ts
-#EXTINF:-1,UK: Sky Hits HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1354.ts
-#EXTINF:-1,UK: SKY MOVIES SELECT
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1357.ts
-#EXTINF:-1,UK: Sky Movies Thriller
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1358.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1348.ts
-#EXTINF:-1,UK: Sky Comedy HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1349.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIERE
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1355.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3393.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1352.ts
-#EXTINF:-1,UK: Sky Movies Greats
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1353.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1350.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1351.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3142.ts
-#EXTINF:-1,UK: SKY MOVIES COMEDY
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3391.ts
-#EXTINF:-1,UK: Sky Movies Premier Plus
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3407.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1356.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/6852.ts
-#EXTINF:-1,CA: Slice HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1268.ts
-#EXTINF:-1,CA: PBS Kids
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1286.ts
-#EXTINF:-1,CA: Animal Planet HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1267.ts
-#EXTINF:-1,CA: NBC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1265.ts
-#EXTINF:-1,CA: ME TV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1263.ts
-#EXTINF:-1,CA: Golf Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3721.ts
-#EXTINF:-1,CA: YTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3686.ts
-#EXTINF:-1,CA: HLN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1262.ts
-#EXTINF:-1,CA: GSN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1259.ts
-#EXTINF:-1,CA: Global HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1258.ts
-#EXTINF:-1,CA: FOX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1257.ts
-#EXTINF:-1,CA: CW HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1253.ts
-#EXTINF:-1,CA: CTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1252.ts
-#EXTINF:-1,CA: Create HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1251.ts
-#EXTINF:-1,CA: CITY HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1249.ts
-#EXTINF:-1,CA: CBC News Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1247.ts
-#EXTINF:-1,CA: Bravo HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1245.ts
-#EXTINF:-1,CA: CP 24 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1250.ts
-#EXTINF:-1,CA: Comedy HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2963.ts
-#EXTINF:-1,CA: FX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1462.ts
-#EXTINF:-1,CA: FXX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1463.ts
-#EXTINF:-1,CA: FYI
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2967.ts
-#EXTINF:-1,CA: History HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2968.ts
-#EXTINF:-1,CA: Much
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2972.ts
-#EXTINF:-1,CA: TLC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1473.ts
-#EXTINF:-1,CA: DejaView
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2966.ts
-#EXTINF:-1,CA: CBC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1246.ts
-#EXTINF:-1,CA: E! HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2103.ts
-#EXTINF:-1,CA: AMI
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3709.ts
-#EXTINF:-1,CA: Book Television
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3707.ts
-#EXTINF:-1,CA: OWN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1471.ts
-#EXTINF:-1,CA: Crime Investigation
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3705.ts
-#EXTINF:-1,CA: CTV News Channel
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3704.ts
-#EXTINF:-1,CA: Discovery HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3702.ts
-#EXTINF:-1,CA: Discovery Science
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3701.ts
-#EXTINF:-1,CA: DIY
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3699.ts
-#EXTINF:-1,CA: DTOUR HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3698.ts
-#EXTINF:-1,CA: Food Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3696.ts
-#EXTINF:-1,CA: G4
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3695.ts
-#EXTINF:-1,CA: Gusto
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3694.ts
-#EXTINF:-1,CA: Lifetime HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3718.ts
-#EXTINF:-1,CA: MTV2
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3693.ts
-#EXTINF:-1,CA: Nat Geo HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3716.ts
-#EXTINF:-1,CA: Nick
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3692.ts
-#EXTINF:-1,CA: OLN
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3691.ts
-#EXTINF:-1,CA: OWN
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3690.ts
-#EXTINF:-1,CA: Showcase HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3714.ts
-#EXTINF:-1,CA: Super Channel 2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3713.ts
-#EXTINF:-1,CA: Fashion TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3689.ts
-#EXTINF:-1,CA: TV Encore
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3688.ts
-#EXTINF:-1,CA: IFC
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3723.ts
-#EXTINF:-1,CA: Cpac
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3706.ts
-#EXTINF:-1,CA: AUX
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3708.ts
-#EXTINF:-1,CA: D HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3703.ts
-#EXTINF:-1,CA: HGTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3720.ts
-#EXTINF:-1,CA: MovieTime HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3717.ts
-#EXTINF:-1,CA: Nat Geo Wild HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3715.ts
-#EXTINF:-1,CA: K HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3719.ts
-#EXTINF:-1,CA: TWN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3710.ts
-#EXTINF:-1,CA: Viceland
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3687.ts
-#EXTINF:-1,CA: Cooking HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2962.ts
-#EXTINF:-1,CA: Documentary HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1255.ts
-#EXTINF:-1,CA: CBS HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1248.ts
-#EXTINF:-1,CA: ABC Spark
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2959.ts
-#EXTINF:-1,CA: BNN
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2960.ts
-#EXTINF:-1,CA: CMT
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2964.ts
-#EXTINF:-1,CA: CHRGD HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2965.ts
-#EXTINF:-1,CA: ICI RDI HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2969.ts
-#EXTINF:-1,CA: MTV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2971.ts
-#EXTINF:-1,CA: TMN 1 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3712.ts
-#EXTINF:-1,CA: TMN 4 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3711.ts
-#EXTINF:-1,CA: MOVIES HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1264.ts
-#EXTINF:-1,CA: A&E HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5456.ts
-#EXTINF:-1,CA: ABC Spark HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5455.ts
-#EXTINF:-1,CA: BNN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5438.ts
-#EXTINF:-1,CA: CNBC
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5440.ts
-#EXTINF:-1,CA: Documentary Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5442.ts
-#EXTINF:-1,CA: Game TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5444.ts
-#EXTINF:-1,CA: HIFI HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5445.ts
-#EXTINF:-1,CA: Omni
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5447.ts
-#EXTINF:-1,CA: Omni2 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5448.ts
-#EXTINF:-1,CA: Omni HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5449.ts
-#EXTINF:-1,CA: Smithsonian HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5450.ts
-#EXTINF:-1,CA: Sundance
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5451.ts
-#EXTINF:-1,CA: TVBS
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5452.ts
-#EXTINF:-1,CA: TVA HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5453.ts
-#EXTINF:-1,CA: TVO
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5454.ts
-#EXTINF:-1,CA: Unis TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5437.ts
-#EXTINF:-1,US: Disney XD HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5724.ts
-#EXTINF:-1,US: Disney Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1456.ts
-#EXTINF:-1,US: Disney Jr HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2427.ts
-#EXTINF:-1,US: Cartoon Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1391.ts
-#EXTINF:-1,US: Boomerang HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2425.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1425.ts
-#EXTINF:-1,US: Nick Jr. HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1426.ts
-#EXTINF:-1,US: Nicktoons HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1427.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1321.ts
-#EXTINF:-1,US: SPROUT HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3658.ts
-#EXTINF:-1,CA: Disney XD HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1254.ts
-#EXTINF:-1,UK: Disney Channel
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3410.ts
-#EXTINF:-1,UK: Disney Jr.
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3194.ts
-#EXTINF:-1,UK: Disney XD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3168.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1340.ts
-#EXTINF:-1,UK: Boomerang
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3176.ts
-#EXTINF:-1,UK: Baby TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3188.ts
-#EXTINF:-1,UK: Cartoon Network
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3201.ts
-#EXTINF:-1,UK: Cartoonito
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3175.ts
-#EXTINF:-1,UK: Nick Jr
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3380.ts
-#EXTINF:-1,UK: Nick Jr Too
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3378.ts
-#EXTINF:-1,UK: Nickelodeon
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3384.ts
-#EXTINF:-1,UK: Nicktoons
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3434.ts
-#EXTINF:-1,UK: RTE jr
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3148.ts
-#EXTINF:-1,UK: Tiny Pop
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3137.ts
-#EXTINF:-1,UK: POP
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3150.ts
-#EXTINF:-1,CA: Disney Channel West HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2961.ts
-#EXTINF:-1,CA: Family HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3700.ts
-#EXTINF:-1,UK: Cbeebies HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3131.ts
-#EXTINF:-1,US: AMC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1448.ts
-#EXTINF:-1,US: A&E HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1378.ts
-#EXTINF:-1,US: American Heroes HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5893.ts
-#EXTINF:-1,US: Animal Planet HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1449.ts
-#EXTINF:-1,US: BET HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/6201.ts
-#EXTINF:-1,US: BBC America HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3683.ts
-#EXTINF:-1,US: Bravo HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1390.ts
-#EXTINF:-1,US: CMT HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5871.ts
-#EXTINF:-1,US: Comedy Central HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2105.ts
-#EXTINF:-1,US: Cooking Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3678.ts
-#EXTINF:-1,US: Discovery Science HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1455.ts
-#EXTINF:-1,US: Discovery Family HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3676.ts
-#EXTINF:-1,US: Destination America HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5259.ts
-#EXTINF:-1,US: DIY HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3673.ts
-#EXTINF:-1,US: Discovery Life HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5887.ts
-#EXTINF:-1,US: Discovery HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1454.ts
-#EXTINF:-1,US: El Rey Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5873.ts
-#EXTINF:-1,US: E! Entertainment HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3680.ts
-#EXTINF:-1,US: Crime and Investigation HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5872.ts
-#EXTINF:-1,US: Nat Geo HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1377.ts
-#EXTINF:-1,US: OWN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3660.ts
-#EXTINF:-1,US: IFC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3663.ts
-#EXTINF:-1,US: Lifetime HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1467.ts
-#EXTINF:-1,US: Hallmark HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1410.ts
-#EXTINF:-1,US: SYFY HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2948.ts
-#EXTINF:-1,US: Oxygen HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3672.ts
-#EXTINF:-1,US: NAT GEO WILD HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1469.ts
-#EXTINF:-1,US: POP HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5896.ts
-#EXTINF:-1,US: MTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3662.ts
-#EXTINF:-1,US: MTV Live HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1417.ts
-#EXTINF:-1,US: TLC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5892.ts
-#EXTINF:-1,US: FX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3668.ts
-#EXTINF:-1,US: FXX HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3667.ts
-#EXTINF:-1,US: FX Movie Channel
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5888.ts
-#EXTINF:-1,US: FYI HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5876.ts
-#EXTINF:-1,US: Fusion HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3666.ts
-#EXTINF:-1,US: FreeForm HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1407.ts
-#EXTINF:-1,US: Food Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1948.ts
-#EXTINF:-1,US: HGTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5881.ts
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5878.ts
-#EXTINF:-1,US: ID HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1414.ts
-#EXTINF:-1,US: GSN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5877.ts
-#EXTINF:-1,US: LMN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5882.ts
-#EXTINF:-1,US: History Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1466.ts
-#EXTINF:-1,US: Mello TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2946.ts
-#EXTINF:-1,US: Spike HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1432.ts
-#EXTINF:-1,US: Turner Classic Movies HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5894.ts
-#EXTINF:-1,US: TBS HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2106.ts
-#EXTINF:-1,US: VELOCITY HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1475.ts
-#EXTINF:-1,US: TNT HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2068.ts
-#EXTINF:-1,US: USA Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2067.ts
-#EXTINF:-1,US: WE HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3654.ts
-#EXTINF:-1,US: TruTV HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1856.ts
-#EXTINF:-1,US: Universal HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5487.ts
-#EXTINF:-1,US: Viceland
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3734.ts
-#EXTINF:-1,US: Travel Channel HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3655.ts
-#EXTINF:-1,US: Sundance HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3656.ts
-#EXTINF:-1,US: VH1 HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1476.ts
-#EXTINF:-1,US: TV Land HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1853.ts
-#EXTINF:-1,US: Hi-Yah! Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5890.ts
-#EXTINF:-1,US: Buzzr
-http://nitrotv.for-the.biz:25461/live/sherman/123456/6006.ts
-#EXTINF:-1,US: Cozi
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7372.ts
-#EXTINF:-1,US: Antenna TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7373.ts
-#EXTINF:-1,US: Get TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7375.ts
-#EXTINF:-1,US: Grit
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7376.ts
-#EXTINF:-1,US: H&I
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7377.ts
-#EXTINF:-1,US: ION Life
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7378.ts
-#EXTINF:-1,US: Movies
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7379.ts
-#EXTINF:-1,US: Qubo
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7380.ts
-#EXTINF:-1,US: This TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7381.ts
-#EXTINF:-1,US: Reelz HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/7946.ts
-#EXTINF:-1,US: CNN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1452.ts
-#EXTINF:-1,US: MSNBC HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1468.ts
-#EXTINF:-1,US: Bloomberg HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1389.ts
-#EXTINF:-1,US: HLN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1920.ts
-#EXTINF:-1,US: Fox News HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1406.ts
-#EXTINF:-1,US: Fox Business Network HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1405.ts
-#EXTINF:-1,UK: CNN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1322.ts
-#EXTINF:-1,US: BBC World News HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/6069.ts
-#EXTINF:-1,US: NECN HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/6068.ts
-#EXTINF:-1,UK: Sky News HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1359.ts
-#EXTINF:-1,UK: Sky News Arabia
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3141.ts
 #EXTINF:-1,UK: Sky News
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3437.ts
-#EXTINF:-1,UK: Fox News
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3441.ts
-#EXTINF:-1,UK: RTE News Now
-http://nitrotv.for-the.biz:25461/live/sherman/123456/3147.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://nitrotv.for-the.biz:25461/live/sherman/123456/1380.ts
-#EXTINF:-1,CA: MSNBC
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5446.ts
-#EXTINF:-1,US: Newsmax TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2947.ts
-#EXTINF:-1,US: Al Jazeera English
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2944.ts
-#EXTINF:-1,US: CBS NEWS
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2938.ts
-#EXTINF:-1,US: The Weather Channel
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2957.ts
-#EXTINF:-1,US: C-Span 1
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2939.ts
-#EXTINF:-1,US: C-Span 2
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2940.ts
-#EXTINF:-1,US: C-Span 3
-http://nitrotv.for-the.biz:25461/live/sherman/123456/2941.ts
-#EXTINF:-1,US: PRESS TV
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5365.ts
-#EXTINF:-1,US: AFRICA NEWS NETWORK
-http://nitrotv.for-the.biz:25461/live/sherman/123456/5368.ts
-
-
-
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1229.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1232.ts
+#EXTINF:-1,USA: ABC NEWS
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1231.ts
+#EXTINF:-1,USA: CBS NEWS HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1233.ts
+#EXTINF:-1,USA: CBS SPORTS NETWORK HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1227.ts
+#EXTINF:-1,USA: CNN US HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1206.ts
+#EXTINF:-1,USA: ESPN NEWS US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1211.ts
+#EXTINF:-1,USA: FIGHT BOX HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1209.ts
+#EXTINF:-1,USA: FOX HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1221.ts
+#EXTINF:-1,USA: HBO HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1213.ts
+#EXTINF:-1,USA: MOTORS TV
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1207.ts
+#EXTINF:-1,USA: NBA
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1223.ts
+#EXTINF:-1,USA: NBC
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1212.ts
+#EXTINF:-1,USA: NFL NOW HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1208.ts
+#EXTINF:-1,USA: Olympic Channel HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1210.ts
+#EXTINF:-1,USA: WGN NEWS CHICAGO HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1202.ts
+#EXTINF:-1,USA:CA | TSN 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1205.ts
+#EXTINF:-1,USA:CA | TSN 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1203.ts
+#EXTINF:-1,USA:CA | TSN 3
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1204.ts
+#EXTINF:-1,USA:CA | TSN 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1200.ts
+#EXTINF:-1,USA:CA | TSN 5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1201.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1395.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 10
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1394.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 11
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1393.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 12
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1392.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 13
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1391.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 14
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1390.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 15
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1389.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 16
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1388.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1387.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 3
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1386.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1385.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1384.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 6
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1383.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 7
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1382.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 8
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1381.ts
+#EXTINF:-1,*VIP* | MLB GAME PASS HD MATCH 9
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1380.ts
+#EXTINF:-1,*VIP* | NBA Live 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1379.ts
+#EXTINF:-1,*VIP* | NBA Live 10
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1378.ts
+#EXTINF:-1,*VIP* | NBA Live 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1377.ts
+#EXTINF:-1,*VIP* | NBA Live 3
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1376.ts
+#EXTINF:-1,*VIP* | NBA Live 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1375.ts
+#EXTINF:-1,*VIP* | NBA Live 5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1374.ts
+#EXTINF:-1,*VIP* | NBA Live 6
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1373.ts
+#EXTINF:-1,*VIP* | NBA Live 7
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1372.ts
+#EXTINF:-1,*VIP* | NBA Live 8
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1371.ts
+#EXTINF:-1,*VIP* | NBA Live 9
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1370.ts
+#EXTINF:-1,*VIP* | NFL REDZONE HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1369.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1368.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 10
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1367.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 11
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1366.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 12
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1365.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 13
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1364.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 14
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1363.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 15
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1362.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1361.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 3
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1360.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1359.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1358.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 6
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1357.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 7
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1356.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 8
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1355.ts
+#EXTINF:-1,*VIP* | NFL SUNDAY TICKET 9
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1354.ts
+#EXTINF:-1,*VIP* | NHL HD 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1353.ts
+#EXTINF:-1,*VIP* | NHL HD 10
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1352.ts
+#EXTINF:-1,*VIP* | NHL HD 11
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1351.ts
+#EXTINF:-1,*VIP* | NHL HD 12
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1350.ts
+#EXTINF:-1,*VIP* | NHL HD 13
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1349.ts
+#EXTINF:-1,*VIP* | NHL HD 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1348.ts
+#EXTINF:-1,*VIP* | NHL HD 3
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1347.ts
+#EXTINF:-1,*VIP* | NHL HD 4
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1346.ts
+#EXTINF:-1,*VIP* | NHL HD 5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1345.ts
+#EXTINF:-1,*VIP* | NHL HD 6
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1344.ts
+#EXTINF:-1,*VIP* | NHL HD 7
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1343.ts
+#EXTINF:-1,*VIP* | NHL HD 8
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1342.ts
+#EXTINF:-1,*VIP* | NHL HD 9
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1341.ts
+#EXTINF:-1,ABC News-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1586.ts
+#EXTINF:-1,ABC-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1585.ts
+#EXTINF:-1,Action Max HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1584.ts
+#EXTINF:-1,AMC HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1583.ts
+#EXTINF:-1,Bein Sports-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1581.ts
+#EXTINF:-1,Bloomberg-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1580.ts
+#EXTINF:-1,Cartoon Network-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1579.ts
+#EXTINF:-1,Animal Planet-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1582.ts
+#EXTINF:-1,CBS HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1578.ts
+#EXTINF:-1,CBS Sports Network HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1577.ts
+#EXTINF:-1,Cinemax HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1576.ts
+#EXTINF:-1,CNBC-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1575.ts
+#EXTINF:-1,CNN HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1574.ts
+#EXTINF:-1,Comedy Central-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1573.ts
+#EXTINF:-1,CW HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1572.ts
+#EXTINF:-1,Discovery HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1571.ts
+#EXTINF:-1,Discovery Science HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1570.ts
+#EXTINF:-1,ESPN Deportes-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1567.ts
+#EXTINF:-1,ESPN 2 HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1568.ts
+#EXTINF:-1,ESPN News HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1566.ts
+#EXTINF:-1,ESPN U HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1565.ts
+#EXTINF:-1,ESPN USA HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1564.ts
+#EXTINF:-1,Fight Network-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1563.ts
+#EXTINF:-1,Fox HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1562.ts
+#EXTINF:-1,Fox News HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1561.ts
+#EXTINF:-1,Fox Sports 1 HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1560.ts
+#EXTINF:-1,Fox Sports 2 HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1559.ts
+#EXTINF:-1,Fox Sports South-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1558.ts
+#EXTINF:-1,Fox Sports West-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1557.ts
+#EXTINF:-1,Freeform HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1556.ts
+#EXTINF:-1,FX-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1555.ts
+#EXTINF:-1,FXX-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1554.ts
+#EXTINF:-1,Golf HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1553.ts
+#EXTINF:-1,HBO Comedy-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1552.ts
+#EXTINF:-1,HBO Signature-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1551.ts
+#EXTINF:-1,HBO Zone-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1550.ts
+#EXTINF:-1,HBO-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1549.ts
+#EXTINF:-1,HGTV-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1548.ts
+#EXTINF:-1,History-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1547.ts
+#EXTINF:-1,Investigation Discovery HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1546.ts
+#EXTINF:-1,Ion Television-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1545.ts
+#EXTINF:-1,MLB Network HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1544.ts
+#EXTINF:-1,MoreMax HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1543.ts
+#EXTINF:-1,National Geographic-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1542.ts
+#EXTINF:-1,NBC Sports Network HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1540.ts
+#EXTINF:-1,NBC-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1539.ts
+#EXTINF:-1,NFL Channel HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1538.ts
+#EXTINF:-1,NHL Network HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1537.ts
+#EXTINF:-1,Nickelodeon -US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1536.ts
+#EXTINF:-1,PAC-12 Arizona HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1535.ts
+#EXTINF:-1,PAC-12 Bay Area HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1534.ts
+#EXTINF:-1,PAC-12 Los Angeles HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1533.ts
+#EXTINF:-1,PAC-12 Mountain HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1532.ts
+#EXTINF:-1,PAC-12 Oregon HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1531.ts
+#EXTINF:-1,PAC-12 Washington HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1530.ts
+#EXTINF:-1,Showtime-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1529.ts
+#EXTINF:-1,Spike HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1528.ts
+#EXTINF:-1,Sports Net 360 HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1527.ts
+#EXTINF:-1,Sports Net One HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1526.ts
+#EXTINF:-1,Sports Net Ontario HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1525.ts
+#EXTINF:-1,Sports Net Pacific HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1524.ts
+#EXTINF:-1,Sports Net West HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1523.ts
+#EXTINF:-1,Sports Net World HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1522.ts
+#EXTINF:-1,Starz Cinema HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1521.ts
+#EXTINF:-1,Starz HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1520.ts
+#EXTINF:-1,Syfy HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1519.ts
+#EXTINF:-1,Tennis Channel HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1483.ts
+#EXTINF:-1,TLC HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1482.ts
+#EXTINF:-1,TNT HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1399.ts
+#EXTINF:-1,US: Bloomberg TV  1080p HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1396.ts
+#EXTINF:-1,US: |VIP| Bein Sports USA HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1398.ts
+#EXTINF:-1,US: |VIP| CNN HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1397.ts
+#EXTINF:-1,USA | A&E HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1481.ts
+#EXTINF:-1,USA | ABC HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1480.ts
+#EXTINF:-1,USA | AFN MOVIE
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1479.ts
+#EXTINF:-1,USA | AFN NEWS
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1478.ts
+#EXTINF:-1,USA | AFN PRIME ATLANTIC
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1477.ts
+#EXTINF:-1,USA | AFN PRIME PACIFIC
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1476.ts
+#EXTINF:-1,USA | AFN PULSE
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1475.ts
+#EXTINF:-1,USA | AFN SPECTRUM
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1474.ts
+#EXTINF:-1,USA | AFN SPORTS
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1473.ts
+#EXTINF:-1,USA | AFN SPORTS 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1472.ts
+#EXTINF:-1,USA | AMC HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1471.ts
+#EXTINF:-1,USA | Animal Planet HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1470.ts
+#EXTINF:-1,USA | BRAVO
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1469.ts
+#EXTINF:-1,USA | BRAVO HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1468.ts
+#EXTINF:-1,USA | CBS HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1467.ts
+#EXTINF:-1,USA | CI HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1466.ts
+#EXTINF:-1,USA | CINEMAX HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1465.ts
+#EXTINF:-1,USA | Cinemax MoreMax HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1464.ts
+#EXTINF:-1,USA | Cinemax ThrillerMax HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1463.ts
+#EXTINF:-1,USA | CNBC-US (nbc at 3pm)
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1462.ts
+#EXTINF:-1,USA | CNN HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1461.ts
+#EXTINF:-1,USA | Comedy Central
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1460.ts
+#EXTINF:-1,USA | CPAC
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1459.ts
+#EXTINF:-1,USA | CW
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1458.ts
+#EXTINF:-1,USA | CW HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1457.ts
+#EXTINF:-1,USA | Discovery HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1456.ts
+#EXTINF:-1,USA | DISCOVERY SCIENCE
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1455.ts
+#EXTINF:-1,USA | DIY NETWORK HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1454.ts
+#EXTINF:-1,USA | E!
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1453.ts
+#EXTINF:-1,USA | ESPN
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1452.ts
+#EXTINF:-1,USA | ESPN 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1451.ts
+#EXTINF:-1,USA | Fight Network
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1450.ts
+#EXTINF:-1,USA | Food Network HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1449.ts
+#EXTINF:-1,USA | Fox
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1448.ts
+#EXTINF:-1,USA | FOX 5 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1447.ts
+#EXTINF:-1,USA | Fox News HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1446.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1445.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1444.ts
+#EXTINF:-1,USA | FreeForm HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1443.ts
+#EXTINF:-1,USA | FX HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1442.ts
+#EXTINF:-1,USA | FXX
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1441.ts
+#EXTINF:-1,USA | Golf HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1440.ts
+#EXTINF:-1,USA | H2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1439.ts
+#EXTINF:-1,USA | HallMark HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1438.ts
+#EXTINF:-1,USA | HBO
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1437.ts
+#EXTINF:-1,USA | HBO Comedy (nbc at 3pm)
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1436.ts
+#EXTINF:-1,USA | HBO Family
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1435.ts
+#EXTINF:-1,USA | HBO HD 1
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1434.ts
+#EXTINF:-1,USA | HBO HD 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1433.ts
+#EXTINF:-1,USA | HBO Signature
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1432.ts
+#EXTINF:-1,USA | HBO Zone
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1431.ts
+#EXTINF:-1,USA | HGTV
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1430.ts
+#EXTINF:-1,USA | HISTORY
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1429.ts
+#EXTINF:-1,USA | Investigation Discovery HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1428.ts
+#EXTINF:-1,USA | LIFETIME
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1427.ts
+#EXTINF:-1,USA | NASA TV HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1426.ts
+#EXTINF:-1,USA | National Geographic
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1425.ts
+#EXTINF:-1,USA | NBA HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1424.ts
+#EXTINF:-1,USA | NBC
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1423.ts
+#EXTINF:-1,USA | NBC GOLF
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1422.ts
+#EXTINF:-1,USA | NBC Sports Network HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1421.ts
+#EXTINF:-1,USA | NFL NETWORK
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1420.ts
+#EXTINF:-1,USA | NHL Network (nbc goalrush at 3pm)
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1419.ts
+#EXTINF:-1,USA | PAC 12 WASHINGTON HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1418.ts
+#EXTINF:-1,USA | PBS HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1417.ts
+#EXTINF:-1,USA | Showtime
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1416.ts
+#EXTINF:-1,USA | ShowTime 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1415.ts
+#EXTINF:-1,USA | SPIKE HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1414.ts
+#EXTINF:-1,USA | Sports Net 360 HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1413.ts
+#EXTINF:-1,USA | Sports Net One HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1412.ts
+#EXTINF:-1,USA | Sports Net Ontario HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1411.ts
+#EXTINF:-1,USA | Sports Net World HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1410.ts
+#EXTINF:-1,USA | Starz Cinema HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1409.ts
+#EXTINF:-1,USA | STARZ HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1408.ts
+#EXTINF:-1,USA | SYFY HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1407.ts
+#EXTINF:-1,USA | TBS
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1406.ts
+#EXTINF:-1,USA | Tennis Channel HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1405.ts
+#EXTINF:-1,USA | TLC HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1404.ts
+#EXTINF:-1,USA | TNT HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1403.ts
+#EXTINF:-1,USA | TRU TV HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1402.ts
+#EXTINF:-1,USA | UNIVERSAL HD
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1401.ts
+#EXTINF:-1,USA | USA NETWORK
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1400.ts
+#EXTINF:-1,USA(l) | a&e
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1518.ts
+#EXTINF:-1,USA(l) | abc
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1517.ts
+#EXTINF:-1,USA(l) | afn prime atlanta
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1516.ts
+#EXTINF:-1,USA(l) | afn sports
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1515.ts
+#EXTINF:-1,USA(l) | amc
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1514.ts
+#EXTINF:-1,USA(l) | antenna
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1513.ts
+#EXTINF:-1,USA(l) | bravo
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1512.ts
+#EXTINF:-1,USA(l) | buzzer
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1511.ts
+#EXTINF:-1,USA(l) | cbs
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1510.ts
+#EXTINF:-1,USA(l) | cozi
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1509.ts
+#EXTINF:-1,USA(l) | fox11
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1508.ts
+#EXTINF:-1,USA(l) | fx Hd
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1507.ts
+#EXTINF:-1,USA(l) | gettv
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1506.ts
+#EXTINF:-1,USA(l) | grit
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1505.ts
+#EXTINF:-1,USA(l) | h&i
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1504.ts
+#EXTINF:-1,USA(l) | hbo
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1503.ts
+#EXTINF:-1,USA(l) | hgtv
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1502.ts
+#EXTINF:-1,USA(l) | ion
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1501.ts
+#EXTINF:-1,USA(l) | ionlife
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1500.ts
+#EXTINF:-1,USA(l) | ktla5
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1499.ts
+#EXTINF:-1,USA(l) | movie channel
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1498.ts
+#EXTINF:-1,USA(l) | movies!
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1497.ts
+#EXTINF:-1,USA(l) | my13
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1496.ts
+#EXTINF:-1,USA(l) | nbc
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1495.ts
+#EXTINF:-1,USA(l) | qubo
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1494.ts
+#EXTINF:-1,USA(l) | showtime e
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1493.ts
+#EXTINF:-1,USA(l) | sports2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1492.ts
+#EXTINF:-1,USA(l) | starz east
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1491.ts
+#EXTINF:-1,USA(l) | syfy
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1490.ts
+#EXTINF:-1,USA(l) | tbs
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1489.ts
+#EXTINF:-1,USA(l) | thistv
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1488.ts
+#EXTINF:-1,USA(l) | tnt
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1487.ts
+#EXTINF:-1,USA(l) | unid
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1486.ts
+#EXTINF:-1,USA(l) | usa hd
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1485.ts
+#EXTINF:-1,VIP | PPV 2
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1340.ts
+#EXTINF:-1,NBA HD-US
+http://dragoniptv99.dyndns.tv:8505/live/b021e4/b0221e/1541.ts

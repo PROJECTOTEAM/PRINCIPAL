@@ -1,8 +1,122 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-07-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 16-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
+
+
+
+
+
+
+#EXTINF:-1,3 ABN
+http://moiptvus-lh.akamaihd.net:80/i/3abnlive_1@328342/index_800_av-p.m3u8
+#EXTINF:-1,3 ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-p.m3u8
+#EXTINF:-1,BLOOMBERG TV
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
+#EXTINF:-1,BYU TV
+http://byuhd2-lh.akamaihd.net:80/i/byutvhd2_live@103136/index_1640_av-p.m3u8
+#EXTINF:-1,BYU TV GLOBAL
+http://byuhd2-lh.akamaihd.net:80/i/byutvglobalhd2_live@103134/index_1640_av-p.m3u8
+#EXTINF:-1,BYU TV INTERNATIONAL
+http://byuhd2-lh.akamaihd.net:80/i/byutvintporthd2_live@103132/index_1240_av-p.m3u8
+#EXTINF:-1,BYU TV INTERNATIONAL
+http://byuhd2-lh.akamaihd.net:80/i/byutvintspanhd2_live@103133/index_1240_av-p.m3u8
+#EXTINF:-1,CANAL DA JUVENTUDE CRISTÃ
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@389008/index_600_av-p.m3u8
+#EXTINF:-1,CANAL DAS IGREJAS
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_600_av-p.m3u8
+#EXTINF:-1,CANAL SHOW DA FÉ
+http://nossatvhls02-lh.akamaihd.net:80/i/nossatv_hls@381916/index_600_av-p.m3u8
+#EXTINF:-1,CANAL UM EUROPA
+http://nossatvhls01-lh.akamaihd.net:80/i/nossatv_hls@366619/index_600_av-p.m3u8
+#EXTINF:-1,CANÇÃO NOVA
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-p.m3u8
+#EXTINF:-1,CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1,CBN SD
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
+#EXTINF:-1,CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/index_1200_av-p.m3u8
+#EXTINF:-1,CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1,CBS 47 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:-1,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+#EXTINF:-1,DAYSTAR
+http://bcoveliveios-i.akamaihd.net:80/hls/live/203127/1539097700001/master_720p.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1,DW
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1,FOX 23 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1,FOX 25 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1,FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_1200.m3u8
+#EXTINF:-1,HOPE CHANNEL
+http://bcliveuniv-lh.akamaihd.net:80/i/HopeChannel_1@182961/index_1192_av-p.m3u8
+#EXTINF:-1,KIRO 7 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net:80/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net:80/i/NASA_103@319271/index_1000_av-p.m3u8
+#EXTINF:-1,NBC NEWS
+http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-p.m3u8
+#EXTINF:-1,NEWSMAX TV
+http://ooyalahd2-f.akamaihd.net:80/i/newsmax02_delivery@119568/index_1128_av-p.m3u8
+#EXTINF:-1,NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+#EXTINF:-1,SBN GLOBAL
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+#EXTINF:-1,SHOPTIME TV
+http://kalseglive-a.akamaihd.net:80/dc-1/m/ny-live-publish3/kLive/smil:1_lld8saie_all.smil/35/chunklist.m3u8
+#EXTINF:-1,TV A CRÍTICA
+http://kalseglive-a.akamaihd.net:80/dc-0/m/pa-live-publish4/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
+#EXTINF:-1,WFTV 9 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8
+#EXTINF:-1,WGN 9 NEWS
+http://wgntribune-lh.akamaihd.net:80/i/WGNPrimary_1@304622/index_700_av-p.m3u8
+#EXTINF:-1,WPXI NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
+#EXTINF:-1,WSOC 9 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

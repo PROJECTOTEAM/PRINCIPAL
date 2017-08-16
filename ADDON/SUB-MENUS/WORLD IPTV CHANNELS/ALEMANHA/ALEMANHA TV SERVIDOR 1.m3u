@@ -6,12 +6,9 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-#EXTINF:0,ZDF
+#EXTINF:2700,ZDF
 http://37.152.128.66:6508/play/a007
-#EXTINF:3180,Dlf Kultur
+#EXTINF:0,Dlf Kultur
 http://37.152.128.66:6508/play/a004
 #EXTINF:0,Dlf
 http://37.152.128.66:6508/play/a005
@@ -23,6 +20,19 @@ http://37.152.128.66:6508/play/a009
 http://37.152.128.66:6508/play/a006
 #EXTINF:0,zdf_neo
 http://37.152.128.66:6508/play/a008
+#EXTM3U
+#EXTINF:0,SWR Fernsehen BW
+http://37.152.128.66:6509/play/a00y
+#EXTINF:0,hr-fernsehen
+http://37.152.128.66:6509/play/a00v
+#EXTINF:0,Das Erste
+http://37.152.128.66:6509/play/a00t
+#EXTINF:0,BR Fernsehen Süd
+http://37.152.128.66:6509/play/a00u
+#EXTINF:0,BR Fernsehen Nord
+http://37.152.128.66:6509/play/a00w
+#EXTINF:0,WDR Köln
+http://37.152.128.66:6509/play/a00x
 
 
 
