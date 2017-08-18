@@ -43,7 +43,7 @@ http://192.99.46.182:1935/pioneira-tv3_1/pioneira-tv3_1/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lut.im/W5QVUt0DYq/mzQRmVqTys8b7oXU.png" tvg-name="SBT Maranhão - TV Difusora"  group-title="CANAL ABERTO",SBT Maranhão - TV Difusora
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvjornal.png" tvg-name="TV Jornal"  group-title="CANAL ABERTO",TV Jornal
+#EXTINF:0, TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvjornal.png" tvg-name="TV Jornal - Caruaru"  group-title="CANAL ABERTO",TV Jornal - Caruaru
@@ -355,88 +355,88 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/historylab.png" tvg-name="History Lab - Itália"  group-title="ITALIA",History Lab - Itália
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/dw.png" tvg-name="DW"  group-title="ALEMANHA",DW
+#EXTINF:0, DW
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/france.png" tvg-name="France 24"  group-title="FRANÇA",France 24
+#EXTINF:0, France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tv5monde.png" tvg-name="TV5 Monde"  group-title="FRANÇA",TV5 Monde
+#EXTINF:0, TV5 Monde
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/aljazeera.png" tvg-name="Aljazeera"  group-title="ARABIC",Aljazeera
+#EXTINF:0, Aljazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/aljazeeradoc.png" tvg-name="Aljazeera Doc"  group-title="ARABIC",Aljazeera Doc
+#EXTINF:0, Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lut.im/r6DXa5Jq48/mv4HWFBEWseu2KJj.png" tvg-name="TV Ourinhos"  group-title="VARIEDADES",TV Ourinhos
+#EXTINF:0, TV Ourinhos
 http://xtvourinhoscanal10x.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/central.png" tvg-name="Central TV"  group-title="VARIEDADES",Central TV
+#EXTINF:0, Central TV
 http://172.93.110.130:1935/rbt/rbt/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/bhnewstv.png" tvg-name="BH News"  group-title="VARIEDADES",BH News
+#EXTINF:0, BH News
 http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/viamorena.png" tvg-name="Via Morena"  group-title="WEB TV",Via Morena
+#EXTINF:0, Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/livretv.png" tvg-name="Livre TV"  group-title="CANAL ABERTO",Livre TV
+#EXTINF:0, Livre TV
 http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lut.im/UIWkcVhcys/9SuJmZh7iLA4qJZ8.png" tvg-name="TV Feliz"  group-title="CANAL ABERTO",TV Feliz
+#EXTINF:0, TV Feliz
 http://172.93.110.130:1935/tvfelizrn/tvfelizrn/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/multitv.png" tvg-name="Mult TV"  group-title="CANAL ABERTO",Mult TV
+#EXTINF:0, Mult TV
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvgeral.png" tvg-name="TV Geral BA"  group-title="CANAL ABERTO",TV Geral BA
+#EXTINF:0, TV Geral BA
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" tvg-name="TV Faap"  group-title="CANAL ABERTO",TV Faap
+#EXTINF:0, TV Faap
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/pontanegranews.png" tvg-name="Ponta Negra News"  group-title="WEBTV",Ponta Negra News
+#EXTINF:0, Ponta Negra News
 http://184.172.23.109:1935/live/tvmix02/tvmix02/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvcorreio.png" tvg-name="TV Correio"  group-title="CANAL ABERTO",TV Correio
+#EXTINF:0, TV Correio
 http://flash1.crossdigital.com.br/491/491/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/rbc.jpg" tvg-name="TV RBC"  group-title="CANAL ABERTO",TV RBC
+#EXTINF:0, TV RBC
 http://flash1.crossdigital.com.br:1935/ponto10/latina/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvpantanal.png" tvg-name="TV Pantanal"  group-title="WEBTV",TV Pantanal
+#EXTINF:0, TV Pantanal
 http://78.46.36.212:1935/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" tvg-name="TV Japi"  group-title="WEBTV",TV Japi
+#EXTINF:0, TV Japi
 http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvjornallimeira.png" tvg-name="TV Jornal Limeira"  group-title="CANAL ABERTO",TV Jornal Limeira
+#EXTINF:0,TV Jornal Limeira
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/tvbirigui.jpg" tvg-name="TV Birigui"  group-title="WEBTV",TV Birigui
+#EXTINF:0, TV Birigui
 http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/canalrural.png" tvg-name="Canal Rural"  group-title="VARIEDADES",Canal Rural
+#EXTINF:0, Canal Rural
 http://67149o.ha.azioncdn.net/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/canalx.png" tvg-name="Canal X"  group-title="VARIEDADES",Canal X
+#EXTINF:0, Canal X
 http://77149o.ha.azioncdn.net/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/agitos.png" tvg-name="TV CN Agitos - RN"  group-title="WEBTV",TV CN Agitos - RN
+#EXTINF:0, TV CN Agitos - RN
 http://wsemedia.com:1935/cn01/cn01/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://s30.postimg.org/6gazun6wh/logorodape.png" tvg-name="Rede Cultura do Pará"  group-title="CANAL ABERTO",Rede Cultura do Pará
+#EXTINF:0, Rede Cultura do Pará
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lut.im/I4LTkXAkDi/PDGiC6b24ZRShnFa.png" tvg-name="Conexão BR"  group-title="CANAL ABERTO",Conexão BR
+#EXTINF:0, Conexão BR
 http://189.86.89.116/hls-live/livecx/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://listaiptvbrasil.com/logo/cbn.png" tvg-name="CBN SP 90.5 FM - ESTÚDIO AO VIVO"  group-title="RADIOS",CBN SP 90.5 FM - ESTÚDIO AO VIVO
+#EXTINF:0, CBN SP 90.5 FM - ESTÚDIO AO VIVO
 http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lut.im/tyUqhVLxDD/BOy4hzMOscdGYu1o.png" tvg-name="FM O DIA 100.5 - ESTÚDIO AO VIVO"  group-title="RADIOS",FM O DIA 100.5 - ESTÚDIO AO VIVO
+#EXTINF:0, FM O DIA 100.5 - ESTÚDIO AO VIVO
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
