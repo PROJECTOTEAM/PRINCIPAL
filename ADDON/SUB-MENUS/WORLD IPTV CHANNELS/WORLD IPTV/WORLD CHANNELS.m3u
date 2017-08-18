@@ -1,8 +1,701 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 23-04-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="122" tvg-name="001. Das Erste HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/daserste.png" group-title="01. Germany",001. Das Erste HD - 001. Das Erste HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="123" tvg-name="002. ZDF HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/zdf.png" group-title="01. Germany",002. ZDF HD - 002. ZDF HD
+http://toponica.dvrdns.org:8088/live?channelId=123&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="125" tvg-name="004. RTL HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/rtl.png" group-title="01. Germany",004. RTL HD - 004. RTL HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=125&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="126" tvg-name="005. SAT 1 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sat1.png" group-title="01. Germany",005. SAT 1 HD - 005. SAT 1 HD
+http://toponica.dvrdns.org:8088/live?channelId=126&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="127" tvg-name="006. RTL 2 HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/rtl2de.png" group-title="01. Germany",006. RTL 2 HD - 006. RTL 2 HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=127&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="128" tvg-name="007. PRO 7 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pro7.png" group-title="01. Germany",007. PRO 7 HD - 007. PRO 7 HD
+http://toponica.dvrdns.org:8088/live?channelId=128&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="129" tvg-name="008. SIXX HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sixx_hd.jpg" group-title="01. Germany",008. SIXX HD - 008. SIXX HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=129&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="130" tvg-name="009. KABEL 1 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/kabel1.png" group-title="01. Germany",009. KABEL 1 HD - 009. KABEL 1 HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=130&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="131" tvg-name="010. VOX HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/vox.png" group-title="01. Germany",010. VOX HD - 010. VOX HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=131&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="132" tvg-name="011. SUPER RTL HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/superrtl.png" group-title="01. Germany",011. SUPER RTL HD - 011. SUPER RTL HD
+http://lazalazarevic.dvrdns.org:8088/live?channelId=132&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="133" tvg-name="012. NICKELODEON HD.." tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/nickelodeon.png" group-title="01. Germany",012. NICKELODEON HD.. - 012. NICKELODEON HD..
+http://lazalazarevic.dvrdns.org:8088/live?channelId=133&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="223" tvg-name="013. Disney Channel HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/Disney_Channel_2014_HD.png" group-title="01. Germany",013. Disney Channel HD - 013. Disney Channel HD
+http://lazalazarevic.dvrdns.org:8088/live?channelId=223&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="212" tvg-name="014. KIKA HD *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/kika.png" group-title="01. Germany",014. KIKA HD * - 014. KIKA HD *
+http://amsterdam2.dvrdns.org:14452/live?channelId=212&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="278" tvg-name="015. DMAX HD.." tvg-logo="http://kreka2.dvrdns.org:1011" group-title="01. Germany",015. DMAX HD.. - 015. DMAX HD..
+http://amsterdam2.dvrdns.org:14452/live?channelId=278&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="300" tvg-name="016. Zee.one Bollywood" tvg-logo="/noicon.png" group-title="01. Germany",016. Zee.one Bollywood - 016. Zee.one Bollywood
+http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="368" tvg-name="017. RTL Passion DE.. °" tvg-logo="http://digilevo.dynns.com:9155/live/SAnelDO/9XYmG02stA/333.ts" group-title="01. Germany",017. RTL Passion DE.. ° - 017. RTL Passion DE.. °
+http://amsterdam2.dvrdns.org:14452/live?channelId=368&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="370" tvg-name="018. NTV.." tvg-logo="/noicon.png" group-title="01. Germany",018. NTV.. - 018. NTV..
+http://amsterdam1.dvrdns.org:16880/live?channelId=370&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="134" tvg-name="025. Cinema DE" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/sky_de_cinema_hd.png" group-title="01. Germany",025. Cinema DE - 025. Cinema DE
+http://toponica.dvrdns.org:8088/live?channelId=134&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="135" tvg-name="026. Action DE °" tvg-logo="/noicon.png" group-title="01. Germany",026. Action DE ° - 026. Action DE °
+http://amsterdam2.dvrdns.org:14452/live?channelId=135&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="137" tvg-name="027. Cinema +1 DE" tvg-logo="/noicon.png" group-title="01. Germany",027. Cinema +1 DE - 027. Cinema +1 DE
+http://toponica.dvrdns.org:8088/live?channelId=137&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="138" tvg-name="028. Cinema +24 DE*" tvg-logo="/noicon.png" group-title="01. Germany",028. Cinema +24 DE* - 028. Cinema +24 DE*
+http://amsterdam1.dvrdns.org:16880/live?channelId=138&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="136" tvg-name="029. Fox DE" tvg-logo="/noicon.png" group-title="01. Germany",029. Fox DE - 029. Fox DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=136&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="139" tvg-name="030. Comedy DE °" tvg-logo="http://digilevo.dynns.com:9155/live/SAnelDO/9XYmG02stA/15.ts" group-title="01. Germany",030. Comedy DE ° - 030. Comedy DE °
+http://amsterdam2.dvrdns.org:14452/live?channelId=139&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="319" tvg-name="031. TNT Film" tvg-logo="/noicon.png" group-title="01. Germany",031. TNT Film - 031. TNT Film
+http://amsterdam2.dvrdns.org:14452/live?channelId=319&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="321" tvg-name="033. Atlantic DE" tvg-logo="/noicon.png" group-title="01. Germany",033. Atlantic DE - 033. Atlantic DE
+http://amsterdam1.dvrdns.org:16880/live?channelId=321&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="322" tvg-name="034. 13th street DE" tvg-logo="/noicon.png" group-title="01. Germany",034. 13th street DE - 034. 13th street DE
+http://amsterdam1.dvrdns.org:16880/live?channelId=322&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="365" tvg-name="035. Hits DE.." tvg-logo="/noicon.png" group-title="01. Germany",035. Hits DE.. - 035. Hits DE..
+http://amsterdam1.dvrdns.org:16880/live?channelId=365&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="366" tvg-name="036. Emotion DE.. °" tvg-logo="/noicon.png" group-title="01. Germany",036. Emotion DE.. ° - 036. Emotion DE.. °
+http://amsterdam1.dvrdns.org:16880/live?channelId=366&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="367" tvg-name="037. Krimi DE.. °" tvg-logo="/noicon.png" group-title="01. Germany",037. Krimi DE.. ° - 037. Krimi DE.. °
+http://amsterdam2.dvrdns.org:14452/live?channelId=367&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="141" tvg-name="040. Discovery DE" tvg-logo="http://santel.dvrdns.org:8000/live/DiscoveryDE/KanalNjemackiopstanak/13.ts" group-title="01. Germany",040. Discovery DE - 040. Discovery DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=141&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="97" tvg-name="041. National Geographic DE" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/natgeographic.png" group-title="01. Germany",041. National Geographic DE - 041. National Geographic DE
+http://amsterdam2.dvrdns.org:14452/live?channelId=97&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="101" tvg-name="042. History Channel DE °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/history-hd-logo.jpg" group-title="01. Germany",042. History Channel DE ° - 042. History Channel DE °
+http://amsterdam2.dvrdns.org:14452/live?channelId=101&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="286" tvg-name="045. Film DE 1 test.." tvg-logo="/noicon.png" group-title="01. Germany",045. Film DE 1 test.. - 045. Film DE 1 test..
+http://amsterdam2.dvrdns.org:14452/live?channelId=286&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="287" tvg-name="046. Film DE 2 test.." tvg-logo="/noicon.png" group-title="01. Germany",046. Film DE 2 test.. - 046. Film DE 2 test..
+http://amsterdam2.dvrdns.org:14452/live?channelId=287&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="288" tvg-name="047. Film DE 3 test.." tvg-logo="/noicon.png" group-title="01. Germany",047. Film DE 3 test.. - 047. Film DE 3 test..
+http://amsterdam2.dvrdns.org:14452/live?channelId=288&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="289" tvg-name="048. Film DE 4 test.." tvg-logo="/noicon.png" group-title="01. Germany",048. Film DE 4 test.. - 048. Film DE 4 test..
+http://amsterdam2.dvrdns.org:14452/live?channelId=289&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="290" tvg-name="049. Film DE 5 test.." tvg-logo="/noicon.png" group-title="01. Germany",049. Film DE 5 test.. - 049. Film DE 5 test..
+http://amsterdam2.dvrdns.org:14452/live?channelId=290&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="1" tvg-name="050. Al Jazeera Balkan HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/aljazeera.png" group-title="02. EX-Yugo",050. Al Jazeera Balkan HD - 050. Al Jazeera Balkan HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=1&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="2" tvg-name="051. BHT 1 HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/bht1.png" group-title="02. EX-Yugo",051. BHT 1 HD - 051. BHT 1 HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=2&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="3" tvg-name="052. FTV" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/ftv.png" group-title="02. EX-Yugo",052. FTV - 052. FTV
+http://toponica.dvrdns.org:8088/live?channelId=3&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="7" tvg-name="053. FACE HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/face.png" group-title="02. EX-Yugo",053. FACE HD - 053. FACE HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=7&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="4" tvg-name="054. Hayat TV HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/hayat.png" group-title="02. EX-Yugo",054. Hayat TV HD - 054. Hayat TV HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=4&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="9" tvg-name="055. BN Televizija" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/bntv.png" group-title="02. EX-Yugo",055. BN Televizija - 055. BN Televizija
+http://amsterdam2.dvrdns.org:14452/live?channelId=9&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="12" tvg-name="056. OBN" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/obn.png" group-title="02. EX-Yugo",056. OBN - 056. OBN
+http://amsterdam1.dvrdns.org:16880/live?channelId=12&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="20" tvg-name="057. RTS HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/rtshd.png" group-title="02. EX-Yugo",057. RTS HD - 057. RTS HD
+http://amsterdam3.dvrdns.org:15080/live?channelId=20&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="21" tvg-name="058. RTS 1" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/rts1.png" group-title="02. EX-Yugo",058. RTS 1 - 058. RTS 1
+http://amsterdam3.dvrdns.org:15080/live?channelId=21&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="22" tvg-name="059. RTS 2" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/rts2.png" group-title="02. EX-Yugo",059. RTS 2 - 059. RTS 2
+http://amsterdam3.dvrdns.org:15080/live?channelId=22&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="23" tvg-name="060. Prva TV" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/prva.png" group-title="02. EX-Yugo",060. Prva TV - 060. Prva TV
+http://lazalazarevic.dvrdns.org:8088/live?channelId=23&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="27" tvg-name="061. Happy TV" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/happy.png" group-title="02. EX-Yugo",061. Happy TV - 061. Happy TV
+http://toponica.dvrdns.org:8088/live?channelId=27&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="247" tvg-name="062. B92" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/b92.png" group-title="02. EX-Yugo",062. B92 - 062. B92
+http://toponica.dvrdns.org:8088/live?channelId=247&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="79" tvg-name="065. HRT 1" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hrt1.png" group-title="02. EX-Yugo",065. HRT 1 - 065. HRT 1
+http://amsterdam3.dvrdns.org:15080/live?channelId=79&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="80" tvg-name="066. HRT 2" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hrt2.png" group-title="02. EX-Yugo",066. HRT 2 - 066. HRT 2
+http://amsterdam3.dvrdns.org:15080/live?channelId=80&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="81" tvg-name="067. HRT 3" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hrt3.png" group-title="02. EX-Yugo",067. HRT 3 - 067. HRT 3
+http://amsterdam3.dvrdns.org:15080/live?channelId=81&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="82" tvg-name="068. HRT 4" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hrt4.png" group-title="02. EX-Yugo",068. HRT 4 - 068. HRT 4
+http://amsterdam3.dvrdns.org:15080/live?channelId=82&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="84" tvg-name="069. Nova TV" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/novatv.png" group-title="02. EX-Yugo",069. Nova TV - 069. Nova TV
+http://toponica.dvrdns.org:8088/live?channelId=84&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="83" tvg-name="070. Doma" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/doma.png" group-title="02. EX-Yugo",070. Doma - 070. Doma
+http://amsterdam3.dvrdns.org:15080/live?channelId=83&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="85" tvg-name="071. RTL Televizija" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/rtl.png" group-title="02. EX-Yugo",071. RTL Televizija - 071. RTL Televizija
+http://toponica.dvrdns.org:8088/live?channelId=85&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="86" tvg-name="072. RTL 2 Hr" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/rtl2.png" group-title="02. EX-Yugo",072. RTL 2 Hr - 072. RTL 2 Hr
+http://lazalazarevic.dvrdns.org:8088/live?channelId=86&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="327" tvg-name="073. Posavina TV" tvg-logo="/noicon.png" group-title="02. EX-Yugo",073. Posavina TV - 073. Posavina TV
+http://amsterdam1.dvrdns.org:16880/live?channelId=327&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="275" tvg-name="080. RTV CG" tvg-logo="/noicon.png" group-title="02. EX-Yugo",080. RTV CG - 080. RTV CG
+http://amsterdam3.dvrdns.org:15080/live?channelId=275&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="284" tvg-name="081. Z1" tvg-logo="http://santel.dvrdns.org:8000/live/AtlasTV/K3Ibllvw1x/24.ts" group-title="02. EX-Yugo",081. Z1 - 081. Z1
+http://lazalazarevic.dvrdns.org:8088/live?channelId=284&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="269" tvg-name="084. TV Jedinstvo" tvg-logo="/noicon.png" group-title="02. EX-Yugo",084. TV Jedinstvo - 084. TV Jedinstvo
+http://amsterdam3.dvrdns.org:15080/live?channelId=269&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="18" tvg-name="085. RTV Novi Pazar" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pazar.png" group-title="02. EX-Yugo",085. RTV Novi Pazar - 085. RTV Novi Pazar
+http://toponica.dvrdns.org:8088/live?channelId=18&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="19" tvg-name="086. Sandzak TV" tvg-logo="/noicon.png" group-title="02. EX-Yugo",086. Sandzak TV - 086. Sandzak TV
+http://lazalazarevic.dvrdns.org:8088/live?channelId=19&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="266" tvg-name="087. Hayat Plus" tvg-logo="http://proiptvgmbh.dyndns.org:89/live/magtv-sanel49/magtv-milan381/450.ts" group-title="02. EX-Yugo",087. Hayat Plus - 087. Hayat Plus
+http://amsterdam2.dvrdns.org:14452/live?channelId=266&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="15" tvg-name="088. TV TK" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/tk.png" group-title="02. EX-Yugo",088. TV TK - 088. TV TK
+http://lazalazarevic.dvrdns.org:8088/live?channelId=15&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="260" tvg-name="089. Alternativna TV *" tvg-logo="/noicon.png" group-title="02. EX-Yugo",089. Alternativna TV * - 089. Alternativna TV *
+http://amsterdam1.dvrdns.org:16880/live?channelId=260&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="294" tvg-name="090. TV 1" tvg-logo="http://rudnik2.dvrdns.org:10011" group-title="02. EX-Yugo",090. TV 1 - 090. TV 1
+http://toponica.dvrdns.org:8088/live?channelId=294&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="258" tvg-name="091. N1 * °" tvg-logo="/noicon.png" group-title="02. EX-Yugo",091. N1 * ° - 091. N1 * °
+http://amsterdam1.dvrdns.org:16880/live?channelId=258&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="264" tvg-name="092. NTV IC Kakanj *" tvg-logo="http://46.234.125.196:8080/ntcICKakanj/index.m3u8" group-title="02. EX-Yugo",092. NTV IC Kakanj * - 092. NTV IC Kakanj *
+http://amsterdam1.dvrdns.org:16880/live?channelId=264&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="25" tvg-name="094. Nova RS" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/novars.png" group-title="02. EX-Yugo",094. Nova RS - 094. Nova RS
+http://toponica.dvrdns.org:8088/live?channelId=25&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="24" tvg-name="095. Prva Plus *°" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/prvaplus.png" group-title="02. EX-Yugo",095. Prva Plus *° - 095. Prva Plus *°
+http://amsterdam3.dvrdns.org:15080/live?channelId=24&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="261" tvg-name="096. Belle Amie" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/logo-belle-amie.png" group-title="02. EX-Yugo",096. Belle Amie - 096. Belle Amie
+http://amsterdam2.dvrdns.org:14452/live?channelId=261&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="334" tvg-name="097. Glas Drine *" tvg-logo="/noicon.png" group-title="02. EX-Yugo",097. Glas Drine * - 097. Glas Drine *
+http://toponica.dvrdns.org:8088/live?channelId=334&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="14" tvg-name="098. Televizija 5 *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/kanal5.png" group-title="02. EX-Yugo",098. Televizija 5 * - 098. Televizija 5 *
+http://toponica.dvrdns.org:8088/live?channelId=14&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="340" tvg-name="099. MTV Igman °" tvg-logo="/noicon.png" group-title="02. EX-Yugo",099. MTV Igman ° - 099. MTV Igman °
+http://amsterdam1.dvrdns.org:16880/live?channelId=340&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="308" tvg-name="100. MRT 1 ° *" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/618.ts" group-title="02. EX-Yugo",100. MRT 1 ° * - 100. MRT 1 ° *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=308&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="309" tvg-name="101. MRT 2 ° *" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/674.ts" group-title="02. EX-Yugo",101. MRT 2 ° * - 101. MRT 2 ° *
+http://amsterdam2.dvrdns.org:14452/live?channelId=309&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="310" tvg-name="102. MRT 3 ° *" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/673.ts" group-title="02. EX-Yugo",102. MRT 3 ° * - 102. MRT 3 ° *
+http://amsterdam1.dvrdns.org:16880/live?channelId=310&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="267" tvg-name="103. Sitel °" tvg-logo="http://news.trumpiptv.pw:89/live/magtv-sanel49/magtv-milan381/640.ts" group-title="02. EX-Yugo",103. Sitel ° - 103. Sitel °
+http://amsterdam3.dvrdns.org:15080/live?channelId=267&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="312" tvg-name="105. Sitel 3 °" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/705.ts" group-title="02. EX-Yugo",105. Sitel 3 ° - 105. Sitel 3 °
+http://amsterdam1.dvrdns.org:16880/live?channelId=312&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="313" tvg-name="106. Kanal 5 *" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/639.ts" group-title="02. EX-Yugo",106. Kanal 5 * - 106. Kanal 5 *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=313&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="315" tvg-name="108. Telma °" tvg-logo="http://master.magiptv.net:89/live/cmsNarodnaTV/cms387MMTV/528.ts" group-title="02. EX-Yugo",108. Telma ° - 108. Telma °
+http://lazalazarevic.dvrdns.org:8088/live?channelId=315&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="316" tvg-name="109. Alfa MK *" tvg-logo="/noicon.png" group-title="02. EX-Yugo",109. Alfa MK * - 109. Alfa MK *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=316&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="337" tvg-name="110. SKY Folk °" tvg-logo="/noicon.png" group-title="02. EX-Yugo",110. SKY Folk ° - 110. SKY Folk °
+http://amsterdam1.dvrdns.org:16880/live?channelId=337&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="338" tvg-name="111. MK Sonce °" tvg-logo="/noicon.png" group-title="02. EX-Yugo",111. MK Sonce ° - 111. MK Sonce °
+http://amsterdam1.dvrdns.org:16880/live?channelId=338&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="339" tvg-name="112. 24 Vesti °" tvg-logo="/noicon.png" group-title="02. EX-Yugo",112. 24 Vesti ° - 112. 24 Vesti °
+http://amsterdam1.dvrdns.org:16880/live?channelId=339&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="6" tvg-name="118. Hayatovci" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/hayatovci.png" group-title="02. EX-Yugo",118. Hayatovci - 118. Hayatovci
+http://lazalazarevic.dvrdns.org:8088/live?channelId=6&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="374" tvg-name="119. Pink Super Kids" tvg-logo="/noicon.png" group-title="02. EX-Yugo",119. Pink Super Kids - 119. Pink Super Kids
+http://amsterdam1.dvrdns.org:16880/live?channelId=374&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="274" tvg-name="120. Nickleodon Srb" tvg-logo="/noicon.png" group-title="02. EX-Yugo",120. Nickleodon Srb - 120. Nickleodon Srb
+http://lazalazarevic.dvrdns.org:8088/live?channelId=274&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="277" tvg-name="121. Baby Tv" tvg-logo="/noicon.png" group-title="02. EX-Yugo",121. Baby Tv - 121. Baby Tv
+http://lazalazarevic.dvrdns.org:8088/live?channelId=277&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="71" tvg-name="122. MiniTV °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/mini.png" group-title="02. EX-Yugo",122. MiniTV ° - 122. MiniTV °
+http://amsterdam3.dvrdns.org:15080/live?channelId=71&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="262" tvg-name="123. Ultra Tv" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/ultra.png" group-title="02. EX-Yugo",123. Ultra Tv - 123. Ultra Tv
+http://amsterdam2.dvrdns.org:14452/live?channelId=262&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="293" tvg-name="124. RTL Kockica" tvg-logo="http://ludnica0216.dvrdns.org:89/live/SPORTALsmilSa/SanMillxyTR/535.ts" group-title="02. EX-Yugo",124. RTL Kockica - 124. RTL Kockica
+http://toponica.dvrdns.org:8088/live?channelId=293&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="28" tvg-name="125. Pink" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pink.png" group-title="03. Pink Media",125. Pink - 125. Pink
+http://lazalazarevic.dvrdns.org:8088/live?channelId=28&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="29" tvg-name="126. Pink 2" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pink2.png" group-title="03. Pink Media",126. Pink 2 - 126. Pink 2
+http://lazalazarevic.dvrdns.org:8088/live?channelId=29&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="30" tvg-name="127. Pink 3 *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pink3.png" group-title="03. Pink Media",127. Pink 3 * - 127. Pink 3 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=30&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="34" tvg-name="128. Pink Premium" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkpremium.png" group-title="03. Pink Media",128. Pink Premium - 128. Pink Premium
+http://toponica.dvrdns.org:8088/live?channelId=34&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="42" tvg-name="129. Pink Western" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkwestern.png" group-title="03. Pink Media",129. Pink Western - 129. Pink Western
+http://toponica.dvrdns.org:8088/live?channelId=42&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="35" tvg-name="130. Pink Zabava" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkzabava.png" group-title="03. Pink Media",130. Pink Zabava - 130. Pink Zabava
+http://toponica.dvrdns.org:8088/live?channelId=35&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="39" tvg-name="131. Pink Reality *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkreality.png" group-title="03. Pink Media",131. Pink Reality * - 131. Pink Reality *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=39&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="62" tvg-name="132. Pink Serije" tvg-logo="http://proiptvgmbh.dyndns.org:89/live/magtv-sanel49/magtv-milan381/583.ts" group-title="03. Pink Media",132. Pink Serije - 132. Pink Serije
+http://toponica.dvrdns.org:8088/live?channelId=62&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="43" tvg-name="133. Pink Action" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkaction2.png" group-title="03. Pink Media",133. Pink Action - 133. Pink Action
+http://toponica.dvrdns.org:8088/live?channelId=43&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="32" tvg-name="134. Pink BH" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkbih.png" group-title="03. Pink Media",134. Pink BH - 134. Pink BH
+http://toponica.dvrdns.org:8088/live?channelId=32&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="296" tvg-name="135. Pink Bravo" tvg-logo="http://ludnica0216.dvrdns.org:89/live/SPORTALsmilSa/SanMillxyTR/428.ts" group-title="03. Pink Media",135. Pink Bravo - 135. Pink Bravo
+http://toponica.dvrdns.org:8088/live?channelId=296&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="51" tvg-name="136. Pink Clasic *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkclasik.png" group-title="03. Pink Media",136. Pink Clasic * - 136. Pink Clasic *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=51&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="50" tvg-name="137. Pink Comedy" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkcomedy.png" group-title="03. Pink Media",137. Pink Comedy - 137. Pink Comedy
+http://amsterdam2.dvrdns.org:14452/live?channelId=50&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="53" tvg-name="138. Pink Extra" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkextra.png" group-title="03. Pink Media",138. Pink Extra - 138. Pink Extra
+http://amsterdam3.dvrdns.org:15080/live?channelId=53&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="63" tvg-name="139. Pink Family *" tvg-logo="/noicon.png" group-title="03. Pink Media",139. Pink Family * - 139. Pink Family *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=63&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="70" tvg-name="140. Pink Fight Network *" tvg-logo="/noicon.png" group-title="03. Pink Media",140. Pink Fight Network * - 140. Pink Fight Network *
+http://amsterdam1.dvrdns.org:16880/live?channelId=70&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="33" tvg-name="141. Pink Film" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkfilm.png" group-title="03. Pink Media",141. Pink Film - 141. Pink Film
+http://toponica.dvrdns.org:8088/live?channelId=33&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="37" tvg-name="142. Pink Folk 1" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkfolk1.png" group-title="03. Pink Media",142. Pink Folk 1 - 142. Pink Folk 1
+http://toponica.dvrdns.org:8088/live?channelId=37&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="38" tvg-name="143. Pink Folk 2" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkfolk2.png" group-title="03. Pink Media",143. Pink Folk 2 - 143. Pink Folk 2
+http://lazalazarevic.dvrdns.org:8088/live?channelId=38&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="49" tvg-name="144. Pink Horor" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkhoror.png" group-title="03. Pink Media",144. Pink Horor - 144. Pink Horor
+http://amsterdam3.dvrdns.org:15080/live?channelId=49&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="66" tvg-name="145. Pink Kuvar *" tvg-logo="/noicon.png" group-title="03. Pink Media",145. Pink Kuvar * - 145. Pink Kuvar *
+http://amsterdam1.dvrdns.org:16880/live?channelId=66&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="299" tvg-name="146. Pink M" tvg-logo="/noicon.png" group-title="03. Pink Media",146. Pink M - 146. Pink M
+http://toponica.dvrdns.org:8088/live?channelId=299&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="46" tvg-name="147. Pink Movies" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pink-movies-logo.png" group-title="03. Pink Media",147. Pink Movies - 147. Pink Movies
+http://toponica.dvrdns.org:8088/live?channelId=46&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="47" tvg-name="148. Pink Movies 2 *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkmovies2.png" group-title="03. Pink Media",148. Pink Movies 2 * - 148. Pink Movies 2 *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=47&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="56" tvg-name="149. Pink Music 2" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/music-2.png" group-title="03. Pink Media",149. Pink Music 2 - 149. Pink Music 2
+http://lazalazarevic.dvrdns.org:8088/live?channelId=56&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="55" tvg-name="150. Pink Music" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkmusic.png" group-title="03. Pink Media",150. Pink Music - 150. Pink Music
+http://toponica.dvrdns.org:8088/live?channelId=55&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="40" tvg-name="151. Pink Plus *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinkplus.png" group-title="03. Pink Media",151. Pink Plus * - 151. Pink Plus *
+http://amsterdam1.dvrdns.org:16880/live?channelId=40&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="61" tvg-name="152. Pink Rockenrol *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkrockenrol.png" group-title="03. Pink Media",152. Pink Rockenrol * - 152. Pink Rockenrol *
+http://amsterdam3.dvrdns.org:15080/live?channelId=61&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="280" tvg-name="153. Pink Sci-Fi & Fantasy *" tvg-logo="/noicon.png" group-title="03. Pink Media",153. Pink Sci-Fi & Fantasy * - 153. Pink Sci-Fi & Fantasy *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=280&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="41" tvg-name="154. Pink Soap *" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/pinksoap.png" group-title="03. Pink Media",154. Pink Soap * - 154. Pink Soap *
+http://amsterdam3.dvrdns.org:15080/live?channelId=41&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="67" tvg-name="155. Pink Style *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkstyle.png" group-title="03. Pink Media",155. Pink Style * - 155. Pink Style *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=67&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="48" tvg-name="156. Pink World Cinema" tvg-logo="/noicon.png" group-title="03. Pink Media",156. Pink World Cinema - 156. Pink World Cinema
+http://amsterdam3.dvrdns.org:15080/live?channelId=48&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="113" tvg-name="160. Arena Sport HD 1 *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arenasport1hr.png" group-title="04. Sport",160. Arena Sport HD 1 * - 160. Arena Sport HD 1 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=113&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="114" tvg-name="161. Arena Sport HD 2 *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arena2hrhd.png" group-title="04. Sport",161. Arena Sport HD 2 * - 161. Arena Sport HD 2 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=114&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="115" tvg-name="162. Arena Sport HD 3 *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arena3hr.png" group-title="04. Sport",162. Arena Sport HD 3 * - 162. Arena Sport HD 3 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=115&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="116" tvg-name="163. Arena Sport HD 4 *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arena4hr.png" group-title="04. Sport",163. Arena Sport HD 4 * - 163. Arena Sport HD 4 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=116&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="376" tvg-name="165. Arena Sport 1 sr" tvg-logo="/noicon.png" group-title="04. Sport",165. Arena Sport 1 sr - 165. Arena Sport 1 sr
+http://amsterdam1.dvrdns.org:16880/live?channelId=376&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="108" tvg-name="166. Arena Sport Sr 1 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arenasport1.png" group-title="04. Sport",166. Arena Sport Sr 1 HD - 166. Arena Sport Sr 1 HD
+http://toponica.dvrdns.org:8088/live?channelId=108&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="109" tvg-name="167. Arena Sport Sr 2 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arenasport2.png" group-title="04. Sport",167. Arena Sport Sr 2 HD - 167. Arena Sport Sr 2 HD
+http://toponica.dvrdns.org:8088/live?channelId=109&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="110" tvg-name="168. Arena Sport Sr 3 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arenasport3.png" group-title="04. Sport",168. Arena Sport Sr 3 HD - 168. Arena Sport Sr 3 HD
+http://toponica.dvrdns.org:8088/live?channelId=110&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="111" tvg-name="169. Arena Sport Sr 4 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arenasport4.png" group-title="04. Sport",169. Arena Sport Sr 4 HD - 169. Arena Sport Sr 4 HD
+http://toponica.dvrdns.org:8088/live?channelId=111&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="112" tvg-name="170. Arena Sport Sr 5 *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/arena5.png" group-title="04. Sport",170. Arena Sport Sr 5 * - 170. Arena Sport Sr 5 *
+http://amsterdam3.dvrdns.org:15080/live?channelId=112&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="117" tvg-name="171. Eurosport 1 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/esphd.png" group-title="04. Sport",171. Eurosport 1 HD - 171. Eurosport 1 HD
+http://toponica.dvrdns.org:8088/live?channelId=117&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="118" tvg-name="172. Eurosport 2 HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/esp2.png" group-title="04. Sport",172. Eurosport 2 HD - 172. Eurosport 2 HD
+http://toponica.dvrdns.org:8088/live?channelId=118&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="119" tvg-name="173. Sport klub HD 1" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sportclub1.png" group-title="04. Sport",173. Sport klub HD 1 - 173. Sport klub HD 1
+http://amsterdam1.dvrdns.org:16880/live?channelId=119&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="120" tvg-name="174. Sport klub HD 2" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sportclub2.png" group-title="04. Sport",174. Sport klub HD 2 - 174. Sport klub HD 2
+http://amsterdam3.dvrdns.org:15080/live?channelId=120&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="121" tvg-name="175. Sport klub HD 3" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/sportclub3.png" group-title="04. Sport",175. Sport klub HD 3 - 175. Sport klub HD 3
+http://amsterdam3.dvrdns.org:15080/live?channelId=121&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="373" tvg-name="176. SKY SPORT NEWS" tvg-logo="/noicon.png" group-title="04. Sport",176. SKY SPORT NEWS - 176. SKY SPORT NEWS
+http://amsterdam1.dvrdns.org:16880/live?channelId=373&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="156" tvg-name="177. Sport 1 HD GER" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/skysport1.png" group-title="04. Sport",177. Sport 1 HD GER - 177. Sport 1 HD GER
+http://amsterdam1.dvrdns.org:16880/live?channelId=156&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="157" tvg-name="178. Sport 2 HD GER" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/skysport2.png" group-title="04. Sport",178. Sport 2 HD GER - 178. Sport 2 HD GER
+http://amsterdam1.dvrdns.org:16880/live?channelId=157&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="146" tvg-name="183. Bundesliga 1 HD.." tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/Sky_Bundesliga_HD1_Corner_2013.svg.png" group-title="04. Sport",183. Bundesliga 1 HD.. - 183. Bundesliga 1 HD..
+http://amsterdam1.dvrdns.org:16880/live?channelId=146&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="328" tvg-name="189. Eurosport 1 DE" tvg-logo="/noicon.png" group-title="04. Sport",189. Eurosport 1 DE - 189. Eurosport 1 DE
+http://amsterdam1.dvrdns.org:16880/live?channelId=328&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="87" tvg-name="205. Cinemax+ * °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/cinemax.png" group-title="06. Film",205. Cinemax+ * ° - 205. Cinemax+ * °
+http://amsterdam1.dvrdns.org:16880/live?channelId=87&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="88" tvg-name="206. Cinemax 2 * °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/cinemax2.png" group-title="06. Film",206. Cinemax 2 * ° - 206. Cinemax 2 * °
+http://lazalazarevic.dvrdns.org:8088/live?channelId=88&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="90" tvg-name="207. HBO Adria" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hboadrija.png" group-title="06. Film",207. HBO Adria - 207. HBO Adria
+http://amsterdam2.dvrdns.org:14452/live?channelId=90&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="89" tvg-name="208. HBO Comedy °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/hbocomedy.png" group-title="06. Film",208. HBO Comedy ° - 208. HBO Comedy °
+http://lazalazarevic.dvrdns.org:8088/live?channelId=89&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="336" tvg-name="209. HBO 3 HD °" tvg-logo="/noicon.png" group-title="06. Film",209. HBO 3 HD ° - 209. HBO 3 HD °
+http://amsterdam1.dvrdns.org:16880/live?channelId=336&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="93" tvg-name="210. Fox" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/fox.png" group-title="06. Film",210. Fox - 210. Fox
+http://amsterdam2.dvrdns.org:14452/live?channelId=93&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="94" tvg-name="211. Fox Crime" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/foxcrime.png" group-title="06. Film",211. Fox Crime - 211. Fox Crime
+http://amsterdam2.dvrdns.org:14452/live?channelId=94&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="95" tvg-name="212. Fox Life" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/foxlife.png" group-title="06. Film",212. Fox Life - 212. Fox Life
+http://amsterdam3.dvrdns.org:15080/live?channelId=95&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="276" tvg-name="213. FOX MOVIES" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/fox.png" group-title="06. Film",213. FOX MOVIES - 213. FOX MOVIES
+http://amsterdam2.dvrdns.org:14452/live?channelId=276&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="265" tvg-name="214. Cinestar" tvg-logo="/noicon.png" group-title="06. Film",214. Cinestar - 214. Cinestar
+http://amsterdam3.dvrdns.org:15080/live?channelId=265&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="335" tvg-name="215. Cinestar Action" tvg-logo="/noicon.png" group-title="06. Film",215. Cinestar Action - 215. Cinestar Action
+http://amsterdam2.dvrdns.org:14452/live?channelId=335&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="317" tvg-name="216. CineStar Premiere 1 HD" tvg-logo="/noicon.png" group-title="06. Film",216. CineStar Premiere 1 HD - 216. CineStar Premiere 1 HD
+http://amsterdam1.dvrdns.org:16880/live?channelId=317&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="318" tvg-name="217. CineStar Premiere 2 HD" tvg-logo="/noicon.png" group-title="06. Film",217. CineStar Premiere 2 HD - 217. CineStar Premiere 2 HD
+http://amsterdam1.dvrdns.org:16880/live?channelId=318&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="263" tvg-name="218. Klasik TV °" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/klasik.png" group-title="06. Film",218. Klasik TV ° - 218. Klasik TV °
+http://amsterdam3.dvrdns.org:15080/live?channelId=263&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="73" tvg-name="220. DM Sat" tvg-logo="/noicon.png" group-title="07. Muzika",220. DM Sat - 220. DM Sat
+http://amsterdam3.dvrdns.org:15080/live?channelId=73&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="16" tvg-name="221. BN Music" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/bnm.png" group-title="07. Muzika",221. BN Music - 221. BN Music
+http://amsterdam3.dvrdns.org:15080/live?channelId=16&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="13" tvg-name="222. OTV Valentino" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/valentino.png" group-title="07. Muzika",222. OTV Valentino - 222. OTV Valentino
+http://lazalazarevic.dvrdns.org:8088/live?channelId=13&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="283" tvg-name="223. Bujrum TV *" tvg-logo="/noicon.png" group-title="07. Muzika",223. Bujrum TV * - 223. Bujrum TV *
+http://amsterdam3.dvrdns.org:15080/live?channelId=283&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="75" tvg-name="224. CMC *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/dmsat.png" group-title="07. Muzika",224. CMC * - 224. CMC *
+http://amsterdam1.dvrdns.org:16880/live?channelId=75&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="76" tvg-name="225. Duga" tvg-logo="http://rudnik2.dvrdns.org:1005" group-title="07. Muzika",225. Duga - 225. Duga
+http://lazalazarevic.dvrdns.org:8088/live?channelId=76&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="285" tvg-name="226. Grand" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/grandtv.png" group-title="07. Muzika",226. Grand - 226. Grand
+http://amsterdam3.dvrdns.org:15080/live?channelId=285&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="291" tvg-name="227. Hayat Music" tvg-logo="/noicon.png" group-title="07. Muzika",227. Hayat Music - 227. Hayat Music
+http://lazalazarevic.dvrdns.org:8088/live?channelId=291&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="5" tvg-name="228. Hayat Folk" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/hfolk.png" group-title="07. Muzika",228. Hayat Folk - 228. Hayat Folk
+http://amsterdam3.dvrdns.org:15080/live?channelId=5&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="295" tvg-name="229. Izvorna TV" tvg-logo="http://ludnica0216.dvrdns.org:89/live/SPORTALsmilSa/SanMillxyTR/443.ts" group-title="07. Muzika",229. Izvorna TV - 229. Izvorna TV
+http://toponica.dvrdns.org:8088/live?channelId=295&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="11" tvg-name="192. SPORT NET" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/kanal6.png" group-title="04. Sport",192. SPORT NET - 192. SPORT NET
+http://amsterdam2.dvrdns.org:14452/live?channelId=11&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="177" tvg-name="231. Kopernikus" tvg-logo="/noicon.png" group-title="07. Muzika",231. Kopernikus - 231. Kopernikus
+http://lazalazarevic.dvrdns.org:8088/live?channelId=177&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="371" tvg-name="232. IDJ TV °" tvg-logo="/noicon.png" group-title="07. Muzika",232. IDJ TV ° - 232. IDJ TV °
+http://amsterdam3.dvrdns.org:15080/live?channelId=371&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="372" tvg-name="233. Bosna TV1 °" tvg-logo="/noicon.png" group-title="07. Muzika",233. Bosna TV1 ° - 233. Bosna TV1 °
+http://lazalazarevic.dvrdns.org:8088/live?channelId=372&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="251" tvg-name="239. VH1" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/vh1_old.png" group-title="07. Muzika",239. VH1 - 239. VH1
+http://toponica.dvrdns.org:8088/live?channelId=251&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="225" tvg-name="240. RTK 1" tvg-logo="/noicon.png" group-title="08. Bonus programi",240. RTK 1 - 240. RTK 1
+http://lazalazarevic.dvrdns.org:8088/live?channelId=225&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="301" tvg-name="241. TVSH" tvg-logo="/noicon.png" group-title="08. Bonus programi",241. TVSH - 241. TVSH
+http://amsterdam2.dvrdns.org:14452/live?channelId=301&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="292" tvg-name="242. SHUTEL" tvg-logo="/noicon.png" group-title="08. Bonus programi",242. SHUTEL - 242. SHUTEL
+http://amsterdam1.dvrdns.org:16880/live?channelId=292&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="96" tvg-name="250. Animal Planet HD" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/animal.png" group-title="05. Dokumentarni",250. Animal Planet HD - 250. Animal Planet HD
+http://amsterdam2.dvrdns.org:14452/live?channelId=96&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="248" tvg-name="251. Discovery ID HD" tvg-logo="http://rudnik2.dvrdns.org:10009" group-title="05. Dokumentarni",251. Discovery ID HD - 251. Discovery ID HD
+http://lazalazarevic.dvrdns.org:8088/live?channelId=248&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="250" tvg-name="252. History Channel" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/historyHD.png" group-title="05. Dokumentarni",252. History Channel - 252. History Channel
+http://amsterdam3.dvrdns.org:15080/live?channelId=250&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="104" tvg-name="253. Lov & Ribolov *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/loviribolov.png" group-title="05. Dokumentarni",253. Lov & Ribolov * - 253. Lov & Ribolov *
+http://amsterdam3.dvrdns.org:15080/live?channelId=104&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="249" tvg-name="254. National Geo SR *" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/natgeographic.png" group-title="05. Dokumentarni",254. National Geo SR * - 254. National Geo SR *
+http://lazalazarevic.dvrdns.org:8088/live?channelId=249&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="213" tvg-name="255. Travel Channel HD" tvg-logo="/noicon.png" group-title="05. Dokumentarni",255. Travel Channel HD - 255. Travel Channel HD
+http://lazalazarevic.dvrdns.org:8088/live?channelId=213&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="100" tvg-name="256. Crime Investigation Network" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/crimeinvestigation.png" group-title="05. Dokumentarni",256. Crime Investigation Network - 256. Crime Investigation Network
+http://toponica.dvrdns.org:8088/live?channelId=100&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="99" tvg-name="257. Discovery" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/discovery.png" group-title="05. Dokumentarni",257. Discovery - 257. Discovery
+http://lazalazarevic.dvrdns.org:8088/live?channelId=99&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="105" tvg-name="258. TLC" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/tlc.png" group-title="05. Dokumentarni",258. TLC - 258. TLC
+http://toponica.dvrdns.org:8088/live?channelId=105&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="259" tvg-name="259. E! *" tvg-logo="/noicon.png" group-title="05. Dokumentarni",259. E! * - 259. E! *
+http://amsterdam3.dvrdns.org:15080/live?channelId=259&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="252" tvg-name="260. Kitchen 24 °" tvg-logo="/noicon.png" group-title="05. Dokumentarni",260. Kitchen 24 ° - 260. Kitchen 24 °
+http://lazalazarevic.dvrdns.org:8088/live?channelId=252&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="345" tvg-name="300. RTL 4 nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",300. RTL 4 nl ° - 300. RTL 4 nl °
+http://kreka.dvrdns.org:80/live?channelId=345&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="346" tvg-name="301. RTL 5 nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",301. RTL 5 nl ° - 301. RTL 5 nl °
+http://kreka.dvrdns.org:80/live?channelId=346&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="347" tvg-name="302. RTL 7 nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",302. RTL 7 nl ° - 302. RTL 7 nl °
+http://kreka.dvrdns.org:80/live?channelId=347&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="348" tvg-name="303. RTL 8 nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",303. RTL 8 nl ° - 303. RTL 8 nl °
+http://kreka.dvrdns.org:80/live?channelId=348&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="349" tvg-name="304. RTL Z nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",304. RTL Z nl ° - 304. RTL Z nl °
+http://kreka.dvrdns.org:80/live?channelId=349&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="350" tvg-name="305. FILM 1 Action nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",305. FILM 1 Action nl ° - 305. FILM 1 Action nl °
+http://kreka.dvrdns.org:80/live?channelId=350&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="351" tvg-name="306. FILM 1 Familly nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",306. FILM 1 Familly nl ° - 306. FILM 1 Familly nl °
+http://kreka.dvrdns.org:80/live?channelId=351&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="352" tvg-name="307. FILM 1 Premiere nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",307. FILM 1 Premiere nl ° - 307. FILM 1 Premiere nl °
+http://kreka.dvrdns.org:80/live?channelId=352&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="353" tvg-name="308. FILM 1 Drama nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",308. FILM 1 Drama nl ° - 308. FILM 1 Drama nl °
+http://kreka.dvrdns.org:80/live?channelId=353&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="354" tvg-name="309. FILM 1 Sundance nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",309. FILM 1 Sundance nl ° - 309. FILM 1 Sundance nl °
+http://kreka.dvrdns.org:80/live?channelId=354&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="355" tvg-name="310. Veronica / Disney nl °" tvg-logo="/noicon.png" group-title="08. Bonus programi",310. Veronica / Disney nl ° - 310. Veronica / Disney nl °
+http://kreka.dvrdns.org:80/live?channelId=355&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="356" tvg-name="320. Sky Movies Scifi uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",320. Sky Movies Scifi uk ° - 320. Sky Movies Scifi uk °
+http://kreka.dvrdns.org:80/live?channelId=356&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="357" tvg-name="321. Sky Movies Select uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",321. Sky Movies Select uk ° - 321. Sky Movies Select uk °
+http://kreka.dvrdns.org:80/live?channelId=357&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="358" tvg-name="322. Sky Movies Greats uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",322. Sky Movies Greats uk ° - 322. Sky Movies Greats uk °
+http://kreka.dvrdns.org:80/live?channelId=358&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="359" tvg-name="323. Sky Movies Family uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",323. Sky Movies Family uk ° - 323. Sky Movies Family uk °
+http://kreka.dvrdns.org:80/live?channelId=359&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="362" tvg-name="326. Sky Movies Comedy uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",326. Sky Movies Comedy uk ° - 326. Sky Movies Comedy uk °
+http://kreka.dvrdns.org:80/live?channelId=362&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="363" tvg-name="327. Sky Movies Premiere uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",327. Sky Movies Premiere uk ° - 327. Sky Movies Premiere uk °
+http://kreka.dvrdns.org:80/live?channelId=363&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="364" tvg-name="328. Sky Movies Action & Adventure uk °" tvg-logo="/noicon.png" group-title="08. Bonus programi",328. Sky Movies Action & Adventure uk ° - 328. Sky Movies Action & Adventure uk °
+http://kreka.dvrdns.org:80/live?channelId=364&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="172" tvg-name="400. Erotik 1 °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkerotic1.png" group-title="09. XXX",400. Erotik 1 ° - 400. Erotik 1 °
+http://toponica.dvrdns.org:8088/live?channelId=172&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="173" tvg-name="401. Erotik 2 °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkerotic2.png" group-title="09. XXX",401. Erotik 2 ° - 401. Erotik 2 °
+http://toponica.dvrdns.org:8088/live?channelId=173&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="174" tvg-name="402. Erotik 3 °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkerotic3.png" group-title="09. XXX",402. Erotik 3 ° - 402. Erotik 3 °
+http://toponica.dvrdns.org:8088/live?channelId=174&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="297" tvg-name="403. Erotik 4 °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/pinkerotic4.png" group-title="09. XXX",403. Erotik 4 ° - 403. Erotik 4 °
+http://toponica.dvrdns.org:8088/live?channelId=297&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="298" tvg-name="404. Erotik 5 °" tvg-logo="http://hdd2mil.homelinux.net:88/IGR/LOGO%20SMANJENI/xxx.png" group-title="09. XXX",404. Erotik 5 ° - 404. Erotik 5 °
+http://toponica.dvrdns.org:8088/live?channelId=298&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="330" tvg-name="C More Action" tvg-logo="/noicon.png" group-title="08. Bonus programi",C More Action - C More Action
+http://amsterdam1.dvrdns.org:16880/live?channelId=330&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="331" tvg-name="Disney Swe" tvg-logo="/noicon.png" group-title="08. Bonus programi",Disney Swe - Disney Swe
+http://amsterdam2.dvrdns.org:14452/live?channelId=331&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="305" tvg-name="Kanal 5 swe *" tvg-logo="/noicon.png" group-title="08. Bonus programi",Kanal 5 swe * - Kanal 5 swe *
+http://amsterdam1.dvrdns.org:16880/live?channelId=305&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="344" tvg-name="261. National Geo Wild" tvg-logo="/noicon.png" group-title="05. Dokumentarni",261. National Geo Wild - 261. National Geo Wild
+http://amsterdam1.dvrdns.org:16880/live?channelId=344&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="306" tvg-name="STV 1 *" tvg-logo="/noicon.png" group-title="08. Bonus programi",STV 1 * - STV 1 *
+http://amsterdam1.dvrdns.org:16880/live?channelId=306&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="307" tvg-name="Svt 2 *" tvg-logo="/noicon.png" group-title="08. Bonus programi",Svt 2 * - Svt 2 *
+http://amsterdam1.dvrdns.org:16880/live?channelId=307&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="304" tvg-name="TV 4 *" tvg-logo="/noicon.png" group-title="08. Bonus programi",TV 4 * - TV 4 *
+http://amsterdam1.dvrdns.org:16880/live?channelId=304&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="333" tvg-name="TV 8" tvg-logo="/noicon.png" group-title="08. Bonus programi",TV 8 - TV 8
+http://amsterdam1.dvrdns.org:16880/live?channelId=333&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="332" tvg-name="TV3" tvg-logo="/noicon.png" group-title="08. Bonus programi",TV3 - TV3
+http://amsterdam2.dvrdns.org:14452/live?channelId=332&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="303" tvg-name="Viasat Action *" tvg-logo="/noicon.png" group-title="08. Bonus programi",Viasat Action * - Viasat Action *
+http://amsterdam1.dvrdns.org:16880/live?channelId=303&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="302" tvg-name="Viasat Premiere *" tvg-logo="/noicon.png" group-title="08. Bonus programi",Viasat Premiere * - Viasat Premiere *
+http://amsterdam1.dvrdns.org:16880/live?channelId=302&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="329" tvg-name="Viasat Film" tvg-logo="/noicon.png" group-title="08. Bonus programi",Viasat Film - Viasat Film
+http://amsterdam3.dvrdns.org:15080/live?channelId=329&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="375" tvg-name="238. MTV Adria" tvg-logo="/noicon.png" group-title="07. Muzika",238. MTV Adria - 238. MTV Adria
+http://amsterdam1.dvrdns.org:16880/live?channelId=375&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="377" tvg-name="500. Radio Royal" tvg-logo="/noicon.png" group-title="10. Radio",500. Radio Royal - 
+http://amsterdam1.dvrdns.org:16880/live?channelId=377&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="378" tvg-name="083. RTV 7" tvg-logo="/noicon.png" group-title="02. EX-Yugo",083. RTV 7 - 083. RTV 7
+http://toponica.dvrdns.org:8088/live?channelId=378&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+#EXTINF:-1 tvg-id="379" tvg-name="082. TV Slon" tvg-logo="/noicon.png" group-title="02. EX-Yugo",082. TV Slon - 082. TV Slon
+http://amsterdam3.dvrdns.org:15080/live?channelId=379&uid=33&deviceUser=viktorlov&devicePass=lovviktor
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1, Music Box
+http://195.20.125.8:8585/play/a01v
+#EXTINF:-1, МАТЧ! ФУТБОЛ 3
+http://195.20.125.8:8585/play/a03u
+#EXTINF:-1, Viasat History TEST
+http://195.20.125.8:8585/play/a02z
+#EXTINF:-1, TLC TEST
+http://195.20.125.8:8585/play/a02d
+#EXTINF:-1, BOLT
+http://195.20.125.8:8585/play/a009
+#EXTINF:-1, TV1000 Action TEST
+http://195.20.125.8:8585/play/a02i
+#EXTINF:-1, EPOQUE
+http://195.20.125.8:8585/play/a004
+#EXTINF:-1, Fine Living TEST
+http://195.20.125.8:8585/play/a02u
+#EXTINF:-1, Unian TV
+http://195.20.125.8:8585/play/a01u
+#EXTINF:-1, PIXEL
+http://195.20.125.8:8585/play/a01l
+#EXTINF:-1, МУЗ
+http://195.20.125.8:8585/play/a03x
+#EXTINF:-1, FOX Life TEST
+http://195.20.125.8:8585/play/a02p
+#EXTINF:-1, 1+1 International
+http://195.20.125.8:8585/play/a01r
+#EXTINF:-1, KIEV STB
+http://195.20.125.8:8585/play/a00d
+#EXTINF:-1, Travel Channel HD TEST
+http://195.20.125.8:8585/play/a029
+#EXTINF:-1, UA KRYM
+http://195.20.125.8:8585/play/a00o
+#EXTINF:-1, History HD TEST
+http://195.20.125.8:8585/play/a024
+#EXTINF:-1, National Geographic TEST
+http://195.20.125.8:8585/play/a02w
+#EXTINF:-1, K2
+http://195.20.125.8:8585/play/a01j
+#EXTINF:-1, Food Network TEST
+http://195.20.125.8:8585/play/a02t
+#EXTINF:-1, Detskiy Mir TEST
+http://195.20.125.8:8585/play/a042
+#EXTINF:-1, Ukraine HD TEST
+http://195.20.125.8:8585/play/a023
+#EXTINF:-1, Viasat Nature TEST
+http://195.20.125.8:8585/play/a030
+#EXTINF:-1, Sony Turbo TEST
+http://195.20.125.8:8585/play/a02l
+#EXTINF:-1, Kvartal TV
+http://195.20.125.8:8585/play/a01w
+#EXTINF:-1, Nauka
+http://195.20.125.8:8585/play/a006
+#EXTINF:-1, МАТЧ! ФУТБОЛ 2
+http://195.20.125.8:8585/play/a03t
+#EXTINF:-1, MEGA
+http://195.20.125.8:8585/play/a01h
+#EXTINF:-1, M4 Sport HD (Europa)
+http://195.20.125.8:8585/play/a01a
+#EXTINF:-1, Trofey
+http://195.20.125.8:8585/play/a002
+#EXTINF:-1, DACHA
+http://195.20.125.8:8585/play/a003
+#EXTINF:-1, 2+2
+http://195.20.125.8:8585/play/a01q
+#EXTINF:-1, QTV
+http://195.20.125.8:8585/play/a00m
+#EXTINF:-1, M2 HD (Europa)
+http://195.20.125.8:8585/play/a018
+#EXTINF:-1, MILADY TELEVISION
+http://195.20.125.8:8585/play/a00f
+#EXTINF:-1, M1 HD (Europa)
+http://195.20.125.8:8585/play/a017
+#EXTINF:-1, TV1000 Comedy TEST
+http://195.20.125.8:8585/play/a02j
+#EXTINF:-1, Bigudi
+http://195.20.125.8:8585/play/a01t
+#EXTINF:-1, 24Док
+http://195.20.125.8:8585/play/a03v
+#EXTINF:-1, Eko TV
+http://195.20.125.8:8585/play/a00k
+#EXTINF:-1, Телеканал КХЛ
+http://195.20.125.8:8585/play/a03z
+#EXTINF:-1, K1
+http://195.20.125.8:8585/play/a01i
+#EXTINF:-1, Eurosport 1 TEST
+http://195.20.125.8:8585/play/a02b
+#EXTINF:-1, Fauna
+http://195.20.125.8:8585/play/a007
+#EXTINF:-1, FILMUACTION
+http://195.20.125.8:8585/play/a043
+#EXTINF:-1, Boomerang TEST
+http://195.20.125.8:8585/play/a02s
+#EXTINF:-1, FOX TEST
+http://195.20.125.8:8585/play/a02o
+#EXTINF:-1, L!FE
+http://195.20.125.8:8585/play/a044
+#EXTINF:-1, МАТЧ! ФУТБОЛ 1
+http://195.20.125.8:8585/play/a03s
+#EXTINF:-1, НАШ ФУТБОЛ
+http://195.20.125.8:8585/play/a03y
+#EXTINF:-1, TET
+http://195.20.125.8:8585/play/a01p
+#EXTINF:-1, Sony Entertainment TEST
+http://195.20.125.8:8585/play/a02m
+#EXTINF:-1, NTN
+http://195.20.125.8:8585/play/a01f
+#EXTINF:-1, МАТЧ! ИГРА
+http://195.20.125.8:8585/play/a03q
+#EXTINF:-1, O-TV
+http://195.20.125.8:8585/play/a01x
+#EXTINF:-1, 1+1
+http://195.20.125.8:8585/play/a01o
+#EXTINF:-1, Cartoon Network TEST
+http://195.20.125.8:8585/play/a02r
+#EXTINF:-1, Канал Disney
+http://195.20.125.8:8585/play/a03w
+#EXTINF:-1, МАТЧ! АРЕНА
+http://195.20.125.8:8585/play/a03o
+#EXTINF:-1, M5 HD (Europa)
+http://195.20.125.8:8585/play/a01b
+#EXTINF:-1, STAR CINEMA TEST
+http://195.20.125.8:8585/play/a040
+#EXTINF:-1, Football 1 HD TEST
+http://195.20.125.8:8585/play/a021
+#EXTINF:-1, Discovery Science TEST
+http://195.20.125.8:8585/play/a034
+#EXTINF:-1, Nat Geo Wild TEST
+http://195.20.125.8:8585/play/a02x
+#EXTINF:-1, Tonis SD
+http://195.20.125.8:8585/play/a00l
+#EXTINF:-1, МАТЧ! НАШ СПОРТ
+http://195.20.125.8:8585/play/a03r
+#EXTINF:-1, Discovery TEST
+http://195.20.125.8:8585/play/a032
+#EXTINF:-1, Viasat Sport TEST
+http://195.20.125.8:8585/play/a02a
+#EXTINF:-1, NOVY CHANNEL
+http://195.20.125.8:8585/play/a00g
+#EXTINF:-1, Football 2 HD TEST
+http://195.20.125.8:8585/play/a022
+#EXTINF:-1, Duna HD (Europa)
+http://195.20.125.8:8585/play/a019
+#EXTINF:-1, Viasat History/Nature HD TEST
+http://195.20.125.8:8585/play/a026
+#EXTINF:-1, Travel Channel TEST
+http://195.20.125.8:8585/play/a02v
+#EXTINF:-1, History TEST
+http://195.20.125.8:8585/play/a031
+#EXTINF:-1, Indigo TEST
+http://195.20.125.8:8585/play/a02g
+#EXTINF:-1, TV1000 TEST
+http://195.20.125.8:8585/play/a02h
+#EXTINF:-1, ZOOM
+http://195.20.125.8:8585/play/a01k
+#EXTINF:-1, NLO TV TEST
+http://195.20.125.8:8585/play/a02f
+#EXTINF:-1, Viasat Explore TEST
+http://195.20.125.8:8585/play/a02y
+#EXTINF:-1, Horizont TEST
+http://195.20.125.8:8585/play/a01g
+#EXTINF:-1, Duck TV TEST
+http://195.20.125.8:8585/play/a02q
+#EXTINF:-1, TV1000 RU Kino TEST
+http://195.20.125.8:8585/play/a02k
+#EXTINF:-1, Eurosport 2 TEST
+http://195.20.125.8:8585/play/a02c
+#EXTINF:-1, NEWS 24
+http://195.20.125.8:8585/play/a00j
+#EXTINF:-1, Animal Planet TEST
+http://195.20.125.8:8585/play/a033
+#EXTINF:-1, UA
+http://195.20.125.8:8585/play/a00n
+#EXTINF:-1, Plus Plus
+http://195.20.125.8:8585/play/a01s
+#EXTINF:-1, TV1000 Premium HD TEST
+http://195.20.125.8:8585/play/a027
+#EXTINF:-1, TV KYIV
+http://195.20.125.8:8585/play/a00b
+#EXTINF:-1, ICTV
+http://195.20.125.8:8585/play/a00h
+#EXTINF:-1, M1
+http://195.20.125.8:8585/play/a00e
+#EXTINF:-1, Inter
+http://195.20.125.8:8585/play/a01d
+#EXTINF:-1, Terra
+http://195.20.125.8:8585/play/a005
+#EXTINF:-1, TV1000 Comedy HD TEST
+http://195.20.125.8:8585/play/a025
+#EXTINF:-1, Sony Sci-Fi TEST
+http://195.20.125.8:8585/play/a02n
+#EXTINF:-1, МАТЧ! БОЕЦ
+http://195.20.125.8:8585/play/a03p
+#EXTINF:-1, M2
+http://195.20.125.8:8585/play/a00i
+#EXTINF:-1, Enter Film
+http://195.20.125.8:8585/play/a01m
+#EXTINF:-1, Baby TV TEST
+http://195.20.125.8:8585/play/a02e
+#EXTINF:-1, TV1000 Megahit HD TEST
+http://195.20.125.8:8585/play/a028
+#EXTINF:-1, Zee TV TEST
+http://195.20.125.8:8585/play/a041
+#EXTINF:-1, FILMUADRAMA
+http://195.20.125.8:8585/play/a008
+#EXTINF:-1, Black Sea TV
+http://195.20.125.8:8585/play/a01e
+
+
+
+
+
+
+
+
+
+
+
 
 
 
