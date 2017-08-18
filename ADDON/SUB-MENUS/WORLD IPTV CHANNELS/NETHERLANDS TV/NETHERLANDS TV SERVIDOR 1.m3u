@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -15,120 +15,158 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,NL: NPO 1
-http://185.2.83.209:8000/live/123456/123456/715.ts
-#EXTINF:-1,NL: NPO 2
-http://185.2.83.209:8000/live/123456/123456/716.ts
-#EXTINF:-1,NL: NPO 3
-http://185.2.83.209:8000/live/123456/123456/717.ts
-#EXTINF:-1,NL: RTL 4 HD
-http://185.2.83.209:8000/live/123456/123456/699.ts
-#EXTINF:-1,NL: RTL 5 HD
-http://185.2.83.209:8000/live/123456/123456/695.ts
-#EXTINF:-1,NL: NET 5 HD
-http://185.2.83.209:8000/live/123456/123456/698.ts
+
 #EXTINF:-1,NL: SBS 6 HD
-http://185.2.83.209:8000/live/123456/123456/701.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://185.2.83.209:8000/live/123456/123456/696.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1474.ts
+#EXTINF:-1,NL: SBS 9 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1475.ts
+#EXTINF:-1,NL: NPO 3 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1471.ts
+#EXTINF:-1,NL: Net 5
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1473.ts
+#EXTINF:-1,NL: Film1 Comedy Kids
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1482.ts
+#EXTINF:-1,NL: Zeeland Televisie
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1481.ts
+#EXTINF:-1,NL: RTL7 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2112.ts
 #EXTINF:-1,NL: RTL 8 HD
-http://185.2.83.209:8000/live/123456/123456/697.ts
-#EXTINF:-1,NL: SBS 9
-http://185.2.83.209:8000/live/123456/123456/724.ts
-#EXTINF:-1,NL: Fox Sports 1
-http://185.2.83.209:8000/live/123456/123456/710.ts
-#EXTINF:-1,NL: Fox Sports 2
-http://185.2.83.209:8000/live/123456/123456/711.ts
-#EXTINF:-1,NL: Fox Sports 3
-http://185.2.83.209:8000/live/123456/123456/712.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://185.2.83.209:8000/live/123456/123456/713.ts
-#EXTINF:-1,NL: Fox Sports 5
-http://185.2.83.209:8000/live/123456/123456/714.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2113.ts
+#EXTINF:-1,NL: Veronica/Disney XD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1781.ts
+#EXTINF:-1,NL: BBC entertainement HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1786.ts
+#EXTINF:-1,NL: RTL Z HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1782.ts
+#EXTINF:-1,NL: Crime & Investigation
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1784.ts
+#EXTINF:-1,NL:TLC
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1791.ts
+#EXTINF:-1,NL: NICKELODEON
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1788.ts
+#EXTINF:-1,NL: NatGeo Channel HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1792.ts
+#EXTINF:-1,NL: Extreme Sports
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1796.ts
+#EXTINF:-1,NL: FOX Channel
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1794.ts
+#EXTINF:-1,NL: Eurosport HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1795.ts
+#EXTINF:-1,NL: AT5 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1480.ts
 #EXTINF:-1,NL: Fox Sports 6
-http://185.2.83.209:8000/live/123456/123456/743.ts
-#EXTINF:-1,NL: EuroSport 1 HD
-http://185.2.83.209:8000/live/123456/123456/734.ts
-#EXTINF:-1,NL: EuroSport 2 HD
-http://185.2.83.209:8000/live/123456/123456/417.ts
-#EXTINF:-1,NL: Sport 1 Voetbal HD
-http://185.2.83.209:8000/live/123456/123456/709.ts
-#EXTINF:-1,NL: Sport 1 Select HD
-http://185.2.83.209:8000/live/123456/123456/708.ts
-#EXTINF:-1,NL: Sport 1 Racing
-http://185.2.83.209:8000/live/123456/123456/707.ts
-#EXTINF:-1,NL: Sport Extra 1
-http://185.2.83.209:8000/live/123456/123456/735.ts
-#EXTINF:-1,NL: Sport Extra 2
-http://185.2.83.209:8000/live/123456/123456/736.ts
-#EXTINF:-1,NL: Film 1 Action
-http://185.2.83.209:8000/live/123456/123456/721.ts
-#EXTINF:-1,NL: Film 1 Comedy and Kids
-http://185.2.83.209:8000/live/123456/123456/722.ts
-#EXTINF:-1,NL: Film1 Spotlight
-http://185.2.83.209:8000/live/123456/123456/702.ts
-#EXTINF:-1,NL: Film1 Premiere HD
-http://185.2.83.209:8000/live/123456/123456/723.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://185.2.83.209:8000/live/123456/123456/414.ts
-#EXTINF:-1,NL: Veronica / Disney XD HD
-http://185.2.83.209:8000/live/123456/123456/726.ts
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://185.2.83.209:8000/live/123456/123456/739.ts
-#EXTINF:-1,NL: Discovery ID
-http://185.2.83.209:8000/live/123456/123456/733.ts
-#EXTINF:-1,NL: Discovery Channle
-http://185.2.83.209:8000/live/123456/123456/704.ts
-#EXTINF:-1,NL: Discovery Showcase HD
-http://185.2.83.209:8000/live/123456/123456/732.ts
-#EXTINF:-1,NL: National Geographic
-http://185.2.83.209:8000/live/123456/123456/725.ts
-#EXTINF:-1,NL: Nat Geo Wild HD
-http://185.2.83.209:8000/live/123456/123456/416.ts
-#EXTINF:-1,NL: Animal Planet
-http://185.2.83.209:8000/live/123456/123456/410.ts
-#EXTINF:-1,NL: Cartoon Network
-http://185.2.83.209:8000/live/123456/123456/413.ts
-#EXTINF:-1,NL: Disney Channel
-http://185.2.83.209:8000/live/123456/123456/706.ts
-#EXTINF:-1,NL: Nickelodeon
-http://185.2.83.209:8000/live/123456/123456/727.ts
-#EXTINF:-1,NL: Boomerang
-http://185.2.83.209:8000/live/123456/123456/412.ts
-#EXTINF:-1,NL: Baby TV
-http://185.2.83.209:8000/live/123456/123456/411.ts
-#EXTINF:-1,NL: Spike
-http://185.2.83.209:8000/live/123456/123456/415.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1483.ts
 #EXTINF:-1,NL: Comedy Central
-http://185.2.83.209:8000/live/123456/123456/703.ts
-#EXTINF:-1,NL: MTV Nederland
-http://185.2.83.209:8000/live/123456/123456/737.ts
-#EXTINF:-1,NL: RTL Lounge
-http://185.2.83.209:8000/live/123456/123456/740.ts
-#EXTINF:-1,NL: RTL CRIME
-http://185.2.83.209:8000/live/123456/123456/705.ts
-#EXTINF:-1,NL: HBO 1 HD
-http://185.2.83.209:8000/live/123456/123456/718.ts
-#EXTINF:-1,NL: HBO 2 HD
-http://185.2.83.209:8000/live/123456/123456/719.ts
-#EXTINF:-1,NL: HBO 3 HD
-http://185.2.83.209:8000/live/123456/123456/720.ts
-#EXTINF:-1,NL: Fox
-http://185.2.83.209:8000/live/123456/123456/700.ts
-#EXTINF:-1,NL: TLC
-http://185.2.83.209:8000/live/123456/123456/728.ts
-#EXTINF:-1,NL: Xite Awrds
-http://185.2.83.209:8000/live/123456/123456/729.ts
-#EXTINF:-1,NL: 24 Kitchen
-http://185.2.83.209:8000/live/123456/123456/409.ts
-#EXTINF:-1,NL: Shorts TV
-http://185.2.83.209:8000/live/123456/123456/744.ts
-#EXTINF:-1,NL: RTV Noord
-http://185.2.83.209:8000/live/123456/123456/741.ts
-#EXTINF:-1,NL: Omroep Fryslan
-http://185.2.83.209:8000/live/123456/123456/738.ts
-#EXTINF:-1,NL: Omroep Zeeland
-http://185.2.83.209:8000/live/123456/123456/742.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/309.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/310.ts
+#EXTINF:-1,NL: NPO 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/315.ts
+#EXTINF:-1,NL: NPO 2 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/316.ts
+#EXTINF:-1,NL: RTL4
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/317.ts
+#EXTINF:-1,NL: RTL 5
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/318.ts
+#EXTINF:-1,NL: HBO 1
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/319.ts
+#EXTINF:-1,NL: HBO 2
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/320.ts
+#EXTINF:-1,NL: Animal Planet
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2342.ts
+#EXTINF:-1,NL: Baby TV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2326.ts
+#EXTINF:-1,NL:24 Kitchen
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2972.ts
+#EXTINF:-1,NL: BBC Entertainment
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2341.ts
+#EXTINF:-1,NL: Boomerang
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2324.ts
+#EXTINF:-1,NL: CRIME&INVESTIGATION
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2331.ts
+#EXTINF:-1,NL: History HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2337.ts
+#EXTINF:-1,NL: Motors TV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2336.ts
+#EXTINF:-1,NL: MTV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2320.ts
+#EXTINF:-1,NL: Nick Toons
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2327.ts
+#EXTINF:-1,NL: 100% NL
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2329.ts
+#EXTINF:-1,NL: NPO Zapp Xtra/NPO Best
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2323.ts
+#EXTINF:-1,NL: RTL Crime
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2317.ts
+#EXTINF:-1,NL: RTV Slingeland
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2319.ts
+#EXTINF:-1,NL: Ziggo Sport eXtra 2
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2318.ts
+#EXTINF:-1,NL: HBO 3
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1472.ts
+#EXTINF:-1,NL: Film1 Sundance
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1478.ts
+#EXTINF:-1,NL: Film1 Premiere HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/313.ts
+#EXTINF:-1,NL: Film1 Action
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/314.ts
+#EXTINF:-1,NL: Fox sport 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/331.ts
+#EXTINF:-1,NL: Fox sport 2 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/332.ts
+#EXTINF:-1,NL: Fox sport 3
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/333.ts
+#EXTINF:-1,NL: Fox sport 4
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/334.ts
+#EXTINF:-1,NL: Fox sport 5
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/335.ts
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2971.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/718.ts
+#EXTINF:-1,NL: Edge Sport HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/719.ts
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/720.ts
+#EXTINF:-1,NL: Ziggo Sport1 extra
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/721.ts
+#EXTINF:-1,NL: Discovery HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/722.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,FOX Sports 1 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14420.ts
+#EXTINF:-1,Fox Sports 2 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14419.ts
+#EXTINF:-1,Fox Sports 3 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14418.ts
+#EXTINF:-1,Fox Sports 4 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14417.ts
+#EXTINF:-1,Fox Sports 5 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14416.ts
+#EXTINF:-1,Fox Sports 6 FHD NL (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14415.ts
+
+#EXTINF:-1,Ziggo Sport Racing NL FHD (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14426.ts
+#EXTINF:-1,Ziggo Sport Voetbal NL FHD (LOCAL)
+http://iptvpearl.com:8080/live/8uOE3wVPKj/bkbHNe6tK4/14427.ts
 
 
 
@@ -155,88 +193,59 @@ http://185.2.83.209:8000/live/123456/123456/742.ts
 
 
 
-#EXTINF:-1,BE: Cinema 1
-http://185.2.83.209:8000/live/123456/123456/396.ts
-#EXTINF:-1,BE: Cinema 2
-http://185.2.83.209:8000/live/123456/123456/395.ts
-#EXTINF:-1,BE: Cinema Kids
-http://185.2.83.209:8000/live/123456/123456/392.ts
-#EXTINF:-1,BE: Een HD
-http://185.2.83.209:8000/live/123456/123456/730.ts
-#EXTINF:-1,BE: Canvas HD
-http://185.2.83.209:8000/live/123456/123456/731.ts
-#EXTINF:-1,BE: VTM HD
-http://185.2.83.209:8000/live/123456/123456/389.ts
-#EXTINF:-1,BE: Vitaya
-http://185.2.83.209:8000/live/123456/123456/390.ts
-#EXTINF:-1,BE: Vijf
-http://185.2.83.209:8000/live/123456/123456/391.ts
-#EXTINF:-1,BE: Plug RTL
-http://185.2.83.209:8000/live/123456/123456/384.ts
-#EXTINF:-1,BE: La télé X
-http://185.2.83.209:8000/live/123456/123456/385.ts
-#EXTINF:-1,BE: Club RTL
-http://185.2.83.209:8000/live/123456/123456/386.ts
-#EXTINF:-1,BE: Acht
-http://185.2.83.209:8000/live/123456/123456/388.ts
-#EXTINF:-1,BE: 2BE HD
-http://185.2.83.209:8000/live/123456/123456/387.ts
-#EXTINF:-1,BE: Kadet
-http://185.2.83.209:8000/live/123456/123456/393.ts
-#EXTINF:-1,BE: BX1
-http://185.2.83.209:8000/live/123456/123456/394.ts
 
 
 
 
-#EXTINF:-1,BE: LA UNE HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/750.ts
-#EXTINF:-1,BE: LA DEUX HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/751.ts
-#EXTINF:-1,BE: LA TROIS HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/752.ts
+
 #EXTINF:-1,BE: RTL TVI HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/753.ts
-#EXTINF:-1,BE: VOO SPORT 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3552.ts
-#EXTINF:-1,BE: VOO SPORT WORLD 1
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3551.ts
-#EXTINF:-1,BE: AB3
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2346.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1496.ts
 #EXTINF:-1,BE: PLUG RTL
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/754.ts
-#EXTINF:-1,BE: CLUB RTL HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/755.ts
-#EXTINF:-1,BE: RTC Télé Liège.
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3549.ts
-#EXTINF:-1,BE: Bruxelles TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2776.ts
-#EXTINF:-1,BE: TeleMB
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3548.ts
-#EXTINF:-1,BE: TV5 Belgique
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3539.ts
-#EXTINF:-1,BE: Antenne Centre
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/3550.ts
-#EXTINF:-1,BE: Acht TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2865.ts
-#EXTINF:-1,BE: 2be TV
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2774.ts
-#EXTINF:-1,BE: VTM HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/760.ts
-#EXTINF:-1,BE: EEN
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2734.ts
-#EXTINF:-1,BE: Canvas HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/757.ts
-#EXTINF:-1,BE: KETNET
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2815.ts
-#EXTINF:-1,BE: VITAYA
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/759.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1492.ts
+#EXTINF:-1,BE: La Une HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1493.ts
+#EXTINF:-1,BE: La Trois
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1495.ts
+#EXTINF:-1,BE: La Deux
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1494.ts
+#EXTINF:-1,BE:  Televesdre
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2800.ts
+#EXTINF:-1,BE: CINEMA 2
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2799.ts
+#EXTINF:-1,BE: CINEMA1
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2796.ts
+#EXTINF:-1,BE: Dobbit TV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2798.ts
+#EXTINF:-1,BE: RTL Luxemburg
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2797.ts
+#EXTINF:-1,BE: Telesambre
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2802.ts
+#EXTINF:-1,BE: TV Limburg (TVL)
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2795.ts
+#EXTINF:-1,BE: TVO
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2801.ts
 #EXTINF:-1,BE: VIER HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/758.ts
-#EXTINF:-1,NL: Ziggo Sport tv
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2858.ts
-#EXTINF:-1,BE: CINEMA 1 HD
-http://gproip.ddns.net:8000/live/616529134468152/1593574628/2813.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1640.ts
+#EXTINF:-1,BE: VITAYA
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1749.ts
+#EXTINF:-1,BE: VIJF
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1750.ts
+#EXTINF:-1,BE: VOO SPORT 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2992.ts
+#EXTINF:-1,BE: VOO sport Wolrd
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2984.ts
+#EXTINF:-1,BE: VOO sport 3
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2983.ts
+#EXTINF:-1,BE: VTM HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1823.ts
+#EXTINF:-1,BE: Canvas HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1822.ts
+#EXTINF:-1,BE: EEN HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1751.ts
+#EXTINF:-1,BE: ACHT
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1748.ts
+#EXTINF:-1,BE: 2BE HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1747.ts
 
 
 

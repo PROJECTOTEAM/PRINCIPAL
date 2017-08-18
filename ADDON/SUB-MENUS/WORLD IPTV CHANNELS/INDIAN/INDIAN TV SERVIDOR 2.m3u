@@ -1,139 +1,89 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,IN:ZEE TV HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/939.ts
-#EXTINF:-1,IN:Zee Classic
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2261.ts
-#EXTINF:-1,IN:Zee Action
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2262.ts
-#EXTINF:-1,IN:Willo HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/935.ts
-#EXTINF:-1,IN: Sony Max 2
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4247.ts
-#EXTINF:-1,IN: Sony ESPN
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4246.ts
-#EXTINF:-1,IN:Star sports 2 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1176.ts
-#EXTINF:-1,IN: JAYA
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2388.ts
-#EXTINF:-1,IN: ZEE CINEMA
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1261.ts
-#EXTINF:-1,IN: Zee Anmol
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1845.ts
-#EXTINF:-1,IN: UTV Movies
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1425.ts
-#EXTINF:-1,IN: TEN 1 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2283.ts
+#EXTINF:-1,IN: Zee cafe HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1508.ts
+#EXTINF:-1,IN: ZEE TV UK
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1509.ts
+#EXTINF:-1,IN: ZEE SANGAM
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1510.ts
+#EXTINF:-1,IN: ZEE SALAM
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1511.ts
+#EXTINF:-1,IN: ZEE NEWS
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1512.ts
+#EXTINF:-1,IN: ZEE LIVING
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1513.ts
+#EXTINF:-1,IN: ZEE TELGU
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1514.ts
+#EXTINF:-1,IN: ZEE ZINDAGI
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1515.ts
+#EXTINF:-1,IN: ZEE CINEMA UK
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1516.ts
+#EXTINF:-1,IN: ZEE BOLLYWOOD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1517.ts
+#EXTINF:-1,IN: ZEE ANMOL
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1518.ts
+#EXTINF:-1,IN: UTV MOVIES INTERNATIONAL
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1519.ts
+#EXTINF:-1,IN: UTV BINDASS
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1520.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1521.ts
 #EXTINF:-1,IN: TEN CRICKET
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1427.ts
-#EXTINF:-1,IN: STAR SPORTS 3 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1841.ts
-#EXTINF:-1,IN: Star Sports 1 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1292.ts
-#EXTINF:-1,IN: Star Plus HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1128.ts
-#EXTINF:-1,IN: STAR JALSHA
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2146.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1522.ts
+#EXTINF:-1,IN: STAR SPORTS 1
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1526.ts
+#EXTINF:-1,IN: STAR SPORTS 2
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1525.ts
+#EXTINF:-1,IN: STAR SPORTS 3
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1524.ts
+#EXTINF:-1,IN: STAR SPORTS 4
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1523.ts
+#EXTINF:-1,IN: STAR PLUS
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1527.ts
 #EXTINF:-1,IN: STAR GOLD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1843.ts
-#EXTINF:-1,IN: Sony Sab
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2191.ts
-#EXTINF:-1,IN: Set Max
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/934.ts
-#EXTINF:-1,IN: Rishtey TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2193.ts
-#EXTINF:-1,IN: LIFE OK
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/1842.ts
-#EXTINF:-1,IN: Abp News
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2192.ts
-#EXTINF:-1,IN: &TV HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/929.ts
-#EXTINF:-1,IN: &Picture HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/2260.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in:1935/v4news/livestream
-#EXTINF:-1,V4 News
-rtsp://studiosystem.co.in:1935/v4news/livestream
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in/v4news/_definst_/livestream
-#EXTINF:-1,V4 News
-rtmp://studiosystem.co.in:1935/v4news/_definst_/livestream
-#EXTINF:-1,V4 News
-rtsp://studiosystem.co.in:1935/v4news/_definst_/livestream
-#EXTINF:-1,IndiaNews-Hindi
-rtmp://live-fs.wmncdn.net:1935/firstindianewstv1/live.stream
-#EXTINF:-1,IndiaNews-Hindi
-rtmp://live-fs.wmncdn.net:1935/firstindianewstv2/live.stream
-#EXTINF:-1,Ishwar TV
-rtmp://live-fs.wmncdn.net:1935/ishwartv10/live.stream
-#EXTINF:-1,Sadhana TV
-rtmp://live-fs.wmncdn.net:1935/sadhanatv/live.stream
-#EXTINF:-1,Sadhana NEWS
-rtmp://live-fs.wmncdn.net:1935/sadhananewsmp1/live.stream
-#EXTINF:-1,Sadhana Plus
-rtmp://live-fs.wmncdn.net:1935/sadhanaplus1/live.stream
-#EXTINF:-1,Sadhna Bangla
-rtmp://live-fs.wmncdn.net:1935/aryantv1/live1.stream
-
-
-
-
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net/mbctv1/live1.stream
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net/mbctv2/live2.stream
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net/mbctv3/live3.stream
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net:1935/mbctv2/live2.stream
-#EXTINF:-1,MBC TV
-rtmp://live-fs.wmncdn.net:1935/mbctv3/live3.stream
-#EXTINF:-1,MBC TV
-rtsp://live-fs.wmncdn.net:1935/mbctv1/live1.stream
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1528.ts
+#EXTINF:-1,IN: SONY sab
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1529.ts
+#EXTINF:-1,IN: SONY MAX
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1531.ts
+#EXTINF:-1,IN: SONY SAB UK
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1530.ts
+#EXTINF:-1,IN: Life oK UK
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1532.ts
+#EXTINF:-1,IN: & PICTURE HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2648.ts
+#EXTINF:-1,IN: AKAAL PUNJABI
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2649.ts
+#EXTINF:-1,IN: B4 You
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2655.ts
+#EXTINF:-1,IN: B4U PLUS
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2663.ts
+#EXTINF:-1,IN: COLORS BANG
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2665.ts
+#EXTINF:-1,IN: COLORS HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2666.ts
+#EXTINF:-1,IN: Star Gold UK HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2651.ts
+#EXTINF:-1,IN: Star Jalsha
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2664.ts
+#EXTINF:-1,IN: UTV Movies
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2647.ts
+#EXTINF:-1,IN: ZEE BOLLYWOOD HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2652.ts
+#EXTINF:-1,IN: Zee Cinema
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2658.ts
+#EXTINF:-1,IN: Zee TV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2653.ts
+#EXTINF:-1,IN: ZEE TV Action
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2657.ts
+#EXTINF:-1,IN: ZING INDIA
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2659.ts
+#EXTINF:-1,IN: B4U MOVIE
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1535.ts

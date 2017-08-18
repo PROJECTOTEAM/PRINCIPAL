@@ -35,179 +35,183 @@ http://37.152.128.66:6509/play/a00w
 http://37.152.128.66:6509/play/a00x
 
 
-
-#EXTINF:-1,DE: Sky Sport News
-http://185.2.83.209:8000/live/123456/123456/759.ts
-#EXTINF:-1,DE: Sky Sport +1
-http://185.2.83.209:8000/live/123456/123456/761.ts
 #EXTINF:-1,DE: Sky Sport 1 HD
-http://185.2.83.209:8000/live/123456/123456/829.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/376.ts
 #EXTINF:-1,DE: Sky Sport 2 HD
-http://185.2.83.209:8000/live/123456/123456/826.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://185.2.83.209:8000/live/123456/123456/827.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://185.2.83.209:8000/live/123456/123456/828.ts
-#EXTINF:-1,DE: Sky Eurosport
-http://185.2.83.209:8000/live/123456/123456/809.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://185.2.83.209:8000/live/123456/123456/810.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://185.2.83.209:8000/live/123456/123456/807.ts
-#EXTINF:-1,DE: Sky Select 1
-http://185.2.83.209:8000/live/123456/123456/825.ts
-#EXTINF:-1,DE: Sky Select 2
-http://185.2.83.209:8000/live/123456/123456/824.ts
-#EXTINF:-1,DE: Sky Select 3
-http://185.2.83.209:8000/live/123456/123456/823.ts
-#EXTINF:-1,DE: Sky Select 4
-http://185.2.83.209:8000/live/123456/123456/822.ts
-#EXTINF:-1,DE: Sky Select 5
-http://185.2.83.209:8000/live/123456/123456/821.ts
-#EXTINF:-1,DE: Sky Select 6
-http://185.2.83.209:8000/live/123456/123456/820.ts
-#EXTINF:-1,DE: Sky Select 7
-http://185.2.83.209:8000/live/123456/123456/819.ts
-#EXTINF:-1,DE: Sky Select 8
-http://185.2.83.209:8000/live/123456/123456/818.ts
-#EXTINF:-1,DE: Sky Action
-http://185.2.83.209:8000/live/123456/123456/804.ts
-#EXTINF:-1,DE: Sky Cinema
-http://185.2.83.209:8000/live/123456/123456/808.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://185.2.83.209:8000/live/123456/123456/806.ts
-#EXTINF:-1,DE: Sky Cinema +24
-http://185.2.83.209:8000/live/123456/123456/805.ts
-#EXTINF:-1,DE: Sky Emotion
-http://185.2.83.209:8000/live/123456/123456/801.ts
-#EXTINF:-1,DE: Sky Comedy
-http://185.2.83.209:8000/live/123456/123456/799.ts
-#EXTINF:-1,DE: Sky HITS
-http://185.2.83.209:8000/live/123456/123456/802.ts
-#EXTINF:-1,DE: Sky Comedy Central
-http://185.2.83.209:8000/live/123456/123456/786.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 1
-http://185.2.83.209:8000/live/123456/123456/751.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 2
-http://185.2.83.209:8000/live/123456/123456/750.ts
-#EXTINF:-1,DE: Sky Teleclub Prime
-http://185.2.83.209:8000/live/123456/123456/749.ts
-#EXTINF:-1,DE: Sky Teleclub Cinema HD
-http://185.2.83.209:8000/live/123456/123456/748.ts
-#EXTINF:-1,DE: Sky Teleclub Cinema
-http://185.2.83.209:8000/live/123456/123456/747.ts
-#EXTINF:-1,DE: Sky Teleclub Star
-http://185.2.83.209:8000/live/123456/123456/746.ts
-#EXTINF:-1,DE: Sky RTL
-http://185.2.83.209:8000/live/123456/123456/779.ts
-#EXTINF:-1,DE: Sky RTL 2
-http://185.2.83.209:8000/live/123456/123456/778.ts
-#EXTINF:-1,DE: Sky RTL Nitro
-http://185.2.83.209:8000/live/123456/123456/776.ts
-#EXTINF:-1,DE: Sky RTL Crime
-http://185.2.83.209:8000/live/123456/123456/752.ts
-#EXTINF:-1,DE: Sky RTL Living
-http://185.2.83.209:8000/live/123456/123456/813.ts
-#EXTINF:-1,DE: Sky RTL Super
-http://185.2.83.209:8000/live/123456/123456/800.ts
-#EXTINF:-1,DE: Sky RTL Passion
-http://185.2.83.209:8000/live/123456/123456/774.ts
-#EXTINF:-1,DE: Sky Universal HD
-http://185.2.83.209:8000/live/123456/123456/812.ts
-#EXTINF:-1,DE: Sky Servus TV
-http://185.2.83.209:8000/live/123456/123456/784.ts
-#EXTINF:-1,DE: Sky Sat1 Gold
-http://185.2.83.209:8000/live/123456/123456/777.ts
-#EXTINF:-1,DE: Sky Austria 24 TV
-http://185.2.83.209:8000/live/123456/123456/796.ts
-#EXTINF:-1,DE: Sky Kinowelt
-http://185.2.83.209:8000/live/123456/123456/791.ts
-#EXTINF:-1,DE: Sky ZDF Info
-http://185.2.83.209:8000/live/123456/123456/790.ts
-#EXTINF:-1,DE: Sky SRF 1
-http://185.2.83.209:8000/live/123456/123456/783.ts
-#EXTINF:-1,DE: Sky ORF 3
-http://185.2.83.209:8000/live/123456/123456/782.ts
-#EXTINF:-1,DE: Sky ORF 2
-http://185.2.83.209:8000/live/123456/123456/772.ts
-#EXTINF:-1,DE: Sky ORF Enis
-http://185.2.83.209:8000/live/123456/123456/771.ts
-#EXTINF:-1,DE: Sky VOX
-http://185.2.83.209:8000/live/123456/123456/788.ts
-#EXTINF:-1,DE: Sky FOX
-http://185.2.83.209:8000/live/123456/123456/787.ts
-#EXTINF:-1,DE: Sky One
-http://185.2.83.209:8000/live/123456/123456/753.ts
-#EXTINF:-1,DE: Sky TNT Comedy HD
-http://185.2.83.209:8000/live/123456/123456/811.ts
-#EXTINF:-1,DE: Sky TNT Serie
-http://185.2.83.209:8000/live/123456/123456/794.ts
-#EXTINF:-1,DE: Sky TNT Film
-http://185.2.83.209:8000/live/123456/123456/758.ts
-#EXTINF:-1,DE: Sky Sony HD
-http://185.2.83.209:8000/live/123456/123456/754.ts
-#EXTINF:-1,DE: Sky Disney XD
-http://185.2.83.209:8000/live/123456/123456/817.ts
-#EXTINF:-1,DE: Sky Disney Channel
-http://185.2.83.209:8000/live/123456/123456/795.ts
-#EXTINF:-1,DE: Sky Cartoon Network
-http://185.2.83.209:8000/live/123456/123456/815.ts
-#EXTINF:-1,DE: Sky Nickelodeon
-http://185.2.83.209:8000/live/123456/123456/797.ts
-#EXTINF:-1,DE: Sky Boomerang
-http://185.2.83.209:8000/live/123456/123456/816.ts
-#EXTINF:-1,DE: Sky  ZEE ONE
-http://185.2.83.209:8000/live/123456/123456/814.ts
-#EXTINF:-1,DE: Sky National Geographic
-http://185.2.83.209:8000/live/123456/123456/792.ts
-#EXTINF:-1,DE: Sky Nat Geo wild
-http://185.2.83.209:8000/live/123456/123456/793.ts
-#EXTINF:-1,DE: Sky History
-http://185.2.83.209:8000/live/123456/123456/762.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://185.2.83.209:8000/live/123456/123456/760.ts
-#EXTINF:-1,DE: Sky 13th Street
-http://185.2.83.209:8000/live/123456/123456/780.ts
-#EXTINF:-1,DE: Sky RBB Berlin
-http://185.2.83.209:8000/live/123456/123456/775.ts
-#EXTINF:-1,DE: Sky Phoenix
-http://185.2.83.209:8000/live/123456/123456/769.ts
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/375.ts
+#EXTINF:-1,DE: Sport1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/374.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/412.ts
+#EXTINF:-1,DE: Universal Channel HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2621.ts
+#EXTINF:-1,DE: Sky Sports News HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/416.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/403.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1421.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1422.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1423.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1835.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1836.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1837.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1838.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1839.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1840.ts
+#EXTINF:-1,DE: SKY SPORT 10 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2266.ts
+#EXTINF:-1,DE: SKY SPORT 9 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2265.ts
+#EXTINF:-1,DE: SKY SPORT 3 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2259.ts
+#EXTINF:-1,DE: SKY SPORT 4 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2260.ts
+#EXTINF:-1,DE: SKY SPORT 5 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2261.ts
+#EXTINF:-1,DE: SKY SPORT 6 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2262.ts
+#EXTINF:-1,DE: SKY SPORT 7 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2263.ts
+#EXTINF:-1,DE: SKY SPORT 8 ( during match )
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2264.ts
+#EXTINF:-1,DE: SUPER RTL
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1194.ts
+#EXTINF:-1,DE: Sky SilverLine Movie
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2096.ts
+#EXTINF:-1,DE: NTV HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2098.ts
+#EXTINF:-1,DE: NDR HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2097.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2089.ts
+#EXTINF:-1,DE: History Channel HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2094.ts
+#EXTINF:-1,DE: RomanceTV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1753.ts
+#EXTINF:-1,DE: Sky 3D
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2088.ts
+#EXTINF:-1,DE: MOTORVISION
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2093.ts
+#EXTINF:-1,DE:  SyFy HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2836.ts
+#EXTINF:-1,DE: A-E Germany
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2092.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1497.ts
+#EXTINF:-1,DE: RTL PASSION
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1212.ts
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1213.ts
+#EXTINF:-1,DE: SIXX
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1197.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1200.ts
+#EXTINF:-1,DE: ProSieben HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1191.ts
+#EXTINF:-1,DE: DMAX
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1192.ts
+#EXTINF:-1,DE: Das Erste
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1210.ts
+#EXTINF:-1,DE: ORF1
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1426.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/387.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/385.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/384.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/383.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/382.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/381.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/380.ts
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1754.ts
+#EXTINF:-1,DE: RTL Living HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1420.ts
+#EXTINF:-1,DE: ZDF HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1424.ts
+#EXTINF:-1,DE: Kika
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1425.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/3115.ts
 #EXTINF:-1,DE: Sky Atlantic
-http://185.2.83.209:8000/live/123456/123456/798.ts
-#EXTINF:-1,DE: Sky Wdr
-http://185.2.83.209:8000/live/123456/123456/789.ts
-#EXTINF:-1,DE: Sky Sixx
-http://185.2.83.209:8000/live/123456/123456/785.ts
-#EXTINF:-1,DE: Sky Pro 7
-http://185.2.83.209:8000/live/123456/123456/773.ts
-#EXTINF:-1,DE: Sky NDR HD
-http://185.2.83.209:8000/live/123456/123456/768.ts
-#EXTINF:-1,DE: Sky N24
-http://185.2.83.209:8000/live/123456/123456/767.ts
-#EXTINF:-1,DE: Sky N-TV
-http://185.2.83.209:8000/live/123456/123456/766.ts
-#EXTINF:-1,DE: Sky Romance
-http://185.2.83.209:8000/live/123456/123456/765.ts
-#EXTINF:-1,DE: Sky Krimi HD
-http://185.2.83.209:8000/live/123456/123456/803.ts
-#EXTINF:-1,DE: Sky Kika
-http://185.2.83.209:8000/live/123456/123456/764.ts
-#EXTINF:-1,DE: Sky Kabel 1
-http://185.2.83.209:8000/live/123456/123456/763.ts
-#EXTINF:-1,DE: Sky Dmax
-http://185.2.83.209:8000/live/123456/123456/770.ts
-#EXTINF:-1,DE: Sky Pro 7 Max
-http://185.2.83.209:8000/live/123456/123456/757.ts
-#EXTINF:-1,DE: Sky Arte
-http://185.2.83.209:8000/live/123456/123456/756.ts
-#EXTINF:-1,DE: Sky ARD
-http://185.2.83.209:8000/live/123456/123456/755.ts
-#EXTINF:-1,DE: Sky 3sat
-http://185.2.83.209:8000/live/123456/123456/781.ts
-
-
-
-
-
-
-
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/405.ts
+#EXTINF:-1,DE: Sky Action HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/406.ts
+#EXTINF:-1,DE: SKY Cinema  24 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1076.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/399.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/400.ts
+#EXTINF:-1,DE: SKY Emotion HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/395.ts
+#EXTINF:-1,DE: SKY Hits HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1077.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/391.ts
+#EXTINF:-1,DE: SKY MGM
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/390.ts
+#EXTINF:-1,DE: Planet HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1078.ts
+#EXTINF:-1,DE: TNT Film HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/495.ts
+#EXTINF:-1,DE: AXN HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/496.ts
+#EXTINF:-1,DE: VOX HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/415.ts
+#EXTINF:-1,DE: NAG WILD HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/864.ts
+#EXTINF:-1,DE: FOX HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/371.ts
+#EXTINF:-1,DE: Boomerang
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2594.ts
+#EXTINF:-1,DE: Toggo Plus
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2595.ts
+#EXTINF:-1,DE: Disney JUNIORHD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1079.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/393.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPIC
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/389.ts
+#EXTINF:-1,DE:  discovery channel
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/397.ts
+#EXTINF:-1,DE: Kabel1 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/404.ts
+#EXTINF:-1,DE: 13TH Street
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/407.ts
+#EXTINF:-1,DE: RTL NITRO HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/409.ts
+#EXTINF:-1,DE: Heimatkanal
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2774.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2775.ts
+#EXTINF:-1,DE: Sony HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2768.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2776.ts
+#EXTINF:-1,DE: TELE 5 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2769.ts
+#EXTINF:-1,DE: TLC HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2778.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2772.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2773.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/411.ts
+#EXTINF:-1,DE: RTL HD
+http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/410.ts
