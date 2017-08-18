@@ -1,538 +1,420 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 16-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-#EXTINF:-1,MAIS GLOBOSAT
-http://144.217.79.160:8505/live/amar/amar/645.ts
 #EXTINF:-1,A&E
-http://144.217.79.160:8505/live/amar/amar/703.ts
-#EXTINF:-1,ANIMAL PLANET
-http://144.217.79.160:8505/live/amar/amar/702.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://144.217.79.160:8505/live/amar/amar/769.ts
-#EXTINF:-1,APARECIDA
-http://144.217.79.160:8505/live/amar/amar/701.ts
-#EXTINF:-1,ARTE 1
-http://144.217.79.160:8505/live/amar/amar/700.ts
-#EXTINF:-1,AXN
-http://144.217.79.160:8505/live/amar/amar/699.ts
-#EXTINF:-1,AXN HD
-http://144.217.79.160:8505/live/amar/amar/768.ts
-#EXTINF:-1,BAND HD
-http://144.217.79.160:8505/live/amar/amar/767.ts
-#EXTINF:-1,BAND NEWS
-http://144.217.79.160:8505/live/amar/amar/697.ts
-#EXTINF:-1,BAND SPORTS
-http://144.217.79.160:8505/live/amar/amar/696.ts
-#EXTINF:-1,BAND SPORTS HD
-http://144.217.79.160:8505/live/amar/amar/766.ts
-#EXTINF:-1,BANDEIRANTES
-http://144.217.79.160:8505/live/amar/amar/695.ts
-#EXTINF:-1,BIS
-http://144.217.79.160:8505/live/amar/amar/693.ts
-#EXTINF:-1,BIS HD
-http://144.217.79.160:8505/live/amar/amar/765.ts
-#EXTINF:-1,BOOMERANG
-http://144.217.79.160:8505/live/amar/amar/692.ts
-#EXTINF:-1,CANAL BRASIL
-http://144.217.79.160:8505/live/amar/amar/691.ts
-#EXTINF:-1,CANAL RURAL
-http://144.217.79.160:8505/live/amar/amar/690.ts
-#EXTINF:-1,CANAL SONY
-http://144.217.79.160:8505/live/amar/amar/689.ts
-#EXTINF:-1,CANAL SONY HD
-http://144.217.79.160:8505/live/amar/amar/764.ts
-#EXTINF:-1,CANCAO NOVA
-http://144.217.79.160:8505/live/amar/amar/688.ts
-#EXTINF:-1,CARTOON NETWORK
-http://144.217.79.160:8505/live/amar/amar/687.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://144.217.79.160:8505/live/amar/amar/704.ts
-#EXTINF:-1,CINEMAX
-http://144.217.79.160:8505/live/amar/amar/686.ts
-#EXTINF:-1,COMBATE
-http://144.217.79.160:8505/live/amar/amar/685.ts
-#EXTINF:-1,COMBATE HD
-http://144.217.79.160:8505/live/amar/amar/763.ts
-#EXTINF:-1,COMEDY CENTRAL
-http://144.217.79.160:8505/live/amar/amar/684.ts
-#EXTINF:-1,CURTA!
-http://144.217.79.160:8505/live/amar/amar/683.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://144.217.79.160:8505/live/amar/amar/682.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://144.217.79.160:8505/live/amar/amar/762.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://144.217.79.160:8505/live/amar/amar/681.ts
-#EXTINF:-1,DISCOVERY H&H
-http://144.217.79.160:8505/live/amar/amar/680.ts
-#EXTINF:-1,DISCOVERY H&H HD
-http://144.217.79.160:8505/live/amar/amar/761.ts
-#EXTINF:-1,DISCOVERY KIDS
-http://144.217.79.160:8505/live/amar/amar/679.ts
-#EXTINF:-1,DISCOVERY THEATER HD
-http://144.217.79.160:8505/live/amar/amar/760.ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://144.217.79.160:8505/live/amar/amar/678.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://144.217.79.160:8505/live/amar/amar/677.ts
-#EXTINF:-1,DISCOVERY TURBO HD
-http://144.217.79.160:8505/live/amar/amar/759.ts
-#EXTINF:-1,DISCOVERY WORLD HD
-http://144.217.79.160:8505/live/amar/amar/758.ts
-#EXTINF:-1,DISNEY
-http://144.217.79.160:8505/live/amar/amar/676.ts
-#EXTINF:-1,DISNEY JR
-http://144.217.79.160:8505/live/amar/amar/675.ts
-#EXTINF:-1,DISNEY XD
-http://144.217.79.160:8505/live/amar/amar/674.ts
-#EXTINF:-1,E!
-http://144.217.79.160:8505/live/amar/amar/673.ts
-#EXTINF:-1,EI MAXX
-http://144.217.79.160:8505/live/amar/amar/672.ts
-#EXTINF:-1,EI MAXX 2
-http://144.217.79.160:8505/live/amar/amar/671.ts
-#EXTINF:-1,EI MAXX 2 HD
-http://144.217.79.160:8505/live/amar/amar/757.ts
-#EXTINF:-1,EI MAXX HD
-http://144.217.79.160:8505/live/amar/amar/756.ts
-#EXTINF:-1,ESPN
-http://144.217.79.160:8505/live/amar/amar/670.ts
-#EXTINF:-1,ESPN+ HD
-http://144.217.79.160:8505/live/amar/amar/755.ts
-#EXTINF:-1,ESPN BRASIL
-http://144.217.79.160:8505/live/amar/amar/669.ts
-#EXTINF:-1,ESPN BRASIL HD
-http://144.217.79.160:8505/live/amar/amar/754.ts
-#EXTINF:-1,ESPN HD
-http://144.217.79.160:8505/live/amar/amar/753.ts
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://144.217.79.160:8505/live/amar/amar/752.ts
-#EXTINF:-1,FISH TV
-http://144.217.79.160:8505/live/amar/amar/668.ts
-#EXTINF:-1,FOOD NETWORK
-http://144.217.79.160:8505/live/amar/amar/667.ts
-#EXTINF:-1,FOX
-http://144.217.79.160:8505/live/amar/amar/666.ts
-#EXTINF:-1,FOX PREMIUM HD 1
-http://144.217.79.160:8505/live/amar/amar/751.ts
-#EXTINF:-1,FOX PREMIUM HD 2
-http://144.217.79.160:8505/live/amar/amar/750.ts
-#EXTINF:-1,FOX HD
-http://144.217.79.160:8505/live/amar/amar/749.ts
-#EXTINF:-1,FOX LIFE
-http://144.217.79.160:8505/live/amar/amar/665.ts
-#EXTINF:-1,FOX LIFE HD
-http://144.217.79.160:8505/live/amar/amar/748.ts
-#EXTINF:-1,FOX SPORTS HD
-http://144.217.79.160:8505/live/amar/amar/747.ts
-#EXTINF:-1,FOX SPORTS
-http://144.217.79.160:8505/live/amar/amar/664.ts
-#EXTINF:-1,FOX SPORTS 2
-http://144.217.79.160:8505/live/amar/amar/663.ts
-#EXTINF:-1,FOX SPORTS 2 HD
-http://144.217.79.160:8505/live/amar/amar/746.ts
-#EXTINF:-1,FUTURA
-http://144.217.79.160:8505/live/amar/amar/662.ts
-#EXTINF:-1,FX
-http://144.217.79.160:8505/live/amar/amar/661.ts
-#EXTINF:-1,FX HD
-http://144.217.79.160:8505/live/amar/amar/745.ts
-#EXTINF:-1,GLOBO BRASILIA
-http://144.217.79.160:8505/live/amar/amar/566.ts
-#EXTINF:-1,GLOBO MG
-http://144.217.79.160:8505/live/amar/amar/567.ts
-#EXTINF:-1,GLOBO RJ
-http://144.217.79.160:8505/live/amar/amar/571.ts
-#EXTINF:-1,GLOBO RJ HD
-http://144.217.79.160:8505/live/amar/amar/744.ts
-#EXTINF:-1,GLOBO SP
-http://144.217.79.160:8505/live/amar/amar/660.ts
-#EXTINF:-1,GLOBO NEWS
-http://144.217.79.160:8505/live/amar/amar/659.ts
-#EXTINF:-1,GLOOB
-http://144.217.79.160:8505/live/amar/amar/658.ts
-#EXTINF:-1,GNT
-http://144.217.79.160:8505/live/amar/amar/657.ts
-#EXTINF:-1,GNT HD
-http://144.217.79.160:8505/live/amar/amar/743.ts
-#EXTINF:-1,H2
-http://144.217.79.160:8505/live/amar/amar/656.ts
-#EXTINF:-1,H2 HD
-http://144.217.79.160:8505/live/amar/amar/742.ts
-#EXTINF:-1,HBO
-http://144.217.79.160:8505/live/amar/amar/655.ts
-#EXTINF:-1,HBO 2 HD
-http://144.217.79.160:8505/live/amar/amar/741.ts
-#EXTINF:-1,HBO FAMILY
-http://144.217.79.160:8505/live/amar/amar/654.ts
-#EXTINF:-1,HBO FAMILY HD
-http://144.217.79.160:8505/live/amar/amar/740.ts
-#EXTINF:-1,HBO HD
-http://144.217.79.160:8505/live/amar/amar/739.ts
-#EXTINF:-1,HBO PLUS
-http://144.217.79.160:8505/live/amar/amar/653.ts
-#EXTINF:-1,HBO PLUS *E
-http://144.217.79.160:8505/live/amar/amar/652.ts
-#EXTINF:-1,HBO PLUS HD
-http://144.217.79.160:8505/live/amar/amar/738.ts
-#EXTINF:-1,HBO SIGNATURE
-http://144.217.79.160:8505/live/amar/amar/651.ts
-#EXTINF:-1,HBO SIGNATURE HD
-http://144.217.79.160:8505/live/amar/amar/737.ts
-#EXTINF:-1,HBO 2
-http://144.217.79.160:8505/live/amar/amar/650.ts
-#EXTINF:-1,HISTORY CHANNEL HD
-http://144.217.79.160:8505/live/amar/amar/736.ts
-#EXTINF:-1,IDEAL TV
-http://144.217.79.160:8505/live/amar/amar/647.ts
-#EXTINF:-1,ID
-http://144.217.79.160:8505/live/amar/amar/648.ts
-#EXTINF:-1,ID HD
-http://144.217.79.160:8505/live/amar/amar/735.ts
-#EXTINF:-1,I-SAT
-http://144.217.79.160:8505/live/amar/amar/649.ts
-#EXTINF:-1,LIFETIME
-http://144.217.79.160:8505/live/amar/amar/646.ts
-#EXTINF:-1,MAX
-http://144.217.79.160:8505/live/amar/amar/644.ts
-#EXTINF:-1,MAX PRIME
-http://144.217.79.160:8505/live/amar/amar/643.ts
-#EXTINF:-1,MAX PRIME *E
-http://144.217.79.160:8505/live/amar/amar/642.ts
-#EXTINF:-1,MAX UP
-http://144.217.79.160:8505/live/amar/amar/641.ts
-#EXTINF:-1,MEGAPIX
-http://144.217.79.160:8505/live/amar/amar/640.ts
-#EXTINF:-1,MEGAPIX HD
-http://144.217.79.160:8505/live/amar/amar/734.ts
-#EXTINF:-1,MTV
-http://144.217.79.160:8505/live/amar/amar/639.ts
-#EXTINF:-1,MULTISHOW
-http://144.217.79.160:8505/live/amar/amar/638.ts
-#EXTINF:-1,MULTISHOW HD
-http://144.217.79.160:8505/live/amar/amar/733.ts
-#EXTINF:-1,MUSIC BOX BRASIL
-http://144.217.79.160:8505/live/amar/amar/637.ts
-#EXTINF:-1,NATGEO WILD
-http://144.217.79.160:8505/live/amar/amar/636.ts
-#EXTINF:-1,NATGEO WILD HD
-http://144.217.79.160:8505/live/amar/amar/732.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://144.217.79.160:8505/live/amar/amar/635.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://144.217.79.160:8505/live/amar/amar/731.ts
-#EXTINF:-1,NBR
-http://144.217.79.160:8505/live/amar/amar/634.ts
-#EXTINF:-1,NICK JR
-http://144.217.79.160:8505/live/amar/amar/632.ts
-#EXTINF:-1,NICKELODEON
-http://144.217.79.160:8505/live/amar/amar/631.ts
-#EXTINF:-1,NOVO TEMPO
-http://144.217.79.160:8505/live/amar/amar/630.ts
-#EXTINF:-1,OFF
-http://144.217.79.160:8505/live/amar/amar/629.ts
-#EXTINF:-1,OFF HD
-http://144.217.79.160:8505/live/amar/amar/730.ts
-#EXTINF:-1,PARAMOUNT
-http://144.217.79.160:8505/live/amar/amar/628.ts
-#EXTINF:-1,PARAMOUNT HD
-http://144.217.79.160:8505/live/amar/amar/729.ts
-#EXTINF:-1,PLAY TV
-http://144.217.79.160:8505/live/amar/amar/627.ts
-#EXTINF:-1,PREMIERE CLUBES HD
-http://144.217.79.160:8505/live/amar/amar/728.ts
-#EXTINF:-1,PREMIERE CLUBES
-http://144.217.79.160:8505/live/amar/amar/617.ts
-#EXTINF:-1,PREMIERE 2
-http://144.217.79.160:8505/live/amar/amar/625.ts
-#EXTINF:-1,PREMIERE 2 HD
-http://144.217.79.160:8505/live/amar/amar/727.ts
-#EXTINF:-1,PREMIERE 3
-http://144.217.79.160:8505/live/amar/amar/624.ts
-#EXTINF:-1,PREMIERE 3 HD
-http://144.217.79.160:8505/live/amar/amar/726.ts
-#EXTINF:-1,PREMIERE 4
-http://144.217.79.160:8505/live/amar/amar/623.ts
-#EXTINF:-1,PREMIERE 4 HD
-http://144.217.79.160:8505/live/amar/amar/725.ts
-#EXTINF:-1,PREMIERE 5
-http://144.217.79.160:8505/live/amar/amar/622.ts
-#EXTINF:-1,PREMIERE 5 HD
-http://144.217.79.160:8505/live/amar/amar/724.ts
-#EXTINF:-1,PREMIERE 6
-http://144.217.79.160:8505/live/amar/amar/621.ts
-#EXTINF:-1,PREMIERE 7
-http://144.217.79.160:8505/live/amar/amar/620.ts
-#EXTINF:-1,PREMIERE 8
-http://144.217.79.160:8505/live/amar/amar/619.ts
-#EXTINF:-1,PREMIERE 9
-http://144.217.79.160:8505/live/amar/amar/618.ts
-#EXTINF:-1,PRIME BOX BRASIL
-http://144.217.79.160:8505/live/amar/amar/616.ts
-#EXTINF:-1,RBI
-http://144.217.79.160:8505/live/amar/amar/615.ts
-#EXTINF:-1,RBS TV POA
-http://144.217.79.160:8505/live/amar/amar/614.ts
-#EXTINF:-1,RECORD HD
-http://144.217.79.160:8505/live/amar/amar/723.ts
-#EXTINF:-1,RECORD NEWS
-http://144.217.79.160:8505/live/amar/amar/613.ts
-#EXTINF:-1,RECORDTV
-http://144.217.79.160:8505/live/amar/amar/612.ts
-#EXTINF:-1,REDE BRASIL
-http://144.217.79.160:8505/live/amar/amar/611.ts
-#EXTINF:-1,REDE TV
-http://144.217.79.160:8505/live/amar/amar/610.ts
-#EXTINF:-1,REDETV HD
-http://144.217.79.160:8505/live/amar/amar/722.ts
-#EXTINF:-1,REDE VIDA
-http://144.217.79.160:8505/live/amar/amar/609.ts
-#EXTINF:-1,SBT
-http://144.217.79.160:8505/live/amar/amar/607.ts
-#EXTINF:-1,SBT HD
-http://144.217.79.160:8505/live/amar/amar/721.ts
-#EXTINF:-1,SIC INTERNACIONAL
-http://144.217.79.160:8505/live/amar/amar/604.ts
-#EXTINF:-1,SPACE
-http://144.217.79.160:8505/live/amar/amar/603.ts
-#EXTINF:-1,SPACE HD
-http://144.217.79.160:8505/live/amar/amar/720.ts
-#EXTINF:-1,SPORTV 2 HD
-http://144.217.79.160:8505/live/amar/amar/719.ts
-#EXTINF:-1,SPORTV 3 HD
-http://144.217.79.160:8505/live/amar/amar/718.ts
-#EXTINF:-1,SPORTV HD
-http://144.217.79.160:8505/live/amar/amar/717.ts
-#EXTINF:-1,SPORTV
-http://144.217.79.160:8505/live/amar/amar/602.ts
-#EXTINF:-1,SPORTV 2
-http://144.217.79.160:8505/live/amar/amar/601.ts
-#EXTINF:-1,SPORTV 2 ALTERNATIVO
-http://144.217.79.160:8505/live/amar/amar/600.ts
-#EXTINF:-1,SPORTV 3
-http://144.217.79.160:8505/live/amar/amar/599.ts
-#EXTINF:-1,SPORTV ALTERNATIVO
-http://144.217.79.160:8505/live/amar/amar/598.ts
-#EXTINF:-1,STUDIO UNIVERSAL
-http://144.217.79.160:8505/live/amar/amar/597.ts
-#EXTINF:-1,SYFY
-http://144.217.79.160:8505/live/amar/amar/596.ts
-#EXTINF:-1,TBS
-http://144.217.79.160:8505/live/amar/amar/595.ts
-#EXTINF:-1,TBS HD
-http://144.217.79.160:8505/live/amar/amar/716.ts
-#EXTINF:-1,TC ACTION HD
-http://144.217.79.160:8505/live/amar/amar/715.ts
-#EXTINF:-1,TC FUN HD
-http://144.217.79.160:8505/live/amar/amar/714.ts
-#EXTINF:-1,TC PIPOCA HD
-http://144.217.79.160:8505/live/amar/amar/713.ts
-#EXTINF:-1,TC PREMIUM HD
-http://144.217.79.160:8505/live/amar/amar/712.ts
-#EXTINF:-1,TC TOUCH HD
-http://144.217.79.160:8505/live/amar/amar/711.ts
-#EXTINF:-1,TCM
-http://144.217.79.160:8505/live/amar/amar/594.ts
-#EXTINF:-1,TC ACTION
-http://144.217.79.160:8505/live/amar/amar/593.ts
-#EXTINF:-1,TC CULT
-http://144.217.79.160:8505/live/amar/amar/592.ts
-#EXTINF:-1,TC FUN
-http://144.217.79.160:8505/live/amar/amar/591.ts
-#EXTINF:-1,TC PIPOCA
-http://144.217.79.160:8505/live/amar/amar/590.ts
-#EXTINF:-1,TC PREMIUM
-http://144.217.79.160:8505/live/amar/amar/589.ts
-#EXTINF:-1,TC TOUCH
-http://144.217.79.160:8505/live/amar/amar/588.ts
-#EXTINF:-1,TERRA VIVA
-http://144.217.79.160:8505/live/amar/amar/587.ts
-#EXTINF:-1,THE HISTORY
-http://144.217.79.160:8505/live/amar/amar/586.ts
-#EXTINF:-1,TLC
-http://144.217.79.160:8505/live/amar/amar/585.ts
-#EXTINF:-1,TNT
-http://144.217.79.160:8505/live/amar/amar/584.ts
-#EXTINF:-1,TNT HD
-http://144.217.79.160:8505/live/amar/amar/710.ts
-#EXTINF:-1,TNT SERIES
-http://144.217.79.160:8505/live/amar/amar/583.ts
-#EXTINF:-1,TNT SERIES HD
-http://144.217.79.160:8505/live/amar/amar/709.ts
-#EXTINF:-1,TOONCAST
-http://144.217.79.160:8505/live/amar/amar/582.ts
-#EXTINF:-1,TRUE TV
-http://144.217.79.160:8505/live/amar/amar/581.ts
-#EXTINF:-1,TV ANHANGUERA
-http://144.217.79.160:8505/live/amar/amar/568.ts
-#EXTINF:-1,TV BRASIL
-http://144.217.79.160:8505/live/amar/amar/580.ts
-#EXTINF:-1,TV CULTURA
-http://144.217.79.160:8505/live/amar/amar/579.ts
-#EXTINF:-1,TV RA TIM BUM
-http://144.217.79.160:8505/live/amar/amar/578.ts
-#EXTINF:-1,TV TEM BAURU
-http://144.217.79.160:8505/live/amar/amar/569.ts
-#EXTINF:-1,TV TEM SOROCABA
-http://144.217.79.160:8505/live/amar/amar/570.ts
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://144.217.79.160:8505/live/amar/amar/576.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://144.217.79.160:8505/live/amar/amar/708.ts
-#EXTINF:-1,VH1 MEGA HITS
-http://144.217.79.160:8505/live/amar/amar/575.ts
-#EXTINF:-1,VIVA
-http://144.217.79.160:8505/live/amar/amar/574.ts
-#EXTINF:-1,VIVA HD
-http://144.217.79.160:8505/live/amar/amar/707.ts
-#EXTINF:-1,WARNER CHANNEL
-http://144.217.79.160:8505/live/amar/amar/573.ts
-#EXTINF:-1,WARNER CHANNEL HD
-http://144.217.79.160:8505/live/amar/amar/705.ts
-#EXTINF:-1,WOOHOO
-http://144.217.79.160:8505/live/amar/amar/572.ts
-#EXTINF:-1,Animal Planet HEVC
-http://144.217.79.160:8505/live/amar/amar/2931.ts
-#EXTINF:-1,AXN HEVC
-http://144.217.79.160:8505/live/amar/amar/2930.ts
-#EXTINF:-1,Band Sports HEVC
-http://144.217.79.160:8505/live/amar/amar/2929.ts
-#EXTINF:-1,Discovery Channel HEVC
-http://144.217.79.160:8505/live/amar/amar/2928.ts
-#EXTINF:-1,Discovery Theater HEVC
-http://144.217.79.160:8505/live/amar/amar/2927.ts
-#EXTINF:-1,Discovery Turbo HEVC
-http://144.217.79.160:8505/live/amar/amar/2926.ts
-#EXTINF:-1,Discovery World HEVC
-http://144.217.79.160:8505/live/amar/amar/2925.ts
-#EXTINF:-1,EI Maxx 2 HEVC
-http://144.217.79.160:8505/live/amar/amar/2924.ts
-#EXTINF:-1,EI Maxx HEVC
-http://144.217.79.160:8505/live/amar/amar/2923.ts
-#EXTINF:-1,ESPN Brasil HEVC
-http://144.217.79.160:8505/live/amar/amar/2922.ts
-#EXTINF:-1,ESPN Plus HEVC
-http://144.217.79.160:8505/live/amar/amar/2921.ts
-#EXTINF:-1,Esporte Interativo HEVC
-http://144.217.79.160:8505/live/amar/amar/2920.ts
-#EXTINF:-1,Fox Premium 1 HEVC
-http://144.217.79.160:8505/live/amar/amar/2919.ts
-#EXTINF:-1,Fox Life HEVC
-http://144.217.79.160:8505/live/amar/amar/2918.ts
-#EXTINF:-1,Fox Sports 2 HEVC
-http://144.217.79.160:8505/live/amar/amar/2917.ts
-#EXTINF:-1,FX HEVC
-http://144.217.79.160:8505/live/amar/amar/2916.ts
-#EXTINF:-1,Globo RJ HEVC
-http://144.217.79.160:8505/live/amar/amar/2915.ts
-#EXTINF:-1,GNT HEVC
-http://144.217.79.160:8505/live/amar/amar/2914.ts
-#EXTINF:-1,HBO Family HEVC
-http://144.217.79.160:8505/live/amar/amar/2913.ts
-#EXTINF:-1,HBO HEVC
-http://144.217.79.160:8505/live/amar/amar/2912.ts
-#EXTINF:-1,HBO Plus HEVC
-http://144.217.79.160:8505/live/amar/amar/2911.ts
-#EXTINF:-1,HBO Signature HEVC
-http://144.217.79.160:8505/live/amar/amar/2910.ts
-#EXTINF:-1,HBO2 HEVC
-http://144.217.79.160:8505/live/amar/amar/2909.ts
-#EXTINF:-1,History 2 HEVC
-http://144.217.79.160:8505/live/amar/amar/2908.ts
-#EXTINF:-1,ID HEVC
-http://144.217.79.160:8505/live/amar/amar/2907.ts
-#EXTINF:-1,Megapix HEVC
-http://144.217.79.160:8505/live/amar/amar/2906.ts
-#EXTINF:-1,Multishow HEVC
-http://144.217.79.160:8505/live/amar/amar/2905.ts
-#EXTINF:-1,NatGeo HEVC
-http://144.217.79.160:8505/live/amar/amar/2904.ts
-#EXTINF:-1,Premiere 2 HEVC
-http://144.217.79.160:8505/live/amar/amar/2902.ts
-#EXTINF:-1,Premiere 4 HEVC
-http://144.217.79.160:8505/live/amar/amar/2901.ts
-#EXTINF:-1,Premiere 5 HEVC
-http://144.217.79.160:8505/live/amar/amar/2900.ts
-#EXTINF:-1,Premiere Clubes HEVC
-http://144.217.79.160:8505/live/amar/amar/2899.ts
-#EXTINF:-1,SBT HEVC
-http://144.217.79.160:8505/live/amar/amar/2898.ts
-#EXTINF:-1,Paramount HEVC
-http://144.217.79.160:8505/live/amar/amar/2903.ts
-#EXTINF:-1,Sportv HEVC
-http://144.217.79.160:8505/live/amar/amar/2897.ts
-#EXTINF:-1,TBS HEVC
-http://144.217.79.160:8505/live/amar/amar/2896.ts
-#EXTINF:-1,TC Action HEVC
-http://144.217.79.160:8505/live/amar/amar/2895.ts
-#EXTINF:-1,TC Pipoca HEVC
-http://144.217.79.160:8505/live/amar/amar/2894.ts
-#EXTINF:-1,TC Premium HEVC
-http://144.217.79.160:8505/live/amar/amar/2893.ts
-#EXTINF:-1,TC Touch HEVC
-http://144.217.79.160:8505/live/amar/amar/2892.ts
-#EXTINF:-1,TNT HEVC
-http://144.217.79.160:8505/live/amar/amar/2891.ts
-#EXTINF:-1,TNT Series HEVC
-http://144.217.79.160:8505/live/amar/amar/2890.ts
-#EXTINF:-1,Universal Channel HEVC
-http://144.217.79.160:8505/live/amar/amar/2889.ts
-#EXTINF:-1,Viva HEVC
-http://144.217.79.160:8505/live/amar/amar/2888.ts
-#EXTINF:-1,Warner HEVC
-http://144.217.79.160:8505/live/amar/amar/2887.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2720.ts
 #EXTINF:-1,A&E HD
-http://144.217.79.160:8505/live/amar/amar/2886.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3371.ts
+#EXTINF:-1,Animal Planet
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1864.ts
+#EXTINF:-1,Animal Planet HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1863.ts
+#EXTINF:-1,Arte 1
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1861.ts
+#EXTINF:-1,AXN
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1860.ts
+#EXTINF:-1,AXN HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2165.ts
+#EXTINF:-1,Bandeirantes
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1855.ts
+#EXTINF:-1,Band HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1858.ts
+#EXTINF:-1,Band News
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1857.ts
+#EXTINF:-1,Band Sports
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1856.ts
+#EXTINF:-1,Band Sports HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2119.ts
+#EXTINF:-1,BIS
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1853.ts
+#EXTINF:-1,BIS HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2120.ts
+#EXTINF:-1,Boomerang
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1852.ts
+#EXTINF:-1,Canal Brasil
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1851.ts
 #EXTINF:-1,Canal Brasil HD
-http://144.217.79.160:8505/live/amar/amar/2885.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3370.ts
+#EXTINF:-1,Canal Rural
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1850.ts
+#EXTINF:-1,Canal Sony
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1849.ts
+#EXTINF:-1,Sony HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2164.ts
+#EXTINF:-1,Cancao Nova
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1848.ts
+#EXTINF:-1,Cartoon Network
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1847.ts
+#EXTINF:-1,Cartoon Network HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3369.ts
+#EXTINF:-1,Cinemax
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1846.ts
 #EXTINF:-1,Cinemax HD
-http://144.217.79.160:8505/live/amar/amar/2884.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3368.ts
+#EXTINF:-1,Combate
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1845.ts
+#EXTINF:-1,Combate HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1844.ts
+#EXTINF:-1,Comedy Central
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1843.ts
+#EXTINF:-1,Curta!
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1842.ts
+#EXTINF:-1,Discovery Channel
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1841.ts
+#EXTINF:-1,Discovery Channel HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1840.ts
+#EXTINF:-1,Discovery Civilization
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1839.ts
+#EXTINF:-1,Discovery H&H
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1838.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1837.ts
+#EXTINF:-1,Discovery Kids
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1836.ts
 #EXTINF:-1,Discovery Kids HD
-http://144.217.79.160:8505/live/amar/amar/2883.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3367.ts
+#EXTINF:-1,Discovery Science
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1835.ts
+#EXTINF:-1,Discovery Turbo
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1834.ts
+#EXTINF:-1,Discovery Turbo HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1833.ts
+#EXTINF:-1,Discovery World HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2163.ts
+#EXTINF:-1,Disney Junior
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1831.ts
+#EXTINF:-1,Disney XD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1830.ts
+#EXTINF:-1,Disney
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1832.ts
 #EXTINF:-1,Disney Channel HD
-http://144.217.79.160:8505/live/amar/amar/2882.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3366.ts
+#EXTINF:-1,E!
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1829.ts
 #EXTINF:-1,E! HD
-http://144.217.79.160:8505/live/amar/amar/2881.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3365.ts
+#EXTINF:-1,EI Maxx
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1828.ts
+#EXTINF:-1,Ei Maxx HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1825.ts
+#EXTINF:-1,EI Maxx 2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1827.ts
+#EXTINF:-1,Ei Maxx 2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1826.ts
+#EXTINF:-1,ESPN Brasil
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1866.ts
+#EXTINF:-1,ESPN Brasil HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1823.ts
+#EXTINF:-1,ESPN
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1824.ts
+#EXTINF:-1,ESPN HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2162.ts
+#EXTINF:-1,Esporte Interativo HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2161.ts
+#EXTINF:-1,Fish TV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1822.ts
+#EXTINF:-1,Food Network
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1821.ts
 #EXTINF:-1,Food Network HD
-http://144.217.79.160:8505/live/amar/amar/2880.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3364.ts
+#EXTINF:-1,Fox Life
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1817.ts
+#EXTINF:-1,Fox Life HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2159.ts
+#EXTINF:-1,Fox Sports
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1815.ts
+#EXTINF:-1,Fox Sports HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1816.ts
+#EXTINF:-1,Fox Sports 2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1814.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2158.ts
+#EXTINF:-1,FOX
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1820.ts
+#EXTINF:-1,FOX HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2160.ts
+#EXTINF:-1,Fox 1 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1819.ts
+#EXTINF:-1,Fox Action HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1818.ts
+#EXTINF:-1,Futura
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1813.ts
+#EXTINF:-1,FX
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1812.ts
+#EXTINF:-1,FX HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2157.ts
+#EXTINF:-1,Globo SP
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1810.ts
+#EXTINF:-1,Globo RJ HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1811.ts
+#EXTINF:-1,GloboNews
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1809.ts
 #EXTINF:-1,Globo News HD
-http://144.217.79.160:8505/live/amar/amar/2879.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3363.ts
+#EXTINF:-1,Gloob
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1808.ts
 #EXTINF:-1,Gloob HD
-http://144.217.79.160:8505/live/amar/amar/2878.ts
-#EXTINF:-1,Life Time HD
-http://144.217.79.160:8505/live/amar/amar/2877.ts
-#EXTINF:-1,Mais Globo Sat HD
-http://144.217.79.160:8505/live/amar/amar/2876.ts
-#EXTINF:-1,MAX HD
-http://144.217.79.160:8505/live/amar/amar/2875.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3362.ts
+#EXTINF:-1,GNT
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1807.ts
+#EXTINF:-1,GNT HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2118.ts
+#EXTINF:-1,H2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1806.ts
+#EXTINF:-1,H2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2156.ts
+#EXTINF:-1,HBO Family
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1803.ts
+#EXTINF:-1,HBO Family HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2155.ts
+#EXTINF:-1,HBO Plus e
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1800.ts
+#EXTINF:-1,HBO Plus
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1801.ts
+#EXTINF:-1,HBO Plus HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2154.ts
+#EXTINF:-1,HBO Signature
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1799.ts
+#EXTINF:-1,HBO Signature HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2153.ts
+#EXTINF:-1,HBO
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1805.ts
+#EXTINF:-1,HBO HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1802.ts
+#EXTINF:-1,History Channel HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1797.ts
+#EXTINF:-1,HBO2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1798.ts
+#EXTINF:-1,HBO 2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1804.ts
+#EXTINF:-1,I-SAT
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1796.ts
+#EXTINF:-1,ID – Investigacao Discovery
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1795.ts
+#EXTINF:-1,ID – Investigação Discovery HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2152.ts
+#EXTINF:-1,Ideal TV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1794.ts
+#EXTINF:-1,Lifetime
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1793.ts
+#EXTINF:-1,LifeTime HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3361.ts
+#EXTINF:-1,Mais Globosat
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1792.ts
+#EXTINF:-1,MAX Prime e
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1789.ts
+#EXTINF:-1,MAX Prime
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1790.ts
 #EXTINF:-1,Max Prime HD
-http://144.217.79.160:8505/live/amar/amar/2874.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3357.ts
+#EXTINF:-1,MAX UP
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1788.ts
 #EXTINF:-1,Max UP HD
-http://144.217.79.160:8505/live/amar/amar/2873.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3359.ts
+#EXTINF:-1,MAX
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1791.ts
+#EXTINF:-1,Max HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3358.ts
+#EXTINF:-1,MegaPix
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1787.ts
+#EXTINF:-1,Megapix HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2111.ts
+#EXTINF:-1,MTV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1786.ts
 #EXTINF:-1,MTV HD
-http://144.217.79.160:8505/live/amar/amar/2872.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3356.ts
+#EXTINF:-1,Multishow
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1785.ts
+#EXTINF:-1,Multishow HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2123.ts
+#EXTINF:-1,Music Box Brazil
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1784.ts
+#EXTINF:-1,NatGeo Wild
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1783.ts
+#EXTINF:-1,NatGeoWild HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2151.ts
+#EXTINF:-1,National Geographic
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1782.ts
+#EXTINF:-1,National Geography HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1781.ts
+#EXTINF:-1,NBR
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1780.ts
+#EXTINF:-1,NHK
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1779.ts
+#EXTINF:-1,Nick Jr
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1778.ts
+#EXTINF:-1,Nickelodeon
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1777.ts
 #EXTINF:-1,Nick HD
-http://144.217.79.160:8505/live/amar/amar/2871.ts
-#EXTINF:-1,Syfy HD
-http://144.217.79.160:8505/live/amar/amar/2869.ts
-#EXTINF:-1,TC Cult HD
-http://144.217.79.160:8505/live/amar/amar/2868.ts
-#EXTINF:-1,TF1HD
-http://144.217.79.160:8505/live/amar/amar/2272.ts
-#EXTINF:-1,TLC HD
-http://144.217.79.160:8505/live/amar/amar/2867.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3355.ts
+#EXTINF:-1,Novo Tempo
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1776.ts
+#EXTINF:-1,OFF
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1775.ts
+#EXTINF:-1,OFF HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2150.ts
+#EXTINF:-1,Paramount
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1774.ts
+#EXTINF:-1,Paramount HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2117.ts
+#EXTINF:-1,Premiere Clubes
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1758.ts
+#EXTINF:-1,Premiere Clubes HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1771.ts
+#EXTINF:-1,Premiere 2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1770.ts
+#EXTINF:-1,Premiere 2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1769.ts
+#EXTINF:-1,Premiere 3
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1768.ts
+#EXTINF:-1,Premiere 3 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1767.ts
+#EXTINF:-1,Premiere 4
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1766.ts
+#EXTINF:-1,Premiere 4 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1765.ts
+#EXTINF:-1,Premiere 5
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1764.ts
+#EXTINF:-1,Premiere 5 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1763.ts
+#EXTINF:-1,Premiere 6
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1762.ts
+#EXTINF:-1,Premiere 7
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1761.ts
+#EXTINF:-1,Premiere 8
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1760.ts
+#EXTINF:-1,Premiere 9
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1759.ts
+#EXTINF:-1,Prime Box Brazil
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1757.ts
+#EXTINF:-1,RBI
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1756.ts
+#EXTINF:-1,RBS TV Porto Alegre
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1755.ts
+#EXTINF:-1,Record News
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1753.ts
+#EXTINF:-1,RECORDTV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1752.ts
+#EXTINF:-1,Record HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1754.ts
+#EXTINF:-1,Rede Brasil
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1751.ts
+#EXTINF:-1,Rede TV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1750.ts
+#EXTINF:-1,Rede TV HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2149.ts
+#EXTINF:-1,Rede Vida
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1749.ts
+#EXTINF:-1,RIT
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1748.ts
+#EXTINF:-1,SBT
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1747.ts
+#EXTINF:-1,SBT HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1746.ts
+#EXTINF:-1,SIC Internacional
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1743.ts
+#EXTINF:-1,Space
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1742.ts
+#EXTINF:-1,Space HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2115.ts
+#EXTINF:-1,SporTV
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1738.ts
+#EXTINF:-1,SporTV HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1739.ts
+#EXTINF:-1,SporTV 2
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1737.ts
+#EXTINF:-1,SporTV 2 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1741.ts
+#EXTINF:-1,SporTV 3
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1735.ts
+#EXTINF:-1,SporTV 3 HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1740.ts
+#EXTINF:-1,Studio Universal
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1733.ts
 #EXTINF:-1,Studio Universal HD
-http://144.217.79.160:8505/live/amar/amar/2870.ts
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3354.ts
+#EXTINF:-1,Syfy
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1732.ts
+#EXTINF:-1,Syfy HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3353.ts
+#EXTINF:-1,TBS
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1731.ts
+#EXTINF:-1,TBS HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2121.ts
+#EXTINF:-1,TCM
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1726.ts
+#EXTINF:-1,Telecine Action
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1725.ts
+#EXTINF:-1,Telecine Action HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1730.ts
+#EXTINF:-1,Telecine Cult
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1724.ts
+#EXTINF:-1,Telecine Cult HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3352.ts
+#EXTINF:-1,Telecine Fun
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1723.ts
+#EXTINF:-1,Telecine Fun HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1729.ts
+#EXTINF:-1,Telecine Pipoca
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1722.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1728.ts
+#EXTINF:-1,Telecine Premium
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1721.ts
+#EXTINF:-1,Telecine Premium HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1727.ts
+#EXTINF:-1,Telecine Touch
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1720.ts
+#EXTINF:-1,Telecine Touch HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2148.ts
+#EXTINF:-1,The History Channel
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1718.ts
+#EXTINF:-1,The History Channel HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2147.ts
+#EXTINF:-1,TLC
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1717.ts
+#EXTINF:-1,TLC HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3351.ts
+#EXTINF:-1,TNT Series
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1714.ts
+#EXTINF:-1,TNT Series HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2116.ts
+#EXTINF:-1,TNT
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1716.ts
+#EXTINF:-1,TNT HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1715.ts
+#EXTINF:-1,Tooncast
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1713.ts
+#EXTINF:-1,Universal Channel
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1707.ts
+#EXTINF:-1,Universal Channel HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2112.ts
+#EXTINF:-1,VH1 Megahits
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1706.ts
 #EXTINF:-1,VH1 HD
-http://144.217.79.160:8505/live/amar/amar/2866.ts
-
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3350.ts
+#EXTINF:-1,Viva
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1705.ts
+#EXTINF:-1,Viva HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2145.ts
+#EXTINF:-1,Warner Channel
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1704.ts
+#EXTINF:-1,Warner Channel HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/2146.ts
+#EXTINF:-1,Woohoo
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1703.ts
+#EXTINF:-1,Rádio | Dance Music
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3085.ts
+#EXTINF:-1,ESPN HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3424.ts
+#EXTINF:-1,Discovery Theater HD
+http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/3430.ts
 
 
 
