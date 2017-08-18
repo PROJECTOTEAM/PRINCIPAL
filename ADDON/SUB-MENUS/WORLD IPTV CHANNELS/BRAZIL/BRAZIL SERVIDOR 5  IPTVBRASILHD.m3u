@@ -11,17 +11,11 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://media.lovemondays.com.br/logos/9631a2/rede-minas-original.jpg", REDE MINAS
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist_w1068978935.m3u8
 
-#EXTINF:0 type="stream" channelId="2432", GLOBO HD
-http://brasil.listaiptv.com:25461/live/PAULOOLIVEIRA123/PAULOOLIVEIRA1234/1810.ts  ? Geraldo Filho
 
-
-#EXTINF:0 type="stream" channelId="2432", GLOBO  EM HD MANUTEMÇAO*
-http://1.cdn23.tk:8880/live/ST8mJXoisa01/4Dnp63Bwytza/153.ts?z2izb
 
 
 
 #EXTINF:0 type="stream" channelId="2433", SBT
-#EXTSIZE: Small
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
 
 #EXTINF:0 type="stream" channelId="2433", SBT EM HD
