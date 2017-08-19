@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -16,61 +16,64 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,PL: Tvp Sport
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5506.ts
-#EXTINF:-1,PL: Tvp 2
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5505.ts
-#EXTINF:-1,PL: Tvp 1
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5504.ts
-#EXTINF:-1,PL: Tvp
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5503.ts
-#EXTINF:-1,PL: REPUBLIKA
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5510.ts
-#EXTINF:-1,PL: CINEMAX HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5909.ts
-#EXTINF:-1,PL: Tvn Turbo
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5907.ts
-#EXTINF:-1,PL: MPL
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5916.ts
-#EXTINF:-1,PL: Hbo HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5918.ts
-#EXTINF:-1,PL: WP
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5917.ts
-#EXTINF:-1,PL: ELEVEN SPORT
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5512.ts
-#EXTINF:-1,PL: Polsat Film
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5511.ts
-#EXTINF:-1,PL: Polsat Cafe
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5509.ts
-#EXTINF:-1,PL: Polsat 2
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5508.ts
-#EXTINF:-1,PL: Polsat
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5507.ts
-#EXTINF:-1,PL: Canal  Sport
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5516.ts
-#EXTINF:-1,PL: TRWAM
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5514.ts
-#EXTINF:-1,PL: Canal  Film HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5513.ts
-#EXTINF:-1,PL: TWOJA TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5921.ts
-#EXTINF:-1,PL: TVT
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5927.ts
-#EXTINF:-1,PL: STELLA
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6087.ts
-#EXTINF:-1,PL: FILMBOX FAMILY
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6089.ts
-#EXTINF:-1,PL: UNIVERSAL
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5922.ts
-#EXTINF:-1,PL: TV ASTRA
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5515.ts
-
-
+#EXTM3U
+#EXTINF:-1,ADVENTURE HD
+http://37.209.57.202:9981/stream/channelid/1618610160
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://37.209.57.202:9981/stream/channelid/2083008686
+#EXTINF:-1,CANAL+1 HD
+http://37.209.57.202:9981/stream/channelid/2120164909
+#EXTINF:-1,DOMO+ HD
+http://37.209.57.202:9981/stream/channelid/937441465
+#EXTINF:-1,Eleven Extra HD
+http://37.209.57.202:9981/stream/channelid/844893028
+#EXTINF:-1,Eleven HD
+http://37.209.57.202:9981/stream/channelid/2121113517
+#EXTINF:-1,Eleven Sports HD
+http://37.209.57.202:9981/stream/channelid/762467700
+#EXTINF:-1,ESKA TV
+http://37.209.57.202:9981/stream/channelid/1653571421
+#EXTINF:-1,ESKA TV Extra
+http://37.209.57.202:9981/stream/channelid/182468629
+#EXTINF:-1,Fightklub HD
+http://37.209.57.202:9981/stream/channelid/1959887505
+#EXTINF:-1,FOKUS TV
+http://37.209.57.202:9981/stream/channelid/1746873383
+#EXTINF:-1,FOX
+http://37.209.57.202:9981/stream/channelid/1396963316
+#EXTINF:-1,HGTV
+http://37.209.57.202:9981/stream/channelid/395201942
+#EXTINF:-1,HGTV HD
+http://37.209.57.202:9981/stream/channelid/1020996605
+#EXTINF:-1,Mango 24
+http://37.209.57.202:9981/stream/channelid/675512109
+#EXTINF:-1,MANGO 24_
+http://37.209.57.202:9981/stream/channelid/817882775
+#EXTINF:-1,NOWA TV
+http://37.209.57.202:9981/stream/channelid/1570544439
+#EXTINF:-1,NTL
+http://37.209.57.202:9981/stream/channelid/1760954353
+#EXTINF:-1,NUTA TV
+http://37.209.57.202:9981/stream/channelid/1253360285
+#EXTINF:-1,Polo TV
+http://37.209.57.202:9981/stream/channelid/172045978
+#EXTINF:-1,POWER TV
+http://37.209.57.202:9981/stream/channelid/772004860
+#EXTINF:-1,Puls 2
+http://37.209.57.202:9981/stream/channelid/163976436
+#EXTINF:-1,TO!TV
+http://37.209.57.202:9981/stream/channelid/1226866426
+#EXTINF:-1,TVN
+http://37.209.57.202:9981/stream/channelid/1953503842
+#EXTINF:-1,TVN 24
+http://37.209.57.202:9981/stream/channelid/1385409442
+#EXTINF:-1,TVN 7
+http://37.209.57.202:9981/stream/channelid/1361730387
+#EXTINF:-1,TVN Style
+http://37.209.57.202:9981/stream/channelid/968843327
+#EXTINF:-1,TVN Turbo
+http://37.209.57.202:9981/stream/channelid/900644390
+#EXTINF:-1,TVN24 BiS
+http://37.209.57.202:9981/stream/channelid/186611462
+#EXTINF:-1,TVN24 BiS HD
+http://37.209.57.202:9981/stream/channelid/271300424

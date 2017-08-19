@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -11,216 +11,466 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,DE: ZDF HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1869.ts
-#EXTINF:-1,DE: ARD HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2409.ts
-#EXTINF:-1,DE: HR HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4204.ts
-#EXTINF:-1,DE: NDR HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2397.ts
-#EXTINF:-1,DE: WDR HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2393.ts
-#EXTINF:-1,DE: ARTE
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2408.ts
-#EXTINF:-1,DE: SWR HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2783.ts
-#EXTINF:-1,De: Baden TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4203.ts
-#EXTINF:-1,DE: TECTIME TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4205.ts
-#EXTINF:-1,DE: SAT 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2788.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4091.ts
-#EXTINF:-1,DE: RTL HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2379.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1865.ts
-#EXTINF:-1,DE: Rtl Nitro
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2378.ts
-#EXTINF:-1,DE: RTL Crime
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3488.ts
-#EXTINF:-1,DE: SUPER RTL
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1867.ts
-#EXTINF:-1,DE: RTL LIVING HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2774.ts
-#EXTINF:-1,DE: RTL_PASSION
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2777.ts
-#EXTINF:-1,DE: PRO MAX 7
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1866.ts
-#EXTINF:-1,DE: Kinowelt
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3923.ts
-#EXTINF:-1,DE: SIXX HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2380.ts
-#EXTINF:-1,DE: SAT 3 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2775.ts
-#EXTINF:-1,DE: KIKA HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2400.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2396.ts
-#EXTINF:-1,DE: SONY HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2820.ts
-#EXTINF:-1,DE: KABEL 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2402.ts
-#EXTINF:-1,DE: ProSieben Max
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2390.ts
-#EXTINF:-1,DE: RIC KINDER KANAL
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2394.ts
-#EXTINF:-1,DE: PRO 7 MAXX
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2395.ts
-#EXTINF:-1,DE: VOX HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1874.ts
-#EXTINF:-1,DE: N24 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2398.ts
-#EXTINF:-1,DE: KIKA
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2391.ts
-#EXTINF:-1,DE: Austria 24
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4208.ts
-#EXTINF:-1,DE: PROSIEBEN
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4207.ts
-#EXTINF:-1,DE: Sky Germany Cinema  1
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/984.ts
-#EXTINF:-1,DE: Sky Germany Cinema  24
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/982.ts
-#EXTINF:-1,DE: Sky Germany Action
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/986.ts
-#EXTINF:-1,DE: Sky Germany Atlantic
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/985.ts
-#EXTINF:-1,DE: Sky Germany Comedy HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/980.ts
-#EXTINF:-1,DE: Sky Germany Comedy
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/981.ts
-#EXTINF:-1,DE: Sky Gemany Cinema
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/988.ts
-#EXTINF:-1,DE: SKY EMOTION HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2819.ts
-#EXTINF:-1,DE: SKY HITS HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3489.ts
-#EXTINF:-1,DE:Sky Nostalgie
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3915.ts
-#EXTINF:-1,DE: SKY KRIMI
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2389.ts
-#EXTINF:-1,DE: SYFY HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2782.ts
-#EXTINF:-1,DE:MGM HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2000.ts
-#EXTINF:-1,DE: JUNIOR
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4209.ts
-#EXTINF:-1,DE: DISNEY XD HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4210.ts
-#EXTINF:-1,DE: NICKLODEON HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2776.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1998.ts
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2405.ts
-#EXTINF:-1,DE: Sky Disney Cinemagic HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2392.ts
-#EXTINF:-1,DE: TNT_SERIE HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2780.ts
-#EXTINF:-1,DE: TNT_FILM HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2781.ts
-#EXTINF:-1,DE: FOX HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1048.ts
-#EXTINF:-1,DE: SKY AXN
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3922.ts
-#EXTINF:-1,DE: Classica HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2829.ts
-#EXTINF:-1,DE: Sky Germany 13 Street HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/987.ts
-#EXTINF:-1,DE: ROMANCE TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4211.ts
-#EXTINF:-1,DE: DMAX
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2387.ts
-#EXTINF:-1,DE: A$E TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2410.ts
-#EXTINF:-1,DE: Discovery HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1999.ts
-#EXTINF:-1,DE: Welt der Wunder
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3925.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/3926.ts
-#EXTINF:-1,DE: NAT GEO WILD HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4214.ts
-#EXTINF:-1,DE: ANIMAL PLANET HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4216.ts
-#EXTINF:-1,DE: National Geograph HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2787.ts
-#EXTINF:-1,DE: HISTORY CHANNEL HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2786.ts
-#EXTINF:-1,DE: WELT DER WUNDER TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4217.ts
-#EXTINF:-1,DE: NATIONAL GEOGRAPHICS PEOPLE HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4215.ts
-#EXTINF:-1,DE: Donau TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6610.ts
-#EXTINF:-1,DE: Filstalwelle
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6612.ts
-#EXTINF:-1,DE: Goldstar TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6611.ts
-#EXTINF:-1,DE: Muenchen TV
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/6613.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1873.ts
-#EXTINF:-1,DE:Sky Bundesliga 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2386.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2411.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2418.ts
-#EXTINF:-1,DE: Sky Sports News HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2823.ts
-#EXTINF:-1,DE: Sky Sports 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/976.ts
-#EXTINF:-1,DE: Sky Sports 2 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/975.ts
-#EXTINF:-1,DE: Sport digital HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2821.ts
-#EXTINF:-1,DE: SPORT 1 HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2822.ts
-#EXTINF:-1,DE: SKY SPORT Austria
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/4093.ts
-#EXTINF:-1,DE: EUROSPORT 1
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2382.ts
-#EXTINF:-1,DE: EURONEWS
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/2785.ts
-#EXTINF:-1,DE: SRF HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5643.ts
-#EXTINF:-1,DE: Sportdigital HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5640.ts
-#EXTINF:-1,DE: Sport 1 Plus  HD
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5639.ts
-#EXTINF:-1,DE:Vip Sky Select 1
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5653.ts
-#EXTINF:-1,DE:Vip Sky Select 2
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5651.ts
-#EXTINF:-1,DE:Vip Sky Select 3
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5650.ts
-#EXTINF:-1,DE:Vip Sky Select 4
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5649.ts
-#EXTINF:-1,DE:Vip Sky Select 5
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5648.ts
-#EXTINF:-1,DE:Vip Sky Select 6
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5647.ts
-#EXTINF:-1,DE:Vip Sky Select 7
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5646.ts
-#EXTINF:-1,DE:Vip Sky Select 8
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5645.ts
-#EXTINF:-1,DE:Vip Sky Select 9
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5644.ts
-#EXTINF:-1,DE:Vip Sky Select 10
-http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/5652.ts
+#EXTM3U
+#EXTINF:-1,DE Das Erste
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8461.ts
+#EXTINF:-1,DE ZDF HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2591.ts
+#EXTINF:-1,DE Super RTL HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2592.ts
+#EXTINF:-1,DE RTL 2 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2596.ts
+#EXTINF:-1,DE RTL 2
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8497.ts
+#EXTINF:-1,DE RTL Nitro HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7669.ts
+#EXTINF:-1,DE RTL Plus
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7670.ts
+#EXTINF:-1,DE Sixx
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2601.ts
+#EXTINF:-1,DE Pro Sieben HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2605.ts
+#EXTINF:-1,DE Pro Sieben Fun HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8493.ts
+#EXTINF:-1,DE Sat 1 Emotions
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2603.ts
+#EXTINF:-1,DE SAT1 GOLD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7671.ts
+#EXTINF:-1,DE VOX
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/5660.ts
+#EXTINF:-1,DE Kabel Eins HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2608.ts
+#EXTINF:-1,DE Kabel 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8479.ts
+#EXTINF:-1,DE Kabel 1 Classics
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8480.ts
+#EXTINF:-1,De Kabel 1 Doku
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8483.ts
+#EXTINF:-1,DE Kabel 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8481.ts
+#EXTINF:-1,DE Kabel Classic HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8482.ts
+#EXTINF:-1,DE SRF 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6567.ts
+#EXTINF:-1,DE SRF zwei HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6566.ts
+#EXTINF:-1,DE ZDF Info HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2589.ts
+#EXTINF:-1,DE 3Sat
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2599.ts
+#EXTINF:-1,DE Anixe HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7672.ts
+#EXTINF:-1,DE Munchen TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7676.ts
+#EXTINF:-1,DE TOGGO Plus
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7673.ts
+#EXTINF:-1,DE ARD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7674.ts
+#EXTINF:-1,DE Light Channel TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7678.ts
+#EXTINF:-1,DE A&E HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8451.ts
+#EXTINF:-1,DE Family TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7677.ts
+#EXTINF:-1,DE PHOENIX
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7684.ts
+#EXTINF:-1,DE ServusTV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7685.ts
+#EXTINF:-1,—— Kino ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6520.ts
+#EXTINF:-1,DE Sky Cinema UHD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8508.ts
+#EXTINF:-1,DE Sky Cinema HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2564.ts
+#EXTINF:-1,DE Sky Cinema
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8506.ts
+#EXTINF:-1,DE Sky Cinema 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2647.ts
+#EXTINF:-1,DE Sky Cinema +24 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2654.ts
+#EXTINF:-1,DE Sky Cinema Hits HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2627.ts
+#EXTINF:-1,DE Sky Cinema Family HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8510.ts
+#EXTINF:-1,DE Sky Cinema Action UHD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2566.ts
+#EXTINF:-1,DE Sky Cinema Action HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8507.ts
+#EXTINF:-1,DE Sky Cinema Comedy HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6578.ts
+#EXTINF:-1,DE Sky Cinema Emotion HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2645.ts
+#EXTINF:-1,DE Sky Cinema Nostalgie HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2643.ts
+#EXTINF:-1,DE Sky Krimi
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2644.ts
+#EXTINF:-1,DE MGM
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2614.ts
+#EXTINF:-1,DE Kinowelt TV HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8484.ts
+#EXTINF:-1,—— UNTERHALTUNG ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6521.ts
+#EXTINF:-1,DE Sky 3D
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8503.ts
+#EXTINF:-1,DE Sky 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7924.ts
+#EXTINF:-1,DE Sky Atlantic
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2565.ts
+#EXTINF:-1,DE Fox HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6175.ts
+#EXTINF:-1,DE Fox Series
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2623.ts
+#EXTINF:-1,DE Syfy HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2625.ts
+#EXTINF:-1,DE Universal HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6174.ts
+#EXTINF:-1,DE 13th Street HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8449.ts
+#EXTINF:-1,DE 13th Street
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2631.ts
+#EXTINF:-1,DE TNT Serie UHD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8530.ts
+#EXTINF:-1,DE TNT Serie HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2624.ts
+#EXTINF:-1,DE TNT Comedy HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7686.ts
+#EXTINF:-1,DE TNT Film HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7691.ts
+#EXTINF:-1,DE E! Enterteinment HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6176.ts
+#EXTINF:-1,DE E! HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8464.ts
+#EXTINF:-1,DE RTL HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6840.ts
+#EXTINF:-1,DE Goldstar TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6850.ts
+#EXTINF:-1,DE Tagesschau
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6849.ts
+#EXTINF:-1,DE AXN HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7692.ts
+#EXTINF:-1,DE GOTV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7925.ts
+#EXTINF:-1,DE L-TV/TVM
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7927.ts
+#EXTINF:-1,DE LT1-OOE
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7926.ts
+#EXTINF:-1,DE Deluxe Music HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7690.ts
+#EXTINF:-1,DE PULS 4
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7688.ts
+#EXTINF:-1,DE Tele 5
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7689.ts
+#EXTINF:-1,DE WDR HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6848.ts
+#EXTINF:-1,DE RTL Crime
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2649.ts
+#EXTINF:-1,DE RTL Passion HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2648.ts
+#EXTINF:-1,DE RTL Living HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2595.ts
+#EXTINF:-1,DE Comedy Central
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7687.ts
+#EXTINF:-1,DE DMAX HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2588.ts
+#EXTINF:-1,DE Sat 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6882.ts
+#EXTINF:-1,DE Prosieben HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6576.ts
+#EXTINF:-1,DE ORF 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7682.ts
+#EXTINF:-1,DE ORF 2 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7683.ts
+#EXTINF:-1,DE ORF 3 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8491.ts
+#EXTINF:-1,DE HeimatKanal HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2629.ts
+#EXTINF:-1,DE Retro Music TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8495.ts
+#EXTINF:-1,DE iConcerts HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8477.ts
+#EXTINF:-1,DE Jukebox
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8478.ts
+#EXTINF:-1,DE MTV Germany
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8485.ts
+#EXTINF:-1,DE MTV Live HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7679.ts
+#EXTINF:-1,DE Djazz TV HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8463.ts
+#EXTINF:-1,DE Pro Sieben Maxx HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6880.ts
+#EXTINF:-1,DE Ausburg TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8453.ts
+#EXTINF:-1,DE Beate-Uhse TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8457.ts
+#EXTINF:-1,DE Brava HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8459.ts
+#EXTINF:-1,DE NDR HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8488.ts
+#EXTINF:-1,De Romance TV HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8496.ts
+#EXTINF:-1,DE Sony HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8526.ts
+#EXTINF:-1,DE TLC HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8529.ts
+#EXTINF:-1,DE Travel Channel HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8531.ts
+#EXTINF:-1,DE VH1 Classic
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8532.ts
+#EXTINF:-1,DE Zee One HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8533.ts
+#EXTINF:-1,DE Alex Berlin
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8971.ts
+#EXTINF:-1,DE KinoFilme 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8972.ts
+#EXTINF:-1,DE KinoFilme 2
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8973.ts
+#EXTINF:-1,DE KinoFilme 3
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8974.ts
+#EXTINF:-1,DE Nick HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8975.ts
+#EXTINF:-1,DE Programmübersicht Sky Select
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8976.ts
+#EXTINF:-1,DE RTL
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8977.ts
+#EXTINF:-1,DE RTL You HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8978.ts
+#EXTINF:-1,——SPORT ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6522.ts
+#EXTINF:-1,DE Sport News HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2641.ts
+#EXTINF:-1,DE Sky Sport 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2563.ts
+#EXTINF:-1,DE Sky Sport 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8513.ts
+#EXTINF:-1,DE Sky Sport 2 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2642.ts
+#EXTINF:-1,DE Sky Sport 2
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8516.ts
+#EXTINF:-1,DE Sky Sport 3 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8517.ts
+#EXTINF:-1,DE Sky Sport 4 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8518.ts
+#EXTINF:-1,DE Sky Sport 5 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8519.ts
+#EXTINF:-1,DE Sky Sport 6 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8520.ts
+#EXTINF:-1,DE Sky Sport 7 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8521.ts
+#EXTINF:-1,DE Sky Sport 8 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8522.ts
+#EXTINF:-1,DE Sky Sport 9 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8523.ts
+#EXTINF:-1,DE Sky Sport 10 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8524.ts
+#EXTINF:-1,DE Sky Sport Fanzone
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8525.ts
+#EXTINF:-1,DE Sky Sport Austria HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7699.ts
+#EXTINF:-1,DE Sky Sport Digital HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7698.ts
+#EXTINF:-1,DE Sky Sport Motorvision TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7700.ts
+#EXTINF:-1,DE SPORT 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8527.ts
+#EXTINF:-1,DE Sport1+ HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7697.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2562.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 2 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2622.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 3 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2621.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 4 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2612.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 5 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2620.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 6 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2619.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 7 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2618.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 8
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2617.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 9
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2616.ts
+#EXTINF:-1,DE Sky Sport Bundesliga 10 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8997.ts
+#EXTINF:-1,DE Sky Sport News HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6573.ts
+#EXTINF:-1,DE Eurosport 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8467.ts
+#EXTINF:-1,DE Sky Eurosport 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6579.ts
+#EXTINF:-1,DE Eurosport 2
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8466.ts
+#EXTINF:-1,DE AutoMotorSport HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8455.ts
+#EXTINF:-1,DE ORF Sport HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8492.ts
+#EXTINF:-1,DE Nautical HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8487.ts
+#EXTINF:-1,——KULTUR —–
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6523.ts
+#EXTINF:-1,DE National Geographic HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2613.ts
+#EXTINF:-1,DE NatGeo Wild
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2628.ts
+#EXTINF:-1,DE History Channel HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7695.ts
+#EXTINF:-1,DE Nat Geo People HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8486.ts
+#EXTINF:-1,DE Discovery HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2615.ts
+#EXTINF:-1,DE Spiegel Geschichte
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2626.ts
+#EXTINF:-1,DE Sky Arte HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7693.ts
+#EXTINF:-1,DE Sky Planet HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7694.ts
+#EXTINF:-1,DE Animal Planet HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8452.ts
+#EXTINF:-1,DE Arte HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8504.ts
+#EXTINF:-1,DE Classica HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8460.ts
+#EXTINF:-1,—— KINDER ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6524.ts
+#EXTINF:-1,DE Baby TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8456.ts
+#EXTINF:-1,DE Disney XD HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8462.ts
+#EXTINF:-1,DE Disney Junior HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6582.ts
+#EXTINF:-1,DE Junior
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2651.ts
+#EXTINF:-1,DE Disney Cinemagic
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2630.ts
+#EXTINF:-1,DE Disney Channel
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2609.ts
+#EXTINF:-1,DE Cartoon Network
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6178.ts
+#EXTINF:-1,DE Nickelodeon HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7696.ts
+#EXTINF:-1,DE Boomerang HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8458.ts
+#EXTINF:-1,DE KIKA HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2598.ts
+#EXTINF:-1,DE Nickelodeon Schweiz HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8489.ts
+#EXTINF:-1,DE Nick JR HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8490.ts
+#EXTINF:-1,—— INFORMATION ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6525.ts
+#EXTINF:-1,DE N-TV
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2597.ts
+#EXTINF:-1,DE N24 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/7681.ts
+#EXTINF:-1,DE Euronews
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8465.ts
+#EXTINF:-1,DE Austria 24
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8454.ts
+#EXTINF:-1,—— PAY PER VIEW ——
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/6526.ts
+#EXTINF:-1,DE Sky Select Live 1
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8548.ts
+#EXTINF:-1,DE Sky Select Live 2
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8549.ts
+#EXTINF:-1,DE Sky Select Live 3
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8550.ts
+#EXTINF:-1,DE Sky Select Live 4
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8551.ts
+#EXTINF:-1,DE Sky Select Live 5
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8552.ts
+#EXTINF:-1,DE Sky Select Live 6
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8553.ts
+#EXTINF:-1,DE Sky Select Live 7
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8554.ts
+#EXTINF:-1,DE Sky Select Live 8
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8555.ts
+#EXTINF:-1,DE Sky Select Live 9
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8556.ts
+#EXTINF:-1,DE Sky Select Live 10
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8557.ts
+#EXTINF:-1,DE Sky Select Live 11
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8558.ts
+#EXTINF:-1,DE Sky Select Live 12
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8559.ts
+#EXTINF:-1,DE Sky Select Live 13
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8560.ts
+#EXTINF:-1,DE Sky Select Live 14
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8561.ts
+#EXTINF:-1,DE Sky Select Live 15
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8562.ts
+#EXTINF:-1,DE Sky Select Live 16
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8563.ts
+#EXTINF:-1,DE Sky Select Live 17
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8564.ts
+#EXTINF:-1,DE Sky Select Live 18
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8565.ts
+#EXTINF:-1,DE Sky Select Live 19
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8566.ts
+#EXTINF:-1,DE Sky Select Live 20
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8567.ts
+#EXTINF:-1,DE Sky Select Live 21
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8568.ts
+#EXTINF:-1,DE Sky Select Live 22
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8569.ts
+#EXTINF:-1,DE Sky Select Live 23
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8570.ts
+#EXTINF:-1,DE Sky Select Live 24
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8571.ts
+#EXTINF:-1,DE Sky Select Live 25
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8572.ts
+#EXTINF:-1,DE Sky Select Live 26
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8573.ts
+#EXTINF:-1,DE Sky Select Live 27
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8980.ts
+#EXTINF:-1,DE Sky Select Live 28
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8981.ts
+#EXTINF:-1,DE Sky Select Live 29
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8982.ts
+#EXTINF:-1,DE Sky Select Live 30
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8983.ts
+#EXTINF:-1,DE Sky Select Live 31
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8984.ts
+#EXTINF:-1,DE Sky Select Live 32
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8985.ts
+#EXTINF:-1,DE Sky Select Live 33
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8986.ts
+#EXTINF:-1,DE Sky Select Live 34
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8987.ts
+#EXTINF:-1,DE Sky Select Live 35
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8988.ts
+#EXTINF:-1,DE Sky Select Live 36
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8989.ts
+#EXTINF:-1,DE Sky Select Live 37
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8990.ts
+#EXTINF:-1,DE Sky Select Live 38
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8991.ts
+#EXTINF:-1,DE Sky Select Live 39
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8992.ts
+#EXTINF:-1,DE Sky Select Live 40
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8993.ts
+#EXTINF:-1,DE Sky Select Live 41
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8994.ts
+#EXTINF:-1,DE Sky Select Live 42
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8995.ts
+#EXTINF:-1,DE Sky Select Live 43
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8996.ts
+#EXTINF:-1,DE Sky Select 1 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2640.ts
+#EXTINF:-1,DE Sky Select 2 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2639.ts
+#EXTINF:-1,DE Sky Select 3 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2638.ts
+#EXTINF:-1,DE Sky Select 4 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2637.ts
+#EXTINF:-1,DE Sky Select 5 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2636.ts
+#EXTINF:-1,DE Sky Select 6 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2635.ts
+#EXTINF:-1,DE Sky Select 7 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2634.ts
+#EXTINF:-1,DE Sky Select 8 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/2633.ts
+#EXTINF:-1,DE Sky Select 9 HD
+http://147.135.253.155:1920/live/salvatoreba/cs23as17/8979.ts
