@@ -8,7 +8,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
@@ -51,266 +51,147 @@ rtsp://stream2.taksimbilisim.com:1935/drt/_definst_/bant2
 
 
 
-
-
-
-#EXTINF:-1,TR: bein Box Office 1 HD
-http://185.2.83.209:8000/live/123456/123456/2167.ts
-#EXTINF:-1,TR: bein Box Office 2 HD
-http://185.2.83.209:8000/live/123456/123456/2175.ts
-#EXTINF:-1,TR: bein Box Office 3 HD
-http://185.2.83.209:8000/live/123456/123456/2176.ts
-#EXTINF:-1,TR: bein Movies Famly HD
-http://185.2.83.209:8000/live/123456/123456/2020.ts
-#EXTINF:-1,TR: Sony Movie Channel HD
-http://185.2.83.209:8000/live/123456/123456/2156.ts
-#EXTINF:-1,TR: Showtime Channel 1 HD
-http://185.2.83.209:8000/live/123456/123456/2160.ts
-#EXTINF:-1,TR: Hallmark Channel Film HD
-http://185.2.83.209:8000/live/123456/123456/2023.ts
-#EXTINF:-1,TR: Showtime Channel 2 HD
-http://185.2.83.209:8000/live/123456/123456/2162.ts
-#EXTINF:-1,TR: bein Movies Turk HD
-http://185.2.83.209:8000/live/123456/123456/2024.ts
-#EXTINF:-1,TR: bein Movies Festival HD
-http://185.2.83.209:8000/live/123456/123456/2025.ts
-#EXTINF:-1,TR: bin Movies HD
-http://185.2.83.209:8000/live/123456/123456/2028.ts
-#EXTINF:-1,TR: Movie Smart Oscar HD
-http://185.2.83.209:8000/live/123456/123456/2026.ts
-#EXTINF:-1,TR: Movie Max premier HD
-http://185.2.83.209:8000/live/123456/123456/2027.ts
-#EXTINF:-1,TR: Movies Smart Fest HD
-http://185.2.83.209:8000/live/123456/123456/2163.ts
-#EXTINF:-1,TR: Movies Smart Gold HD
-http://185.2.83.209:8000/live/123456/123456/2022.ts
-#EXTINF:-1,TR: Movies Smart Platin HD
-http://185.2.83.209:8000/live/123456/123456/2018.ts
-#EXTINF:-1,TR: Movies Smart Famly HD
-http://185.2.83.209:8000/live/123456/123456/2033.ts
-#EXTINF:-1,TR: Movies Smart Action HD
-http://185.2.83.209:8000/live/123456/123456/2017.ts
-#EXTINF:-1,TR: MagicBox Turk
-http://185.2.83.209:8000/live/123456/123456/2165.ts
-#EXTINF:-1,TR: MagicBox Aksiyon HD
-http://185.2.83.209:8000/live/123456/123456/2157.ts
-#EXTINF:-1,TR: MagicBox Komedi HD
-http://185.2.83.209:8000/live/123456/123456/2166.ts
-#EXTINF:-1,TR: MagicBox Korku HD
-http://185.2.83.209:8000/live/123456/123456/2032.ts
-#EXTINF:-1,TR: MagicBox Western HD
-http://185.2.83.209:8000/live/123456/123456/2168.ts
-#EXTINF:-1,TR: MagicBox Animasyon HD
-http://185.2.83.209:8000/live/123456/123456/2169.ts
-#EXTINF:-1,TR: Hallmark Channel 1 HD
-http://185.2.83.209:8000/live/123456/123456/2019.ts
-#EXTINF:-1,TR: HBO HD
-http://185.2.83.209:8000/live/123456/123456/2161.ts
-#EXTINF:-1,TR: Yesilçam 2 HD
-http://185.2.83.209:8000/live/123456/123456/2021.ts
-#EXTINF:-1,TR: Moviemax Türk HD
-http://185.2.83.209:8000/live/123456/123456/2016.ts
-#EXTINF:-1,TR: Digi Max TV
-http://185.2.83.209:8000/live/123456/123456/2158.ts
-#EXTINF:-1,TR: Digi max Animasyon HD
-http://185.2.83.209:8000/live/123456/123456/2164.ts
-#EXTINF:-1,TR: Turk Max Gurme HD
-http://185.2.83.209:8000/live/123456/123456/2029.ts
-#EXTINF:-1,TR: Cinevision 1 HD
-http://185.2.83.209:8000/live/123456/123456/2159.ts
-#EXTINF:-1,TR: Sinema Yesilcam HD
-http://185.2.83.209:8000/live/123456/123456/2177.ts
-#EXTINF:-1,TR: Sinema tv HD
-http://185.2.83.209:8000/live/123456/123456/2178.ts
-#EXTINF:-1,TR: Sinema Junior HD
-http://185.2.83.209:8000/live/123456/123456/2179.ts
-#EXTINF:-1,TR: Sinema Komedi HD
-http://185.2.83.209:8000/live/123456/123456/2181.ts
-#EXTINF:-1,TR: Sinetivikarnaval 2 HD
-http://185.2.83.209:8000/live/123456/123456/2180.ts
-#EXTINF:-1,TR: Sinetivikarnaval 1 HD
-http://185.2.83.209:8000/live/123456/123456/2182.ts
-#EXTINF:-1,TR: Sinetivi 2 HD
-http://185.2.83.209:8000/live/123456/123456/2183.ts
-#EXTINF:-1,TR: Sinetivi 1 HD
-http://185.2.83.209:8000/live/123456/123456/2184.ts
-#EXTINF:-1,TR: Sinetiviadrenalin 1 HD
-http://185.2.83.209:8000/live/123456/123456/1936.ts
-#EXTINF:-1,TR: Sinetiviadrenalin 2 HD
-http://185.2.83.209:8000/live/123456/123456/1935.ts
-#EXTINF:-1,TR: Dizi TV HD
-http://185.2.83.209:8000/live/123456/123456/1934.ts
-#EXTINF:-1,TR: MGM Channel HD
-http://185.2.83.209:8000/live/123456/123456/1933.ts
-#EXTINF:-1,TR: Animasyon HD
-http://185.2.83.209:8000/live/123456/123456/2030.ts
-#EXTINF:-1,TR: Sinema 1 HD
-http://185.2.83.209:8000/live/123456/123456/1974.ts
-#EXTINF:-1,TR: Sinema 2 HD
-http://185.2.83.209:8000/live/123456/123456/1975.ts
-#EXTINF:-1,TR: Sinema 3 HD
-http://185.2.83.209:8000/live/123456/123456/1976.ts
-#EXTINF:-1,TR: Sinema 4 HD
-http://185.2.83.209:8000/live/123456/123456/1967.ts
-#EXTINF:-1,TR: Sinema 5 HD
-http://185.2.83.209:8000/live/123456/123456/1968.ts
-#EXTINF:-1,TR: Sinema 6 HD
-http://185.2.83.209:8000/live/123456/123456/1969.ts
-#EXTINF:-1,TR: Sinema 7 HD
-http://185.2.83.209:8000/live/123456/123456/1970.ts
-#EXTINF:-1,TR: Loca 1
-http://185.2.83.209:8000/live/123456/123456/1941.ts
-#EXTINF:-1,TR: Salon 1
-http://185.2.83.209:8000/live/123456/123456/2003.ts
-#EXTINF:-1,TR: Salon 2
-http://185.2.83.209:8000/live/123456/123456/1942.ts
-#EXTINF:-1,TR: Salon 3
-http://185.2.83.209:8000/live/123456/123456/1943.ts
-#EXTINF:-1,TR: Salon 4
-http://185.2.83.209:8000/live/123456/123456/1948.ts
-#EXTINF:-1,TR: Lig TV 1
-http://185.2.83.209:8000/live/123456/123456/2002.ts
-#EXTINF:-1,TR: Lig TV 2
-http://185.2.83.209:8000/live/123456/123456/2001.ts
-#EXTINF:-1,TR: Lig TV 3
-http://185.2.83.209:8000/live/123456/123456/2000.ts
-#EXTINF:-1,TR: NTV Spor
-http://185.2.83.209:8000/live/123456/123456/1996.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://185.2.83.209:8000/live/123456/123456/1997.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://185.2.83.209:8000/live/123456/123456/1965.ts
-#EXTINF:-1,TR: Tivibu Spor 3 HD
-http://185.2.83.209:8000/live/123456/123456/2170.ts
-#EXTINF:-1,TR: Tivibu Spor 4 HD
-http://185.2.83.209:8000/live/123456/123456/2171.ts
-#EXTINF:-1,TR: Smart Sport HD
-http://185.2.83.209:8000/live/123456/123456/1998.ts
-#EXTINF:-1,TR: Smart Sport 2 HD
-http://185.2.83.209:8000/live/123456/123456/1964.ts
-#EXTINF:-1,TR: Eurosport 2 Avrupa
-http://185.2.83.209:8000/live/123456/123456/1959.ts
-#EXTINF:-1,TR: Bursa Spor tv
-http://185.2.83.209:8000/live/123456/123456/1999.ts
-#EXTINF:-1,TR: GS TV
-http://185.2.83.209:8000/live/123456/123456/2015.ts
-#EXTINF:-1,TR: TRT Sports
-http://185.2.83.209:8000/live/123456/123456/1981.ts
-#EXTINF:-1,TR: TRT 1
-http://185.2.83.209:8000/live/123456/123456/1977.ts
-#EXTINF:-1,TR: TRT Okul
-http://185.2.83.209:8000/live/123456/123456/1939.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://185.2.83.209:8000/live/123456/123456/1982.ts
-#EXTINF:-1,TR: TRT BELGESEL
-http://185.2.83.209:8000/live/123456/123456/1937.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://185.2.83.209:8000/live/123456/123456/1938.ts
-#EXTINF:-1,TR: TRT COCUK
-http://185.2.83.209:8000/live/123456/123456/1940.ts
-#EXTINF:-1,TR: TRT Turk
-http://185.2.83.209:8000/live/123456/123456/1979.ts
-#EXTINF:-1,TR: TRT Muzik
-http://185.2.83.209:8000/live/123456/123456/1971.ts
-#EXTINF:-1,TR: TRT AVAZ
-http://185.2.83.209:8000/live/123456/123456/1983.ts
-#EXTINF:-1,TR: Kanal D
-http://185.2.83.209:8000/live/123456/123456/1993.ts
-#EXTINF:-1,TR: Kanal A
-http://185.2.83.209:8000/live/123456/123456/1994.ts
-#EXTINF:-1,TR: Kanal Urfa
-http://185.2.83.209:8000/live/123456/123456/1945.ts
-#EXTINF:-1,TR: Kanal Turk
-http://185.2.83.209:8000/live/123456/123456/1947.ts
-#EXTINF:-1,TR: Kanal 7
-http://185.2.83.209:8000/live/123456/123456/1961.ts
-#EXTINF:-1,TR: Kanal 7 Avrupa
-http://185.2.83.209:8000/live/123456/123456/1958.ts
-#EXTINF:-1,TR: ATV
-http://185.2.83.209:8000/live/123456/123456/1978.ts
-#EXTINF:-1,TR: ATV Avrupa
-http://185.2.83.209:8000/live/123456/123456/1957.ts
-#EXTINF:-1,TR: Show TV
-http://185.2.83.209:8000/live/123456/123456/1990.ts
-#EXTINF:-1,TR: Show Turk
-http://185.2.83.209:8000/live/123456/123456/1989.ts
-#EXTINF:-1,TR: Tarsusguneyt
-http://185.2.83.209:8000/live/123456/123456/2174.ts
-#EXTINF:-1,TR: SkyTurk 360
-http://185.2.83.209:8000/live/123456/123456/2172.ts
-#EXTINF:-1,TR: Breket TV
-http://185.2.83.209:8000/live/123456/123456/2173.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://185.2.83.209:8000/live/123456/123456/1986.ts
-#EXTINF:-1,TR: Power Turk
-http://185.2.83.209:8000/live/123456/123456/1946.ts
-#EXTINF:-1,TR: CNN TURK
-http://185.2.83.209:8000/live/123456/123456/1995.ts
-#EXTINF:-1,TR: TV 2
-http://185.2.83.209:8000/live/123456/123456/1960.ts
-#EXTINF:-1,TR: TV8
-http://185.2.83.209:8000/live/123456/123456/1980.ts
-#EXTINF:-1,TR: Star tv HD
-http://185.2.83.209:8000/live/123456/123456/1987.ts
-#EXTINF:-1,TR: Fox TV HD
-http://185.2.83.209:8000/live/123456/123456/1988.ts
-#EXTINF:-1,TR: Fox Crime tv
-http://185.2.83.209:8000/live/123456/123456/2011.ts
-#EXTINF:-1,TR: FX TV
-http://185.2.83.209:8000/live/123456/123456/2010.ts
-#EXTINF:-1,TR: Life Time
-http://185.2.83.209:8000/live/123456/123456/2009.ts
-#EXTINF:-1,TR: Euro D
-http://185.2.83.209:8000/live/123456/123456/1952.ts
-#EXTINF:-1,TR: EGE TV
-http://185.2.83.209:8000/live/123456/123456/2014.ts
-#EXTINF:-1,TR: TJK TV
-http://185.2.83.209:8000/live/123456/123456/2008.ts
-#EXTINF:-1,TR: Semerkant tv
-http://185.2.83.209:8000/live/123456/123456/2013.ts
-#EXTINF:-1,TR: National Geo Wild HD
-http://185.2.83.209:8000/live/123456/123456/1985.ts
-#EXTINF:-1,TR: National Geographic HD
-http://185.2.83.209:8000/live/123456/123456/1984.ts
-#EXTINF:-1,TR: National Geo People HD
-http://185.2.83.209:8000/live/123456/123456/2006.ts
-#EXTINF:-1,TR: Animal Planet HD
-http://185.2.83.209:8000/live/123456/123456/1955.ts
-#EXTINF:-1,TR: History Channle
-http://185.2.83.209:8000/live/123456/123456/2007.ts
-#EXTINF:-1,TR: Discovery Channle
-http://185.2.83.209:8000/live/123456/123456/2005.ts
-#EXTINF:-1,TR: Cartoon NetWork
-http://185.2.83.209:8000/live/123456/123456/1953.ts
-#EXTINF:-1,TR: Disney Channle
-http://185.2.83.209:8000/live/123456/123456/1992.ts
-#EXTINF:-1,TR: DA Vinci Learning
-http://185.2.83.209:8000/live/123456/123456/2012.ts
-#EXTINF:-1,TR: World Travel Channel
-http://185.2.83.209:8000/live/123456/123456/1956.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://185.2.83.209:8000/live/123456/123456/1951.ts
-#EXTINF:-1,TR: Istanbul 1 HD
-http://185.2.83.209:8000/live/123456/123456/1991.ts
-#EXTINF:-1,TR: TV Kayseri
-http://185.2.83.209:8000/live/123456/123456/2004.ts
-#EXTINF:-1,TR: TGRT Haber
-http://185.2.83.209:8000/live/123456/123456/1949.ts
-#EXTINF:-1,TR: Teledunya Info
-http://185.2.83.209:8000/live/123456/123456/1962.ts
-#EXTINF:-1,TR: Minika Go
-http://185.2.83.209:8000/live/123456/123456/1963.ts
-#EXTINF:-1,TR: Dream Turk
-http://185.2.83.209:8000/live/123456/123456/1944.ts
-#EXTINF:-1,TR: A2
-http://185.2.83.209:8000/live/123456/123456/1950.ts
-#EXTINF:-1,TR: Bloomberg HT HD
-http://185.2.83.209:8000/live/123456/123456/2031.ts
-#EXTINF:-1,TR: TV 41
-http://185.2.83.209:8000/live/123456/123456/1954.ts
-#EXTINF:-1,TR: Kral TV
-http://185.2.83.209:8000/live/123456/123456/1966.ts
-#EXTINF:-1,TR: Kral Pop
-http://185.2.83.209:8000/live/123456/123456/1972.ts
-#EXTINF:-1,TR: Hilal TV
-http://185.2.83.209:8000/live/123456/123456/1973.ts
+#EXTINF:-1,TR:SMART_sport_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11478.ts
+#EXTINF:-1,TR:SMART_sport_2HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11477.ts
+#EXTINF:-1,TR:LIGTV_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10310.ts
+#EXTINF:-1,TR:LigTV_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10309.ts
+#EXTINF:-1,TR:kidz
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10227.ts
+#EXTINF:-1,TR:KANAL_7_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6851.ts
+#EXTINF:-1,TR:kanal_24
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10287.ts
+#EXTINF:-1,TR:Kanal_D
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6872.ts
+#EXTINF:-1,TR:Cinebox_04
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6866.ts
+#EXTINF:-1,TR:Cinebox_03
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6867.ts
+#EXTINF:-1,TR:Cinebox_02
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6868.ts
+#EXTINF:-1,TR:BRT_2_
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10283.ts
+#EXTINF:-1,TR:BRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10282.ts
+#EXTINF:-1,TR:BEINSPORT_HD3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10009.ts
+#EXTINF:-1,TR:BEINBOX_OFFICE_3HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6879.ts
+#EXTINF:-1,TR_FOX_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6876.ts
+#EXTINF:-1,TR;TRT_Avaz
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6877.ts
+#EXTINF:-1,TR:ULKE_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10312.ts
+#EXTINF:-1,TR:TRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10286.ts
+#EXTINF:-1,TR:TRT_Sport
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6857.ts
+#EXTINF:-1,TR:TRT_Diyanet
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6862.ts
+#EXTINF:-1,TR:TRT_Cocuk
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6871.ts
+#EXTINF:-1,TR:TRT_Belgesel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6874.ts
+#EXTINF:-1,TR:TIVIBU_4_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10280.ts
+#EXTINF:-1,TR:TIVIBU_3_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11432.ts
+#EXTINF:-1,TR:BEINSPORT_HD2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11503.ts
+#EXTINF:-1,TR:TGRT_HABER
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10313.ts
+#EXTINF:-1,TR:TELE_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10278.ts
+#EXTINF:-1,TR:Sport_TV3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6878.ts
+#EXTINF:-1,TR:sinema_TV_acsyon
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10305.ts
+#EXTINF:-1,TR:CINEMA_TV_2HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10306.ts
+#EXTINF:-1,TR:Okul
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6859.ts
+#EXTINF:-1,TR:FOX_CRIME
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9584.ts
+#EXTINF:-1,TR:BOOMERANG_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9308.ts
+#EXTINF:-1,TR:Musik
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6861.ts
+#EXTINF:-1,TR:PLANET_COCUK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9765.ts
+#EXTINF:-1,TR:KRAL_TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9153.ts
+#EXTINF:-1,TR:LIGTV_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10311.ts
+#EXTINF:-1,TR:BEINBOX_OFFICE_2_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6880.ts
+#EXTINF:-1,TR-TV8
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10285.ts
+#EXTINF:-1,TR:TRT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10297.ts
+#EXTINF:-1,TR-TRT_OKUL
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10298.ts
+#EXTINF:-1,TR-TRT_KURD&
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10299.ts
+#EXTINF:-1,TR-TRT_diyanet
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10301.ts
+#EXTINF:-1,TR-TRT_AVAZ
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10302.ts
+#EXTINF:-1,TR-TRT_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10308.ts
+#EXTINF:-1,TR-STAR-TV_HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10288.ts
+#EXTINF:-1,TR-Show-TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10289.ts
+#EXTINF:-1,TR-Salon_3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10294.ts
+#EXTINF:-1,TR-Salon_2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10295.ts
+#EXTINF:-1,TR-Salon_1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10296.ts
+#EXTINF:-1,TR:Cinebox_01
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9755.ts
+#EXTINF:-1,TR-MUSIC_HD4
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10300.ts
+#EXTINF:-1,TR-MUSIC_HD3
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10303.ts
+#EXTINF:-1,TR-KANAL_7
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10291.ts
+#EXTINF:-1,TR-KANAL-D
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10290.ts
+#EXTINF:-1,TR-Fox
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10293.ts
+#EXTINF:-1,TR-FLASH-TV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10292.ts
+#EXTINF:-1,TR-CNN_TURK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10304.ts
+#EXTINF:-1,TR-ATV
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10284.ts
+#EXTINF:-1,TR-animal_planetHD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10307.ts
+#EXTINF:-1,TR:DISCOVERY_IDX
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9861.ts
+#EXTINF:-1,TR:NATURE_HISTORY_channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10147.ts
+#EXTINF:-1,TR:BEINSPORT_HD1
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9862.ts
+#EXTINF:-1,TR:Disney_channel
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10001.ts
+#EXTINF:-1,TR:TV2
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6674.ts
+#EXTINF:-1,TR:BURSASPORT
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6679.ts
+#EXTINF:-1,TR:TRT_Turk
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6683.ts
+#EXTINF:-1,TR-360_TVHD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10314.ts
+#EXTINF:-1,TR:TIVIBU_1HD
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11476.ts
+#EXTINF:-1,TR_HABERTURK
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6875.ts
+#EXTINF:-1,TR:Sport
+http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6686.ts
