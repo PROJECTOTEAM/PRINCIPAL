@@ -3,47 +3,29 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 10-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-
-#EXTINF:-1,SRG|RSI LA1HD
-http://topiptv.net:5890/live/bachir1/bachir1/4143.ts
-#EXTINF:-1,SRG|RSI LA2HD
-http://topiptv.net:5890/live/bachir1/bachir1/4142.ts
-#EXTINF:-1,SRG|RTS 1
-http://topiptv.net:5890/live/bachir1/bachir1/4141.ts
-#EXTINF:-1,SRG|RTS Deux HD
-http://topiptv.net:5890/live/bachir1/bachir1/4140.ts
-#EXTINF:-1,SRG|RTS Un HD
-http://topiptv.net:5890/live/bachir1/bachir1/4139.ts
-#EXTINF:-1,SRG|SRF 1 CH
-http://topiptv.net:5890/live/bachir1/bachir1/4138.ts
-#EXTINF:-1,SRG|SRF 1 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4137.ts
-#EXTINF:-1,SRG|SRF 2
-http://topiptv.net:5890/live/bachir1/bachir1/4136.ts
-#EXTINF:-1,SRG|SRF 2 HD
-http://topiptv.net:5890/live/bachir1/bachir1/4135.ts
-#EXTINF:-1,SRG|SRF Info HD
-http://topiptv.net:5890/live/bachir1/bachir1/4134.ts
-#EXTINF:-1,SRG|Teleclub Cinema
-http://topiptv.net:5890/live/bachir1/bachir1/4133.ts
-#EXTINF:-1,SRG|Teleclub Cinema HD
-http://topiptv.net:5890/live/bachir1/bachir1/4132.ts
-#EXTINF:-1,SRG|Teleclub Prime
-http://topiptv.net:5890/live/bachir1/bachir1/4131.ts
-#EXTINF:-1,SRG|Teleclub Sport 1
-http://topiptv.net:5890/live/bachir1/bachir1/4126.ts
-#EXTINF:-1,SRG|Teleclub Sport 2
-http://topiptv.net:5890/live/bachir1/bachir1/4125.ts
-#EXTINF:-1,SRG|Teleclub Sport 3
-http://topiptv.net:5890/live/bachir1/bachir1/4124.ts
-#EXTINF:-1,SRG|Teleclub Star HD
-http://topiptv.net:5890/live/bachir1/bachir1/4128.ts
-#EXTINF:-1,SRG|Telezuri
-http://topiptv.net:5890/live/bachir1/bachir1/4127.ts
-#EXTINF:-1,SRG|Zurich Uetliberg
-http://topiptv.net:5890/live/bachir1/bachir1/4123.ts
+#EXTINF:-1,STV Nyheter SE
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14045.ts
+#EXTINF:-1,Suisse: 3+
+https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
+#EXTINF:-1,Suisse: SRF 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13626.ts
+#EXTINF:-1,Suisse: SRF 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13627.ts
+#EXTINF:-1,Suisse: SRF Info
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13827.ts
+#EXTINF:-1,Suisse: Teleclub Cinema
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13630.ts
+#EXTINF:-1,Suisse: Teleclub Prime HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13632.ts
+#EXTINF:-1,Suisse: TeleClub Sport 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13631.ts
+#EXTINF:-1,Suisse: TeleClub Sport Flash HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13629.ts
+#EXTINF:-1,Suisse: Teleclub Sports Flash HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15075.ts
+#EXTINF:-1,Suisse: TeleClub Star
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13633.ts

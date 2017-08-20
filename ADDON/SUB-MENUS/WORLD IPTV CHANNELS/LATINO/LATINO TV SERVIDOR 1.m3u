@@ -6,341 +6,145 @@
 #EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 13-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-#EXTINF:-1,13 TV LATINO
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
-#EXTINF:-1,360 TV LATINO
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,7 TV Región de Murcia LATINO
-http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
-#EXTINF:-1,8 TV LATINO
-rtmp://178.33.113.212/8TV/8aldia-directe
-#EXTINF:-1,Agape TV LATINO
-http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
-#EXTINF:-1,AgapeTV Canal 8 LATINO
-rtmp://agapetv.dominiocreativo.com/8122/8122
-#EXTINF:-1,Agrotendencia TV LATINO
-http://edge.wms28.lorini.net/agrotendenciatv/agrotendenciatv/hasbahca.m3u8
-#EXTINF:-1,Aragon TV LATINO
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1,ATB Bolivia LATINO
-http://192.99.38.174:1935/envivo/atb/playlist.m3u8
-#EXTINF:-1,Bolivia al Aire LATINO
-rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
-#EXTINF:-1,C5N LATINO
-http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
-#EXTINF:-1,C7 Jalisco LATINO
-http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
-#EXTINF:-1,Cali TV LATINO
-rtmp://video.cehis.net/live-calitv/calitv1
-#EXTINF:-1,Canal 13 Nicaragua LATINO
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Canal 2 Nicaragua LATINO
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,Canal 3 Culiacan LATINO
-http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1,Canal 3/24 LATINO
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,Canal 45 TV LATINO
-http://62.210.96.18:1935/canal45/canal45/playlist.m3u8
-#EXTINF:-1,Canal Antiestrés LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1,Canal Extremadura LATINO
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1,Canal Once LATINO
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
-#EXTINF:-1,Canal Orbe 21 LATINO
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1,Canal Sur Andalucía LATINO
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1,Canal U LATINO
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal Uno LATINO
-http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/manifest.m3u8
-#EXTINF:-1,Canela TV LATINO
-http://servicioamerica.com:1935/8154/8154/playlist.m3u8
-#EXTINF:-1,Capital 21 CDMX LATINO
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1,Capital TV LATINO
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:-1,Carolina TV LATINO
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1,Castilla la Mancha TV LATINO
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1,Color Visión LATINO
-http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
-#EXTINF:-1,Colosal TV LATINO
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1,Cosmovision LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1,El Pinguino TV LATINO
-rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
-#EXTINF:-1,Enlace Juvenil LATINO
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:-1,ETB Sat LATINO
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1,Gala TV LATINO
-rtmp://187.188.159.113/live/web.sdp
-#EXTINF:-1,Galicia TV Europa LATINO
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1,Galicia LATINO
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1,Globo TV Honduras LATINO
-http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
-#EXTINF:-1,HCH TV LATINO
-http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
-#EXTINF:-1,Huelva Televisión LATINO
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1,InterEconomia TV LATINO
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1,ITV Patagonia LATINO
-http://wow1.dallas.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
-#EXTINF:-1,KKRtv LATINO
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1,La Luz Peru LATINO
-http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
-#EXTINF:-1,Lancelot TV LATINO
-rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1,Latina Network LATINO
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
-#EXTINF:-1,Logos TV LATINO
-http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8?
-#EXTINF:-1,Mas TV Puerto Rico LATINO
-http://iphone-streaming.ustream.tv/uhls/10683179/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Milenio Televisión LATINO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,Murcia TV 7 LATINO
-rtmp://flash0.80670-live0.dna.qbrick.com:80/80670-live0/murciatv
-#EXTINF:-1,Navarra TV LATINO
-rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
-#EXTINF:-1,Niu TV LATINO
-http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Ocho TV LATINO
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
-#EXTINF:-1,Pacifico Television Virtual LATINO
-rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
-#EXTINF:-1,PAT LATINO
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:-1,Patagonia TV LATINO
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,PDVSA TV LATINO
-rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
-#EXTINF:-1,Promar TV  LATINO
-http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
-#EXTINF:-1,Proyecto 40 LATINO
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1,QM Noticias LATINO
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
-#EXTINF:-1,RBC Online LATINO
-rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
-#EXTINF:-1,RCG Televisión LATINO
-http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:-1,Red Advenir LATINO
-rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
-#EXTINF:-1,Señal Provincial LATINO
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1,SMOTV Positive Channel LATINO
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1,Sol TV Perú LATINO
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1,Tele Amiga LATINO
-rtmp://184.107.180.130:1935/teleamiga/live
-#EXTINF:-1,Tele Antillas LATINO
-http://mek6.mekstream.com/teleantillas/live/chunklist_w1172948980.m3u8
-#EXTINF:-1,Teleantioquia LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1,Telecafé LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1,Telecaribe LATINO
-http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,TeleDanli Canal 9 LATINO
-rtmp://4.31.30.140:1935/live/mundotv
-#EXTINF:-1,Telemadrid LATINO
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
-#EXTINF:-1,TeleMax LATINO
-rtmp://enhd.co:1935/8122/8122
-#EXTINF:-1,Telemedellin LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1,Telemetro Radio LATINO
-http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
-#EXTINF:-1,Telesur LATINO
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1,Teleuno LATINO
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1,Telpin TV Canal 2 HD LATINO
-rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-#EXTINF:-1,TEN Canal 10 LATINO
-rtmp://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2
-#EXTINF:-1,Teveo TV LATINO
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Tirol TV LATINO
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-#EXTINF:-1,TLX Telemax LATINO
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,TRT LATINO
-http://edge.wms28.lorini.net:1935/trttv/trttv/playlist.m3u8
-#EXTINF:-1,TV 3 LATINO
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
-#EXTINF:-1,TV Agro LATINO
-http://190.248.81.11:1938/live/myStream22/playlist.m3u8
-#EXTINF:-1,TV Azteca Honduras LATINO
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:-1,TV Centro HD LATINO
-http://servicioamerica.net:1935/8372/8372/playlist.m3u8
-#EXTINF:-1,TV Marti LATINO
-rtmp://cp90613.live.edgefcs.net/live//ocb_mpls_tvmc1@383655
-#EXTINF:-1,TV Más LATINO
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,Tv Maya LATINO
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TV Sur Canal 14 LATINO
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1,TV Universa LATINO
-http://cdn-zc-lsd-3.planisys.net:1935/TV2/tv2live/chunklist_w2092431376.m3u8
-#EXTINF:-1,TVES Canal 10 LATINO
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1,TVes LATINO
-rtmp://controlstreams.com:1935/tves2/tves2
-#EXTINF:-1,TVO Canal 23 LATINO
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,TVS Satelital LATINO
-http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-#EXTINF:-1,TVX El Salvador LATINO
-rtmp://cdn.elsalvadordigital.com/canal23/canal23
-#EXTINF:-1,UCV Satelital LATINO
-http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
-#EXTINF:-1,Unicanal LATINO
-http://strm.unicanal.com.py/live/unicanal.m3u8
-#EXTINF:-1,Valle TV de Aconcagua LATINO
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1,Ve Plus TV LATINO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1,Venezolana de Television LATINO
-rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
-#EXTINF:-1,VTV Valle LATINO
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1,W24 LATINO
-http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1,Willax TV LATINO
-rtmp://willax.mediastream.pe/vv_willax/livestream
-
-
-
-#EXTINF:-1,Latino: F1 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4811.ts
-#EXTINF:-1,Latino: ESPN
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4814.ts
-#EXTINF:-1,Latino: ESPN 2
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4813.ts
-#EXTINF:-1,Latino: ESPN 3
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4812.ts
-#EXTINF:-1,Latino:  Fox Sports
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4807.ts
-#EXTINF:-1,Latino: Fox Sports 2 HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4806.ts
-#EXTINF:-1,Latino: Fox Movies HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4808.ts
-#EXTINF:-1,Latino: Fox Cinema HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4809.ts
-#EXTINF:-1,Latino: Fox Action HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4810.ts
-#EXTINF:-1,Latino: Canal 13
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/4815.ts
-#EXTINF:-1,Latino: Canal 17 Mexico
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5228.ts
-#EXTINF:-1,Latino: Canal 10 Spain
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5229.ts
-#EXTINF:-1,Latino: Canal 10 Argentina
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5252.ts
-#EXTINF:-1,Latino: Canal 10
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5230.ts
-#EXTINF:-1,Latino: C7 Cultura
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5231.ts
-#EXTINF:-1,Latino: Los Mochis
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5217.ts
-#EXTINF:-1,Latino: La Sexta
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5218.ts
-#EXTINF:-1,Latino: Ingenio TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5219.ts
-#EXTINF:-1,Latino: Extremadura TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5220.ts
-#EXTINF:-1,Latino: ES – EL PINGUINO TV HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5221.ts
-#EXTINF:-1,Latino: TVM TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5240.ts
-#EXTINF:-1,Latino: TV Universidad
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5241.ts
-#EXTINF:-1,Latino: TV Mas
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5204.ts
-#EXTINF:-1,Latino: TV Azteca En Vivo
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5242.ts
-#EXTINF:-1,Latino: TUTV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5205.ts
-#EXTINF:-1,Latino: TLX Telemax
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5243.ts
-#EXTINF:-1,Latino: Telpin Teve
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5244.ts
-#EXTINF:-1,Latino: Televisa HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5206.ts
-#EXTINF:-1,Latino: Telesur TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5245.ts
-#EXTINF:-1,Latino: Sevilla FC TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5208.ts
-#EXTINF:-1,Latino: RTP7 ASTURIAS
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5209.ts
-#EXTINF:-1,Latino: Quatro TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5246.ts
-#EXTINF:-1,Latino: Proyecto 40 En Vivo
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5247.ts
-#EXTINF:-1,Latino: Obregón TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5210.ts
-#EXTINF:-1,Latino: NFL Now USA
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5211.ts
-#EXTINF:-1,Latino: Neox TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5212.ts
-#EXTINF:-1,Latino: Multimedios TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5213.ts
-#EXTINF:-1,Latino: Miami TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5214.ts
-#EXTINF:-1,Latino: Mega HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5215.ts
-#EXTINF:-1,Latino: Mazatlán
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5216.ts
-#EXTINF:-1,Latino: ES – DXTV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5222.ts
-#EXTINF:-1,Latino: DXTV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5248.ts
-#EXTINF:-1,Latino: Diocesano TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5223.ts
-#EXTINF:-1,Latino: danbira125
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5224.ts
-#EXTINF:-1,Latino: Condavision TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5225.ts
-#EXTINF:-1,Latino: Canal Orbe 21
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5249.ts
-#EXTINF:-1,Latino: Canal 9 Argentina
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5250.ts
-#EXTINF:-1,Latino: Canal 9
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5226.ts
-#EXTINF:-1,Latino: Canal 5 Mexico
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5227.ts
-#EXTINF:-1,Latino: Canal 4 Posadas
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5251.ts
-#EXTINF:-1,Latino: AZTECA TRECE HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5232.ts
-#EXTINF:-1,Latino: AZTECA TRECE
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5233.ts
-#EXTINF:-1,Latino: Azteca 13 En Vivo
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5253.ts
-#EXTINF:-1,Latino: Atreseries HD
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5234.ts
-#EXTINF:-1,Latino: Antena 3
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5235.ts
-#EXTINF:-1,Latino: Anime Tv
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5236.ts
-#EXTINF:-1,Latino: ALFA TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5237.ts
-#EXTINF:-1,Latino: 8TV Spain
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5238.ts
-#EXTINF:-1,Latino: 3/24 TV
-http://link.softiptv.com:2500/live/z2lz0R0t1T/RRNZkh36FL/5239.ts
+#EXTINF:-1,LATINO: A&E HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15924.ts
+#EXTINF:-1,LATINO: Animal Planet
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15925.ts
+#EXTINF:-1,LATINO: AXN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15926.ts
+#EXTINF:-1,LATINO: Az Cinema HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15927.ts
+#EXTINF:-1,LATINO: CABLE NOTICIAS HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15921.ts
+#EXTINF:-1,LATINO: Canal 5 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15929.ts
+#EXTINF:-1,LATINO: Canal De Las Estrellas HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15930.ts
+#EXTINF:-1,LATINO: CANAL U
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15919.ts
+#EXTINF:-1,LATINO: CANAL UNO HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15918.ts
+#EXTINF:-1,LATINO: CARACOL
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15958.ts
+#EXTINF:-1,LATINO: Carton Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15931.ts
+#EXTINF:-1,Latino: Chile La Red
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7622.ts
+#EXTINF:-1,LATINO: Cine Canal HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15932.ts
+#EXTINF:-1,LATINO: Comedy Central HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15933.ts
+#EXTINF:-1,LATINO: De Pelicula HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15934.ts
+#EXTINF:-1,LATINO: Discovery Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15935.ts
+#EXTINF:-1,LATINO: Discovery Civilization
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15936.ts
+#EXTINF:-1,LATINO: Discovery ID
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15937.ts
+#EXTINF:-1,LATINO: Discovery Kids
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15938.ts
+#EXTINF:-1,LATINO: Discovery Science
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15939.ts
+#EXTINF:-1,LATINO: Discovery Teather HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15940.ts
+#EXTINF:-1,LATINO: Discovery TLC
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15941.ts
+#EXTINF:-1,LATINO: Discovery Turbo
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15942.ts
+#EXTINF:-1,LATINO: Discovey World HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15943.ts
+#EXTINF:-1,Latino: DW
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/11719.ts
+#EXTINF:-1,Latino: Efekto TV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/11720.ts
+#EXTINF:-1,Latino: El Trece HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/11721.ts
+#EXTINF:-1,LATINO: ESPN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15944.ts
+#EXTINF:-1,LATINO: ESPN 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15945.ts
+#EXTINF:-1,LATINO: ESPN 3
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15946.ts
+#EXTINF:-1,LATINO: F1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15947.ts
+#EXTINF:-1,LATINO: Film Zone HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15948.ts
+#EXTINF:-1,LATINO: Fox 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15949.ts
+#EXTINF:-1,LATINO: Fox Action HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15950.ts
+#EXTINF:-1,LATINO: Fox Cinema HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15951.ts
+#EXTINF:-1,LATINO: Fox HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15952.ts
+#EXTINF:-1,LATINO: Fox Movies HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15953.ts
+#EXTINF:-1,LATINO: Fox Sports
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15954.ts
+#EXTINF:-1,LATINO: Fox Sports 2 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15955.ts
+#EXTINF:-1,LATINO: Gala Tv HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15956.ts
+#EXTINF:-1,LATINO: Glitz
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15957.ts
+#EXTINF:-1,LATINO: Golden Edge
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15959.ts
+#EXTINF:-1,LATINO: Golden HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15960.ts
+#EXTINF:-1,LATINO: Gourmet
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15961.ts
+#EXTINF:-1,LATINO: History HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15962.ts
+#EXTINF:-1,LATINO: HOLA TV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15963.ts
+#EXTINF:-1,LATINO: MI MUSICA HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15917.ts
+#EXTINF:-1,LATINO: Milenio TV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15964.ts
+#EXTINF:-1,LATINO: Multimedios Monterrey HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15965.ts
+#EXTINF:-1,LATINO: NatGeo Wild HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15966.ts
+#EXTINF:-1,LATINO: RCN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15923.ts
+#EXTINF:-1,LATINO: RCN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15928.ts
+#EXTINF:-1,LATINO: SENAL COLOMBIA HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15916.ts
+#EXTINF:-1,LATINO: Space HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15967.ts
+#EXTINF:-1,LATINO: TDN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15968.ts
+#EXTINF:-1,LATINO: TELE MEDELLIN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15915.ts
+#EXTINF:-1,LATINO: Telemundo
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15969.ts
+#EXTINF:-1,LATINO: Telemundo Los Angeles
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15913.ts
+#EXTINF:-1,LATINO: Telemundo Puerto Rico
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15912.ts
+#EXTINF:-1,LATINO: TIGO MUSIC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15914.ts
+#EXTINF:-1,LATINO: TNT Series HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15970.ts
+#EXTINF:-1,LATINO: Tru Tv HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15971.ts
+#EXTINF:-1,Latino: TyC Sports
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15828.ts
+#EXTINF:-1,LATINO: Unicable HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15972.ts
+#EXTINF:-1,LATINO: Universal HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15973.ts
+#EXTINF:-1,LATINO: Univision HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15911.ts
+#EXTINF:-1,LATINO: Warner HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15974.ts
+#EXTINF:-1,LATINO: Win Sport
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15922.ts
+#EXTINF:-1,LATINO: Win Sports
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15975.ts
+#EXTINF:-1,LATINO:CANAL INSTITUCIONAL HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15920.ts
+#EXTINF:-1,Lazio Style Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/5425.ts

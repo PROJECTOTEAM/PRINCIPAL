@@ -8,7 +8,7 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 19-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
@@ -16,182 +16,143 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-#EXTINF:-1,GTV
-rtsp://stream2.taksimbilisim.com:1935/gtv/bant1
-#EXTINF:-1,KENT TV
-rtsp://stream2.taksimbilisim.com:1935/kenttv/bant1
-#EXTINF:-1,DRT
-rtsp://stream2.taksimbilisim.com:1935/drt/bant1
-#EXTINF:-1,ÇAY TV
-rtsp://stream2.taksimbilisim.com:1935/caytv/bant1
-#EXTINF:-1,GTV
-rtsp://stream2.taksimbilisim.com:1935/gtv/_definst_/bant1
-#EXTINF:-1,KENT TV
-rtsp://stream2.taksimbilisim.com:1935/kenttv/_definst_/bant1
-#EXTINF:-1,DRT
-rtsp://stream2.taksimbilisim.com:1935/drt/_definst_/bant1
-#EXTINF:-1,ÇAY TV
-rtsp://stream2.taksimbilisim.com:1935/caytv/_definst_/bant1
-#EXTINF:-1,GTV
-rtsp://stream2.taksimbilisim.com:1935/gtv/bant2
-#EXTINF:-1,KENT TV
-rtsp://stream2.taksimbilisim.com:1935/kenttv/bant2
-#EXTINF:-1,DRT
-rtsp://stream2.taksimbilisim.com:1935/drt/bant2
-#EXTINF:-1,GTV
-rtsp://stream2.taksimbilisim.com:1935/gtv/_definst_/bant2
-#EXTINF:-1,KENT TV
-rtsp://stream2.taksimbilisim.com:1935/kenttv/_definst_/bant2
-#EXTINF:-1,DRT
-rtsp://stream2.taksimbilisim.com:1935/drt/_definst_/bant2
 
 
 
 
 
 
-
-#EXTINF:-1,TR:SMART_sport_1HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11478.ts
-#EXTINF:-1,TR:SMART_sport_2HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11477.ts
-#EXTINF:-1,TR:LIGTV_2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10310.ts
-#EXTINF:-1,TR:LigTV_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10309.ts
-#EXTINF:-1,TR:kidz
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10227.ts
-#EXTINF:-1,TR:KANAL_7_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6851.ts
-#EXTINF:-1,TR:kanal_24
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10287.ts
-#EXTINF:-1,TR:Kanal_D
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6872.ts
-#EXTINF:-1,TR:Cinebox_04
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6866.ts
-#EXTINF:-1,TR:Cinebox_03
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6867.ts
-#EXTINF:-1,TR:Cinebox_02
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6868.ts
-#EXTINF:-1,TR:BRT_2_
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10283.ts
-#EXTINF:-1,TR:BRT_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10282.ts
-#EXTINF:-1,TR:BEINSPORT_HD3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10009.ts
-#EXTINF:-1,TR:BEINBOX_OFFICE_3HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6879.ts
-#EXTINF:-1,TR_FOX_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6876.ts
-#EXTINF:-1,TR;TRT_Avaz
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6877.ts
-#EXTINF:-1,TR:ULKE_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10312.ts
-#EXTINF:-1,TR:TRT_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10286.ts
-#EXTINF:-1,TR:TRT_Sport
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6857.ts
-#EXTINF:-1,TR:TRT_Diyanet
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6862.ts
-#EXTINF:-1,TR:TRT_Cocuk
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6871.ts
-#EXTINF:-1,TR:TRT_Belgesel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6874.ts
-#EXTINF:-1,TR:TIVIBU_4_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10280.ts
-#EXTINF:-1,TR:TIVIBU_3_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11432.ts
-#EXTINF:-1,TR:BEINSPORT_HD2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11503.ts
-#EXTINF:-1,TR:TGRT_HABER
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10313.ts
-#EXTINF:-1,TR:TELE_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10278.ts
-#EXTINF:-1,TR:Sport_TV3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6878.ts
-#EXTINF:-1,TR:sinema_TV_acsyon
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10305.ts
-#EXTINF:-1,TR:CINEMA_TV_2HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10306.ts
-#EXTINF:-1,TR:Okul
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6859.ts
-#EXTINF:-1,TR:FOX_CRIME
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9584.ts
-#EXTINF:-1,TR:BOOMERANG_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9308.ts
-#EXTINF:-1,TR:Musik
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6861.ts
-#EXTINF:-1,TR:PLANET_COCUK
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9765.ts
-#EXTINF:-1,TR:KRAL_TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9153.ts
-#EXTINF:-1,TR:LIGTV_3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10311.ts
-#EXTINF:-1,TR:BEINBOX_OFFICE_2_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6880.ts
-#EXTINF:-1,TR-TV8
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10285.ts
-#EXTINF:-1,TR:TRT
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10297.ts
-#EXTINF:-1,TR-TRT_OKUL
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10298.ts
-#EXTINF:-1,TR-TRT_KURD&
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10299.ts
-#EXTINF:-1,TR-TRT_diyanet
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10301.ts
-#EXTINF:-1,TR-TRT_AVAZ
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10302.ts
-#EXTINF:-1,TR-TRT_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10308.ts
-#EXTINF:-1,TR-STAR-TV_HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10288.ts
-#EXTINF:-1,TR-Show-TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10289.ts
-#EXTINF:-1,TR-Salon_3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10294.ts
-#EXTINF:-1,TR-Salon_2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10295.ts
-#EXTINF:-1,TR-Salon_1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10296.ts
-#EXTINF:-1,TR:Cinebox_01
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9755.ts
-#EXTINF:-1,TR-MUSIC_HD4
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10300.ts
-#EXTINF:-1,TR-MUSIC_HD3
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10303.ts
-#EXTINF:-1,TR-KANAL_7
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10291.ts
-#EXTINF:-1,TR-KANAL-D
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10290.ts
-#EXTINF:-1,TR-Fox
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10293.ts
-#EXTINF:-1,TR-FLASH-TV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10292.ts
-#EXTINF:-1,TR-CNN_TURK
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10304.ts
-#EXTINF:-1,TR-ATV
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10284.ts
-#EXTINF:-1,TR-animal_planetHD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10307.ts
-#EXTINF:-1,TR:DISCOVERY_IDX
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9861.ts
-#EXTINF:-1,TR:NATURE_HISTORY_channel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10147.ts
-#EXTINF:-1,TR:BEINSPORT_HD1
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/9862.ts
-#EXTINF:-1,TR:Disney_channel
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10001.ts
-#EXTINF:-1,TR:TV2
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6674.ts
-#EXTINF:-1,TR:BURSASPORT
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6679.ts
-#EXTINF:-1,TR:TRT_Turk
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6683.ts
-#EXTINF:-1,TR-360_TVHD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/10314.ts
-#EXTINF:-1,TR:TIVIBU_1HD
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/11476.ts
-#EXTINF:-1,TR_HABERTURK
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6875.ts
-#EXTINF:-1,TR:Sport
-http://www.iptvgafsa.tn:8000/live/ezzo/ezzo/6686.ts
+#EXTINF:-1,TR: TV8 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13658.ts
+#EXTINF:-1,TR: TV2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13656.ts
+#EXTINF:-1,TR: TRT1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13667.ts
+#EXTINF:-1,TR: TRT TURK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13668.ts
+#EXTINF:-1,TR: TRT SPOR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13697.ts
+#EXTINF:-1,TR: TRT Okul
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13670.ts
+#EXTINF:-1,TR: TRT Muzik
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13671.ts
+#EXTINF:-1,TR: TRT Haber
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13669.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13672.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13673.ts
+#EXTINF:-1,TR: TRT BELGESEL
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13674.ts
+#EXTINF:-1,TR: TIVIBU SPOR 2HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13637.ts
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13636.ts
+#EXTINF:-1,TR: STAR TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13660.ts
+#EXTINF:-1,TR: SPORTS TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13695.ts
+#EXTINF:-1,TR: SINEMATV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13693.ts
+#EXTINF:-1,TR: SINEMA2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13694.ts
+#EXTINF:-1,TR: SHOW TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13661.ts
+#EXTINF:-1,TR: SHOW MAX
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13638.ts
+#EXTINF:-1,TR: SANSAR ÃœLKE TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13680.ts
+#EXTINF:-1,TR: SALON 3 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13692.ts
+#EXTINF:-1,TR: SALON 2 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13691.ts
+#EXTINF:-1,TR: SALON 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13690.ts
+#EXTINF:-1,TR: POWER Turk HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13662.ts
+#EXTINF:-1,TR: PLANET TURK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13685.ts
+#EXTINF:-1,TR: PLANET MUFTAK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13686.ts
+#EXTINF:-1,TR: PLANET COCUK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13687.ts
+#EXTINF:-1,TR: NTV SPOR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13698.ts
+#EXTINF:-1,TR: NTV AVRUPA
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13639.ts
+#EXTINF:-1,TR: MovieSmart Turk
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13640.ts
+#EXTINF:-1,TR: Movie Smart  Gold HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13641.ts
+#EXTINF:-1,TR: MOVIEMAX FESTIVAL HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13642.ts
+#EXTINF:-1,TR: MOVIEMAX FAMILY HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13643.ts
+#EXTINF:-1,TR: MOVIEMAX ACTION HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13644.ts
+#EXTINF:-1,TR: MINIKAGO
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13682.ts
+#EXTINF:-1,TR: LOCA 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13689.ts
+#EXTINF:-1,TR: LOCA 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13688.ts
+#EXTINF:-1,TR: LIG TV 4 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13721.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13701.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13700.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13699.ts
+#EXTINF:-1,TR: KANAL D
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13655.ts
+#EXTINF:-1,TR: KANAL 7
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13654.ts
+#EXTINF:-1,TR: ISTANBUL TV1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13645.ts
+#EXTINF:-1,TR: HALK TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13650.ts
+#EXTINF:-1,TR: GS
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13646.ts
+#EXTINF:-1,TR: FOX HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13653.ts
+#EXTINF:-1,TR: FLASH TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13665.ts
+#EXTINF:-1,TR: FILTV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13678.ts
+#EXTINF:-1,TR: FENERBAHCE
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13647.ts
+#EXTINF:-1,TR: FANATIKTV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13675.ts
+#EXTINF:-1,TR: EURO STAR
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13648.ts
+#EXTINF:-1,TR: EURO D
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13649.ts
+#EXTINF:-1,TR: DREAM TURK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13681.ts
+#EXTINF:-1,TR: DISNEY XD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13683.ts
+#EXTINF:-1,TR: DISCOVERY
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13679.ts
+#EXTINF:-1,TR: CNN TURK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13652.ts
+#EXTINF:-1,TR: CARTOON NETWORK
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13684.ts
+#EXTINF:-1,TR: BEYAZ TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13676.ts
+#EXTINF:-1,TR: BABY TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13663.ts
+#EXTINF:-1,TR: ATV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13657.ts
+#EXTINF:-1,TR: ANIMAL PLANET
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13677.ts
+#EXTINF:-1,TR: A SPOR HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13696.ts
+#EXTINF:-1,TR: A HABER
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13666.ts
+#EXTINF:-1,TR: 360
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13664.ts
+#EXTINF:-1,TR: 24TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13659.ts
+#EXTINF:-1,TR:  MovieMax Premier HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13651.ts
