@@ -4,6 +4,402 @@
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
+
+
+#EXTM3U
+#EXTINF:-1,PBS America
+http://185.22.78.73:3311/play/a008
+#EXTINF:-1,TV5 MONDE
+http://185.22.78.73:3311/play/a003
+#EXTINF:-1,True Crime
+http://185.22.78.73:3311/play/a002
+#EXTINF:-1,At The Races
+http://185.22.78.73:3311/play/a00a
+#EXTINF:-1,YourTV
+http://185.22.78.73:3311/play/a007
+#EXTINF:-1,Babenation
+http://185.22.78.73:3311/play/a004
+#EXTINF:-1,QUEST
+http://185.22.78.73:3311/play/a009
+#EXTINF:-1,FRANCE Eng
+http://185.22.78.73:3311/play/a006
+#EXTINF:-1,Food Network
+http://185.22.78.73:3311/play/a005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CA: ABC Spark HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15243.ts
+#EXTINF:-1,CA: CBC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16855.ts
+#EXTINF:-1,CA: CBC Vancover
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16853.ts
+#EXTINF:-1,CA: CBN News
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3872.ts
+#EXTINF:-1,CA: CHCH HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17854.ts
+#EXTINF:-1,CA: CP24 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16821.ts
+#EXTINF:-1,CA: CTV 2 Vancover Island
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17853.ts
+#EXTINF:-1,CA: CityTV Vancouver
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16815.ts
+#EXTINF:-1,CA: Discovery Channel HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17856.ts
+#EXTINF:-1,CA: Family CHRGD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15246.ts
+#EXTINF:-1,CA: Family HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16825.ts
+#EXTINF:-1,CA: CityTV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17857.ts
+#EXTINF:-1,CA: Global BC
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16833.ts
+#EXTINF:-1,CA: Global Calgary
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17851.ts
+#EXTINF:-1,CA: Global HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16832.ts
+#EXTINF:-1,CA: CTV Calgary
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17860.ts
+#EXTINF:-1,CA: BNN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16856.ts
+#EXTINF:-1,CA: OMNI 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16848.ts
+#EXTINF:-1,CA: Love Nature
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17852.ts
+#EXTINF:-1,CA: Peachtree HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17861.ts
+#EXTINF:-1,CA: TVO HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17859.ts
+#EXTINF:-1,CA: YTV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16836.ts
+#EXTINF:-1,CA: W Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17855.ts
+#EXTINF:-1,CA: Slice HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16844.ts
+#EXTINF:-1,USA: 360 North
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3863.ts
+#EXTINF:-1,CA: TSC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14969.ts
+#EXTINF:-1,CA: OMNI 2 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16847.ts
+#EXTINF:-1,CA: HGTV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16830.ts
+#EXTINF:-1,CA: Disney Jr HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17858.ts
+#EXTINF:-1,USA: A&E
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9315.ts
+#EXTINF:-1,USA: ABC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16858.ts
+#EXTINF:-1,USA: ABC News
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2931.ts
+#EXTINF:-1,USA: ABC W HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15244.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10167.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10166.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9518.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9519.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9520.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9516.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9517.ts
+#EXTINF:-1,USA: BBC America
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16857.ts
+#EXTINF:-1,USA: Animal Planet
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15250.ts
+#EXTINF:-1,USA: AMC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8415.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9488.ts
+#EXTINF:-1,USA: Bravo
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8691.ts
+#EXTINF:-1,USA: Church Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9536.ts
+#EXTINF:-1,USA: C-SPAN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9318.ts
+#EXTINF:-1,USA: CBS HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16852.ts
+#EXTINF:-1,USA: CBC News HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16854.ts
+#EXTINF:-1,USA: CBS News HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9508.ts
+#EXTINF:-1,USA: CBS W HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16850.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16851.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9320.ts
+#EXTINF:-1,USA: Bloomberg
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9510.ts
+#EXTINF:-1,USA: CNN News HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16813.ts
+#EXTINF:-1,USA: CNN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8692.ts
+#EXTINF:-1,USA: ASD TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3861.ts
+#EXTINF:-1,USA: ESPN 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13230.ts
+#EXTINF:-1,USA: Channel 11
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3860.ts
+#EXTINF:-1,USA: Country Music Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3859.ts
+#EXTINF:-1,USA: Comedy Central
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15249.ts
+#EXTINF:-1,USA: OWN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16846.ts
+#EXTINF:-1,USA: Discovery Science
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9546.ts
+#EXTINF:-1,USA: Discovery Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15248.ts
+#EXTINF:-1,USA: Discovery Channel CA HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16823.ts
+#EXTINF:-1,USA: Eurosport 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14079.ts
+#EXTINF:-1,USA: E!
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8417.ts
+#EXTINF:-1,USA: Family Junior HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15247.ts
+#EXTINF:-1,USA: Food Network
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9337.ts
+#EXTINF:-1,USA: FXX HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16834.ts
+#EXTINF:-1,USA: Fight Sport
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8308.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8681.ts
+#EXTINF:-1,USA: Fox Sport 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9391.ts
+#EXTINF:-1,USA: NBA TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8309.ts
+#EXTINF:-1,USA: HBO FAMILY
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8414.ts
+#EXTINF:-1,USA: HBO HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8411.ts
+#EXTINF:-1,USA: HBO ZONE
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8412.ts
+#EXTINF:-1,USA: LIFE TIME
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8687.ts
+#EXTINF:-1,USA: HBO Comedy
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9831.ts
+#EXTINF:-1,USA: History HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15245.ts
+#EXTINF:-1,USA: Mello TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9502.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9523.ts
+#EXTINF:-1,USA: MLB Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15239.ts
+#EXTINF:-1,USA: Fox 43
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10174.ts
+#EXTINF:-1,USA: ID HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16827.ts
+#EXTINF:-1,USA: HLN HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16828.ts
+#EXTINF:-1,USA: HGTV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16829.ts
+#EXTINF:-1,USA: NHL Network
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12479.ts
+#EXTINF:-1,USA: NBC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8393.ts
+#EXTINF:-1,USA: NBC W HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16849.ts
+#EXTINF:-1,USA: Nick
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9333.ts
+#EXTINF:-1,USA: NBCSN Golf HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9526.ts
+#EXTINF:-1,USA: Nasa TV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9499.ts
+#EXTINF:-1,USA: Hallmark Channel HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16831.ts
+#EXTINF:-1,USA: FX HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16835.ts
+#EXTINF:-1,USA: Fox News HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16826.ts
+#EXTINF:-1,USA: FOX HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16824.ts
+#EXTINF:-1,USA: Disney XD HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16822.ts
+#EXTINF:-1,USA: CTV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16820.ts
+#EXTINF:-1,USA: CSPAN 2
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9319.ts
+#EXTINF:-1,USA: PAC Network National 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14068.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14070.ts
+#EXTINF:-1,USA: PAC Mountain 1080P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14067.ts
+#EXTINF:-1,USA: E! Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9321.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14072.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14069.ts
+#EXTINF:-1,USA: BeIN Sports USA HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13227.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14071.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10143.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14073.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14075.ts
+#EXTINF:-1,USA: RT America HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9498.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14077.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14076.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14074.ts
+#EXTINF:-1,USA: RT Documentary
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9497.ts
+#EXTINF:-1,USA: PBS HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16845.ts
+#EXTINF:-1,USA: PAC-12 Net. (Encore)
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14078.ts
+#EXTINF:-1,USA: Tru TV HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9330.ts
+#EXTINF:-1,USA: USA Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9329.ts
+#EXTINF:-1,USA: Willow HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9328.ts
+#EXTINF:-1,USA: WWE
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9530.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8293.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8292.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8291.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8290.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8289.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12547.ts
+#EXTINF:-1,USA: WWE Network
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8410.ts
+#EXTINF:-1,USA: UALR TV
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3865.ts
+#EXTINF:-1,USA: Teletoon
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15251.ts
+#EXTINF:-1,USA: WHDH
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9491.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9476.ts
+#EXTINF:-1,USA: The Florida Channel
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9495.ts
+#EXTINF:-1,USA: TBS HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8685.ts
+#EXTINF:-1,USA: TBN
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9542.ts
+#EXTINF:-1,USA: TNT HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13180.ts
+#EXTINF:-1,USA: Sportsnet World
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14032.ts
+#EXTINF:-1,USA: Sportnet One HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14037.ts
+#EXTINF:-1,USA: Sporstnet Pacific HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14033.ts
+#EXTINF:-1,USA: Sporstnet Ontario HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14034.ts
+#EXTINF:-1,USA: Sporstnet East HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14035.ts
+#EXTINF:-1,USA: Sporstnet 360
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14036.ts
+#EXTINF:-1,USA: Sundance HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16840.ts
+#EXTINF:-1,USA: Sportsnet West HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13232.ts
+#EXTINF:-1,USA: Spike HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13179.ts
+#EXTINF:-1,USA: TLC HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9480.ts
+#EXTINF:-1,USA: Starz Edge
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10171.ts
+#EXTINF:-1,USA: TLC CA HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16838.ts
+#EXTINF:-1,USA: Velocity HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16837.ts
+#EXTINF:-1,USA: Star Z Cinema
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9832.ts
+#EXTINF:-1,USA: Starz Comedy
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16843.ts
+#EXTINF:-1,USA: Starz Encore
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16842.ts
+#EXTINF:-1,USA: Starz Kids & Family
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16841.ts
+#EXTINF:-1,USA: SYFY HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16839.ts
+#EXTINF:-1,USA: NFL Network HD
+http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8693.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,UK: BBC1 HD
 http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6986.ts
 #EXTINF:-1,UK: BBC2 HD
