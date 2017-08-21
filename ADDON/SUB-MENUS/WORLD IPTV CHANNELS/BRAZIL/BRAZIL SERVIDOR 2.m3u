@@ -1,285 +1,90 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,BR: A&E
-http://5.196.78.122:8080/live/test5/test5/23892.ts
-#EXTINF:-1,BR: ANIMAL PLANET
-http://5.196.78.122:8080/live/test5/test5/23891.ts
-#EXTINF:-1,BR: AXN
-http://5.196.78.122:8080/live/test5/test5/23890.ts
-#EXTINF:-1,BR: BAND
-http://5.196.78.122:8080/live/test5/test5/23889.ts
-#EXTINF:-1,BR: BAND NEWS
-http://5.196.78.122:8080/live/test5/test5/23888.ts
-#EXTINF:-1,BR: BAND SPORTS
-http://5.196.78.122:8080/live/test5/test5/23887.ts
-#EXTINF:-1,BR: Boomerang
-http://5.196.78.122:8080/live/test5/test5/24025.ts
-#EXTINF:-1,BR: Brazil 2
-http://5.196.78.122:8080/live/test5/test5/23938.ts
-#EXTINF:-1,BR: Canal Brasil
-http://5.196.78.122:8080/live/test5/test5/24024.ts
-#EXTINF:-1,BR: Canal Do Boi Tv
-http://5.196.78.122:8080/live/test5/test5/23939.ts
-#EXTINF:-1,BR: Canal Sony
-http://5.196.78.122:8080/live/test5/test5/24023.ts
-#EXTINF:-1,BR: CINEMAX
-http://5.196.78.122:8080/live/test5/test5/23886.ts
-#EXTINF:-1,BR: Combate
-http://5.196.78.122:8080/live/test5/test5/24022.ts
-#EXTINF:-1,BR: Conexaobr Tv
-http://5.196.78.122:8080/live/test5/test5/23940.ts
-#EXTINF:-1,BR: DISCOVERY
-http://5.196.78.122:8080/live/test5/test5/23885.ts
-#EXTINF:-1,BR: Discovery Civilization
-http://5.196.78.122:8080/live/test5/test5/24021.ts
-#EXTINF:-1,BR: Discovery Science
-http://5.196.78.122:8080/live/test5/test5/24020.ts
-#EXTINF:-1,BR: Discovery Turbo
-http://5.196.78.122:8080/live/test5/test5/24019.ts
-#EXTINF:-1,BR: Disney
-http://5.196.78.122:8080/live/test5/test5/24018.ts
-#EXTINF:-1,BR: Disney Jr
-http://5.196.78.122:8080/live/test5/test5/24017.ts
-#EXTINF:-1,BR: E!
-http://5.196.78.122:8080/live/test5/test5/24016.ts
-#EXTINF:-1,BR: ESPN
-http://5.196.78.122:8080/live/test5/test5/24015.ts
-#EXTINF:-1,BR: ESPN Brasil
-http://5.196.78.122:8080/live/test5/test5/23941.ts
-#EXTINF:-1,BR: ESPN HD
-http://5.196.78.122:8080/live/test5/test5/23942.ts
-#EXTINF:-1,BR: ESPN plus
-http://5.196.78.122:8080/live/test5/test5/23943.ts
-#EXTINF:-1,BR: FOX
-http://5.196.78.122:8080/live/test5/test5/23884.ts
-#EXTINF:-1,BR: Fox Life
-http://5.196.78.122:8080/live/test5/test5/24014.ts
-#EXTINF:-1,BR: FOX Sports 1
-http://5.196.78.122:8080/live/test5/test5/23944.ts
-#EXTINF:-1,BR: Fox Sports 2
-http://5.196.78.122:8080/live/test5/test5/23945.ts
-#EXTINF:-1,BR: Globo News
-http://5.196.78.122:8080/live/test5/test5/24013.ts
-#EXTINF:-1,BR: Globo Premium
-http://5.196.78.122:8080/live/test5/test5/24012.ts
-#EXTINF:-1,BR: Gloob
-http://5.196.78.122:8080/live/test5/test5/24011.ts
-#EXTINF:-1,BR: GNT
-http://5.196.78.122:8080/live/test5/test5/24010.ts
-#EXTINF:-1,BR: H2
-http://5.196.78.122:8080/live/test5/test5/24009.ts
-#EXTINF:-1,BR: HBO
-http://5.196.78.122:8080/live/test5/test5/23883.ts
-#EXTINF:-1,BR: HBO 2
-http://5.196.78.122:8080/live/test5/test5/23882.ts
-#EXTINF:-1,BR: HBO Family
-http://5.196.78.122:8080/live/test5/test5/24008.ts
-#EXTINF:-1,BR: HBO Plus
-http://5.196.78.122:8080/live/test5/test5/24007.ts
-#EXTINF:-1,BR: HBO Signature
-http://5.196.78.122:8080/live/test5/test5/24006.ts
-#EXTINF:-1,BR: Investiga
-http://5.196.78.122:8080/live/test5/test5/24005.ts
-#EXTINF:-1,BR: Max
-http://5.196.78.122:8080/live/test5/test5/24004.ts
-#EXTINF:-1,BR: Max Prime
-http://5.196.78.122:8080/live/test5/test5/24003.ts
-#EXTINF:-1,BR: Max Up
-http://5.196.78.122:8080/live/test5/test5/24002.ts
-#EXTINF:-1,BR: MTV
-http://5.196.78.122:8080/live/test5/test5/23881.ts
-#EXTINF:-1,BR: Multishow
-http://5.196.78.122:8080/live/test5/test5/24001.ts
-#EXTINF:-1,BR: National Geographic
-http://5.196.78.122:8080/live/test5/test5/24000.ts
-#EXTINF:-1,BR: Nick
-http://5.196.78.122:8080/live/test5/test5/23999.ts
-#EXTINF:-1,BR: Paramount
-http://5.196.78.122:8080/live/test5/test5/23998.ts
-#EXTINF:-1,BR: PFC
-http://5.196.78.122:8080/live/test5/test5/23997.ts
-#EXTINF:-1,BR: Premiere 2
-http://5.196.78.122:8080/live/test5/test5/23996.ts
-#EXTINF:-1,BR: Premiere 3
-http://5.196.78.122:8080/live/test5/test5/23995.ts
-#EXTINF:-1,BR: Premiere 4
-http://5.196.78.122:8080/live/test5/test5/23994.ts
-#EXTINF:-1,BR: Premiere 5
-http://5.196.78.122:8080/live/test5/test5/23993.ts
-#EXTINF:-1,BR: Premiere 9
-http://5.196.78.122:8080/live/test5/test5/23992.ts
-#EXTINF:-1,BR: Premiere Clubes
-http://5.196.78.122:8080/live/test5/test5/23991.ts
-#EXTINF:-1,BR: Prime Box Brasil
-http://5.196.78.122:8080/live/test5/test5/23990.ts
-#EXTINF:-1,BR: RECORD PB
-http://5.196.78.122:8080/live/test5/test5/23946.ts
-#EXTINF:-1,BR: REDE GOSPEL
-http://5.196.78.122:8080/live/test5/test5/23947.ts
-#EXTINF:-1,BR: REDE TV
-http://5.196.78.122:8080/live/test5/test5/23948.ts
-#EXTINF:-1,BR: Sport TV
-http://5.196.78.122:8080/live/test5/test5/23989.ts
-#EXTINF:-1,BR: SPORT TV 2
-http://5.196.78.122:8080/live/test5/test5/23949.ts
-#EXTINF:-1,BR: SPORT TV 3
-http://5.196.78.122:8080/live/test5/test5/23950.ts
-#EXTINF:-1,BR: Sport TV2
-http://5.196.78.122:8080/live/test5/test5/23988.ts
-#EXTINF:-1,BR: Sport TV3
-http://5.196.78.122:8080/live/test5/test5/23987.ts
-#EXTINF:-1,BR: TC Action
-http://5.196.78.122:8080/live/test5/test5/23986.ts
-#EXTINF:-1,BR: TC Cult
-http://5.196.78.122:8080/live/test5/test5/23985.ts
-#EXTINF:-1,BR: TC Fun
-http://5.196.78.122:8080/live/test5/test5/23984.ts
-#EXTINF:-1,BR: TC Pipoca
-http://5.196.78.122:8080/live/test5/test5/23983.ts
-#EXTINF:-1,BR: TC Premium
-http://5.196.78.122:8080/live/test5/test5/23982.ts
-#EXTINF:-1,BR: TC Touch
-http://5.196.78.122:8080/live/test5/test5/23981.ts
-#EXTINF:-1,BR: TCM
-http://5.196.78.122:8080/live/test5/test5/23980.ts
-#EXTINF:-1,BR: The History Channel
-http://5.196.78.122:8080/live/test5/test5/23979.ts
-#EXTINF:-1,BR: TLC
-http://5.196.78.122:8080/live/test5/test5/23880.ts
-#EXTINF:-1,BR: TNT
-http://5.196.78.122:8080/live/test5/test5/23879.ts
-#EXTINF:-1,BR: TNT Series
-http://5.196.78.122:8080/live/test5/test5/23978.ts
-#EXTINF:-1,BR: TV Brasil
-http://5.196.78.122:8080/live/test5/test5/23977.ts
-#EXTINF:-1,BR: TV Diario Brasil
-http://5.196.78.122:8080/live/test5/test5/23951.ts
-#EXTINF:-1,BR: TV Globo
-http://5.196.78.122:8080/live/test5/test5/23952.ts
-#EXTINF:-1,BR: TV Globo Premium
-http://5.196.78.122:8080/live/test5/test5/23953.ts
-#EXTINF:-1,BR: TV Record
-http://5.196.78.122:8080/live/test5/test5/23954.ts
-#EXTINF:-1,BR: TV Urbana Brasil
-http://5.196.78.122:8080/live/test5/test5/23955.ts
-#EXTINF:-1,BR: TVE HD 720 Brasil
-http://5.196.78.122:8080/live/test5/test5/23956.ts
-#EXTINF:-1,BR: Viva
-http://5.196.78.122:8080/live/test5/test5/23976.ts
-#EXTINF:-1,BR: WARNER
-http://5.196.78.122:8080/live/test5/test5/23878.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,BR: Aparceida
-http://5.196.78.122:8080/live/test5/test5/20243.ts
-#EXTINF:-1,BR: Arte 1
-http://5.196.78.122:8080/live/test5/test5/20242.ts
-#EXTINF:-1,BR: BIS
-http://5.196.78.122:8080/live/test5/test5/20241.ts
-#EXTINF:-1,BR: Canal DO TV
-http://5.196.78.122:8080/live/test5/test5/20240.ts
-#EXTINF:-1,BR: CANAL ESCOLA
-http://5.196.78.122:8080/live/test5/test5/20324.ts
-#EXTINF:-1,BR: Cançao Nova
-http://5.196.78.122:8080/live/test5/test5/20239.ts
-#EXTINF:-1,BR: Cartoon Network
-http://5.196.78.122:8080/live/test5/test5/20238.ts
-#EXTINF:-1,BR: Discovery Home Health
-http://5.196.78.122:8080/live/test5/test5/20237.ts
-#EXTINF:-1,BR: Disney XD Brasil
-http://5.196.78.122:8080/live/test5/test5/20236.ts
-#EXTINF:-1,BR: DW Latin
-http://5.196.78.122:8080/live/test5/test5/20235.ts
-#EXTINF:-1,BR: E! MAXX 2
-http://5.196.78.122:8080/live/test5/test5/20234.ts
-#EXTINF:-1,BR: Eimax 1
-http://5.196.78.122:8080/live/test5/test5/20323.ts
-#EXTINF:-1,BR: Fish TV
-http://5.196.78.122:8080/live/test5/test5/20322.ts
-#EXTINF:-1,BR: FUTURA
-http://5.196.78.122:8080/live/test5/test5/20233.ts
-#EXTINF:-1,BR: FX
-http://5.196.78.122:8080/live/test5/test5/20321.ts
-#EXTINF:-1,BR: GLOBAL TV
-http://5.196.78.122:8080/live/test5/test5/20232.ts
-#EXTINF:-1,BR: Globo SP
-http://5.196.78.122:8080/live/test5/test5/20399.ts
-#EXTINF:-1,BR: Mais Globosat HD
-http://5.196.78.122:8080/live/test5/test5/20320.ts
-#EXTINF:-1,BR: MANA SAT
-http://5.196.78.122:8080/live/test5/test5/20231.ts
-#EXTINF:-1,BR: MegaPix
-http://5.196.78.122:8080/live/test5/test5/20230.ts
-#EXTINF:-1,BR: Music Box Brasil
-http://5.196.78.122:8080/live/test5/test5/20229.ts
-#EXTINF:-1,BR: Nick Jr
-http://5.196.78.122:8080/live/test5/test5/20228.ts
-#EXTINF:-1,BR: Novo Tempo
-http://5.196.78.122:8080/live/test5/test5/20227.ts
-#EXTINF:-1,BR: OFF
-http://5.196.78.122:8080/live/test5/test5/20226.ts
-#EXTINF:-1,BR: Proyecto 40
-http://5.196.78.122:8080/live/test5/test5/20225.ts
-#EXTINF:-1,BR: RCTV
-http://5.196.78.122:8080/live/test5/test5/20224.ts
-#EXTINF:-1,BR: Record News
-http://5.196.78.122:8080/live/test5/test5/20319.ts
-#EXTINF:-1,BR: REDE RECORD
-http://5.196.78.122:8080/live/test5/test5/20318.ts
-#EXTINF:-1,BR: SBT
-http://5.196.78.122:8080/live/test5/test5/20223.ts
-#EXTINF:-1,BR: SBT Brasil
-http://5.196.78.122:8080/live/test5/test5/20317.ts
-#EXTINF:-1,BR: Space Brasil
-http://5.196.78.122:8080/live/test5/test5/20222.ts
-#EXTINF:-1,BR: Studio Universal
-http://5.196.78.122:8080/live/test5/test5/20316.ts
-#EXTINF:-1,BR: Syfy
-http://5.196.78.122:8080/live/test5/test5/20221.ts
-#EXTINF:-1,BR: TBS Brasil
-http://5.196.78.122:8080/live/test5/test5/20220.ts
-#EXTINF:-1,BR: Tooncast
-http://5.196.78.122:8080/live/test5/test5/20219.ts
-#EXTINF:-1,BR: Tru TV
-http://5.196.78.122:8080/live/test5/test5/20218.ts
-#EXTINF:-1,BR: TV BRASIL CENTRAL
-http://5.196.78.122:8080/live/test5/test5/20217.ts
-#EXTINF:-1,BR: TV Diario
-http://5.196.78.122:8080/live/test5/test5/20216.ts
-#EXTINF:-1,BR: Tv Escola
-http://5.196.78.122:8080/live/test5/test5/20215.ts
-#EXTINF:-1,BR: TV GAZETA HD
-http://5.196.78.122:8080/live/test5/test5/20214.ts
-#EXTINF:-1,BR: TV GERAL
-http://5.196.78.122:8080/live/test5/test5/20213.ts
-#EXTINF:-1,BR: TVI
-http://5.196.78.122:8080/live/test5/test5/20212.ts
-#EXTINF:-1,BR: Universal Brasil
-http://5.196.78.122:8080/live/test5/test5/20211.ts
-#EXTINF:-1,BR: Vem e Ve TV
-http://5.196.78.122:8080/live/test5/test5/20210.ts
-#EXTINF:-1,BR: VH1 Mega Hits
-http://5.196.78.122:8080/live/test5/test5/20209.ts
-#EXTINF:-1,BR: Woohoo Brasil
-http://5.196.78.122:8080/live/test5/test5/20208.ts
+#EXTINF:-1,Aparceida 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3394.ts
+#EXTINF:-1,Arte 1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3367.ts
+#EXTINF:-1,Azteca 13 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3395.ts
+#EXTINF:-1,Band 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3383.ts
+#EXTINF:-1,Band News 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3375.ts
+#EXTINF:-1,BIS 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3366.ts
+#EXTINF:-1,Can 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3393.ts
+#EXTINF:-1,Canal DO TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3373.ts
+#EXTINF:-1,Canal Escola 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3374.ts
+#EXTINF:-1,ConexaoTV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3392.ts
+#EXTINF:-1,DW Latin 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3391.ts
+#EXTINF:-1,Fish TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3379.ts
+#EXTINF:-1,Gloob 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3365.ts
+#EXTINF:-1,I Sat 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3364.ts
+#EXTINF:-1,Mais Globosat HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3368.ts
+#EXTINF:-1,Mana Sat 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3390.ts
+#EXTINF:-1,MegaPix 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3363.ts
+#EXTINF:-1,MTV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3362.ts
+#EXTINF:-1,Music Box asil 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3361.ts
+#EXTINF:-1,OFF 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3360.ts
+#EXTINF:-1,Proyecto 40 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3388.ts
+#EXTINF:-1,RCTV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3389.ts
+#EXTINF:-1,Rede asil 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3372.ts
+#EXTINF:-1,Rede Gospel 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3371.ts
+#EXTINF:-1,Rede TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3369.ts
+#EXTINF:-1,SporTV 1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3382.ts
+#EXTINF:-1,SporTV 2 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3381.ts
+#EXTINF:-1,SporTV 3 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3380.ts
+#EXTINF:-1,Syfy 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3359.ts
+#EXTINF:-1,Tru TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3396.ts
+#EXTINF:-1,TV asil Central 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3398.ts
+#EXTINF:-1,TV Diario 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3387.ts
+#EXTINF:-1,TV Escola 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3386.ts
+#EXTINF:-1,TV Gazeta HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3378.ts
+#EXTINF:-1,TV Gearl 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3376.ts
+#EXTINF:-1,TV Mana France 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3385.ts
+#EXTINF:-1,TVE TV asil 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3384.ts
+#EXTINF:-1,TVI 24 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3370.ts
+#EXTINF:-1,TVI 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3377.ts
+#EXTINF:-1,VH1 Mega Hits 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3397.ts
+#EXTINF:-1,Warner TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/3358.ts

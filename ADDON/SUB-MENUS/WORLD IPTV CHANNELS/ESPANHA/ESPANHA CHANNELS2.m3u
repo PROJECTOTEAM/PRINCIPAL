@@ -1,103 +1,452 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-#EXTINF:-1,ES:Bein LaLiga
+
+
+
+
+#EXTINF:-1,#0 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1056.ts
+#EXTINF:-1,A&E 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1028.ts
+#EXTINF:-1,AMC HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1053.ts
+#EXTINF:-1,AXN HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1052.ts
+#EXTINF:-1,AXN White 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1051.ts
+#EXTINF:-1,Extremadura TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1078.ts
+#EXTINF:-1,Antena 3 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1084.ts
+#EXTINF:-1,Lancelot TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1022.ts
+#EXTINF:-1,Barca TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1038.ts
+#EXTINF:-1,Boing 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1015.ts
+#EXTINF:-1,C+ trellas 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1046.ts
+#EXTINF:-1,Calle 13 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1049.ts
+#EXTINF:-1,Canal Cocina 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1025.ts
+#EXTINF:-1,Canal Decasa 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1024.ts
+#EXTINF:-1,Canal Panda 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1023.ts
+#EXTINF:-1,Canal SUR 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1057.ts
+#EXTINF:-1,Caza Y Pca 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1027.ts
+#EXTINF:-1,TV3 Cat 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1019.ts
+#EXTINF:-1,Comedy Central HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1048.ts
+#EXTINF:-1,Cosmos HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1047.ts
+#EXTINF:-1,Cuatro 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1083.ts
+#EXTINF:-1,Discovery HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1030.ts
+#EXTINF:-1,Clan TVE 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1031.ts
+#EXTINF:-1,Disney Channel HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1017.ts
+#EXTINF:-1,Disney XD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1016.ts
+#EXTINF:-1,Energy 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1044.ts
+#EXTINF:-1,EuroNews 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1018.ts
+#EXTINF:-1,EuroSport 1 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1036.ts
+#EXTINF:-1,Fox News 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1074.ts
+#EXTINF:-1,FDF 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1045.ts
+#EXTINF:-1,Fox HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1055.ts
+#EXTINF:-1,Fox Life HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1054.ts
+#EXTINF:-1,Galicia TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1075.ts
+#EXTINF:-1,Gol TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1040.ts
+#EXTINF:-1,Andalucia TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1039.ts
+#EXTINF:-1,Historia 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1029.ts
+#EXTINF:-1,Hollywood 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1060.ts
+#EXTINF:-1,La 1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1086.ts
+#EXTINF:-1,La Sexta 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1081.ts
+#EXTINF:-1,LaLiga TV Bar 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1062.ts
+#EXTINF:-1,Mega 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1012.ts
+#EXTINF:-1,Movitar Accion 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1070.ts
+#EXTINF:-1,Movitar Comedia 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1069.ts
+#EXTINF:-1,Movitar DCine 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1068.ts
+#EXTINF:-1,Movitar Deport 1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1064.ts
+#EXTINF:-1,Movitar Deport 2 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1073.ts
+#EXTINF:-1,Movitar trenos 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1072.ts
+#EXTINF:-1,Movitar F1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1035.ts
+#EXTINF:-1,Movitar Futbol 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1063.ts
+#EXTINF:-1,Movitar Golf 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1061.ts
+#EXTINF:-1,Movitar MotoGP HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1041.ts
+#EXTINF:-1,Movitar Seri HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1067.ts
+#EXTINF:-1,Movitar Seri Xtra 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1066.ts
+#EXTINF:-1,Movitar Toros HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1065.ts
+#EXTINF:-1,Movitar Xtra 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1071.ts
+#EXTINF:-1,Nat Geo 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1033.ts
+#EXTINF:-1,Nat Geo Wild HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1032.ts
+#EXTINF:-1,Neox 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1079.ts
+#EXTINF:-1,Nick Junior 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1013.ts
+#EXTINF:-1,Nickelodeon HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1014.ts
+#EXTINF:-1,Nova 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1080.ts
+#EXTINF:-1,Odisea HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1034.ts
+#EXTINF:-1,Telecinco HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1077.ts
+#EXTINF:-1,peranza TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1020.ts
+#EXTINF:-1,Real Madrid TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1037.ts
+#EXTINF:-1,SyFy HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1050.ts
+#EXTINF:-1,TCM 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1059.ts
+#EXTINF:-1,TNT 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1058.ts
+#EXTINF:-1,TV3 24H 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1021.ts
+#EXTINF:-1,La Sexta HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1076.ts
+#EXTINF:-1,TVE LA 2 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1085.ts
+#EXTINF:-1,Telecinco 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1082.ts
+#EXTINF:-1,Viajar HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1026.ts
+#EXTINF:-1,Antenna 3 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4427.ts
+#EXTINF:-1,AXN FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4414.ts
+#EXTINF:-1,AXN White FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4413.ts
+#EXTINF:-1,C+ Accion FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4409.ts
+#EXTINF:-1,C+ DCine FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4407.ts
+#EXTINF:-1,C+ Dep 2 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4405.ts
+#EXTINF:-1,C+ trenos FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4408.ts
+#EXTINF:-1,C  Seri FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4410.ts
+#EXTINF:-1,C+ Xtra FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4411.ts
+#EXTINF:-1,Calle 13 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4416.ts
+#EXTINF:-1,Caza Y Pca FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4417.ts
+#EXTINF:-1,Cosmo FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4412.ts
+#EXTINF:-1,Cuatro FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4426.ts
+#EXTINF:-1,Disney Channel FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4422.ts
+#EXTINF:-1,Fox FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4415.ts
+#EXTINF:-1,LA 1 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4428.ts
+#EXTINF:-1,LA Sexta FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4424.ts
+#EXTINF:-1,M  Formula 1 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4400.ts
+#EXTINF:-1,M+ Futbol FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4406.ts
+#EXTINF:-1,M  Golf  FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4402.ts
+#EXTINF:-1,M  MotoGP FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4399.ts
+#EXTINF:-1,MoviStar F1 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4401.ts
+#EXTINF:-1,Nat Geo FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4419.ts
+#EXTINF:-1,Nat Geo Wild FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4418.ts
+#EXTINF:-1,SyFy FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4420.ts
+#EXTINF:-1,Telecinco FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4425.ts
+#EXTINF:-1,Viajar FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4423.ts
+#EXTINF:-1,beIN LA Liga FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4403.ts
+#EXTINF:-1,beIN Sport FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/4404.ts
+#EXTINF:-1,beINSport HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1043.ts
+#EXTINF:-1,beINSport LaLiga HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1042.ts
+#EXTINF:-1,Taquilla 1 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1011.ts
+#EXTINF:-1,Taquilla 2 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1010.ts
+#EXTINF:-1,Taquilla 3 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1009.ts
+#EXTINF:-1,Taquilla 4 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1008.ts
+#EXTINF:-1,Taquilla 5 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1007.ts
+#EXTINF:-1,Taquilla 6 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1006.ts
+#EXTINF:-1,Taquilla 7 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1005.ts
+#EXTINF:-1,Taquilla 8 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1004.ts
+#EXTINF:-1,Taquilla 9 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1003.ts
+#EXTINF:-1,Taquilla 10 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1002.ts
+#EXTINF:-1,Taquilla 11 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1001.ts
+#EXTINF:-1,Taquilla 12 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/1000.ts
+#EXTINF:-1,Taquilla 13 HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/999.ts
+#EXTINF:-1,#0 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6085.ts
+#EXTINF:-1,13 TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6093.ts
+#EXTINF:-1,8TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6094.ts
+#EXTINF:-1,a3seri HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6097.ts
+#EXTINF:-1,AMC FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6082.ts
+#EXTINF:-1,Aragon TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6091.ts
+#EXTINF:-1,Baby TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6051.ts
+#EXTINF:-1,Canal Dark 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6078.ts
+#EXTINF:-1,Canal Orbe 21 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6052.ts
+#EXTINF:-1,Cine 3D 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6079.ts
+#EXTINF:-1,Classica 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6042.ts
+#EXTINF:-1,Comedy Central FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6073.ts
+#EXTINF:-1,Crimen e Invtigaci?n 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6058.ts
+#EXTINF:-1,Discovery Channel FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6057.ts
+#EXTINF:-1,Disney Junior 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6050.ts
+#EXTINF:-1,Eurosport 1 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6065.ts
+#EXTINF:-1,Eurosport 2 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6064.ts
+#EXTINF:-1,FOX Life FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6075.ts
+#EXTINF:-1,Gol TV HD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6066.ts
+#EXTINF:-1,Historia FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6055.ts
+#EXTINF:-1,Hollywood FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6080.ts
+#EXTINF:-1,Iberalia TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6056.ts
+#EXTINF:-1,Kiss TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6040.ts
+#EXTINF:-1,LaLigaTV FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6069.ts
+#EXTINF:-1,Levante TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6092.ts
+#EXTINF:-1,LTC 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6086.ts
+#EXTINF:-1,Mezzo Live FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6043.ts
+#EXTINF:-1,Movistar+ Comedia FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6083.ts
+#EXTINF:-1,Movistar  Deport 1 FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6071.ts
+#EXTINF:-1,Movistar+ Seri Xtra FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6084.ts
+#EXTINF:-1,MTV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6046.ts
+#EXTINF:-1,MTV Rocks  
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6045.ts
+#EXTINF:-1,Nickelodeon FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6048.ts
+#EXTINF:-1,Non Stop People 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6041.ts
+#EXTINF:-1,Olympic Channel FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6063.ts
+#EXTINF:-1,Sundance TV 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6072.ts
+#EXTINF:-1,TCM FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6081.ts
+#EXTINF:-1,TNT FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6074.ts
+#EXTINF:-1,Toros TV FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6067.ts
+#EXTINF:-1,TV Canaria 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6090.ts
+#EXTINF:-1,VH1 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6044.ts
+#EXTINF:-1,World Padel Tour FHD 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6062.ts
+#EXTINF:-1,XTRM 
+http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/6076.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,:Bein LaLiga
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3399.ts
-#EXTINF:-1,ES:Movistar Xtra
+#EXTINF:-1,:Movistar Xtra
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/427.ts
-#EXTINF:-1,ES:Movistar Viajar
+#EXTINF:-1,:Movistar Viajar
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/428.ts
-#EXTINF:-1,ES:Movistar TNT
+#EXTINF:-1,:Movistar TNT
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/429.ts
-#EXTINF:-1,ES:Movistar Teledeporte
+#EXTINF:-1,:Movistar Teledeporte
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/430.ts
-#EXTINF:-1,ES:Movistar TCM
+#EXTINF:-1,:Movistar TCM
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/431.ts
-#EXTINF:-1,ES:Movistar SyFy
+#EXTINF:-1,:Movistar SyFy
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/432.ts
-#EXTINF:-1,ES:Movistar Series Xtra
+#EXTINF:-1,:Movistar Seri Xtra
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/433.ts
-#EXTINF:-1,ES:Movistar Nova
+#EXTINF:-1,:Movistar Nova
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/434.ts
-#EXTINF:-1,ES:Movistar Nonstopeople
+#EXTINF:-1,:Movistar Nonstopeople
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/435.ts
-#EXTINF:-1,ES:Movistar Nat Geo Wild
+#EXTINF:-1,:Movistar Nat Geo Wild
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/436.ts
-#EXTINF:-1,ES:Movistar Nat Geo
+#EXTINF:-1,:Movistar Nat Geo
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/437.ts
-#EXTINF:-1,ES:Movistar Moviestar F1
+#EXTINF:-1,:Movistar Movitar F1
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/438.ts
-#EXTINF:-1,ES:Movistar Hollywood
+#EXTINF:-1,:Movistar Hollywood
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/442.ts
-#EXTINF:-1,ES:Movistar Golf
+#EXTINF:-1,:Movistar Golf
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/443.ts
-#EXTINF:-1,ES:Movistar Fox Life
+#EXTINF:-1,:Movistar Fox Life
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/445.ts
-#EXTINF:-1,ES:Movistar Fox HD
+#EXTINF:-1,:Movistar Fox HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/446.ts
-#EXTINF:-1,ES:Movistar FDF
+#EXTINF:-1,:Movistar FDF
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/447.ts
-#EXTINF:-1,ES:Movistar F.TBOL HD
+#EXTINF:-1,:Movistar F.TBOL HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/448.ts
-#EXTINF:-1,ES:Movistar Eurosport 1
+#EXTINF:-1,:Movistar Eurosport 1
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/449.ts
-#EXTINF:-1,ES:Movistar Estrenos
+#EXTINF:-1,:Movistar trenos
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/450.ts
-#EXTINF:-1,ES:Movistar Disney XD
+#EXTINF:-1,:Movistar Disney XD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/451.ts
-#EXTINF:-1,ES:Movistar Disney Junior
+#EXTINF:-1,:Movistar Disney Junior
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/452.ts
-#EXTINF:-1,ES:Movistar Disney Channel
+#EXTINF:-1,:Movistar Disney Channel
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/453.ts
-#EXTINF:-1,ES:Movistar Deportes
+#EXTINF:-1,:Movistar Deport
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/454.ts
-#EXTINF:-1,ES:Movistar Dcine HD
+#EXTINF:-1,:Movistar Dcine HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/455.ts
-#EXTINF:-1,ES:Movistar Crimen Inves
+#EXTINF:-1,:Movistar Crimen Inv
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/457.ts
-#EXTINF:-1,ES:Movistar Cosmo
+#EXTINF:-1,:Movistar Cosmo
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/458.ts
-#EXTINF:-1,ES:Movistar Comedy Central
+#EXTINF:-1,:Movistar Comedy Central
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/459.ts
-#EXTINF:-1,ES:Movistar Comedia
+#EXTINF:-1,:Movistar Comedia
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/460.ts
-#EXTINF:-1,ES:Movistar Clan TVE
+#EXTINF:-1,:Movistar Clan TVE
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/461.ts
-#EXTINF:-1,ES:Movistar Caza & Pesca
+#EXTINF:-1,:Movistar Caza & Pca
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/462.ts
-#EXTINF:-1,ES:Movistar Canal Odisea
+#EXTINF:-1,:Movistar Canal Odisea
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/463.ts
-#EXTINF:-1,ES:Movistar Canal Decasa
+#EXTINF:-1,:Movistar Canal Decasa
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/464.ts
-#EXTINF:-1,ES:Movistar Canal Cocina
+#EXTINF:-1,:Movistar Canal Cocina
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/465.ts
-#EXTINF:-1,ES:Movistar AXN White
+#EXTINF:-1,:Movistar AXN White
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/466.ts
-#EXTINF:-1,ES:Movistar AXN
+#EXTINF:-1,:Movistar AXN
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/467.ts
-#EXTINF:-1,ES:Movistar AMC
+#EXTINF:-1,:Movistar AMC
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/468.ts
-#EXTINF:-1,ES:Movistar Accion HD
+#EXTINF:-1,:Movistar Accion HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/469.ts
-#EXTINF:-1,ES:Movistar A&E
+#EXTINF:-1,:Movistar A&E
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/470.ts
-#EXTINF:-1,ES_TVE_1_HD
+#EXTINF:-1,_TVE_1_HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/471.ts
-#EXTINF:-1,ES_TELECINCO
+#EXTINF:-1,_TELECINCO
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/472.ts
-#EXTINF:-1,ES_taquilla_06
+#EXTINF:-1,_taquilla_06
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/473.ts
-#EXTINF:-1,ES_Taquilla_05
+#EXTINF:-1,_Taquilla_05
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/474.ts
-#EXTINF:-1,ES_Taquilla_03
+#EXTINF:-1,_Taquilla_03
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/476.ts
-#EXTINF:-1,ES_LA_SEXTA_HD
+#EXTINF:-1,_LA_SEXTA_HD
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/480.ts
-#EXTINF:-1,ES_La_dos_2
+#EXTINF:-1,_La_dos_2
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/481.ts
-#EXTINF:-1,ES_Antena_3
+#EXTINF:-1,_Antena_3
 http://iptvarb.selfip.com:6227/live/demo2017/demo2017/486.ts

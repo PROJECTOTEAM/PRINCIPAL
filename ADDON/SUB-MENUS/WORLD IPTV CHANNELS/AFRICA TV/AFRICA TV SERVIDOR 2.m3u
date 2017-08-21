@@ -1,291 +1,89 @@
 #EXTM3U
 
+
+
+
 #EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-#EXTINF:-1,AF:  Erbu Africa
-http://5.196.78.122:8080/live/test5/test5/20122.ts
-#EXTINF:-1,AF: A2i TV ( Senegal )
-http://5.196.78.122:8080/live/test5/test5/20121.ts
-#EXTINF:-1,AF: Aci TV ( OM5 TV )
-http://5.196.78.122:8080/live/test5/test5/20120.ts
-#EXTINF:-1,AF: Adom TV
-http://5.196.78.122:8080/live/test5/test5/23249.ts
-#EXTINF:-1,AF: AFRICA 24
-http://5.196.78.122:8080/live/test5/test5/20389.ts
-#EXTINF:-1,AF: Africa Today TV
-http://5.196.78.122:8080/live/test5/test5/20119.ts
-#EXTINF:-1,AF: Africa TV
-http://5.196.78.122:8080/live/test5/test5/20118.ts
-#EXTINF:-1,AF: Africa TV 2
-http://5.196.78.122:8080/live/test5/test5/20117.ts
-#EXTINF:-1,AF: Africa TV 3
-http://5.196.78.122:8080/live/test5/test5/20116.ts
-#EXTINF:-1,AF: Africable
-http://5.196.78.122:8080/live/test5/test5/20388.ts
-#EXTINF:-1,AF: Africahwood TV
-http://5.196.78.122:8080/live/test5/test5/20305.ts
-#EXTINF:-1,AF: Afrique Media TV
-http://5.196.78.122:8080/live/test5/test5/19847.ts
-#EXTINF:-1,AF: AIT International ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20387.ts
-#EXTINF:-1,AF: AITInt'l
-http://5.196.78.122:8080/live/test5/test5/23239.ts
-#EXTINF:-1,AF: Amazing Discoveries TV
-http://5.196.78.122:8080/live/test5/test5/20115.ts
-#EXTINF:-1,AF: ANN 7 South Africa
-http://5.196.78.122:8080/live/test5/test5/20114.ts
-#EXTINF:-1,AF: Ben TV ( Ghana )
-http://5.196.78.122:8080/live/test5/test5/20113.ts
-#EXTINF:-1,AF: Burkina Info ( Burkina Faso )
-http://5.196.78.122:8080/live/test5/test5/20386.ts
-#EXTINF:-1,AF: Canal 2 Infos Cameroun
-http://5.196.78.122:8080/live/test5/test5/20112.ts
-#EXTINF:-1,AF: CANAL 225 ( BENIN )
-http://5.196.78.122:8080/live/test5/test5/20385.ts
-#EXTINF:-1,AF: CBC TV 8
-http://5.196.78.122:8080/live/test5/test5/23262.ts
-#EXTINF:-1,AF: Channels 24 TV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20384.ts
-#EXTINF:-1,AF: Cherifa TV ( Mali )
-http://5.196.78.122:8080/live/test5/test5/20327.ts
-#EXTINF:-1,AF: Cinestream TV
-http://5.196.78.122:8080/live/test5/test5/20111.ts
-#EXTINF:-1,AF: CNA
-http://5.196.78.122:8080/live/test5/test5/20110.ts
-#EXTINF:-1,AF: Congo TV
-http://5.196.78.122:8080/live/test5/test5/23256.ts
-#EXTINF:-1,AF: CRTV TV
-http://5.196.78.122:8080/live/test5/test5/20396.ts
-#EXTINF:-1,AF: D24
-http://5.196.78.122:8080/live/test5/test5/20109.ts
-#EXTINF:-1,AF: DABANGA SUDAN
-http://5.196.78.122:8080/live/test5/test5/23258.ts
-#EXTINF:-1,AF: DBS TV ( Cameroun )
-http://5.196.78.122:8080/live/test5/test5/20108.ts
-#EXTINF:-1,AF: DTV Senegal
-http://5.196.78.122:8080/live/test5/test5/19655.ts
-#EXTINF:-1,AF: Dunamis tv ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20107.ts
-#EXTINF:-1,AF: EBC ETHIOPIA
-http://5.196.78.122:8080/live/test5/test5/23240.ts
-#EXTINF:-1,AF: EBC2 TV
-http://5.196.78.122:8080/live/test5/test5/20106.ts
-#EXTINF:-1,AF: Emmanuel TV
-http://5.196.78.122:8080/live/test5/test5/20105.ts
-#EXTINF:-1,AF: ENN
-http://5.196.78.122:8080/live/test5/test5/20383.ts
-#EXTINF:-1,AF: Equinoxe
-http://5.196.78.122:8080/live/test5/test5/20395.ts
-#EXTINF:-1,AF: Eri TV
-http://5.196.78.122:8080/live/test5/test5/20104.ts
-#EXTINF:-1,AF: Espace TV ( Guinee )
-http://5.196.78.122:8080/live/test5/test5/20382.ts
-#EXTINF:-1,AF: Francophonie 24
-http://5.196.78.122:8080/live/test5/test5/20103.ts
-#EXTINF:-1,AF: Gabon TV
-http://5.196.78.122:8080/live/test5/test5/20466.ts
-#EXTINF:-1,AF: GRTS ( Gambia )
-http://5.196.78.122:8080/live/test5/test5/20102.ts
-#EXTINF:-1,AF: GTV
-http://5.196.78.122:8080/live/test5/test5/23261.ts
-#EXTINF:-1,AF: Gtv Sports Plus ( Ghana )
-http://5.196.78.122:8080/live/test5/test5/23241.ts
-#EXTINF:-1,AF: HC TV
-http://5.196.78.122:8080/live/test5/test5/19846.ts
-#EXTINF:-1,AF: IBN TV Africa
-http://5.196.78.122:8080/live/test5/test5/20101.ts
-#EXTINF:-1,AF: IL TV
-http://5.196.78.122:8080/live/test5/test5/23242.ts
-#EXTINF:-1,AF: Impact TV (Burkina Faso)
-http://5.196.78.122:8080/live/test5/test5/20100.ts
-#EXTINF:-1,AF: ITV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20099.ts
-#EXTINF:-1,AF: Joy News
-http://5.196.78.122:8080/live/test5/test5/23243.ts
-#EXTINF:-1,AF: Joy Prime TV ( Ghana )
-http://5.196.78.122:8080/live/test5/test5/20098.ts
-#EXTINF:-1,AF: Juice TV
-http://5.196.78.122:8080/live/test5/test5/20097.ts
-#EXTINF:-1,AF: K24 TV ( Kenya )
-http://5.196.78.122:8080/live/test5/test5/20096.ts
-#EXTINF:-1,AF: K24 TV Kenya
-http://5.196.78.122:8080/live/test5/test5/20095.ts
-#EXTINF:-1,AF: KALSAN TV
-http://5.196.78.122:8080/live/test5/test5/23269.ts
-#EXTINF:-1,AF: KBC1
-http://5.196.78.122:8080/live/test5/test5/20094.ts
-#EXTINF:-1,AF: Kedu TV ( Ghana  )
-http://5.196.78.122:8080/live/test5/test5/23272.ts
-#EXTINF:-1,AF: Kessben TV Ghana
-http://5.196.78.122:8080/live/test5/test5/20093.ts
-#EXTINF:-1,AF: Lamp Fall TV (Senegal)
-http://5.196.78.122:8080/live/test5/test5/20381.ts
-#EXTINF:-1,AF: LIBERATION TV
-http://5.196.78.122:8080/live/test5/test5/23244.ts
-#EXTINF:-1,AF: Loveworld Plus TV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20092.ts
-#EXTINF:-1,AF: Maisha TV
-http://5.196.78.122:8080/live/test5/test5/20394.ts
-#EXTINF:-1,AF: MaishaI TV
-http://5.196.78.122:8080/live/test5/test5/20091.ts
-#EXTINF:-1,AF: ManaSat MZ ( Mozambique )
-http://5.196.78.122:8080/live/test5/test5/20090.ts
-#EXTINF:-1,AF: MFM TV
-http://5.196.78.122:8080/live/test5/test5/20192.ts
-#EXTINF:-1,AF: Mourchid TV (Senegal)
-http://5.196.78.122:8080/live/test5/test5/20089.ts
-#EXTINF:-1,AF: Mouridiyah tv (Senegal)
-http://5.196.78.122:8080/live/test5/test5/20088.ts
-#EXTINF:-1,AF: Music TV Singhal
-http://5.196.78.122:8080/live/test5/test5/20087.ts
-#EXTINF:-1,AF: Ndiouroul TV ( Senegal )
-http://5.196.78.122:8080/live/test5/test5/20086.ts
-#EXTINF:-1,AF: Neem TV Congo
-http://5.196.78.122:8080/live/test5/test5/20085.ts
-#EXTINF:-1,AF: Nigezie TV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20084.ts
-#EXTINF:-1,AF: Nikadys TV
-http://5.196.78.122:8080/live/test5/test5/20304.ts
-#EXTINF:-1,AF: NollyWood French
-http://5.196.78.122:8080/live/test5/test5/20083.ts
-#EXTINF:-1,AF: Nollywood Movies
-http://5.196.78.122:8080/live/test5/test5/20082.ts
-#EXTINF:-1,AF: NollyWood TV
-http://5.196.78.122:8080/live/test5/test5/23245.ts
-#EXTINF:-1,AF: Novelas TV
-http://5.196.78.122:8080/live/test5/test5/20081.ts
-#EXTINF:-1,AF: NTAi ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20080.ts
-#EXTINF:-1,AF: NTV ( Uganda )
-http://5.196.78.122:8080/live/test5/test5/20079.ts
-#EXTINF:-1,AF: Ole Tfm
-http://5.196.78.122:8080/live/test5/test5/20078.ts
-#EXTINF:-1,AF: Oromia Sudan
-http://5.196.78.122:8080/live/test5/test5/20077.ts
-#EXTINF:-1,AF: Ortb TV
-http://5.196.78.122:8080/live/test5/test5/23279.ts
-#EXTINF:-1,AF: ORTM AFRICA
-http://5.196.78.122:8080/live/test5/test5/23246.ts
-#EXTINF:-1,AF: ORTM TV
-http://5.196.78.122:8080/live/test5/test5/23283.ts
-#EXTINF:-1,AF: Qacaid TV
-http://5.196.78.122:8080/live/test5/test5/20076.ts
-#EXTINF:-1,AF: Rave TV (Nigeria)
-http://5.196.78.122:8080/live/test5/test5/23285.ts
-#EXTINF:-1,AF: Rok TV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20380.ts
-#EXTINF:-1,AF: Royal TV Somali
-http://5.196.78.122:8080/live/test5/test5/20075.ts
-#EXTINF:-1,AF: Rtb
-http://5.196.78.122:8080/live/test5/test5/23260.ts
-#EXTINF:-1,AF: RTG ( Guiniea )
-http://5.196.78.122:8080/live/test5/test5/19898.ts
-#EXTINF:-1,AF: RTI 1
-http://5.196.78.122:8080/live/test5/test5/23247.ts
-#EXTINF:-1,AF: RTI LA PREMIERE
-http://5.196.78.122:8080/live/test5/test5/23248.ts
-#EXTINF:-1,AF: RTI1 TV Cote D'ivoir
-http://5.196.78.122:8080/live/test5/test5/23255.ts
-#EXTINF:-1,AF: RTI2 TV
-http://5.196.78.122:8080/live/test5/test5/23250.ts
-#EXTINF:-1,AF: RTI2 TV ( Cote d'Ivoir )
-http://5.196.78.122:8080/live/test5/test5/20074.ts
-#EXTINF:-1,AF: RTI2 TV Cote D'ivoir
-http://5.196.78.122:8080/live/test5/test5/23251.ts
-#EXTINF:-1,AF: RTN TV ( Gabon )
-http://5.196.78.122:8080/live/test5/test5/20073.ts
-#EXTINF:-1,AF: RTNC
-http://5.196.78.122:8080/live/test5/test5/20393.ts
-#EXTINF:-1,AF: RTS 1 AFRICA
-http://5.196.78.122:8080/live/test5/test5/23252.ts
-#EXTINF:-1,AF: RTS1 Senegal
-http://5.196.78.122:8080/live/test5/test5/23254.ts
-#EXTINF:-1,AF: RTS2 (SN2) (Senegal)
-http://5.196.78.122:8080/live/test5/test5/23253.ts
-#EXTINF:-1,AF: RTV Rwanda
-http://5.196.78.122:8080/live/test5/test5/23257.ts
-#EXTINF:-1,AF: Rwanda tv
-http://5.196.78.122:8080/live/test5/test5/20072.ts
-#EXTINF:-1,AF: SBC ( Somalia )
-http://5.196.78.122:8080/live/test5/test5/20379.ts
-#EXTINF:-1,AF: Sen TV
-http://5.196.78.122:8080/live/test5/test5/23267.ts
-#EXTINF:-1,AF: SIKKA TV
-http://5.196.78.122:8080/live/test5/test5/23259.ts
-#EXTINF:-1,AF: SNTV
-http://5.196.78.122:8080/live/test5/test5/23268.ts
-#EXTINF:-1,AF: SOMALI CABLE
-http://5.196.78.122:8080/live/test5/test5/23238.ts
-#EXTINF:-1,AF: Sudan Drama
-http://5.196.78.122:8080/live/test5/test5/23266.ts
-#EXTINF:-1,AF: Tafawoq
-http://5.196.78.122:8080/live/test5/test5/23270.ts
-#EXTINF:-1,AF: Tchad TV
-http://5.196.78.122:8080/live/test5/test5/20071.ts
-#EXTINF:-1,AF: TCV Cape Verde
-http://5.196.78.122:8080/live/test5/test5/20070.ts
-#EXTINF:-1,AF: Tele Congo
-http://5.196.78.122:8080/live/test5/test5/20069.ts
-#EXTINF:-1,AF: Tele Djibouti
-http://5.196.78.122:8080/live/test5/test5/20068.ts
-#EXTINF:-1,AF: Tele Sahel ( Niger )
-http://5.196.78.122:8080/live/test5/test5/20067.ts
-#EXTINF:-1,AF: Tele sud
-http://5.196.78.122:8080/live/test5/test5/23274.ts
-#EXTINF:-1,AF: TFM (Senegal)
-http://5.196.78.122:8080/live/test5/test5/23263.ts
-#EXTINF:-1,AF: TFM OLE ( Senegal )
-http://5.196.78.122:8080/live/test5/test5/20066.ts
-#EXTINF:-1,AF: TFM Religions
-http://5.196.78.122:8080/live/test5/test5/20065.ts
-#EXTINF:-1,AF: TFM SENEGAL
-http://5.196.78.122:8080/live/test5/test5/23265.ts
-#EXTINF:-1,AF: Tm2 TV
-http://5.196.78.122:8080/live/test5/test5/23277.ts
-#EXTINF:-1,AF: Touba Mondebi
-http://5.196.78.122:8080/live/test5/test5/20064.ts
-#EXTINF:-1,AF: TOUBA TV (Senegal)
-http://5.196.78.122:8080/live/test5/test5/20378.ts
-#EXTINF:-1,AF: TPA Angola
-http://5.196.78.122:8080/live/test5/test5/23264.ts
-#EXTINF:-1,AF: Trace Africa
-http://5.196.78.122:8080/live/test5/test5/20063.ts
-#EXTINF:-1,AF: TV Continental Nigeria
-http://5.196.78.122:8080/live/test5/test5/23271.ts
-#EXTINF:-1,AF: TV Mana
-http://5.196.78.122:8080/live/test5/test5/20062.ts
-#EXTINF:-1,AF: TV Mana-Maputo
-http://5.196.78.122:8080/live/test5/test5/20061.ts
-#EXTINF:-1,AF: TV3 Live
-http://5.196.78.122:8080/live/test5/test5/20377.ts
-#EXTINF:-1,AF: TVC News ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20060.ts
-#EXTINF:-1,AF: Tvs1 TV
-http://5.196.78.122:8080/live/test5/test5/23273.ts
-#EXTINF:-1,AF: TVT International ( Togo )
-http://5.196.78.122:8080/live/test5/test5/20392.ts
-#EXTINF:-1,AF: Universal TV
-http://5.196.78.122:8080/live/test5/test5/23276.ts
-#EXTINF:-1,AF: UNIVERSEL SOMALI TV
-http://5.196.78.122:8080/live/test5/test5/23275.ts
-#EXTINF:-1,AF: Vision 4
-http://5.196.78.122:8080/live/test5/test5/20059.ts
-#EXTINF:-1,AF: Vox Africa
-http://5.196.78.122:8080/live/test5/test5/23282.ts
-#EXTINF:-1,AF: Walf TV
-http://5.196.78.122:8080/live/test5/test5/23280.ts
-#EXTINF:-1,AF: WAP TV ( Nigeria )
-http://5.196.78.122:8080/live/test5/test5/20303.ts
-#EXTINF:-1,AF: Wazobia TV
-http://5.196.78.122:8080/live/test5/test5/23281.ts
-#EXTINF:-1,AF: ZTV Ghana
-http://5.196.78.122:8080/live/test5/test5/23284.ts
 
 
-
-
-
+#EXTINF:-1,AF:2stv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5289.ts
+#EXTINF:-1,AF:CRTV TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5293.ts
+#EXTINF:-1,AF:Diaspora24 Senegal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5294.ts
+#EXTINF:-1,AF:Digital Congo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5295.ts
+#EXTINF:-1,AF:EBC ethiopie
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5315.ts
+#EXTINF:-1,AF:Eriteria TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5298.ts
+#EXTINF:-1,AF:GRTS TV Gambia
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5300.ts
+#EXTINF:-1,AF:GTV Ghana
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5316.ts
+#EXTINF:-1,AF:HCTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5301.ts
+#EXTINF:-1,AF:Joy News Ghana
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5317.ts
+#EXTINF:-1,AF:Lamp Fall TV Senegal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5304.ts
+#EXTINF:-1,AF:LOVEWORLD PLUS NIGERIA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5305.ts
+#EXTINF:-1,AF:MUSICTV Senegal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5307.ts
+#EXTINF:-1,AF:Nollywood Movies
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5308.ts
+#EXTINF:-1,AF:PEACE TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5319.ts
+#EXTINF:-1,AF:RTB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5320.ts
+#EXTINF:-1,AF:RTD Djibouti
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5321.ts
+#EXTINF:-1,AF:RTGA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5322.ts
+#EXTINF:-1,AF:RTi1 Cote d'ivoire
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5323.ts
+#EXTINF:-1,AF:RTi2 Cote d'ivoire
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5324.ts
+#EXTINF:-1,AF:rts1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5326.ts
+#EXTINF:-1,AF:RTS1 Senegal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5310.ts
+#EXTINF:-1,AF:RWANDA TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5328.ts
+#EXTINF:-1,AF:Southern Sudan
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5330.ts
+#EXTINF:-1,AF:Sudan Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5311.ts
+#EXTINF:-1,AF:Tele Congo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5331.ts
+#EXTINF:-1,AF:Tele Tchad
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5332.ts
+#EXTINF:-1,AF:TM2 MALI
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5333.ts
+#EXTINF:-1,AF:TOUBA TV Senegal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5312.ts
+#EXTINF:-1,AF:Universal Somali TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5334.ts
+#EXTINF:-1,Af:Walf tv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5313.ts
+#EXTINF:-1,AF:Africa News Network 7
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5290.ts
+#EXTINF:-1,AF:Africable
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5291.ts
+#EXTINF:-1,AF:Afrique Media
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5292.ts
+#EXTINF:-1,AF:DIVINE TRUTH (SOUTH AFRICA)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5314.ts
+#EXTINF:-1,AF:EWTN Africa India
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5299.ts
+#EXTINF:-1,AF:MUSIC TV AFRICA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5318.ts
+#EXTINF:-1,AF:Somali Africa TV4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5329.ts
