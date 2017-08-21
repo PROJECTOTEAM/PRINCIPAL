@@ -3,29 +3,122 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
+#EXTINF:-1,SC:TV 10 Sweden
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1371.ts
 
-#EXTINF:-1,STV Nyheter SE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14045.ts
-#EXTINF:-1,Suisse: 3+
-https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
-#EXTINF:-1,Suisse: SRF 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13626.ts
-#EXTINF:-1,Suisse: SRF 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13627.ts
-#EXTINF:-1,Suisse: SRF Info
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13827.ts
-#EXTINF:-1,Suisse: Teleclub Cinema
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13630.ts
-#EXTINF:-1,Suisse: Teleclub Prime HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13632.ts
-#EXTINF:-1,Suisse: TeleClub Sport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13631.ts
-#EXTINF:-1,Suisse: TeleClub Sport Flash HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13629.ts
-#EXTINF:-1,Suisse: Teleclub Sports Flash HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15075.ts
-#EXTINF:-1,Suisse: TeleClub Star
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13633.ts
+#EXTINF:-1,SE EXTRA | Boomerang ( SE )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6232.ts
+#EXTINF:-1,SE EXTRA | C MORE EMOTION
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6182.ts
+#EXTINF:-1,SE EXTRA | C MORE FIRST
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6181.ts
+#EXTINF:-1,SE EXTRA | C MORE GOLF HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6231.ts
+#EXTINF:-1,SE EXTRA | C More Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6203.ts
+#EXTINF:-1,SE EXTRA | C MORE SPORT
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6180.ts
+#EXTINF:-1,SE EXTRA | Disney XD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6205.ts
+#EXTINF:-1,SE EXTRA | FOX ( SE )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6228.ts
+#EXTINF:-1,SE EXTRA | JIM ( FIN )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6227.ts
+#EXTINF:-1,SE EXTRA | Kanal 11 sw
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6193.ts
+#EXTINF:-1,SE EXTRA | Kanal 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6206.ts
+#EXTINF:-1,SE EXTRA | Kanala 9
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6226.ts
+#EXTINF:-1,SE EXTRA | LIV ( FIN )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6225.ts
+#EXTINF:-1,SE EXTRA | MAX NORGE ( FIN )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6224.ts
+#EXTINF:-1,SE EXTRA | MTV FAKTA ( FIN )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6223.ts
+#EXTINF:-1,SE EXTRA | MTV JINIORI
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6222.ts
+#EXTINF:-1,SE EXTRA | MTV Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6229.ts
+#EXTINF:-1,SE EXTRA | Nelonen
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6221.ts
+#EXTINF:-1,SE EXTRA | NELONEN MAALIMA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6220.ts
+#EXTINF:-1,SE EXTRA | NELONEN PRIME
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6219.ts
+#EXTINF:-1,SE EXTRA | NRK 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6204.ts
+#EXTINF:-1,SE EXTRA | NRK 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6185.ts
+#EXTINF:-1,SE EXTRA | SUB ( FIN )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6218.ts
+#EXTINF:-1,SE EXTRA | SVT1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6187.ts
+#EXTINF:-1,SE EXTRA | SVT2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6186.ts
+#EXTINF:-1,SE EXTRA | TV 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6207.ts
+#EXTINF:-1,SE EXTRA | TV10
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6192.ts
+#EXTINF:-1,SE EXTRA | TV2 Sport
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6175.ts
+#EXTINF:-1,SE EXTRA | TV3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6184.ts
+#EXTINF:-1,SE EXTRA | TV3 Puls
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6176.ts
+#EXTINF:-1,SE EXTRA | TV3 Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6196.ts
+#EXTINF:-1,SE EXTRA | TV3 Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6217.ts
+#EXTINF:-1,SE EXTRA | TV4 Fakta XL ( se )
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6216.ts
+#EXTINF:-1,SE EXTRA | TV4 Film
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6183.ts
+#EXTINF:-1,SE EXTRA | TV4 Guld
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6188.ts
+#EXTINF:-1,SE EXTRA | TV6
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6195.ts
+#EXTINF:-1,SE EXTRA | TV7 Plus
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6208.ts
+#EXTINF:-1,SE EXTRA | TV8
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6191.ts
+#EXTINF:-1,SE EXTRA | Viasat Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6201.ts
+#EXTINF:-1,SE EXTRA | Viasat Film Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6179.ts
+#EXTINF:-1,SE EXTRA | Viasat Film Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6178.ts
+#EXTINF:-1,SE EXTRA | Viasat Film Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6200.ts
+#EXTINF:-1,SE EXTRA | Viasat Film Premier
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6199.ts
+#EXTINF:-1,SE EXTRA | Viasat Fotboll HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6198.ts
+#EXTINF:-1,SE EXTRA | Viasat Golf HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6215.ts
+#EXTINF:-1,SE EXTRA | Viasat Hockey
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6214.ts
+#EXTINF:-1,SE EXTRA | Viasat Motor HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6213.ts
+#EXTINF:-1,SE EXTRA | Viasat Series
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6177.ts
+#EXTINF:-1,SE EXTRA | VIASAT Sport
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6202.ts
+#EXTINF:-1,SE EXTRA | Viasat Sport HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6212.ts
+#EXTINF:-1,SE EXTRA | Vox Norway
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6190.ts
+#EXTINF:-1,SE EXTRA | YLE 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6211.ts
+#EXTINF:-1,SE EXTRA | YLE 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6210.ts
+#EXTINF:-1,ARENA SPORT 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8089.ts
+#EXTINF:-1,ARENA SPORT 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8091.ts
+#EXTINF:-1,ARENA SPORT 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8092.ts
+#EXTINF:-1,===== ITALY =====

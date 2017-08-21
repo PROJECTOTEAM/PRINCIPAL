@@ -1,310 +1,247 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:2700,ZDF
-http://37.152.128.66:6508/play/a007
-#EXTINF:0,Dlf Kultur
-http://37.152.128.66:6508/play/a004
-#EXTINF:0,Dlf
-http://37.152.128.66:6508/play/a005
-#EXTINF:0,3sat
-http://37.152.128.66:6508/play/a003
-#EXTINF:0,ZDFinfo
-http://37.152.128.66:6508/play/a009
-#EXTINF:0,KiKA
-http://37.152.128.66:6508/play/a006
-#EXTINF:0,zdf_neo
-http://37.152.128.66:6508/play/a008
-#EXTM3U
-#EXTINF:0,SWR Fernsehen BW
-http://37.152.128.66:6509/play/a00y
-#EXTINF:0,hr-fernsehen
-http://37.152.128.66:6509/play/a00v
-#EXTINF:0,Das Erste
-http://37.152.128.66:6509/play/a00t
-#EXTINF:0,BR Fernsehen Süd
-http://37.152.128.66:6509/play/a00u
-#EXTINF:0,BR Fernsehen Nord
-http://37.152.128.66:6509/play/a00w
-#EXTINF:0,WDR Köln
-http://37.152.128.66:6509/play/a00x
-
-
-
-
-
-
-#EXTINF:-1,†Hist‡ory †HD‡
-http://188.62.160.32:26000/play/a04r
-#EXTINF:-1,Sky †Atlantic‡ †HD‡
-http://188.62.160.32:26000/play/a049
-#EXTINF:-1,Sky †Sport‡ †HD 1‡
-http://188.62.160.32:26000/play/a041
-#EXTINF:-1,Junior
-http://188.62.160.32:26000/play/a053
-#EXTINF:-1,†Sport1+‡ †HD‡
-http://188.62.160.32:26000/play/a04t
-#EXTINF:-1,Sky †Sport‡ †HD 2‡
-http://188.62.160.32:26000/play/a05r
-#EXTINF:-1,†TNT‡ †Serie‡ †HD‡
-http://188.62.160.32:26000/play/a04u
-#EXTINF:-1,†N‡at †G‡eo †Wild‡ †HD‡
-http://188.62.160.32:26000/play/a040
-#EXTINF:-1,Sky †Comedy‡
-http://188.62.160.32:26000/play/a050
-#EXTINF:-1,†Disney‡ †J‡unio†r‡
-http://188.62.160.32:26000/play/a055
-#EXTINF:-1,Classica
-http://188.62.160.32:26000/play/a054
-#EXTINF:-1,Sky †Action HD‡
-http://188.62.160.32:26000/play/a04s
-#EXTINF:-1,†Sky‡ †Hits‡ †HD‡
-http://188.62.160.32:26000/play/a04j
-#EXTINF:-1,Syfy HD
-http://188.62.160.32:26000/play/a04m
-#EXTINF:-1,†Sky‡ †Cine‡ma †HD‡
-http://188.62.160.32:26000/play/a043
-#EXTINF:-1,†NatGeo‡ †HD‡
-http://188.62.160.32:26000/play/a04b
-#EXTINF:-1,†Disney‡ †XD‡
-http://188.62.160.32:26000/play/a056
-#EXTINF:-1,†Disc‡overy †HD‡
-http://188.62.160.32:26000/play/a042
-#EXTINF:-1,†Eurosp‡ort †1 HD‡
-http://188.62.160.32:26000/play/a04v
-#EXTINF:-1,Sky †Action‡
-http://188.62.160.32:26000/play/a051
-#EXTINF:-1,†13th St‡reet† HD‡
-http://188.62.160.32:26000/play/a04d
-#EXTINF:-1,†Disney‡ †Cin‡emagic †HD‡
-http://188.62.160.32:26000/play/a04a
-#EXTINF:-1,†Sky Bu‡ndes†li‡ga †HD 1‡
-http://188.62.160.32:26000/play/a04i
-#EXTINF:-1,Sky †Sport‡ †News‡ †HD‡
-http://188.62.160.32:26000/play/a04k
-#EXTINF:-1,†Sky‡ †Cine‡ma+†1‡
-http://188.62.160.32:26000/play/a052
-#EXTINF:-1,†TNT Film‡ (TCM)
-http://188.62.160.32:26000/play/a044
-#EXTINF:-1,†Sky‡ †Cine‡ma+†24‡
-http://188.62.160.32:26000/play/a057
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,DE: 13th Street
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68152.ts
-#EXTINF:-1,DE: ATV
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68112.ts
-#EXTINF:-1,DE: Boomerang
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68180.ts
-#EXTINF:-1,DE: CINEMA
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68125.ts
-#EXTINF:-1,DE: CINEMA HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68124.ts
-#EXTINF:-1,DE: Das Erste
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68153.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68154.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68155.ts
-#EXTINF:-1,DE: DMAX
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68156.ts
-#EXTINF:-1,DE: FC Bayern tv
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68203.ts
-#EXTINF:-1,DE: FOX HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68157.ts
-#EXTINF:-1,DE: History Channel HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68158.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68159.ts
-#EXTINF:-1,DE: Kika
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68160.ts
-#EXTINF:-1,DE: N24
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68161.ts
-#EXTINF:-1,DE: National Geographic Channel
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68162.ts
-#EXTINF:-1,DE: National Geographic Wild
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68163.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68205.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68204.ts
-#EXTINF:-1,DE: PRIME
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68123.ts
-#EXTINF:-1,DE: PRIME HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68122.ts
-#EXTINF:-1,DE: Pro 7
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68164.ts
-#EXTINF:-1,DE: Puls 4
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68111.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68165.ts
-#EXTINF:-1,De: RTL HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68166.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68167.ts
-#EXTINF:-1,DE: RTL Passion
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68168.ts
-#EXTINF:-1,DE: SAT 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68169.ts
-#EXTINF:-1,DE: Sixx HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68170.ts
-#EXTINF:-1,DE: Sky Action HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68171.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68172.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68173.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68174.ts
-#EXTINF:-1,DE: Sky Bundesliga 3
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68175.ts
-#EXTINF:-1,DE: Sky Bundesliga 4
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68176.ts
-#EXTINF:-1,DE: Sky Bundesliga 5
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68177.ts
-#EXTINF:-1,DE: Sky Bundesliga 6
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68178.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68179.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68151.ts
-#EXTINF:-1,DE: Sky Comedy
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68181.ts
-#EXTINF:-1,DE: Sky Emotion
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68182.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68183.ts
-#EXTINF:-1,DE: Sky Select HD 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68184.ts
-#EXTINF:-1,DE: Sky Select HD 10
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68185.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68186.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68187.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68188.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68189.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68190.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68191.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68192.ts
-#EXTINF:-1,DE: Sky Select HD 9
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68193.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68194.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68195.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68121.ts
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68120.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68110.ts
-#EXTINF:-1,DE: Sky Sport News
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68196.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68109.ts
-#EXTINF:-1,DE: SPORT 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68119.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68197.ts
-#EXTINF:-1,DE: SPORT 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68118.ts
-#EXTINF:-1,DE: STAR
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68117.ts
-#EXTINF:-1,DE: STAR HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68116.ts
-#EXTINF:-1,DE: Super RTL
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68198.ts
-#EXTINF:-1,DE: Syfy
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68199.ts
-#EXTINF:-1,DE: TNT Serie
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68200.ts
-#EXTINF:-1,DE: VOX HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68201.ts
-#EXTINF:-1,DE: ZDF HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68202.ts
-#EXTINF:-1,DE:13TH STREET
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68150.ts
-#EXTINF:-1,DE:13TH STREET HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68149.ts
-#EXTINF:-1,DE:ANIMAL PLANET
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68148.ts
-#EXTINF:-1,DE:CARTOON NETWORK HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68147.ts
-#EXTINF:-1,DE:DISCOVERY
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68146.ts
-#EXTINF:-1,DE:DISCOVERY HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68145.ts
-#EXTINF:-1,DE:DISNEY CINEMAGIC
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68144.ts
-#EXTINF:-1,DE:DISNEY CINEMAGIC HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68143.ts
-#EXTINF:-1,DE:DISNEY XD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68142.ts
-#EXTINF:-1,DE:FOX
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68141.ts
-#EXTINF:-1,DE:FOX HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68140.ts
-#EXTINF:-1,DE:HISTORY HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68139.ts
-#EXTINF:-1,DE:KRIMI
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68138.ts
-#EXTINF:-1,DE:NAT GEO HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68137.ts
-#EXTINF:-1,DE:NAT GEO WILD HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68136.ts
-#EXTINF:-1,DE:ROMANCE TV HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68135.ts
-#EXTINF:-1,DE:SFR SPORT 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68134.ts
-#EXTINF:-1,DE:SKY 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68133.ts
-#EXTINF:-1,DE:SKY ATLANTIC
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68132.ts
-#EXTINF:-1,DE:SKY ATLANTIC HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68131.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68130.ts
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68129.ts
-#EXTINF:-1,DE:SKY SPORT 1
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68128.ts
-#EXTINF:-1,DE:SKY SPORT 1 HD
-http://123456789.blogdns.org:8000/live/tonyteleg/XVnVV4thMw/68127.ts
+#EXTINF:-1,[DE] TNT Serie
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/529.ts
+#EXTINF:-1,[DE] TNT Glitz HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/530.ts
+#EXTINF:-1,[DE] TNT Film
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/531.ts
+#EXTINF:-1,[DE] TNT Comedy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/532.ts
+#EXTINF:-1,[DE] Super RTL
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/533.ts
+#EXTINF:-1,[DE] Sky Sport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/535.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/536.ts
+#EXTINF:-1,[DE] Sky Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/537.ts
+#EXTINF:-1,[DE] Sky Nostalgie
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/538.ts
+#EXTINF:-1,[DE] Sky Krimi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/539.ts
+#EXTINF:-1,[DE] Sky Emotion
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/541.ts
+#EXTINF:-1,[DE] Sky Cinema HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/542.ts
+#EXTINF:-1,[DE] Sky Cinema  24 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/543.ts
+#EXTINF:-1,[DE] Sky Cinema  1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/544.ts
+#EXTINF:-1,[DE] Sky Atlantic HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/545.ts
+#EXTINF:-1,[DE] Sky Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/546.ts
+#EXTINF:-1,[DE] Sat 1 Gold
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/547.ts
+#EXTINF:-1,[DE] RTL Passion
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/549.ts
+#EXTINF:-1,[DE] RTL Nitro
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/550.ts
+#EXTINF:-1,[DE] RTL Living
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/551.ts
+#EXTINF:-1,[DE] RTL Crime
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/552.ts
+#EXTINF:-1,[DE] RTL 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/553.ts
+#EXTINF:-1,[DE] Prosieben
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/554.ts
+#EXTINF:-1,[DE] Pro 7 Max
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/555.ts
+#EXTINF:-1,[DE] Nick Jr
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/556.ts
+#EXTINF:-1,[DE] Nat Geo Wild HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/557.ts
+#EXTINF:-1,[DE] Nat Geo HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/558.ts
+#EXTINF:-1,[DE] MGM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/559.ts
+#EXTINF:-1,[DE] Fox
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/561.ts
+#EXTINF:-1,[DE] Disneycinemagic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/562.ts
+#EXTINF:-1,[DE] Disney XD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/563.ts
+#EXTINF:-1,[DE] Disney Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/564.ts
+#EXTINF:-1,[DE] Discovery HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/565.ts
+#EXTINF:-1,[DE] Discovery
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/566.ts
+#EXTINF:-1,[DE] Cartoon Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/568.ts
+#EXTINF:-1,[DE] Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/569.ts
+#EXTINF:-1,[DE] 13TH Street
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/570.ts
+#EXTINF:-1,DE EX:ARD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9485.ts
+#EXTINF:-1,DE EX:Axn HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9486.ts
+#EXTINF:-1,DE EX:Boomerang
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9487.ts
+#EXTINF:-1,DE EX:Cartoon Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9488.ts
+#EXTINF:-1,DE EX:DE: Pro 7
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9489.ts
+#EXTINF:-1,DE EX:Discovery Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9490.ts
+#EXTINF:-1,DE EX:Disney Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9491.ts
+#EXTINF:-1,DE EX:Disney Cinemagic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9492.ts
+#EXTINF:-1,DE EX:Disney Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9493.ts
+#EXTINF:-1,DE EX:Disney Xd
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9494.ts
+#EXTINF:-1,DE EX:Dmax
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9495.ts
+#EXTINF:-1,DE EX:Eurosport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9496.ts
+#EXTINF:-1,DE EX:Eurosport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9497.ts
+#EXTINF:-1,DE EX:FOX HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9498.ts
+#EXTINF:-1,DE EX:Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9499.ts
+#EXTINF:-1,DE EX:Kabel 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9500.ts
+#EXTINF:-1,DE EX:Kika
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9501.ts
+#EXTINF:-1,DE EX:Kino Welt
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9502.ts
+#EXTINF:-1,DE EX:National Geographic HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9503.ts
+#EXTINF:-1,DE EX:Pro 7 Maxx
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9505.ts
+#EXTINF:-1,DE EX:Romance TV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9506.ts
+#EXTINF:-1,DE EX:RTL 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9507.ts
+#EXTINF:-1,DE EX:RTL Crime
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9508.ts
+#EXTINF:-1,DE EX:RTL HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9509.ts
+#EXTINF:-1,DE EX:Rtl Living
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9510.ts
+#EXTINF:-1,DE EX:RTL Nitro
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9511.ts
+#EXTINF:-1,DE EX:Rtl passion
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9512.ts
+#EXTINF:-1,DE EX:RTL Plus
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9513.ts
+#EXTINF:-1,DE EX:Sat 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9514.ts
+#EXTINF:-1,DE EX:Sixx HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9515.ts
+#EXTINF:-1,DE EX:Sky  Hits HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9516.ts
+#EXTINF:-1,DE EX:Sky Atlantic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9517.ts
+#EXTINF:-1,DE EX:Sky Germany 13 TH HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9518.ts
+#EXTINF:-1,DE EX:Sky Germany Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9519.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9526.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9525.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9524.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9523.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9522.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9521.ts
+#EXTINF:-1,DE EX:Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9520.ts
+#EXTINF:-1,DE EX:Sky Germany Cinema   24 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9527.ts
+#EXTINF:-1,DE EX:Sky Germany Cinema  Emotion
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9528.ts
+#EXTINF:-1,DE EX:Sky Germany Cinema Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9529.ts
+#EXTINF:-1,DE EX:Sky Germany Cinema HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9530.ts
+#EXTINF:-1,DE EX:Sky Germany Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9531.ts
+#EXTINF:-1,DE EX:Sky Germany History Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9532.ts
+#EXTINF:-1,DE EX:Sky Germany Krimi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9533.ts
+#EXTINF:-1,DE EX:Sky Germany NatGeo Wild HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9534.ts
+#EXTINF:-1,DE EX:Sky Germany Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9536.ts
+#EXTINF:-1,DE EX:Sky Germany Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9535.ts
+#EXTINF:-1,DE EX:Sky Germany TNT Serie HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9537.ts
+#EXTINF:-1,DE EX:Sky Select 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9554.ts
+#EXTINF:-1,DE EX:Sky Select 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9553.ts
+#EXTINF:-1,DE EX:Sky Select 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9552.ts
+#EXTINF:-1,DE EX:Sky Select 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9551.ts
+#EXTINF:-1,DE EX:Sky Select 5 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9550.ts
+#EXTINF:-1,DE EX:Sky Select 6 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9549.ts
+#EXTINF:-1,DE EX:Sky Select 7 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9548.ts
+#EXTINF:-1,DE EX:Sky Select 8 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9547.ts
+#EXTINF:-1,DE EX:Sky Sport 10 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9539.ts
+#EXTINF:-1,DE EX:Sky Sport 11 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9538.ts
+#EXTINF:-1,DE EX:Sky Sport 3 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9546.ts
+#EXTINF:-1,DE EX:Sky Sport 4 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9545.ts
+#EXTINF:-1,DE EX:Sky Sport 5 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9544.ts
+#EXTINF:-1,DE EX:Sky Sport 6 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9543.ts
+#EXTINF:-1,DE EX:Sky Sport 7 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9542.ts
+#EXTINF:-1,DE EX:Sky Sport 8 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9541.ts
+#EXTINF:-1,DE EX:Sky Sport 9 HD (ONLY ON MATCHDAY)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9540.ts
+#EXTINF:-1,DE EX:Sky Sport News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9555.ts
+#EXTINF:-1,DE EX:Sky Syfy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9556.ts
+#EXTINF:-1,DE EX:SKY TNT FILM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9557.ts
+#EXTINF:-1,DE EX:Sony HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9558.ts
+#EXTINF:-1,DE EX:Spiegel TV Geschichte
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9559.ts
+#EXTINF:-1,DE EX:Sport 1 US
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9560.ts
+#EXTINF:-1,DE EX:Sport1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9561.ts
+#EXTINF:-1,DE EX:Super Rtl
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9562.ts
+#EXTINF:-1,DE EX:TLC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9563.ts
+#EXTINF:-1,DE EX:TNT Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9564.ts
+#EXTINF:-1,DE EX:Universal Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9565.ts
+#EXTINF:-1,DE EX:VOX HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9566.ts
+#EXTINF:-1,DE EX:ZDF HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9567.ts
+#EXTINF:-1,DE EX:Zee One
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9568.ts

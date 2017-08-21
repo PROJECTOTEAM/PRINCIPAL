@@ -1,30 +1,100 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTM3U
-#EXTINF:-1,PBS America
+#EXTINF:0,PBS America
 http://185.22.78.73:3311/play/a008
-#EXTINF:-1,TV5 MONDE
+#EXTINF:0,TV5 MONDE
 http://185.22.78.73:3311/play/a003
-#EXTINF:-1,True Crime
+#EXTINF:0,True Crime
 http://185.22.78.73:3311/play/a002
-#EXTINF:-1,At The Races
+#EXTINF:0,At The Races
 http://185.22.78.73:3311/play/a00a
-#EXTINF:-1,YourTV
+#EXTINF:0,YourTV
 http://185.22.78.73:3311/play/a007
-#EXTINF:-1,Babenation
+#EXTINF:0,Babenation
 http://185.22.78.73:3311/play/a004
-#EXTINF:-1,QUEST
+#EXTINF:0,QUEST
 http://185.22.78.73:3311/play/a009
-#EXTINF:-1,FRANCE Eng
+#EXTINF:0,FRANCE Eng
 http://185.22.78.73:3311/play/a006
-#EXTINF:-1,Food Network
+#EXTINF:0,Food Network
 http://185.22.78.73:3311/play/a005
+#EXTINF:0,4seven
+http://185.22.78.73:3313/play/a007
+#EXTINF:0,Channel 4 HD
+http://185.22.78.73:3313/play/a008
+#EXTINF:0,Challenge
+http://185.22.78.73:3313/play/a002
+#EXTINF:0,Forces TV
+http://185.22.78.73:3313/play/a003
+#EXTINF:0,Eden
+http://185.22.78.73:3314/play/a00f
+#EXTINF:0,alibi
+http://185.22.78.73:3314/play/a00l
+#EXTINF:0,YESTERDAY
+http://185.22.78.73:3314/play/a00h
+#EXTINF:0,GOLD
+http://185.22.78.73:3314/play/a00g
+#EXTINF:0,Drama
+http://185.22.78.73:3314/play/a00m
+#EXTINF:0,Really
+http://185.22.78.73:3314/play/a00n
+#EXTINF:0,Dave
+http://185.22.78.73:3314/play/a00i
+#EXTINF:0,Good Food
+http://185.22.78.73:3314/play/a00j
+#EXTINF:0,Home
+http://185.22.78.73:3314/play/a00e
+#EXTINF:0,W
+http://185.22.78.73:3314/play/a00k
+#EXTINF:0,MTV DANCE
+http://185.22.78.73:3331/play/a010
+#EXTINF:0,MTV ROCKS
+http://185.22.78.73:3331/play/a00t
+#EXTINF:0,MTV MUSIC
+http://185.22.78.73:3331/play/a00z
+#EXTINF:0,VIVA
+http://185.22.78.73:3331/play/a00x
+#EXTINF:0,MTV CLASSIC
+http://185.22.78.73:3331/play/a00w
+#EXTINF:0,MTV BASE
+http://185.22.78.73:3331/play/a00v
+#EXTINF:0,MTV HITS
+http://185.22.78.73:3331/play/a00u
+#EXTINF:0,The Box
+http://185.22.78.73:3331/play/a015
+#EXTINF:0,Magic
+http://185.22.78.73:3331/play/a019
+#EXTINF:0,MTV
+http://185.22.78.73:3331/play/a00y
+#EXTINF:0,VH1
+http://185.22.78.73:3331/play/a00s
+#EXTINF:0,KISS
+http://185.22.78.73:3331/play/a017
+#EXTINF:0,Kerrang!
+http://185.22.78.73:3331/play/a016
+#EXTINF:0,Box Hits
+http://185.22.78.73:3331/play/a012
+#EXTINF:0,Box Upfront
+http://185.22.78.73:3331/play/a018
+#EXTINF:0,BBC Two HD
+http://185.22.78.73:3336/play/a00d
+#EXTINF:0,BBC One HD
+http://185.22.78.73:3336/play/a00e
+#EXTINF:0,eir Sport 1
+http://185.22.78.73:3337/play/a003
+#EXTINF:0,movies4men
+http://185.22.78.73:3337/play/a002
+#EXTINF:0,Sony Movies
+http://185.22.78.73:3337/play/a005
+#EXTINF:0,Premier Sports
+http://185.22.78.73:3337/play/a004
+#EXTINF:0,Racing UK
+http://185.22.78.73:3337/play/a006
 
 
 
@@ -36,724 +106,1239 @@ http://185.22.78.73:3311/play/a005
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,CA: ABC Spark HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15243.ts
-#EXTINF:-1,CA: CBC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16855.ts
-#EXTINF:-1,CA: CBC Vancover
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16853.ts
-#EXTINF:-1,CA: CBN News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3872.ts
-#EXTINF:-1,CA: CHCH HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17854.ts
-#EXTINF:-1,CA: CP24 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16821.ts
-#EXTINF:-1,CA: CTV 2 Vancover Island
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17853.ts
-#EXTINF:-1,CA: CityTV Vancouver
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16815.ts
-#EXTINF:-1,CA: Discovery Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17856.ts
-#EXTINF:-1,CA: Family CHRGD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15246.ts
-#EXTINF:-1,CA: Family HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16825.ts
-#EXTINF:-1,CA: CityTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17857.ts
-#EXTINF:-1,CA: Global BC
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16833.ts
-#EXTINF:-1,CA: Global Calgary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17851.ts
-#EXTINF:-1,CA: Global HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16832.ts
-#EXTINF:-1,CA: CTV Calgary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17860.ts
-#EXTINF:-1,CA: BNN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16856.ts
-#EXTINF:-1,CA: OMNI 1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16848.ts
-#EXTINF:-1,CA: Love Nature
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17852.ts
-#EXTINF:-1,CA: Peachtree HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17861.ts
-#EXTINF:-1,CA: TVO HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17859.ts
-#EXTINF:-1,CA: YTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16836.ts
-#EXTINF:-1,CA: W Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17855.ts
-#EXTINF:-1,CA: Slice HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16844.ts
-#EXTINF:-1,USA: 360 North
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3863.ts
-#EXTINF:-1,CA: TSC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14969.ts
-#EXTINF:-1,CA: OMNI 2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16847.ts
-#EXTINF:-1,CA: HGTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16830.ts
-#EXTINF:-1,CA: Disney Jr HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17858.ts
-#EXTINF:-1,USA: A&E
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9315.ts
-#EXTINF:-1,USA: ABC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16858.ts
-#EXTINF:-1,USA: ABC News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2931.ts
-#EXTINF:-1,USA: ABC W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15244.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10167.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10166.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9518.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9519.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9520.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9516.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9517.ts
-#EXTINF:-1,USA: BBC America
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16857.ts
-#EXTINF:-1,USA: Animal Planet
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15250.ts
-#EXTINF:-1,USA: AMC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8415.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9488.ts
-#EXTINF:-1,USA: Bravo
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8691.ts
-#EXTINF:-1,USA: Church Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9536.ts
-#EXTINF:-1,USA: C-SPAN
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9318.ts
-#EXTINF:-1,USA: CBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16852.ts
-#EXTINF:-1,USA: CBC News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16854.ts
-#EXTINF:-1,USA: CBS News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9508.ts
-#EXTINF:-1,USA: CBS W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16850.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16851.ts
-#EXTINF:-1,USA: C-SPAN 3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9320.ts
-#EXTINF:-1,USA: Bloomberg
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9510.ts
-#EXTINF:-1,USA: CNN News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16813.ts
-#EXTINF:-1,USA: CNN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8692.ts
-#EXTINF:-1,USA: ASD TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3861.ts
-#EXTINF:-1,USA: ESPN 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13230.ts
-#EXTINF:-1,USA: Channel 11
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3860.ts
-#EXTINF:-1,USA: Country Music Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3859.ts
-#EXTINF:-1,USA: Comedy Central
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15249.ts
-#EXTINF:-1,USA: OWN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16846.ts
-#EXTINF:-1,USA: Discovery Science
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9546.ts
-#EXTINF:-1,USA: Discovery Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15248.ts
-#EXTINF:-1,USA: Discovery Channel CA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16823.ts
-#EXTINF:-1,USA: Eurosport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14079.ts
-#EXTINF:-1,USA: E!
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8417.ts
-#EXTINF:-1,USA: Family Junior HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15247.ts
-#EXTINF:-1,USA: Food Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9337.ts
-#EXTINF:-1,USA: FXX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16834.ts
-#EXTINF:-1,USA: Fight Sport
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8308.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8681.ts
-#EXTINF:-1,USA: Fox Sport 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9391.ts
-#EXTINF:-1,USA: NBA TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8309.ts
-#EXTINF:-1,USA: HBO FAMILY
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8414.ts
-#EXTINF:-1,USA: HBO HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8411.ts
-#EXTINF:-1,USA: HBO ZONE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8412.ts
-#EXTINF:-1,USA: LIFE TIME
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8687.ts
-#EXTINF:-1,USA: HBO Comedy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9831.ts
-#EXTINF:-1,USA: History HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15245.ts
-#EXTINF:-1,USA: Mello TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9502.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9523.ts
-#EXTINF:-1,USA: MLB Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15239.ts
-#EXTINF:-1,USA: Fox 43
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10174.ts
-#EXTINF:-1,USA: ID HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16827.ts
-#EXTINF:-1,USA: HLN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16828.ts
-#EXTINF:-1,USA: HGTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16829.ts
-#EXTINF:-1,USA: NHL Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12479.ts
-#EXTINF:-1,USA: NBC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8393.ts
-#EXTINF:-1,USA: NBC W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16849.ts
-#EXTINF:-1,USA: Nick
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9333.ts
-#EXTINF:-1,USA: NBCSN Golf HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9526.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9499.ts
-#EXTINF:-1,USA: Hallmark Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16831.ts
-#EXTINF:-1,USA: FX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16835.ts
-#EXTINF:-1,USA: Fox News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16826.ts
-#EXTINF:-1,USA: FOX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16824.ts
-#EXTINF:-1,USA: Disney XD HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16822.ts
-#EXTINF:-1,USA: CTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16820.ts
-#EXTINF:-1,USA: CSPAN 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9319.ts
-#EXTINF:-1,USA: PAC Network National 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14068.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14070.ts
-#EXTINF:-1,USA: PAC Mountain 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14067.ts
-#EXTINF:-1,USA: E! Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9321.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14072.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14069.ts
-#EXTINF:-1,USA: BeIN Sports USA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13227.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14071.ts
-#EXTINF:-1,USA: PAC-12 Washington HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10143.ts
-#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14073.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14075.ts
-#EXTINF:-1,USA: RT America HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9498.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14077.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14076.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14074.ts
-#EXTINF:-1,USA: RT Documentary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9497.ts
-#EXTINF:-1,USA: PBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16845.ts
-#EXTINF:-1,USA: PAC-12 Net. (Encore)
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14078.ts
-#EXTINF:-1,USA: Tru TV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9330.ts
-#EXTINF:-1,USA: USA Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9329.ts
-#EXTINF:-1,USA: Willow HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9328.ts
-#EXTINF:-1,USA: WWE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9530.ts
-#EXTINF:-1,USA: Tsn Sport 1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8293.ts
-#EXTINF:-1,USA: Tsn Sport 2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8292.ts
-#EXTINF:-1,USA: Tsn Sport 3 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8291.ts
-#EXTINF:-1,USA: Tsn Sport 4 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8290.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8289.ts
-#EXTINF:-1,USA: Tsn Sport 5 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12547.ts
-#EXTINF:-1,USA: WWE Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8410.ts
-#EXTINF:-1,USA: UALR TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3865.ts
-#EXTINF:-1,USA: Teletoon
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15251.ts
-#EXTINF:-1,USA: WHDH
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9491.ts
-#EXTINF:-1,USA: Travel Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9476.ts
-#EXTINF:-1,USA: The Florida Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9495.ts
-#EXTINF:-1,USA: TBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8685.ts
-#EXTINF:-1,USA: TBN
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9542.ts
-#EXTINF:-1,USA: TNT HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13180.ts
-#EXTINF:-1,USA: Sportsnet World
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14032.ts
-#EXTINF:-1,USA: Sportnet One HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14037.ts
-#EXTINF:-1,USA: Sporstnet Pacific HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14033.ts
-#EXTINF:-1,USA: Sporstnet Ontario HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14034.ts
-#EXTINF:-1,USA: Sporstnet East HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14035.ts
-#EXTINF:-1,USA: Sporstnet 360
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14036.ts
-#EXTINF:-1,USA: Sundance HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16840.ts
-#EXTINF:-1,USA: Sportsnet West HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13232.ts
-#EXTINF:-1,USA: Spike HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13179.ts
-#EXTINF:-1,USA: TLC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9480.ts
-#EXTINF:-1,USA: Starz Edge
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10171.ts
-#EXTINF:-1,USA: TLC CA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16838.ts
-#EXTINF:-1,USA: Velocity HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16837.ts
-#EXTINF:-1,USA: Star Z Cinema
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9832.ts
-#EXTINF:-1,USA: Starz Comedy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16843.ts
-#EXTINF:-1,USA: Starz Encore
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16842.ts
-#EXTINF:-1,USA: Starz Kids & Family
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16841.ts
-#EXTINF:-1,USA: SYFY HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16839.ts
-#EXTINF:-1,USA: NFL Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8693.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,UK: BBC1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6986.ts
-#EXTINF:-1,UK: BBC2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8363.ts
-#EXTINF:-1,UK: BBC2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6987.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13712.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6995.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6998.ts
-#EXTINF:-1,UK: Sky One
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7365.ts
-#EXTINF:-1,UK: Sky Two
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7373.ts
-#EXTINF:-1,UK: Pick
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7054.ts
-#EXTINF:-1,UK: My5
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13556.ts
-#EXTINF:-1,UK: DAVE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7072.ts
-#EXTINF:-1,UK: SKY LIVING
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7024.ts
-#EXTINF:-1,UK: BBC3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7084.ts
-#EXTINF:-1,UK: BBC4 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8364.ts
-#EXTINF:-1,UK: ITV Encore
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13532.ts
-#EXTINF:-1,UK: ITV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6990.ts
-#EXTINF:-1,UK: ITV1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8357.ts
-#EXTINF:-1,UK: ITV2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8356.ts
-#EXTINF:-1,UK: ITV2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6991.ts
-#EXTINF:-1,UK: ITV3 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8354.ts
-#EXTINF:-1,UK: ITV3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6992.ts
-#EXTINF:-1,UK: ITV4 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8355.ts
-#EXTINF:-1,UK: ITV4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6993.ts
-#EXTINF:-1,UK: Comedy Central
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7033.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8255.ts
-#EXTINF:-1,UK: ALIBI
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7085.ts
-#EXTINF:-1,UK: E4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7068.ts
-#EXTINF:-1,UK: MORE4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7062.ts
-#EXTINF:-1,UK: CBS REALITY
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7076.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7077.ts
-#EXTINF:-1,UK: Flava
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13587.ts
-#EXTINF:-1,UK: E!
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7069.ts
-#EXTINF:-1,UK: E! +1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13549.ts
-#EXTINF:-1,UK: Quest
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7053.ts
-#EXTINF:-1,UK: SHOWCASE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7048.ts
-#EXTINF:-1,UK: 3e
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7372.ts
-#EXTINF:-1,UK: TV3 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7001.ts
-#EXTINF:-1,UK: TLC
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7003.ts
-#EXTINF:-1,UK: Drama
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13550.ts
-#EXTINF:-1,UK: TG4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7004.ts
-#EXTINF:-1,UK: RTE One
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7050.ts
-#EXTINF:-1,UK: RTE Two
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7051.ts
-#EXTINF:-1,UK: ITVBE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6994.ts
-#EXTINF:-1,UK: ID
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7063.ts
-#EXTINF:-1,UK: Horror Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13585.ts
-#EXTINF:-1,UK: Fox
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7089.ts
-#EXTINF:-1,UK: Challenge
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13560.ts
-#EXTINF:-1,UK: 5USA
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7071.ts
-#EXTINF:-1,UK: 5STAR
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7086.ts
-#EXTINF:-1,UK: 5STAR +1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13568.ts
-#EXTINF:-1,UK: Lifetime
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8256.ts
-#EXTINF:-1,UK: Gold
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12371.ts
-#EXTINF:-1,UK: Eden
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12460.ts
-#EXTINF:-1,UK: True Drama
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13574.ts
-#EXTINF:-1,UK: tru TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13500.ts
-#EXTINF:-1,UK: Dmax
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12458.ts
-#EXTINF:-1,UK: W
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13495.ts
-#EXTINF:-1,UK: Universal
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13572.ts
-#EXTINF:-1,UK: Sky News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9551.ts
-#EXTINF:-1,UK: Real Lives
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13517.ts
-#EXTINF:-1,UK: Spike HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13508.ts
-#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8250.ts
-#EXTINF:-1,UK: Travel Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7002.ts
-#EXTINF:-1,UK: Really
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7052.ts
-#EXTINF:-1,UK: Home & Health
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7369.ts
-#EXTINF:-1,UK: Food Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8392.ts
-#EXTINF:-1,UK: SKY ARTS
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7046.ts
-#EXTINF:-1,UK: Good Food
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13542.ts
-#EXTINF:-1,UK: Home&Health
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13536.ts
-#EXTINF:-1,UK: Home
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13537.ts
-#EXTINF:-1,=======   UK:MOVIES   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8252.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7008.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7007.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7012.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7013.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7009.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7011.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7015.ts
-#EXTINF:-1,UK: Sky Movies ScFi-Horror
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6975.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7014.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7017.ts
-#EXTINF:-1,UK: Sony Movies
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13510.ts
-#EXTINF:-1,UK: TCM HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7006.ts
-#EXTINF:-1,UK: FILM 4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7066.ts
-#EXTINF:-1,UK: True Movies 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6976.ts
-#EXTINF:-1,UK: True Movies 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7375.ts
-#EXTINF:-1,UK: MOVIES CRIME & THRILLER
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7019.ts
-#EXTINF:-1,UK: MOVIES COMEDY
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7022.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7023.ts
-#EXTINF:-1,UK: Syfy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7005.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7045.ts
-#EXTINF:-1,=======   UK:SPORT   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8244.ts
-#EXTINF:-1,UK: ITV Box Off HD 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16085.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6981.ts
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13713.ts
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8352.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7035.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8351.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7036.ts
-#EXTINF:-1,UK: Sky Sports Action HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8350.ts
-#EXTINF:-1,UK: Sky Sports Action
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7037.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9549.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7038.ts
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8349.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7039.ts
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17862.ts
-#EXTINF:-1,UK: Sky Sports Arena
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17863.ts
-#EXTINF:-1,UK: Sky Sports Football HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17864.ts
-#EXTINF:-1,UK: Sky Sports Football
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17865.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7987.ts
-#EXTINF:-1,UK: SKY SPORTS  F1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7067.ts
-#EXTINF:-1,UK: EIR Sport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17372.ts
-#EXTINF:-1,UK: EIR Sport 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17373.ts
-#EXTINF:-1,UK: Eurosport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7031.ts
-#EXTINF:-1,UK: Eurosport 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7374.ts
-#EXTINF:-1,UK: Premier Sports
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10163.ts
-#EXTINF:-1,UK: AT THE RACES
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6984.ts
+#EXTINF:-1,UK:True Movies 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/572.ts
+#EXTINF:-1,UK:Sky Movies Modern
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/573.ts
+#EXTINF:-1,UK:BBC News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/574.ts
 #EXTINF:-1,UK: Racing UK
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7376.ts
-#EXTINF:-1,UK: BT Sport Mosaic 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9149.ts
-#EXTINF:-1,UK: BT SPORTS MOSAIC 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12531.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7041.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7042.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8358.ts
-#EXTINF:-1,UK: BT Sport 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8361.ts
-#EXTINF:-1,UK: BT Sport Europe/3 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8360.ts
-#EXTINF:-1,UK: BT SPORTS EUROPE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7081.ts
-#EXTINF:-1,UK: BT Sports Extra 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7370.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13565.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13564.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13563.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13562.ts
-#EXTINF:-1,UK: BT Sport Extra 6
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13561.ts
-#EXTINF:-1,UK: Setanta HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8241.ts
-#EXTINF:-1,UK: BOX NATION
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7082.ts
-#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7979.ts
-#EXTINF:-1,UK: MUTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7043.ts
-#EXTINF:-1,UK: Chelsea TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8359.ts
-#EXTINF:-1,UK: Liverpool LFCTV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9553.ts
-#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12457.ts
-#EXTINF:-1,=======   UK:NEWS   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8246.ts
-#EXTINF:-1,UK: BBC News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7371.ts
-#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8247.ts
-#EXTINF:-1,UK: Discovery Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7026.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6979.ts
-#EXTINF:-1,UK: Discovery Science
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7028.ts
-#EXTINF:-1,UK: Animal Planet
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7047.ts
-#EXTINF:-1,UK: Nat Geo
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7367.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/579.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/580.ts
 #EXTINF:-1,UK: Nat Geo Wild
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7025.ts
-#EXTINF:-1,UK: Discovery History
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7029.ts
-#EXTINF:-1,UK: YESTERDAY
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/6999.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7368.ts
-#EXTINF:-1,UK: H2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13540.ts
-#EXTINF:-1,UK: History Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13539.ts
-#EXTINF:-1,=======   UK:CHILDREN’S   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8251.ts
-#EXTINF:-1,UK: Baby TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/11778.ts
-#EXTINF:-1,UK: Cartoon Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7034.ts
-#EXTINF:-1,UK: NickJr Too
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7543.ts
-#EXTINF:-1,UK: Nicktoons
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7055.ts
-#EXTINF:-1,UK: Disney Junior
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7542.ts
-#EXTINF:-1,UK: Disney Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7032.ts
-#EXTINF:-1,UK: Nickelodeon
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7366.ts
-#EXTINF:-1,UK: DISNEY XD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7070.ts
-#EXTINF:-1,UK: CBEEBIES
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7079.ts
-#EXTINF:-1,UK: CBBC
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7080.ts
-#EXTINF:-1,UK: Boomerang
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13598.ts
-#EXTINF:-1,=======   UK:MUSIC  =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8253.ts
-#EXTINF:-1,UK: MTV Music
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13582.ts
-#EXTINF:-1,UK: MTV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7061.ts
-#EXTINF:-1,UK: MTV Base
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7060.ts
-#EXTINF:-1,UK: MTV Hits
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7057.ts
-#EXTINF:-1,UK: MTV Dance
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7058.ts
-#EXTINF:-1,UK: MTV Classic
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7059.ts
-#EXTINF:-1,UK: VH1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/7000.ts
-#EXTINF:-1,UK: 4Music
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13570.ts
-#EXTINF:-1,=======   UK:FOREIGN LANGUAGE   =======
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8245.ts
-#EXTINF:-1,UK: BBC Persian
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2129.ts
-#EXTINF:-1,UK: BBC Arabic
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2122.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/582.ts
+#EXTINF:-1,UK: ITV4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/583.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/587.ts
+#EXTINF:-1,UK: At The Races
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/588.ts
+#EXTINF:-1,UK BBC ONE HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/590.ts
+#EXTINF:-1,UK | Syfy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/591.ts
+#EXTINF:-1,UK | Sky Sports HD 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/592.ts
+#EXTINF:-1,UK | Sky Sport News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/593.ts
+#EXTINF:-1,UK | Sky Sport 5 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/594.ts
+#EXTINF:-1,UK | Sky Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/597.ts
+#EXTINF:-1,UK | Sky Movies Showcase
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/599.ts
+#EXTINF:-1,UK | Sky Movies Premiere
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/600.ts
+#EXTINF:-1,UK | Sky Movies Greats
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/601.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/604.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/605.ts
+#EXTINF:-1,UK | Sky Movie Sci-Fi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/606.ts
+#EXTINF:-1,UK | Disney Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/609.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/610.ts
+#EXTINF:-1,UK | Discovery Science
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/611.ts
+#EXTINF:-1,UK | DISCOVERY
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/613.ts
+#EXTINF:-1,UK | BT Sport Europe HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/614.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/615.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/616.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/617.ts
+#EXTINF:-1,UK | Boxnation
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/618.ts
+#EXTINF:-1,UK | boomerang
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/619.ts
+#EXTINF:-1,UK | BBC World News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/620.ts
+#EXTINF:-1,UK : Sky Movies Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/622.ts
+#EXTINF:-1,UK : SKY Atlantic HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/623.ts
+#EXTINF:-1,UK : SKY 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/624.ts
+#EXTINF:-1,UK : Nat Geo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/625.ts
+#EXTINF:-1,UK : Mototrs TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/626.ts
+#EXTINF:-1,UK : Animal Planet
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/628.ts
+#EXTINF:-1,===== UK EXTRA =====
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5696.ts
+#EXTINF:-1,UK Extra: 3E
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7074.ts
+#EXTINF:-1,UK Extra: Animal Planet
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7137.ts
+#EXTINF:-1,UK Extra: Baby TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7143.ts
+#EXTINF:-1,UK Extra: BBC News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7067.ts
+#EXTINF:-1,UK Extra: BBC One HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7068.ts
+#EXTINF:-1,UK Extra: BBC Three
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7070.ts
+#EXTINF:-1,UK Extra: BBC Two Full HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7069.ts
+#EXTINF:-1,UK Extra: Boomerang
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7142.ts
+#EXTINF:-1,UK Extra: BT Sport 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7154.ts
+#EXTINF:-1,UK Extra: BT Sport ESPN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7151.ts
+#EXTINF:-1,UK Extra: BT Sports 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7152.ts
+#EXTINF:-1,UK Extra: BT Sports 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7153.ts
+#EXTINF:-1,UK Extra: CBS Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7092.ts
+#EXTINF:-1,UK Extra: CBS DRAMA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7091.ts
+#EXTINF:-1,UK Extra: CBS Reality
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7089.ts
+#EXTINF:-1,UK Extra: CBS REALITY  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7090.ts
+#EXTINF:-1,UK Extra: Challenge
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7103.ts
+#EXTINF:-1,UK Extra: Chelsea TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7158.ts
+#EXTINF:-1,UK Extra: Colors
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7085.ts
+#EXTINF:-1,UK Extra: COMEDY CENTRAL HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7095.ts
+#EXTINF:-1,UK Extra: Crime and Investigation
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7128.ts
+#EXTINF:-1,UK Extra: Dave
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7084.ts
+#EXTINF:-1,UK Extra: Discovery Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7132.ts
+#EXTINF:-1,UK Extra: Discovery History
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7135.ts
+#EXTINF:-1,UK Extra: Discovery Home/Health
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7134.ts
+#EXTINF:-1,UK Extra: Discovery Investigation
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7136.ts
+#EXTINF:-1,UK Extra: Discovery Science
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7133.ts
+#EXTINF:-1,UK Extra: Disney Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7141.ts
+#EXTINF:-1,UK Extra: DISNEY XD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7144.ts
+#EXTINF:-1,UK Extra: Dmax
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7102.ts
+#EXTINF:-1,UK Extra: E!
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7101.ts
+#EXTINF:-1,UK Extra: E4 UK
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7073.ts
+#EXTINF:-1,UK Extra: Eurosport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7157.ts
+#EXTINF:-1,UK Extra: FineLiving
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7100.ts
+#EXTINF:-1,UK Extra: Fox
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7099.ts
+#EXTINF:-1,UK Extra: Gold
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7083.ts
+#EXTINF:-1,UK Extra: History
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7129.ts
+#EXTINF:-1,UK Extra: ITV 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7075.ts
+#EXTINF:-1,UK Extra: ITV 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7076.ts
+#EXTINF:-1,UK Extra: ITV 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7077.ts
+#EXTINF:-1,UK Extra: ITV 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7078.ts
+#EXTINF:-1,UK Extra: ITV BE
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7079.ts
+#EXTINF:-1,UK Extra: Lifetime
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7098.ts
+#EXTINF:-1,UK Extra: LiverpoolFCTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7160.ts
+#EXTINF:-1,UK Extra: MTV BASE
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7105.ts
+#EXTINF:-1,UK Extra: MTV Rock
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7104.ts
+#EXTINF:-1,UK Extra: MTV XMAS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7106.ts
+#EXTINF:-1,UK Extra: MUTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7159.ts
+#EXTINF:-1,UK Extra: Nat Geo Wild
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7131.ts
+#EXTINF:-1,UK Extra: National Geographic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7130.ts
+#EXTINF:-1,UK Extra: Nick JR
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7140.ts
+#EXTINF:-1,UK Extra: Nicklodeon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7138.ts
+#EXTINF:-1,UK Extra: Nicktoons
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7139.ts
+#EXTINF:-1,UK Extra: Pick Tv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7082.ts
+#EXTINF:-1,UK Extra: Quest
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7097.ts
+#EXTINF:-1,UK Extra: Really
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7081.ts
+#EXTINF:-1,UK Extra: RTE ONE
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7071.ts
+#EXTINF:-1,UK Extra: RTE TWO
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7072.ts
+#EXTINF:-1,UK Extra: Setanta Ireland
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7156.ts
+#EXTINF:-1,UK Extra: Setanta Sports 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7155.ts
+#EXTINF:-1,UK Extra: SHOWCASE
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7096.ts
+#EXTINF:-1,UK Extra: Sky Arts 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7127.ts
+#EXTINF:-1,UK Extra: Sky Atlantic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7120.ts
+#EXTINF:-1,UK Extra: Sky Drama & Romance
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7119.ts
+#EXTINF:-1,UK Extra: Sky Movies Action&Adventure HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7116.ts
+#EXTINF:-1,UK Extra: Sky Movies Comedy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7115.ts
+#EXTINF:-1,UK Extra: Sky Movies Crime and Thriller HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7108.ts
+#EXTINF:-1,UK Extra: Sky Movies Family HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7114.ts
+#EXTINF:-1,UK Extra: Sky Movies Living
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7107.ts
+#EXTINF:-1,UK Extra: Sky Movies Modern Grates HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7113.ts
+#EXTINF:-1,UK Extra: Sky Movies Premiere HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7112.ts
+#EXTINF:-1,UK Extra: Sky Movies Select HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7110.ts
+#EXTINF:-1,UK Extra: Sky Movies Showcase HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7109.ts
+#EXTINF:-1,UK Extra: Sky Movies SyFi-Horror HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7111.ts
+#EXTINF:-1,UK Extra: Sky One
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7087.ts
+#EXTINF:-1,UK Extra: SKY SPORT 2 Full HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7147.ts
+#EXTINF:-1,UK Extra: SKY SPORT 3 HD/Full HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7148.ts
+#EXTINF:-1,UK Extra: SKY SPORTS 1 HD/SD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7146.ts
+#EXTINF:-1,UK Extra: SKY SPORTS 4 Full HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7149.ts
+#EXTINF:-1,UK Extra: SKY SPORTS 5 Full HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7150.ts
+#EXTINF:-1,UK Extra: SKY SPORTS F1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7145.ts
+#EXTINF:-1,UK Extra: Sky Two
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7088.ts
+#EXTINF:-1,UK Extra: Sony Movies
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7121.ts
+#EXTINF:-1,UK Extra: TLC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7086.ts
+#EXTINF:-1,UK Extra: Tru TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7122.ts
+#EXTINF:-1,UK Extra: True Entertainment
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7125.ts
+#EXTINF:-1,UK Extra: True Entertainment  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7126.ts
+#EXTINF:-1,UK Extra: True Movies
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7123.ts
+#EXTINF:-1,UK Extra: True Movies 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7124.ts
+#EXTINF:-1,UK Extra: Universal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7094.ts
+#EXTINF:-1,UK Extra: Yesterday
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7080.ts
+#EXTINF:-1,UK Extra: Vintage TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7093.ts
+#EXTINF:-1,ukNEW:3e
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11734.ts
+#EXTINF:-1,ukNEW:4Music
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11733.ts
+#EXTINF:-1,ukNEW:4Seven
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11732.ts
+#EXTINF:-1,ukNEW:5Star
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11731.ts
+#EXTINF:-1,ukNEW:5USA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11730.ts
+#EXTINF:-1,ukNEW:Alibi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11727.ts
+#EXTINF:-1,ukNEW:AMC From BT
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11729.ts
+#EXTINF:-1,ukNEW:Animal Planet
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11725.ts
+#EXTINF:-1,ukNEW:Animal Planet  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11726.ts
+#EXTINF:-1,ukNEW:AT THE RACES
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11728.ts
+#EXTINF:-1,ukNEW:Baby TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11686.ts
+#EXTINF:-1,ukNEW:BBC Four
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11723.ts
+#EXTINF:-1,ukNEW:BBC Four HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11724.ts
+#EXTINF:-1,ukNEW:BBC News HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11722.ts
+#EXTINF:-1,ukNEW:BBC One
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11713.ts
+#EXTINF:-1,ukNEW:BBC One Channel Islands
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11721.ts
+#EXTINF:-1,ukNEW:BBC One FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11720.ts
+#EXTINF:-1,ukNEW:BBC One HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11719.ts
+#EXTINF:-1,ukNEW:BBC One Northern Ireland
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11717.ts
+#EXTINF:-1,ukNEW:BBC One Northern Ireland FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11718.ts
+#EXTINF:-1,ukNEW:BBC One Oxford
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11716.ts
+#EXTINF:-1,ukNEW:BBC One Scotland
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11714.ts
+#EXTINF:-1,ukNEW:BBC One Scotland FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11715.ts
+#EXTINF:-1,ukNEW:BBC One Wales
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11712.ts
+#EXTINF:-1,ukNEW:BBC One Yorks
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11711.ts
+#EXTINF:-1,ukNEW:BBC Parliament
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11710.ts
+#EXTINF:-1,ukNEW:BBC Two
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11706.ts
+#EXTINF:-1,ukNEW:BBC Two FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11709.ts
+#EXTINF:-1,ukNEW:BBC Two HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11708.ts
+#EXTINF:-1,ukNEW:BBC Two Scotland
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11707.ts
+#EXTINF:-1,ukNEW:BBC World News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11705.ts
+#EXTINF:-1,ukNEW:BET
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11704.ts
+#EXTINF:-1,ukNEW:Bike Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11685.ts
+#EXTINF:-1,ukNEW:Blaze
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11684.ts
+#EXTINF:-1,ukNEW:Bloomberg TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11683.ts
+#EXTINF:-1,ukNEW:Boomerang
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11681.ts
+#EXTINF:-1,ukNEW:Boomerang  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11682.ts
+#EXTINF:-1,ukNEW:Box Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11680.ts
+#EXTINF:-1,ukNEW:Box Upfront
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11679.ts
+#EXTINF:-1,ukNEW:BoxNation
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11676.ts
+#EXTINF:-1,ukNEW:BoxNation FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11678.ts
+#EXTINF:-1,ukNEW:BoxNation HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11677.ts
+#EXTINF:-1,ukNEW:BT Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11701.ts
+#EXTINF:-1,ukNEW:BT Sport 1 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11703.ts
+#EXTINF:-1,ukNEW:BT Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11702.ts
+#EXTINF:-1,ukNEW:BT Sport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11698.ts
+#EXTINF:-1,ukNEW:BT Sport 2 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11700.ts
+#EXTINF:-1,ukNEW:BT Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11699.ts
+#EXTINF:-1,ukNEW:BT Sport 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11695.ts
+#EXTINF:-1,ukNEW:BT Sport 3 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11697.ts
+#EXTINF:-1,ukNEW:BT Sport 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11696.ts
+#EXTINF:-1,ukNEW:BT Sport ESPN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11693.ts
+#EXTINF:-1,ukNEW:BT Sport ESPN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11694.ts
+#EXTINF:-1,ukNEW:BT Sport Extra 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11692.ts
+#EXTINF:-1,ukNEW:BT Sport Extra 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11691.ts
+#EXTINF:-1,ukNEW:BT Sport Extra 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11690.ts
+#EXTINF:-1,ukNEW:BT Sport Extra 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11689.ts
+#EXTINF:-1,ukNEW:BT Sport Extra 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11688.ts
+#EXTINF:-1,ukNEW:BT Sport Mosaic 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11687.ts
+#EXTINF:-1,ukNEW:CAPITAL TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11675.ts
+#EXTINF:-1,ukNEW:Cartoon Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11665.ts
+#EXTINF:-1,ukNEW:Cartoonito
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11664.ts
+#EXTINF:-1,ukNEW:CBBC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11673.ts
+#EXTINF:-1,ukNEW:CBBC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11674.ts
+#EXTINF:-1,ukNEW:CBeebies HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11669.ts
+#EXTINF:-1,ukNEW:CBS Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11672.ts
+#EXTINF:-1,ukNEW:CBS Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11671.ts
+#EXTINF:-1,ukNEW:CBS Reality
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11670.ts
+#EXTINF:-1,ukNEW:Challenge
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11662.ts
+#EXTINF:-1,ukNEW:Challenge  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11663.ts
+#EXTINF:-1,ukNEW:Channel 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11659.ts
+#EXTINF:-1,ukNEW:Channel 4 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11661.ts
+#EXTINF:-1,ukNEW:Channel 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11660.ts
+#EXTINF:-1,ukNEW:Channel 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11656.ts
+#EXTINF:-1,ukNEW:Channel 5 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11658.ts
+#EXTINF:-1,ukNEW:Channel 5 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11657.ts
+#EXTINF:-1,ukNEW:Channel AKA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11655.ts
+#EXTINF:-1,ukNEW:Chart Show Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11654.ts
+#EXTINF:-1,ukNEW:Chart Show TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11653.ts
+#EXTINF:-1,ukNEW:Chelsea TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11652.ts
+#EXTINF:-1,ukNEW:CITV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11668.ts
+#EXTINF:-1,ukNEW:CNN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11666.ts
+#EXTINF:-1,ukNEW:CNN FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11667.ts
+#EXTINF:-1,ukNEW:Comedy Central
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11649.ts
+#EXTINF:-1,ukNEW:Comedy Central Extra
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11650.ts
+#EXTINF:-1,ukNEW:Comedy Central Extra  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11651.ts
+#EXTINF:-1,ukNEW:Crime Investigation
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11647.ts
+#EXTINF:-1,ukNEW:Crime Investigation  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11648.ts
+#EXTINF:-1,ukNEW:Dave
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11644.ts
+#EXTINF:-1,ukNEW:Dave ja vu
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11643.ts
+#EXTINF:-1,ukNEW:Discovery Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11641.ts
+#EXTINF:-1,ukNEW:Discovery Channel  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11642.ts
+#EXTINF:-1,ukNEW:Discovery History
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11639.ts
+#EXTINF:-1,ukNEW:Discovery History  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11640.ts
+#EXTINF:-1,ukNEW:Discovery Home & Health
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11637.ts
+#EXTINF:-1,ukNEW:Discovery Home & Health  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11638.ts
+#EXTINF:-1,ukNEW:Discovery Science
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11635.ts
+#EXTINF:-1,ukNEW:Discovery Science  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11636.ts
+#EXTINF:-1,ukNEW:Discovery Shed
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11634.ts
+#EXTINF:-1,ukNEW:Discovery Turbo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11633.ts
+#EXTINF:-1,ukNEW:Disney Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11631.ts
+#EXTINF:-1,ukNEW:Disney Channel  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11632.ts
+#EXTINF:-1,ukNEW:Disney Junior
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11629.ts
+#EXTINF:-1,ukNEW:Disney Junior  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11630.ts
+#EXTINF:-1,ukNEW:Disney XD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11627.ts
+#EXTINF:-1,ukNEW:Disney XD  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11628.ts
+#EXTINF:-1,ukNEW:DMAX
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11645.ts
+#EXTINF:-1,ukNEW:DMAX  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11646.ts
+#EXTINF:-1,ukNEW:Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11626.ts
+#EXTINF:-1,ukNEW:E!
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11624.ts
+#EXTINF:-1,ukNEW:E!  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11625.ts
+#EXTINF:-1,ukNEW:E4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11622.ts
+#EXTINF:-1,ukNEW:E4  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11623.ts
+#EXTINF:-1,ukNEW:Eden
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11620.ts
+#EXTINF:-1,ukNEW:Eden  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11621.ts
+#EXTINF:-1,ukNEW:eir Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11619.ts
+#EXTINF:-1,ukNEW:eir Sport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11616.ts
+#EXTINF:-1,ukNEW:eir Sport 2 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11618.ts
+#EXTINF:-1,ukNEW:eir Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11617.ts
+#EXTINF:-1,ukNEW:Eurosport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11615.ts
+#EXTINF:-1,ukNEW:Eurosport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11614.ts
+#EXTINF:-1,ukNEW:Film4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11611.ts
+#EXTINF:-1,ukNEW:Flava
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11610.ts
+#EXTINF:-1,ukNEW:Food Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11608.ts
+#EXTINF:-1,ukNEW:Food Network  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11609.ts
+#EXTINF:-1,ukNEW:FOX
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11612.ts
+#EXTINF:-1,ukNEW:FOX News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11613.ts
+#EXTINF:-1,ukNEW:GINX eSports TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11607.ts
+#EXTINF:-1,ukNEW:GOLD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11605.ts
+#EXTINF:-1,ukNEW:GOLD  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11606.ts
+#EXTINF:-1,ukNEW:Good Food
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11604.ts
+#EXTINF:-1,ukNEW:H2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11603.ts
+#EXTINF:-1,ukNEW:Hillsong Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11602.ts
+#EXTINF:-1,ukNEW:History
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11600.ts
+#EXTINF:-1,ukNEW:History  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11601.ts
+#EXTINF:-1,ukNEW:Home
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11598.ts
+#EXTINF:-1,ukNEW:Home  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11599.ts
+#EXTINF:-1,ukNEW:Horror Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11596.ts
+#EXTINF:-1,ukNEW:Horror Channel  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11597.ts
+#EXTINF:-1,ukNEW:Investigation Discovery
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11577.ts
+#EXTINF:-1,ukNEW:Investigation Discovery  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11578.ts
+#EXTINF:-1,ukNEW:ITV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11590.ts
+#EXTINF:-1,ukNEW:ITV  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11595.ts
+#EXTINF:-1,ukNEW:ITV Box Office
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11594.ts
+#EXTINF:-1,ukNEW:ITV Encore
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11592.ts
+#EXTINF:-1,ukNEW:ITV Encore  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11593.ts
+#EXTINF:-1,ukNEW:ITV FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11591.ts
+#EXTINF:-1,ukNEW:ITV2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11586.ts
+#EXTINF:-1,ukNEW:ITV2  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11589.ts
+#EXTINF:-1,ukNEW:ITV2 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11588.ts
+#EXTINF:-1,ukNEW:ITV2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11587.ts
+#EXTINF:-1,ukNEW:ITV3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11583.ts
+#EXTINF:-1,ukNEW:ITV3  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11585.ts
+#EXTINF:-1,ukNEW:ITV3 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11584.ts
+#EXTINF:-1,ukNEW:ITV4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11580.ts
+#EXTINF:-1,ukNEW:ITV4  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11582.ts
+#EXTINF:-1,ukNEW:ITV4 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11581.ts
+#EXTINF:-1,ukNEW:ITVBe  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11579.ts
+#EXTINF:-1,ukNEW:Kerrang! TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11573.ts
+#EXTINF:-1,ukNEW:KISS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11576.ts
+#EXTINF:-1,ukNEW:KIX
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11574.ts
+#EXTINF:-1,ukNEW:KIX  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11575.ts
+#EXTINF:-1,ukNEW:LFC TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11572.ts
+#EXTINF:-1,ukNEW:LFC TV FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11571.ts
+#EXTINF:-1,ukNEW:Made In Bristol
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11558.ts
+#EXTINF:-1,ukNEW:Made In Cardif
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11557.ts
+#EXTINF:-1,ukNEW:More4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11556.ts
+#EXTINF:-1,ukNEW:Motors TV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11555.ts
+#EXTINF:-1,ukNEW:Movies 24
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11554.ts
+#EXTINF:-1,ukNEW:Movies4Men
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11552.ts
+#EXTINF:-1,ukNEW:Movies4Men  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11553.ts
+#EXTINF:-1,ukNEW:MTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11563.ts
+#EXTINF:-1,ukNEW:MTV  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11570.ts
+#EXTINF:-1,ukNEW:MTV 90's
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11569.ts
+#EXTINF:-1,ukNEW:MTV Base
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11568.ts
+#EXTINF:-1,ukNEW:MTV Classic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11567.ts
+#EXTINF:-1,ukNEW:MTV Dance
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11566.ts
+#EXTINF:-1,ukNEW:MTV Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11565.ts
+#EXTINF:-1,ukNEW:MTV Music
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11564.ts
+#EXTINF:-1,ukNEW:MU TV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11562.ts
+#EXTINF:-1,ukNEW:MUTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11559.ts
+#EXTINF:-1,ukNEW:MUTV FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11561.ts
+#EXTINF:-1,ukNEW:MUTV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11560.ts
+#EXTINF:-1,ukNEW:My5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11551.ts
+#EXTINF:-1,ukNEW:Nat Geo Wild
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11550.ts
+#EXTINF:-1,ukNEW:National Geographic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11549.ts
+#EXTINF:-1,ukNEW:Nick Jr.
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11545.ts
+#EXTINF:-1,ukNEW:Nick Jr.  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11548.ts
+#EXTINF:-1,ukNEW:Nick Jr. Peppa
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11547.ts
+#EXTINF:-1,ukNEW:Nick Jr. Too
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11546.ts
+#EXTINF:-1,ukNEW:Nickelodeon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11542.ts
+#EXTINF:-1,ukNEW:Nickelodeon  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11543.ts
+#EXTINF:-1,ukNEW:NickToons
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11544.ts
+#EXTINF:-1,ukNEW:PBS America
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11541.ts
+#EXTINF:-1,ukNEW:Pick
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11537.ts
+#EXTINF:-1,ukNEW:Pick  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11538.ts
+#EXTINF:-1,ukNEW:POP
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11539.ts
+#EXTINF:-1,ukNEW:POP  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11540.ts
+#EXTINF:-1,ukNEW:Premier Sports
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11534.ts
+#EXTINF:-1,ukNEW:Premier Sports FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11536.ts
+#EXTINF:-1,ukNEW:Premier Sports HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11535.ts
+#EXTINF:-1,ukNEW:Psychic Today
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11533.ts
+#EXTINF:-1,ukNEW:QUEST
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11530.ts
+#EXTINF:-1,ukNEW:QUEST RED
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11531.ts
+#EXTINF:-1,ukNEW:QUEST RED  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11532.ts
+#EXTINF:-1,ukNEW:Racing
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11521.ts
+#EXTINF:-1,ukNEW:Racing FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11522.ts
+#EXTINF:-1,ukNEW:Real Lives
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11519.ts
+#EXTINF:-1,ukNEW:Real Lives  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11520.ts
+#EXTINF:-1,ukNEW:Really
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11518.ts
+#EXTINF:-1,ukNEW:Redbul TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11517.ts
+#EXTINF:-1,ukNEW:RT FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11529.ts
+#EXTINF:-1,ukNEW:RTÉ Jr
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11528.ts
+#EXTINF:-1,ukNEW:RTÉ News Now
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11527.ts
+#EXTINF:-1,ukNEW:RTÉ One
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11525.ts
+#EXTINF:-1,ukNEW:RTÉ One HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11526.ts
+#EXTINF:-1,ukNEW:RTÉ Two
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11523.ts
+#EXTINF:-1,ukNEW:RTÉ Two HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11524.ts
+#EXTINF:-1,ukNEW:S4C
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11516.ts
+#EXTINF:-1,ukNEW:Scuzz
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11514.ts
+#EXTINF:-1,ukNEW:Sky 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11512.ts
+#EXTINF:-1,ukNEW:Sky 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11513.ts
+#EXTINF:-1,ukNEW:Sky 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11511.ts
+#EXTINF:-1,ukNEW:Sky Arts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11510.ts
+#EXTINF:-1,ukNEW:Sky Atlantic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11508.ts
+#EXTINF:-1,ukNEW:Sky Atlantic  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11509.ts
+#EXTINF:-1,ukNEW:Sky Box Office
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11507.ts
+#EXTINF:-1,ukNEW:Sky Cinema Action & Adventure
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11505.ts
+#EXTINF:-1,ukNEW:Sky Cinema Action & Adventure HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11506.ts
+#EXTINF:-1,ukNEW:Sky Cinema Box Office 1 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11504.ts
+#EXTINF:-1,ukNEW:Sky Cinema Box Office 2 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11503.ts
+#EXTINF:-1,ukNEW:Sky Cinema Box Office 3D FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11502.ts
+#EXTINF:-1,ukNEW:Sky Cinema Box Office 4 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11501.ts
+#EXTINF:-1,ukNEW:Sky Cinema Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11499.ts
+#EXTINF:-1,ukNEW:Sky Cinema Comedy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11500.ts
+#EXTINF:-1,ukNEW:Sky Cinema Crime & Thriller
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11497.ts
+#EXTINF:-1,ukNEW:Sky Cinema Crime & Thriller HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11498.ts
+#EXTINF:-1,ukNEW:Sky Cinema Disney
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11495.ts
+#EXTINF:-1,ukNEW:Sky Cinema Disney HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11496.ts
+#EXTINF:-1,ukNEW:Sky Cinema Drama & Romance
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11494.ts
+#EXTINF:-1,ukNEW:Sky Cinema Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11492.ts
+#EXTINF:-1,ukNEW:Sky Cinema Family HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11493.ts
+#EXTINF:-1,ukNEW:Sky Cinema Greats
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11491.ts
+#EXTINF:-1,ukNEW:Sky Cinema Oscars
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11490.ts
+#EXTINF:-1,ukNEW:Sky Cinema Premiere
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11488.ts
+#EXTINF:-1,ukNEW:Sky Cinema Premiere  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11489.ts
+#EXTINF:-1,ukNEW:Sky Cinema Sci-Fi & Horror
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11487.ts
+#EXTINF:-1,ukNEW:Sky Cinema Select
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11486.ts
+#EXTINF:-1,ukNEW:Sky Hits
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11485.ts
+#EXTINF:-1,ukNEW:Sky Living
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11483.ts
+#EXTINF:-1,ukNEW:Sky Living  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11484.ts
+#EXTINF:-1,ukNEW:Sky News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11482.ts
+#EXTINF:-1,ukNEW:Sky News FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11481.ts
+#EXTINF:-1,ukNEW:Sky Sports Action
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11478.ts
+#EXTINF:-1,ukNEW:Sky Sports Action FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11480.ts
+#EXTINF:-1,ukNEW:Sky Sports Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11479.ts
+#EXTINF:-1,ukNEW:Sky Sports Arena
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11475.ts
+#EXTINF:-1,ukNEW:Sky Sports Arena FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11477.ts
+#EXTINF:-1,ukNEW:Sky Sports Arena HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11476.ts
+#EXTINF:-1,ukNEW:Sky Sports Box Office
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11474.ts
+#EXTINF:-1,ukNEW:Sky Sports Cricket
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11471.ts
+#EXTINF:-1,ukNEW:Sky Sports Cricket FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11473.ts
+#EXTINF:-1,ukNEW:Sky Sports Cricket HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11472.ts
+#EXTINF:-1,ukNEW:Sky Sports F1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11468.ts
+#EXTINF:-1,ukNEW:Sky Sports F1 FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11470.ts
+#EXTINF:-1,ukNEW:Sky Sports F1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11469.ts
+#EXTINF:-1,ukNEW:Sky Sports Football
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11465.ts
+#EXTINF:-1,ukNEW:Sky Sports Football FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11467.ts
+#EXTINF:-1,ukNEW:Sky Sports Football HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11466.ts
+#EXTINF:-1,ukNEW:Sky Sports Golf
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11454.ts
+#EXTINF:-1,ukNEW:Sky Sports Golf FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11456.ts
+#EXTINF:-1,ukNEW:Sky Sports Golf HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11455.ts
+#EXTINF:-1,ukNEW:Sky Sports Main Event
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11462.ts
+#EXTINF:-1,ukNEW:Sky Sports Main Event FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11464.ts
+#EXTINF:-1,ukNEW:Sky Sports Main Event HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11463.ts
+#EXTINF:-1,ukNEW:Sky Sports Mix HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11461.ts
+#EXTINF:-1,ukNEW:Sky Sports News HQ
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11460.ts
+#EXTINF:-1,ukNEW:Sky Sports Premier League
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11457.ts
+#EXTINF:-1,ukNEW:Sky Sports Premier League FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11459.ts
+#EXTINF:-1,ukNEW:Sky Sports Premier League HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11458.ts
+#EXTINF:-1,ukNEW:Sony Channel  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11453.ts
+#EXTINF:-1,ukNEW:Starz TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11452.ts
+#EXTINF:-1,ukNEW:STV FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11515.ts
+#EXTINF:-1,ukNEW:Syfy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11450.ts
+#EXTINF:-1,ukNEW:Syfy  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11451.ts
+#EXTINF:-1,ukNEW:TCM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11448.ts
+#EXTINF:-1,ukNEW:TCM  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11449.ts
+#EXTINF:-1,ukNEW:TG4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11447.ts
+#EXTINF:-1,ukNEW:The Box
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11441.ts
+#EXTINF:-1,ukNEW:The Vault
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11440.ts
+#EXTINF:-1,ukNEW:Tiny Pop
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11438.ts
+#EXTINF:-1,ukNEW:Tiny Pop  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11439.ts
+#EXTINF:-1,ukNEW:TLC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11444.ts
+#EXTINF:-1,ukNEW:TLC  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11446.ts
+#EXTINF:-1,ukNEW:TLC  2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11445.ts
+#EXTINF:-1,ukNEW:Travel Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11437.ts
+#EXTINF:-1,ukNEW:tru TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11432.ts
+#EXTINF:-1,ukNEW:True Crime
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11435.ts
+#EXTINF:-1,ukNEW:True Crime  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11436.ts
+#EXTINF:-1,ukNEW:True Entertainment
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11434.ts
+#EXTINF:-1,ukNEW:True Movies 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11433.ts
+#EXTINF:-1,ukNEW:TV3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11442.ts
+#EXTINF:-1,ukNEW:TV3  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11443.ts
+#EXTINF:-1,ukNEW:Universal Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11428.ts
+#EXTINF:-1,ukNEW:Universal Channel  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11429.ts
+#EXTINF:-1,ukNEW:UTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11430.ts
+#EXTINF:-1,ukNEW:UTV FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11431.ts
+#EXTINF:-1,ukNEW:VH1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11427.ts
+#EXTINF:-1,ukNEW:Viceland
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11425.ts
+#EXTINF:-1,ukNEW:Vintage TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11424.ts
+#EXTINF:-1,ukNEW:VIVA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11426.ts
+#EXTINF:-1,ukNEW:W
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11422.ts
+#EXTINF:-1,ukNEW:W  1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11423.ts
+#EXTINF:-1,ukNEW:William Hill TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11421.ts
+#EXTINF:-1,ukNEW:World Fight Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11420.ts
+#EXTINF:-1,ukNEW:YESTERDAY
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11419.ts
+#EXTINF:-1,ukNEW:YourTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11418.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,US:A&E HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10614.ts
+#EXTINF:-1,US:ABC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10613.ts
+#EXTINF:-1,US:ABC News HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10612.ts
+#EXTINF:-1,US:AFN Sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10611.ts
+#EXTINF:-1,US:AFN Sport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10610.ts
+#EXTINF:-1,US:Amazing Discoveries HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10609.ts
+#EXTINF:-1,US:Animal Planet HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10608.ts
+#EXTINF:-1,US:beINSports HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10519.ts
+#EXTINF:-1,US:Bloomberg Europe
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10606.ts
+#EXTINF:-1,US:Bloomberg TV 1080P HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10605.ts
+#EXTINF:-1,US:Boomerang
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10604.ts
+#EXTINF:-1,US:Bravo HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10603.ts
+#EXTINF:-1,US:BYU TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10607.ts
+#EXTINF:-1,US:CA Sportsnet 360 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10602.ts
+#EXTINF:-1,US:CBS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10601.ts
+#EXTINF:-1,US:CBSN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10600.ts
+#EXTINF:-1,US:CineMax 5 StarMax
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10596.ts
+#EXTINF:-1,US:CineMax Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10595.ts
+#EXTINF:-1,US:CineMax ActionMax East
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10594.ts
+#EXTINF:-1,US:CineMax East
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10593.ts
+#EXTINF:-1,US:CineMax MoreMax
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10592.ts
+#EXTINF:-1,US:CNN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10599.ts
+#EXTINF:-1,US:Comedy Central HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10591.ts
+#EXTINF:-1,US:CW HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10598.ts
+#EXTINF:-1,US:CW11
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10597.ts
+#EXTINF:-1,US:Discovery HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10587.ts
+#EXTINF:-1,US:Discovery HD Showcase
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10588.ts
+#EXTINF:-1,US:Discovery Science HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10586.ts
+#EXTINF:-1,US:Discovery Velocity
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10585.ts
+#EXTINF:-1,US:DIY Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10590.ts
+#EXTINF:-1,US:DW
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10589.ts
+#EXTINF:-1,US:ESPN 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10584.ts
+#EXTINF:-1,US:Fashion One HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10580.ts
+#EXTINF:-1,US:Fight HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10579.ts
+#EXTINF:-1,US:Fight Sport
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10578.ts
+#EXTINF:-1,US:Fine Living
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10577.ts
+#EXTINF:-1,US:Food Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10576.ts
+#EXTINF:-1,US:FOX 43
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10583.ts
+#EXTINF:-1,US:Fox HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10572.ts
+#EXTINF:-1,US:Fox Soccer Plus HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10529.ts
+#EXTINF:-1,US:Fox Sports 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10575.ts
+#EXTINF:-1,US:Fox Sports 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10574.ts
+#EXTINF:-1,US:Fox Sports 506 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10573.ts
+#EXTINF:-1,US:Free Form HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10571.ts
+#EXTINF:-1,US:FS1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10582.ts
+#EXTINF:-1,US:Fuel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10570.ts
+#EXTINF:-1,US:FX HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10581.ts
+#EXTINF:-1,US:Hallmark
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10562.ts
+#EXTINF:-1,US:HBO Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10569.ts
+#EXTINF:-1,US:HBO HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10568.ts
+#EXTINF:-1,US:HBO Signature
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10567.ts
+#EXTINF:-1,US:HBO Zone
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10566.ts
+#EXTINF:-1,US:HGTV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10565.ts
+#EXTINF:-1,US:HIFI
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10564.ts
+#EXTINF:-1,US:History HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10561.ts
+#EXTINF:-1,US:HSN YT LIVE 1080P HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10563.ts
+#EXTINF:-1,US:MBL HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10560.ts
+#EXTINF:-1,US:MSNBC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10559.ts
+#EXTINF:-1,US:MTV Rocks
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10558.ts
+#EXTINF:-1,US:National Geographic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10549.ts
+#EXTINF:-1,US:NBA HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10557.ts
+#EXTINF:-1,US:NBC Golf Channel FHD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10554.ts
+#EXTINF:-1,US:NBC Golf Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10555.ts
+#EXTINF:-1,US:NBCSN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10556.ts
+#EXTINF:-1,US:NFL Network 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10553.ts
+#EXTINF:-1,US:NFL Network 1080i
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10552.ts
+#EXTINF:-1,US:NFL Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10551.ts
+#EXTINF:-1,US:NHL Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10550.ts
+#EXTINF:-1,US:Outdoor Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10547.ts
+#EXTINF:-1,US:PAC-12 Arizona
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10546.ts
+#EXTINF:-1,US:PAC-12 Bay Area
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10545.ts
+#EXTINF:-1,US:PAC-12 Los Angeles
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10544.ts
+#EXTINF:-1,US:PAC-12 Oregon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10543.ts
+#EXTINF:-1,US:PAC-12 Washington
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10542.ts
+#EXTINF:-1,US:PAG HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10541.ts
+#EXTINF:-1,US:Showtime 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10540.ts
+#EXTINF:-1,US:Showtime HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10539.ts
+#EXTINF:-1,US:Showtime West
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10538.ts
+#EXTINF:-1,US:Smile Of A Child
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10537.ts
+#EXTINF:-1,US:Spike HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10536.ts
+#EXTINF:-1,US:Starz Cinema
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10535.ts
+#EXTINF:-1,US:Starz Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10534.ts
+#EXTINF:-1,US:Starz Edge HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10533.ts
+#EXTINF:-1,US:Starz Encore
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10532.ts
+#EXTINF:-1,US:SyFy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10531.ts
+#EXTINF:-1,US:TBS HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10530.ts
+#EXTINF:-1,US:TSN 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10528.ts
+#EXTINF:-1,US:TSN 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10527.ts
+#EXTINF:-1,US:TSN 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10526.ts
+#EXTINF:-1,US:TSN 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10525.ts
+#EXTINF:-1,US:TSN 5 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10524.ts
+#EXTINF:-1,US:UFC Fight Pass
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10523.ts
+#EXTINF:-1,US:US Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10522.ts
+#EXTINF:-1,US:USA Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10548.ts
+#EXTINF:-1,US:VH1 Classic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10521.ts
+#EXTINF:-1,US:WWE HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10520.ts
+#EXTINF:-1,US:ESPN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4198.ts
+#EXTINF:-1,US:NBA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3406.ts
+#EXTINF:-1,US:Channel 27
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3405.ts
+#EXTINF:-1,US: Food Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2789.ts
+#EXTINF:-1,US: Russia Today Documentary
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2030.ts
+#EXTINF:-1,US: RTV Banovina
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2027.ts
+#EXTINF:-1,USA : CBSN HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4309.ts
+#EXTINF:-1,USA | Versus HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4302.ts
+#EXTINF:-1,USA Network (US)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4292.ts
+#EXTINF:-1,US:A&E
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4390.ts
+#EXTINF:-1,US:ABC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4389.ts
+#EXTINF:-1,US:AMC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4450.ts
+#EXTINF:-1,US:beIN SPORTS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4449.ts
+#EXTINF:-1,US:Bravo
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4448.ts
+#EXTINF:-1,US:C-SPAN 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4447.ts
+#EXTINF:-1,US:C-SPAN 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4446.ts
+#EXTINF:-1,US:C-SPAN 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4445.ts
+#EXTINF:-1,US:Cartoon Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4444.ts
+#EXTINF:-1,US:CBS Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4442.ts
+#EXTINF:-1,US:CBS HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4441.ts
+#EXTINF:-1,US:CBS Reality
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4440.ts
+#EXTINF:-1,US:CNBC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4439.ts
+#EXTINF:-1,US:CNN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4438.ts
+#EXTINF:-1,US:Comedy Central
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4437.ts
+#EXTINF:-1,US:E!
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4434.ts
+#EXTINF:-1,US:ESPN 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4433.ts
+#EXTINF:-1,US:FOX News HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4431.ts
+#EXTINF:-1,US:FOX Sports 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4430.ts
+#EXTINF:-1,US:FOX Sports 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4429.ts
+#EXTINF:-1,US:FOX Sports HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4432.ts
+#EXTINF:-1,US:FXX HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4428.ts
+#EXTINF:-1,US:Golf Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4426.ts
+#EXTINF:-1,US:Golf Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4427.ts
+#EXTINF:-1,US:H2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4425.ts
+#EXTINF:-1,US:HBO 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4394.ts
+#EXTINF:-1,US:HBO East
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4393.ts
+#EXTINF:-1,US:HBO Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4392.ts
+#EXTINF:-1,US:Lifetime
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4423.ts
+#EXTINF:-1,US:MLB Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4421.ts
+#EXTINF:-1,US:MoreMAX
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4391.ts
+#EXTINF:-1,US:NBC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4420.ts
+#EXTINF:-1,US:NBC Sports Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4419.ts
+#EXTINF:-1,US:NFL Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4418.ts
+#EXTINF:-1,US:Nick
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4417.ts
+#EXTINF:-1,US:Showtime Showcase
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4387.ts
+#EXTINF:-1,US:Space
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4416.ts
+#EXTINF:-1,US:Spike
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4415.ts
+#EXTINF:-1,US:Sportsnet 360
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4414.ts
+#EXTINF:-1,US:Starz Edge
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4398.ts
+#EXTINF:-1,US:Starz Kids & Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4396.ts
+#EXTINF:-1,US:TNT
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4443.ts
+#EXTINF:-1,US:TNT HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4408.ts
+#EXTINF:-1,US:TSN1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4407.ts
+#EXTINF:-1,US:TSN2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4406.ts
+#EXTINF:-1,US:TSN3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4405.ts
+#EXTINF:-1,US:TSN4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4404.ts
+#EXTINF:-1,US:TSN5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4403.ts
+#EXTINF:-1,US:WWE Net Pak
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4401.ts
+#EXTINF:-1,US:HSN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4463.ts
+#EXTINF:-1,US:HSN 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4464.ts
+#EXTINF:-1,US:NASA HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4459.ts
+#EXTINF:-1,US:NASA TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4458.ts
+#EXTINF:-1,US:The Florida Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4465.ts
+#EXTINF:-1,US:TWiT Live
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4466.ts
+#EXTINF:-1,US:University of California TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4460.ts
+#EXTINF:-1,US:WGN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4461.ts
 
 
 
@@ -768,324 +1353,6 @@ http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2122.ts
 
 
 
-
-
-
-
-
-
-#EXTINF:-1,CA: ABC Spark HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15243.ts
-#EXTINF:-1,CA: CBC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16855.ts
-#EXTINF:-1,CA: CBC Vancover
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16853.ts
-#EXTINF:-1,CA: CBN News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3872.ts
-#EXTINF:-1,CA: CHCH HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17854.ts
-#EXTINF:-1,CA: CP24 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16821.ts
-#EXTINF:-1,CA: CTV 2 Vancover Island
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17853.ts
-#EXTINF:-1,CA: CityTV Vancouver
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16815.ts
-#EXTINF:-1,CA: Discovery Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17856.ts
-#EXTINF:-1,CA: Family CHRGD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15246.ts
-#EXTINF:-1,CA: Family HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16825.ts
-#EXTINF:-1,CA: CityTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17857.ts
-#EXTINF:-1,CA: Global BC
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16833.ts
-#EXTINF:-1,CA: Global Calgary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17851.ts
-#EXTINF:-1,CA: Global HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16832.ts
-#EXTINF:-1,CA: CTV Calgary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17860.ts
-#EXTINF:-1,CA: BNN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16856.ts
-#EXTINF:-1,CA: OMNI 1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16848.ts
-#EXTINF:-1,CA: Love Nature
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17852.ts
-#EXTINF:-1,CA: Peachtree HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17861.ts
-#EXTINF:-1,CA: TVO HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17859.ts
-#EXTINF:-1,CA: YTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16836.ts
-#EXTINF:-1,CA: W Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17855.ts
-#EXTINF:-1,CA: Slice HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16844.ts
-#EXTINF:-1,USA: 360 North
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3863.ts
-#EXTINF:-1,CA: TSC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14969.ts
-#EXTINF:-1,CA: OMNI 2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16847.ts
-#EXTINF:-1,CA: HGTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16830.ts
-#EXTINF:-1,CA: Disney Jr HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17858.ts
-#EXTINF:-1,USA: A&E
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9315.ts
-#EXTINF:-1,USA: ABC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16858.ts
-#EXTINF:-1,USA: ABC News
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2931.ts
-#EXTINF:-1,USA: ABC W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15244.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10167.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10166.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9518.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9519.ts
-#EXTINF:-1,USA: Astro SUPERSPORT 3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9520.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9516.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9517.ts
-#EXTINF:-1,USA: BBC America
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16857.ts
-#EXTINF:-1,USA: Animal Planet
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15250.ts
-#EXTINF:-1,USA: AMC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8415.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9488.ts
-#EXTINF:-1,USA: Bravo
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8691.ts
-#EXTINF:-1,USA: Church Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9536.ts
-#EXTINF:-1,USA: C-SPAN
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9318.ts
-#EXTINF:-1,USA: CBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16852.ts
-#EXTINF:-1,USA: CBC News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16854.ts
-#EXTINF:-1,USA: CBS News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9508.ts
-#EXTINF:-1,USA: CBS W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16850.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16851.ts
-#EXTINF:-1,USA: C-SPAN 3
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9320.ts
-#EXTINF:-1,USA: Bloomberg
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9510.ts
-#EXTINF:-1,USA: CNN News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16813.ts
-#EXTINF:-1,USA: CNN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8692.ts
-#EXTINF:-1,USA: ASD TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3861.ts
-#EXTINF:-1,USA: ESPN 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13230.ts
-#EXTINF:-1,USA: Channel 11
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3860.ts
-#EXTINF:-1,USA: Country Music Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3859.ts
-#EXTINF:-1,USA: Comedy Central
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15249.ts
-#EXTINF:-1,USA: OWN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16846.ts
-#EXTINF:-1,USA: Discovery Science
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9546.ts
-#EXTINF:-1,USA: Discovery Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15248.ts
-#EXTINF:-1,USA: Discovery Channel CA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16823.ts
-#EXTINF:-1,USA: Eurosport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14079.ts
-#EXTINF:-1,USA: E!
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8417.ts
-#EXTINF:-1,USA: Family Junior HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15247.ts
-#EXTINF:-1,USA: Food Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9337.ts
-#EXTINF:-1,USA: FXX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16834.ts
-#EXTINF:-1,USA: Fight Sport
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8308.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8681.ts
-#EXTINF:-1,USA: Fox Sport 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9391.ts
-#EXTINF:-1,USA: NBA TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8309.ts
-#EXTINF:-1,USA: HBO FAMILY
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8414.ts
-#EXTINF:-1,USA: HBO HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8411.ts
-#EXTINF:-1,USA: HBO ZONE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8412.ts
-#EXTINF:-1,USA: LIFE TIME
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8687.ts
-#EXTINF:-1,USA: HBO Comedy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9831.ts
-#EXTINF:-1,USA: History HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15245.ts
-#EXTINF:-1,USA: Mello TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9502.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9523.ts
-#EXTINF:-1,USA: MLB Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15239.ts
-#EXTINF:-1,USA: Fox 43
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10174.ts
-#EXTINF:-1,USA: ID HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16827.ts
-#EXTINF:-1,USA: HLN HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16828.ts
-#EXTINF:-1,USA: HGTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16829.ts
-#EXTINF:-1,USA: NHL Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12479.ts
-#EXTINF:-1,USA: NBC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8393.ts
-#EXTINF:-1,USA: NBC W HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16849.ts
-#EXTINF:-1,USA: Nick
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9333.ts
-#EXTINF:-1,USA: NBCSN Golf HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9526.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9499.ts
-#EXTINF:-1,USA: Hallmark Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16831.ts
-#EXTINF:-1,USA: FX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16835.ts
-#EXTINF:-1,USA: Fox News HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16826.ts
-#EXTINF:-1,USA: FOX HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16824.ts
-#EXTINF:-1,USA: Disney XD HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16822.ts
-#EXTINF:-1,USA: CTV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16820.ts
-#EXTINF:-1,USA: CSPAN 2
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9319.ts
-#EXTINF:-1,USA: PAC Network National 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14068.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14070.ts
-#EXTINF:-1,USA: PAC Mountain 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14067.ts
-#EXTINF:-1,USA: E! Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9321.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14072.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14069.ts
-#EXTINF:-1,USA: BeIN Sports USA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13227.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14071.ts
-#EXTINF:-1,USA: PAC-12 Washington HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10143.ts
-#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14073.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14075.ts
-#EXTINF:-1,USA: RT America HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9498.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14077.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14076.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14074.ts
-#EXTINF:-1,USA: RT Documentary
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9497.ts
-#EXTINF:-1,USA: PBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16845.ts
-#EXTINF:-1,USA: PAC-12 Net. (Encore)
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14078.ts
-#EXTINF:-1,USA: Tru TV HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9330.ts
-#EXTINF:-1,USA: USA Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9329.ts
-#EXTINF:-1,USA: Willow HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9328.ts
-#EXTINF:-1,USA: WWE
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9530.ts
-#EXTINF:-1,USA: Tsn Sport 1 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8293.ts
-#EXTINF:-1,USA: Tsn Sport 2 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8292.ts
-#EXTINF:-1,USA: Tsn Sport 3 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8291.ts
-#EXTINF:-1,USA: Tsn Sport 4 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8290.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8289.ts
-#EXTINF:-1,USA: Tsn Sport 5 HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/12547.ts
-#EXTINF:-1,USA: WWE Network
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8410.ts
-#EXTINF:-1,USA: UALR TV
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/3865.ts
-#EXTINF:-1,USA: Teletoon
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/15251.ts
-#EXTINF:-1,USA: WHDH
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9491.ts
-#EXTINF:-1,USA: Travel Channel HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9476.ts
-#EXTINF:-1,USA: The Florida Channel
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9495.ts
-#EXTINF:-1,USA: TBS HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8685.ts
-#EXTINF:-1,USA: TBN
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9542.ts
-#EXTINF:-1,USA: TNT HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13180.ts
-#EXTINF:-1,USA: Sportsnet World
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14032.ts
-#EXTINF:-1,USA: Sportnet  One HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14037.ts
-#EXTINF:-1,USA: Sporstnet Pacific HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14033.ts
-#EXTINF:-1,USA: Sporstnet Ontario HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14034.ts
-#EXTINF:-1,USA: Sporstnet East HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14035.ts
-#EXTINF:-1,USA: Sporstnet 360
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14036.ts
-#EXTINF:-1,USA: Sundance HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16840.ts
-#EXTINF:-1,USA: Sportsnet West HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13232.ts
-#EXTINF:-1,USA: Spike HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13179.ts
-#EXTINF:-1,USA: TLC HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9480.ts
-#EXTINF:-1,USA: Starz  Edge
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/10171.ts
-#EXTINF:-1,USA: TLC CA HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16838.ts
-#EXTINF:-1,USA: Velocity HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16837.ts
-#EXTINF:-1,USA: Star Z Cinema
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9832.ts
-#EXTINF:-1,USA: Starz Comedy
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16843.ts
-#EXTINF:-1,USA: Starz Encore
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16842.ts
-#EXTINF:-1,USA: Starz Kids & Family
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16841.ts
-#EXTINF:-1,USA: SYFY HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/16839.ts
-#EXTINF:-1,USA: NFL Network HD
-http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8693.ts
 
 
 

@@ -1,434 +1,747 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,VIP_SeeVii_Al_Aoula_HD
-http://your-tv.me:8000/live/local1/123456/4402.ts
-#EXTINF:-1,VIP_SeeVii_Beelink_HD
-http://your-tv.me:8000/live/local1/123456/4401.ts
-#EXTINF:-1,VIP_SeeVii_Drama_HD
-http://your-tv.me:8000/live/local1/123456/4400.ts
-#EXTINF:-1,VIP_SeeVii_Shamiya_HD
-http://your-tv.me:8000/live/local1/123456/4399.ts
-#EXTINF:-1,AR: ART AFLAM 1
-http://your-tv.me:8000/live/local1/123456/194.ts
-#EXTINF:-1,AR: ART AFLAM 2
-http://your-tv.me:8000/live/local1/123456/193.ts
-#EXTINF:-1,AR: ART HEKAYAT 1
-http://your-tv.me:8000/live/local1/123456/191.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://your-tv.me:8000/live/local1/123456/190.ts
-#EXTINF:-1,AR: ART CINEMA
-http://your-tv.me:8000/live/local1/123456/192.ts
+#EXTINF:-1,AR: MBC 1HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1872.ts
+#EXTINF:-1,AR: MBC 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1871.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1870.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1869.ts
+#EXTINF:-1,AR: MBC MAX HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1866.ts
+#EXTINF:-1,AR: MBC Drama HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1867.ts
+#EXTINF:-1,AR:MBC+ Drama HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6023.ts
+#EXTINF:-1,AR: MBC Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1868.ts
+#EXTINF:-1,AR:MBC Bollywood HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6027.ts
+#EXTINF:-1,AR:MBC Masr 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6026.ts
+#EXTINF:-1,AR:MBC MASR HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6025.ts
+#EXTINF:-1,AR:MBC VARIETY HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6024.ts
+#EXTINF:-1,=====MBC PRO SPORT=====
+http://iptvlocal.com/
+#EXTINF:-1,MBC SPORT HD 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/70.ts
+#EXTINF:-1,MBC SPORT HD 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/69.ts
+#EXTINF:-1,MBC SPORT HD 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/68.ts
+#EXTINF:-1,MBC SPORT HD 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/71.ts
+#EXTINF:-1,===== ROTANA HD =====
+http://iptvlocal.com/
+#EXTINF:-1,AR:Rotana Music HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3017.ts
+#EXTINF:-1,AR:Rotana Masriah HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3018.ts
+#EXTINF:-1,AR:Rotana Khalijiah HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3019.ts
+#EXTINF:-1,AR:Rotana Classic HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3020.ts
+#EXTINF:-1,AR:Rotana Cinema HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3021.ts
+#EXTINF:-1,AR:Rotana Aflam HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3022.ts
+#EXTINF:-1,===== ARABIC CHANNELS =====
+http://iptvlocal.com/
+#EXTINF:-1,AR: ONE ONTV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1131.ts
+#EXTINF:-1,ART_Aflam_1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/16.ts
+#EXTINF:-1,ART_Aflam_2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/15.ts
+#EXTINF:-1,ART_Cinema
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/14.ts
+#EXTINF:-1,ART_Hekayat
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/13.ts
+#EXTINF:-1,ART_Hekayat_2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/12.ts
+#EXTINF:-1,OSN2: CINEMA_1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1184.ts
+#EXTINF:-1,OSN2: CINEMA_2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1185.ts
+#EXTINF:-1,AR: Al Aan TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2962.ts
+#EXTINF:-1,AR:ALJADID_LEBANON
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1918.ts
+#EXTINF:-1,AR: Funoon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1873.ts
+#EXTINF:-1,AR:Mazzika
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7955.ts
+#EXTINF:-1,AR:Cinema Pro ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10285.ts
+#EXTINF:-1,AR:DJazairia ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10284.ts
+#EXTINF:-1,AR:DMC Drama ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10283.ts
+#EXTINF:-1,AR:DMC HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10282.ts
+#EXTINF:-1,AR:DMC Sport ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10281.ts
+#EXTINF:-1,AR:Dream 2 ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10280.ts
+#EXTINF:-1,AR: Cima
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1874.ts
+#EXTINF:-1,AR: ZEEALWAN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/17.ts
+#EXTINF:-1,AR: BARAEM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/53.ts
+#EXTINF:-1,AR: B4U AFLAM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1875.ts
+#EXTINF:-1,AR: Abu Dhabi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8605.ts
+#EXTINF:-1,AR:Almasirah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9177.ts
+#EXTINF:-1,AR:Alrashid
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10164.ts
+#EXTINF:-1,AR:Hona Baghdad
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8459.ts
+#EXTINF:-1,AR:AL Iraqiya Sport
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4365.ts
+#EXTINF:-1,AR:NRT Arabiya
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4364.ts
+#EXTINF:-1,AR:AlArabiya HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4612.ts
+#EXTINF:-1,AR:Qatar Tv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4362.ts
+#EXTINF:-1,AR:B4U_PLUS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1916.ts
+#EXTINF:-1,AR: Cartoon_Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2098.ts
+#EXTINF:-1,AR:Al Nahar
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10286.ts
+#EXTINF:-1,AR:Al Nahar Cinema
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10287.ts
+#EXTINF:-1,AR:Al Nahar Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10288.ts
+#EXTINF:-1,AR:Al Nahar Laki
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10289.ts
+#EXTINF:-1,AR:Al Nahar Sport
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10290.ts
+#EXTINF:-1,AR:Ajyal
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5359.ts
+#EXTINF:-1,AR:MAJD-KIDS
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5383.ts
+#EXTINF:-1,AR: Toyor-jannah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2097.ts
+#EXTINF:-1,AR:Al Quraan
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5360.ts
+#EXTINF:-1,AR: Cairo Aflam
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2096.ts
 #EXTINF:-1,AR: MBC 1
-http://your-tv.me:8000/live/local1/123456/141.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/38.ts
 #EXTINF:-1,AR: MBC 2
-http://your-tv.me:8000/live/local1/123456/140.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1132.ts
 #EXTINF:-1,AR: MBC 3
-http://your-tv.me:8000/live/local1/123456/139.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/45.ts
 #EXTINF:-1,AR: MBC 4
-http://your-tv.me:8000/live/local1/123456/138.ts
-#EXTINF:-1,AR: MBC MAX
-http://your-tv.me:8000/live/local1/123456/493.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/44.ts
 #EXTINF:-1,AR: MBC Action
-http://your-tv.me:8000/live/local1/123456/137.ts
-#EXTINF:-1,AR: MBC Drama
-http://your-tv.me:8000/live/local1/123456/135.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/43.ts
+#EXTINF:-1,AR: MBC Bollywood
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/42.ts
 #EXTINF:-1,AR: MBC MASR
-http://your-tv.me:8000/live/local1/123456/134.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/40.ts
 #EXTINF:-1,AR: MBC MASR 2
-http://your-tv.me:8000/live/local1/123456/133.ts
-#EXTINF:-1,AR: MBC PRO SPORT 1HD
-http://your-tv.me:8000/live/local1/123456/132.ts
-#EXTINF:-1,AR: MBC PRO SPORT 2 HD
-http://your-tv.me:8000/live/local1/123456/131.ts
-#EXTINF:-1,AR:Rotana_Khalijia_HD
-http://your-tv.me:8000/live/local1/123456/2099.ts
-#EXTINF:-1,AR:Rotana_Cinema_HD
-http://your-tv.me:8000/live/local1/123456/2105.ts
-#EXTINF:-1,AR:Rotana_Classic_HD
-http://your-tv.me:8000/live/local1/123456/2100.ts
-#EXTINF:-1,AR:Rotana_Music_HD
-http://your-tv.me:8000/live/local1/123456/2097.ts
-#EXTINF:-1,AR:Rotana_Masriya_HD
-http://your-tv.me:8000/live/local1/123456/2098.ts
-#EXTINF:-1,LROTANA AFLAM
-http://your-tv.me:8000/live/local1/123456/1893.ts
-#EXTINF:-1,LROTANA CINEMA
-http://your-tv.me:8000/live/local1/123456/1873.ts
-#EXTINF:-1,LROTANA CLASSIC
-http://your-tv.me:8000/live/local1/123456/1894.ts
-#EXTINF:-1,LROTANA MASRIYAH
-http://your-tv.me:8000/live/local1/123456/1895.ts
-#EXTINF:-1,LROTANA CLIP
-http://your-tv.me:8000/live/local1/123456/4331.ts
-#EXTINF:-1,LROTANA MUSIC
-http://your-tv.me:8000/live/local1/123456/4332.ts
-#EXTINF:-1,LLDC
-http://your-tv.me:8000/live/local1/123456/1901.ts
-#EXTINF:-1,AR: JORDAN NOW
-http://your-tv.me:8000/live/local1/123456/1863.ts
-#EXTINF:-1,AR: OTV
-http://your-tv.me:8000/live/local1/123456/111.ts
-#EXTINF:-1,AR-LEBANON-TV
-http://your-tv.me:8000/live/local1/123456/565.ts
-#EXTINF:-1,AR: Syria_TV
-http://your-tv.me:8000/live/local1/123456/7.ts
-#EXTINF:-1,AR: Syria_Drama
-http://your-tv.me:8000/live/local1/123456/87.ts
-#EXTINF:-1,AR: SAMA SYRIA
-http://your-tv.me:8000/live/local1/123456/95.ts
-#EXTINF:-1,AR: Syria_News
-http://your-tv.me:8000/live/local1/123456/8.ts
-#EXTINF:-1,AR:Syrian_Education
-http://your-tv.me:8000/live/local1/123456/11.ts
-#EXTINF:-1,AR: Al Mayadeen
-http://your-tv.me:8000/live/local1/123456/117.ts
-#EXTINF:-1,AR-Nile Comedy
-http://your-tv.me:8000/live/local1/123456/546.ts
-#EXTINF:-1,AR: cima-ali-baba
-http://your-tv.me:8000/live/local1/123456/81.ts
-#EXTINF:-1,AR: Alhayat 1
-http://your-tv.me:8000/live/local1/123456/219.ts
-#EXTINF:-1,AR: ALHAYAT MUSALSALAT
-http://your-tv.me:8000/live/local1/123456/220.ts
-#EXTINF:-1,AR: AL NAHAR TV
-http://your-tv.me:8000/live/local1/123456/235.ts
-#EXTINF:-1,AR: AL NAHAR 2
-http://your-tv.me:8000/live/local1/123456/238.ts
-#EXTINF:-1,LNILE DRAMA
-http://your-tv.me:8000/live/local1/123456/4340.ts
-#EXTINF:-1,LNILE CINEMA
-http://your-tv.me:8000/live/local1/123456/4338.ts
-#EXTINF:-1,LNILE FAMILY AND KIDS
-http://your-tv.me:8000/live/local1/123456/4335.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/39.ts
+#EXTINF:-1,AR: MELODY CLASSIC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/37.ts
 #EXTINF:-1,AR: NILE CINEMA
-http://your-tv.me:8000/live/local1/123456/122.ts
-#EXTINF:-1,AR-NILETV
-http://your-tv.me:8000/live/local1/123456/539.ts
-#EXTINF:-1,AR-Nile-Drama
-http://your-tv.me:8000/live/local1/123456/541.ts
-#EXTINF:-1,AR-Nile sport
-http://your-tv.me:8000/live/local1/123456/548.ts
-#EXTINF:-1,AR: Majan
-http://your-tv.me:8000/live/local1/123456/99.ts
-#EXTINF:-1,AR: Al Falastiniah
-http://your-tv.me:8000/live/local1/123456/97.ts
-#EXTINF:-1,AR: music-sha3by-tv
-http://your-tv.me:8000/live/local1/123456/98.ts
-#EXTINF:-1,AR:ALKAHERA WANAS 1
-http://your-tv.me:8000/live/local1/123456/1898.ts
-#EXTINF:-1,AR: PANORAMA FILM
-http://your-tv.me:8000/live/local1/123456/109.ts
-#EXTINF:-1,AR-SAT 7 ARABIC
-http://your-tv.me:8000/live/local1/123456/610.ts
-#EXTINF:-1,AR- SAT 7 KIDS
-http://your-tv.me:8000/live/local1/123456/611.ts
-#EXTINF:-1,AR: Cairo Cinema
-http://your-tv.me:8000/live/local1/123456/183.ts
-#EXTINF:-1,AR: CAIRO DRAMA
-http://your-tv.me:8000/live/local1/123456/182.ts
-#EXTINF:-1,AR: Jazeera KIDS HD
-http://your-tv.me:8000/live/local1/123456/72.ts
-#EXTINF:-1,AR: Hod Hod Arabic
-http://your-tv.me:8000/live/local1/123456/73.ts
-#EXTINF:-1,AR: Smile of a Child
-http://your-tv.me:8000/live/local1/123456/74.ts
-#EXTINF:-1,AR: Moga Comedy
-http://your-tv.me:8000/live/local1/123456/75.ts
-#EXTINF:-1,AR: alsirat
-http://your-tv.me:8000/live/local1/123456/175.ts
-#EXTINF:-1,AR: suhail-tv
-http://your-tv.me:8000/live/local1/123456/156.ts
-#EXTINF:-1,AR- starfone
-http://your-tv.me:8000/live/local1/123456/601.ts
-#EXTINF:-1,AR-Nile Cinma
-http://your-tv.me:8000/live/local1/123456/547.ts
-#EXTINF:-1,LCIMA
-http://your-tv.me:8000/live/local1/123456/4334.ts
-#EXTINF:-1,LTOKTOK CIMA
-http://your-tv.me:8000/live/local1/123456/4339.ts
-#EXTINF:-1,AR: CIMA
-http://your-tv.me:8000/live/local1/123456/176.ts
-#EXTINF:-1,AR: al-taleaa-tv
-http://your-tv.me:8000/live/local1/123456/174.ts
-#EXTINF:-1,AR: toktok-cima
-http://your-tv.me:8000/live/local1/123456/173.ts
-#EXTINF:-1,AR: orient
-http://your-tv.me:8000/live/local1/123456/90.ts
-#EXTINF:-1,AR: 7besha
-http://your-tv.me:8000/live/local1/123456/172.ts
-#EXTINF:-1,AR: Toktokaflam
-http://your-tv.me:8000/live/local1/123456/492.ts
-#EXTINF:-1,AR: TV CNE
-http://your-tv.me:8000/live/local1/123456/514.ts
-#EXTINF:-1,AR-CINEMA PRO
-http://your-tv.me:8000/live/local1/123456/584.ts
-#EXTINF:-1,AR-IFILM-ARABIC
-http://your-tv.me:8000/live/local1/123456/585.ts
-#EXTINF:-1,AR-DMC Sports
-http://your-tv.me:8000/live/local1/123456/519.ts
-#EXTINF:-1,AR-ALaan TV
-http://your-tv.me:8000/live/local1/123456/553.ts
-#EXTINF:-1,AR-ONTV-Live
-http://your-tv.me:8000/live/local1/123456/525.ts
-#EXTINF:-1,AR-Aljadeed
-http://your-tv.me:8000/live/local1/123456/526.ts
-#EXTINF:-1,AR: al-shasha-cinema
-http://your-tv.me:8000/live/local1/123456/161.ts
-#EXTINF:-1,AR: Al Iraqiya 3 Sports
-http://your-tv.me:8000/live/local1/123456/115.ts
-#EXTINF:-1,AR: Al Hadath
-http://your-tv.me:8000/live/local1/123456/113.ts
-#EXTINF:-1,AR-Atfal w mawaheb
-http://your-tv.me:8000/live/local1/123456/608.ts
-#EXTINF:-1,AR- BERBERE TELEVISION
-http://your-tv.me:8000/live/local1/123456/604.ts
-#EXTINF:-1,AFLAM-TV-Maroc
-http://your-tv.me:8000/live/local1/123456/503.ts
-#EXTINF:-1,AR: DUBAI DRAMA HD
-http://your-tv.me:8000/live/local1/123456/166.ts
-#EXTINF:-1,AR: SAMA DUBAI
-http://your-tv.me:8000/live/local1/123456/96.ts
-#EXTINF:-1,AR: NOOR DUBAI
-http://your-tv.me:8000/live/local1/123456/116.ts
-#EXTINF:-1,AR: ABUDHABI DRAMA HD
-http://your-tv.me:8000/live/local1/123456/257.ts
-#EXTINF:-1,AR-ALSHARQIYA
-http://your-tv.me:8000/live/local1/123456/622.ts
-#EXTINF:-1,AR-DUBAI-RACING 2
-http://your-tv.me:8000/live/local1/123456/2005.ts
-#EXTINF:-1,AR-DUBAI-SPORTS
-http://your-tv.me:8000/live/local1/123456/599.ts
-#EXTINF:-1,AR-Dubai-Alan
-http://your-tv.me:8000/live/local1/123456/600.ts
-#EXTINF:-1,AR-ALHAYAH ALAAN
-http://your-tv.me:8000/live/local1/123456/574.ts
-#EXTINF:-1,LBAHRAIN TV
-http://your-tv.me:8000/live/local1/123456/614.ts
-#EXTINF:-1,LBAHRAIN SPORTS
-http://your-tv.me:8000/live/local1/123456/615.ts
-#EXTINF:-1,LBAHRAIN INTERNATIONAL
-http://your-tv.me:8000/live/local1/123456/616.ts
-#EXTINF:-1,LBAHRAIN QURAN
-http://your-tv.me:8000/live/local1/123456/617.ts
-#EXTINF:-1,AR-Dmc Drama
-http://your-tv.me:8000/live/local1/123456/518.ts
-#EXTINF:-1,AR: Taha TV
-http://your-tv.me:8000/live/local1/123456/151.ts
-#EXTINF:-1,AR: Al-SUMARIA
-http://your-tv.me:8000/live/local1/123456/227.ts
-#EXTINF:-1,AR: alm3refa
-http://your-tv.me:8000/live/local1/123456/169.ts
-#EXTINF:-1,AR-ALHURRA-IRAQ
-http://your-tv.me:8000/live/local1/123456/639.ts
-#EXTINF:-1,AR- HANNIBAL TV
-http://your-tv.me:8000/live/local1/123456/613.ts
-#EXTINF:-1,AR- NESSMA TV
-http://your-tv.me:8000/live/local1/123456/619.ts
-#EXTINF:-1,AR: Aljazera News
-http://your-tv.me:8000/live/local1/123456/635.ts
-#EXTINF:-1,AR: FADAK TV
-http://your-tv.me:8000/live/local1/123456/149.ts
-#EXTINF:-1,AR: AL-Fayhaa
-http://your-tv.me:8000/live/local1/123456/229.ts
-#EXTINF:-1,AR: Al Anwar 2
-http://your-tv.me:8000/live/local1/123456/261.ts
-#EXTINF:-1,AR-Palestine-HQ
-http://your-tv.me:8000/live/local1/123456/522.ts
-#EXTINF:-1,AR: libyaelwatan
-http://your-tv.me:8000/live/local1/123456/262.ts
-#EXTINF:-1,AR- MODERN SPORTS
-http://your-tv.me:8000/live/local1/123456/620.ts
-#EXTINF:-1,AR: FUTURE TV INT
-http://your-tv.me:8000/live/local1/123456/148.ts
-#EXTINF:-1,AR: Alghadir TV
-http://your-tv.me:8000/live/local1/123456/222.ts
-#EXTINF:-1,AR: Waar
-http://your-tv.me:8000/live/local1/123456/488.ts
-#EXTINF:-1,AR- CANAL ALGERIE
-http://your-tv.me:8000/live/local1/123456/605.ts
-#EXTINF:-1,AR: Al Mayaden
-http://your-tv.me:8000/live/local1/123456/621.ts
-#EXTINF:-1,AR-ALHORREYA
-http://your-tv.me:8000/live/local1/123456/640.ts
-#EXTINF:-1,AR:ELBILAD_ALGE
-http://your-tv.me:8000/live/local1/123456/2179.ts
-#EXTINF:-1,AR:ElHEDDAF
-http://your-tv.me:8000/live/local1/123456/2178.ts
-#EXTINF:-1,AR: green-life
-http://your-tv.me:8000/live/local1/123456/2265.ts
-#EXTINF:-1,AR: ont-test-9
-http://your-tv.me:8000/live/local1/123456/76.ts
-#EXTINF:-1,AR: UNRWA
-http://your-tv.me:8000/live/local1/123456/78.ts
-#EXTINF:-1,AR: zaytoona
-http://your-tv.me:8000/live/local1/123456/77.ts
-#EXTINF:-1,AR: tunisna
-http://your-tv.me:8000/live/local1/123456/79.ts
-#EXTINF:-1,AR: Hanibal
-http://your-tv.me:8000/live/local1/123456/2266.ts
-#EXTINF:-1,AR: Hannibal
-http://your-tv.me:8000/live/local1/123456/152.ts
-#EXTINF:-1,AR: ZITOUNA TV
-http://your-tv.me:8000/live/local1/123456/67.ts
-#EXTINF:-1,AR: alqanat-9
-http://your-tv.me:8000/live/local1/123456/68.ts
-#EXTINF:-1,AR-Al Nahar Cinma
-http://your-tv.me:8000/live/local1/123456/557.ts
-#EXTINF:-1,AR- TUNISIA NAT 2
-http://your-tv.me:8000/live/local1/123456/588.ts
-#EXTINF:-1,AR: ATTESIA TV Tunis
-http://your-tv.me:8000/live/local1/123456/188.ts
-#EXTINF:-1,AR: afrah-tv
-http://your-tv.me:8000/live/local1/123456/218.ts
-#EXTINF:-1,AR: kokky-tv
-http://your-tv.me:8000/live/local1/123456/259.ts
-#EXTINF:-1,AR-2m-maroc
-http://your-tv.me:8000/live/local1/123456/533.ts
-#EXTINF:-1,AR: ASSADISA MAROC
-http://your-tv.me:8000/live/local1/123456/189.ts
-#EXTINF:-1,AR: MEDI1 SAT
-http://your-tv.me:8000/live/local1/123456/129.ts
-#EXTINF:-1,AR: MAGHARIBIA 2
-http://your-tv.me:8000/live/local1/123456/142.ts
-#EXTINF:-1,AR:TAMAZIGHT MAROC
-http://your-tv.me:8000/live/local1/123456/2175.ts
-#EXTINF:-1,AR: ENNAHAR LAKI
-http://your-tv.me:8000/live/local1/123456/157.ts
-#EXTINF:-1,AR: ENNAHAR ALGERIA
-http://your-tv.me:8000/live/local1/123456/158.ts
-#EXTINF:-1,AR: ECHOROUQ NEWS
-http://your-tv.me:8000/live/local1/123456/159.ts
-#EXTINF:-1,AR: DZAIR TV
-http://your-tv.me:8000/live/local1/123456/162.ts
-#EXTINF:-1,AR: LIBYA 218
-http://your-tv.me:8000/live/local1/123456/145.ts
-#EXTINF:-1,AR: syria-tv-hd
-http://your-tv.me:8000/live/local1/123456/58.ts
-#EXTINF:-1,AR: syria-tv-sd
-http://your-tv.me:8000/live/local1/123456/60.ts
-#EXTINF:-1,AR: karbala-tv
-http://your-tv.me:8000/live/local1/123456/62.ts
-#EXTINF:-1,AR: lcd-movies
-http://your-tv.me:8000/live/local1/123456/57.ts
-#EXTINF:-1,AR: Majid_Kids
-http://your-tv.me:8000/live/local1/123456/512.ts
-#EXTINF:-1,AR- SURYANA TV
-http://your-tv.me:8000/live/local1/123456/612.ts
-#EXTINF:-1,AR: WANASAH
-http://your-tv.me:8000/live/local1/123456/71.ts
-#EXTINF:-1,AR: AGHANINA TV
-http://your-tv.me:8000/live/local1/123456/255.ts
-#EXTINF:-1,AR: syrian-education
-http://your-tv.me:8000/live/local1/123456/94.ts
-#EXTINF:-1,AR-Ajial-TV
-http://your-tv.me:8000/live/local1/123456/586.ts
-#EXTINF:-1,AR: AL ARABIA NEWS
-http://your-tv.me:8000/live/local1/123456/250.ts
-#EXTINF:-1,AR: AL ARABIA AL HADATH
-http://your-tv.me:8000/live/local1/123456/251.ts
-#EXTINF:-1,AR: ALSHARQIA NEWS
-http://your-tv.me:8000/live/local1/123456/201.ts
-#EXTINF:-1,AR: ALJAZEERA MUBASHER
-http://your-tv.me:8000/live/local1/123456/211.ts
-#EXTINF:-1,AR-Aljazeera-English
-http://your-tv.me:8000/live/local1/123456/638.ts
-#EXTINF:-1,AR: SKY NEWS ARABIA
-http://your-tv.me:8000/live/local1/123456/91.ts
-#EXTINF:-1,AR: josat
-http://your-tv.me:8000/live/local1/123456/154.ts
-#EXTINF:-1,AR-NILE-NEWS
-http://your-tv.me:8000/live/local1/123456/540.ts
-#EXTINF:-1,AR: DW TV ARABIA
-http://your-tv.me:8000/live/local1/123456/163.ts
-#EXTINF:-1,AR- saudi-anti-terrorism
-http://your-tv.me:8000/live/local1/123456/589.ts
-#EXTINF:-1,AR-DMC HD
-http://your-tv.me:8000/live/local1/123456/517.ts
-#EXTINF:-1,AR: Orient_TV
-http://your-tv.me:8000/live/local1/123456/510.ts
-#EXTINF:-1,AR-Iraq-now
-http://your-tv.me:8000/live/local1/123456/582.ts
-#EXTINF:-1,AR: BBC ARABIC
-http://your-tv.me:8000/live/local1/123456/185.ts
-#EXTINF:-1,AR:Almajd-1
-http://your-tv.me:8000/live/local1/123456/1875.ts
-#EXTINF:-1,AR: Almajd-Quran
-http://your-tv.me:8000/live/local1/123456/1874.ts
-#EXTINF:-1,AR: ALMAJD-KIDS
-http://your-tv.me:8000/live/local1/123456/1876.ts
-#EXTINF:-1,AR: Quran_TV
-http://your-tv.me:8000/live/local1/123456/516.ts
-#EXTINF:-1,LAL RESALAH
-http://your-tv.me:8000/live/local1/123456/4326.ts
-#EXTINF:-1,AR: Wesal_TV
-http://your-tv.me:8000/live/local1/123456/483.ts
-#EXTINF:-1,AR: ALRASHID
-http://your-tv.me:8000/live/local1/123456/202.ts
-#EXTINF:-1,AR: Huda
-http://your-tv.me:8000/live/local1/123456/6023.ts
-#EXTINF:-1,AR: Azhari
-http://your-tv.me:8000/live/local1/123456/6024.ts
-#EXTINF:-1,AR:Safa TV
-http://your-tv.me:8000/live/local1/123456/2185.ts
-#EXTINF:-1,AR-Noor Dubai tv
-http://your-tv.me:8000/live/local1/123456/538.ts
-#EXTINF:-1,AR: SAT-7-Kids
-http://your-tv.me:8000/live/local1/123456/507.ts
-#EXTINF:-1,AR-Al Nahar Al Youm
-http://your-tv.me:8000/live/local1/123456/556.ts
-#EXTINF:-1,AR- Elhiwar Ettounsi TV
-http://your-tv.me:8000/live/local1/123456/606.ts
-#EXTINF:-1,AR-ARRABIA
-http://your-tv.me:8000/live/local1/123456/576.ts
-#EXTINF:-1,AR: ZEE ALWAN
-http://your-tv.me:8000/live/local1/123456/69.ts
-#EXTINF:-1,AR: ZEE AFLAM
-http://your-tv.me:8000/live/local1/123456/70.ts
-#EXTINF:-1,LALAAN TV
-http://your-tv.me:8000/live/local1/123456/2094.ts
-#EXTINF:-1,LAL AHLY TV
-http://your-tv.me:8000/live/local1/123456/4328.ts
-#EXTINF:-1,LAL ARABIYA
-http://your-tv.me:8000/live/local1/123456/2096.ts
-#EXTINF:-1,LAL HADATH
-http://your-tv.me:8000/live/local1/123456/2186.ts
-#EXTINF:-1,LAL HAYAT 2
-http://your-tv.me:8000/live/local1/123456/1899.ts
-#EXTINF:-1,LAL DAFRAH
-http://your-tv.me:8000/live/local1/123456/2092.ts
-#EXTINF:-1,LB4U AFLAM
-http://your-tv.me:8000/live/local1/123456/2093.ts
-#EXTINF:-1,LBBC ARABIC
-http://your-tv.me:8000/live/local1/123456/2176.ts
-#EXTINF:-1,LDUBAI SPORT4
-http://your-tv.me:8000/live/local1/123456/4330.ts
-#EXTINF:-1,LDW TV
-http://your-tv.me:8000/live/local1/123456/2191.ts
-#EXTINF:-1,LPANORAMA DRAMA2
-http://your-tv.me:8000/live/local1/123456/4337.ts
-#EXTINF:-1,LFUTURE TV
-http://your-tv.me:8000/live/local1/123456/1900.ts
-#EXTINF:-1,LALMASEERA
-http://your-tv.me:8000/live/local1/123456/4333.ts
-#EXTINF:-1,LJORDAN
-http://your-tv.me:8000/live/local1/123456/2095.ts
-#EXTINF:-1,LAL MASRIYAH
-http://your-tv.me:8000/live/local1/123456/4336.ts
-#EXTINF:-1,LNATIONAL GEOGRAPHIC ABU DHABI
-http://your-tv.me:8000/live/local1/123456/4325.ts
-#EXTINF:-1,LPANORAMA DRAMA
-http://your-tv.me:8000/live/local1/123456/4341.ts
-#EXTINF:-1,LQUEST TV
-http://your-tv.me:8000/live/local1/123456/4342.ts
-#EXTINF:-1,LSCOPE TV
-http://your-tv.me:8000/live/local1/123456/4343.ts
-#EXTINF:-1,LSKY NEWS ARABIA HD
-http://your-tv.me:8000/live/local1/123456/2177.ts
-#EXTINF:-1,LCBC EXTRA
-http://your-tv.me:8000/live/local1/123456/1896.ts
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/35.ts
+#EXTINF:-1,AR: NILE COMEDY
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/34.ts
+#EXTINF:-1,AR: Nile Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/33.ts
+#EXTINF:-1,AR: Nile Family
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/32.ts
+#EXTINF:-1,AR:Music Alhanen
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3139.ts
+#EXTINF:-1,AR:Music Al Remas
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3137.ts
+#EXTINF:-1,AR:Music Al Haneen
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3138.ts
+#EXTINF:-1,AR:Alrai
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4354.ts
+#EXTINF:-1,AR:Bahrain Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4353.ts
+#EXTINF:-1,AR:Bahrain Sport 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6033.ts
+#EXTINF:-1,AR:Bahrain TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4352.ts
+#EXTINF:-1,AR:Karameesh
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4609.ts
+#EXTINF:-1,AR:Semsem
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4453.ts
+#EXTINF:-1,AR:Kolalnas TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6046.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2915.ts
+#EXTINF:-1,AR: Rotana Clip
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2916.ts
+#EXTINF:-1,AR: Rotana Aflam
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3015.ts
+#EXTINF:-1,AR: Rotana Cinema Egypt
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/29.ts
+#EXTINF:-1,AR: Rotana Classic
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/28.ts
+#EXTINF:-1,AR: Rotana Music Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/27.ts
+#EXTINF:-1,AR:National_Geographic_abu_dhabi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1183.ts
+#EXTINF:-1,AR: TIME_COMEDY
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1179.ts
+#EXTINF:-1,AR: TIME_CINEMA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1180.ts
+#EXTINF:-1,AR: Cairo Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1220.ts
+#EXTINF:-1,AR: Panorama_Food
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1218.ts
+#EXTINF:-1,AR: Panorama_Film
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1216.ts
+#EXTINF:-1,AR: Panorama_Drama_2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1215.ts
+#EXTINF:-1,AR: Panorama_Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1214.ts
+#EXTINF:-1,AR: Panorama_Comedy
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1217.ts
+#EXTINF:-1,AR:MOGA Cinema
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6032.ts
+#EXTINF:-1,AR: Wanasah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1223.ts
+#EXTINF:-1,AR: Sama Dubai
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/25.ts
+#EXTINF:-1,AR: LDC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1168.ts
+#EXTINF:-1,AR: CBC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/52.ts
+#EXTINF:-1,AR: CBC 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/51.ts
+#EXTINF:-1,AR: CBC Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/50.ts
+#EXTINF:-1,AR:CBC Extra
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5382.ts
+#EXTINF:-1,AR2: Abu Dhabi
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/805.ts
+#EXTINF:-1,AR2: Abu Dhabi Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/806.ts
+#EXTINF:-1,AR2: Abu Dhabi Emarat
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/807.ts
+#EXTINF:-1,AR_ LBC Lebanon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/65.ts
+#EXTINF:-1,AR_ ROTANA KHALIJIA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/64.ts
+#EXTINF:-1,AR_ Rotana Khalijiah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/63.ts
+#EXTINF:-1,AR-:Dubai tv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/60.ts
+#EXTINF:-1,AR: Al Majd Quran
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/56.ts
+#EXTINF:-1,Ar:al majd
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6.ts
+#EXTINF:-1,AR:Russia Today
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8083.ts
+#EXTINF:-1,AR: Al Manar
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/55.ts
+#EXTINF:-1,AR: FUTURE TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/48.ts
+#EXTINF:-1,AR:Kuwait AL Arabi ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10100.ts
+#EXTINF:-1,AR:Kuwait Ethraa ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10102.ts
+#EXTINF:-1,AR:Kuwait Sport  ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10103.ts
+#EXTINF:-1,AR:Kuwait Sport ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10104.ts
+#EXTINF:-1,AR:Kuwait Sport Plus ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10105.ts
+#EXTINF:-1,AR:Kuwait TV 1 ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10106.ts
+#EXTINF:-1,AR:Kuwait TV 2 ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10107.ts
+#EXTINF:-1,AR:Maestro TV ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10101.ts
+#EXTINF:-1,AR: SAUDI 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/23.ts
+#EXTINF:-1,AR: SAUDI 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/24.ts
+#EXTINF:-1,AR:Saudi Sport 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6028.ts
+#EXTINF:-1,AR: SAUDI QURAN
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/22.ts
+#EXTINF:-1,AR: SPACETOON
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/21.ts
+#EXTINF:-1,AR: Syria TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/20.ts
+#EXTINF:-1,AR:Al Jazeera HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4613.ts
+#EXTINF:-1,AR2: Wesal TV (Saudi Arabia)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/744.ts
+#EXTINF:-1,AR2: VIN TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/789.ts
+#EXTINF:-1,AR2: Syria Sat
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/747.ts
+#EXTINF:-1,AR2: Sharjah Sports
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/650.ts
+#EXTINF:-1,AR2: Sharjah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/644.ts
+#EXTINF:-1,AR2: Saudi Sport 1 (Saudi Arabia)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/745.ts
+#EXTINF:-1,AR2: Sama Dubai
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/635.ts
+#EXTINF:-1,AR2: Sada AL Balad Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/795.ts
+#EXTINF:-1,AR2: Rudaw HD (Kurdistan)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/773.ts
+#EXTINF:-1,AR2: Peace TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/646.ts
+#EXTINF:-1,AR2: NRT ARABIC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/771.ts
+#EXTINF:-1,AR2: Noor Dubai TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/638.ts
+#EXTINF:-1,AR2: NATIONAL GEOGRAPHIC
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/786.ts
+#EXTINF:-1,AR2: Music Now
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/802.ts
+#EXTINF:-1,AR2: Musalsalat HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/792.ts
+#EXTINF:-1,AR2: Mubasher (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/726.ts
+#EXTINF:-1,AR2: MTV Lebanon
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/804.ts
+#EXTINF:-1,AR2: Melody Aflam
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/783.ts
+#EXTINF:-1,AR2: Medina (Saudi Arabia)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/740.ts
+#EXTINF:-1,AR2: LDC TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/803.ts
+#EXTINF:-1,AR2: Kurdistan TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/772.ts
+#EXTINF:-1,AR2: KSA Quran TV (Saudi Arabia)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/736.ts
+#EXTINF:-1,AR2: Jordan TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/680.ts
+#EXTINF:-1,AR2: Hona Baghdad TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/796.ts
+#EXTINF:-1,AR2: Hadath Iraq TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/798.ts
+#EXTINF:-1,AR2: Euronews Arabic (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/720.ts
+#EXTINF:-1,AR2: DW Arabic (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/724.ts
+#EXTINF:-1,AR2: Dubai TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/630.ts
+#EXTINF:-1,AR2: Dubai Racing 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/648.ts
+#EXTINF:-1,AR2: Dubai One
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/629.ts
+#EXTINF:-1,AR2: Citruss TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/647.ts
+#EXTINF:-1,AR2: BBC Arabic (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/722.ts
+#EXTINF:-1,AR2: ANN News (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/723.ts
+#EXTINF:-1,AR2: Almanar TV (Lebanon)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/699.ts
+#EXTINF:-1,AR2: Aljazeera News (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/719.ts
+#EXTINF:-1,AR2: Aljazeera Doc (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/725.ts
+#EXTINF:-1,AR2: AL Rasheed TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/777.ts
+#EXTINF:-1,AR2: Al Mayadeen (Lebanon)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/791.ts
+#EXTINF:-1,AR2: Al Kout (Kuwait)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/689.ts
+#EXTINF:-1,AR2: Al Jazeera Kids (Qatar)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/731.ts
+#EXTINF:-1,AR2: Al Hayat (Egypt)
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/657.ts
+#EXTINF:-1,AR2: Al Hadath
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/632.ts
+#EXTINF:-1,AR2: Al Dafrah
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/639.ts
+#EXTINF:-1,AR2: Al Aan TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/633.ts
+#EXTINF:-1,===== Morocco =====
+http://iptvlocal.com/
+#EXTINF:-1,MAR:Tamazight
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1920.ts
+#EXTINF:-1,MAR:MEDI1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1921.ts
+#EXTINF:-1,MAR:Assadissa
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1923.ts
+#EXTINF:-1,MAR:Al_Magharibia
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1925.ts
+#EXTINF:-1,MAR:Al Aoula inter
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1926.ts
+#EXTINF:-1,MAR:2M_Marroc
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1927.ts
+#EXTINF:-1,=====ALGERIE=====
+http://iptvlocal.com/
+#EXTINF:-1,AR:Canal Algerie
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7832.ts
+#EXTINF:-1,AR:Echorouk News-480p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3289.ts
+#EXTINF:-1,AR:Echourouk TV
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7833.ts
+#EXTINF:-1,AR:Echourouk Benna Tv-480p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3288.ts
+#EXTINF:-1,AR:AL-SHARIQA
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8079.ts
+#EXTINF:-1,AR:Alsharqiya Live
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8461.ts
+#EXTINF:-1,AR:AlSharqiya News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8082.ts
+#EXTINF:-1,AR:ELSHARQ
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8080.ts
+#EXTINF:-1,AR:Samira TV-360p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3280.ts
+#EXTINF:-1,AR:KBC-360p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3282.ts
+#EXTINF:-1,AR:Ennahar Tv-360p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3283.ts
+#EXTINF:-1,AR:El-Heddaf TV-360p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3285.ts
+#EXTINF:-1,AR:EL BILAD TV-360p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3287.ts
+#EXTINF:-1,AR:DZAIR-480p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3291.ts
+#EXTINF:-1,AR:Algerie 3 Tv-480p
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3294.ts
+#EXTINF:-1,==== BEINSPORT 1 =====
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3979.ts
+#EXTINF:-1,AR:BEIN_MOVIE_1_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/499.ts
+#EXTINF:-1,AR:BEIN_MOVIE_2_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/500.ts
+#EXTINF:-1,AR:BEIN_MOVIE_3_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/501.ts
+#EXTINF:-1,AR: Bein Movies 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1911.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6435.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6436.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6437.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6438.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6439.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 6
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6440.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 7
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6441.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 8
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6442.ts
+#EXTINF:-1,BEIN HD  BEIN SPORTS 9
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6443.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/489.ts
+#EXTINF:-1,Local:bein sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5101.ts
+#EXTINF:-1,BEIN: BeinSport2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1877.ts
+#EXTINF:-1,BEIN: BeinSport1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1876.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/490.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/491.ts
+#EXTINF:-1,Local:bein sport 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5103.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/492.ts
+#EXTINF:-1,AR:BEIN_SPORTS_5_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/493.ts
+#EXTINF:-1,AR:BEIN_SPORTS_6_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/494.ts
+#EXTINF:-1,AR:BEIN_SPORTS_7_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/495.ts
+#EXTINF:-1,AR:BEIN_SPORTS_8_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/496.ts
+#EXTINF:-1,AR:BEIN_SPORTS_9_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/497.ts
+#EXTINF:-1,AR:BEIN_SPORTS_10_HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/498.ts
+#EXTINF:-1,Local:Bein Sports HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5113.ts
+#EXTINF:-1,========== ★VIP ★beIN| HD|Sport★=========
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8638.ts
+#EXTINF:-1,[AR][VIP] BEIN Baby TV HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9453.ts
+#EXTINF:-1,[AR][VIP] BEIN Baraem HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9454.ts
+#EXTINF:-1,[AR][VIP] beIN JEEM HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9452.ts
+#EXTINF:-1,[AR][VIP] beIN MOVIES 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9459.ts
+#EXTINF:-1,[AR][VIP] beIN MOVIES 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9458.ts
+#EXTINF:-1,[AR][VIP] beIN MOVIES 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9457.ts
+#EXTINF:-1,[AR][VIP] beIN MOVIES 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9456.ts
+#EXTINF:-1,BeinSport3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8627.ts
+#EXTINF:-1,BeinSport4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8626.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9472.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 10
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9463.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9471.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9470.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9469.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9468.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 6
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9467.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 7
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9466.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 8
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9465.ts
+#EXTINF:-1,[AR][S] BEIN SPORTS 9
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9464.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9484.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 10
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9475.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 11
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9474.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 12
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9473.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9483.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9482.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9481.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9480.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 6
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9479.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 7
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9478.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 8
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9477.ts
+#EXTINF:-1,[AR][VIP] BEIN SPORTS 9
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9476.ts
+#EXTINF:-1,[AR][VIP] beIN SPORTS ES
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9455.ts
+#EXTINF:-1,BeinSport5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/8625.ts
+#EXTINF:-1,===== Abu Dhabi Sports =====
+http://iptvlocal.com/
+#EXTINF:-1,OSN: ADSports_1HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2493.ts
+#EXTINF:-1,OSN: ADSports_2HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2494.ts
+#EXTINF:-1,OSN: ADSports_4HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9308.ts
+#EXTINF:-1,OSN: ADSports_3HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9827.ts
+#EXTINF:-1,OSN: ADSports_5HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9828.ts
+#EXTINF:-1,OSN: ADSports_6HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9829.ts
+#EXTINF:-1,AR:alkass sport online
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10275.ts
+#EXTINF:-1,AR:alkass sport 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4454.ts
+#EXTINF:-1,AR:alkass sport 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4456.ts
+#EXTINF:-1,AR:alkass sport 4
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4455.ts
+#EXTINF:-1,AR:alkass sport 5
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/4457.ts
+#EXTINF:-1,=====OSN/ARABIC=====
+http://iptvlocal.com/
+#EXTINF:-1,AR:Nat Geo AD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3023.ts
+#EXTINF:-1,[AR][OSN] SeeVii Al oula HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10276.ts
+#EXTINF:-1,[AR][OSN] SeeVii Beelink HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10277.ts
+#EXTINF:-1,[AR][OSN] SeeVii Drama HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10278.ts
+#EXTINF:-1,[AR][OSN] SeeVii Shamiya HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/10279.ts
+#EXTINF:-1,OSN EXTRA:Al Safwa
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7939.ts
+#EXTINF:-1,OSN EXTRA:AL Yawm
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7938.ts
+#EXTINF:-1,OSN EXTRA:Animal Planet HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7927.ts
+#EXTINF:-1,OSN EXTRA:Discovery Family HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7928.ts
+#EXTINF:-1,OSN EXTRA:Discovery HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7929.ts
+#EXTINF:-1,OSN EXTRA:Discovery SC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7930.ts
+#EXTINF:-1,OSN EXTRA:Disney Channel
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7950.ts
+#EXTINF:-1,OSN EXTRA:Disney Junior HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7951.ts
+#EXTINF:-1,OSN EXTRA:E!
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7949.ts
+#EXTINF:-1,OSN EXTRA:Fann
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7940.ts
+#EXTINF:-1,OSN EXTRA:Fight Network HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7906.ts
+#EXTINF:-1,OSN EXTRA:Fine Living HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7941.ts
+#EXTINF:-1,OSN EXTRA:First Comedy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7908.ts
+#EXTINF:-1,OSN EXTRA:First HBO HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7909.ts
+#EXTINF:-1,OSN EXTRA:First HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7910.ts
+#EXTINF:-1,OSN EXTRA:Food Network
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7942.ts
+#EXTINF:-1,OSN EXTRA:Fox News HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7936.ts
+#EXTINF:-1,OSN EXTRA:H2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7934.ts
+#EXTINF:-1,OSN EXTRA:History HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7935.ts
+#EXTINF:-1,OSN EXTRA:ITV Choice
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7943.ts
+#EXTINF:-1,OSN EXTRA:Movies  2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7911.ts
+#EXTINF:-1,OSN EXTRA:Movies Action HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7912.ts
+#EXTINF:-1,OSN EXTRA:Movies Action Plus 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7913.ts
+#EXTINF:-1,OSN EXTRA:Movies Comedy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7914.ts
+#EXTINF:-1,OSN EXTRA:Movies Family HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7915.ts
+#EXTINF:-1,OSN EXTRA:Movies Festival HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7916.ts
+#EXTINF:-1,OSN EXTRA:Movies HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7917.ts
+#EXTINF:-1,OSN EXTRA:Movies Premiere 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7918.ts
+#EXTINF:-1,OSN EXTRA:Movies Premiere HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7919.ts
+#EXTINF:-1,OSN EXTRA:Nat Geo People HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7931.ts
+#EXTINF:-1,OSN EXTRA:Nat Geo Wild HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7932.ts
+#EXTINF:-1,OSN EXTRA:National Geo HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7933.ts
+#EXTINF:-1,OSN EXTRA:News
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7937.ts
+#EXTINF:-1,OSN EXTRA:Outdoor HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7944.ts
+#EXTINF:-1,OSN EXTRA:Sport Criket HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7905.ts
+#EXTINF:-1,OSN EXTRA:Sports 1 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7901.ts
+#EXTINF:-1,OSN EXTRA:Sports 2 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7902.ts
+#EXTINF:-1,OSN EXTRA:Sports 3 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7903.ts
+#EXTINF:-1,OSN EXTRA:Sports 4 HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7904.ts
+#EXTINF:-1,OSN EXTRA:Star Gold HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7920.ts
+#EXTINF:-1,OSN EXTRA:Star Movies HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7921.ts
+#EXTINF:-1,OSN EXTRA:Star World HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7922.ts
+#EXTINF:-1,OSN EXTRA:Sundance HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7945.ts
+#EXTINF:-1,OSN EXTRA:Syfy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7946.ts
+#EXTINF:-1,OSN EXTRA:TLC HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7947.ts
+#EXTINF:-1,OSN EXTRA:Travel Channel HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7948.ts
+#EXTINF:-1,OSN EXTRA:WWE HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7907.ts
+#EXTINF:-1,OSN EXTRA:Yahala Cinema HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7923.ts
+#EXTINF:-1,OSN EXTRA:Yahala Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7924.ts
+#EXTINF:-1,OSN EXTRA:Yahala HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7925.ts
+#EXTINF:-1,OSN EXTRA:Yahala Shabab HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/7926.ts
+#EXTINF:-1,OSN:FOX_MOVIES:ACTION
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11737.ts
+#EXTINF:-1,OSN:FOX.FAMILY.MOVIES
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11739.ts
+#EXTINF:-1,OSN:FOX.HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11736.ts
+#EXTINF:-1,OSN:FOX.MOVIES.HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11738.ts
+#EXTINF:-1,OSN:FX.HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/11735.ts
+#EXTINF:-1,OSN: Series
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1121.ts
+#EXTINF:-1,OSN: Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1122.ts
+#EXTINF:-1,OSN: Ya Hala Cinema
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1117.ts
+#EXTINF:-1,OSN: Ya Hala Cinema Plus
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9874.ts
+#EXTINF:-1,OSN: Ya Hala
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1123.ts
+#EXTINF:-1,OSN: Mousalsalat
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2056.ts
+#EXTINF:-1,OSN: Movies Premiere
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1126.ts
+#EXTINF:-1,OSN: Movies Kids
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1118.ts
+#EXTINF:-1,OSN: Movies Drama
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1119.ts
+#EXTINF:-1,OSN: Movies Comdey
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1120.ts
+#EXTINF:-1,OSN:Syfy HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5089.ts
+#EXTINF:-1,OSN:Fashion Tv
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6022.ts
+#EXTINF:-1,OSN: E!
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2238.ts
+#EXTINF:-1,OSN:WWE HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/5088.ts
+#EXTINF:-1,OSN4: OSN Movie Box Office 3
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2243.ts
+#EXTINF:-1,OSN4: OSN Movie Box Office 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2242.ts
+#EXTINF:-1,OSN4: OSN Movie Box Office 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2241.ts
+#EXTINF:-1,OSN: SPORT 1
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2104.ts
+#EXTINF:-1,OSN : MOVIES COMEDY 2
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2105.ts
+#EXTINF:-1,OSN : ALYOM
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2103.ts
+#EXTINF:-1,OSN : MOVIES FESTIVAL
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2102.ts
+#EXTINF:-1,AR: OSN Star Movies HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/2100.ts
+#EXTINF:-1,OSN3: Jeem HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1915.ts
+#EXTINF:-1,AR: Fatafeat HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/3982.ts
+#EXTINF:-1,OSN:Nat Geo AD HD ARB
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1912.ts
+#EXTINF:-1,OSN3-First-HD
+http://iptvarb.selfip.com:6227/live/demo2017/demo2017/1910.ts

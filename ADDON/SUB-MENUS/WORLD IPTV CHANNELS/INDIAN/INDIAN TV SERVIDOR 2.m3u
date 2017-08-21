@@ -1,89 +1,479 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 18-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,IN: Zee cafe HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1508.ts
-#EXTINF:-1,IN: ZEE TV UK
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1509.ts
-#EXTINF:-1,IN: ZEE SANGAM
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1510.ts
-#EXTINF:-1,IN: ZEE SALAM
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1511.ts
-#EXTINF:-1,IN: ZEE NEWS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1512.ts
-#EXTINF:-1,IN: ZEE LIVING
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1513.ts
-#EXTINF:-1,IN: ZEE TELGU
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1514.ts
-#EXTINF:-1,IN: ZEE ZINDAGI
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1515.ts
-#EXTINF:-1,IN: ZEE CINEMA UK
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1516.ts
-#EXTINF:-1,IN: ZEE BOLLYWOOD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1517.ts
-#EXTINF:-1,IN: ZEE ANMOL
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1518.ts
-#EXTINF:-1,IN: UTV MOVIES INTERNATIONAL
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1519.ts
-#EXTINF:-1,IN: UTV BINDASS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1520.ts
-#EXTINF:-1,IN: TEN SPORTS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1521.ts
-#EXTINF:-1,IN: TEN CRICKET
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1522.ts
-#EXTINF:-1,IN: STAR SPORTS 1
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1526.ts
-#EXTINF:-1,IN: STAR SPORTS 2
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1525.ts
-#EXTINF:-1,IN: STAR SPORTS 3
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1524.ts
-#EXTINF:-1,IN: STAR SPORTS 4
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1523.ts
-#EXTINF:-1,IN: STAR PLUS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1527.ts
-#EXTINF:-1,IN: STAR GOLD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1528.ts
-#EXTINF:-1,IN: SONY sab
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1529.ts
-#EXTINF:-1,IN: SONY MAX
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1531.ts
-#EXTINF:-1,IN: SONY SAB UK
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1530.ts
-#EXTINF:-1,IN: Life oK UK
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1532.ts
-#EXTINF:-1,IN: & PICTURE HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2648.ts
-#EXTINF:-1,IN: AKAAL PUNJABI
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2649.ts
-#EXTINF:-1,IN: B4 You
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2655.ts
-#EXTINF:-1,IN: B4U PLUS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2663.ts
-#EXTINF:-1,IN: COLORS BANG
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2665.ts
-#EXTINF:-1,IN: COLORS HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2666.ts
-#EXTINF:-1,IN: Star Gold UK HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2651.ts
+#EXTINF:-1,IN :  SONY SAB
+http://5.196.78.122:8080/live/test5/test5/21801.ts
+#EXTINF:-1,IN : &TV HD
+http://5.196.78.122:8080/live/test5/test5/21802.ts
+#EXTINF:-1,IN : 9X Tashan
+http://5.196.78.122:8080/live/test5/test5/21803.ts
+#EXTINF:-1,IN : AASTHA
+http://5.196.78.122:8080/live/test5/test5/21804.ts
+#EXTINF:-1,IN : Asianet Plus
+http://5.196.78.122:8080/live/test5/test5/21805.ts
+#EXTINF:-1,IN : Asianet TV US
+http://5.196.78.122:8080/live/test5/test5/21806.ts
+#EXTINF:-1,IN : B4U Movies
+http://5.196.78.122:8080/live/test5/test5/21807.ts
+#EXTINF:-1,IN : B4U Music
+http://5.196.78.122:8080/live/test5/test5/21808.ts
+#EXTINF:-1,IN : B4U Plus
+http://5.196.78.122:8080/live/test5/test5/21809.ts
+#EXTINF:-1,IN : CNBC Awaaz
+http://5.196.78.122:8080/live/test5/test5/21810.ts
+#EXTINF:-1,IN : Colors UK SD
+http://5.196.78.122:8080/live/test5/test5/21811.ts
+#EXTINF:-1,IN : FOOD FOOD TV
+http://5.196.78.122:8080/live/test5/test5/21812.ts
+#EXTINF:-1,IN : Life ok HD
+http://5.196.78.122:8080/live/test5/test5/21813.ts
+#EXTINF:-1,IN : LIVING FOODZ 2
+http://5.196.78.122:8080/live/test5/test5/21814.ts
+#EXTINF:-1,IN : MUSIC INDIA HD
+http://5.196.78.122:8080/live/test5/test5/21815.ts
+#EXTINF:-1,IN : Sony TV HD
+http://5.196.78.122:8080/live/test5/test5/21816.ts
+#EXTINF:-1,IN : STAR SPORTS 1 HD
+http://5.196.78.122:8080/live/test5/test5/21817.ts
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://5.196.78.122:8080/live/test5/test5/21818.ts
+#EXTINF:-1,IN : STAR SPORTS 3 HD
+http://5.196.78.122:8080/live/test5/test5/21819.ts
+#EXTINF:-1,IN : STAR SPORTS 4 HD
+http://5.196.78.122:8080/live/test5/test5/21820.ts
+#EXTINF:-1,IN : Star Sports3-SD
+http://5.196.78.122:8080/live/test5/test5/21821.ts
+#EXTINF:-1,IN : Star Sports4-SD
+http://5.196.78.122:8080/live/test5/test5/21822.ts
+#EXTINF:-1,IN : Tamil |  CAPTAIN TV
+http://5.196.78.122:8080/live/test5/test5/21823.ts
+#EXTINF:-1,IN : Tamil | ADITYA TV
+http://5.196.78.122:8080/live/test5/test5/21824.ts
+#EXTINF:-1,IN : Tamil | CAPTAIN NEWS
+http://5.196.78.122:8080/live/test5/test5/21825.ts
+#EXTINF:-1,IN : Tamil | CHANNEL UFX
+http://5.196.78.122:8080/live/test5/test5/21826.ts
+#EXTINF:-1,IN : Tamil | CHITHIRAM TV
+http://5.196.78.122:8080/live/test5/test5/21827.ts
+#EXTINF:-1,IN : Tamil | DAN Music
+http://5.196.78.122:8080/live/test5/test5/21828.ts
+#EXTINF:-1,IN : Tamil | DAN News
+http://5.196.78.122:8080/live/test5/test5/21829.ts
+#EXTINF:-1,IN : Tamil | DAN TV
+http://5.196.78.122:8080/live/test5/test5/21830.ts
+#EXTINF:-1,IN : Tamil | DD PODHIGAI
+http://5.196.78.122:8080/live/test5/test5/21831.ts
+#EXTINF:-1,IN : Tamil | DEEPAM TV
+http://5.196.78.122:8080/live/test5/test5/21832.ts
+#EXTINF:-1,IN : Tamil | EET TV
+http://5.196.78.122:8080/live/test5/test5/21833.ts
+#EXTINF:-1,IN : Tamil | ISAI ARUVI
+http://5.196.78.122:8080/live/test5/test5/21834.ts
+#EXTINF:-1,IN : Tamil | JAYA MAX
+http://5.196.78.122:8080/live/test5/test5/21835.ts
+#EXTINF:-1,IN : Tamil | JAYA MAX USA
+http://5.196.78.122:8080/live/test5/test5/21836.ts
+#EXTINF:-1,IN : Tamil | JAYA MOVIES
+http://5.196.78.122:8080/live/test5/test5/21837.ts
+#EXTINF:-1,IN : Tamil | JAYA PLUS
+http://5.196.78.122:8080/live/test5/test5/21838.ts
+#EXTINF:-1,IN : Tamil | JAYA TV
+http://5.196.78.122:8080/live/test5/test5/21839.ts
+#EXTINF:-1,IN : Tamil | JAYA TV US
+http://5.196.78.122:8080/live/test5/test5/21840.ts
+#EXTINF:-1,IN : Tamil | KALAIGNAR TV
+http://5.196.78.122:8080/live/test5/test5/21841.ts
+#EXTINF:-1,IN : Tamil | KTV US
+http://5.196.78.122:8080/live/test5/test5/21842.ts
+#EXTINF:-1,IN : Tamil | KTV USA
+http://5.196.78.122:8080/live/test5/test5/21843.ts
+#EXTINF:-1,IN : Tamil | MAKKAL TV
+http://5.196.78.122:8080/live/test5/test5/21844.ts
+#EXTINF:-1,IN : Tamil | MURASU TV
+http://5.196.78.122:8080/live/test5/test5/21845.ts
+#EXTINF:-1,IN : Tamil | NEWS 7
+http://5.196.78.122:8080/live/test5/test5/21846.ts
+#EXTINF:-1,IN : Tamil | PEPPERS
+http://5.196.78.122:8080/live/test5/test5/21847.ts
+#EXTINF:-1,IN : Tamil | Pirai TV (ISLAMIC CH)
+http://5.196.78.122:8080/live/test5/test5/21848.ts
+#EXTINF:-1,IN : Tamil | POLIMER NEWS
+http://5.196.78.122:8080/live/test5/test5/21849.ts
+#EXTINF:-1,IN : Tamil | POLIMER TV
+http://5.196.78.122:8080/live/test5/test5/21850.ts
+#EXTINF:-1,IN : Tamil | PUTHIYA THALAIMURAI
+http://5.196.78.122:8080/live/test5/test5/21851.ts
+#EXTINF:-1,IN : Tamil | PUTHUYUGAM TV
+http://5.196.78.122:8080/live/test5/test5/21852.ts
+#EXTINF:-1,IN : Tamil | RAJ DIGITAL PLUS
+http://5.196.78.122:8080/live/test5/test5/21853.ts
+#EXTINF:-1,IN : Tamil | RAJ DIGITAL PLUS US
+http://5.196.78.122:8080/live/test5/test5/21854.ts
+#EXTINF:-1,IN : Tamil | RAJ MUSIX
+http://5.196.78.122:8080/live/test5/test5/21855.ts
+#EXTINF:-1,IN : Tamil | RAJ NEWS 24x7
+http://5.196.78.122:8080/live/test5/test5/21856.ts
+#EXTINF:-1,IN : Tamil | RAJ TV
+http://5.196.78.122:8080/live/test5/test5/21857.ts
+#EXTINF:-1,IN : Tamil | SEITHIGAL
+http://5.196.78.122:8080/live/test5/test5/21859.ts
+#EXTINF:-1,IN : Tamil | SIRIPPOLI TV
+http://5.196.78.122:8080/live/test5/test5/21860.ts
+#EXTINF:-1,IN : Tamil | Sri Sankara Tamil
+http://5.196.78.122:8080/live/test5/test5/21861.ts
+#EXTINF:-1,IN : Tamil | STAR VIJAY
+http://5.196.78.122:8080/live/test5/test5/21862.ts
+#EXTINF:-1,IN : Tamil | STAR VIJAY UK
+http://5.196.78.122:8080/live/test5/test5/21863.ts
+#EXTINF:-1,IN : Tamil | SUN LIFE
+http://5.196.78.122:8080/live/test5/test5/21864.ts
+#EXTINF:-1,IN : Tamil | SUN MUSIC
+http://5.196.78.122:8080/live/test5/test5/21865.ts
+#EXTINF:-1,IN : Tamil | SUN NEWS
+http://5.196.78.122:8080/live/test5/test5/21866.ts
+#EXTINF:-1,IN : Tamil | SUN TV INDIA
+http://5.196.78.122:8080/live/test5/test5/21867.ts
+#EXTINF:-1,IN : Tamil | SUN TV US
+http://5.196.78.122:8080/live/test5/test5/21868.ts
+#EXTINF:-1,IN : Tamil | TAMIL ARUVI
+http://5.196.78.122:8080/live/test5/test5/21869.ts
+#EXTINF:-1,IN : Tamil | THANTHI NEWS
+http://5.196.78.122:8080/live/test5/test5/21870.ts
+#EXTINF:-1,IN : Tamil | VASANTH TV
+http://5.196.78.122:8080/live/test5/test5/21858.ts
+#EXTINF:-1,IN : Tamil | VENDHAR
+http://5.196.78.122:8080/live/test5/test5/21871.ts
+#EXTINF:-1,IN : Tamil | VIJAY HD
+http://5.196.78.122:8080/live/test5/test5/21872.ts
+#EXTINF:-1,IN : Tamil | VIMBAM TV
+http://5.196.78.122:8080/live/test5/test5/21873.ts
+#EXTINF:-1,IN : Tamil | WIN TV
+http://5.196.78.122:8080/live/test5/test5/21874.ts
+#EXTINF:-1,IN : Tamil | ZEE TAMIZH
+http://5.196.78.122:8080/live/test5/test5/21875.ts
+#EXTINF:-1,IN : TEN ACTION
+http://5.196.78.122:8080/live/test5/test5/21876.ts
+#EXTINF:-1,IN : Ten Sports HD
+http://5.196.78.122:8080/live/test5/test5/21877.ts
+#EXTINF:-1,IN : WILLOW CRICKET HD
+http://5.196.78.122:8080/live/test5/test5/21878.ts
+#EXTINF:-1,IN :MovieOK
+http://5.196.78.122:8080/live/test5/test5/21879.ts
+#EXTINF:-1,IN | Color HD
+http://5.196.78.122:8080/live/test5/test5/21794.ts
+#EXTINF:-1,IN | Sony Six SD
+http://5.196.78.122:8080/live/test5/test5/21795.ts
+#EXTINF:-1,IN | Star Gold
+http://5.196.78.122:8080/live/test5/test5/21796.ts
+#EXTINF:-1,IN | Star Plus
+http://5.196.78.122:8080/live/test5/test5/21797.ts
+#EXTINF:-1,IN | Zee HD
+http://5.196.78.122:8080/live/test5/test5/21798.ts
+#EXTINF:-1,IN | Zee Marathi
+http://5.196.78.122:8080/live/test5/test5/21799.ts
+#EXTINF:-1,IN | Zee Talkies
+http://5.196.78.122:8080/live/test5/test5/21800.ts
+#EXTINF:-1,IN:  WILLOW CRICKET  Backup
+http://5.196.78.122:8080/live/test5/test5/19865.ts
+#EXTINF:-1,IN: 5aab TV Punjabi
+http://5.196.78.122:8080/live/test5/test5/21913.ts
+#EXTINF:-1,IN: 9x Music
+http://5.196.78.122:8080/live/test5/test5/20204.ts
+#EXTINF:-1,IN: A One Punjabi
+http://5.196.78.122:8080/live/test5/test5/21912.ts
+#EXTINF:-1,IN: Aaj Tak News
+http://5.196.78.122:8080/live/test5/test5/21883.ts
+#EXTINF:-1,IN: Aamar Bangla
+http://5.196.78.122:8080/live/test5/test5/20478.ts
+#EXTINF:-1,IN: Akaal Punjabi
+http://5.196.78.122:8080/live/test5/test5/21911.ts
+#EXTINF:-1,IN: Asian TV
+http://5.196.78.122:8080/live/test5/test5/20477.ts
+#EXTINF:-1,IN: ATN Bangla
+http://5.196.78.122:8080/live/test5/test5/20476.ts
+#EXTINF:-1,IN: ATN NEWS
+http://5.196.78.122:8080/live/test5/test5/20475.ts
+#EXTINF:-1,IN: Bangala ABP Ananda
+http://5.196.78.122:8080/live/test5/test5/20357.ts
+#EXTINF:-1,IN: BANGLA VISION
+http://5.196.78.122:8080/live/test5/test5/20474.ts
+#EXTINF:-1,IN: BOISHAKHI TV
+http://5.196.78.122:8080/live/test5/test5/20342.ts
+#EXTINF:-1,IN: BTV World
+http://5.196.78.122:8080/live/test5/test5/20341.ts
+#EXTINF:-1,IN: Caccia
+http://5.196.78.122:8080/live/test5/test5/19645.ts
+#EXTINF:-1,IN: CARTOON NETWORK HINDI
+http://5.196.78.122:8080/live/test5/test5/21933.ts
+#EXTINF:-1,IN: Chakde TV Punjabi
+http://5.196.78.122:8080/live/test5/test5/21910.ts
+#EXTINF:-1,IN: CHANNEL 24
+http://5.196.78.122:8080/live/test5/test5/20356.ts
+#EXTINF:-1,IN: Channel 9
+http://5.196.78.122:8080/live/test5/test5/20355.ts
+#EXTINF:-1,IN: CHANNEL I
+http://5.196.78.122:8080/live/test5/test5/19710.ts
+#EXTINF:-1,IN: Channel S Bangla
+http://5.196.78.122:8080/live/test5/test5/19678.ts
+#EXTINF:-1,IN: CHANNEL V
+http://5.196.78.122:8080/live/test5/test5/20492.ts
+#EXTINF:-1,IN: CNBC PRIME TV18 (NEWS)
+http://5.196.78.122:8080/live/test5/test5/20491.ts
+#EXTINF:-1,IN: CNBC TV18 (NEWS)
+http://5.196.78.122:8080/live/test5/test5/20490.ts
+#EXTINF:-1,IN: Colors Bangla
+http://5.196.78.122:8080/live/test5/test5/20354.ts
+#EXTINF:-1,IN: COLORS KANNADA
+http://5.196.78.122:8080/live/test5/test5/20489.ts
+#EXTINF:-1,IN: DEEPTO TV
+http://5.196.78.122:8080/live/test5/test5/20353.ts
+#EXTINF:-1,IN: DESH TV
+http://5.196.78.122:8080/live/test5/test5/20352.ts
+#EXTINF:-1,IN: Desi Beats Punjabi
+http://5.196.78.122:8080/live/test5/test5/21909.ts
+#EXTINF:-1,IN: Desi TV Punjabi
+http://5.196.78.122:8080/live/test5/test5/21908.ts
+#EXTINF:-1,IN: Dhoom Music
+http://5.196.78.122:8080/live/test5/test5/20351.ts
+#EXTINF:-1,IN: Ekattor tv
+http://5.196.78.122:8080/live/test5/test5/20350.ts
+#EXTINF:-1,IN: ETC Punjabi
+http://5.196.78.122:8080/live/test5/test5/21907.ts
+#EXTINF:-1,IN: ETV 2
+http://5.196.78.122:8080/live/test5/test5/19884.ts
+#EXTINF:-1,IN: ETV MP
+http://5.196.78.122:8080/live/test5/test5/19883.ts
+#EXTINF:-1,IN: ETV Now
+http://5.196.78.122:8080/live/test5/test5/20488.ts
+#EXTINF:-1,IN: ETV UK
+http://5.196.78.122:8080/live/test5/test5/19882.ts
+#EXTINF:-1,IN: ETV UP
+http://5.196.78.122:8080/live/test5/test5/19881.ts
+#EXTINF:-1,IN: Gaan Bangla
+http://5.196.78.122:8080/live/test5/test5/20340.ts
+#EXTINF:-1,IN: GTV PUNJABI
+http://5.196.78.122:8080/live/test5/test5/19835.ts
+#EXTINF:-1,IN: GTV tamil
+http://5.196.78.122:8080/live/test5/test5/20339.ts
+#EXTINF:-1,IN: Hamdard TV Punjabi
+http://5.196.78.122:8080/live/test5/test5/21906.ts
+#EXTINF:-1,IN: INDEPENDENT TV
+http://5.196.78.122:8080/live/test5/test5/20338.ts
+#EXTINF:-1,IN: India Today
+http://5.196.78.122:8080/live/test5/test5/21934.ts
+#EXTINF:-1,IN: JALSHA MOVIES
+http://5.196.78.122:8080/live/test5/test5/19679.ts
+#EXTINF:-1,IN: Jamuna tv
+http://5.196.78.122:8080/live/test5/test5/20349.ts
+#EXTINF:-1,IN: Jhanjar TV HD Punjabi
+http://5.196.78.122:8080/live/test5/test5/21905.ts
+#EXTINF:-1,IN: Life OK SD
+http://5.196.78.122:8080/live/test5/test5/21935.ts
+#EXTINF:-1,IN: Maa TV
+http://5.196.78.122:8080/live/test5/test5/20487.ts
+#EXTINF:-1,IN: MAASRANGA TV
+http://5.196.78.122:8080/live/test5/test5/20348.ts
+#EXTINF:-1,IN: Media Punjab Punjabi
+http://5.196.78.122:8080/live/test5/test5/21904.ts
+#EXTINF:-1,IN: MOHONA TV
+http://5.196.78.122:8080/live/test5/test5/20337.ts
+#EXTINF:-1,IN: MOVIE BANGLA
+http://5.196.78.122:8080/live/test5/test5/20347.ts
+#EXTINF:-1,IN: MTV India
+http://5.196.78.122:8080/live/test5/test5/20203.ts
+#EXTINF:-1,IN: MTV Indies
+http://5.196.78.122:8080/live/test5/test5/21898.ts
+#EXTINF:-1,IN: MY TV
+http://5.196.78.122:8080/live/test5/test5/20336.ts
+#EXTINF:-1,IN: Nat Geo Music HD
+http://5.196.78.122:8080/live/test5/test5/21897.ts
+#EXTINF:-1,IN: Nat Geo People HD
+http://5.196.78.122:8080/live/test5/test5/21896.ts
+#EXTINF:-1,IN: Nat Geo Wild HD
+http://5.196.78.122:8080/live/test5/test5/21895.ts
+#EXTINF:-1,IN: National Geographic
+http://5.196.78.122:8080/live/test5/test5/21894.ts
+#EXTINF:-1,IN: NEWS 24
+http://5.196.78.122:8080/live/test5/test5/21936.ts
+#EXTINF:-1,IN: NEWS X (NEWS)
+http://5.196.78.122:8080/live/test5/test5/20486.ts
+#EXTINF:-1,IN: NICK HD
+http://5.196.78.122:8080/live/test5/test5/20485.ts
+#EXTINF:-1,IN: NICK JR
+http://5.196.78.122:8080/live/test5/test5/21893.ts
+#EXTINF:-1,IN: Nickelodeon Hindi
+http://5.196.78.122:8080/live/test5/test5/21937.ts
+#EXTINF:-1,IN: Nickelodeon Jr Hindi
+http://5.196.78.122:8080/live/test5/test5/21938.ts
+#EXTINF:-1,IN: NTV
+http://5.196.78.122:8080/live/test5/test5/20335.ts
+#EXTINF:-1,IN: PBN Music Punjabi
+http://5.196.78.122:8080/live/test5/test5/21903.ts
+#EXTINF:-1,IN: Pogo
+http://5.196.78.122:8080/live/test5/test5/20202.ts
+#EXTINF:-1,IN: PTC Chakde Punjabi
+http://5.196.78.122:8080/live/test5/test5/21902.ts
+#EXTINF:-1,IN: PTC News Punjabi
+http://5.196.78.122:8080/live/test5/test5/21901.ts
+#EXTINF:-1,IN: PTC Punjabi
+http://5.196.78.122:8080/live/test5/test5/21900.ts
+#EXTINF:-1,IN: RISHTAY ASIA
+http://5.196.78.122:8080/live/test5/test5/21939.ts
+#EXTINF:-1,IN: Rishtey ME
+http://5.196.78.122:8080/live/test5/test5/21940.ts
+#EXTINF:-1,IN: RTV
+http://5.196.78.122:8080/live/test5/test5/20334.ts
+#EXTINF:-1,IN: Rupashi bangla
+http://5.196.78.122:8080/live/test5/test5/20333.ts
+#EXTINF:-1,IN: SA TV
+http://5.196.78.122:8080/live/test5/test5/20332.ts
+#EXTINF:-1,IN: Sangat TV
+http://5.196.78.122:8080/live/test5/test5/20346.ts
+#EXTINF:-1,IN: Sanskar TV
+http://5.196.78.122:8080/live/test5/test5/21941.ts
+#EXTINF:-1,IN: Sikh Channel Punjabi
+http://5.196.78.122:8080/live/test5/test5/21899.ts
+#EXTINF:-1,IN: Somoy news
+http://5.196.78.122:8080/live/test5/test5/20331.ts
+#EXTINF:-1,IN: Sonic Nickelodeon
+http://5.196.78.122:8080/live/test5/test5/20201.ts
+#EXTINF:-1,IN: SONY AATH
+http://5.196.78.122:8080/live/test5/test5/20345.ts
+#EXTINF:-1,IN: SONY ESPN HD
+http://5.196.78.122:8080/live/test5/test5/20484.ts
+#EXTINF:-1,IN: SONY ESPN SD
+http://5.196.78.122:8080/live/test5/test5/21942.ts
+#EXTINF:-1,IN: SONY MAX2
+http://5.196.78.122:8080/live/test5/test5/21943.ts
+#EXTINF:-1,IN: SONY MIX
+http://5.196.78.122:8080/live/test5/test5/21944.ts
+#EXTINF:-1,IN: sony pix HD
+http://5.196.78.122:8080/live/test5/test5/20483.ts
+#EXTINF:-1,IN: STAR GOLD SD
+http://5.196.78.122:8080/live/test5/test5/21945.ts
 #EXTINF:-1,IN: Star Jalsha
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2664.ts
-#EXTINF:-1,IN: UTV Movies
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2647.ts
-#EXTINF:-1,IN: ZEE BOLLYWOOD HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2652.ts
-#EXTINF:-1,IN: Zee Cinema
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2658.ts
-#EXTINF:-1,IN: Zee TV
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2653.ts
-#EXTINF:-1,IN: ZEE TV Action
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2657.ts
-#EXTINF:-1,IN: ZING INDIA
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2659.ts
-#EXTINF:-1,IN: B4U MOVIE
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1535.ts
+http://5.196.78.122:8080/live/test5/test5/21946.ts
+#EXTINF:-1,IN: Star Jalsha US
+http://5.196.78.122:8080/live/test5/test5/21947.ts
+#EXTINF:-1,IN: Star Plus
+http://5.196.78.122:8080/live/test5/test5/21948.ts
+#EXTINF:-1,IN: Star Plus UK
+http://5.196.78.122:8080/live/test5/test5/21949.ts
+#EXTINF:-1,IN: STAR PRAVAH HD
+http://5.196.78.122:8080/live/test5/test5/20482.ts
+#EXTINF:-1,IN: Star Sports1-SD
+http://5.196.78.122:8080/live/test5/test5/21950.ts
+#EXTINF:-1,IN: Star Sports2-SD
+http://5.196.78.122:8080/live/test5/test5/21951.ts
+#EXTINF:-1,IN: Star Vijay
+http://5.196.78.122:8080/live/test5/test5/21952.ts
+#EXTINF:-1,IN: Star world HD
+http://5.196.78.122:8080/live/test5/test5/20481.ts
+#EXTINF:-1,IN: Star world premier HD
+http://5.196.78.122:8080/live/test5/test5/20480.ts
+#EXTINF:-1,IN: TARA MUSIK
+http://5.196.78.122:8080/live/test5/test5/20344.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://5.196.78.122:8080/live/test5/test5/21953.ts
+#EXTINF:-1,IN: TEN 2
+http://5.196.78.122:8080/live/test5/test5/19643.ts
+#EXTINF:-1,IN: Ten 3
+http://5.196.78.122:8080/live/test5/test5/19829.ts
+#EXTINF:-1,IN: TEN CRICKET
+http://5.196.78.122:8080/live/test5/test5/21954.ts
+#EXTINF:-1,IN: Ten Cricket*
+http://5.196.78.122:8080/live/test5/test5/21892.ts
+#EXTINF:-1,IN: TEN Golf HD
+http://5.196.78.122:8080/live/test5/test5/21955.ts
+#EXTINF:-1,IN: TIME NOW
+http://5.196.78.122:8080/live/test5/test5/21882.ts
+#EXTINF:-1,IN: Travel xp HD
+http://5.196.78.122:8080/live/test5/test5/20479.ts
+#EXTINF:-1,IN: UTV Bindass
+http://5.196.78.122:8080/live/test5/test5/21956.ts
+#EXTINF:-1,IN: UTV MOVIES
+http://5.196.78.122:8080/live/test5/test5/21957.ts
+#EXTINF:-1,IN: Zee Action
+http://5.196.78.122:8080/live/test5/test5/21958.ts
+#EXTINF:-1,IN: Zee Anmol
+http://5.196.78.122:8080/live/test5/test5/21959.ts
+#EXTINF:-1,IN: Zee bangla
+http://5.196.78.122:8080/live/test5/test5/20330.ts
+#EXTINF:-1,IN: ZEE BANGLA Cinema HD
+http://5.196.78.122:8080/live/test5/test5/20343.ts
+#EXTINF:-1,IN: ZEE Bollywood HD
+http://5.196.78.122:8080/live/test5/test5/21960.ts
+#EXTINF:-1,IN: ZEE Business
+http://5.196.78.122:8080/live/test5/test5/21961.ts
+#EXTINF:-1,IN: ZEE Cinema
+http://5.196.78.122:8080/live/test5/test5/21962.ts
+#EXTINF:-1,IN: Zee Classic
+http://5.196.78.122:8080/live/test5/test5/21963.ts
+#EXTINF:-1,IN: Zee Salam
+http://5.196.78.122:8080/live/test5/test5/21964.ts
+#EXTINF:-1,IN: Zee Smile
+http://5.196.78.122:8080/live/test5/test5/21965.ts
+#EXTINF:-1,IN: Zee Taas24
+http://5.196.78.122:8080/live/test5/test5/21966.ts
+#EXTINF:-1,IN: Zee Telugu Ditto
+http://5.196.78.122:8080/live/test5/test5/19828.ts
+#EXTINF:-1,IN: ZEE TV ME
+http://5.196.78.122:8080/live/test5/test5/21967.ts
+#EXTINF:-1,IN: Zindagi
+http://5.196.78.122:8080/live/test5/test5/21968.ts
+#EXTINF:-1,IN: Zing TV
+http://5.196.78.122:8080/live/test5/test5/21969.ts
+#EXTINF:-1,IN:ATN NEWS
+http://5.196.78.122:8080/live/test5/test5/20329.ts
+#EXTINF:-1,IN:NDTV 24X7
+http://5.196.78.122:8080/live/test5/test5/21970.ts
+#EXTINF:-1,IN:NDTV INDIA
+http://5.196.78.122:8080/live/test5/test5/21971.ts
+#EXTINF:-1,IN:VIP AAPKA COLORS HD
+http://5.196.78.122:8080/live/test5/test5/21932.ts
+#EXTINF:-1,IN:VIP D2H CINEMA FHD 1080
+http://5.196.78.122:8080/live/test5/test5/21931.ts
+#EXTINF:-1,IN:VIP HBO
+http://5.196.78.122:8080/live/test5/test5/21916.ts
+#EXTINF:-1,IN:VIP IN: COLORS HD
+http://5.196.78.122:8080/live/test5/test5/21930.ts
+#EXTINF:-1,IN:VIP LIFE OK HD
+http://5.196.78.122:8080/live/test5/test5/21929.ts
+#EXTINF:-1,IN:VIP SONY HD
+http://5.196.78.122:8080/live/test5/test5/21928.ts
+#EXTINF:-1,IN:VIP SONY MAX HD
+http://5.196.78.122:8080/live/test5/test5/21927.ts
+#EXTINF:-1,IN:VIP Sony six HD
+http://5.196.78.122:8080/live/test5/test5/21926.ts
+#EXTINF:-1,IN:VIP STAR GOLD HD
+http://5.196.78.122:8080/live/test5/test5/21925.ts
+#EXTINF:-1,IN:VIP Star movies
+http://5.196.78.122:8080/live/test5/test5/21924.ts
+#EXTINF:-1,IN:VIP STAR MOVIES HD
+http://5.196.78.122:8080/live/test5/test5/21923.ts
+#EXTINF:-1,IN:VIP Star Movies select HD
+http://5.196.78.122:8080/live/test5/test5/21915.ts
+#EXTINF:-1,IN:VIP STAR PLUS HD
+http://5.196.78.122:8080/live/test5/test5/21922.ts
+#EXTINF:-1,IN:VIP Star sports HD1
+http://5.196.78.122:8080/live/test5/test5/21921.ts
+#EXTINF:-1,IN:VIP Star sports HD2
+http://5.196.78.122:8080/live/test5/test5/21920.ts
+#EXTINF:-1,IN:VIP Star sports HD3
+http://5.196.78.122:8080/live/test5/test5/21919.ts
+#EXTINF:-1,IN:VIP Star sports HD4
+http://5.196.78.122:8080/live/test5/test5/21918.ts
+#EXTINF:-1,IN:VIP Tamil: Sun tv HD
+http://5.196.78.122:8080/live/test5/test5/21917.ts
+#EXTINF:-1,IN:VIP Zee Cinema HD
+http://5.196.78.122:8080/live/test5/test5/21914.ts
+#EXTINF:-1,IN:Zee Living
+http://5.196.78.122:8080/live/test5/test5/21972.ts
+#EXTINF:-1,IN:Zee news
+http://5.196.78.122:8080/live/test5/test5/21973.ts
+#EXTINF:-1,IN:Zee tv Uk
+http://5.196.78.122:8080/live/test5/test5/21974.ts
