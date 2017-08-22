@@ -1,372 +1,451 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:-1,RTP 1 HD
+http://topiptv.net:5890/live/test21/test21/3517.ts
+#EXTINF:-1,RTP 1
+http://topiptv.net:5890/live/test21/test21/3580.ts
+#EXTINF:-1,RTP 2 HD
+http://topiptv.net:5890/live/test21/test21/3518.ts
+#EXTINF:-1,RTP 2
+http://topiptv.net:5890/live/test21/test21/3581.ts
+#EXTINF:-1,RTP 3
+http://topiptv.net:5890/live/test21/test21/3582.ts
+#EXTINF:-1,RTP A?ores
+http://topiptv.net:5890/live/test21/test21/3583.ts
+#EXTINF:-1,RTP Madeira
+http://topiptv.net:5890/live/test21/test21/3584.ts
+#EXTINF:-1,RTP Memðria
+http://topiptv.net:5890/live/test21/test21/3585.ts
+#EXTINF:-1,RTP AFRICA
+http://topiptv.net:5890/live/test21/test21/3579.ts
+#EXTINF:-1,SIC
+http://topiptv.net:5890/live/test21/test21/3586.ts
+#EXTINF:-1,SIC Caras
+http://topiptv.net:5890/live/test21/test21/3587.ts
+#EXTINF:-1,SIC K
+http://topiptv.net:5890/live/test21/test21/3588.ts
+#EXTINF:-1,SIC Mulher
+http://topiptv.net:5890/live/test21/test21/3589.ts
+#EXTINF:-1,SIC Not?cias
+http://topiptv.net:5890/live/test21/test21/3590.ts
+#EXTINF:-1,SIC Radical
+http://topiptv.net:5890/live/test21/test21/3591.ts
+#EXTINF:-1,TVI
+http://topiptv.net:5890/live/test21/test21/3623.ts
+#EXTINF:-1,TVI 24
+http://topiptv.net:5890/live/test21/test21/3626.ts
+#EXTINF:-1,TVI Fic?ªo
+http://topiptv.net:5890/live/test21/test21/3627.ts
+#EXTINF:-1,TVI International HD
+http://topiptv.net:5890/live/test21/test21/3625.ts
+#EXTINF:-1,TVI International
+http://topiptv.net:5890/live/test21/test21/3624.ts
+#EXTINF:-1,TVI Reality
+http://topiptv.net:5890/live/test21/test21/3628.ts
+#EXTINF:-1,--Cinema_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3655.ts
+#EXTINF:-1,TV CINE 1 HD
+http://topiptv.net:5890/live/test21/test21/3610.ts
+#EXTINF:-1,TVCine 1
+http://topiptv.net:5890/live/test21/test21/3615.ts
+#EXTINF:-1,TVCine 2 HD
+http://topiptv.net:5890/live/test21/test21/3617.ts
+#EXTINF:-1,TVCine 2
+http://topiptv.net:5890/live/test21/test21/3616.ts
+#EXTINF:-1,TVCine 3
+http://topiptv.net:5890/live/test21/test21/3618.ts
+#EXTINF:-1,TVCine 3 HD
+http://topiptv.net:5890/live/test21/test21/3619.ts
+#EXTINF:-1,TV CINE 4 HD
+http://topiptv.net:5890/live/test21/test21/3611.ts
+#EXTINF:-1,TVCine 4
+http://topiptv.net:5890/live/test21/test21/3620.ts
+#EXTINF:-1,Cinemundo
+http://topiptv.net:5890/live/test21/test21/3541.ts
+#EXTINF:-1,CMTV
+http://topiptv.net:5890/live/test21/test21/3542.ts
+#EXTINF:-1,FOX HD
+http://topiptv.net:5890/live/test21/test21/3646.ts
+#EXTINF:-1,FOX Life HD
+http://topiptv.net:5890/live/test21/test21/3647.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://topiptv.net:5890/live/test21/test21/3648.ts
+#EXTINF:-1,AXN Black HD
+http://topiptv.net:5890/live/test21/test21/3524.ts
+#EXTINF:-1,FOX Comedy
+http://topiptv.net:5890/live/test21/test21/3555.ts
+#EXTINF:-1,FOX Crime HD
+http://topiptv.net:5890/live/test21/test21/3556.ts
+#EXTINF:-1,FOX Movies
+http://topiptv.net:5890/live/test21/test21/3557.ts
+#EXTINF:-1,TVSØries
+http://topiptv.net:5890/live/test21/test21/3629.ts
+#EXTINF:-1,TVSØries HD
+http://topiptv.net:5890/live/test21/test21/3630.ts
+#EXTINF:-1,TLC
+http://topiptv.net:5890/live/test21/test21/3605.ts
+#EXTINF:-1,MOV
+http://topiptv.net:5890/live/test21/test21/3572.ts
+#EXTINF:-1,AMC
+http://topiptv.net:5890/live/test21/test21/3635.ts
+#EXTINF:-1, AMC HD
+http://topiptv.net:5890/live/test21/test21/3636.ts
+#EXTINF:-1, AXN
+http://topiptv.net:5890/live/test21/test21/3637.ts
+#EXTINF:-1, AXN Black HD
+http://topiptv.net:5890/live/test21/test21/3640.ts
+#EXTINF:-1, AXN HD
+http://topiptv.net:5890/live/test21/test21/3638.ts
+#EXTINF:-1,SYFY
+http://topiptv.net:5890/live/test21/test21/3652.ts
+#EXTINF:-1,--Soprts_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3654.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://topiptv.net:5890/live/test21/test21/3595.ts
+#EXTINF:-1,SPORT TV 1
+http://topiptv.net:5890/live/test21/test21/3594.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://topiptv.net:5890/live/test21/test21/3597.ts
+#EXTINF:-1,SPORT TV 2
+http://topiptv.net:5890/live/test21/test21/3596.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://topiptv.net:5890/live/test21/test21/3599.ts
+#EXTINF:-1,SPORT TV 3
+http://topiptv.net:5890/live/test21/test21/3598.ts
+#EXTINF:-1,Sport TV 4 HD
+http://topiptv.net:5890/live/test21/test21/3601.ts
+#EXTINF:-1,SPORT TV 4
+http://topiptv.net:5890/live/test21/test21/3600.ts
+#EXTINF:-1,Sport TV 5 HD
+http://topiptv.net:5890/live/test21/test21/3603.ts
+#EXTINF:-1,Sport TV 5
+http://topiptv.net:5890/live/test21/test21/3602.ts
+#EXTINF:-1,Eurosport HD
+http://topiptv.net:5890/live/test21/test21/3645.ts
+#EXTINF:-1,Eurosport 1
+http://topiptv.net:5890/live/test21/test21/3643.ts
+#EXTINF:-1,Eurosport 2
+http://topiptv.net:5890/live/test21/test21/3644.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+http://topiptv.net:5890/live/test21/test21/3553.ts
+#EXTINF:-1,Eurosport 2 Xtra
+http://topiptv.net:5890/live/test21/test21/3552.ts
+#EXTINF:-1,BTV 1 HD
+http://topiptv.net:5890/live/test21/test21/3531.ts
+#EXTINF:-1,BTV 1
+http://topiptv.net:5890/live/test21/test21/3530.ts
+#EXTINF:-1,A Bola TV
+http://topiptv.net:5890/live/test21/test21/3520.ts
+#EXTINF:-1,CANAL PORTO
+http://topiptv.net:5890/live/test21/test21/3577.ts
+#EXTINF:-1,SPORTS +
+http://topiptv.net:5890/live/test21/test21/3593.ts
+#EXTINF:-1,Sporting TV
+http://topiptv.net:5890/live/test21/test21/3604.ts
+#EXTINF:-1,kombat sport
+http://topiptv.net:5890/live/test21/test21/3564.ts
+#EXTINF:-1,Motors TV
+http://topiptv.net:5890/live/test21/test21/3570.ts
+#EXTINF:-1,Motorvision
+http://topiptv.net:5890/live/test21/test21/3571.ts
+#EXTINF:-1,Eurosport News
+http://topiptv.net:5890/live/test21/test21/3554.ts
+#EXTINF:-1,--Culturales_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3656.ts
+#EXTINF:-1,A&E
+http://topiptv.net:5890/live/test21/test21/3634.ts
+#EXTINF:-1,Travel Channel HD
+http://topiptv.net:5890/live/test21/test21/3609.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://topiptv.net:5890/live/test21/test21/3608.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://topiptv.net:5890/live/test21/test21/3546.ts
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://topiptv.net:5890/live/test21/test21/3545.ts
+#EXTINF:-1,Ca?a e Pesca
+http://topiptv.net:5890/live/test21/test21/3539.ts
+#EXTINF:-1,Histðria
+http://topiptv.net:5890/live/test21/test21/3561.ts
+#EXTINF:-1,NATGEO HD
+http://topiptv.net:5890/live/test21/test21/3574.ts
+#EXTINF:-1,Nat Geo Wild
+http://topiptv.net:5890/live/test21/test21/3650.ts
+#EXTINF:-1,Odisseia
+http://topiptv.net:5890/live/test21/test21/3575.ts
+#EXTINF:-1,24 Kitchen
+http://topiptv.net:5890/live/test21/test21/3519.ts
+#EXTINF:-1,24 Kitchen HD
+http://topiptv.net:5890/live/test21/test21/3521.ts
+#EXTINF:-1,--Enfants_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3657.ts
+#EXTINF:-1, Baby TV
+http://topiptv.net:5890/live/test21/test21/3639.ts
+#EXTINF:-1, Disney Channel
+http://topiptv.net:5890/live/test21/test21/3642.ts
+#EXTINF:-1,Nickelodeon
+http://topiptv.net:5890/live/test21/test21/3651.ts
+#EXTINF:-1,Baby First
+http://topiptv.net:5890/live/test21/test21/3525.ts
+#EXTINF:-1,Bloomberg
+http://topiptv.net:5890/live/test21/test21/3529.ts
+#EXTINF:-1,Canal Panda
+http://topiptv.net:5890/live/test21/test21/3535.ts
+#EXTINF:-1,Canal Q
+http://topiptv.net:5890/live/test21/test21/3536.ts
+#EXTINF:-1,Cartoon Network
+http://topiptv.net:5890/live/test21/test21/3538.ts
+#EXTINF:-1,Deutsche Welle
+http://topiptv.net:5890/live/test21/test21/3544.ts
+#EXTINF:-1,Disney Channel
+http://topiptv.net:5890/live/test21/test21/3547.ts
+#EXTINF:-1,Disney Junior
+http://topiptv.net:5890/live/test21/test21/3548.ts
+#EXTINF:-1,Jim Jam
+http://topiptv.net:5890/live/test21/test21/3563.ts
+#EXTINF:-1,--Music_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3658.ts
+#EXTINF:-1,MTV Hits
+http://topiptv.net:5890/live/test21/test21/3649.ts
+#EXTINF:-1,Afro Music
+http://topiptv.net:5890/live/test21/test21/3522.ts
+#EXTINF:-1,C-Music
+http://topiptv.net:5890/live/test21/test21/3533.ts
+#EXTINF:-1,MCM POP
+http://topiptv.net:5890/live/test21/test21/3565.ts
+#EXTINF:-1,Venus
+http://topiptv.net:5890/live/test21/test21/3631.ts
+#EXTINF:-1,VH1
+http://topiptv.net:5890/live/test21/test21/3632.ts
+#EXTINF:-1,VH1 Classic
+http://topiptv.net:5890/live/test21/test21/3633.ts
+#EXTINF:-1,MTV Dance
+http://topiptv.net:5890/live/test21/test21/3566.ts
+#EXTINF:-1,MTV Portugal
+http://topiptv.net:5890/live/test21/test21/3573.ts
+#EXTINF:-1,MTV Rocks
+http://topiptv.net:5890/live/test21/test21/3567.ts
+#EXTINF:-1,--Outher_LOCAL--
+http://topiptv.net:5890/live/test21/test21/3659.ts
+#EXTINF:-1,MCS Extreme
+http://topiptv.net:5890/live/test21/test21/3568.ts
+#EXTINF:-1,MCS LIFESTYLE
+http://topiptv.net:5890/live/test21/test21/3569.ts
+#EXTINF:-1,PFC
+http://topiptv.net:5890/live/test21/test21/3576.ts
+#EXTINF:-1,CALAVISION
+http://topiptv.net:5890/live/test21/test21/3532.ts
+#EXTINF:-1,CBS Reality
+http://topiptv.net:5890/live/test21/test21/3540.ts
+#EXTINF:-1,CNBC Europe
+http://topiptv.net:5890/live/test21/test21/3543.ts
+#EXTINF:-1,E! Entertainment
+http://topiptv.net:5890/live/test21/test21/3549.ts
+#EXTINF:-1,Econðmico TV
+http://topiptv.net:5890/live/test21/test21/3550.ts
+#EXTINF:-1,EuroNews
+http://topiptv.net:5890/live/test21/test21/3551.ts
+#EXTINF:-1,Fuel TV
+http://topiptv.net:5890/live/test21/test21/3559.ts
+#EXTINF:-1,Globo Premium
+http://topiptv.net:5890/live/test21/test21/3560.ts
+#EXTINF:-1,FTV
+http://topiptv.net:5890/live/test21/test21/3558.ts
+#EXTINF:-1,TVE 24h
+http://topiptv.net:5890/live/test21/test21/3621.ts
+#EXTINF:-1,TVE Internacional
+http://topiptv.net:5890/live/test21/test21/3622.ts
+#EXTINF:-1, CNN
+http://topiptv.net:5890/live/test21/test21/3641.ts
+#EXTINF:-1,ARTV
+http://topiptv.net:5890/live/test21/test21/3523.ts
+#EXTINF:-1,BBC Entertainment
+http://topiptv.net:5890/live/test21/test21/3526.ts
+#EXTINF:-1,BBC World News
+http://topiptv.net:5890/live/test21/test21/3527.ts
+#EXTINF:-1,Biggs
+http://topiptv.net:5890/live/test21/test21/3528.ts
+#EXTINF:-1,Can?ªo Nova
+http://topiptv.net:5890/live/test21/test21/3537.ts
+#EXTINF:-1,Canal NOS
+http://topiptv.net:5890/live/test21/test21/3534.ts
+#EXTINF:-1,SKY News
+http://topiptv.net:5890/live/test21/test21/3592.ts
+#EXTINF:-1,Toros TV
+http://topiptv.net:5890/live/test21/test21/3606.ts
+#EXTINF:-1,Trace TV
+http://topiptv.net:5890/live/test21/test21/3607.ts
+#EXTINF:-1,TV Galicia
+http://topiptv.net:5890/live/test21/test21/3612.ts
+#EXTINF:-1,TV Record
+http://topiptv.net:5890/live/test21/test21/3613.ts
+#EXTINF:-1,TV5 Monde
+http://topiptv.net:5890/live/test21/test21/3614.ts
+#EXTINF:-1,Record News
+http://topiptv.net:5890/live/test21/test21/3578.ts
 
-#EXTINF:-1,PT:24 KITCHEN HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9569.ts
-#EXTINF:-1,PT:A BOLA TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9570.ts
-#EXTINF:-1,PT:A&E
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9571.ts
-#EXTINF:-1,PT:Afro Music
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9572.ts
-#EXTINF:-1,PT:AMC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9573.ts
-#EXTINF:-1,PT:Axn Black HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9574.ts
-#EXTINF:-1,PT:AXN HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9575.ts
-#EXTINF:-1,PT:Axn White HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9576.ts
-#EXTINF:-1,PT:BABY  FIRST
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9577.ts
-#EXTINF:-1,PT:BABY TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9578.ts
-#EXTINF:-1,PT:BENEFICA TV1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9579.ts
-#EXTINF:-1,PT:BTV 1 FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9580.ts
-#EXTINF:-1,PT:CaÃ§a e Pesca
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9581.ts
-#EXTINF:-1,PT:CaÃ§aVision
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9582.ts
-#EXTINF:-1,PT:Canal Panda
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9583.ts
-#EXTINF:-1,PT:Cartoon Network
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9584.ts
-#EXTINF:-1,PT:CBS REALITY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9585.ts
-#EXTINF:-1,PT:CINEMUNDO HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9586.ts
-#EXTINF:-1,PT:CMTV HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9587.ts
-#EXTINF:-1,PT:Discovery Channel
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9588.ts
-#EXTINF:-1,PT:Discovery Showcase HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9589.ts
-#EXTINF:-1,PT:Disney Junior
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9590.ts
-#EXTINF:-1,PT:E! Entertainment
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9591.ts
-#EXTINF:-1,PT:Eurosport 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9592.ts
-#EXTINF:-1,PT:Eurosport 2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9593.ts
-#EXTINF:-1,PT:Eurosport News
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9594.ts
-#EXTINF:-1,PT:Fight Box
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9595.ts
-#EXTINF:-1,PT:FOOD NETWORK
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9596.ts
-#EXTINF:-1,PT:FOX COMEDY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9597.ts
-#EXTINF:-1,PT:Fox Crime HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9598.ts
-#EXTINF:-1,PT:Fox HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9599.ts
-#EXTINF:-1,PT:Fox Life HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9601.ts
-#EXTINF:-1,PT:Fox Movies
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9600.ts
-#EXTINF:-1,PT:Fuel TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9602.ts
-#EXTINF:-1,PT:Globo
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9603.ts
-#EXTINF:-1,PT:GLOBO PREMIUM
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9604.ts
-#EXTINF:-1,PT:HISTORIA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9605.ts
-#EXTINF:-1,PT:HOLLYWOOD HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9606.ts
-#EXTINF:-1,PT:JimJam
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9607.ts
-#EXTINF:-1,PT:KOMBAT SPORT
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9608.ts
-#EXTINF:-1,PT:MCM POP
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9609.ts
-#EXTINF:-1,PT:MCM TOP
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9610.ts
-#EXTINF:-1,PT:MOTOR TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9611.ts
-#EXTINF:-1,PT:Motorvision HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9612.ts
-#EXTINF:-1,PT:mov HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9613.ts
-#EXTINF:-1,PT:MTV PORTUGAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9614.ts
-#EXTINF:-1,PT:Nat Geo Wild
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9615.ts
-#EXTINF:-1,PT:National Geographic HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9616.ts
-#EXTINF:-1,PT:Nickelodeon
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9617.ts
-#EXTINF:-1,PT:Odisseia
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9618.ts
-#EXTINF:-1,PT:Panda Bigss
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9619.ts
-#EXTINF:-1,PT:PFC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9620.ts
-#EXTINF:-1,PT:Porto Canal
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9621.ts
-#EXTINF:-1,PT:Real Madrid
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9622.ts
-#EXTINF:-1,PT:RTP 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9623.ts
-#EXTINF:-1,PT:RTP 2 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9624.ts
-#EXTINF:-1,PT:RTP 3
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9625.ts
-#EXTINF:-1,PT:RTP Acores
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9626.ts
-#EXTINF:-1,PT:RTP AFRICA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9627.ts
-#EXTINF:-1,PT:RTP Madeira
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9628.ts
-#EXTINF:-1,PT:RTP Memoria
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9629.ts
-#EXTINF:-1,PT:Sic Caras
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9630.ts
-#EXTINF:-1,PT:SIC HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9631.ts
-#EXTINF:-1,PT:SIC Kids
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9632.ts
-#EXTINF:-1,PT:SIC MULHER
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9633.ts
-#EXTINF:-1,PT:SIC Noticias
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9634.ts
-#EXTINF:-1,PT:SIC RADICAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9635.ts
-#EXTINF:-1,PT:SPORT TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9636.ts
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9637.ts
-#EXTINF:-1,PT:SPORT TV 2 FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9638.ts
-#EXTINF:-1,PT:SPORT TV 2 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9639.ts
-#EXTINF:-1,PT:SPORT TV 3 FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9640.ts
-#EXTINF:-1,PT:SPORT TV 3 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9641.ts
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9642.ts
-#EXTINF:-1,PT:SPORT TV 5 FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9643.ts
-#EXTINF:-1,PT:SPORT TV 5 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9644.ts
-#EXTINF:-1,PT:SPORT TV1 HD FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9645.ts
-#EXTINF:-1,PT:SPORT TV4 FULL HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9646.ts
-#EXTINF:-1,PT:SPORTING TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9647.ts
-#EXTINF:-1,PT:SYFY HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9648.ts
-#EXTINF:-1,PT:TLC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9649.ts
-#EXTINF:-1,PT:Touros TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9650.ts
-#EXTINF:-1,PT:Travel Channel
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9651.ts
-#EXTINF:-1,PT:TV CINE 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9652.ts
-#EXTINF:-1,PT:TV CINE 2 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9653.ts
-#EXTINF:-1,PT:TV CINE 3 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9654.ts
-#EXTINF:-1,PT:TV CINE 4 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9655.ts
-#EXTINF:-1,PT:TV RECORD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9656.ts
-#EXTINF:-1,PT:TVI Ficcao
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9657.ts
-#EXTINF:-1,PT:TVI HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9658.ts
-#EXTINF:-1,PT:TVI REALITY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9659.ts
-#EXTINF:-1,PT:TVI24
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9660.ts
-#EXTINF:-1,PT:TVSeries
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9661.ts
-#EXTINF:-1,PT:VEVO 1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9662.ts
-#EXTINF:-1,PT:VEVO 2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9663.ts
-#EXTINF:-1,PT:VEVO 3
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9664.ts
-#EXTINF:-1,PT:VH1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9665.ts
-#EXTINF:-1,PT:VH1 CLASSIC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/9666.ts
-#EXTINF:-1,PT A BOLA TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6266.ts
-#EXTINF:-1,PT A&E
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6302.ts
-#EXTINF:-1,PT AMC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6255.ts
-#EXTINF:-1,PT ARTV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6248.ts
-#EXTINF:-1,PT AXN BLACK HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6301.ts
-#EXTINF:-1,PT AXN HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6299.ts
-#EXTINF:-1,PT AXN WHITE HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6300.ts
-#EXTINF:-1,PT BABY TV LOCAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6258.ts
-#EXTINF:-1,PT BENFICA TV 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6267.ts
-#EXTINF:-1,PT BENFICA TV 2 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6269.ts
-#EXTINF:-1,PT BLOOMBERG
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6298.ts
-#EXTINF:-1,PT C-MUSIC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6297.ts
-#EXTINF:-1,PT CAçA E PESCA.
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6278.ts
-#EXTINF:-1,PT CAçAVISION
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6296.ts
-#EXTINF:-1,PT CANAL Q
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6295.ts
-#EXTINF:-1,PT CANçAO NOVA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6294.ts
-#EXTINF:-1,PT CARTOON NETWORK
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6262.ts
-#EXTINF:-1,PT CBS REALITY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6292.ts
-#EXTINF:-1,PT CMTV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6291.ts
-#EXTINF:-1,PT DISCOVERY CHANNEL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6280.ts
-#EXTINF:-1,PT DISCOVERY SHOWCASE
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6279.ts
-#EXTINF:-1,PT DISNEY JUNIOR
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6257.ts
-#EXTINF:-1,PT EURONEWS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6290.ts
-#EXTINF:-1,PT EUROSPORT 1 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6319.ts
-#EXTINF:-1,PT EUROSPORT 2 HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6320.ts
-#EXTINF:-1,PT EUROSPORT 2 XTRA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6318.ts
-#EXTINF:-1,PT EUROSPORT NEWS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6317.ts
-#EXTINF:-1,PT FOX COMEDY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6288.ts
-#EXTINF:-1,PT FOX CRIME
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6256.ts
-#EXTINF:-1,PT FOX HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6289.ts
-#EXTINF:-1,PT FUEL TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6273.ts
-#EXTINF:-1,PT HOLLYWOOD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6254.ts
-#EXTINF:-1,PT JIMJAM
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6265.ts
-#EXTINF:-1,PT MOTORS TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6272.ts
-#EXTINF:-1,PT MOTORVISION HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6271.ts
-#EXTINF:-1,PT MOV HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6287.ts
-#EXTINF:-1,PT MTV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6286.ts
-#EXTINF:-1,PT NAT GEO WILD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6277.ts
-#EXTINF:-1,PT NATIONAL GEOGRAPHIC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6276.ts
-#EXTINF:-1,PT NBA HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6316.ts
-#EXTINF:-1,PT NICKELODEON
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6264.ts
-#EXTINF:-1,PT NICKELODEON.
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6259.ts
-#EXTINF:-1,PT ODISSEIA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6275.ts
-#EXTINF:-1,PT PANDA BIGGS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6263.ts
-#EXTINF:-1,PT PANDA HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6260.ts
-#EXTINF:-1,PT POKER CENTRAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6293.ts
-#EXTINF:-1,PT PORTO CANAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6270.ts
-#EXTINF:-1,PT RECORD NEWS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6304.ts
-#EXTINF:-1,PT RTP 1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6233.ts
-#EXTINF:-1,PT RTP 2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6234.ts
-#EXTINF:-1,PT RTP 3
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6235.ts
-#EXTINF:-1,PT RTP ÁFRICA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6244.ts
-#EXTINF:-1,PT RTP MADEIRA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6245.ts
-#EXTINF:-1,PT RTP MEMORIA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6243.ts
-#EXTINF:-1,PT SIC CARAS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6285.ts
-#EXTINF:-1,PT SIC KIDS
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6261.ts
-#EXTINF:-1,PT SIC LOCAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6236.ts
-#EXTINF:-1,PT SIC MULHER
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6241.ts
-#EXTINF:-1,PT SIC NOTICIAS LOCAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6239.ts
-#EXTINF:-1,PT SIC RADICAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6242.ts
-#EXTINF:-1,PT SPORTING TV HD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6315.ts
-#EXTINF:-1,PT SYFY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6284.ts
-#EXTINF:-1,PT TLC
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6281.ts
-#EXTINF:-1,PT TOROS TV
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6274.ts
-#EXTINF:-1,PT TRACE URBAN LOCAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6283.ts
-#EXTINF:-1,PT TV CINE 2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6250.ts
-#EXTINF:-1,PT TV CINE 3
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6251.ts
-#EXTINF:-1,PT TV CINE 4
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6252.ts
-#EXTINF:-1,PT TV RECORD
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6303.ts
-#EXTINF:-1,PT TV SERIES
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6253.ts
-#EXTINF:-1,PT TVI
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6237.ts
-#EXTINF:-1,PT TVI 24 LOCAL
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6240.ts
-#EXTINF:-1,PT TVI REALITY
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6238.ts
-#EXTINF:-1,PT_disney_ch
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6268.ts
-#EXTINF:-1,PT_TVCine_1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6249.ts
-#EXTINF:-1,PT: EUROSPORT 1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6308.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6309.ts
-#EXTINF:-1,PT: SPORT TV1
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6311.ts
-#EXTINF:-1,PT: SPORT TV1 HD ULTRA
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6310.ts
-#EXTINF:-1,PT: SPORT TV2
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6312.ts
-#EXTINF:-1,PT: SPORT TV3
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6313.ts
-#EXTINF:-1,PT: SPORT TV4
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6314.ts
-#EXTINF:-1,PT: SPORT TV5
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6307.ts
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://iptvarb.selfip.com:6227/live/demo2017/demo2017/6306.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT|RTP 1 HD
+http://topiptv.net:5890/live/test21/test21/890.ts
+#EXTINF:-1,PT|RTP 2 HD
+http://topiptv.net:5890/live/test21/test21/891.ts
+#EXTINF:-1,PT|RTP 3 HD
+http://topiptv.net:5890/live/test21/test21/985.ts
+#EXTINF:-1,PT|RTP Memoria
+http://topiptv.net:5890/live/test21/test21/895.ts
+#EXTINF:-1,PT|RTP Madeira
+http://topiptv.net:5890/live/test21/test21/894.ts
+#EXTINF:-1,PT|RTP Acores
+http://topiptv.net:5890/live/test21/test21/892.ts
+#EXTINF:-1,PT|RT GLOBAL
+http://topiptv.net:5890/live/test21/test21/900.ts
+#EXTINF:-1,PT|TV Globo
+http://topiptv.net:5890/live/test21/test21/1024.ts
+#EXTINF:-1,PT|TVI Ficcao
+http://topiptv.net:5890/live/test21/test21/1022.ts
+#EXTINF:-1,PT|TVI
+http://topiptv.net:5890/live/test21/test21/905.ts
+#EXTINF:-1,PT|tvi/24
+http://topiptv.net:5890/live/test21/test21/919.ts
+#EXTINF:-1,PT|TVC Series
+http://topiptv.net:5890/live/test21/test21/1023.ts
+#EXTINF:-1,PT|SIC Noticias
+http://topiptv.net:5890/live/test21/test21/1738.ts
+#EXTINF:-1,PT|SIC Caras
+http://topiptv.net:5890/live/test21/test21/1025.ts
+#EXTINF:-1,PT|Sic Radical
+http://topiptv.net:5890/live/test21/test21/897.ts
+#EXTINF:-1,PT|SIC Mulher
+http://topiptv.net:5890/live/test21/test21/896.ts
+#EXTINF:-1,PT|SIC
+http://topiptv.net:5890/live/test21/test21/920.ts
+#EXTINF:-1,PT|CM TV
+http://topiptv.net:5890/live/test21/test21/886.ts
+#EXTINF:-1,--|PT CINEMA|--
+http://topiptv.net:5890/live/test21/test21/1439.ts
+#EXTINF:-1,PT|TV Cine 1
+http://topiptv.net:5890/live/test21/test21/901.ts
+#EXTINF:-1,PT|TV Cine 2
+http://topiptv.net:5890/live/test21/test21/902.ts
+#EXTINF:-1,PT|TV Cine 3
+http://topiptv.net:5890/live/test21/test21/903.ts
+#EXTINF:-1,PT|TV Cine 4
+http://topiptv.net:5890/live/test21/test21/904.ts
+#EXTINF:-1,PT|Mov HD
+http://topiptv.net:5890/live/test21/test21/1200.ts
+#EXTINF:-1,PT|Cine Mundo
+http://topiptv.net:5890/live/test21/test21/1192.ts
+#EXTINF:-1,PT|Hollywood HD
+http://topiptv.net:5890/live/test21/test21/889.ts
+#EXTINF:-1,PT|Fox Crime
+http://topiptv.net:5890/live/test21/test21/1027.ts
+#EXTINF:-1,PT|Fox Movies
+http://topiptv.net:5890/live/test21/test21/1182.ts
+#EXTINF:-1,PT|Fox Comedy
+http://topiptv.net:5890/live/test21/test21/1028.ts
+#EXTINF:-1,PT|FoxLife
+http://topiptv.net:5890/live/test21/test21/888.ts
+#EXTINF:-1,PT|FoxHD
+http://topiptv.net:5890/live/test21/test21/887.ts
+#EXTINF:-1,PT|SYFY
+http://topiptv.net:5890/live/test21/test21/899.ts
+#EXTINF:-1,PT|AXN-HD
+http://topiptv.net:5890/live/test21/test21/1033.ts
+#EXTINF:-1,PT|AXN WhiteHD
+http://topiptv.net:5890/live/test21/test21/883.ts
+#EXTINF:-1,PT|Axn Black HD
+http://topiptv.net:5890/live/test21/test21/882.ts
+#EXTINF:-1,--|PT CULTURE|--
+http://topiptv.net:5890/live/test21/test21/1441.ts
+#EXTINF:-1,PT|24 Kitchen
+http://topiptv.net:5890/live/test21/test21/1198.ts
+#EXTINF:-1,PT|Reality TV
+http://topiptv.net:5890/live/test21/test21/1191.ts
+#EXTINF:-1,PT|CBC Reality
+http://topiptv.net:5890/live/test21/test21/1196.ts
+#EXTINF:-1,PT|Odissia
+http://topiptv.net:5890/live/test21/test21/1194.ts
+#EXTINF:-1,PT|Caca Pesca
+http://topiptv.net:5890/live/test21/test21/1197.ts
+#EXTINF:-1,PT|NatGeoWild
+http://topiptv.net:5890/live/test21/test21/1195.ts
+#EXTINF:-1,PT|Discovery-HD
+http://topiptv.net:5890/live/test21/test21/1031.ts
+#EXTINF:-1,--|PT ENFANTS|--
+http://topiptv.net:5890/live/test21/test21/1442.ts
+#EXTINF:-1,PT|JimJim
+http://topiptv.net:5890/live/test21/test21/1026.ts
+#EXTINF:-1,PT|SIC Kids
+http://topiptv.net:5890/live/test21/test21/1203.ts
+#EXTINF:-1,PT|Nickelodeon HD
+http://topiptv.net:5890/live/test21/test21/1206.ts
+#EXTINF:-1,PT|Cartoon Network HD
+http://topiptv.net:5890/live/test21/test21/1204.ts
+#EXTINF:-1,PT|Baby tv
+http://topiptv.net:5890/live/test21/test21/1190.ts
+#EXTINF:-1,PT|Canal Panda
+http://topiptv.net:5890/live/test21/test21/1193.ts
+#EXTINF:-1,PT|Disney Ju
+http://topiptv.net:5890/live/test21/test21/1029.ts
+#EXTINF:-1,PT|Disney Ch
+http://topiptv.net:5890/live/test21/test21/1030.ts
+#EXTINF:-1,--|PT SPORT|--
+http://topiptv.net:5890/live/test21/test21/1438.ts
+#EXTINF:-1,PT|EuroSport
+http://topiptv.net:5890/live/test21/test21/1199.ts
+#EXTINF:-1,PT|Canal Porto
+http://topiptv.net:5890/live/test21/test21/1032.ts
+#EXTINF:-1,PT|Abola TV
+http://topiptv.net:5890/live/test21/test21/1034.ts
+#EXTINF:-1,PT|Sporting TV
+http://topiptv.net:5890/live/test21/test21/893.ts
+#EXTINF:-1,PT|BTV 1 HD
+http://topiptv.net:5890/live/test21/test21/885.ts
+#EXTINF:-1,PT|BTV 2
+http://topiptv.net:5890/live/test21/test21/884.ts
+#EXTINF:-1,PT|Sport TV 1 HD
+http://topiptv.net:5890/live/test21/test21/878.ts
+#EXTINF:-1,PT|Sport TV 2 HD
+http://topiptv.net:5890/live/test21/test21/879.ts
+#EXTINF:-1,PT|Sport TV 3 HD
+http://topiptv.net:5890/live/test21/test21/880.ts
+#EXTINF:-1,PT|Sport TV 4 HD
+http://topiptv.net:5890/live/test21/test21/881.ts
+#EXTINF:-1,PT|Sport TV 5 HD
+http://topiptv.net:5890/live/test21/test21/898.ts
+
+
+
+
