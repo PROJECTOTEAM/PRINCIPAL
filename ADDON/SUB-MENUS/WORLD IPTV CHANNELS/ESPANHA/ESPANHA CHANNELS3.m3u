@@ -1,178 +1,204 @@
 #EXTM3U
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 21-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,ES: #0 HD
-http://5.196.78.122:8080/live/test5/test5/21239.ts
-#EXTINF:-1,ES: 24 Horas
-http://5.196.78.122:8080/live/test5/test5/21232.ts
-#EXTINF:-1,ES: 40 TV
-http://5.196.78.122:8080/live/test5/test5/21231.ts
-#EXTINF:-1,ES: A&E
-http://5.196.78.122:8080/live/test5/test5/21240.ts
-#EXTINF:-1,ES: AMC
-http://5.196.78.122:8080/live/test5/test5/21241.ts
-#EXTINF:-1,ES: AXN HD
-http://5.196.78.122:8080/live/test5/test5/21242.ts
-#EXTINF:-1,ES: BABY TV
-http://5.196.78.122:8080/live/test5/test5/19662.ts
-#EXTINF:-1,ES: BARCA TV
-http://5.196.78.122:8080/live/test5/test5/21230.ts
-#EXTINF:-1,ES: beIN LA Liga FHD
-http://5.196.78.122:8080/live/test5/test5/19860.ts
-#EXTINF:-1,ES: beIN LaLIga 1 (event only)
-http://5.196.78.122:8080/live/test5/test5/21238.ts
-#EXTINF:-1,ES: beIN Laliga 1 HD Backup
-http://5.196.78.122:8080/live/test5/test5/19859.ts
-#EXTINF:-1,ES: beIN LaLIga 2 (event only)
-http://5.196.78.122:8080/live/test5/test5/21237.ts
-#EXTINF:-1,ES: beIN LaLIga 3 (event only)
-http://5.196.78.122:8080/live/test5/test5/21236.ts
-#EXTINF:-1,ES: Bein Liga HD
-http://5.196.78.122:8080/live/test5/test5/21243.ts
-#EXTINF:-1,ES: Bein Sport HD
-http://5.196.78.122:8080/live/test5/test5/21244.ts
-#EXTINF:-1,ES: Boing
-http://5.196.78.122:8080/live/test5/test5/21245.ts
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-http://5.196.78.122:8080/live/test5/test5/21273.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://5.196.78.122:8080/live/test5/test5/21246.ts
-#EXTINF:-1,ES: Canal De Las Estrellas
-http://5.196.78.122:8080/live/test5/test5/21226.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://5.196.78.122:8080/live/test5/test5/21247.ts
-#EXTINF:-1,ES: Canal SERIES HD
-http://5.196.78.122:8080/live/test5/test5/21248.ts
-#EXTINF:-1,ES: Caza y pesca
-http://5.196.78.122:8080/live/test5/test5/21249.ts
-#EXTINF:-1,ES: Clan Tve
-http://5.196.78.122:8080/live/test5/test5/21250.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://5.196.78.122:8080/live/test5/test5/21229.ts
-#EXTINF:-1,ES: COSMO HD
-http://5.196.78.122:8080/live/test5/test5/21251.ts
-#EXTINF:-1,ES: Crimen Investigation
-http://5.196.78.122:8080/live/test5/test5/21224.ts
-#EXTINF:-1,ES: DISCOVERY
-http://5.196.78.122:8080/live/test5/test5/21283.ts
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-http://5.196.78.122:8080/live/test5/test5/21284.ts
-#EXTINF:-1,ES: DISNEY XD
-http://5.196.78.122:8080/live/test5/test5/21286.ts
-#EXTINF:-1,ES: DIVINITY
-http://5.196.78.122:8080/live/test5/test5/21252.ts
-#EXTINF:-1,ES: Energy
-http://5.196.78.122:8080/live/test5/test5/21235.ts
-#EXTINF:-1,ES: EUROSPORT 1
-http://5.196.78.122:8080/live/test5/test5/21234.ts
-#EXTINF:-1,ES: EUROSPORT 2
-http://5.196.78.122:8080/live/test5/test5/21233.ts
-#EXTINF:-1,ES: FDF
-http://5.196.78.122:8080/live/test5/test5/21253.ts
-#EXTINF:-1,ES: FOX HD
-http://5.196.78.122:8080/live/test5/test5/21287.ts
-#EXTINF:-1,ES: GOL Tv
-http://5.196.78.122:8080/live/test5/test5/21254.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://5.196.78.122:8080/live/test5/test5/21290.ts
-#EXTINF:-1,ES: IBERALIA
-http://5.196.78.122:8080/live/test5/test5/21255.ts
-#EXTINF:-1,ES: LA 2 HD
-http://5.196.78.122:8080/live/test5/test5/21256.ts
-#EXTINF:-1,ES: La Liga BAR HD
-http://5.196.78.122:8080/live/test5/test5/21257.ts
-#EXTINF:-1,ES: MEGA
-http://5.196.78.122:8080/live/test5/test5/21293.ts
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-http://5.196.78.122:8080/live/test5/test5/19816.ts
-#EXTINF:-1,ES: MTV ESPANA
-http://5.196.78.122:8080/live/test5/test5/21223.ts
-#EXTINF:-1,ES: NEOX
-http://5.196.78.122:8080/live/test5/test5/21258.ts
-#EXTINF:-1,ES: NICKELODEON HD
-http://5.196.78.122:8080/live/test5/test5/21259.ts
-#EXTINF:-1,ES: Nonstop People
-http://5.196.78.122:8080/live/test5/test5/21228.ts
-#EXTINF:-1,ES: NOVA
-http://5.196.78.122:8080/live/test5/test5/21260.ts
-#EXTINF:-1,ES: ODISEA HD
-http://5.196.78.122:8080/live/test5/test5/21261.ts
-#EXTINF:-1,ES: PANDA
-http://5.196.78.122:8080/live/test5/test5/21262.ts
-#EXTINF:-1,ES: Paramount
-http://5.196.78.122:8080/live/test5/test5/21225.ts
-#EXTINF:-1,ES: Real Madrid Channel
-http://5.196.78.122:8080/live/test5/test5/20500.ts
-#EXTINF:-1,ES: SYFY
-http://5.196.78.122:8080/live/test5/test5/21263.ts
-#EXTINF:-1,ES: TNT
-http://5.196.78.122:8080/live/test5/test5/21264.ts
-#EXTINF:-1,ES:ANTENA 3 HD
-http://5.196.78.122:8080/live/test5/test5/21265.ts
-#EXTINF:-1,ES:AXN WHITE HD
-http://5.196.78.122:8080/live/test5/test5/21266.ts
-#EXTINF:-1,ES:CALLE 13 HD
-http://5.196.78.122:8080/live/test5/test5/21267.ts
-#EXTINF:-1,ES:CANAL  ACTION HD
-http://5.196.78.122:8080/live/test5/test5/21268.ts
-#EXTINF:-1,ES:Canal  COMEDIA HD
-http://5.196.78.122:8080/live/test5/test5/21269.ts
-#EXTINF:-1,ES:Canal  DCINE HD
-http://5.196.78.122:8080/live/test5/test5/21270.ts
-#EXTINF:-1,ES:Canal  DEPORTES 2 HD
-http://5.196.78.122:8080/live/test5/test5/21271.ts
-#EXTINF:-1,ES:Canal  DEPORTES HD
-http://5.196.78.122:8080/live/test5/test5/21272.ts
-#EXTINF:-1,ES:Canal  FUTBOL HD
-http://5.196.78.122:8080/live/test5/test5/21274.ts
-#EXTINF:-1,ES:Canal  GOLF HD
-http://5.196.78.122:8080/live/test5/test5/21275.ts
-#EXTINF:-1,ES:Canal  LIGA 2 HD
-http://5.196.78.122:8080/live/test5/test5/21276.ts
-#EXTINF:-1,ES:Canal  LIGA HD
-http://5.196.78.122:8080/live/test5/test5/21277.ts
-#EXTINF:-1,ES:Canal  SERIES XTRA HD
-http://5.196.78.122:8080/live/test5/test5/21278.ts
-#EXTINF:-1,ES:Canal  TOROS HD
-http://5.196.78.122:8080/live/test5/test5/21279.ts
-#EXTINF:-1,ES:Canal  XTRA HD
-http://5.196.78.122:8080/live/test5/test5/21280.ts
-#EXTINF:-1,ES:CUATRO HD
-http://5.196.78.122:8080/live/test5/test5/21281.ts
-#EXTINF:-1,ES:DISCOVERY CHANNEL HD
-http://5.196.78.122:8080/live/test5/test5/21282.ts
-#EXTINF:-1,ES:DISNEY JUNIOR
-http://5.196.78.122:8080/live/test5/test5/21285.ts
-#EXTINF:-1,ES:FOX LIFE HD
-http://5.196.78.122:8080/live/test5/test5/21288.ts
-#EXTINF:-1,ES:HISTORIA
-http://5.196.78.122:8080/live/test5/test5/21289.ts
-#EXTINF:-1,ES:LA 1 HD
-http://5.196.78.122:8080/live/test5/test5/21291.ts
-#EXTINF:-1,ES:LA SEXTA HD
-http://5.196.78.122:8080/live/test5/test5/21292.ts
-#EXTINF:-1,ES:NAT GEO WILD HD
-http://5.196.78.122:8080/live/test5/test5/21294.ts
-#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
-http://5.196.78.122:8080/live/test5/test5/21295.ts
-#EXTINF:-1,ES:NICK Jr
-http://5.196.78.122:8080/live/test5/test5/21296.ts
-#EXTINF:-1,ES:TCM HD
-http://5.196.78.122:8080/live/test5/test5/21297.ts
-#EXTINF:-1,ES:TELECINCO HD
-http://5.196.78.122:8080/live/test5/test5/21298.ts
-#EXTINF:-1,ES:TELEDEPORTE HD
-http://5.196.78.122:8080/live/test5/test5/21299.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,ES:VIAJAR HD
-http://5.196.78.122:8080/live/test5/test5/21300.ts
-#EXTINF:-1,ES : MOVISTAR F1 HD
-http://5.196.78.122:8080/live/test5/test5/21219.ts
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-http://5.196.78.122:8080/live/test5/test5/21220.ts
-#EXTINF:-1,ES : movistar Futbol
-http://5.196.78.122:8080/live/test5/test5/21221.ts
-#EXTINF:-1,ES : MOVISTAR MOTOGP
-http://5.196.78.122:8080/live/test5/test5/21222.ts
+http://iptvfree1.com:6969/live/232323/232323/2722.ts
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://iptvfree1.com:6969/live/232323/232323/2723.ts
+#EXTINF:-1,ES:TELECINCO HD
+http://iptvfree1.com:6969/live/232323/232323/2695.ts
+#EXTINF:-1,ES:TCM HD
+http://iptvfree1.com:6969/live/232323/232323/2726.ts
+#EXTINF:-1,ES:NICK Jr
+http://iptvfree1.com:6969/live/232323/232323/2707.ts
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+http://iptvfree1.com:6969/live/232323/232323/2702.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://iptvfree1.com:6969/live/232323/232323/2701.ts
+#EXTINF:-1,ES: MEGA
+http://iptvfree1.com:6969/live/232323/232323/2724.ts
+#EXTINF:-1,ES:LA SEXTA HD
+http://iptvfree1.com:6969/live/232323/232323/2698.ts
+#EXTINF:-1,ES:LA 1 HD
+http://iptvfree1.com:6969/live/232323/232323/2699.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://iptvfree1.com:6969/live/232323/232323/2725.ts
+#EXTINF:-1,ES:HISTORIA
+http://iptvfree1.com:6969/live/232323/232323/2728.ts
+#EXTINF:-1,ES:FOX LIFE HD
+http://iptvfree1.com:6969/live/232323/232323/2696.ts
+#EXTINF:-1,ES: FOX HD
+http://iptvfree1.com:6969/live/232323/232323/2697.ts
+#EXTINF:-1,ES: DISNEY XD
+http://iptvfree1.com:6969/live/232323/232323/2709.ts
+#EXTINF:-1,ES:DISNEY JUNIOR
+http://iptvfree1.com:6969/live/232323/232323/2710.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://iptvfree1.com:6969/live/232323/232323/2708.ts
+#EXTINF:-1,ES: DISCOVERY
+http://iptvfree1.com:6969/live/232323/232323/2704.ts
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+http://iptvfree1.com:6969/live/232323/232323/2703.ts
+#EXTINF:-1,ES:CUATRO HD
+http://iptvfree1.com:6969/live/232323/232323/2713.ts
+#EXTINF:-1,ES:Canal  XTRA HD
+http://iptvfree1.com:6969/live/232323/232323/2715.ts
+#EXTINF:-1,ES:Canal  TOROS HD
+http://iptvfree1.com:6969/live/232323/232323/2717.ts
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+http://iptvfree1.com:6969/live/232323/232323/2712.ts
+#EXTINF:-1,ES:Canal  LIGA HD
+http://iptvfree1.com:6969/live/232323/232323/2690.ts
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+http://iptvfree1.com:6969/live/232323/232323/2691.ts
+#EXTINF:-1,ES:Canal  GOLF HD
+http://iptvfree1.com:6969/live/232323/232323/2716.ts
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://iptvfree1.com:6969/live/232323/232323/2692.ts
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+http://iptvfree1.com:6969/live/232323/232323/2718.ts
+#EXTINF:-1,ES:Canal  DEPORTES HD
+http://iptvfree1.com:6969/live/232323/232323/2693.ts
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://iptvfree1.com:6969/live/232323/232323/2694.ts
+#EXTINF:-1,ES:Canal  DCINE HD
+http://iptvfree1.com:6969/live/232323/232323/2719.ts
+#EXTINF:-1,ES:Canal  COMEDIA HD
+http://iptvfree1.com:6969/live/232323/232323/2720.ts
+#EXTINF:-1,ES:CANAL  ACTION HD
+http://iptvfree1.com:6969/live/232323/232323/2688.ts
+#EXTINF:-1,ES:CALLE 13 HD
+http://iptvfree1.com:6969/live/232323/232323/2714.ts
+#EXTINF:-1,ES:AXN WHITE HD
+http://iptvfree1.com:6969/live/232323/232323/2706.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+http://iptvfree1.com:6969/live/232323/232323/2721.ts
+#EXTINF:-1,ES: TNT
+http://iptvfree1.com:6969/live/232323/232323/5416.ts
+#EXTINF:-1,ES: SYFY
+http://iptvfree1.com:6969/live/232323/232323/5417.ts
+#EXTINF:-1,ES: PANDA
+http://iptvfree1.com:6969/live/232323/232323/5428.ts
+#EXTINF:-1,ES: ODISEA HD
+http://iptvfree1.com:6969/live/232323/232323/2727.ts
+#EXTINF:-1,ES: NOVA
+http://iptvfree1.com:6969/live/232323/232323/5409.ts
+#EXTINF:-1,ES: NICKELODEON HD
+http://iptvfree1.com:6969/live/232323/232323/5419.ts
+#EXTINF:-1,ES: NEOX
+http://iptvfree1.com:6969/live/232323/232323/5408.ts
+#EXTINF:-1,ES: La Liga BAR HD
+http://iptvfree1.com:6969/live/232323/232323/5424.ts
+#EXTINF:-1,ES: LA 2 HD
+http://iptvfree1.com:6969/live/232323/232323/2700.ts
+#EXTINF:-1,ES: IBERALIA
+http://iptvfree1.com:6969/live/232323/232323/5427.ts
+#EXTINF:-1,ES: GOL Tv
+http://iptvfree1.com:6969/live/232323/232323/5421.ts
+#EXTINF:-1,ES: FDF
+http://iptvfree1.com:6969/live/232323/232323/5411.ts
+#EXTINF:-1,ES: DIVINITY
+http://iptvfree1.com:6969/live/232323/232323/5410.ts
+#EXTINF:-1,ES: COSMO HD
+http://iptvfree1.com:6969/live/232323/232323/5412.ts
+#EXTINF:-1,ES: Clan Tve
+http://iptvfree1.com:6969/live/232323/232323/5418.ts
+#EXTINF:-1,ES: Caza y pesca
+http://iptvfree1.com:6969/live/232323/232323/5413.ts
+#EXTINF:-1,ES: Canal SERIES HD
+http://iptvfree1.com:6969/live/232323/232323/2711.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://iptvfree1.com:6969/live/232323/232323/5426.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://iptvfree1.com:6969/live/232323/232323/5425.ts
+#EXTINF:-1,ES: Boing
+http://iptvfree1.com:6969/live/232323/232323/5420.ts
+#EXTINF:-1,ES: Bein Sport HD
+http://iptvfree1.com:6969/live/232323/232323/5422.ts
+#EXTINF:-1,ES: Bein Liga HD
+http://iptvfree1.com:6969/live/232323/232323/5423.ts
+#EXTINF:-1,ES: AXN HD
+http://iptvfree1.com:6969/live/232323/232323/2705.ts
+#EXTINF:-1,ES: AMC
+http://iptvfree1.com:6969/live/232323/232323/5415.ts
+#EXTINF:-1,ES: A&E
+http://iptvfree1.com:6969/live/232323/232323/5414.ts
+#EXTINF:-1,ES: #0 HD
+http://iptvfree1.com:6969/live/232323/232323/2729.ts
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+http://iptvfree1.com:6969/live/232323/232323/5963.ts
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+http://iptvfree1.com:6969/live/232323/232323/5964.ts
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+http://iptvfree1.com:6969/live/232323/232323/5965.ts
+#EXTINF:-1,ES: Energy
+http://iptvfree1.com:6969/live/232323/232323/6696.ts
+#EXTINF:-1,ES: EUROSPORT 1
+http://iptvfree1.com:6969/live/232323/232323/6694.ts
+#EXTINF:-1,ES: EUROSPORT 2
+http://iptvfree1.com:6969/live/232323/232323/6695.ts
+#EXTINF:-1,ES: 24 Horas
+http://iptvfree1.com:6969/live/232323/232323/6721.ts
+#EXTINF:-1,ES: 40 TV
+http://iptvfree1.com:6969/live/232323/232323/6720.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptvfree1.com:6969/live/232323/232323/6718.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://iptvfree1.com:6969/live/232323/232323/6719.ts
+#EXTINF:-1,ES: Nonstop People
+http://iptvfree1.com:6969/live/232323/232323/6722.ts
 #EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-http://5.196.78.122:8080/live/test5/test5/21227.ts
+http://iptvfree1.com:6969/live/232323/232323/6724.ts
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://iptvfree1.com:6969/live/232323/232323/6792.ts
+#EXTINF:-1,ES: Paramount
+http://iptvfree1.com:6969/live/232323/232323/6968.ts
+#EXTINF:-1,ES: Crimen Investigation
+http://iptvfree1.com:6969/live/232323/232323/6984.ts
+#EXTINF:-1,ES: MTV ESPANA
+http://iptvfree1.com:6969/live/232323/232323/6985.ts
+#EXTINF:-1,ES: Real Madrid Channel
+http://iptvfree1.com:6969/live/232323/232323/7680.ts
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://iptvfree1.com:6969/live/232323/232323/8677.ts
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://iptvfree1.com:6969/live/232323/232323/8676.ts
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+http://iptvfree1.com:6969/live/232323/232323/8807.ts
+#EXTINF:-1,ES: BABY TV
+http://iptvfree1.com:6969/live/232323/232323/9165.ts
+#EXTINF:-1,ES: beIN Sport FHD
+http://iptvfree1.com:6969/live/232323/232323/11776.ts
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+http://iptvfree1.com:6969/live/232323/232323/3066.ts
+#EXTINF:-1,ES : movistar Futbol
+http://iptvfree1.com:6969/live/232323/232323/3068.ts
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://iptvfree1.com:6969/live/232323/232323/3067.ts
+#EXTINF:-1,ES : MOVISTAR F1 HD
+http://iptvfree1.com:6969/live/232323/232323/3065.ts
