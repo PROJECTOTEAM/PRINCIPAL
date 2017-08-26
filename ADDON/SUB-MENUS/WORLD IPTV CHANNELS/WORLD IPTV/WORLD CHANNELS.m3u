@@ -6,11 +6,38 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
+#EXTINF:0,DKISS
+http://88.148.69.129:9090/play/a020
+#EXTINF:0,Kiss FM
+http://88.148.69.129:9090/play/a021
+#EXTINF:0,RTL CH
+http://88.148.69.129:9090/play/a02u
+#EXTINF:0,Eurosport 1 Deutschland
+http://88.148.69.129:9090/play/a02s
+#EXTINF:0,BOM
+http://88.148.69.129:9090/play/a00s
+#EXTINF:0,EURONEWS FRENCH SD
+http://88.148.69.129:9090/play/a032
+#EXTINF:0,TDP HD
+http://88.148.69.129:9090/play/a01w
+#EXTINF:0,TEN
+http://88.148.69.129:9090/play/a022
+#EXTINF:0,Radio Exterior RNE
+http://88.148.69.129:9090/play/a01z
+#EXTINF:0,Radio 3 HQ
+http://88.148.69.129:9090/play/a01y
+#EXTINF:0,@Onda Regional
+http://88.148.69.129:9090/play/a00q
+#EXTINF:0,Radio Clasica HQ
+http://88.148.69.129:9090/play/a01x
+#EXTINF:-1,Animal PLanet
+http://m3u.iptvla.xyz/stream/3.m3u8
+#EXTINF:-1,History
+https://live55.vkuserlive.com/637603/live/uK7viRRAfwgpxikM/playlist.m3u8
 
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="122" tvg-name="001. Das Erste HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/daserste.png" group-title="01. Germany",001. Das Erste HD - 001. Das Erste HD
 http://amsterdam2.dvrdns.org:14452/live?channelId=122&uid=33&deviceUser=viktorlov&devicePass=lovviktor
 #EXTINF:-1 tvg-id="123" tvg-name="002. ZDF HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/zdf.png" group-title="01. Germany",002. ZDF HD - 002. ZDF HD
