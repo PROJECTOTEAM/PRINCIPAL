@@ -1,171 +1,377 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 20-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
 
-
-
-
-
-#EXTINF:-1,TR: Yumurcak TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4555.ts
-#EXTINF:-1,TR: Yesilcam
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4556.ts
-#EXTINF:-1,TR: Yaban TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4557.ts
-#EXTINF:-1,TR: Ulusal Kanal
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4542.ts
-#EXTINF:-1,TR: Ulke TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4538.ts
-#EXTINF:-1,TR: TV8 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4532.ts
-#EXTINF:-1,TR: TV2
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4558.ts
-#EXTINF:-1,TR: TV Kayseri
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4559.ts
-#EXTINF:-1,TR: TV 5
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4560.ts
-#EXTINF:-1,TR: TRT Turk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4545.ts
-#EXTINF:-1,TR: TRT Spor HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4546.ts
-#EXTINF:-1,TR: TRT Okul
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4547.ts
-#EXTINF:-1,TR: TRT Muzik
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4548.ts
-#EXTINF:-1,TR: TRT Haber HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4544.ts
-#EXTINF:-1,TR: TRT Diyanet
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4549.ts
-#EXTINF:-1,TR: TRT Çocuk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4550.ts
-#EXTINF:-1,TR: TRT Belgesel HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4551.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4526.ts
-#EXTINF:-1,TR: TLC
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4561.ts
-#EXTINF:-1,TR: TJK TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4562.ts
-#EXTINF:-1,TR: TGRT HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4563.ts
-#EXTINF:-1,TR: TGRT Haber HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4540.ts
-#EXTINF:-1,TR: Star TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4529.ts
-#EXTINF:-1,TR: Sports TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4564.ts
-#EXTINF:-1,TR: Show TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4530.ts
-#EXTINF:-1,TR: Seymen TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4565.ts
-#EXTINF:-1,TR: Semerkand TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4566.ts
-#EXTINF:-1,TR: Salon 3 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4604.ts
-#EXTINF:-1,TR: Salon 2 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4603.ts
-#EXTINF:-1,TR: Salon 1 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4602.ts
-#EXTINF:-1,TR: Power Turk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4591.ts
-#EXTINF:-1,TR: Planet Turk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4592.ts
-#EXTINF:-1,TR: Planet Pembe
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4593.ts
-#EXTINF:-1,TR: Planet Mutfak
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4594.ts
-#EXTINF:-1,TR: Planet cocuk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4572.ts
-#EXTINF:-1,TR: Number One TR
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4567.ts
-#EXTINF:-1,TR: NTV Spor HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4568.ts
-#EXTINF:-1,TR: NTV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4534.ts
-#EXTINF:-1,TR: Moviemax Stars
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4596.ts
-#EXTINF:-1,TR: Moviemax Premiere
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4595.ts
-#EXTINF:-1,TR: Moviemax Festival
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4597.ts
-#EXTINF:-1,TR: Moviemax Family
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4598.ts
-#EXTINF:-1,TR: Minika Go
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4570.ts
-#EXTINF:-1,TR: Minika Cocuk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4571.ts
-#EXTINF:-1,TR: Mekke TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4576.ts
-#EXTINF:-1,TR: Loca 3
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4601.ts
-#EXTINF:-1,TR: Loca 2
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4600.ts
-#EXTINF:-1,TR: Loca 1
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4599.ts
-#EXTINF:-1,TR: Kral TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4577.ts
-#EXTINF:-1,TR: Kral Pop
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4578.ts
-#EXTINF:-1,TR: Kanal D HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4528.ts
-#EXTINF:-1,TR: Kanal B
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4579.ts
-#EXTINF:-1,TR: Kanal A
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4580.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4541.ts
-#EXTINF:-1,TR: Halk TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4543.ts
-#EXTINF:-1,TR: HaberTurk HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4537.ts
-#EXTINF:-1,TR: GS TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4582.ts
-#EXTINF:-1,TR: Fox TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4531.ts
-#EXTINF:-1,TR: Flash TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4553.ts
-#EXTINF:-1,TR: Fil TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4581.ts
-#EXTINF:-1,TR: FB TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4583.ts
-#EXTINF:-1,TR: Ege TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4584.ts
-#EXTINF:-1,TR: Dream TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4585.ts
-#EXTINF:-1,TR: Dream Turk
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4586.ts
-#EXTINF:-1,TR: Disney Junior
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4575.ts
-#EXTINF:-1,TR: Disney Channel
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4573.ts
-#EXTINF:-1,TR: CNN Turk HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4536.ts
-#EXTINF:-1,TR: Ciftci TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4587.ts
-#EXTINF:-1,TR: Cem TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4554.ts
-#EXTINF:-1,TR: Cay TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4588.ts
-#EXTINF:-1,TR: Cartoon Network
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4574.ts
-#EXTINF:-1,TR: BS TV
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4589.ts
-#EXTINF:-1,TR: Bloomberg HT
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4590.ts
-#EXTINF:-1,TR: Beyaz TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4533.ts
-#EXTINF:-1,TR: ATV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4527.ts
-#EXTINF:-1,TR: A Spor HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4569.ts
-#EXTINF:-1,TR: A Haber HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4535.ts
-#EXTINF:-1,TR: 360
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4552.ts
-#EXTINF:-1,TR: 24 TV HD
-http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4539.ts
+#EXTINF:-1,24 TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2084.ts
+#EXTINF:-1,360 TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1115.ts
+#EXTINF:-1,A2
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2093.ts
+#EXTINF:-1,A Haber HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1113.ts
+#EXTINF:-1,A Spor HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1095.ts
+#EXTINF:-1,A Sport HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/442.ts
+#EXTINF:-1,Abant TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2049.ts
+#EXTINF:-1,Adana TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2050.ts
+#EXTINF:-1,Ahi TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2051.ts
+#EXTINF:-1,Aksu TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2052.ts
+#EXTINF:-1,Animal Planet HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1106.ts
+#EXTINF:-1,Animaux
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2074.ts
+#EXTINF:-1,ATV Avrupa
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2096.ts
+#EXTINF:-1,ATV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/445.ts
+#EXTINF:-1,Baby TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2076.ts
+#EXTINF:-1,Bartin TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2053.ts
+#EXTINF:-1,BEN TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6199.ts
+#EXTINF:-1,BenguTurk TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2086.ts
+#EXTINF:-1,Beyaz HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/446.ts
+#EXTINF:-1,Beyaz TV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1107.ts
+#EXTINF:-1,Bloomberg TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4486.ts
+#EXTINF:-1,BRT 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/458.ts
+#EXTINF:-1,BRT 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/466.ts
+#EXTINF:-1,Cartoon Network HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/471.ts
+#EXTINF:-1,Cay TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2054.ts
+#EXTINF:-1,Cem TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2089.ts
+#EXTINF:-1,CNN Turk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1117.ts
+#EXTINF:-1,Da Vinci Learning HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2073.ts
+#EXTINF:-1,Den
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2055.ts
+#EXTINF:-1,Discovery Channel
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1123.ts
+#EXTINF:-1,Discovery IDX HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1116.ts
+#EXTINF:-1,Discovery ShowCase HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/448.ts
+#EXTINF:-1,Disney Channel
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1099.ts
+#EXTINF:-1,Disney Junior
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1102.ts
+#EXTINF:-1,Disney XD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/443.ts
+#EXTINF:-1,Dost TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2056.ts
+#EXTINF:-1,Dream TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4485.ts
+#EXTINF:-1,Dreamuk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1103.ts
+#EXTINF:-1,Duzce TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2057.ts
+#EXTINF:-1,SineTivi Adrenalin 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2048.ts
+#EXTINF:-1,Ege TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2058.ts
+#EXTINF:-1,Euro D
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1118.ts
+#EXTINF:-1,Euro Star
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1119.ts
+#EXTINF:-1,Fil TV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/450.ts
+#EXTINF:-1,Flash TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1114.ts
+#EXTINF:-1,Fox Crime
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2088.ts
+#EXTINF:-1,Fox HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/451.ts
+#EXTINF:-1,Fox Life
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/449.ts
+#EXTINF:-1,Fox Life HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2087.ts
+#EXTINF:-1,Genc TV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/452.ts
+#EXTINF:-1,Haber Turk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/453.ts
+#EXTINF:-1,Halk TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2085.ts
+#EXTINF:-1,History Channel HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1098.ts
+#EXTINF:-1,Icel TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2059.ts
+#EXTINF:-1,IDMan TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4484.ts
+#EXTINF:-1,Kanal 3
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2061.ts
+#EXTINF:-1,Kanal 7 Avrupa
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2094.ts
+#EXTINF:-1,Kanal 7 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/454.ts
+#EXTINF:-1,Kanal 24
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4483.ts
+#EXTINF:-1,Kanal 26
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2060.ts
+#EXTINF:-1,Kanal 58
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2068.ts
+#EXTINF:-1,Kanal D HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/455.ts
+#EXTINF:-1,Karaden
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2062.ts
+#EXTINF:-1,Kent TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2063.ts
+#EXTINF:-1,Kidz
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2080.ts
+#EXTINF:-1,Kon TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2092.ts
+#EXTINF:-1,Kral
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/456.ts
+#EXTINF:-1,Kral POP HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/457.ts
+#EXTINF:-1,Lalegul TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2069.ts
+#EXTINF:-1,Minika Cocuk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4482.ts
+#EXTINF:-1,Minika Cocuk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/459.ts
+#EXTINF:-1,Minika Go HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/460.ts
+#EXTINF:-1,NR1 Turk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2075.ts
+#EXTINF:-1,Nickeledeon HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2079.ts
+#EXTINF:-1,NTV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/461.ts
+#EXTINF:-1,NTV Sport HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/462.ts
+#EXTINF:-1,Nick JR
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2078.ts
+#EXTINF:-1,Nat Geo HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1097.ts
+#EXTINF:-1,Nat Geo People
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1108.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1096.ts
+#EXTINF:-1,Planet Cocuk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/463.ts
+#EXTINF:-1,Planet Mutfak
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1101.ts
+#EXTINF:-1,Planet Pembe
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4474.ts
+#EXTINF:-1,Planet Turk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/464.ts
+#EXTINF:-1,Power Turk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/465.ts
+#EXTINF:-1,Sakarya TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2064.ts
+#EXTINF:-1,Samsun 55 TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2065.ts
+#EXTINF:-1,Semerkant TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2070.ts
+#EXTINF:-1,Star HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/469.ts
+#EXTINF:-1,Show HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/467.ts
+#EXTINF:-1,Show Max
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1122.ts
+#EXTINF:-1,Show Turk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2095.ts
+#EXTINF:-1,TRT World
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/477.ts
+#EXTINF:-1,TJK TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1087.ts
+#EXTINF:-1,TRT 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/478.ts
+#EXTINF:-1,TRT Belgesel HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/470.ts
+#EXTINF:-1,TRT Cocuk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1109.ts
+#EXTINF:-1,TRT Diyanet
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1110.ts
+#EXTINF:-1,TRT Haber HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/472.ts
+#EXTINF:-1,TRT Kidz Animez HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/473.ts
+#EXTINF:-1,TRT Muzik HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/475.ts
+#EXTINF:-1,TRT Okul
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1111.ts
+#EXTINF:-1,TRT Sport HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/476.ts
+#EXTINF:-1,TRT Turk
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1112.ts
+#EXTINF:-1,TGRT Haber
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/444.ts
+#EXTINF:-1,TGRT Haber HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4473.ts
+#EXTINF:-1,Turkmanli TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/479.ts
+#EXTINF:-1,Ton TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2066.ts
+#EXTINF:-1,TV 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/481.ts
+#EXTINF:-1,TV 4
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2077.ts
+#EXTINF:-1,TV 5
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2067.ts
+#EXTINF:-1,TV 8 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/480.ts
+#EXTINF:-1,TV 8.5 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2083.ts
+#EXTINF:-1,TV EM
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2090.ts
+#EXTINF:-1,TV Kayser
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2071.ts
+#EXTINF:-1,Ulke TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1104.ts
+#EXTINF:-1,Yaban TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4472.ts
+#EXTINF:-1,A Haber FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6136.ts
+#EXTINF:-1,A Spor FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6135.ts
+#EXTINF:-1,ATV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6120.ts
+#EXTINF:-1,Beyaz TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6119.ts
+#EXTINF:-1,Bloomberg HT FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6118.ts
+#EXTINF:-1,CNN Turk FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6117.ts
+#EXTINF:-1,Fox TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6134.ts
+#EXTINF:-1,HaberTurk FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6133.ts
+#EXTINF:-1,Kanal 24 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6132.ts
+#EXTINF:-1,Kanal 7 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6131.ts
+#EXTINF:-1,Kanal D FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6130.ts
+#EXTINF:-1,Kral POP TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6129.ts
+#EXTINF:-1,Kral TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6128.ts
+#EXTINF:-1,NTV Haber FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6127.ts
+#EXTINF:-1,NTV SPOR FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6116.ts
+#EXTINF:-1,Show TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6126.ts
+#EXTINF:-1,Star TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6125.ts
+#EXTINF:-1,TRT 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6115.ts
+#EXTINF:-1,TRT Cocuk FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6124.ts
+#EXTINF:-1,TRT Haber FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6123.ts
+#EXTINF:-1,TRT Spor FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6122.ts
+#EXTINF:-1,TV 2 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6114.ts
+#EXTINF:-1,TV8 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6121.ts
+#EXTINF:-1,Ulke TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6113.ts
+#EXTINF:-1,beIN Box Office 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1126.ts
+#EXTINF:-1,beIN Box Office 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1125.ts
+#EXTINF:-1,beIN Box Office 3 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1124.ts
+#EXTINF:-1,beINMovies Action HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1129.ts
+#EXTINF:-1,beINMovies Family HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1130.ts
+#EXTINF:-1,beINMovies Festival HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1131.ts
+#EXTINF:-1,beINMovies Premiere 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1128.ts
+#EXTINF:-1,beINMovies Premiere 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1127.ts
+#EXTINF:-1,beINMovies Stars HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1132.ts
+#EXTINF:-1,beINMovies Turk HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1133.ts
+#EXTINF:-1,beIN IZ TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2072.ts
+#EXTINF:-1,SineTivi HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/447.ts
+#EXTINF:-1,FilmBox
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2091.ts
+#EXTINF:-1,SineTivi Adrenalin 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/825.ts
+#EXTINF:-1,Filmbox Turkmax Gurme HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/818.ts
+#EXTINF:-1,MagicBox Aksiyon HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/817.ts
+#EXTINF:-1,MagicBox Animasyon HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/816.ts
+#EXTINF:-1,MagicBox Komedi HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/815.ts
+#EXTINF:-1,MovieSmart Family HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4481.ts
+#EXTINF:-1,MovieSmart Gold HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4480.ts
+#EXTINF:-1,MovieSmart Platin 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4479.ts
+#EXTINF:-1,MovieSmart Premium 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4477.ts
+#EXTINF:-1,MovieSmart Premium 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4478.ts
+#EXTINF:-1,Sinema TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/468.ts
+#EXTINF:-1,BJK TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1088.ts
+#EXTINF:-1,GS TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1121.ts
+#EXTINF:-1,Fenerbahce
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1120.ts
+#EXTINF:-1,EuroSport 1
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1090.ts
+#EXTINF:-1,EuroSport 2
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1089.ts
+#EXTINF:-1,S Sports TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1100.ts
+#EXTINF:-1,beINSport 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/836.ts
+#EXTINF:-1,beINSport 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/830.ts
+#EXTINF:-1,beINSport 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/835.ts
+#EXTINF:-1,beINSport 3 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/834.ts
+#EXTINF:-1,beINSport 4 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/833.ts
+#EXTINF:-1,beINSport 91 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/832.ts
+#EXTINF:-1,beINSport 92 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/831.ts
+#EXTINF:-1,Smart Sport 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1092.ts
+#EXTINF:-1,Smart Sport 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1091.ts
+#EXTINF:-1,TiviBu Sport 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1094.ts
+#EXTINF:-1,TiviBu Sport 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1093.ts
+#EXTINF:-1,TiviBu Sport 3 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2082.ts
+#EXTINF:-1,TiviBu Sport 4 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/2081.ts

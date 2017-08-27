@@ -1,451 +1,107 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-
-#EXTINF:-1,RTP 1 HD
-http://topiptv.net:5890/live/test21/test21/3517.ts
-#EXTINF:-1,RTP 1
-http://topiptv.net:5890/live/test21/test21/3580.ts
-#EXTINF:-1,RTP 2 HD
-http://topiptv.net:5890/live/test21/test21/3518.ts
-#EXTINF:-1,RTP 2
-http://topiptv.net:5890/live/test21/test21/3581.ts
-#EXTINF:-1,RTP 3
-http://topiptv.net:5890/live/test21/test21/3582.ts
-#EXTINF:-1,RTP A?ores
-http://topiptv.net:5890/live/test21/test21/3583.ts
-#EXTINF:-1,RTP Madeira
-http://topiptv.net:5890/live/test21/test21/3584.ts
-#EXTINF:-1,RTP Memðria
-http://topiptv.net:5890/live/test21/test21/3585.ts
-#EXTINF:-1,RTP AFRICA
-http://topiptv.net:5890/live/test21/test21/3579.ts
-#EXTINF:-1,SIC
-http://topiptv.net:5890/live/test21/test21/3586.ts
-#EXTINF:-1,SIC Caras
-http://topiptv.net:5890/live/test21/test21/3587.ts
-#EXTINF:-1,SIC K
-http://topiptv.net:5890/live/test21/test21/3588.ts
-#EXTINF:-1,SIC Mulher
-http://topiptv.net:5890/live/test21/test21/3589.ts
-#EXTINF:-1,SIC Not?cias
-http://topiptv.net:5890/live/test21/test21/3590.ts
-#EXTINF:-1,SIC Radical
-http://topiptv.net:5890/live/test21/test21/3591.ts
-#EXTINF:-1,TVI
-http://topiptv.net:5890/live/test21/test21/3623.ts
-#EXTINF:-1,TVI 24
-http://topiptv.net:5890/live/test21/test21/3626.ts
-#EXTINF:-1,TVI Fic?ªo
-http://topiptv.net:5890/live/test21/test21/3627.ts
-#EXTINF:-1,TVI International HD
-http://topiptv.net:5890/live/test21/test21/3625.ts
-#EXTINF:-1,TVI International
-http://topiptv.net:5890/live/test21/test21/3624.ts
-#EXTINF:-1,TVI Reality
-http://topiptv.net:5890/live/test21/test21/3628.ts
-#EXTINF:-1,--Cinema_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3655.ts
-#EXTINF:-1,TV CINE 1 HD
-http://topiptv.net:5890/live/test21/test21/3610.ts
-#EXTINF:-1,TVCine 1
-http://topiptv.net:5890/live/test21/test21/3615.ts
-#EXTINF:-1,TVCine 2 HD
-http://topiptv.net:5890/live/test21/test21/3617.ts
-#EXTINF:-1,TVCine 2
-http://topiptv.net:5890/live/test21/test21/3616.ts
-#EXTINF:-1,TVCine 3
-http://topiptv.net:5890/live/test21/test21/3618.ts
-#EXTINF:-1,TVCine 3 HD
-http://topiptv.net:5890/live/test21/test21/3619.ts
-#EXTINF:-1,TV CINE 4 HD
-http://topiptv.net:5890/live/test21/test21/3611.ts
-#EXTINF:-1,TVCine 4
-http://topiptv.net:5890/live/test21/test21/3620.ts
-#EXTINF:-1,Cinemundo
-http://topiptv.net:5890/live/test21/test21/3541.ts
-#EXTINF:-1,CMTV
-http://topiptv.net:5890/live/test21/test21/3542.ts
-#EXTINF:-1,FOX HD
-http://topiptv.net:5890/live/test21/test21/3646.ts
-#EXTINF:-1,FOX Life HD
-http://topiptv.net:5890/live/test21/test21/3647.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://topiptv.net:5890/live/test21/test21/3648.ts
-#EXTINF:-1,AXN Black HD
-http://topiptv.net:5890/live/test21/test21/3524.ts
-#EXTINF:-1,FOX Comedy
-http://topiptv.net:5890/live/test21/test21/3555.ts
-#EXTINF:-1,FOX Crime HD
-http://topiptv.net:5890/live/test21/test21/3556.ts
-#EXTINF:-1,FOX Movies
-http://topiptv.net:5890/live/test21/test21/3557.ts
-#EXTINF:-1,TVSØries
-http://topiptv.net:5890/live/test21/test21/3629.ts
-#EXTINF:-1,TVSØries HD
-http://topiptv.net:5890/live/test21/test21/3630.ts
-#EXTINF:-1,TLC
-http://topiptv.net:5890/live/test21/test21/3605.ts
-#EXTINF:-1,MOV
-http://topiptv.net:5890/live/test21/test21/3572.ts
-#EXTINF:-1,AMC
-http://topiptv.net:5890/live/test21/test21/3635.ts
-#EXTINF:-1, AMC HD
-http://topiptv.net:5890/live/test21/test21/3636.ts
-#EXTINF:-1, AXN
-http://topiptv.net:5890/live/test21/test21/3637.ts
-#EXTINF:-1, AXN Black HD
-http://topiptv.net:5890/live/test21/test21/3640.ts
-#EXTINF:-1, AXN HD
-http://topiptv.net:5890/live/test21/test21/3638.ts
-#EXTINF:-1,SYFY
-http://topiptv.net:5890/live/test21/test21/3652.ts
-#EXTINF:-1,--Soprts_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3654.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://topiptv.net:5890/live/test21/test21/3595.ts
-#EXTINF:-1,SPORT TV 1
-http://topiptv.net:5890/live/test21/test21/3594.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://topiptv.net:5890/live/test21/test21/3597.ts
-#EXTINF:-1,SPORT TV 2
-http://topiptv.net:5890/live/test21/test21/3596.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://topiptv.net:5890/live/test21/test21/3599.ts
-#EXTINF:-1,SPORT TV 3
-http://topiptv.net:5890/live/test21/test21/3598.ts
-#EXTINF:-1,Sport TV 4 HD
-http://topiptv.net:5890/live/test21/test21/3601.ts
-#EXTINF:-1,SPORT TV 4
-http://topiptv.net:5890/live/test21/test21/3600.ts
-#EXTINF:-1,Sport TV 5 HD
-http://topiptv.net:5890/live/test21/test21/3603.ts
-#EXTINF:-1,Sport TV 5
-http://topiptv.net:5890/live/test21/test21/3602.ts
-#EXTINF:-1,Eurosport HD
-http://topiptv.net:5890/live/test21/test21/3645.ts
-#EXTINF:-1,Eurosport 1
-http://topiptv.net:5890/live/test21/test21/3643.ts
-#EXTINF:-1,Eurosport 2
-http://topiptv.net:5890/live/test21/test21/3644.ts
-#EXTINF:-1,EUROSPORT 2 XTRA HD
-http://topiptv.net:5890/live/test21/test21/3553.ts
-#EXTINF:-1,Eurosport 2 Xtra
-http://topiptv.net:5890/live/test21/test21/3552.ts
-#EXTINF:-1,BTV 1 HD
-http://topiptv.net:5890/live/test21/test21/3531.ts
-#EXTINF:-1,BTV 1
-http://topiptv.net:5890/live/test21/test21/3530.ts
-#EXTINF:-1,A Bola TV
-http://topiptv.net:5890/live/test21/test21/3520.ts
-#EXTINF:-1,CANAL PORTO
-http://topiptv.net:5890/live/test21/test21/3577.ts
-#EXTINF:-1,SPORTS +
-http://topiptv.net:5890/live/test21/test21/3593.ts
-#EXTINF:-1,Sporting TV
-http://topiptv.net:5890/live/test21/test21/3604.ts
-#EXTINF:-1,kombat sport
-http://topiptv.net:5890/live/test21/test21/3564.ts
-#EXTINF:-1,Motors TV
-http://topiptv.net:5890/live/test21/test21/3570.ts
-#EXTINF:-1,Motorvision
-http://topiptv.net:5890/live/test21/test21/3571.ts
-#EXTINF:-1,Eurosport News
-http://topiptv.net:5890/live/test21/test21/3554.ts
-#EXTINF:-1,--Culturales_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3656.ts
-#EXTINF:-1,A&E
-http://topiptv.net:5890/live/test21/test21/3634.ts
-#EXTINF:-1,Travel Channel HD
-http://topiptv.net:5890/live/test21/test21/3609.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://topiptv.net:5890/live/test21/test21/3608.ts
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://topiptv.net:5890/live/test21/test21/3546.ts
-#EXTINF:-1,DISCOVERY SHOWCASE
-http://topiptv.net:5890/live/test21/test21/3545.ts
-#EXTINF:-1,Ca?a e Pesca
-http://topiptv.net:5890/live/test21/test21/3539.ts
-#EXTINF:-1,Histðria
-http://topiptv.net:5890/live/test21/test21/3561.ts
-#EXTINF:-1,NATGEO HD
-http://topiptv.net:5890/live/test21/test21/3574.ts
-#EXTINF:-1,Nat Geo Wild
-http://topiptv.net:5890/live/test21/test21/3650.ts
-#EXTINF:-1,Odisseia
-http://topiptv.net:5890/live/test21/test21/3575.ts
-#EXTINF:-1,24 Kitchen
-http://topiptv.net:5890/live/test21/test21/3519.ts
-#EXTINF:-1,24 Kitchen HD
-http://topiptv.net:5890/live/test21/test21/3521.ts
-#EXTINF:-1,--Enfants_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3657.ts
-#EXTINF:-1, Baby TV
-http://topiptv.net:5890/live/test21/test21/3639.ts
-#EXTINF:-1, Disney Channel
-http://topiptv.net:5890/live/test21/test21/3642.ts
-#EXTINF:-1,Nickelodeon
-http://topiptv.net:5890/live/test21/test21/3651.ts
-#EXTINF:-1,Baby First
-http://topiptv.net:5890/live/test21/test21/3525.ts
-#EXTINF:-1,Bloomberg
-http://topiptv.net:5890/live/test21/test21/3529.ts
-#EXTINF:-1,Canal Panda
-http://topiptv.net:5890/live/test21/test21/3535.ts
-#EXTINF:-1,Canal Q
-http://topiptv.net:5890/live/test21/test21/3536.ts
-#EXTINF:-1,Cartoon Network
-http://topiptv.net:5890/live/test21/test21/3538.ts
-#EXTINF:-1,Deutsche Welle
-http://topiptv.net:5890/live/test21/test21/3544.ts
-#EXTINF:-1,Disney Channel
-http://topiptv.net:5890/live/test21/test21/3547.ts
-#EXTINF:-1,Disney Junior
-http://topiptv.net:5890/live/test21/test21/3548.ts
-#EXTINF:-1,Jim Jam
-http://topiptv.net:5890/live/test21/test21/3563.ts
-#EXTINF:-1,--Music_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3658.ts
-#EXTINF:-1,MTV Hits
-http://topiptv.net:5890/live/test21/test21/3649.ts
-#EXTINF:-1,Afro Music
-http://topiptv.net:5890/live/test21/test21/3522.ts
-#EXTINF:-1,C-Music
-http://topiptv.net:5890/live/test21/test21/3533.ts
-#EXTINF:-1,MCM POP
-http://topiptv.net:5890/live/test21/test21/3565.ts
-#EXTINF:-1,Venus
-http://topiptv.net:5890/live/test21/test21/3631.ts
-#EXTINF:-1,VH1
-http://topiptv.net:5890/live/test21/test21/3632.ts
-#EXTINF:-1,VH1 Classic
-http://topiptv.net:5890/live/test21/test21/3633.ts
-#EXTINF:-1,MTV Dance
-http://topiptv.net:5890/live/test21/test21/3566.ts
-#EXTINF:-1,MTV Portugal
-http://topiptv.net:5890/live/test21/test21/3573.ts
-#EXTINF:-1,MTV Rocks
-http://topiptv.net:5890/live/test21/test21/3567.ts
-#EXTINF:-1,--Outher_LOCAL--
-http://topiptv.net:5890/live/test21/test21/3659.ts
-#EXTINF:-1,MCS Extreme
-http://topiptv.net:5890/live/test21/test21/3568.ts
-#EXTINF:-1,MCS LIFESTYLE
-http://topiptv.net:5890/live/test21/test21/3569.ts
-#EXTINF:-1,PFC
-http://topiptv.net:5890/live/test21/test21/3576.ts
-#EXTINF:-1,CALAVISION
-http://topiptv.net:5890/live/test21/test21/3532.ts
-#EXTINF:-1,CBS Reality
-http://topiptv.net:5890/live/test21/test21/3540.ts
-#EXTINF:-1,CNBC Europe
-http://topiptv.net:5890/live/test21/test21/3543.ts
-#EXTINF:-1,E! Entertainment
-http://topiptv.net:5890/live/test21/test21/3549.ts
-#EXTINF:-1,Econðmico TV
-http://topiptv.net:5890/live/test21/test21/3550.ts
-#EXTINF:-1,EuroNews
-http://topiptv.net:5890/live/test21/test21/3551.ts
-#EXTINF:-1,Fuel TV
-http://topiptv.net:5890/live/test21/test21/3559.ts
-#EXTINF:-1,Globo Premium
-http://topiptv.net:5890/live/test21/test21/3560.ts
-#EXTINF:-1,FTV
-http://topiptv.net:5890/live/test21/test21/3558.ts
-#EXTINF:-1,TVE 24h
-http://topiptv.net:5890/live/test21/test21/3621.ts
-#EXTINF:-1,TVE Internacional
-http://topiptv.net:5890/live/test21/test21/3622.ts
-#EXTINF:-1, CNN
-http://topiptv.net:5890/live/test21/test21/3641.ts
-#EXTINF:-1,ARTV
-http://topiptv.net:5890/live/test21/test21/3523.ts
-#EXTINF:-1,BBC Entertainment
-http://topiptv.net:5890/live/test21/test21/3526.ts
-#EXTINF:-1,BBC World News
-http://topiptv.net:5890/live/test21/test21/3527.ts
-#EXTINF:-1,Biggs
-http://topiptv.net:5890/live/test21/test21/3528.ts
-#EXTINF:-1,Can?ªo Nova
-http://topiptv.net:5890/live/test21/test21/3537.ts
-#EXTINF:-1,Canal NOS
-http://topiptv.net:5890/live/test21/test21/3534.ts
-#EXTINF:-1,SKY News
-http://topiptv.net:5890/live/test21/test21/3592.ts
-#EXTINF:-1,Toros TV
-http://topiptv.net:5890/live/test21/test21/3606.ts
-#EXTINF:-1,Trace TV
-http://topiptv.net:5890/live/test21/test21/3607.ts
-#EXTINF:-1,TV Galicia
-http://topiptv.net:5890/live/test21/test21/3612.ts
-#EXTINF:-1,TV Record
-http://topiptv.net:5890/live/test21/test21/3613.ts
-#EXTINF:-1,TV5 Monde
-http://topiptv.net:5890/live/test21/test21/3614.ts
-#EXTINF:-1,Record News
-http://topiptv.net:5890/live/test21/test21/3578.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,PT|RTP 1 HD
-http://topiptv.net:5890/live/test21/test21/890.ts
-#EXTINF:-1,PT|RTP 2 HD
-http://topiptv.net:5890/live/test21/test21/891.ts
-#EXTINF:-1,PT|RTP 3 HD
-http://topiptv.net:5890/live/test21/test21/985.ts
-#EXTINF:-1,PT|RTP Memoria
-http://topiptv.net:5890/live/test21/test21/895.ts
-#EXTINF:-1,PT|RTP Madeira
-http://topiptv.net:5890/live/test21/test21/894.ts
-#EXTINF:-1,PT|RTP Acores
-http://topiptv.net:5890/live/test21/test21/892.ts
-#EXTINF:-1,PT|RT GLOBAL
-http://topiptv.net:5890/live/test21/test21/900.ts
-#EXTINF:-1,PT|TV Globo
-http://topiptv.net:5890/live/test21/test21/1024.ts
-#EXTINF:-1,PT|TVI Ficcao
-http://topiptv.net:5890/live/test21/test21/1022.ts
-#EXTINF:-1,PT|TVI
-http://topiptv.net:5890/live/test21/test21/905.ts
-#EXTINF:-1,PT|tvi/24
-http://topiptv.net:5890/live/test21/test21/919.ts
-#EXTINF:-1,PT|TVC Series
-http://topiptv.net:5890/live/test21/test21/1023.ts
-#EXTINF:-1,PT|SIC Noticias
-http://topiptv.net:5890/live/test21/test21/1738.ts
-#EXTINF:-1,PT|SIC Caras
-http://topiptv.net:5890/live/test21/test21/1025.ts
-#EXTINF:-1,PT|Sic Radical
-http://topiptv.net:5890/live/test21/test21/897.ts
-#EXTINF:-1,PT|SIC Mulher
-http://topiptv.net:5890/live/test21/test21/896.ts
-#EXTINF:-1,PT|SIC
-http://topiptv.net:5890/live/test21/test21/920.ts
-#EXTINF:-1,PT|CM TV
-http://topiptv.net:5890/live/test21/test21/886.ts
-#EXTINF:-1,--|PT CINEMA|--
-http://topiptv.net:5890/live/test21/test21/1439.ts
-#EXTINF:-1,PT|TV Cine 1
-http://topiptv.net:5890/live/test21/test21/901.ts
-#EXTINF:-1,PT|TV Cine 2
-http://topiptv.net:5890/live/test21/test21/902.ts
-#EXTINF:-1,PT|TV Cine 3
-http://topiptv.net:5890/live/test21/test21/903.ts
-#EXTINF:-1,PT|TV Cine 4
-http://topiptv.net:5890/live/test21/test21/904.ts
-#EXTINF:-1,PT|Mov HD
-http://topiptv.net:5890/live/test21/test21/1200.ts
-#EXTINF:-1,PT|Cine Mundo
-http://topiptv.net:5890/live/test21/test21/1192.ts
-#EXTINF:-1,PT|Hollywood HD
-http://topiptv.net:5890/live/test21/test21/889.ts
-#EXTINF:-1,PT|Fox Crime
-http://topiptv.net:5890/live/test21/test21/1027.ts
-#EXTINF:-1,PT|Fox Movies
-http://topiptv.net:5890/live/test21/test21/1182.ts
-#EXTINF:-1,PT|Fox Comedy
-http://topiptv.net:5890/live/test21/test21/1028.ts
-#EXTINF:-1,PT|FoxLife
-http://topiptv.net:5890/live/test21/test21/888.ts
-#EXTINF:-1,PT|FoxHD
-http://topiptv.net:5890/live/test21/test21/887.ts
-#EXTINF:-1,PT|SYFY
-http://topiptv.net:5890/live/test21/test21/899.ts
-#EXTINF:-1,PT|AXN-HD
-http://topiptv.net:5890/live/test21/test21/1033.ts
-#EXTINF:-1,PT|AXN WhiteHD
-http://topiptv.net:5890/live/test21/test21/883.ts
-#EXTINF:-1,PT|Axn Black HD
-http://topiptv.net:5890/live/test21/test21/882.ts
-#EXTINF:-1,--|PT CULTURE|--
-http://topiptv.net:5890/live/test21/test21/1441.ts
-#EXTINF:-1,PT|24 Kitchen
-http://topiptv.net:5890/live/test21/test21/1198.ts
-#EXTINF:-1,PT|Reality TV
-http://topiptv.net:5890/live/test21/test21/1191.ts
-#EXTINF:-1,PT|CBC Reality
-http://topiptv.net:5890/live/test21/test21/1196.ts
-#EXTINF:-1,PT|Odissia
-http://topiptv.net:5890/live/test21/test21/1194.ts
-#EXTINF:-1,PT|Caca Pesca
-http://topiptv.net:5890/live/test21/test21/1197.ts
-#EXTINF:-1,PT|NatGeoWild
-http://topiptv.net:5890/live/test21/test21/1195.ts
-#EXTINF:-1,PT|Discovery-HD
-http://topiptv.net:5890/live/test21/test21/1031.ts
-#EXTINF:-1,--|PT ENFANTS|--
-http://topiptv.net:5890/live/test21/test21/1442.ts
-#EXTINF:-1,PT|JimJim
-http://topiptv.net:5890/live/test21/test21/1026.ts
-#EXTINF:-1,PT|SIC Kids
-http://topiptv.net:5890/live/test21/test21/1203.ts
-#EXTINF:-1,PT|Nickelodeon HD
-http://topiptv.net:5890/live/test21/test21/1206.ts
-#EXTINF:-1,PT|Cartoon Network HD
-http://topiptv.net:5890/live/test21/test21/1204.ts
-#EXTINF:-1,PT|Baby tv
-http://topiptv.net:5890/live/test21/test21/1190.ts
-#EXTINF:-1,PT|Canal Panda
-http://topiptv.net:5890/live/test21/test21/1193.ts
-#EXTINF:-1,PT|Disney Ju
-http://topiptv.net:5890/live/test21/test21/1029.ts
-#EXTINF:-1,PT|Disney Ch
-http://topiptv.net:5890/live/test21/test21/1030.ts
-#EXTINF:-1,--|PT SPORT|--
-http://topiptv.net:5890/live/test21/test21/1438.ts
-#EXTINF:-1,PT|EuroSport
-http://topiptv.net:5890/live/test21/test21/1199.ts
-#EXTINF:-1,PT|Canal Porto
-http://topiptv.net:5890/live/test21/test21/1032.ts
-#EXTINF:-1,PT|Abola TV
-http://topiptv.net:5890/live/test21/test21/1034.ts
-#EXTINF:-1,PT|Sporting TV
-http://topiptv.net:5890/live/test21/test21/893.ts
-#EXTINF:-1,PT|BTV 1 HD
-http://topiptv.net:5890/live/test21/test21/885.ts
-#EXTINF:-1,PT|BTV 2
-http://topiptv.net:5890/live/test21/test21/884.ts
-#EXTINF:-1,PT|Sport TV 1 HD
-http://topiptv.net:5890/live/test21/test21/878.ts
-#EXTINF:-1,PT|Sport TV 2 HD
-http://topiptv.net:5890/live/test21/test21/879.ts
-#EXTINF:-1,PT|Sport TV 3 HD
-http://topiptv.net:5890/live/test21/test21/880.ts
-#EXTINF:-1,PT|Sport TV 4 HD
-http://topiptv.net:5890/live/test21/test21/881.ts
-#EXTINF:-1,PT|Sport TV 5 HD
-http://topiptv.net:5890/live/test21/test21/898.ts
-
-
-
-
+#EXTINF:-1,PT: 24 KITCHEN
+http://109.236.84.104:25461/live/xtreme/xtreme/1753.ts
+#EXTINF:-1,PT: A BOLA
+http://109.236.84.104:25461/live/xtreme/xtreme/1737.ts
+#EXTINF:-1,PT: A&E
+http://109.236.84.104:25461/live/xtreme/xtreme/1762.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1749.ts
+#EXTINF:-1,PT: AXN HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1747.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1748.ts
+#EXTINF:-1,PT: BABY TV
+http://109.236.84.104:25461/live/xtreme/xtreme/1756.ts
+#EXTINF:-1,PT: CANAL HISTORIA
+http://109.236.84.104:25461/live/xtreme/xtreme/1760.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://109.236.84.104:25461/live/xtreme/xtreme/1757.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://109.236.84.104:25461/live/xtreme/xtreme/1755.ts
+#EXTINF:-1,PT: CBS REALITY
+http://109.236.84.104:25461/live/xtreme/xtreme/1736.ts
+#EXTINF:-1,PT: CINE TV 1 HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1768.ts
+#EXTINF:-1,PT: CINE TV 2 HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1769.ts
+#EXTINF:-1,PT: CINE TV 3 HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1770.ts
+#EXTINF:-1,PT: CINE TV 4 HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1771.ts
+#EXTINF:-1,PT: CM TV
+http://109.236.84.104:25461/live/xtreme/xtreme/1767.ts
+#EXTINF:-1,PT: DISCOVERY
+http://109.236.84.104:25461/live/xtreme/xtreme/1763.ts
+#EXTINF:-1,PT: DISCOVERY SHOWCASE
+http://109.236.84.104:25461/live/xtreme/xtreme/1764.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://109.236.84.104:25461/live/xtreme/xtreme/1773.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://109.236.84.104:25461/live/xtreme/xtreme/1774.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1780.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1751.ts
+#EXTINF:-1,PT: FOX HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1752.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1746.ts
+#EXTINF:-1,PT: GLOBO
+http://109.236.84.104:25461/live/xtreme/xtreme/1738.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://109.236.84.104:25461/live/xtreme/xtreme/1739.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1759.ts
+#EXTINF:-1,PT: JIM JAM
+http://109.236.84.104:25461/live/xtreme/xtreme/3813.ts
+#EXTINF:-1,PT: MOV HD
+http://109.236.84.104:25461/live/xtreme/xtreme/1750.ts
+#EXTINF:-1,PT: NAT GEO
+http://109.236.84.104:25461/live/xtreme/xtreme/5093.ts
+#EXTINF:-1,PT: NICKLEODEON
+http://109.236.84.104:25461/live/xtreme/xtreme/1754.ts
+#EXTINF:-1,PT: ODISSEIA
+http://109.236.84.104:25461/live/xtreme/xtreme/1758.ts
+#EXTINF:-1,PT: PFC
+http://109.236.84.104:25461/live/xtreme/xtreme/1740.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://109.236.84.104:25461/live/xtreme/xtreme/1777.ts
+#EXTINF:-1,PT: REAL MADRID
+http://109.236.84.104:25461/live/xtreme/xtreme/1779.ts
+#EXTINF:-1,PT: RTP 1
+http://109.236.84.104:25461/live/xtreme/xtreme/1741.ts
+#EXTINF:-1,PT: RTP 2
+http://109.236.84.104:25461/live/xtreme/xtreme/1742.ts
+#EXTINF:-1,PT: RTP 3
+http://109.236.84.104:25461/live/xtreme/xtreme/1743.ts
+#EXTINF:-1,PT: RTP ACORES
+http://109.236.84.104:25461/live/xtreme/xtreme/1765.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://109.236.84.104:25461/live/xtreme/xtreme/1745.ts
+#EXTINF:-1,PT: RTP MADERIA
+http://109.236.84.104:25461/live/xtreme/xtreme/1766.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://109.236.84.104:25461/live/xtreme/xtreme/1744.ts
+#EXTINF:-1,PT: SIC
+http://109.236.84.104:25461/live/xtreme/xtreme/4397.ts
+#EXTINF:-1,PT: SIC MULHER
+http://109.236.84.104:25461/live/xtreme/xtreme/1732.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://109.236.84.104:25461/live/xtreme/xtreme/1731.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://109.236.84.104:25461/live/xtreme/xtreme/1730.ts
+#EXTINF:-1,PT: TLC
+http://109.236.84.104:25461/live/xtreme/xtreme/1761.ts
+#EXTINF:-1,PT: TVC SERIES
+http://109.236.84.104:25461/live/xtreme/xtreme/1772.ts
+#EXTINF:-1,PT: TVI
+http://109.236.84.104:25461/live/xtreme/xtreme/1733.ts
+#EXTINF:-1,PT: TVI 24
+http://109.236.84.104:25461/live/xtreme/xtreme/1734.ts
+#EXTINF:-1,PT: TVI REALITY
+http://109.236.84.104:25461/live/xtreme/xtreme/1735.ts

@@ -1,186 +1,348 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,DE|Eurosport 1 HD
-http://topiptv.net:5890/live/test21/test21/1683.ts
-#EXTINF:-1,DE|Eurosport 2 HD
-http://topiptv.net:5890/live/test21/test21/377.ts
-#EXTINF:-1,DE|Sport Digital
-http://topiptv.net:5890/live/test21/test21/387.ts
-#EXTINF:-1,DE|Sport1+ HD
-http://topiptv.net:5890/live/test21/test21/382.ts
-#EXTINF:-1,DE|Sport1 US HD
-http://topiptv.net:5890/live/test21/test21/1077.ts
-#EXTINF:-1,DE|Sky Sports News
-http://topiptv.net:5890/live/test21/test21/1980.ts
-#EXTINF:-1,DE|Sky Sports Austria
-http://topiptv.net:5890/live/test21/test21/1969.ts
-#EXTINF:-1,DE|Sky Sport HD1
-http://topiptv.net:5890/live/test21/test21/383.ts
-#EXTINF:-1,DE|Sky Sport HD 2
-http://topiptv.net:5890/live/test21/test21/384.ts
-#EXTINF:-1,DE|Sky Sport HD3 (Live Event)
-http://topiptv.net:5890/live/test21/test21/4114.ts
-#EXTINF:-1,DE|Sky Sport HD4 (Live Event)
-http://topiptv.net:5890/live/test21/test21/4115.ts
-#EXTINF:-1,DE|Sky Sport HD5 (Live Event)
-http://topiptv.net:5890/live/test21/test21/4116.ts
-#EXTINF:-1,DE|Sky BundesLiga HD1
-http://topiptv.net:5890/live/test21/test21/385.ts
-#EXTINF:-1,DE|Sky BundesLiga HD2 (Live Event)
-http://topiptv.net:5890/live/test21/test21/1076.ts
-#EXTINF:-1,DE|Sky BundesLiga HD3 (Live Event)
-http://topiptv.net:5890/live/test21/test21/2070.ts
-#EXTINF:-1,DE|Sky BundesLiga HD4 (Live Event)
-http://topiptv.net:5890/live/test21/test21/2071.ts
-#EXTINF:-1,DE|Sky BundesLiga HD5 (Live Event)
-http://topiptv.net:5890/live/test21/test21/2072.ts
-#EXTINF:-1,--|DE PPV|--
-http://topiptv.net:5890/live/test21/test21/857.ts
-#EXTINF:-1,DE|Sky Select  HD 1
-http://topiptv.net:5890/live/test21/test21/830.ts
-#EXTINF:-1,DE|Sky Select  HD 2
-http://topiptv.net:5890/live/test21/test21/1070.ts
-#EXTINF:-1,DE|Sky Select  HD 3
-http://topiptv.net:5890/live/test21/test21/831.ts
-#EXTINF:-1,DE|Sky Select  HD 4
-http://topiptv.net:5890/live/test21/test21/832.ts
-#EXTINF:-1,DE|Sky Select  HD 5
-http://topiptv.net:5890/live/test21/test21/833.ts
-#EXTINF:-1,DE|Sky Select  HD 6
-http://topiptv.net:5890/live/test21/test21/834.ts
-#EXTINF:-1,DE|Sky Select  HD 7
-http://topiptv.net:5890/live/test21/test21/1068.ts
-#EXTINF:-1,DE|Sky Select  HD 8
-http://topiptv.net:5890/live/test21/test21/1069.ts
-#EXTINF:-1,DE|Sky Select HD 9
-http://topiptv.net:5890/live/test21/test21/1071.ts
-#EXTINF:-1,--|DE CINEMA|--
-http://topiptv.net:5890/live/test21/test21/1443.ts
-#EXTINF:-1,DE|Sky HD 1
-http://topiptv.net:5890/live/test21/test21/357.ts
-#EXTINF:-1,DE|Sky Cinema HD
-http://topiptv.net:5890/live/test21/test21/348.ts
-#EXTINF:-1,DE|Sky Cinema 24
-http://topiptv.net:5890/live/test21/test21/349.ts
-#EXTINF:-1,DE|Sky Comedy
-http://topiptv.net:5890/live/test21/test21/352.ts
-#EXTINF:-1,DE|Sky Krimi
-http://topiptv.net:5890/live/test21/test21/353.ts
-#EXTINF:-1,DE|SkyAtlantic
-http://topiptv.net:5890/live/test21/test21/356.ts
-#EXTINF:-1,DE|Sky Action
-http://topiptv.net:5890/live/test21/test21/351.ts
-#EXTINF:-1,DE|Sky Hits
-http://topiptv.net:5890/live/test21/test21/350.ts
-#EXTINF:-1,DE|Sky Emotion
-http://topiptv.net:5890/live/test21/test21/354.ts
-#EXTINF:-1,DE|Sky Kinowelt
-http://topiptv.net:5890/live/test21/test21/1977.ts
-#EXTINF:-1,DE|TNT Film
-http://topiptv.net:5890/live/test21/test21/1214.ts
-#EXTINF:-1,DE|TNT Comedy
-http://topiptv.net:5890/live/test21/test21/376.ts
-#EXTINF:-1,DE|TNT SERIE
-http://topiptv.net:5890/live/test21/test21/1997.ts
-#EXTINF:-1,DE|13 th Street HD
-http://topiptv.net:5890/live/test21/test21/375.ts
-#EXTINF:-1,DE|FOX
-http://topiptv.net:5890/live/test21/test21/372.ts
-#EXTINF:-1,DE|Fox Serie
-http://topiptv.net:5890/live/test21/test21/1978.ts
-#EXTINF:-1,DE|BR HD
-http://topiptv.net:5890/live/test21/test21/1984.ts
-#EXTINF:-1,DE|ARTEHD
-http://topiptv.net:5890/live/test21/test21/1981.ts
-#EXTINF:-1,DE|DMAX HD
-http://topiptv.net:5890/live/test21/test21/1983.ts
-#EXTINF:-1,DE|RBB HD
-http://topiptv.net:5890/live/test21/test21/1982.ts
-#EXTINF:-1,DE|Eins Festival
-http://topiptv.net:5890/live/test21/test21/1976.ts
-#EXTINF:-1,DE|Goldstar
-http://topiptv.net:5890/live/test21/test21/1974.ts
-#EXTINF:-1,DE|CLASSICA
-http://topiptv.net:5890/live/test21/test21/1973.ts
-#EXTINF:-1,DE|TLC
-http://topiptv.net:5890/live/test21/test21/1971.ts
-#EXTINF:-1,DE|AXN HD
-http://topiptv.net:5890/live/test21/test21/374.ts
-#EXTINF:-1,--|DE GENERALE|--
-http://topiptv.net:5890/live/test21/test21/1447.ts
-#EXTINF:-1,DE|N24
-http://topiptv.net:5890/live/test21/test21/1996.ts
-#EXTINF:-1,DE|ORF 1
-http://topiptv.net:5890/live/test21/test21/1685.ts
-#EXTINF:-1,DE|ORF 2
-http://topiptv.net:5890/live/test21/test21/365.ts
-#EXTINF:-1,DE|NDR
-http://topiptv.net:5890/live/test21/test21/1995.ts
-#EXTINF:-1,DE|WDR
-http://topiptv.net:5890/live/test21/test21/1994.ts
-#EXTINF:-1,DE|Universal Channel
-http://topiptv.net:5890/live/test21/test21/1687.ts
-#EXTINF:-1,DE|VOX HD
-http://topiptv.net:5890/live/test21/test21/1684.ts
-#EXTINF:-1,DE|SIXX HD
-http://topiptv.net:5890/live/test21/test21/1681.ts
-#EXTINF:-1,DE|RTL Passion
-http://topiptv.net:5890/live/test21/test21/1688.ts
-#EXTINF:-1,DE|RTL Crime
-http://topiptv.net:5890/live/test21/test21/1689.ts
-#EXTINF:-1,DE|Romance tv
-http://topiptv.net:5890/live/test21/test21/1690.ts
-#EXTINF:-1,DE|PRO 7
-http://topiptv.net:5890/live/test21/test21/1677.ts
-#EXTINF:-1,DE|SAT.1 HD
-http://topiptv.net:5890/live/test21/test21/361.ts
-#EXTINF:-1,DE|ZDF
-http://topiptv.net:5890/live/test21/test21/366.ts
-#EXTINF:-1,DE|Das Erste HD
-http://topiptv.net:5890/live/test21/test21/367.ts
-#EXTINF:-1,DE|RTL
-http://topiptv.net:5890/live/test21/test21/358.ts
-#EXTINF:-1,DE|RTL ll HD
-http://topiptv.net:5890/live/test21/test21/359.ts
-#EXTINF:-1,DE|Kabel eins HD
-http://topiptv.net:5890/live/test21/test21/355.ts
-#EXTINF:-1,DE|SUPER RTL HD
-http://topiptv.net:5890/live/test21/test21/363.ts
-#EXTINF:-1,DE|MGM
-http://topiptv.net:5890/live/test21/test21/368.ts
-#EXTINF:-1,DE|ZEE ONE
-http://topiptv.net:5890/live/test21/test21/1966.ts
-#EXTINF:-1,--|DE CULTURE|--
-http://topiptv.net:5890/live/test21/test21/1446.ts
-#EXTINF:-1,DE|A&E
-http://topiptv.net:5890/live/test21/test21/1972.ts
-#EXTINF:-1,DE|Sky Planet
-http://topiptv.net:5890/live/test21/test21/1686.ts
-#EXTINF:-1,DE|3Sat HD
-http://topiptv.net:5890/live/test21/test21/1682.ts
-#EXTINF:-1,DE|History HD
-http://topiptv.net:5890/live/test21/test21/364.ts
-#EXTINF:-1,DE|NatGeoGeographic
-http://topiptv.net:5890/live/test21/test21/381.ts
-#EXTINF:-1,DE|National Geo Wild
-http://topiptv.net:5890/live/test21/test21/380.ts
-#EXTINF:-1,DE|Animal Planet
-http://topiptv.net:5890/live/test21/test21/1078.ts
-#EXTINF:-1,DE|DiscoveryHD
-http://topiptv.net:5890/live/test21/test21/379.ts
-#EXTINF:-1,--|DE KINDER|--
-http://topiptv.net:5890/live/test21/test21/1445.ts
-#EXTINF:-1,DE|Disney XD
-http://topiptv.net:5890/live/test21/test21/373.ts
-#EXTINF:-1,DE|DISNEY CINEMAGIC
-http://topiptv.net:5890/live/test21/test21/1979.ts
-#EXTINF:-1,DE|disney junior
-http://topiptv.net:5890/live/test21/test21/1968.ts
-#EXTINF:-1,DE|boomerang
-http://topiptv.net:5890/live/test21/test21/1967.ts
-#EXTINF:-1,DE|KiKA HD
-http://topiptv.net:5890/live/test21/test21/1970.ts
+
+
+
+
+
+
+#EXTINF:-1,DE: Kabel 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15559.ts
+#EXTINF:-1,DE: Kabel Eins
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7131.ts
+#EXTINF:-1,DE: Kabel Eins Doku
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15346.ts
+#EXTINF:-1,DE: Das Erste
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/2135.ts
+#EXTINF:-1,DE: ZDF
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7124.ts
+#EXTINF:-1,DE:  WDR HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7435.ts
+#EXTINF:-1,DE: 3Sat
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7470.ts
+#EXTINF:-1,DE: Kika-HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7424.ts
+#EXTINF:-1,DE: Ndr
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7419.ts
+#EXTINF:-1,DE: Phoenix
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7420.ts
+#EXTINF:-1,DE: SWR HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7460.ts
+#EXTINF:-1,DE: Arte
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7418.ts
+#EXTINF:-1,DE: ANIXE
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7469.ts
+#EXTINF:-1,DE: ZDF neo
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7457.ts
+#EXTINF:-1,DE: Servus TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7438.ts
+#EXTINF:-1,DE: Pro Sieben
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7448.ts
+#EXTINF:-1,DE: Pro 7 MAXX
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7414.ts
+#EXTINF:-1,DE: RTL Television
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15352.ts
+#EXTINF:-1,DE: RTL HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7125.ts
+#EXTINF:-1,DE: RTL Plus
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13020.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7140.ts
+#EXTINF:-1,DE: SAT 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7463.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7412.ts
+#EXTINF:-1,DE: RTL Nitro
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7409.ts
+#EXTINF:-1,DE: RTL 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7408.ts
+#EXTINF:-1,DE: n-tvv
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7464.ts
+#EXTINF:-1,DE: A&E
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15354.ts
+#EXTINF:-1,DE: E! Entertainment HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15341.ts
+#EXTINF:-1,De: Zee One
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15340.ts
+#EXTINF:-1,DE: Family TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15350.ts
+#EXTINF:-1,DE: Goldstar TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15355.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15348.ts
+#EXTINF:-1,DE: MDR
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7465.ts
+#EXTINF:-1,DE: ARD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7468.ts
+#EXTINF:-1,DE:Goldstar TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13015.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7130.ts
+#EXTINF:-1,DE: ORF 2HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7129.ts
+#EXTINF:-1,DE: Austria 24
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7467.ts
+#EXTINF:-1,DE: N24
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7105.ts
+#EXTINF:-1,=====  Duits Regionalne  =====
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13603.ts
+#EXTINF:-1,DE: INTV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/2134.ts
+#EXTINF:-1,=====  Film De  =====
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13604.ts
+#EXTINF:-1,DE: 13th Street
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7443.ts
+#EXTINF:-1,DE: AXN HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7466.ts
+#EXTINF:-1,DE: Fox Serie
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7171.ts
+#EXTINF:-1,DE: Heimatkanal
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7452.ts
+#EXTINF:-1,DE: MGM HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7187.ts
+#EXTINF:-1,DE: KinoWelt TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7450.ts
+#EXTINF:-1,DE: RomanceTV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7451.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15580.ts
+#EXTINF:-1,DE: RTL Crime
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7461.ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15567.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7152.ts
+#EXTINF:-1,DE: RTL Passion
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7128.ts
+#EXTINF:-1,DE: SKY 3D
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7456.ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15566.ts
+#EXTINF:-1,DE: Sky Action HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15589.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7153.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15576.ts
+#EXTINF:-1,DE: Sky Cinema
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7151.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7150.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15578.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7149.ts
+#EXTINF:-1,DE: Sky Sport Fan Zone HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7444.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7148.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15573.ts
+#EXTINF:-1,DE:  Sky Cinema Hits
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7440.ts
+#EXTINF:-1,DE: Sky Cinema Family
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15353.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7144.ts
+#EXTINF:-1,DE: Sky Krimi
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7145.ts
+#EXTINF:-1,DE: Sky Hits
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7146.ts
+#EXTINF:-1,DE: Sky Emotion
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7147.ts
+#EXTINF:-1,DE: Syfy HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7139.ts
+#EXTINF:-1,DE: TNT Film HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7137.ts
+#EXTINF:-1,DE: TNT Film (TCM)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15574.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15565.ts
+#EXTINF:-1,DE: TNT Series
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7136.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7104.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7103.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7102.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7101.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7100.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7099.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7098.ts
+#EXTINF:-1,DE: FOX HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7172.ts
+#EXTINF:-1,DE: Universal HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15347.ts
+#EXTINF:-1,DE: VOX
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7458.ts
+#EXTINF:-1,=======  Sport De  =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13607.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15560.ts
+#EXTINF:-1,DE: Motorvision TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13017.ts
+#EXTINF:-1,DE: Sky Sport News
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7111.ts
+#EXTINF:-1,DE: ORF Sport+ HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14041.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15562.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15349.ts
+#EXTINF:-1,DE: Sport 1  HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7108.ts
+#EXTINF:-1,DE: Sport1  HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15564.ts
+#EXTINF:-1,DE: SPORT +1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7109.ts
+#EXTINF:-1,DE: Sport1 US HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15587.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7119.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15556.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7115.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7116.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7113.ts
+#EXTINF:-1,DE: Sky Sport 3 (Match Time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13036.ts
+#EXTINF:-1,DE: Sky Sport 4 (Match Time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13035.ts
+#EXTINF:-1,DE: Sky Sport 5 (match time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13034.ts
+#EXTINF:-1,DE: Sky Sport 6 (match time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13033.ts
+#EXTINF:-1,DE: Sky Sport 7 (match time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13032.ts
+#EXTINF:-1,DE: Sky Sport 8 match time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13031.ts
+#EXTINF:-1,DE: Sky Sport 9 (match time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13029.ts
+#EXTINF:-1,DE: Sky Sport 10 (match time)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13030.ts
+#EXTINF:-1,DE: Sky Sport 11
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13037.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15561.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16980.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7123.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17033.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7122.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17034.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7121.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17035.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/12551.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17036.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7120.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17037.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13026.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17038.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13028.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17041.ts
+#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13025.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17040.ts
+#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13027.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17039.ts
+#EXTINF:-1,DE: Sky Bundesliga 10 Match Time
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13038.ts
+#EXTINF:-1,DE: Eurosport HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7107.ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15342.ts
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7471.ts
+#EXTINF:-1,=======  Doku/Wissen/Themen  =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13605.ts
+#EXTINF:-1,DE: Sky 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15593.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15563.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7141.ts
+#EXTINF:-1,DE: RTL Living
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7162.ts
+#EXTINF:-1,DE: Discovery Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7176.ts
+#EXTINF:-1,DE: NatGeo HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15569.ts
+#EXTINF:-1,DE: Nat Geographic
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7164.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15581.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7163.ts
+#EXTINF:-1,DE: HISTORY HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7106.ts
+#EXTINF:-1,DE: Dmax
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7417.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15344.ts
+#EXTINF:-1,DE: TLC
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7427.ts
+#EXTINF:-1,=======  Musik  =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13608.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7134.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7135.ts
+#EXTINF:-1,DE:  VEVO
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7436.ts
+#EXTINF:-1,DE:  M2O Music
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7423.ts
+#EXTINF:-1,DE: Jukebox
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15343.ts
+#EXTINF:-1,=======  Kinder  =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13606.ts
+#EXTINF:-1,DE: Junior
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13018.ts
+#EXTINF:-1,DE: Disney XD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7453.ts
+#EXTINF:-1,DE: Disney Junior
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7175.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7133.ts
+#EXTINF:-1,DE: Disney Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7173.ts
+#EXTINF:-1,DE: Toggo Plus
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15345.ts
+#EXTINF:-1,DE: Boomerang
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15351.ts
+#EXTINF:-1,DE: Cartoon Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15356.ts
+#EXTINF:-1,DE: 13th Street HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15572.ts
+#EXTINF:-1,DE: Discovery HD German
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15584.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15571.ts

@@ -4,334 +4,309 @@
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTM3U
-#EXTINF:-1,CITV
-http://5.255.90.226:5000/play/a00d
-#EXTINF:-1,BBC One S West
-http://5.255.90.226:5000/play/a010
-#EXTINF:-1,BBC One East E
-http://5.255.90.226:5000/play/a00l
-#EXTINF:-1,CBeebies HD
-http://5.255.90.226:5000/play/a01g
-#EXTINF:-1,ITV
-http://5.255.90.226:5000/play/a00b
-#EXTINF:-1,BBC One Wal HD
-http://5.255.90.226:5000/play/a01d
-#EXTINF:-1,CBeebies
-http://5.255.90.226:5000/play/a005
-#EXTINF:-1,BBC One Scot
-http://5.255.90.226:5000/play/a00r
-#EXTINF:-1,BBC One E Mid
-http://5.255.90.226:5000/play/a00k
-#EXTINF:-1,BBC NEWS
-http://5.255.90.226:5000/play/a012
-#EXTINF:-1,BBC One CI
-http://5.255.90.226:5000/play/a008
-#EXTINF:-1,ITVBe
-http://5.255.90.226:5000/play/a00g
-#EXTINF:-1,CBBC
-http://5.255.90.226:5000/play/a014
-#EXTINF:-1,BBC One N West
-http://5.255.90.226:5000/play/a00v
-#EXTINF:-1,BBC One Lon
-http://5.255.90.226:5000/play/a002
-#EXTINF:-1,BBC One Yk&Li
-http://5.255.90.226:5000/play/a00j
-#EXTINF:-1,BBC RB1
-http://5.255.90.226:5000/play/a01i
-#EXTINF:-1,BBC Four
-http://5.255.90.226:5000/play/a004
-#EXTINF:-1,BBC RB1
-http://5.255.90.226:5000/play/a00a
-#EXTINF:-1,BBC One Yorks
-http://5.255.90.226:5000/play/a00w
-#EXTINF:-1,ITV4
-http://5.255.90.226:5000/play/a00e
-#EXTINF:-1,BBC Two HD
-http://5.255.90.226:5000/play/a018
-#EXTINF:-1,BBC One NI HD
-http://5.255.90.226:5000/play/a01a
-#EXTINF:-1,BBC NEWS HD
-http://5.255.90.226:5000/play/a01e
-#EXTINF:-1,BBC One S East
-http://5.255.90.226:5000/play/a00x
-#EXTINF:-1,BBC One Wales
-http://5.255.90.226:5000/play/a00n
-#EXTINF:-1,BBC Parliament
-http://5.255.90.226:5000/play/a00m
-#EXTINF:-1,BBC One ScotHD
-http://5.255.90.226:5000/play/a01c
-#EXTINF:-1,BBC ALBA
-http://5.255.90.226:5000/play/a00t
-#EXTINF:-1,ITV2
-http://5.255.90.226:5000/play/a00c
-#EXTINF:-1,BBC One East W
-http://5.255.90.226:5000/play/a007
-#EXTINF:-1,ITV4+1
-http://5.255.90.226:5000/play/a00f
-#EXTINF:-1,BBC One HD
-http://5.255.90.226:5000/play/a019
-#EXTINF:-1,ETV2
-http://5.255.90.226:5000/play/a00q
-#EXTINF:-1,BBC Four HD
-http://5.255.90.226:5000/play/a01f
-#EXTINF:-1,ETV5
-http://5.255.90.226:5000/play/a00p
-#EXTINF:-1,ETV1
-http://5.255.90.226:5000/play/a001
-#EXTINF:-1,BBC Two NI
-http://5.255.90.226:5000/play/a016
-#EXTINF:-1,BBC Two Eng
-http://5.255.90.226:5000/play/a003
-#EXTINF:-1,BBC One W Mid
-http://5.255.90.226:5000/play/a00i
-#EXTINF:-1,CBBC HD
-http://5.255.90.226:5000/play/a017
-#EXTINF:-1,BBC One NE&C
-http://5.255.90.226:5000/play/a00y
-#EXTINF:-1,BBC One NI
-http://5.255.90.226:5000/play/a015
-#EXTINF:-1,BBC Two Scot
-http://5.255.90.226:5000/play/a00s
-#EXTINF:-1,BBC One South
-http://5.255.90.226:5000/play/a00z
-#EXTINF:-1,BBC One Oxford
-http://5.255.90.226:5000/play/a011
-#EXTINF:-1,BBC One West
-http://5.255.90.226:5000/play/a006
-#EXTINF:-1,ETV6
-http://5.255.90.226:5000/play/a013
-#EXTINF:-1,BBC Two Wales
-http://5.255.90.226:5000/play/a00o
-#EXTINF:-1,ITV +1
-http://5.255.90.226:5000/play/a00h
-
-
-#EXTM3U
-#EXTINF:-1,ITV Encore
-http://5.255.90.226:5001/play/a00s
-#EXTINF:-1,ITV Encore+1
-http://5.255.90.226:5001/play/a00o
-#EXTINF:-1,STV East +1
-http://5.255.90.226:5001/play/a00h
-#EXTINF:-1,5 USA
-http://5.255.90.226:5001/play/a01d
-#EXTINF:-1,ITV Tyne Tees
-http://5.255.90.226:5001/play/a00r
-#EXTINF:-1,ITV London +1
-http://5.255.90.226:5001/play/a00x
-#EXTINF:-1,Channel 5+1
-http://5.255.90.226:5001/play/a01i
-#EXTINF:-1,5STAR +1
-http://5.255.90.226:5001/play/a01h
-#EXTINF:-1,ITV Border
-http://5.255.90.226:5001/play/a00p
-#EXTINF:-1,ITV3+1
-http://5.255.90.226:5001/play/a00n
-#EXTINF:-1,ITV Yorkshire West
-http://5.255.90.226:5001/play/a00y
-#EXTINF:-1,Cartoon Netwrk
-http://5.255.90.226:5001/play/a016
-#EXTINF:-1,ITVBe+1
-http://5.255.90.226:5001/play/a00t
-#EXTINF:-1,ITV Central West HD
-http://5.255.90.226:5001/play/a012
-#EXTINF:-1,ITV Meridian South East HD
-http://5.255.90.226:5001/play/a011
-#EXTINF:-1,Spike
-http://5.255.90.226:5001/play/a01j
-#EXTINF:-1,ITV4 HD
-http://5.255.90.226:5001/play/a015
-#EXTINF:-1,ITV Meridian South
-http://5.255.90.226:5001/play/a00u
-#EXTINF:-1,ITV Westcountry South West +1
-http://5.255.90.226:5001/play/a00q
-#EXTINF:-1,ITV Meridian South East
-http://5.255.90.226:5001/play/a00w
-#EXTINF:-1,Boomerang +1
-http://5.255.90.226:5001/play/a018
-#EXTINF:-1,Boomerang
-http://5.255.90.226:5001/play/a017
-#EXTINF:-1,My5
-http://5.255.90.226:5001/play/a01g
-#EXTINF:-1,ITV3
-http://5.255.90.226:5001/play/a00m
-#EXTINF:-1,Channel 5HD
-http://5.255.90.226:5001/play/a01k
-#EXTINF:-1,CNN HD
-http://5.255.90.226:5001/play/a01b
-#EXTINF:-1,ITV3 HD
-http://5.255.90.226:5001/play/a014
-#EXTINF:-1,ITV 1 Westcountry South West
-http://5.255.90.226:5001/play/a00k
-#EXTINF:-1,5STAR
-http://5.255.90.226:5001/play/a01f
-#EXTINF:-1,CN+1
-http://5.255.90.226:5001/play/a019
-#EXTINF:-1,5 USA +1
-http://5.255.90.226:5001/play/a01e
-#EXTINF:-1,STV West
-http://5.255.90.226:5001/play/a00f
-#EXTINF:-1,ITV Yorkshire West HD 
-http://5.255.90.226:5001/play/a013
-#EXTINF:-1,Channel 5
-http://5.255.90.226:5001/play/a01c
-#EXTINF:-1,STV East
-http://5.255.90.226:5001/play/a00g
-#EXTINF:-1,CNN
-http://5.255.90.226:5001/play/a01a
-#EXTINF:-1,STV North
-http://5.255.90.226:5001/play/a00e
-#EXTINF:-1,ITV Central West +1
-http://5.255.90.226:5001/play/a00v
-#EXTINF:-1,talkSPORT
-http://5.255.90.226:5001/play/a00j
-#EXTINF:-1,ITV London HD
-http://5.255.90.226:5001/play/a010
-#EXTINF:-1,ITV2+1
-http://5.255.90.226:5001/play/a00z
-#EXTINF:-1,ITV Channel
-http://5.255.90.226:5001/play/a00d
-#EXTINF:-1,UTV
-http://5.255.90.226:5001/play/a00i
 
 
 
-
-
-#EXTM3U
-#EXTINF:-1,CBS Reality
-http://5.255.90.226:5002/play/a02e
-#EXTINF:-1,Disney XD
-http://5.255.90.226:5002/play/a01y
-#EXTINF:-1,Sky2 (a)
-http://5.255.90.226:5002/play/a01x
-#EXTINF:-1,AMC from BT
-http://5.255.90.226:5002/play/a02a
-#EXTINF:-1,Sky Atlantic
-http://5.255.90.226:5002/play/a01l
-#EXTINF:-1,propeller
-http://5.255.90.226:5002/play/a02m
-#EXTINF:-1,Disney Junior
-http://5.255.90.226:5002/play/a020
-#EXTINF:-1,Sky Sports 3 (c)
-http://5.255.90.226:5002/play/a01t
-#EXTINF:-1,CBS Drama
-http://5.255.90.226:5002/play/a026
-#EXTINF:-1,BT Sport 3
-http://5.255.90.226:5002/play/a02l
-#EXTINF:-1,Sky Living+1
-http://5.255.90.226:5002/play/a01m
-#EXTINF:-1,BT Sport 1
-http://5.255.90.226:5002/play/a02k
-#EXTINF:-1,ComedyXtra
-http://5.255.90.226:5002/play/a01j
-#EXTINF:-1,CBS Reality+1
-http://5.255.90.226:5002/play/a02g
-#EXTINF:-1,TCM
-http://5.255.90.226:5002/play/a01o
-#EXTINF:-1,Sky Sp NewsHQ
-http://5.255.90.226:5002/play/a01b
-#EXTINF:-1,SkyRyderCup
-http://5.255.90.226:5002/play/a01k
-#EXTINF:-1,Eurosport 2
-http://5.255.90.226:5002/play/a01g
-#EXTINF:-1,Psychic Today
-http://5.255.90.226:5002/play/a02j
-#EXTINF:-1,Disney XD+1
-http://5.255.90.226:5002/play/a021
-#EXTINF:-1,Pick
-http://5.255.90.226:5002/play/a01u
-#EXTINF:-1,horror channel
-http://5.255.90.226:5002/play/a027
-#EXTINF:-1,Disney Junior+
-http://5.255.90.226:5002/play/a023
-#EXTINF:-1,Lucky Star
-http://5.255.90.226:5002/play/a028
-#EXTINF:-1,XXX Mums
-http://5.255.90.226:5002/play/a01w
-#EXTINF:-1,SkyRyderCup (a)
-http://5.255.90.226:5002/play/a01i
-#EXTINF:-1,Sky Sports 1 (b)
-http://5.255.90.226:5002/play/a01f
-#EXTINF:-1,SkySpBoxOff
-http://5.255.90.226:5002/play/a01a
-#EXTINF:-1,High Street TV 2
-http://5.255.90.226:5002/play/a02d
-#EXTINF:-1,Sky Box Office
-http://5.255.90.226:5002/play/a017
-#EXTINF:-1,Sky Atlantic+1
-http://5.255.90.226:5002/play/a01s
-#EXTINF:-1,CBS Action
-http://5.255.90.226:5002/play/a02b
-#EXTINF:-1,Sky Sports 1 (c)
-http://5.255.90.226:5002/play/a018
-#EXTINF:-1,SkyRyderCup (b)
-http://5.255.90.226:5002/play/a01v
-#EXTINF:-1,BT Sport Mosaic
-http://5.255.90.226:5002/play/a02i
-#EXTINF:-1,BT Sport 3 (a)
-http://5.255.90.226:5002/play/a02c
-#EXTINF:-1,FOX+
-http://5.255.90.226:5002/play/a01h
-#EXTINF:-1,BT Sport Extra 1
-http://5.255.90.226:5002/play/a02f
-#EXTINF:-1,Eurosport 1
-http://5.255.90.226:5002/play/a01n
-#EXTINF:-1,horror ch+1
-http://5.255.90.226:5002/play/a02h
-#EXTINF:-1,Sky Sports 5 (c)
-http://5.255.90.226:5002/play/a01q
-#EXTINF:-1,Disney Channel+1
-http://5.255.90.226:5002/play/a022
-#EXTINF:-1,Disney Channel
-http://5.255.90.226:5002/play/a01z
-#EXTINF:-1,BT Sport 1 (a)
-http://5.255.90.226:5002/play/a029
-#EXTINF:-1,Sky Sports 5 (b)
-http://5.255.90.226:5002/play/a01r
-
-
-
-#EXTM3U
-#EXTINF:-1,Sky Hits
-http://5.255.90.226:5003/play/a00k
-#EXTINF:-1,Sky1a
-http://5.255.90.226:5003/play/a00i
-#EXTINF:-1,Sky Sports F1a
-http://5.255.90.226:5003/play/a004
-#EXTINF:-1,Sky Sports 3a
-http://5.255.90.226:5003/play/a00c
-#EXTINF:-1,Sky Sports 1b
-http://5.255.90.226:5003/play/a009
-#EXTINF:-1,Sky Sports 3
-http://5.255.90.226:5003/play/a00d
-#EXTINF:-1,ComedyCentral
-http://5.255.90.226:5003/play/a00m
-#EXTINF:-1,TV3
-http://5.255.90.226:5003/play/a00f
-#EXTINF:-1,Sky Sports 2
-http://5.255.90.226:5003/play/a007
-#EXTINF:-1,Sky Sports 3b
-http://5.255.90.226:5003/play/a00a
-#EXTINF:-1,Sky Sports 1a
-http://5.255.90.226:5003/play/a00b
-#EXTINF:-1,Sky Living
-http://5.255.90.226:5003/play/a00l
-#EXTINF:-1,Sky Arts 
-http://5.255.90.226:5003/play/a00j
-#EXTINF:-1,Sky1
-http://5.255.90.226:5003/play/a00e
-#EXTINF:-1,Sky Sports 1c
-http://5.255.90.226:5003/play/a008
-#EXTINF:-1,Sky1 +1
-http://5.255.90.226:5003/play/a006
-#EXTINF:-1,Sky Sports F1
-http://5.255.90.226:5003/play/a005
-#EXTINF:-1,Cartoonito
-http://5.255.90.226:5003/play/a00h
-#EXTINF:-1,FOX
-http://5.255.90.226:5003/play/a00g
+#EXTINF:-1,UK| SKY SPORT PREMIER LEAGUE HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33958.ts
+#EXTINF:-1,UK| Sky Sports Box Office PPV
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33957.ts
+#EXTINF:-1,UK| SKY SPORTS CRICKET  HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33956.ts
+#EXTINF:-1,UK| SKY SPORTS F1 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33955.ts
+#EXTINF:-1,UK| SKY SPORTS MIX
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33954.ts
+#EXTINF:-1,UK| SKY SPORTS MIX FHD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33953.ts
+#EXTINF:-1,UK| SKY SPORTS MIX HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33952.ts
+#EXTINF:-1,UK| Sky Sports News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34027.ts
+#EXTINF:-1,UK| Sky Sports News HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33951.ts
+#EXTINF:-1,UK| Sky Sports News HQ.
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33950.ts
+#EXTINF:-1,UK| SKY SPORTS OPEN HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33949.ts
+#EXTINF:-1,UK| SKY SPORTS PREMIERE LEAGUE
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33948.ts
+#EXTINF:-1,UK|  Cinema Disney HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34014.ts
+#EXTINF:-1,UK|  SKY SPORTS ACTON
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34013.ts
+#EXTINF:-1,UK| 5 STAR
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34011.ts
+#EXTINF:-1,UK| Alibi
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34092.ts
+#EXTINF:-1,UK| Baby Tv
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34091.ts
+#EXTINF:-1,UK| BBC 3
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34009.ts
+#EXTINF:-1,UK| BBC 3 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34103.ts
+#EXTINF:-1,UK| BBC 4 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34102.ts
+#EXTINF:-1,UK| BBC ALBA
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34090.ts
+#EXTINF:-1,UK| BBC Entertainment
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34089.ts
+#EXTINF:-1,UK| BBC News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34088.ts
+#EXTINF:-1,UK| BBC One HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34105.ts
+#EXTINF:-1,UK| BBC2 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34104.ts
+#EXTINF:-1,UK| BOOMERANG  1
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34008.ts
+#EXTINF:-1,UK| BoxNation
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34086.ts
+#EXTINF:-1,UK| BOXNation HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34007.ts
+#EXTINF:-1,UK| British Eurosport
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34085.ts
+#EXTINF:-1,UK| British Eurosport 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34084.ts
+#EXTINF:-1,UK| BT Sport 1
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34083.ts
+#EXTINF:-1,UK| BT Sport 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34082.ts
+#EXTINF:-1,UK| BT SPORT 3
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34081.ts
+#EXTINF:-1,UK| BT SPORTS ESPN HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34006.ts
+#EXTINF:-1,UK| Cartoon Network
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34079.ts
+#EXTINF:-1,UK| Cartoonito
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34005.ts
+#EXTINF:-1,UK| CBS Action
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34078.ts
+#EXTINF:-1,UK| CBS Drama
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34077.ts
+#EXTINF:-1,UK| CBS Reality
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34076.ts
+#EXTINF:-1,UK| Celtic TV (Live During SPL)
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34004.ts
+#EXTINF:-1,UK| Channel 5
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34003.ts
+#EXTINF:-1,UK| CHANNEL 5 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34002.ts
+#EXTINF:-1,UK| Chelsea
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34075.ts
+#EXTINF:-1,UK| Cnn Int
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34074.ts
+#EXTINF:-1,UK| Comedy Central
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34073.ts
+#EXTINF:-1,UK| Discovery Channel HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33926.ts
+#EXTINF:-1,UK| Discovery HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34001.ts
+#EXTINF:-1,UK| Disney Channel
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34071.ts
+#EXTINF:-1,UK| DISNEY JUNIOR
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34070.ts
+#EXTINF:-1,UK| Disney XD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34069.ts
+#EXTINF:-1,UK| Dmax
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34068.ts
+#EXTINF:-1,UK| Drama
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34067.ts
+#EXTINF:-1,UK| E4
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34000.ts
+#EXTINF:-1,UK| Eir Sport 1
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34065.ts
+#EXTINF:-1,UK| Eir Sport 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33999.ts
+#EXTINF:-1,UK| EIR Sports 1
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33998.ts
+#EXTINF:-1,UK| EIR Sports 2 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33997.ts
+#EXTINF:-1,UK| ESPN
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34064.ts
+#EXTINF:-1,UK| EURO NEWS
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33996.ts
+#EXTINF:-1,UK| Eurosport 1 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33995.ts
+#EXTINF:-1,UK| Film 4
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33931.ts
+#EXTINF:-1,UK| Film 4 UK
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34063.ts
+#EXTINF:-1,UK| Food Network
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34062.ts
+#EXTINF:-1,UK| Fox
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34061.ts
+#EXTINF:-1,UK| Fox News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34060.ts
+#EXTINF:-1,UK| Gold
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34059.ts
+#EXTINF:-1,UK| H2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33994.ts
+#EXTINF:-1,UK| History Channel
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33993.ts
+#EXTINF:-1,UK| Horror Channel
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34057.ts
+#EXTINF:-1,UK| Irish TV
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34056.ts
+#EXTINF:-1,UK| ITV 1 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34101.ts
+#EXTINF:-1,UK| ITV 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34100.ts
+#EXTINF:-1,UK| ITV 3
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34099.ts
+#EXTINF:-1,UK| ITV 4
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34098.ts
+#EXTINF:-1,UK| ITV BE
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34055.ts
+#EXTINF:-1,UK| ITV One SD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34053.ts
+#EXTINF:-1,UK| Sky 1 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33970.ts
+#EXTINF:-1,UK| Sky 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33969.ts
+#EXTINF:-1,UK| Sky Action
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34039.ts
+#EXTINF:-1,UK| Sky Atlantic
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34038.ts
+#EXTINF:-1,UK| Sky Atlantic HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33927.ts
+#EXTINF:-1,UK| Sky Comedy
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34037.ts
+#EXTINF:-1,UK| Sky Disney
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34036.ts
+#EXTINF:-1,UK| Sky Drama
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34035.ts
+#EXTINF:-1,UK| Sky Family
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34034.ts
+#EXTINF:-1,UK| Sky Living
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34033.ts
+#EXTINF:-1,UK| SKY MOVIES CHRISTMAS
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33968.ts
+#EXTINF:-1,UK| SKY MOVIES COMEDY
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33967.ts
+#EXTINF:-1,UK| SKY MOVIES DRAMA
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33966.ts
+#EXTINF:-1,UK| SKY MOVIES HORROR
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33965.ts
+#EXTINF:-1,UK| SKY MOVIES SELECT
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33964.ts
+#EXTINF:-1,UK| Sky Movies ShowCase
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/34032.ts
+#EXTINF:-1,UK| SKY MOVIES SHOWCASE HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/33963.ts
+#EXTINF:-1,US| 24/7 SOUTHPARK HD SERIES
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32423.ts
+#EXTINF:-1,US| A&E HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32449.ts
+#EXTINF:-1,US| ABC
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32396.ts
+#EXTINF:-1,US| ABC Action News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32393.ts
+#EXTINF:-1,US| ABC FAMILY/SPARK
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32397.ts
+#EXTINF:-1,US| ABC HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32392.ts
+#EXTINF:-1,US| ABC News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32394.ts
+#EXTINF:-1,US| AFN Family Movie
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32398.ts
+#EXTINF:-1,US| AFN Movie
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32400.ts
+#EXTINF:-1,US| AFN News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32401.ts
+#EXTINF:-1,US| AFN Prime Atlantic
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32402.ts
+#EXTINF:-1,US| AFN Prime Pacific
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32403.ts
+#EXTINF:-1,US| AL JAZEERA U.S HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32448.ts
+#EXTINF:-1,US| AMC
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32527.ts
+#EXTINF:-1,US| Americas Auction TV
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32383.ts
+#EXTINF:-1,US| ANIMAL PLANET
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32543.ts
+#EXTINF:-1,US| Astro Sports 2
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32514.ts
+#EXTINF:-1,US| Astro Sports 3
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32515.ts
+#EXTINF:-1,US| Astro Sports 4
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32516.ts
+#EXTINF:-1,US| BBC WORLD NEWS
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32447.ts
+#EXTINF:-1,US| BEIN SPORTS U.S.A
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32446.ts
+#EXTINF:-1,US| Big Ten Network HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32431.ts
+#EXTINF:-1,US| BLOOMBERG TV
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32517.ts
+#EXTINF:-1,US| BOX OFFICE MOVIES
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32422.ts
+#EXTINF:-1,US| Bravo HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32451.ts
+#EXTINF:-1,US| BT SPORT | ESPN
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32547.ts
+#EXTINF:-1,US| C-SPAN 1 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32456.ts
+#EXTINF:-1,US| C-SPAN 2 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32455.ts
+#EXTINF:-1,US| C-SPAN 3 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32454.ts
+#EXTINF:-1,US| CAPITAL TV
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32458.ts
+#EXTINF:-1,US| CARTOON NETWORK
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32444.ts
+#EXTINF:-1,US| CBS HD-US
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32541.ts
+#EXTINF:-1,US| CBS News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32528.ts
+#EXTINF:-1,US| CBSN News
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32461.ts
+#EXTINF:-1,US| Cinemax 5 Max
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32427.ts
+#EXTINF:-1,US| Cinemax 5 Star Max
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32450.ts
+#EXTINF:-1,US| Cinemax ActionMax
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32464.ts
+#EXTINF:-1,US| Cinemax East
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32465.ts
+#EXTINF:-1,US| Cinemax Moremax
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32443.ts
+#EXTINF:-1,US| CITY HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32466.ts
+#EXTINF:-1,US| CNBC HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32426.ts
+#EXTINF:-1,US| CNN
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32521.ts
+#EXTINF:-1,US| CNN HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32522.ts
+#EXTINF:-1,US| CNN HD INTERNATIONAL
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32520.ts
+#EXTINF:-1,US| COMEDY CENTRAL
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32442.ts
+#EXTINF:-1,US| Crime & Investigation
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32441.ts
+#EXTINF:-1,US| CW 11 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32525.ts
+#EXTINF:-1,US| CW Channel 11
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32462.ts
+#EXTINF:-1,US| DEPORTES HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32420.ts
+#EXTINF:-1,US| DISCOVERY CHANNEL HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32534.ts
+#EXTINF:-1,US| DISCOVERY SCIENCE HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32546.ts
+#EXTINF:-1,US| DISCOVERY SHOWCASE
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32545.ts
+#EXTINF:-1,US| DISCOVERY VELOCITY
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32440.ts
+#EXTINF:-1,US| DISNEY JR HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32479.ts
+#EXTINF:-1,US| E! Network HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32439.ts
+#EXTINF:-1,US| ESPN
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32551.ts
+#EXTINF:-1,US| ESPN 2 HD
+http://portal.softclientarea.com:9100/live/3dfjiRRx0g/it0x5rdtcu/32550.ts
 
 
 
@@ -348,6 +323,569 @@ http://5.255.90.226:5003/play/a00g
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8250.ts
+#EXTINF:-1,UK: Travel Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7002.ts
+#EXTINF:-1,UK: Really
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7052.ts
+#EXTINF:-1,UK: Home & Health
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7369.ts
+#EXTINF:-1,UK: Food Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8392.ts
+#EXTINF:-1,UK: SKY ARTS
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7046.ts
+#EXTINF:-1,UK: Good Food
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13542.ts
+#EXTINF:-1,UK: Home&Health
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13536.ts
+#EXTINF:-1,UK: Home
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13537.ts
+#EXTINF:-1,=======   UK:MOVIES   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8252.ts
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7008.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7007.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7012.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7013.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7009.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7011.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7015.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6975.ts
+#EXTINF:-1,UK: Sky Cinema Select
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7014.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7017.ts
+#EXTINF:-1,UK: Sony Movies
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13510.ts
+#EXTINF:-1,UK: TCM HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7006.ts
+#EXTINF:-1,UK: FILM 4
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7066.ts
+#EXTINF:-1,UK: True Movies 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6976.ts
+#EXTINF:-1,UK: True Movies 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7375.ts
+#EXTINF:-1,UK: MOVIES CRIME & THRILLER
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7019.ts
+#EXTINF:-1,UK: MOVIES COMEDY
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7022.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7023.ts
+#EXTINF:-1,UK: Syfy
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7005.ts
+#EXTINF:-1,UK: Sky Atlantic HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7045.ts
+#EXTINF:-1,=======   UK:SPORT   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8244.ts
+#EXTINF:-1,UK: Sky Box Off HD 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16085.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6981.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13713.ts
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8352.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7035.ts
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8351.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7036.ts
+#EXTINF:-1,UK: Sky Sports Action HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8350.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7037.ts
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9549.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7038.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8349.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7039.ts
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17862.ts
+#EXTINF:-1,UK: Sky Sports Arena
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17863.ts
+#EXTINF:-1,UK: Sky Sports Football HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17864.ts
+#EXTINF:-1,UK: Sky Sports Football
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17865.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7987.ts
+#EXTINF:-1,UK: SKY SPORTS  F1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7067.ts
+#EXTINF:-1,UK: EIR Sport 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17372.ts
+#EXTINF:-1,UK: EIR Sport 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17373.ts
+#EXTINF:-1,UK: Eurosport 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7031.ts
+#EXTINF:-1,UK: Eurosport 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7374.ts
+#EXTINF:-1,UK: Premier Sports
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10163.ts
+#EXTINF:-1,UK: AT THE RACES
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6984.ts
+#EXTINF:-1,UK: Racing UK
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7376.ts
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9149.ts
+#EXTINF:-1,UK: BT SPORTS MOSAIC 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/12531.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7041.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7042.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8358.ts
+#EXTINF:-1,UK: BT Sport 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8361.ts
+#EXTINF:-1,UK: BT Sport Europe/3 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8360.ts
+#EXTINF:-1,UK: BT SPORTS EUROPE
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7081.ts
+#EXTINF:-1,UK: BT Sports Extra 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7370.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13565.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13564.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13563.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13562.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13561.ts
+#EXTINF:-1,UK: Setanta HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8241.ts
+#EXTINF:-1,UK: BOX NATION
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7082.ts
+#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7979.ts
+#EXTINF:-1,UK: MUTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7043.ts
+#EXTINF:-1,UK: Chelsea TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8359.ts
+#EXTINF:-1,UK: Liverpool LFCTV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9553.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/12457.ts
+#EXTINF:-1,=======   UK:NEWS   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8246.ts
+#EXTINF:-1,UK: BBC News
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7371.ts
+#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8247.ts
+#EXTINF:-1,UK: Discovery Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7026.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6979.ts
+#EXTINF:-1,UK: Discovery Science
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7028.ts
+#EXTINF:-1,UK: Animal Planet
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7047.ts
+#EXTINF:-1,UK: Nat Geo
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7367.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7025.ts
+#EXTINF:-1,UK: Discovery History
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7029.ts
+#EXTINF:-1,UK: YESTERDAY
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/6999.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7368.ts
+#EXTINF:-1,UK: H2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13540.ts
+#EXTINF:-1,UK: History Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13539.ts
+#EXTINF:-1,=======   UK:CHILDREN’S   =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8251.ts
+#EXTINF:-1,UK: Baby TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/11778.ts
+#EXTINF:-1,UK: Cartoon Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7034.ts
+#EXTINF:-1,UK: NickJr Too
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7543.ts
+#EXTINF:-1,UK: Nicktoons
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7055.ts
+#EXTINF:-1,UK: Disney Junior
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7542.ts
+#EXTINF:-1,UK: Disney Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7032.ts
+#EXTINF:-1,UK: Nickelodeon
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7366.ts
+#EXTINF:-1,UK: DISNEY XD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7070.ts
+#EXTINF:-1,UK: CBEEBIES
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7079.ts
+#EXTINF:-1,UK: CBBC
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7080.ts
+#EXTINF:-1,UK: Boomerang
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13598.ts
+#EXTINF:-1,=======   UK:MUSIC  =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8253.ts
+#EXTINF:-1,UK: MTV Music
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13582.ts
+#EXTINF:-1,UK: MTV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7061.ts
+#EXTINF:-1,UK: MTV Base
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7060.ts
+#EXTINF:-1,UK: MTV Hits
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7057.ts
+#EXTINF:-1,UK: MTV Dance
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7058.ts
+#EXTINF:-1,UK: MTV Classic
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7059.ts
+#EXTINF:-1,UK: VH1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7000.ts
+#EXTINF:-1,UK: 4Music
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13570.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,CA: ABC Spark HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15243.ts
+#EXTINF:-1,CA: CBC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16855.ts
+#EXTINF:-1,CA: CBC Vancover
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16853.ts
+#EXTINF:-1,CA: CBN News
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3872.ts
+#EXTINF:-1,CA: CHCH HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17854.ts
+#EXTINF:-1,CA: CP24 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16821.ts
+#EXTINF:-1,CA: CTV 2 Vancover Island
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17853.ts
+#EXTINF:-1,CA: CityTV Vancouver
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16815.ts
+#EXTINF:-1,CA: Discovery Channel HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17856.ts
+#EXTINF:-1,CA: Family CHRGD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15246.ts
+#EXTINF:-1,CA: Family HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16825.ts
+#EXTINF:-1,CA: CityTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17857.ts
+#EXTINF:-1,CA: Global BC
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16833.ts
+#EXTINF:-1,CA: Global Calgary
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17851.ts
+#EXTINF:-1,CA: Global HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16832.ts
+#EXTINF:-1,CA: CTV Calgary
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17860.ts
+#EXTINF:-1,CA: BNN HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16856.ts
+#EXTINF:-1,CA: OMNI 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16848.ts
+#EXTINF:-1,CA: Love Nature
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17852.ts
+#EXTINF:-1,CA: Peachtree HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17861.ts
+#EXTINF:-1,CA: TVO HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17859.ts
+#EXTINF:-1,CA: YTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16836.ts
+#EXTINF:-1,CA: W Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17855.ts
+#EXTINF:-1,CA: Slice HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16844.ts
+#EXTINF:-1,USA: 360 North
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3863.ts
+#EXTINF:-1,CA: TSC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14969.ts
+#EXTINF:-1,CA: OMNI 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16847.ts
+#EXTINF:-1,CA: HGTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16830.ts
+#EXTINF:-1,CA: Disney Jr HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17858.ts
+#EXTINF:-1,USA: A&E
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9315.ts
+#EXTINF:-1,USA: ABC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16858.ts
+#EXTINF:-1,USA: ABC News
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/2931.ts
+#EXTINF:-1,USA: ABC W HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15244.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10167.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10166.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9518.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9519.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9520.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9516.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9517.ts
+#EXTINF:-1,USA: BBC America
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16857.ts
+#EXTINF:-1,USA: Animal Planet
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15250.ts
+#EXTINF:-1,USA: AMC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8415.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9488.ts
+#EXTINF:-1,USA: Bravo
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8691.ts
+#EXTINF:-1,USA: Church Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9536.ts
+#EXTINF:-1,USA: C-SPAN
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9318.ts
+#EXTINF:-1,USA: CBS HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16852.ts
+#EXTINF:-1,USA: CBC News HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16854.ts
+#EXTINF:-1,USA: CBS News HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9508.ts
+#EXTINF:-1,USA: CBS W HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16850.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16851.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9320.ts
+#EXTINF:-1,USA: Bloomberg
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9510.ts
+#EXTINF:-1,USA: CNN News HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16813.ts
+#EXTINF:-1,USA: CNN HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8692.ts
+#EXTINF:-1,USA: ASD TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3861.ts
+#EXTINF:-1,USA: ESPN 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13230.ts
+#EXTINF:-1,USA: Channel 11
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3860.ts
+#EXTINF:-1,USA: Country Music Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3859.ts
+#EXTINF:-1,USA: Comedy Central
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15249.ts
+#EXTINF:-1,USA: OWN HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16846.ts
+#EXTINF:-1,USA: Discovery Science
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9546.ts
+#EXTINF:-1,USA: Discovery Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15248.ts
+#EXTINF:-1,USA: Discovery Channel CA HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16823.ts
+#EXTINF:-1,USA: Eurosport 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14079.ts
+#EXTINF:-1,USA: E!
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8417.ts
+#EXTINF:-1,USA: Family Junior HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15247.ts
+#EXTINF:-1,USA: Food Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9337.ts
+#EXTINF:-1,USA: FXX HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16834.ts
+#EXTINF:-1,USA: Fight Sport
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8308.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8681.ts
+#EXTINF:-1,USA: Fox Sport 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9391.ts
+#EXTINF:-1,USA: NBA TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8309.ts
+#EXTINF:-1,USA: HBO FAMILY
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8414.ts
+#EXTINF:-1,USA: HBO HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8411.ts
+#EXTINF:-1,USA: HBO ZONE
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8412.ts
+#EXTINF:-1,USA: LIFE TIME
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8687.ts
+#EXTINF:-1,USA: HBO Comedy
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9831.ts
+#EXTINF:-1,USA: History HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15245.ts
+#EXTINF:-1,USA: Mello TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9502.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9523.ts
+#EXTINF:-1,USA: MLB Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15239.ts
+#EXTINF:-1,USA: Fox 43
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10174.ts
+#EXTINF:-1,USA: ID HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16827.ts
+#EXTINF:-1,USA: HLN HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16828.ts
+#EXTINF:-1,USA: HGTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16829.ts
+#EXTINF:-1,USA: NHL Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/12479.ts
+#EXTINF:-1,USA: NBC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8393.ts
+#EXTINF:-1,USA: NBC W HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16849.ts
+#EXTINF:-1,USA: Nick
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9333.ts
+#EXTINF:-1,USA: NBCSN Golf HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9526.ts
+#EXTINF:-1,USA: Nasa TV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9499.ts
+#EXTINF:-1,USA: Hallmark Channel HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16831.ts
+#EXTINF:-1,USA: FX HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16835.ts
+#EXTINF:-1,USA: Fox News HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16826.ts
+#EXTINF:-1,USA: FOX HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16824.ts
+#EXTINF:-1,USA: Disney XD HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16822.ts
+#EXTINF:-1,USA: CTV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16820.ts
+#EXTINF:-1,USA: CSPAN 2
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9319.ts
+#EXTINF:-1,USA: PAC Network National 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14068.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 1080P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14070.ts
+#EXTINF:-1,USA: PAC Mountain 1080P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14067.ts
+#EXTINF:-1,USA: E! Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9321.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 1080P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14072.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona) 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14069.ts
+#EXTINF:-1,USA: BeIN Sports USA HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13227.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area) 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14071.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10143.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14073.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 1080P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14075.ts
+#EXTINF:-1,USA: RT America HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9498.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 1080P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14077.ts
+#EXTINF:-1,USA: PAC-12 Net. (Washington) 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14076.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon) 720P
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14074.ts
+#EXTINF:-1,USA: RT Documentary
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9497.ts
+#EXTINF:-1,USA: PBS HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16845.ts
+#EXTINF:-1,USA: PAC-12 Net. (Encore)
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14078.ts
+#EXTINF:-1,USA: Tru TV HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9330.ts
+#EXTINF:-1,USA: USA Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9329.ts
+#EXTINF:-1,USA: Willow HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9328.ts
+#EXTINF:-1,USA: WWE
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9530.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8293.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8292.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8291.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8290.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8289.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/12547.ts
+#EXTINF:-1,USA: WWE Network
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8410.ts
+#EXTINF:-1,USA: UALR TV
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/3865.ts
+#EXTINF:-1,USA: Teletoon
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/15251.ts
+#EXTINF:-1,USA: WHDH
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9491.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9476.ts
+#EXTINF:-1,USA: The Florida Channel
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9495.ts
+#EXTINF:-1,USA: TBS HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8685.ts
+#EXTINF:-1,USA: TBN
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9542.ts
+#EXTINF:-1,USA: TNT HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13180.ts
+#EXTINF:-1,USA:  Showtime
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/17872.ts
+#EXTINF:-1,USA: Sportsnet World
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14032.ts
+#EXTINF:-1,USA: Sportnet  One HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14037.ts
+#EXTINF:-1,USA: Sporstnet Pacific HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14033.ts
+#EXTINF:-1,USA: Sporstnet Ontario HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14034.ts
+#EXTINF:-1,USA: Sporstnet East HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14035.ts
+#EXTINF:-1,USA: Sporstnet 360
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/14036.ts
+#EXTINF:-1,USA: Sundance HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16840.ts
+#EXTINF:-1,USA: Sportsnet West HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13232.ts
+#EXTINF:-1,USA: Spike HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/13179.ts
+#EXTINF:-1,USA: TLC HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9480.ts
+#EXTINF:-1,USA: Starz  Edge
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/10171.ts
+#EXTINF:-1,USA: TLC CA HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16838.ts
+#EXTINF:-1,USA: Velocity HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16837.ts
+#EXTINF:-1,USA: Star Z Cinema
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/9832.ts
+#EXTINF:-1,USA: Starz Comedy
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16843.ts
+#EXTINF:-1,USA: Starz Encore
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16842.ts
+#EXTINF:-1,USA: Starz Kids & Family
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16841.ts
+#EXTINF:-1,USA: SYFY HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/16839.ts
+#EXTINF:-1,USA: NFL Network HD
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/8693.ts
+#EXTINF:-1,======== ENGLISH MOVIES =======
+http://sporti.tv:6500/live/VLcrjqw2ud/n76SRhylDe/7480.ts
 
 
 

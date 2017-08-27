@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 07-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
@@ -86,7 +86,7 @@ http://185.22.78.81:8119/play/a002
 http://185.22.78.81:8119/play/a005
 #EXTINF:-1,TELESUR
 http://185.22.78.81:8119/play/a003
-#EXTINF:-1,TBN Espana
+#EXTINF:-1,TBNpana
 http://185.22.78.81:8119/play/a004
 
 
@@ -220,7 +220,7 @@ http://185.22.78.81:8119/play/a002
 http://185.22.78.81:8119/play/a005
 #EXTINF:-1,TELESUR
 http://185.22.78.81:8119/play/a003
-#EXTINF:-1,TBN Espana
+#EXTINF:-1,TBNpana
 http://185.22.78.81:8119/play/a004
 
 
@@ -239,266 +239,326 @@ http://185.22.78.81:8119/play/a004
 
 
 
-
-
-
-
-
-
-
-#EXTINF:0,#0 HD
-http://163.172.52.83:8000/live/testapp/testapp/198.ts
-#EXTINF:0,LA 1 HD
-http://163.172.52.83:8000/live/testapp/testapp/210.ts
-#EXTINF:0,LA 2
-http://163.172.52.83:8000/live/testapp/testapp/359.ts
-#EXTINF:0,ANTENA 3 HD
-http://163.172.52.83:8000/live/testapp/testapp/216.ts
-#EXTINF:0,CUATRO HD
-http://163.172.52.83:8000/live/testapp/testapp/212.ts
-#EXTINF:0,TELECINCO HD
-http://163.172.52.83:8000/live/testapp/testapp/200.ts
-#EXTINF:0,LA SEXTA HD
-http://163.172.52.83:8000/live/testapp/testapp/218.ts
-#EXTINF:0,FOX LIFE HD
-http://163.172.52.83:8000/live/testapp/testapp/191.ts
-#EXTINF:0,FOX HD
-http://163.172.52.83:8000/live/testapp/testapp/219.ts
-#EXTINF:0,AXN WHITE HD
-http://163.172.52.83:8000/live/testapp/testapp/214.ts
-#EXTINF:0,AXN HD
-http://163.172.52.83:8000/live/testapp/testapp/215.ts
-#EXTINF:0,HOLLYWOODHD
-http://163.172.52.83:8000/live/testapp/testapp/211.ts
-#EXTINF:0,M.ESTRENOSHD
-http://163.172.52.83:8000/live/testapp/testapp/203.ts
-#EXTINF:0,M.COMEDIA HD
-http://163.172.52.83:8000/live/testapp/testapp/204.ts
-#EXTINF:0,M. XTRA HD
-http://163.172.52.83:8000/live/testapp/testapp/205.ts
-#EXTINF:0,M. SeriesXtraHD
-http://163.172.52.83:8000/live/testapp/testapp/187.ts
-#EXTINF:0,M. SERIES HD
-http://163.172.52.83:8000/live/testapp/testapp/188.ts
-#EXTINF:0,M. DCINE HD
-http://163.172.52.83:8000/live/testapp/testapp/208.ts
-#EXTINF:0,M. ACCI©N HD
-http://163.172.52.83:8000/live/testapp/testapp/209.ts
-#EXTINF:0,SYFY HD
-http://163.172.52.83:8000/live/testapp/testapp/201.ts
-#EXTINF:0,TNT HD
-http://163.172.52.83:8000/live/testapp/testapp/182.ts
-#EXTINF:0,TCM HD
-http://163.172.52.83:8000/live/testapp/testapp/183.ts
-#EXTINF:0,AMC HD
-http://163.172.52.83:8000/live/testapp/testapp/217.ts
-#EXTINF:0,FDF
-http://163.172.52.83:8000/live/testapp/testapp/381.ts
-#EXTINF:0,CLAN TVE
-http://163.172.52.83:8000/live/testapp/testapp/382.ts
-#EXTINF:0,NICKELODEONHD
-http://163.172.52.83:8000/live/testapp/testapp/184.ts
-#EXTINF:0,COSMO HD
-http://163.172.52.83:8000/live/testapp/testapp/194.ts
-#EXTINF:0,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/testapp/testapp/195.ts
-#EXTINF:0,CALLE 13 HD
-http://163.172.52.83:8000/live/testapp/testapp/196.ts
-#EXTINF:0,MEZZO LIVE HD
-http://163.172.52.83:8000/live/testapp/testapp/380.ts
-#EXTINF:0,BEIN SPORT HD
-http://163.172.52.83:8000/live/testapp/testapp/197.ts
-#EXTINF:0,BEIN LALIGA HD
-http://163.172.52.83:8000/live/testapp/testapp/213.ts
-#EXTINF:0,LALIGA TV BAR HD
-http://163.172.52.83:8000/live/testapp/testapp/360.ts
-#EXTINF:0,MOVISTAR PARTIDAZO LIVE SESSION
-http://163.172.52.83:8000/live/testapp/testapp/337.ts
-#EXTINF:0,M.MOTOGPHD
-http://163.172.52.83:8000/live/testapp/testapp/220.ts
-#EXTINF:0,M.FORMULA1HD
-http://163.172.52.83:8000/live/testapp/testapp/202.ts
-#EXTINF:0,M. GOLF HD
-http://163.172.52.83:8000/live/testapp/testapp/189.ts
-#EXTINF:0,M. F.TBOL HD
-http://163.172.52.83:8000/live/testapp/testapp/206.ts
-#EXTINF:0,M. DEP 2 HD
-http://163.172.52.83:8000/live/testapp/testapp/207.ts
-#EXTINF:0,M. DEP 1 HD
-http://163.172.52.83:8000/live/testapp/testapp/190.ts
-#EXTINF:0,GOL TV
-http://163.172.52.83:8000/live/testapp/testapp/357.ts
-#EXTINF:0,R. MADRID TV
-http://163.172.52.83:8000/live/testapp/testapp/242.ts
-#EXTINF:0,BARCA TV
-http://163.172.52.83:8000/live/testapp/testapp/259.ts
-#EXTINF:0,EUROSPORT1HD
-http://163.172.52.83:8000/live/testapp/testapp/192.ts
-#EXTINF:0,EUROSPORT 2
-http://163.172.52.83:8000/live/testapp/testapp/355.ts
-#EXTINF:0,TOROS TV HD
-http://163.172.52.83:8000/live/testapp/testapp/379.ts
-#EXTINF:0,BEINLALIGA1
-http://163.172.52.83:8000/live/testapp/testapp/384.ts
-#EXTINF:0,BEINLALIGA2
-http://163.172.52.83:8000/live/testapp/testapp/383.ts
-#EXTINF:0,BEIN MAX 1
-http://163.172.52.83:8000/live/testapp/testapp/386.ts
-#EXTINF:0,BEIN MAX 2
-http://163.172.52.83:8000/live/testapp/testapp/385.ts
-#EXTINF:0,NG WILD HD
-http://163.172.52.83:8000/live/testapp/testapp/185.ts
-#EXTINF:0,VIAJAR HD
-http://163.172.52.83:8000/live/testapp/testapp/199.ts
-#EXTINF:0,NAT GEO HD
-http://163.172.52.83:8000/live/testapp/testapp/186.ts
-#EXTINF:0,CAZA Y PESCA HD
-http://163.172.52.83:8000/live/testapp/testapp/348.ts
-#EXTINF:0,BABY TV
-http://163.172.52.83:8000/live/testapp/testapp/260.ts
-#EXTINF:0,DISNEY CH HD
-http://163.172.52.83:8000/live/testapp/testapp/193.ts
-#EXTINF:0,24 HORAS
-http://163.172.52.83:8000/live/testapp/testapp/263.ts
-#EXTINF:0,NEOX
-http://163.172.52.83:8000/live/testapp/testapp/243.ts
-#EXTINF:0,M. Cine Espaæol
-http://163.172.52.83:8000/live/testapp/testapp/245.ts
-#EXTINF:0,LTC
-http://163.172.52.83:8000/live/testapp/testapp/246.ts
-#EXTINF:0,PARAMOUNT
-http://163.172.52.83:8000/live/testapp/testapp/375.ts
-#EXTINF:0,CANAL ODISEA
-http://163.172.52.83:8000/live/testapp/testapp/345.ts
-#EXTINF:0,CANAL DECASA
-http://163.172.52.83:8000/live/testapp/testapp/343.ts
-#EXTINF:0,NONSTOPEOPLE
-http://163.172.52.83:8000/live/testapp/testapp/373.ts
-#EXTINF:0,MTV ESPA¹A
-http://163.172.52.83:8000/live/testapp/testapp/244.ts
-#EXTINF:0,HISTORIA
-http://163.172.52.83:8000/live/testapp/testapp/247.ts
-#EXTINF:0,DIVINITY
-http://163.172.52.83:8000/live/testapp/testapp/250.ts
-#EXTINF:0,DISNEY XD
-http://163.172.52.83:8000/live/testapp/testapp/251.ts
-#EXTINF:0,DISCOVERY
-http://163.172.52.83:8000/live/testapp/testapp/252.ts
-#EXTINF:0,CRIMEN INVES
-http://163.172.52.83:8000/live/testapp/testapp/253.ts
-#EXTINF:0,CLASSICA
-http://163.172.52.83:8000/live/testapp/testapp/254.ts
-#EXTINF:0,CANAL SUR A.
-http://163.172.52.83:8000/live/testapp/testapp/256.ts
-#EXTINF:0,CANAL PANDA
-http://163.172.52.83:8000/live/testapp/testapp/257.ts
-#EXTINF:0,BOING
-http://163.172.52.83:8000/live/testapp/testapp/258.ts
-#EXTINF:0,ARAGON TV
-http://163.172.52.83:8000/live/testapp/testapp/261.ts
-#EXTINF:0,A&E
-http://163.172.52.83:8000/live/testapp/testapp/262.ts
-#EXTINF:0,C&I
-http://163.172.52.83:8000/live/testapp/testapp/341.ts
-#EXTINF:0,ENERGY
-http://163.172.52.83:8000/live/testapp/testapp/352.ts
-#EXTINF:0,SUNDANCE
-http://163.172.52.83:8000/live/testapp/testapp/393.ts
-#EXTINF:0,NIck JR
-http://163.172.52.83:8000/live/testapp/testapp/392.ts
-#EXTINF:0,M. deport
-http://163.172.52.83:8000/live/testapp/testapp/391.ts
-#EXTINF:0,FOX NEWS
-http://163.172.52.83:8000/live/testapp/testapp/389.ts
-#EXTINF:0,DISNEY PIXAR
-http://163.172.52.83:8000/live/testapp/testapp/390.ts
-#EXTINF:0,CANAL ORBE21
-http://163.172.52.83:8000/live/testapp/testapp/388.ts
-#EXTINF:0,CANAL COCINA
-http://163.172.52.83:8000/live/testapp/testapp/387.ts
-#EXTINF:0,TAQUILLA_1
-http://163.172.52.83:8000/live/testapp/testapp/86.ts
-#EXTINF:0,TAQUILLA_2
-http://163.172.52.83:8000/live/testapp/testapp/87.ts
-#EXTINF:0,TAQUILLA_3
-http://163.172.52.83:8000/live/testapp/testapp/88.ts
-#EXTINF:0,TAQUILLA_4
-http://163.172.52.83:8000/live/testapp/testapp/89.ts
-#EXTINF:0,TAQUILLA_5
-http://163.172.52.83:8000/live/testapp/testapp/90.ts
-#EXTINF:0,TAQUILLA_6
-http://163.172.52.83:8000/live/testapp/testapp/91.ts
-#EXTINF:0,TAQUILLA_7
-http://163.172.52.83:8000/live/testapp/testapp/92.ts
-#EXTINF:0,TAQUILLA_8
-http://163.172.52.83:8000/live/testapp/testapp/93.ts
-#EXTINF:0,TAQUILLA_9
-http://163.172.52.83:8000/live/testapp/testapp/94.ts
-#EXTINF:0,TAQUILLA_10
-http://163.172.52.83:8000/live/testapp/testapp/95.ts
-#EXTINF:0,TAQUILLA_11
-http://163.172.52.83:8000/live/testapp/testapp/96.ts
-#EXTINF:0,TAQUILLA_12
-http://163.172.52.83:8000/live/testapp/testapp/97.ts
-#EXTINF:0,TAQUILLA_13
-http://163.172.52.83:8000/live/testapp/testapp/98.ts
-#EXTINF:0,TAQUILLA_14
-http://163.172.52.83:8000/live/testapp/testapp/99.ts
-#EXTINF:0,TAQUILLA_15
-http://163.172.52.83:8000/live/testapp/testapp/100.ts
-#EXTINF:0,TAQUILLA_16
-http://163.172.52.83:8000/live/testapp/testapp/101.ts
-#EXTINF:0,TAQUILLA_17
-http://163.172.52.83:8000/live/testapp/testapp/102.ts
-#EXTINF:0,TAQUILLA_18
-http://163.172.52.83:8000/live/testapp/testapp/103.ts
-#EXTINF:0,TAQUILLA_19
-http://163.172.52.83:8000/live/testapp/testapp/104.ts
-#EXTINF:0,TAQUILLA_20
-http://163.172.52.83:8000/live/testapp/testapp/105.ts
-#EXTINF:0,TAQUILLA_21
-http://163.172.52.83:8000/live/testapp/testapp/106.ts
-#EXTINF:0,TAQUILLA_22
-http://163.172.52.83:8000/live/testapp/testapp/107.ts
-#EXTINF:0,TAQUILLA_23
-http://163.172.52.83:8000/live/testapp/testapp/108.ts
-#EXTINF:0,TAQUILLA_24
-http://163.172.52.83:8000/live/testapp/testapp/109.ts
-#EXTINF:0,TAQUILLA_25
-http://163.172.52.83:8000/live/testapp/testapp/110.ts
-#EXTINF:0,TAQUILLA_26
-http://163.172.52.83:8000/live/testapp/testapp/111.ts
-#EXTINF:0,TAQUILLA_27
-http://163.172.52.83:8000/live/testapp/testapp/112.ts
-#EXTINF:0,TAQUILLA_28
-http://163.172.52.83:8000/live/testapp/testapp/113.ts
-#EXTINF:0,TAQUILLA_29
-http://163.172.52.83:8000/live/testapp/testapp/114.ts
-#EXTINF:0,TAQUILLA_30
-http://163.172.52.83:8000/live/testapp/testapp/115.ts
-#EXTINF:0,TAQUILLA_31
-http://163.172.52.83:8000/live/testapp/testapp/116.ts
-#EXTINF:0,TAQUILLA_32
-http://163.172.52.83:8000/live/testapp/testapp/117.ts
-#EXTINF:0,TAQUILLA_33
-http://163.172.52.83:8000/live/testapp/testapp/118.ts
-#EXTINF:0,TAQUILLA_34
-http://163.172.52.83:8000/live/testapp/testapp/119.ts
-#EXTINF:0,TAQUILLA_35
-http://163.172.52.83:8000/live/testapp/testapp/120.ts
-#EXTINF:0,TAQUILLA_36
-http://163.172.52.83:8000/live/testapp/testapp/121.ts
-#EXTINF:0,TAQUILLA_37
-http://163.172.52.83:8000/live/testapp/testapp/122.ts
-#EXTINF:0,TAQUILLA_38
-http://163.172.52.83:8000/live/testapp/testapp/123.ts
-#EXTINF:0,TAQUILLA_39
-http://163.172.52.83:8000/live/testapp/testapp/124.ts
-#EXTINF:0,TAQUILLA_40
-http://163.172.52.83:8000/live/testapp/testapp/125.ts
-
-
-
+#EXTINF:-1,#0 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1056.ts
+#EXTINF:-1,A&E
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1028.ts
+#EXTINF:-1,AMC HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1053.ts
+#EXTINF:-1,AXN HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1052.ts
+#EXTINF:-1,AXN White
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1051.ts
+#EXTINF:-1,Extremadura TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1078.ts
+#EXTINF:-1,Antena 3 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1084.ts
+#EXTINF:-1,Lancelot TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1022.ts
+#EXTINF:-1,Barca TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1038.ts
+#EXTINF:-1,Boing
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1015.ts
+#EXTINF:-1,C+trellas
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1046.ts
+#EXTINF:-1,Calle 13 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1049.ts
+#EXTINF:-1,Canal Cocina
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1025.ts
+#EXTINF:-1,Canal Decasa
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1024.ts
+#EXTINF:-1,Canal Panda
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1023.ts
+#EXTINF:-1,Canal SUR
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1057.ts
+#EXTINF:-1,Caza Y Pesca
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1027.ts
+#EXTINF:-1,TV3 Cat
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1019.ts
+#EXTINF:-1,Comedy Central HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1048.ts
+#EXTINF:-1,Cosmo HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1047.ts
+#EXTINF:-1,Cuatro
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1083.ts
+#EXTINF:-1,Discovery HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1030.ts
+#EXTINF:-1,Clan TVE
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1031.ts
+#EXTINF:-1,Disney Channel HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1017.ts
+#EXTINF:-1,Disney XD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1016.ts
+#EXTINF:-1,Energy
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1044.ts
+#EXTINF:-1,EuroNews
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1018.ts
+#EXTINF:-1,EuroSport 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1036.ts
+#EXTINF:-1,Fox News
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1074.ts
+#EXTINF:-1,FDF
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1045.ts
+#EXTINF:-1,Fox HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1055.ts
+#EXTINF:-1,Fox Life HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1054.ts
+#EXTINF:-1,Galicia TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1075.ts
+#EXTINF:-1,Gol TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1040.ts
+#EXTINF:-1,Andalucia TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1039.ts
+#EXTINF:-1,Historia
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1029.ts
+#EXTINF:-1,Hollywood
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1060.ts
+#EXTINF:-1,La 1
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1086.ts
+#EXTINF:-1,La Sexta
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1081.ts
+#EXTINF:-1,LaLiga TV Bar
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1062.ts
+#EXTINF:-1,Mega
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1012.ts
+#EXTINF:-1,MovieStar Accion
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1070.ts
+#EXTINF:-1,MovieStar Comedia
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1069.ts
+#EXTINF:-1,MovieStar DCine
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1068.ts
+#EXTINF:-1,MovieStar Deportes 1
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1064.ts
+#EXTINF:-1,MovieStar Deportes 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1073.ts
+#EXTINF:-1,MovieStartrenos
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1072.ts
+#EXTINF:-1,MovieStar F1
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1035.ts
+#EXTINF:-1,MovieStar Futbol
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1063.ts
+#EXTINF:-1,MovieStar Golf
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1061.ts
+#EXTINF:-1,MovieStar MotoGP HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1041.ts
+#EXTINF:-1,MovieStar Series HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1067.ts
+#EXTINF:-1,MovieStar Series Xtra
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1066.ts
+#EXTINF:-1,MovieStar Toros HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1065.ts
+#EXTINF:-1,MovieStar Xtra
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1071.ts
+#EXTINF:-1,Nat Geo
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1033.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1032.ts
+#EXTINF:-1,Neox
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1079.ts
+#EXTINF:-1,Nick Junior
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1013.ts
+#EXTINF:-1,Nickelodeon HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1014.ts
+#EXTINF:-1,Nova
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1080.ts
+#EXTINF:-1,Odisea HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1034.ts
+#EXTINF:-1,Telecinco HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1077.ts
+#EXTINF:-1,Esperanza TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1020.ts
+#EXTINF:-1,Real Madrid TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1037.ts
+#EXTINF:-1,SyFy HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1050.ts
+#EXTINF:-1,TCM
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1059.ts
+#EXTINF:-1,TNT
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1058.ts
+#EXTINF:-1,TV3 24H
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1021.ts
+#EXTINF:-1,La Sexta HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1076.ts
+#EXTINF:-1,TVE LA 2
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1085.ts
+#EXTINF:-1,Telecinco
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1082.ts
+#EXTINF:-1,Viajar HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1026.ts
+#EXTINF:-1,Antenna 3 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4427.ts
+#EXTINF:-1,AXN FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4414.ts
+#EXTINF:-1,AXN White FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4413.ts
+#EXTINF:-1,C+ Accion FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4409.ts
+#EXTINF:-1,C+ DCine FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4407.ts
+#EXTINF:-1,C+ Dep 2 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4405.ts
+#EXTINF:-1,C+trenos FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4408.ts
+#EXTINF:-1,C  Series FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4410.ts
+#EXTINF:-1,C+ Xtra FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4411.ts
+#EXTINF:-1,Calle 13 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4416.ts
+#EXTINF:-1,Caza Y Pesca FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4417.ts
+#EXTINF:-1,Cosmo FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4412.ts
+#EXTINF:-1,Cuatro FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4426.ts
+#EXTINF:-1,Disney Channel FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4422.ts
+#EXTINF:-1,Fox FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4415.ts
+#EXTINF:-1,LA 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4428.ts
+#EXTINF:-1,LA Sexta FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4424.ts
+#EXTINF:-1,M  Formula 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4400.ts
+#EXTINF:-1,M+ Futbol FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4406.ts
+#EXTINF:-1,M  Golf  FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4402.ts
+#EXTINF:-1,M  MotoGP FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4399.ts
+#EXTINF:-1,MoviStar F1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4401.ts
+#EXTINF:-1,Nat Geo FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4419.ts
+#EXTINF:-1,Nat Geo Wild FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4418.ts
+#EXTINF:-1,SyFy FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4420.ts
+#EXTINF:-1,Telecinco FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4425.ts
+#EXTINF:-1,Viajar FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4423.ts
+#EXTINF:-1,beIN LA Liga FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4403.ts
+#EXTINF:-1,beIN Sport FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/4404.ts
+#EXTINF:-1,beINSport HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1043.ts
+#EXTINF:-1,beINSport LaLiga HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1042.ts
+#EXTINF:-1,Taquilla 1 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1011.ts
+#EXTINF:-1,Taquilla 2 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1010.ts
+#EXTINF:-1,Taquilla 3 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1009.ts
+#EXTINF:-1,Taquilla 4 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1008.ts
+#EXTINF:-1,Taquilla 5 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1007.ts
+#EXTINF:-1,Taquilla 6 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1006.ts
+#EXTINF:-1,Taquilla 7 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1005.ts
+#EXTINF:-1,Taquilla 8 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1004.ts
+#EXTINF:-1,Taquilla 9 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1003.ts
+#EXTINF:-1,Taquilla 10 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1002.ts
+#EXTINF:-1,Taquilla 11 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1001.ts
+#EXTINF:-1,Taquilla 12 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/1000.ts
+#EXTINF:-1,Taquilla 13 HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/999.ts
+#EXTINF:-1,#0 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6085.ts
+#EXTINF:-1,13 TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6093.ts
+#EXTINF:-1,8TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6094.ts
+#EXTINF:-1,a3series HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6097.ts
+#EXTINF:-1,AMC FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6082.ts
+#EXTINF:-1,Aragon TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6091.ts
+#EXTINF:-1,Baby TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6051.ts
+#EXTINF:-1,Canal Dark
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6078.ts
+#EXTINF:-1,Canal Orbe 21
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6052.ts
+#EXTINF:-1,Cine 3D
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6079.ts
+#EXTINF:-1,Classica
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6042.ts
+#EXTINF:-1,Comedy Central FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6073.ts
+#EXTINF:-1,Crimen e Investigacion
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6058.ts
+#EXTINF:-1,Discovery Channel FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6057.ts
+#EXTINF:-1,Disney Junior
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6050.ts
+#EXTINF:-1,Eurosport 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6065.ts
+#EXTINF:-1,Eurosport 2 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6064.ts
+#EXTINF:-1,FOX Life FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6075.ts
+#EXTINF:-1,Gol TV HD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6066.ts
+#EXTINF:-1,Historia FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6055.ts
+#EXTINF:-1,Hollywood FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6080.ts
+#EXTINF:-1,Iberalia TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6056.ts
+#EXTINF:-1,DKiss TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6040.ts
+#EXTINF:-1,LaLigaTV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6069.ts
+#EXTINF:-1,Levante TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6092.ts
+#EXTINF:-1,LTC
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6086.ts
+#EXTINF:-1,Mezzo Live FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6043.ts
+#EXTINF:-1,Movistar+ Comedia FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6083.ts
+#EXTINF:-1,Movistar  Deportes 1 FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6071.ts
+#EXTINF:-1,Movistar+ Series Xtra FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6084.ts
+#EXTINF:-1,MTV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6046.ts
+#EXTINF:-1,MTV Rocks
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6045.ts
+#EXTINF:-1,Nickelodeon FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6048.ts
+#EXTINF:-1,Non Stop People
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6041.ts
+#EXTINF:-1,Olympic Channel FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6063.ts
+#EXTINF:-1,Sundance TV
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6072.ts
+#EXTINF:-1,TCM FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6081.ts
+#EXTINF:-1,TNT FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6074.ts
+#EXTINF:-1,Toros TV FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6067.ts
+#EXTINF:-1,TV Canaria
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6090.ts
+#EXTINF:-1,VH1
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6044.ts
+#EXTINF:-1,World Padel Tour FHD
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6062.ts
+#EXTINF:-1,XTRM
+http://portal.geniptv.com:8080/live/messef/ao539EpinD/6076.ts
 
 
 
