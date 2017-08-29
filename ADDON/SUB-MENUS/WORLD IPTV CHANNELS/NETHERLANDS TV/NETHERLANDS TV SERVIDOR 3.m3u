@@ -1,152 +1,101 @@
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 22-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-#EXTINF:-1,NED|NPO 1
-http://topiptv.net:5890/live/test21/test21/842.ts
-#EXTINF:-1,NED|NPO 2
-http://topiptv.net:5890/live/test21/test21/843.ts
-#EXTINF:-1,NED|NPO 3
-http://topiptv.net:5890/live/test21/test21/844.ts
-#EXTINF:-1,NED|NET 5
-http://topiptv.net:5890/live/test21/test21/841.ts
-#EXTINF:-1,NED|RTL 4
-http://topiptv.net:5890/live/test21/test21/1867.ts
-#EXTINF:-1,NED|RTL 5
-http://topiptv.net:5890/live/test21/test21/771.ts
-#EXTINF:-1,NED|RTL 7
-http://topiptv.net:5890/live/test21/test21/772.ts
-#EXTINF:-1,NED|RTL 8
-http://topiptv.net:5890/live/test21/test21/845.ts
-#EXTINF:-1,NED|SBS 9
-http://topiptv.net:5890/live/test21/test21/1708.ts
-#EXTINF:-1,NED|SBS 6
-http://topiptv.net:5890/live/test21/test21/1707.ts
-#EXTINF:-1,NED|Ziggo Sport Select
-http://topiptv.net:5890/live/test21/test21/998.ts
-#EXTINF:-1,NED|FOX Sports 1 HD
-http://topiptv.net:5890/live/test21/test21/999.ts
-#EXTINF:-1,NED|FOX Sports 2 HD
-http://topiptv.net:5890/live/test21/test21/1000.ts
-#EXTINF:-1,NED|FOX Sports 3 HD
-http://topiptv.net:5890/live/test21/test21/1249.ts
-#EXTINF:-1,NED|FOX Sports 4 HD
-http://topiptv.net:5890/live/test21/test21/1250.ts
-#EXTINF:-1,NED|FOX Sports 5 HD
-http://topiptv.net:5890/live/test21/test21/1251.ts
-#EXTINF:-1,NED|FOX Sports 6 HD
-http://topiptv.net:5890/live/test21/test21/1252.ts
-#EXTINF:-1,NED|HBO 1
-http://topiptv.net:5890/live/test21/test21/774.ts
-#EXTINF:-1,NED|HBO 2
-http://topiptv.net:5890/live/test21/test21/775.ts
-#EXTINF:-1,NED|HBO 3
-http://topiptv.net:5890/live/test21/test21/776.ts
-#EXTINF:-1,NED|Film1 Action
-http://topiptv.net:5890/live/test21/test21/777.ts
-#EXTINF:-1,NED|Film1 Spotlght
-http://topiptv.net:5890/live/test21/test21/1248.ts
-#EXTINF:-1,NED|Film 1 Sundance
-http://topiptv.net:5890/live/test21/test21/1709.ts
-#EXTINF:-1,NED|Film1 Premiere HD
-http://topiptv.net:5890/live/test21/test21/778.ts
-#EXTINF:-1,NED|Film1 Comedy Kids
-http://topiptv.net:5890/live/test21/test21/779.ts
-#EXTINF:-1,NED|NATGEO
-http://topiptv.net:5890/live/test21/test21/1710.ts
-#EXTINF:-1,NED|Nat Geo
-http://topiptv.net:5890/live/test21/test21/1999.ts
-#EXTINF:-1,NED|FOX
-http://topiptv.net:5890/live/test21/test21/1998.ts
-#EXTINF:-1,NED|Comedy Central
-http://topiptv.net:5890/live/test21/test21/2000.ts
-#EXTINF:-1,NED|Discovery Channel
-http://topiptv.net:5890/live/test21/test21/928.ts
-#EXTINF:-1,NED|NICKELODEON
-http://topiptv.net:5890/live/test21/test21/1741.ts
-#EXTINF:-1,NED|Disney Channel
-http://topiptv.net:5890/live/test21/test21/1743.ts
-#EXTINF:-1,NED|CARTOON
-http://topiptv.net:5890/live/test21/test21/1742.ts
-#EXTINF:-1,NED|MTV
-http://topiptv.net:5890/live/test21/test21/1706.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,BEL|La Une
-http://topiptv.net:5890/live/test21/test21/848.ts
-#EXTINF:-1,BEL|La Deux
-http://topiptv.net:5890/live/test21/test21/846.ts
-#EXTINF:-1,BEL|La Trois
-http://topiptv.net:5890/live/test21/test21/847.ts
-#EXTINF:-1,BEL|RTL-TVI
-http://topiptv.net:5890/live/test21/test21/850.ts
-#EXTINF:-1,BEL|Plug RTL
-http://topiptv.net:5890/live/test21/test21/849.ts
-#EXTINF:-1,BEL|Club RTL
-http://topiptv.net:5890/live/test21/test21/994.ts
-#EXTINF:-1,BEL|TV Lux
-http://topiptv.net:5890/live/test21/test21/1586.ts
-#EXTINF:-1,BEL|Televesdre
-http://topiptv.net:5890/live/test21/test21/1585.ts
-#EXTINF:-1,BEL|Telesambre
-http://topiptv.net:5890/live/test21/test21/1584.ts
-#EXTINF:-1,BEL|VTM HD
-http://topiptv.net:5890/live/test21/test21/1985.ts
-#EXTINF:-1,BEL|VITAYA
-http://topiptv.net:5890/live/test21/test21/1986.ts
-#EXTINF:-1,BEL|VIJF
-http://topiptv.net:5890/live/test21/test21/1988.ts
-#EXTINF:-1,BEL|VIER
-http://topiptv.net:5890/live/test21/test21/1989.ts
-#EXTINF:-1,BEL|CANVAS HD
-http://topiptv.net:5890/live/test21/test21/1987.ts
-#EXTINF:-1,BEL|TéLé MB
-http://topiptv.net:5890/live/test21/test21/2623.ts
-#EXTINF:-1,BEL|AB3
-http://topiptv.net:5890/live/test21/test21/2626.ts
-#EXTINF:-1,BEL|CINE
-http://topiptv.net:5890/live/test21/test21/4667.ts
-#EXTINF:-1,BEL|CINEMA 1
-http://topiptv.net:5890/live/test21/test21/4668.ts
-#EXTINF:-1,BEL|EEN HD
-http://topiptv.net:5890/live/test21/test21/4669.ts
-#EXTINF:-1,BEL|Eleven Sport
-http://topiptv.net:5890/live/test21/test21/2627.ts
-#EXTINF:-1,BEL|Voo Sport 1
-http://topiptv.net:5890/live/test21/test21/1887.ts
-#EXTINF:-1,BEL|Voo Sport 2
-http://topiptv.net:5890/live/test21/test21/2029.ts
-#EXTINF:-1,BEL|Voo Sport World 1
-http://topiptv.net:5890/live/test21/test21/2625.ts
+#EXTINF:-1,NL: CI
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8865.ts
+#EXTINF:-1,NL: DISCOVERY CHANNEL HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8869.ts
+#EXTINF:-1,NL: Discovery FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15983.ts
+#EXTINF:-1,NL: Disney Channel
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8855.ts
+#EXTINF:-1,NL: Disney Junior
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8858.ts
+#EXTINF:-1,NL: EuroSpot 1 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16866.ts
+#EXTINF:-1,NL: Film 1 Action HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8827.ts
+#EXTINF:-1,NL: Film 1 Comedy & Kids
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8826.ts
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8825.ts
+#EXTINF:-1,NL: Film 1 Spotlight
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8823.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8824.ts
+#EXTINF:-1,NL: FOX HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8843.ts
+#EXTINF:-1,NL: Fox Sports 1 Eredivise
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6974.ts
+#EXTINF:-1,NL: FOX Sports 1 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15982.ts
+#EXTINF:-1,NL: FOX Sports 2 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15981.ts
+#EXTINF:-1,NL: Fox Sports 2 International
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6973.ts
+#EXTINF:-1,NL: Fox Sports 3 Eredivise
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6972.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6971.ts
+#EXTINF:-1,NL: Fox Sports 5 Eredivise
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6970.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/6969.ts
+#EXTINF:-1,NL: HISTORY FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8867.ts
+#EXTINF:-1,NL: I Concerts
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15768.ts
+#EXTINF:-1,NL: Investigation Discovery
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8871.ts
+#EXTINF:-1,NL: JimJam
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8862.ts
+#EXTINF:-1,NL: MAX FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16867.ts
+#EXTINF:-1,NL: NAT GEO WILD FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8866.ts
+#EXTINF:-1,NL: NATIONAL GEOGRAPHIC HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8870.ts
+#EXTINF:-1,NL: NET 5 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8846.ts
+#EXTINF:-1,NL: NICK JR HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8861.ts
+#EXTINF:-1,NL: NICK TOONS HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8859.ts
+#EXTINF:-1,NL: Nickelodeon
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8857.ts
+#EXTINF:-1,NL: NPO 1 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15992.ts
+#EXTINF:-1,NL: NPO 1 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8833.ts
+#EXTINF:-1,NL: NPO 101 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8832.ts
+#EXTINF:-1,NL: NPO 2 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15991.ts
+#EXTINF:-1,NL: NPO 2 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8834.ts
+#EXTINF:-1,NL: NPO 3 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15990.ts
+#EXTINF:-1,NL: NPO 3 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8835.ts
+#EXTINF:-1,NL: NPO DOC
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8868.ts
+#EXTINF:-1,NL: NPO Xtra Zappelin
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8831.ts
+#EXTINF:-1,NL: RTL 4 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15989.ts
+#EXTINF:-1,NL: RTL 4 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8847.ts
+#EXTINF:-1,NL: RTL 5 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15988.ts
+#EXTINF:-1,NL: RTL 5 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8848.ts
+#EXTINF:-1,NL: RTL 7 FHD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15986.ts
+#EXTINF:-1,NL: RTL 7 HD
+http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8849.ts
