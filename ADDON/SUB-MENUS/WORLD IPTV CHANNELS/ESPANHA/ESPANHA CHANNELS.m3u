@@ -5,566 +5,492 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-
-#EXTINF:-1,#0
-http://185.22.78.81:8116/play/a00c
-#EXTINF:-1,IBERALIA TV
-http://185.22.78.81:8116/play/a004
-#EXTINF:-1,M. ACCI©N
-http://185.22.78.81:8116/play/a006
-#EXTINF:-1,AXN
-http://185.22.78.81:8116/play/a00b
-#EXTINF:-1,NOVA
-http://185.22.78.81:8116/play/a003
-#EXTINF:-1,M. COMEDIA
-http://185.22.78.81:8116/play/a007
-#EXTINF:-1,DISNEY JR
-http://185.22.78.81:8116/play/a005
-#EXTINF:-1,FOX
-http://185.22.78.81:8116/play/a009
-#EXTINF:-1,M. DCINE
-http://185.22.78.81:8116/play/a008
-#EXTINF:-1,AXN WHITE
-http://185.22.78.81:8116/play/a00a
-#EXTINF:-1,FOX LIFE
-http://185.22.78.81:8116/play/a002
-
-#EXTINF:-1,FOX LIFE HD
-http://185.22.78.81:8115/play/a003
-#EXTINF:-1,COSMO HD
-http://185.22.78.81:8115/play/a006
-#EXTINF:-1,COMEDYCENTRALHD
-http://185.22.78.81:8115/play/a007
-#EXTINF:-1,M. GOLF HD
-http://185.22.78.81:8115/play/a005
-#EXTINF:-1,M. SeriesXtraHD
-http://185.22.78.81:8115/play/a004
-#EXTINF:-1,BEIN SPORTS
-http://185.22.78.81:8115/play/a002
-
-#EXTINF:-1,SYFY HD
-http://185.22.78.81:8117/play/a002
-#EXTINF:-1,M.ESTRENOSHD
-http://185.22.78.81:8117/play/a004
-#EXTINF:-1,AXN WHITE HD
-http://185.22.78.81:8117/play/a007
-#EXTINF:-1,M. XTRA HD
-http://185.22.78.81:8117/play/a006
-#EXTINF:-1,M. DEP 2 HD
-http://185.22.78.81:8117/play/a005
-#EXTINF:-1,VIAJAR HD
-http://185.22.78.81:8117/play/a003
-
-#EXTINF:-1,R. MADRID TV
-http://185.22.78.81:8118/play/a007
-#EXTINF:-1,CLASSICA
-http://185.22.78.81:8118/play/a008
-#EXTINF:-1,PARAMOUNT
-http://185.22.78.81:8118/play/a002
-#EXTINF:-1,EUROSPORT 2
-http://185.22.78.81:8118/play/a00b
-#EXTINF:-1,M. DEP 2
-http://185.22.78.81:8118/play/a00a
-#EXTINF:-1,ANTENA 3
-http://185.22.78.81:8118/play/a009
-#EXTINF:-1,ARAGON TV
-http://185.22.78.81:8118/play/a004
-#EXTINF:-1,BAJO DEMANDA
-http://185.22.78.81:8118/play/a003
-#EXTINF:-1,CANAL PANDA
-http://185.22.78.81:8118/play/a006
-#EXTINF:-1,NEOX
-http://185.22.78.81:8118/play/a005
-
-
-#EXTINF:-1,I24 NEWS
-http://185.22.78.81:8119/play/a006
-#EXTINF:-1,TV Record SD
-http://185.22.78.81:8119/play/a002
-#EXTINF:-1,TVGA
-http://185.22.78.81:8119/play/a005
-#EXTINF:-1,TELESUR
-http://185.22.78.81:8119/play/a003
-#EXTINF:-1,TBNpana
-http://185.22.78.81:8119/play/a004
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,Comedy Central VIVA
-http://185.117.46.1:9090/play/a024
-#EXTINF:-1,ARAGON TV
-http://185.117.46.1:9090/play/a01x
-#EXTINF:-1,DARK
-http://185.117.46.1:9090/play/a02i
-#EXTINF:-1,DELUXE MUSIC
-http://185.117.46.1:9090/play/a025
-#EXTINF:-1,VIAJAR
-http://185.117.46.1:9090/play/a014
-#EXTINF:-1,TVGA
-http://185.117.46.1:9090/play/a023
-#EXTINF:-1,HISTORIA
-http://185.117.46.1:9090/play/a02r
-#EXTINF:-1,ODISEA
-http://185.117.46.1:9090/play/a02p
-#EXTINF:-1,NAT GEOGRAPH
-http://185.117.46.1:9090/play/a01e
-#EXTM3U
-#EXTINF:-1,M.MOTOGPHD
-http://185.22.78.81:8111/play/a003
-#EXTINF:-1,M.FORMULA1HD
-http://185.22.78.81:8111/play/a002
-#EXTINF:-1,CUATRO HD
-http://185.22.78.81:8111/play/a006
-#EXTINF:-1,ANTENA 3 HD
-http://185.22.78.81:8111/play/a005
-#EXTINF:-1,TELECINCO HD
-http://185.22.78.81:8111/play/a007
-#EXTINF:-1,LA SEXTA HD
-http://185.22.78.81:8111/play/a008
-#EXTINF:-1,AMC HD
-http://185.22.78.81:8111/play/a004
-#EXTM3U
-#EXTINF:-1,BBC World News Europe HD
-http://185.22.78.81:8114/play/a002
-#EXTINF:-1,INSIGHT TV HD
-http://185.22.78.81:8114/play/a003
-#EXTINF:-1,Al Jazeera English HD
-http://185.22.78.81:8114/play/a006
-#EXTINF:-1,NHK World TV
-http://185.22.78.81:8114/play/a005
-#EXTM3U
-#EXTINF:-1,FOX LIFE HD
-http://185.22.78.81:8115/play/a003
-#EXTINF:-1,COSMO HD
-http://185.22.78.81:8115/play/a006
-#EXTINF:-1,COMEDYCENTRALHD
-http://185.22.78.81:8115/play/a007
-#EXTINF:-1,M. GOLF HD
-http://185.22.78.81:8115/play/a005
-#EXTINF:-1,M. SeriesXtraHD
-http://185.22.78.81:8115/play/a004
-#EXTINF:-1,BEIN SPORTS
-http://185.22.78.81:8115/play/a002
-#EXTM3U
-#EXTINF:-1,#0
-http://185.22.78.81:8116/play/a00c
-#EXTINF:-1,IBERALIA TV
-http://185.22.78.81:8116/play/a004
-#EXTINF:-1,M. ACCI©N
-http://185.22.78.81:8116/play/a006
-#EXTINF:-1,AXN
-http://185.22.78.81:8116/play/a00b
-#EXTINF:-1,NOVA
-http://185.22.78.81:8116/play/a003
-#EXTINF:-1,M. COMEDIA
-http://185.22.78.81:8116/play/a007
-#EXTINF:-1,DISNEY JR
-http://185.22.78.81:8116/play/a005
-#EXTINF:-1,FOX
-http://185.22.78.81:8116/play/a009
-#EXTINF:-1,M. DCINE
-http://185.22.78.81:8116/play/a008
-#EXTINF:-1,AXN WHITE
-http://185.22.78.81:8116/play/a00a
-#EXTINF:-1,FOX LIFE
-http://185.22.78.81:8116/play/a002
-#EXTM3U
-#EXTINF:-1,SYFY HD
-http://185.22.78.81:8117/play/a002
-#EXTINF:-1,M.ESTRENOSHD
-http://185.22.78.81:8117/play/a004
-#EXTINF:-1,AXN WHITE HD
-http://185.22.78.81:8117/play/a007
-#EXTINF:-1,M. XTRA HD
-http://185.22.78.81:8117/play/a006
-#EXTINF:-1,M. DEP 2 HD
-http://185.22.78.81:8117/play/a005
-#EXTINF:-1,VIAJAR HD
-http://185.22.78.81:8117/play/a003
-#EXTM3U
-#EXTINF:-1,R. MADRID TV
-http://185.22.78.81:8118/play/a007
-#EXTINF:-1,CLASSICA
-http://185.22.78.81:8118/play/a008
-#EXTINF:-1,PARAMOUNT
-http://185.22.78.81:8118/play/a002
-#EXTINF:-1,EUROSPORT 2
-http://185.22.78.81:8118/play/a00b
-#EXTINF:-1,M. DEP 2
-http://185.22.78.81:8118/play/a00a
-#EXTINF:-1,ANTENA 3
-http://185.22.78.81:8118/play/a009
-#EXTINF:-1,ARAGON TV
-http://185.22.78.81:8118/play/a004
-#EXTINF:-1,BAJO DEMANDA
-http://185.22.78.81:8118/play/a003
-#EXTINF:-1,CANAL PANDA
-http://185.22.78.81:8118/play/a006
-#EXTINF:-1,NEOX
-http://185.22.78.81:8118/play/a005
-#EXTM3U
-#EXTINF:-1,I24 NEWS
-http://185.22.78.81:8119/play/a006
-#EXTINF:-1,TV Record SD
-http://185.22.78.81:8119/play/a002
-#EXTINF:-1,TVGA
-http://185.22.78.81:8119/play/a005
-#EXTINF:-1,TELESUR
-http://185.22.78.81:8119/play/a003
-#EXTINF:-1,TBNpana
-http://185.22.78.81:8119/play/a004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,#0 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1056.ts
-#EXTINF:-1,A&E
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1028.ts
-#EXTINF:-1,AMC HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1053.ts
-#EXTINF:-1,AXN HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1052.ts
-#EXTINF:-1,AXN White
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1051.ts
-#EXTINF:-1,Extremadura TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1078.ts
-#EXTINF:-1,Antena 3 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1084.ts
-#EXTINF:-1,Lancelot TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1022.ts
-#EXTINF:-1,Barca TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1038.ts
-#EXTINF:-1,Boing
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1015.ts
-#EXTINF:-1,C+trellas
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1046.ts
-#EXTINF:-1,Calle 13 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1049.ts
-#EXTINF:-1,Canal Cocina
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1025.ts
-#EXTINF:-1,Canal Decasa
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1024.ts
-#EXTINF:-1,Canal Panda
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1023.ts
-#EXTINF:-1,Canal SUR
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1057.ts
-#EXTINF:-1,Caza Y Pesca
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1027.ts
-#EXTINF:-1,TV3 Cat
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1019.ts
-#EXTINF:-1,Comedy Central HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1048.ts
-#EXTINF:-1,Cosmo HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1047.ts
-#EXTINF:-1,Cuatro
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1083.ts
-#EXTINF:-1,Discovery HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1030.ts
-#EXTINF:-1,Clan TVE
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1031.ts
-#EXTINF:-1,Disney Channel HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1017.ts
-#EXTINF:-1,Disney XD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1016.ts
-#EXTINF:-1,Energy
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1044.ts
-#EXTINF:-1,EuroNews
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1018.ts
-#EXTINF:-1,EuroSport 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1036.ts
-#EXTINF:-1,Fox News
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1074.ts
-#EXTINF:-1,FDF
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1045.ts
-#EXTINF:-1,Fox HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1055.ts
-#EXTINF:-1,Fox Life HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1054.ts
-#EXTINF:-1,Galicia TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1075.ts
-#EXTINF:-1,Gol TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1040.ts
-#EXTINF:-1,Andalucia TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1039.ts
-#EXTINF:-1,Historia
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1029.ts
-#EXTINF:-1,Hollywood
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1060.ts
-#EXTINF:-1,La 1
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1086.ts
-#EXTINF:-1,La Sexta
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1081.ts
-#EXTINF:-1,LaLiga TV Bar
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1062.ts
-#EXTINF:-1,Mega
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1012.ts
-#EXTINF:-1,MovieStar Accion
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1070.ts
-#EXTINF:-1,MovieStar Comedia
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1069.ts
-#EXTINF:-1,MovieStar DCine
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1068.ts
-#EXTINF:-1,MovieStar Deportes 1
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1064.ts
-#EXTINF:-1,MovieStar Deportes 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1073.ts
-#EXTINF:-1,MovieStartrenos
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1072.ts
-#EXTINF:-1,MovieStar F1
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1035.ts
-#EXTINF:-1,MovieStar Futbol
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1063.ts
-#EXTINF:-1,MovieStar Golf
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1061.ts
-#EXTINF:-1,MovieStar MotoGP HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1041.ts
-#EXTINF:-1,MovieStar Series HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1067.ts
-#EXTINF:-1,MovieStar Series Xtra
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1066.ts
-#EXTINF:-1,MovieStar Toros HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1065.ts
-#EXTINF:-1,MovieStar Xtra
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1071.ts
-#EXTINF:-1,Nat Geo
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1033.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1032.ts
-#EXTINF:-1,Neox
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1079.ts
-#EXTINF:-1,Nick Junior
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1013.ts
-#EXTINF:-1,Nickelodeon HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1014.ts
-#EXTINF:-1,Nova
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1080.ts
-#EXTINF:-1,Odisea HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1034.ts
-#EXTINF:-1,Telecinco HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1077.ts
-#EXTINF:-1,Esperanza TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1020.ts
-#EXTINF:-1,Real Madrid TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1037.ts
-#EXTINF:-1,SyFy HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1050.ts
-#EXTINF:-1,TCM
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1059.ts
-#EXTINF:-1,TNT
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1058.ts
-#EXTINF:-1,TV3 24H
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1021.ts
-#EXTINF:-1,La Sexta HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1076.ts
-#EXTINF:-1,TVE LA 2
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1085.ts
-#EXTINF:-1,Telecinco
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1082.ts
-#EXTINF:-1,Viajar HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1026.ts
-#EXTINF:-1,Antenna 3 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4427.ts
-#EXTINF:-1,AXN FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4414.ts
-#EXTINF:-1,AXN White FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4413.ts
-#EXTINF:-1,C+ Accion FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4409.ts
-#EXTINF:-1,C+ DCine FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4407.ts
-#EXTINF:-1,C+ Dep 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4405.ts
-#EXTINF:-1,C+trenos FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4408.ts
-#EXTINF:-1,C  Series FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4410.ts
-#EXTINF:-1,C+ Xtra FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4411.ts
-#EXTINF:-1,Calle 13 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4416.ts
-#EXTINF:-1,Caza Y Pesca FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4417.ts
-#EXTINF:-1,Cosmo FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4412.ts
-#EXTINF:-1,Cuatro FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4426.ts
-#EXTINF:-1,Disney Channel FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4422.ts
-#EXTINF:-1,Fox FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4415.ts
-#EXTINF:-1,LA 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4428.ts
-#EXTINF:-1,LA Sexta FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4424.ts
-#EXTINF:-1,M  Formula 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4400.ts
-#EXTINF:-1,M+ Futbol FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4406.ts
-#EXTINF:-1,M  Golf  FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4402.ts
-#EXTINF:-1,M  MotoGP FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4399.ts
-#EXTINF:-1,MoviStar F1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4401.ts
-#EXTINF:-1,Nat Geo FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4419.ts
-#EXTINF:-1,Nat Geo Wild FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4418.ts
-#EXTINF:-1,SyFy FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4420.ts
-#EXTINF:-1,Telecinco FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4425.ts
-#EXTINF:-1,Viajar FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4423.ts
-#EXTINF:-1,beIN LA Liga FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4403.ts
-#EXTINF:-1,beIN Sport FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4404.ts
-#EXTINF:-1,beINSport HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1043.ts
-#EXTINF:-1,beINSport LaLiga HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1042.ts
-#EXTINF:-1,Taquilla 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1011.ts
-#EXTINF:-1,Taquilla 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1010.ts
-#EXTINF:-1,Taquilla 3 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1009.ts
-#EXTINF:-1,Taquilla 4 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1008.ts
-#EXTINF:-1,Taquilla 5 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1007.ts
-#EXTINF:-1,Taquilla 6 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1006.ts
-#EXTINF:-1,Taquilla 7 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1005.ts
-#EXTINF:-1,Taquilla 8 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1004.ts
-#EXTINF:-1,Taquilla 9 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1003.ts
-#EXTINF:-1,Taquilla 10 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1002.ts
-#EXTINF:-1,Taquilla 11 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1001.ts
-#EXTINF:-1,Taquilla 12 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/1000.ts
-#EXTINF:-1,Taquilla 13 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/999.ts
-#EXTINF:-1,#0 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6085.ts
-#EXTINF:-1,13 TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6093.ts
-#EXTINF:-1,8TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6094.ts
-#EXTINF:-1,a3series HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6097.ts
-#EXTINF:-1,AMC FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6082.ts
-#EXTINF:-1,Aragon TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6091.ts
-#EXTINF:-1,Baby TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6051.ts
-#EXTINF:-1,Canal Dark
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6078.ts
-#EXTINF:-1,Canal Orbe 21
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6052.ts
-#EXTINF:-1,Cine 3D
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6079.ts
-#EXTINF:-1,Classica
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6042.ts
-#EXTINF:-1,Comedy Central FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6073.ts
-#EXTINF:-1,Crimen e Investigacion
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6058.ts
-#EXTINF:-1,Discovery Channel FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6057.ts
-#EXTINF:-1,Disney Junior
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6050.ts
-#EXTINF:-1,Eurosport 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6065.ts
-#EXTINF:-1,Eurosport 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6064.ts
-#EXTINF:-1,FOX Life FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6075.ts
-#EXTINF:-1,Gol TV HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6066.ts
-#EXTINF:-1,Historia FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6055.ts
-#EXTINF:-1,Hollywood FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6080.ts
-#EXTINF:-1,Iberalia TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6056.ts
-#EXTINF:-1,DKiss TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6040.ts
-#EXTINF:-1,LaLigaTV FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6069.ts
-#EXTINF:-1,Levante TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6092.ts
-#EXTINF:-1,LTC
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6086.ts
-#EXTINF:-1,Mezzo Live FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6043.ts
-#EXTINF:-1,Movistar+ Comedia FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6083.ts
-#EXTINF:-1,Movistar  Deportes 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6071.ts
-#EXTINF:-1,Movistar+ Series Xtra FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6084.ts
-#EXTINF:-1,MTV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6046.ts
-#EXTINF:-1,MTV Rocks
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6045.ts
-#EXTINF:-1,Nickelodeon FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6048.ts
-#EXTINF:-1,Non Stop People
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6041.ts
-#EXTINF:-1,Olympic Channel FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6063.ts
-#EXTINF:-1,Sundance TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6072.ts
-#EXTINF:-1,TCM FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6081.ts
-#EXTINF:-1,TNT FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6074.ts
-#EXTINF:-1,Toros TV FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6067.ts
-#EXTINF:-1,TV Canaria
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6090.ts
-#EXTINF:-1,VH1
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6044.ts
-#EXTINF:-1,World Padel Tour FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6062.ts
-#EXTINF:-1,XTRM
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6076.ts
-
-
-
-
-
-
+#EXTINF:-1,ES: Bein Sports HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3528.ts
+#EXTINF:-1,ES: Bein Sports HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4506.ts
+#EXTINF:-1,ES: Bein Sports SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4493.ts
+#EXTINF:-1,ES: Bein Sports LaLiga HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4534.ts
+#EXTINF:-1,ES: Bein Sports LaLiga HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4505.ts
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4504.ts
+#EXTINF:-1,ES: La Liga TV BAR HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3530.ts
+#EXTINF:-1,ES: La Liga TV BAR HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4447.ts
+#EXTINF:-1,ES: La Liga TV BAR SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4446.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 1
+http://basic.ioiptv.com:8000/live/ruben/ruben/4443.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 2
+http://basic.ioiptv.com:8000/live/ruben/ruben/4442.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 3
+http://basic.ioiptv.com:8000/live/ruben/ruben/4441.ts
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 4
+http://basic.ioiptv.com:8000/live/ruben/ruben/4440.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3519.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4429.ts
+#EXTINF:-1,ES: Movistar  Deportes 1 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4428.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3518.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4427.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4426.ts
+#EXTINF:-1,ES: Movistar  Formula 1 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3522.ts
+#EXTINF:-1,ES: Movistar  Formula 1 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4422.ts
+#EXTINF:-1,ES: Movistar  Formula 1 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4421.ts
+#EXTINF:-1,ES: Movistar  Futbol HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3525.ts
+#EXTINF:-1,ES: Movistar  Futbol HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4420.ts
+#EXTINF:-1,ES: Movistar  Futbol SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4419.ts
+#EXTINF:-1,ES: Movistar  Golf HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3517.ts
+#EXTINF:-1,ES: Movistar  Golf
+http://basic.ioiptv.com:8000/live/ruben/ruben/4418.ts
+#EXTINF:-1,ES: Movistar  Moto GP HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3516.ts
+#EXTINF:-1,ES: Movistar  Moto GP HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4417.ts
+#EXTINF:-1,ES: Movistar  Moto GP SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4416.ts
+#EXTINF:-1,ES: Movistar  Partidazo HD (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/ruben/ruben/3524.ts
+#EXTINF:-1,ES: Movistar  Partidazo HD 720p (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4415.ts
+#EXTINF:-1,ES: Movistar  Partidazo SD (LIVE DURING MATCH)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4414.ts
+#EXTINF:-1,ES: Movistar  eSports HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4425.ts
+#EXTINF:-1,ES: Real Madrid HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3523.ts
+#EXTINF:-1,ES: Real Madrid HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4386.ts
+#EXTINF:-1,ES: Real Madrid SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4385.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3521.ts
+#EXTINF:-1,ES: Eurosport 1 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4466.ts
+#EXTINF:-1,ES: Eurosport 1 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4465.ts
+#EXTINF:-1,ES: Eurosport 2 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3520.ts
+#EXTINF:-1,ES: Eurosport 2 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4464.ts
+#EXTINF:-1,ES: Gol HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3469.ts
+#EXTINF:-1,ES: Gol HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4455.ts
+#EXTINF:-1,ES: Gol SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4454.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4515.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 HD (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4514.ts
+#EXTINF:-1,ES: Bein LaLiga Max 1 SD (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4513.ts
+#EXTINF:-1,ES: Bein LaLiga Max 2 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4512.ts
+#EXTINF:-1,ES: Bein LaLiga Max 2 HD (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4511.ts
+#EXTINF:-1,ES: Bein LaLiga Max 3 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4510.ts
+#EXTINF:-1,ES: Bein LaLiga Max 4 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4509.ts
+#EXTINF:-1,ES: Bein LaLiga Max 5 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4508.ts
+#EXTINF:-1,ES: Bein LaLiga Max 6 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4507.ts
+#EXTINF:-1,ES: Bein Sports Max 1 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4503.ts
+#EXTINF:-1,ES: Bein Sports Max 1 HD (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4502.ts
+#EXTINF:-1,ES: Bein Sports Max 2 HD (720p) (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4501.ts
+#EXTINF:-1,ES: Bein Sports Max 2 HD (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4500.ts
+#EXTINF:-1,ES: Bein Sports Max 3 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4499.ts
+#EXTINF:-1,ES: Bein Sports Max 4 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4498.ts
+#EXTINF:-1,ES: Bein Sports Max 5 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4497.ts
+#EXTINF:-1,ES: Bein Sports Max 6 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4496.ts
+#EXTINF:-1,ES: Bein Sports Max 7 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4495.ts
+#EXTINF:-1,ES: Bein Sports Max 8 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4494.ts
+#EXTINF:-1,ES: Multideporte 1 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4407.ts
+#EXTINF:-1,ES: Multideporte 2 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4406.ts
+#EXTINF:-1,ES: Multideporte 3 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4405.ts
+#EXTINF:-1,ES: Multideporte 4 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4404.ts
+#EXTINF:-1,ES: Multideporte 5 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4403.ts
+#EXTINF:-1,ES: Multifutbol 1 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4402.ts
+#EXTINF:-1,ES: Multifutbol 2 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4401.ts
+#EXTINF:-1,ES: Multifutbol 3 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4400.ts
+#EXTINF:-1,ES: Multifutbol 4 (Match Time)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4399.ts
+#EXTINF:-1,----- ES Entretenimiento -----
+http://basic.ioiptv.com:8000/live/ruben/ruben/3515.ts
+#EXTINF:-1,ES: A&E
+http://basic.ioiptv.com:8000/live/ruben/ruben/4525.ts
+#EXTINF:-1,ES: #0 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3505.ts
+#EXTINF:-1,ES: #0
+http://basic.ioiptv.com:8000/live/ruben/ruben/4532.ts
+#EXTINF:-1,ES: #0 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4531.ts
+#EXTINF:-1,ES: AMC HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3504.ts
+#EXTINF:-1,ES: AMC HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4524.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3503.ts
+#EXTINF:-1,ES: Antena 3 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4522.ts
+#EXTINF:-1,ES: Antena 3 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4521.ts
+#EXTINF:-1,ES: AXN HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3502.ts
+#EXTINF:-1,ES: AXN HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4519.ts
+#EXTINF:-1,ES: AXN SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4518.ts
+#EXTINF:-1,ES: AXN White HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3501.ts
+#EXTINF:-1,ES: AXN White HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4517.ts
+#EXTINF:-1,ES: AXN White SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4516.ts
+#EXTINF:-1,ES: Comedy Central HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3499.ts
+#EXTINF:-1,ES: Comedy Central HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4483.ts
+#EXTINF:-1,ES: Comedy Central SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4482.ts
+#EXTINF:-1,ES: Crime & Investigation
+http://basic.ioiptv.com:8000/live/ruben/ruben/3483.ts
+#EXTINF:-1,ES: Dark
+http://basic.ioiptv.com:8000/live/ruben/ruben/3514.ts
+#EXTINF:-1,ES: Discovery Channel HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3490.ts
+#EXTINF:-1,ES: Discovery Channel (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4478.ts
+#EXTINF:-1,ES: Discovery Channel SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4477.ts
+#EXTINF:-1,ES: Discovery Max
+http://basic.ioiptv.com:8000/live/ruben/ruben/4476.ts
+#EXTINF:-1,ES: Fox HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3497.ts
+#EXTINF:-1,ES: Fox HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4461.ts
+#EXTINF:-1,ES: Fox SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4458.ts
+#EXTINF:-1,ES: Fox Life HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3496.ts
+#EXTINF:-1,ES: Fox Life HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4460.ts
+#EXTINF:-1,ES: Fox Life SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4459.ts
+#EXTINF:-1,ES: Historia HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3489.ts
+#EXTINF:-1,ES: Historia HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4453.ts
+#EXTINF:-1,ES: Hollywood HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3513.ts
+#EXTINF:-1,ES: Hollywood
+http://basic.ioiptv.com:8000/live/ruben/ruben/4452.ts
+#EXTINF:-1,ES: Movistar  Accion HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3512.ts
+#EXTINF:-1,ES: Movistar  Accion HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4436.ts
+#EXTINF:-1,ES: Movistar  Accion SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4435.ts
+#EXTINF:-1,ES: Movistar  Comedia HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3511.ts
+#EXTINF:-1,ES: Movistar  Comedia HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4433.ts
+#EXTINF:-1,ES: Movistar  Comedia SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4432.ts
+#EXTINF:-1,ES: Movistar  Dcine HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3510.ts
+#EXTINF:-1,ES: Movistar  Dcine HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4431.ts
+#EXTINF:-1,ES: Movistar  Dcine SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4430.ts
+#EXTINF:-1,ES: Movistar  Cine N
+http://basic.ioiptv.com:8000/live/ruben/ruben/4434.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3509.ts
+#EXTINF:-1,ES: Movistar  Estrenos HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4424.ts
+#EXTINF:-1,ES: Movistar  Estrenos SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4423.ts
+#EXTINF:-1,ES: Movistar  Series HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3495.ts
+#EXTINF:-1,ES: Movistar  Series HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4413.ts
+#EXTINF:-1,ES: Movistar  Series SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4412.ts
+#EXTINF:-1,ES: Movistar  Series Xtra HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3494.ts
+#EXTINF:-1,ES: Movistar  Series Xtra HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4411.ts
+#EXTINF:-1,ES: Movistar  Series Xtra SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4410.ts
+#EXTINF:-1,ES: Movistar  Xtra HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3508.ts
+#EXTINF:-1,ES: Movistar  Xtra HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4408.ts
+#EXTINF:-1,ES: Movistar  Xtra
+http://basic.ioiptv.com:8000/live/ruben/ruben/4409.ts
+#EXTINF:-1,ES: MTV Espana
+http://basic.ioiptv.com:8000/live/ruben/ruben/3493.ts
+#EXTINF:-1,ES: MTV Rocks
+http://basic.ioiptv.com:8000/live/ruben/ruben/3453.ts
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3488.ts
+#EXTINF:-1,ES: Nat Geo Wild HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4398.ts
+#EXTINF:-1,ES: Nat Geo Wild SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4397.ts
+#EXTINF:-1,ES: National Geoghraphic HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3487.ts
+#EXTINF:-1,ES: National Geoghraphic HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4396.ts
+#EXTINF:-1,ES: National Geoghraphic SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4395.ts
+#EXTINF:-1,ES: Paramount Channel
+http://basic.ioiptv.com:8000/live/ruben/ruben/4387.ts
+#EXTINF:-1,ES: Sundance TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/3507.ts
+#EXTINF:-1,ES: SyFy HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3492.ts
+#EXTINF:-1,ES: SYFY HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4383.ts
+#EXTINF:-1,ES: SyFy SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4382.ts
+#EXTINF:-1,ES: TCM HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3506.ts
+#EXTINF:-1,ES: TCM HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4381.ts
+#EXTINF:-1,ES: TCM SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4380.ts
+#EXTINF:-1,ES: Televisa HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3452.ts
+#EXTINF:-1,ES: TNT HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3491.ts
+#EXTINF:-1,ES: TNT HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4373.ts
+#EXTINF:-1,ES: TNT SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4372.ts
+#EXTINF:-1,ES: Toros HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3451.ts
+#EXTINF:-1,ES: Toros HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4370.ts
+#EXTINF:-1,ES: Toros
+http://basic.ioiptv.com:8000/live/ruben/ruben/4371.ts
+#EXTINF:-1,ES: Travel HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4533.ts
+#EXTINF:-1,----- ES Infantil -----
+http://basic.ioiptv.com:8000/live/ruben/ruben/3480.ts
+#EXTINF:-1,ES: Baby TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/3479.ts
+#EXTINF:-1,ES: Boing
+http://basic.ioiptv.com:8000/live/ruben/ruben/4491.ts
+#EXTINF:-1,ES: Canal Panda
+http://basic.ioiptv.com:8000/live/ruben/ruben/3478.ts
+#EXTINF:-1,ES: Disney Channel HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3477.ts
+#EXTINF:-1,ES: Disney Channel HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4475.ts
+#EXTINF:-1,ES: Disney Channel SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4474.ts
+#EXTINF:-1,ES: Disney Junior
+http://basic.ioiptv.com:8000/live/ruben/ruben/3476.ts
+#EXTINF:-1,ES: Disney XD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4473.ts
+#EXTINF:-1,ES: Nick JR
+http://basic.ioiptv.com:8000/live/ruben/ruben/3475.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3474.ts
+#EXTINF:-1,ES: Nickelodeon
+http://basic.ioiptv.com:8000/live/ruben/ruben/4393.ts
+#EXTINF:-1,----- ES Varios -----
+http://basic.ioiptv.com:8000/live/ruben/ruben/3473.ts
+#EXTINF:-1,ES: 24H
+http://basic.ioiptv.com:8000/live/ruben/ruben/4530.ts
+#EXTINF:-1,ES: 3/24 CAT
+http://basic.ioiptv.com:8000/live/ruben/ruben/4529.ts
+#EXTINF:-1,ES: 8TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4526.ts
+#EXTINF:-1,ES: A3series HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4536.ts
+#EXTINF:-1,ES: Andalucia TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4523.ts
+#EXTINF:-1,ES: Aragon TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4520.ts
+#EXTINF:-1,ES: Atreseries HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4535.ts
+#EXTINF:-1,ES: Barca TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/3462.ts
+#EXTINF:-1,ES: Be Mad TV HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3471.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3500.ts
+#EXTINF:-1,ES: Calle 13
+http://basic.ioiptv.com:8000/live/ruben/ruben/4490.ts
+#EXTINF:-1,ES: Canal Cocina
+http://basic.ioiptv.com:8000/live/ruben/ruben/3484.ts
+#EXTINF:-1,ES: Canal Sur HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3461.ts
+#EXTINF:-1,ES: Canal Sur
+http://basic.ioiptv.com:8000/live/ruben/ruben/4488.ts
+#EXTINF:-1,ES: Castilla La Mancha Media
+http://basic.ioiptv.com:8000/live/ruben/ruben/4487.ts
+#EXTINF:-1,ES: Caza y Pesca HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3460.ts
+#EXTINF:-1,ES: Caza y Pesca HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4486.ts
+#EXTINF:-1,ES: Classica HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3459.ts
+#EXTINF:-1,ES: Classica
+http://basic.ioiptv.com:8000/live/ruben/ruben/4484.ts
+#EXTINF:-1,ES: Cosmo TV HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3498.ts
+#EXTINF:-1,ES: Cosmo TV HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4481.ts
+#EXTINF:-1,ES: Cosmo TV SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4480.ts
+#EXTINF:-1,ES: Cuatro HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3470.ts
+#EXTINF:-1,ES: Cuatro HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4479.ts
+#EXTINF:-1,ES: Clan TVE
+http://basic.ioiptv.com:8000/live/ruben/ruben/4485.ts
+#EXTINF:-1,ES: Decasa
+http://basic.ioiptv.com:8000/live/ruben/ruben/3482.ts
+#EXTINF:-1,ES: Dkiss
+http://basic.ioiptv.com:8000/live/ruben/ruben/3458.ts
+#EXTINF:-1,ES: Divinity
+http://basic.ioiptv.com:8000/live/ruben/ruben/4472.ts
+#EXTINF:-1,ES: El Correo TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4471.ts
+#EXTINF:-1,ES: El Garage TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/3481.ts
+#EXTINF:-1,ES: Energy
+http://basic.ioiptv.com:8000/live/ruben/ruben/4469.ts
+#EXTINF:-1,ES: Esport 3 CAT
+http://basic.ioiptv.com:8000/live/ruben/ruben/4468.ts
+#EXTINF:-1,ES: ETB1
+http://basic.ioiptv.com:8000/live/ruben/ruben/4467.ts
+#EXTINF:-1,ES: Extremadura TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4463.ts
+#EXTINF:-1,ES: FDF
+http://basic.ioiptv.com:8000/live/ruben/ruben/4462.ts
+#EXTINF:-1,ES: Galicia TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4456.ts
+#EXTINF:-1,ES: Interconomia
+http://basic.ioiptv.com:8000/live/ruben/ruben/4451.ts
+#EXTINF:-1,ES: IB3 HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3457.ts
+#EXTINF:-1,ES: Iberalia
+http://basic.ioiptv.com:8000/live/ruben/ruben/3456.ts
+#EXTINF:-1,ES: Intereconomia
+http://basic.ioiptv.com:8000/live/ruben/ruben/3455.ts
+#EXTINF:-1,ES: Lancelot TV
+http://basic.ioiptv.com:8000/live/ruben/ruben/4439.ts
+#EXTINF:-1,ES: LA 1 
+http://basic.ioiptv.com:8000/live/ruben/ruben/3472.ts
+#EXTINF:-1,ES: LA 1 HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4450.ts
+#EXTINF:-1,ES: LA 1 SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4449.ts
+#EXTINF:-1,ES: LA 2
+http://basic.ioiptv.com:8000/live/ruben/ruben/4448.ts
+#EXTINF:-1,ES: La Sexta HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3468.ts
+#EXTINF:-1,ES: La Sexta HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4445.ts
+#EXTINF:-1,ES: La Sexta SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4444.ts
+#EXTINF:-1,ES: Mega HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3467.ts
+#EXTINF:-1,ES: Mega HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4438.ts
+#EXTINF:-1,ES: Mezzo Live HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3454.ts
+#EXTINF:-1,ES: Mezzo Live HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4437.ts
+#EXTINF:-1,ES: Neox
+http://basic.ioiptv.com:8000/live/ruben/ruben/4394.ts
+#EXTINF:-1,ES: Nova
+http://basic.ioiptv.com:8000/live/ruben/ruben/4391.ts
+#EXTINF:-1,ES: Non Stop People
+http://basic.ioiptv.com:8000/live/ruben/ruben/3531.ts
+#EXTINF:-1,ES: Nonstopeople
+http://basic.ioiptv.com:8000/live/ruben/ruben/4392.ts
+#EXTINF:-1,ES: Odisea HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3486.ts
+#EXTINF:-1,ES: Odisea HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4390.ts
+#EXTINF:-1,ES: Odisea SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4389.ts
+#EXTINF:-1,ES: Onda Azul
+http://basic.ioiptv.com:8000/live/ruben/ruben/4388.ts
+#EXTINF:-1,ES: Super3. CAT HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3463.ts
+#EXTINF:-1,ES: Telecinco HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3466.ts
+#EXTINF:-1,ES: Telecinco HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4379.ts
+#EXTINF:-1,ES: Telecinco SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4378.ts
+#EXTINF:-1,ES: Teledeporte HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3465.ts
+#EXTINF:-1,ES: Teledeporte HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4377.ts
+#EXTINF:-1,ES: Teledeporte SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4376.ts
+#EXTINF:-1,ES: TV3. CAT HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3464.ts
+#EXTINF:-1,ES: Viajar HD
+http://basic.ioiptv.com:8000/live/ruben/ruben/3485.ts
+#EXTINF:-1,ES: Viajar HD (720p)
+http://basic.ioiptv.com:8000/live/ruben/ruben/4367.ts
+#EXTINF:-1,ES: Viajar SD
+http://basic.ioiptv.com:8000/live/ruben/ruben/4366.ts
+#EXTINF:-1,ES: Sevilla FC
+http://basic.ioiptv.com:8000/live/ruben/ruben/4384.ts
+#EXTINF:-1,ES: Telesur
+http://basic.ioiptv.com:8000/live/ruben/ruben/4375.ts
+#EXTINF:-1,ES: TEN
+http://basic.ioiptv.com:8000/live/ruben/ruben/4374.ts
+#EXTINF:-1,ES: VH1
+http://basic.ioiptv.com:8000/live/ruben/ruben/4369.ts
+#EXTINF:-1,ES: VH1 Classic
+http://basic.ioiptv.com:8000/live/ruben/ruben/4368.ts
 
 
 
