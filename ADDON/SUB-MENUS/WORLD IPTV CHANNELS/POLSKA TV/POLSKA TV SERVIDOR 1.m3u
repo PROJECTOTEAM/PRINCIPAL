@@ -1,387 +1,96 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 31-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-#EXTINF:-1,13 Ulica FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/865.ts
-#EXTINF:-1,13 Ulica
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6878.ts
-#EXTINF:-1,4Fun TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4562.ts
-#EXTINF:-1,ATM Rozrywka TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/958.ts
-#EXTINF:-1,AXN Black
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/956.ts
-#EXTINF:-1,AXN HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/957.ts
-#EXTINF:-1,AXN Spin FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/955.ts
-#EXTINF:-1,AXN Spin
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6875.ts
-#EXTINF:-1,AXN White
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/954.ts
-#EXTINF:-1,Active Family
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/962.ts
-#EXTINF:-1,Adventure HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/961.ts
-#EXTINF:-1,Ale Kino+ FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/960.ts
-#EXTINF:-1,Ale Kino+ HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6873.ts
-#EXTINF:-1,Amazing
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4561.ts
-#EXTINF:-1,Animalanet HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/959.ts
-#EXTINF:-1,BBC Earth
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4560.ts
-#EXTINF:-1,BBC HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4559.ts
-#EXTINF:-1,Boomerang
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/843.ts
-#EXTINF:-1,CBS Action
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/943.ts
-#EXTINF:-1,CBS Europa FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/863.ts
-#EXTINF:-1,CBS Reality
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/942.ts
-#EXTINF:-1,Canal+ 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/949.ts
-#EXTINF:-1,Canal+ FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/947.ts
-#EXTINF:-1,Canal+ Family HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/953.ts
-#EXTINF:-1,Canal+ Film HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/952.ts
-#EXTINF:-1,Canal+ HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/948.ts
-#EXTINF:-1,Canal+ Seriale HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/951.ts
-#EXTINF:-1,Canal+ Sport 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6871.ts
-#EXTINF:-1,Canal+ Sport 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/950.ts
-#EXTINF:-1,Canal+ Sport FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/944.ts
-#EXTINF:-1,Canal+ Sport HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/945.ts
-#EXTINF:-1,Canal+ Sport
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/946.ts
-#EXTINF:-1,Cartoon Network HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/864.ts
-#EXTINF:-1,Cbeebies
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4558.ts
-#EXTINF:-1,CineMax 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/941.ts
-#EXTINF:-1,CineMax 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6872.ts
-#EXTINF:-1,Cinemax 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4557.ts
-#EXTINF:-1,Comedy Central Family
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4555.ts
-#EXTINF:-1,Comedy Central
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4556.ts
-#EXTINF:-1,DTX
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/934.ts
-#EXTINF:-1,Da Vinci Learning
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/940.ts
-#EXTINF:-1,Disco Polo Music
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4554.ts
-#EXTINF:-1,Discovery Channel FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/939.ts
-#EXTINF:-1,Discovery Channel HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6425.ts
-#EXTINF:-1,Discovery Historia
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/938.ts
-#EXTINF:-1,Discovery Life FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/937.ts
-#EXTINF:-1,Discovery Life
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6874.ts
-#EXTINF:-1,Discovery Science HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/936.ts
-#EXTINF:-1,Disney Channel HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/963.ts
-#EXTINF:-1,Disney Junior
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/862.ts
-#EXTINF:-1,Disney XD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/935.ts
-#EXTINF:-1,E! FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/933.ts
-#EXTINF:-1,ESKA TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4553.ts
-#EXTINF:-1,Eleven Extra FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/932.ts
-#EXTINF:-1,Eleven FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/931.ts
-#EXTINF:-1,Eleven Sports FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/929.ts
-#EXTINF:-1,Eleven Sports HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/930.ts
-#EXTINF:-1,EuroSport 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/861.ts
-#EXTINF:-1,EuroSport 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/928.ts
-#EXTINF:-1,EuroSport 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/860.ts
-#EXTINF:-1,Extreme Sports FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/859.ts
-#EXTINF:-1,Fight Network FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/901.ts
-#EXTINF:-1,Fightbox FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/858.ts
-#EXTINF:-1,Fightbox
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6877.ts
-#EXTINF:-1,Filmbox Action
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/926.ts
-#EXTINF:-1,Filmbox Arthouse
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/925.ts
-#EXTINF:-1,Filmbox Extra FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/871.ts
-#EXTINF:-1,Filmbox Family
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/924.ts
-#EXTINF:-1,Filmbox HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/927.ts
-#EXTINF:-1,Filmbox Premium HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/923.ts
-#EXTINF:-1,Fokus TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4552.ts
-#EXTINF:-1,Fox Comedy
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4551.ts
-#EXTINF:-1,H2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/857.ts
-#EXTINF:-1,HBO 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/856.ts
-#EXTINF:-1,HBO 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/922.ts
-#EXTINF:-1,HBO 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6889.ts
-#EXTINF:-1,HBO 3 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/921.ts
-#EXTINF:-1,HGTV FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6888.ts
-#EXTINF:-1,HGTV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/920.ts
-#EXTINF:-1,HIP HOP TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4550.ts
-#EXTINF:-1,History
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/919.ts
-#EXTINF:-1,JimJam
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4549.ts
-#EXTINF:-1,Kino Polska Muzyka
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/918.ts
-#EXTINF:-1,Kino Polska
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4548.ts
-#EXTINF:-1,Kuchnia+ HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/917.ts
-#EXTINF:-1,Lech TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4547.ts
-#EXTINF:-1,Lifetime FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/855.ts
-#EXTINF:-1,MTV Polska
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4545.ts
-#EXTINF:-1,Metro
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4546.ts
-#EXTINF:-1,MiniMini+ FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6436.ts
-#EXTINF:-1,MiniMini+ HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/854.ts
-#EXTINF:-1,Motorwizja
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/916.ts
-#EXTINF:-1,Nat Geo FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/852.ts
-#EXTINF:-1,Nat Geo
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/914.ts
-#EXTINF:-1,Nat Geo People FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/853.ts
-#EXTINF:-1,Nat Geo Wild
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/915.ts
-#EXTINF:-1,Nick JR.
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4544.ts
-#EXTINF:-1,Nickelodeon
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4543.ts
-#EXTINF:-1,Paramount Channel HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4542.ts
-#EXTINF:-1,Planete+ FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/913.ts
-#EXTINF:-1,Planete+
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6887.ts
-#EXTINF:-1,Polo TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/912.ts
-#EXTINF:-1,Polsat 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6430.ts
-#EXTINF:-1,Polsat 2 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/910.ts
-#EXTINF:-1,Polsat 2
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6429.ts
-#EXTINF:-1,Polsat Cafe HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/909.ts
-#EXTINF:-1,Polsat Fight Club
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6433.ts
-#EXTINF:-1,Polsat Fight Sport FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6434.ts
-#EXTINF:-1,Polsat Fight Sport HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6432.ts
-#EXTINF:-1,Polsat Film FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/870.ts
-#EXTINF:-1,Polsat Film HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6879.ts
-#EXTINF:-1,Polsat Film
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/908.ts
-#EXTINF:-1,Polsat News 2
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4541.ts
-#EXTINF:-1,Polsat News FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/907.ts
-#EXTINF:-1,Polsat News
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6886.ts
-#EXTINF:-1,Polsat
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/911.ts
-#EXTINF:-1,Polsatay FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6428.ts
-#EXTINF:-1,Polsatay HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/841.ts
-#EXTINF:-1,Polsatay
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/906.ts
-#EXTINF:-1,Polsat Sport Extra FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6435.ts
-#EXTINF:-1,Polsat Sport Extra HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/904.ts
-#EXTINF:-1,Polsat Sport Extra
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6885.ts
-#EXTINF:-1,Polsat Sport Fight HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/851.ts
-#EXTINF:-1,Polsat Sport HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/905.ts
-#EXTINF:-1,Polsat Sport News HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/850.ts
-#EXTINF:-1,Polsat Viasat Explore FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/903.ts
-#EXTINF:-1,Polsat Viasat Nature
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6109.ts
-#EXTINF:-1,Puls 2
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/902.ts
-#EXTINF:-1,Romance
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4540.ts
-#EXTINF:-1,SciFi Universal
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/849.ts
-#EXTINF:-1,Sport Klub
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4539.ts
-#EXTINF:-1,Stars TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/848.ts
-#EXTINF:-1,Stopklatka TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/900.ts
-#EXTINF:-1,Sundance FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/847.ts
-#EXTINF:-1,Super Polsat FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/899.ts
-#EXTINF:-1,TLC FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/846.ts
-#EXTINF:-1,TLC
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6876.ts
-#EXTINF:-1,TNT FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/845.ts
-#EXTINF:-1,TNT HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6427.ts
-#EXTINF:-1,TNT
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/897.ts
-#EXTINF:-1,TV 4 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/869.ts
-#EXTINF:-1,TV Puls HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/896.ts
-#EXTINF:-1,TV Republika
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/895.ts
-#EXTINF:-1,TV Trwam
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4537.ts
-#EXTINF:-1,TV4 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/894.ts
-#EXTINF:-1,TV6 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6437.ts
-#EXTINF:-1,TV6 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/893.ts
-#EXTINF:-1,TVN 24 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/891.ts
-#EXTINF:-1,TVN 24 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/837.ts
-#EXTINF:-1,TVN 24
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6882.ts
-#EXTINF:-1,TVN 7 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/890.ts
-#EXTINF:-1,TVN 7 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6881.ts
-#EXTINF:-1,TVN FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/839.ts
-#EXTINF:-1,TVN Fabula HD 1080P
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/840.ts
-#EXTINF:-1,TVN HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/892.ts
-#EXTINF:-1,TVN Style
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/889.ts
-#EXTINF:-1,TVN Turbo FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/888.ts
-#EXTINF:-1,TVN Turbo
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6880.ts
-#EXTINF:-1,TVN24 BiS
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/887.ts
-#EXTINF:-1,TVP 1 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/868.ts
-#EXTINF:-1,TVP 1 HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6431.ts
-#EXTINF:-1,TVP 2 FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/867.ts
-#EXTINF:-1,TVP 3
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/838.ts
-#EXTINF:-1,TVP ABC
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/886.ts
-#EXTINF:-1,TVP FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6426.ts
-#EXTINF:-1,TVP HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6419.ts
-#EXTINF:-1,TVP Historia
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4536.ts
-#EXTINF:-1,TVP Info
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4535.ts
-#EXTINF:-1,TVP Kultura
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/884.ts
-#EXTINF:-1,TVP Rozrywka
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/883.ts
-#EXTINF:-1,TVP Seriale
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/882.ts
-#EXTINF:-1,TVP Sport HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/866.ts
-#EXTINF:-1,TVS
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/881.ts
-#EXTINF:-1,TeleToon+ FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/898.ts
-#EXTINF:-1,TeleToon+
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/6883.ts
-#EXTINF:-1,Travel HD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4538.ts
-#EXTINF:-1,Universal FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/844.ts
-#EXTINF:-1,VIVA Polska
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4534.ts
-#EXTINF:-1,VOD 202
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/880.ts
-#EXTINF:-1,VOD 204
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/874.ts
-#EXTINF:-1,VOD 205
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/879.ts
-#EXTINF:-1,VOD 206
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/878.ts
-#EXTINF:-1,VOD 207
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/877.ts
-#EXTINF:-1,VOD 208
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/876.ts
-#EXTINF:-1,VOD 212
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/875.ts
-#EXTINF:-1,VOX Music TV
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/873.ts
-#EXTINF:-1,WTK
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/4533.ts
-#EXTINF:-1,nSport FHD
-http://portal.geniptv.com:8080/live/messef/ao539EpinD/842.ts
-
-
-
-
+#EXTINF:-1,PL | 13 ULICA
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23215.ts
+#EXTINF:-1,PL | ALE KINO  HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23214.ts
+#EXTINF:-1,PL | AMAZING
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23213.ts
+#EXTINF:-1,PL | ANIMAL PLANET
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23212.ts
+#EXTINF:-1,PL | ATM Rozrywka
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23211.ts
+#EXTINF:-1,PL | AXN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23210.ts
+#EXTINF:-1,PL | AXN BLACK
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23209.ts
+#EXTINF:-1,PL | AXN SPIN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23208.ts
+#EXTINF:-1,PL |  Polsat Play HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/23216.ts
+#EXTINF:-1,------ Pink Channel (Serbia) -----
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14917.ts
+#EXTINF:-1,CO:  Canal Antiestres
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14897.ts
+#EXTINF:-1,CO:  Cosmovision
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14896.ts
+#EXTINF:-1,CO: Cable Noticias
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14895.ts
+#EXTINF:-1,CO: Canal U
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14894.ts
+#EXTINF:-1,CO: Cantinazo
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14893.ts
+#EXTINF:-1,CO: El Tiempo
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14892.ts
+#EXTINF:-1,CO: Lifedesign
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14891.ts
+#EXTINF:-1,CO: Mi Musica HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14890.ts
+#EXTINF:-1,CO: RCN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14889.ts
+#EXTINF:-1,CO: Tele Vida
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14888.ts
+#EXTINF:-1,CO: Teleantioquia
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14887.ts
+#EXTINF:-1,CO: Teleislas
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14886.ts
+#EXTINF:-1,CO: Telemedellin
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14885.ts
+#EXTINF:-1,CO: Tigo Music
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14884.ts
+#EXTINF:-1,CO: Trendy Musica
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14883.ts
+#EXTINF:-1,CO: TV Agro
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14882.ts
+#EXTINF:-1,PINK
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14916.ts
+#EXTINF:-1,PINK 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14915.ts
+#EXTINF:-1,PINK 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14914.ts
+#EXTINF:-1,PINK ACTION
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14911.ts
+#EXTINF:-1,PINK COMEDY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14910.ts
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14905.ts
+#EXTINF:-1,PINK FILM
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14912.ts
+#EXTINF:-1,PINK HORROR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14904.ts
+#EXTINF:-1,PINK Kids
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14898.ts
+#EXTINF:-1,PINK PEDIA
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14901.ts
+#EXTINF:-1,PINK PLUS
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14913.ts
+#EXTINF:-1,PINK PREMIUM
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14902.ts
+#EXTINF:-1,PINK REALITY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14903.ts
+#EXTINF:-1,PINK ROMANCE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14909.ts
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14906.ts
+#EXTINF:-1,PINK SOAP
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14899.ts
+#EXTINF:-1,PINK THRILLER
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14907.ts
+#EXTINF:-1,PINK WESTERN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14908.ts
+#EXTINF:-1,PINK ZABAVA
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14900.ts
 

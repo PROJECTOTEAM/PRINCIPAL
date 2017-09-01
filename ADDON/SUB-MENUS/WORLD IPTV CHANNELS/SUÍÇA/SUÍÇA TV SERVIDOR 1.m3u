@@ -3,31 +3,38 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 31-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,STV Nyheter SE
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/14045.ts
-#EXTINF:-1,Suisse: 3+
-https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
-#EXTINF:-1,Suisse: SRF 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13626.ts
-#EXTINF:-1,Suisse: SRF 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13627.ts
-#EXTINF:-1,Suisse: SRF Info
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13827.ts
-#EXTINF:-1,Suisse: Teleclub Cinema
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13630.ts
-#EXTINF:-1,Suisse: Teleclub Prime HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13632.ts
-#EXTINF:-1,Suisse: TeleClub Sport 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13631.ts
-#EXTINF:-1,Suisse: TeleClub Sport Flash HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13629.ts
-#EXTINF:-1,Suisse: Teleclub Sports Flash HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15075.ts
-#EXTINF:-1,Suisse: TeleClub Star
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13633.ts
+#EXTINF:-1,CH : Rts 1 HD (vip)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14954.ts
+#EXTINF:-1,CH : Rts 2 HD (vip)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14953.ts
+#EXTINF:-1,CH : Srf 1 HD (vip)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14952.ts
+#EXTINF:-1,CH : SRF 2 HD SRF zwei HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14951.ts
+#EXTINF:-1,CH : Teleclub Star
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14946.ts
+#EXTINF:-1,CH:  Teleclub Sport 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14945.ts
+#EXTINF:-1,CH: Srf 2 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14949.ts
+#EXTINF:-1,CH: Teleclub Cinema
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14947.ts
+#EXTINF:-1,CH: Teleclub Prime
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14948.ts
+#EXTINF:-1,CH: Teleclub Sport 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14944.ts
+#EXTINF:-1,CH: Teleclub Sports news Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14943.ts
+#EXTINF:-1,Rsi La 1 HD (vip)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14956.ts
+#EXTINF:-1,Rsi La 1 Hd*
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14958.ts
+#EXTINF:-1,Rsi La 2 HD (vip)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14955.ts
+#EXTINF:-1,Rsi La 2 Hd *
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14957.ts

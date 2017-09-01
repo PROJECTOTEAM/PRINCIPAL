@@ -1,233 +1,455 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 31-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-
-#EXTINF:-1,FR : 13eme Rue
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8652.ts
-#EXTINF:-1,FR : 6TER
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8649.ts
-#EXTINF:-1,FR : AB3
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8659.ts
-#EXTINF:-1,FR : CHERIE 25 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8656.ts
-#EXTINF:-1,FR : Cine Premiere
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8668.ts
-#EXTINF:-1,FR : D17
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8661.ts
-#EXTINF:-1,FR : D8
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8660.ts
-#EXTINF:-1,FR : NRJ12
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8651.ts
-#EXTINF:-1,FR : NT1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8650.ts
-#EXTINF:-1,FR : RTL9
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8647.ts
-#EXTINF:-1,FR : Serie Club
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8655.ts
-#EXTINF:-1,FR : Syfy
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8646.ts
-#EXTINF:-1,FR : TF1 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8644.ts
-#EXTINF:-1,FR : Tmc
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8666.ts
-#EXTINF:-1,FR : W9
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8645.ts
-#EXTINF:-1,FR:  Enorme TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8657.ts
-#EXTINF:-1,FR: 13 Rue
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/17601.ts
-#EXTINF:-1,FR: 6Ter HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9425.ts
+#EXTINF:-1,FR: France 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14805.ts
+#EXTINF:-1,FR: France3 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14804.ts
+#EXTINF:-1,FR: France 4 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14803.ts
+#EXTINF:-1,FR: France 5 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14802.ts
+#EXTINF:-1,FR: France O Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14806.ts
+#EXTINF:-1,FR: M6 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14784.ts
+#EXTINF:-1,FR: TV5 Monde HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14808.ts
+#EXTINF:-1,FR: RTL9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14801.ts
+#EXTINF:-1,FR: Foot  24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14761.ts
+#EXTINF:-1,FR: France 24 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14807.ts
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14772.ts
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14771.ts
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14770.ts
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14769.ts
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14768.ts
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14767.ts
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14766.ts
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14765.ts
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14764.ts
+#EXTINF:-1,FR: A LA CARTE 10 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14763.ts
+#EXTINF:-1,FR: Bein Sport 1 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14759.ts
+#EXTINF:-1,FR: Bein Sport 2 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14758.ts
+#EXTINF:-1,FR: Bein Sport 3 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14757.ts
+#EXTINF:-1,FR: Bfm Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14798.ts
+#EXTINF:-1,FR: C  Cinema HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14795.ts
+#EXTINF:-1,FR: C  Comedie
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14794.ts
+#EXTINF:-1,FR: C  Decale Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14793.ts
+#EXTINF:-1,FR: C  Family Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14792.ts
+#EXTINF:-1,FR: C  Frisson HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14791.ts
+#EXTINF:-1,FR: C  Paris Premiere
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14789.ts
+#EXTINF:-1,FR: C  Premier Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14788.ts
+#EXTINF:-1,FR: C  Series Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14786.ts
+#EXTINF:-1,FR: C  Syfy HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14787.ts
+#EXTINF:-1,FR: CANAL PLAY 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14782.ts
+#EXTINF:-1,FR: CANAL PLAY 10
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14773.ts
+#EXTINF:-1,FR: CANAL PLAY 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14781.ts
+#EXTINF:-1,FR: CANAL PLAY 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14780.ts
+#EXTINF:-1,FR: CANAL PLAY 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14779.ts
+#EXTINF:-1,FR: CANAL PLAY 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14778.ts
+#EXTINF:-1,FR: CANAL PLAY 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14777.ts
+#EXTINF:-1,FR: CANAL PLAY 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14776.ts
+#EXTINF:-1,FR: CANAL PLAY 8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14775.ts
+#EXTINF:-1,FR: CANAL PLAY 9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14774.ts
+#EXTINF:-1,FR: Chasse & Pesche
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14785.ts
+#EXTINF:-1,FR: Gulli
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14797.ts
+#EXTINF:-1,FR: NRJ12
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14783.ts
+#EXTINF:-1,FR: Rmc Decouverte HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14799.ts
+#EXTINF:-1,FR: Sky Arte Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14796.ts
+#EXTINF:-1,FR: TF1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14809.ts
+#EXTINF:-1,FR: W9 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14800.ts
+#EXTINF:-1,FR:C  Planete Crime Inv HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14790.ts
+#EXTINF:-1,Bein-Sport 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14562.ts
+#EXTINF:-1,Bein-Sport 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14561.ts
+#EXTINF:-1,FR_ BEIN SPORT 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14565.ts
+#EXTINF:-1,FR_ BEIN SPORT 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14564.ts
+#EXTINF:-1,FR_ BEIN SPORT 3 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14563.ts
+#EXTINF:-1,FR : Moteur HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22244.ts
+#EXTINF:-1,FR | 13EME RUE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22200.ts
+#EXTINF:-1,FR | 6 TER
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22199.ts
+#EXTINF:-1,FR | AB MOTEURS
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22198.ts
+#EXTINF:-1,FR | AB1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22192.ts
+#EXTINF:-1,FR | AB3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22191.ts
+#EXTINF:-1,FR | ACTION
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22197.ts
+#EXTINF:-1,FR | ANIMAUX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22196.ts
+#EXTINF:-1,FR | ARTE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22195.ts
+#EXTINF:-1,FR | Bein Sport Max 10
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22190.ts
+#EXTINF:-1,FR | Bein Sport Max 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22189.ts
+#EXTINF:-1,FR | Bein Sport Max 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22188.ts
+#EXTINF:-1,FR | Bein Sport Max 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22187.ts
+#EXTINF:-1,FR | Bein Sport Max 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22186.ts
+#EXTINF:-1,FR | Bein Sport Max 8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22185.ts
+#EXTINF:-1,FR | Bein Sport Max 9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22184.ts
+#EXTINF:-1,FR | Bein Sports 1 HD ( 1080P )
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22183.ts
+#EXTINF:-1,FR | beIN SPORTS 2HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22182.ts
+#EXTINF:-1,FR | beIN SPORTS 3HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22181.ts
+#EXTINF:-1,FR | BFM TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22180.ts
+#EXTINF:-1,FR | BOING
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22194.ts
+#EXTINF:-1,FR | BOOMERANG HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22179.ts
+#EXTINF:-1,FR | BRAVA HD ( 1080P )
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22178.ts
+#EXTINF:-1,FR | C STAR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22193.ts
+#EXTINF:-1,FR | C8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22120.ts
+#EXTINF:-1,FR | CANAL  CINEMA
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22119.ts
+#EXTINF:-1,FR | CANAL  FAMILY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22118.ts
+#EXTINF:-1,FR | CANAL  SERIES
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22117.ts
+#EXTINF:-1,FR | Canal  Sport
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22177.ts
+#EXTINF:-1,FR | CANAL J
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22116.ts
+#EXTINF:-1,FR | CANAL PLAY 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22176.ts
+#EXTINF:-1,FR | CANAL PLAY 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22175.ts
+#EXTINF:-1,FR | CANAL PLAY 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22174.ts
+#EXTINF:-1,FR | CANAL PLAY 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22173.ts
+#EXTINF:-1,FR | CANAL PLAY 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22172.ts
+#EXTINF:-1,FR | CANAL PLAY 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22171.ts
+#EXTINF:-1,FR | CANAL PLAY 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22170.ts
+#EXTINF:-1,FR | CARTOON NETWORK
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22115.ts
+#EXTINF:-1,FR | Cartoon Network HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22169.ts
+#EXTINF:-1,FR | CHERIE 25 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22168.ts
+#EXTINF:-1,FR | CHESSE ET PACHE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22114.ts
+#EXTINF:-1,FR | CINE CLASSIC HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22167.ts
+#EXTINF:-1,FR | CINE EMOTION HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22166.ts
+#EXTINF:-1,FR | Cine Famiz HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22165.ts
+#EXTINF:-1,FR | CINE FRISSON HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22164.ts
+#EXTINF:-1,FR | CINE FX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22163.ts
+#EXTINF:-1,FR | CINE POLAR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22162.ts
+#EXTINF:-1,FR | CINE PREMIER HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22161.ts
+#EXTINF:-1,FR | CLUB RTL
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22113.ts
+#EXTINF:-1,FR | COMEDIE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22112.ts
+#EXTINF:-1,FR | COMEDIE  HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22160.ts
+#EXTINF:-1,FR | CSTAR HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22159.ts
+#EXTINF:-1,FR | D17
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22158.ts
+#EXTINF:-1,FR | D8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22111.ts
+#EXTINF:-1,FR | DISCOVERY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22157.ts
+#EXTINF:-1,FR | DISCOVERY CHANNEL
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22110.ts
+#EXTINF:-1,FR | Discovery Science HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22156.ts
+#EXTINF:-1,FR | DISNEY CH HD ( 1080P )
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22155.ts
+#EXTINF:-1,FR | DISNEY JUNIOR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22109.ts
+#EXTINF:-1,FR | EUROSPORT 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22108.ts
+#EXTINF:-1,FR | Eurosport 2 FHD 1080
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22154.ts
+#EXTINF:-1,FR | GAME ONE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22153.ts
+#EXTINF:-1,FR | GULLI
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22107.ts
+#EXTINF:-1,FR | GULLI HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22152.ts
+#EXTINF:-1,FR | HD1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22106.ts
+#EXTINF:-1,FR | i Tele
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22151.ts
+#EXTINF:-1,FR | INFO SPORT
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22105.ts
+#EXTINF:-1,FR | La Deux
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22150.ts
+#EXTINF:-1,FR | LA UNE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22104.ts
+#EXTINF:-1,FR | La une BE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22149.ts
+#EXTINF:-1,FR | LCI
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22148.ts
+#EXTINF:-1,FR | M6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22103.ts
+#EXTINF:-1,FR | MANGAS
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22102.ts
+#EXTINF:-1,FR | NAT GEO
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22101.ts
+#EXTINF:-1,FR | NAT GEO WILD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22100.ts
+#EXTINF:-1,FR | NICKELODEON HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22147.ts
+#EXTINF:-1,FR | NICKELODEON JUNIOR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22146.ts
+#EXTINF:-1,FR | NRJ 12
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22099.ts
+#EXTINF:-1,FR | NRJ Hits
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22145.ts
+#EXTINF:-1,FR | NRJ12 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22144.ts
+#EXTINF:-1,FR | NT1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22143.ts
+#EXTINF:-1,FR | NUMERO 23
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22098.ts
+#EXTINF:-1,FR | NUMERO 23 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22142.ts
+#EXTINF:-1,FR | OCS CITY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22141.ts
+#EXTINF:-1,FR | OCS GEANT
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22140.ts
+#EXTINF:-1,FR | OCS MAX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22139.ts
+#EXTINF:-1,FR | PARIS PREMIERE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22097.ts
+#EXTINF:-1,FR | PIWI
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22096.ts
+#EXTINF:-1,FR | PLANETE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22095.ts
+#EXTINF:-1,FR | PLANETE  A&E
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22094.ts
+#EXTINF:-1,FR | PLANETE  CRIME INVEST
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22093.ts
+#EXTINF:-1,FR | PLUG RTL
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22092.ts
+#EXTINF:-1,FR | POLAR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22091.ts
+#EXTINF:-1,FR | RMC DECOUVERTE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22090.ts
+#EXTINF:-1,FR | RTL9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22089.ts
+#EXTINF:-1,FR | RTS DEUX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22088.ts
+#EXTINF:-1,FR | RTS UN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22087.ts
+#EXTINF:-1,FR | SCIENCE & VIE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22086.ts
+#EXTINF:-1,FR | SEASONS
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22085.ts
+#EXTINF:-1,FR | SERIE CLUB
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22084.ts
+#EXTINF:-1,FR | SFR SPORT 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22138.ts
+#EXTINF:-1,FR | SFR SPORT 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22137.ts
+#EXTINF:-1,FR | SFR SPORT 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22136.ts
+#EXTINF:-1,FR | SFR sport 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22135.ts
+#EXTINF:-1,FR | SFR: Sport 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22134.ts
+#EXTINF:-1,FR | SFR: Sport 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22133.ts
+#EXTINF:-1,FR | SFR: Sport 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22132.ts
+#EXTINF:-1,FR | SYFY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22083.ts
+#EXTINF:-1,FR | TCM CINEMA
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22131.ts
+#EXTINF:-1,FR | TELETOON
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22082.ts
+#EXTINF:-1,FR | Teva
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22130.ts
+#EXTINF:-1,FR | TEVA/TMC
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22129.ts
+#EXTINF:-1,FR | TF1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22081.ts
+#EXTINF:-1,FR | TF1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22128.ts
+#EXTINF:-1,FR | TIJI
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22080.ts
+#EXTINF:-1,FR | TMC
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22079.ts
+#EXTINF:-1,FR | TOUTE LHISTOIRE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22127.ts
+#EXTINF:-1,FR | TRACE URBAN
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22126.ts
+#EXTINF:-1,FR | TREK HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22125.ts
+#EXTINF:-1,FR | TV BREIZH HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22124.ts
+#EXTINF:-1,FR | TV5 MONDE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22123.ts
+#EXTINF:-1,FR | USHUAIA  HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22122.ts
+#EXTINF:-1,FR | VOYAGE
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22078.ts
+#EXTINF:-1,FR | VOYAGE HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22121.ts
+#EXTINF:-1,FR | W9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22077.ts
+#EXTINF:-1,FR:  Series CLUB HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22243.ts
+#EXTINF:-1,FR: 13EME RUE HD (1080)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22242.ts
 #EXTINF:-1,FR: A LA CARTE 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9455.ts
-#EXTINF:-1,FR: A la Carte 10
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9464.ts
-#EXTINF:-1,FR: A la Carte 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9456.ts
-#EXTINF:-1,FR: A la Carte 3
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9457.ts
-#EXTINF:-1,FR: A la Carte 4
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9458.ts
-#EXTINF:-1,FR: A la Carte 5
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9459.ts
-#EXTINF:-1,FR: A la Carte 6
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9460.ts
-#EXTINF:-1,FR: A la Carte 7
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9461.ts
-#EXTINF:-1,FR: A la Carte 9
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9463.ts
-#EXTINF:-1,FR: AB1_HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8658.ts
-#EXTINF:-1,FR: Action
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8667.ts
-#EXTINF:-1,FR: Animaux
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9420.ts
-#EXTINF:-1,FR: Arte
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8593.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 4
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8321.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 5
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8320.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 6
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8319.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 7
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8318.ts
-#EXTINF:-1,FR: BEIN SPORTS Max 8
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8317.ts
-#EXTINF:-1,FR: BFM TV HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9438.ts
-#EXTINF:-1,FR: BOOMERANG
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9437.ts
-#EXTINF:-1,FR: Canal   Cinema
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9419.ts
-#EXTINF:-1,FR: Canal   Family
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9418.ts
-#EXTINF:-1,FR: CANAL  Décalé
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9454.ts
-#EXTINF:-1,FR: Canal  Family
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9445.ts
-#EXTINF:-1,FR: Canal +
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9444.ts
-#EXTINF:-1,FR: Canal Series
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9417.ts
-#EXTINF:-1,FR: Canal+  Sport
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9416.ts
-#EXTINF:-1,FR: Cartoon Network
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9415.ts
-#EXTINF:-1,FR: CHASSE & PECHE
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9452.ts
-#EXTINF:-1,FR: Cherie 25
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9421.ts
-#EXTINF:-1,FR: CINE   Famiz
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9448.ts
-#EXTINF:-1,FR: Cine  Classic
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9414.ts
-#EXTINF:-1,FR: CINE  Emotion
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9449.ts
-#EXTINF:-1,FR: CINE  FRISSON
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9446.ts
-#EXTINF:-1,FR: Cine  Premier
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9413.ts
-#EXTINF:-1,FR: Cine Fx
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9412.ts
-#EXTINF:-1,FR: Cine POLAR
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8665.ts
-#EXTINF:-1,FR: COMEDIE
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9447.ts
-#EXTINF:-1,FR: COMEDIE+ HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8662.ts
-#EXTINF:-1,FR: Discovery
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9411.ts
-#EXTINF:-1,FR: Discovery science
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9410.ts
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9435.ts
-#EXTINF:-1,FR: DISNEY CHANNEL  FHD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9436.ts
-#EXTINF:-1,FR: Disney Cinema
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9430.ts
-#EXTINF:-1,FR: Disney junior
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9409.ts
-#EXTINF:-1,FR: E! Entertainment
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9453.ts
-#EXTINF:-1,FR: Equida Live
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13703.ts
-#EXTINF:-1,FR: Euronews
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9408.ts
-#EXTINF:-1,FR: Eurosport
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9407.ts
-#EXTINF:-1,FR: EUROSPORT 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/14080.ts
-#EXTINF:-1,FR: Eurosport 2 FHD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9406.ts
-#EXTINF:-1,FR: Foot+24
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9405.ts
-#EXTINF:-1,FR: France 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8261.ts
-#EXTINF:-1,FR: France 3
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8260.ts
-#EXTINF:-1,FR: France 4 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8590.ts
-#EXTINF:-1,FR: France 5
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8591.ts
-#EXTINF:-1,FR: France O
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8592.ts
-#EXTINF:-1,FR: GULLI
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9433.ts
-#EXTINF:-1,FR: HD1 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8648.ts
-#EXTINF:-1,FR: Histoire
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9426.ts
-#EXTINF:-1,FR: I-Tele HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13078.ts
-#EXTINF:-1,FR: Infosport
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9404.ts
-#EXTINF:-1,FR: L'EQUIPE 21 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9465.ts
-#EXTINF:-1,FR: LCI
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9439.ts
-#EXTINF:-1,FR: M6
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/2920.ts
-#EXTINF:-1,FR: M6 Music
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9429.ts
-#EXTINF:-1,FR: MANGA
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9434.ts
-#EXTINF:-1,FR: Mangas
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9401.ts
-#EXTINF:-1,FR: National geo wild
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9400.ts
-#EXTINF:-1,FR: National geographic
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9399.ts
-#EXTINF:-1,FR: NRJ 12
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9422.ts
-#EXTINF:-1,FR: NT1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13076.ts
-#EXTINF:-1,FR: Ocs Choc HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9398.ts
-#EXTINF:-1,FR: OCS City HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9450.ts
-#EXTINF:-1,FR: OCS Géants HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9451.ts
-#EXTINF:-1,FR: Ocs max
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9397.ts
-#EXTINF:-1,FR: PARAMOUNT
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8664.ts
-#EXTINF:-1,FR: Paris Premiere
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8653.ts
-#EXTINF:-1,FR: PIWI+
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9432.ts
-#EXTINF:-1,FR: Planete+ CI
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9395.ts
-#EXTINF:-1,FR: RMC DECOUVERTE
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9440.ts
-#EXTINF:-1,FR: RTS DEUX
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13074.ts
-#EXTINF:-1,FR: RTS UN
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13073.ts
-#EXTINF:-1,FR: Science et vie
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9394.ts
-#EXTINF:-1,FR: Science&Vie TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9442.ts
-#EXTINF:-1,FR: Serie club
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9393.ts
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13053.ts
-#EXTINF:-1,FR: SFR Sport 2 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13054.ts
-#EXTINF:-1,FR: SFR Sport 3 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13719.ts
-#EXTINF:-1,FR: SFR Sport 5 HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13720.ts
-#EXTINF:-1,FR: TELETOON + HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9431.ts
-#EXTINF:-1,FR: Téva HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9428.ts
-#EXTINF:-1,FR: Toute l'histoire
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9427.ts
-#EXTINF:-1,FR: TV-breizh HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8654.ts
-#EXTINF:-1,FR: USHUAIA TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9441.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22241.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22240.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22239.ts
+#EXTINF:-1,FR: AB1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22238.ts
+#EXTINF:-1,FR: ACTION HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22237.ts
+#EXTINF:-1,FR: ANIMAUX HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22236.ts
+#EXTINF:-1,FR: ARTE HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22235.ts
+#EXTINF:-1,FR: BeIN SPORTS 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22234.ts
+#EXTINF:-1,FR: BeIN Sports Max 10
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22233.ts
+#EXTINF:-1,FR: BeIN Sports Max 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22232.ts
+#EXTINF:-1,FR: BeIN Sports Max 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22231.ts
+#EXTINF:-1,FR: BeIN Sports Max 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22230.ts
+#EXTINF:-1,FR: BeIN Sports Max 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22229.ts
+#EXTINF:-1,FR: BeIN Sports Max 8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22228.ts
+#EXTINF:-1,FR: BeIN Sports Max 9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22227.ts
+#EXTINF:-1,FR: BFM TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22226.ts
+#EXTINF:-1,FR: CANAL   HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22225.ts
+#EXTINF:-1,FR: CANAL  CINEMA HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22224.ts
+#EXTINF:-1,FR: CANAL  DECALE HD (1080)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22223.ts
+#EXTINF:-1,FR: CANAL  FAMILY HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22222.ts
+#EXTINF:-1,FR: Canal  Famiz HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22221.ts
+#EXTINF:-1,FR: CANAL  SERIES HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22220.ts
+#EXTINF:-1,FR: CANAL  SPORT HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22219.ts
+#EXTINF:-1,FR: CANAL J HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22218.ts
+#EXTINF:-1,FR: CARTOON NETWORK
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22217.ts
+#EXTINF:-1,FR: Chasse-et-Peche
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22216.ts
+#EXTINF:-1,FR: CHERIE 25 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22215.ts
+#EXTINF:-1,FR: CINE  CLASSIC HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22214.ts
+#EXTINF:-1,FR: CINE  EMOTION HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22213.ts
+#EXTINF:-1,FR: CINE  FAMIZ HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22212.ts
+#EXTINF:-1,FR: CINE  FRISSON HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22211.ts
+#EXTINF:-1,FR: Cine Emotion HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22210.ts
+#EXTINF:-1,FR: CINE FX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22209.ts
+#EXTINF:-1,FR: CINE POLAR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22208.ts
+#EXTINF:-1,FR: CINE PREMIER
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22207.ts
+#EXTINF:-1,FR: FRANCE 3 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22206.ts
+#EXTINF:-1,FR: Golf HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22205.ts
+#EXTINF:-1,FR: INFOSPORT
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22204.ts
+#EXTINF:-1,FR: L'EQUIPE21 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22203.ts
+#EXTINF:-1,FR: OCS CITY HD (1080)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22202.ts
+#EXTINF:-1,FR: OCS GEANTS HD (1080)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22201.ts
+#EXTINF:-1,FR: SFR SPORT 4K
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/22076.ts

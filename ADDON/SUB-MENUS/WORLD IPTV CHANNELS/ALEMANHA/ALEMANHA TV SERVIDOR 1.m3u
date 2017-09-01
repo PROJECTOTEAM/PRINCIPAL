@@ -1,185 +1,519 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 29-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 31-08-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
 
-
-
-
-#EXTINF:-1,DE: Kabel 1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15559.ts
-#EXTINF:-1,DE: Kabel Eins
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7131.ts
-#EXTINF:-1,DE: Kabel Eins Doku
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15346.ts
-#EXTINF:-1,DE: Das Erste
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/2135.ts
-#EXTINF:-1,DE: ZDF
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7124.ts
-#EXTINF:-1,DE:  WDR HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7435.ts
-#EXTINF:-1,DE: 3Sat
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7470.ts
-#EXTINF:-1,DE: Kika-HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7424.ts
-#EXTINF:-1,DE: Ndr
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7419.ts
-#EXTINF:-1,DE: Phoenix
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7420.ts
-#EXTINF:-1,DE: SWR HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7460.ts
-#EXTINF:-1,DE: Arte
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7418.ts
-#EXTINF:-1,DE: ANIXE
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7469.ts
-#EXTINF:-1,DE: ZDF neo
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7457.ts
-#EXTINF:-1,DE: Servus TV
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7438.ts
-#EXTINF:-1,DE: Pro Sieben
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7448.ts
-#EXTINF:-1,DE: Pro 7 MAXX
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7414.ts
-#EXTINF:-1,DE: RTL Television
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15352.ts
+#EXTINF:-1,SKY SPORT 1 HD (DE)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21734.ts
+#EXTINF:-1,SKY SPORT 2 HD (DE)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21733.ts
+#EXTINF:-1,SKY SPORT NEWS HD (DE)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21732.ts
+#EXTINF:-1,DE :Sky Bundesliga 1 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14811.ts
+#EXTINF:-1,DE Sky Select 6 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14831.ts
+#EXTINF:-1,DE Sky Select 7 Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14830.ts
+#EXTINF:-1,(DE) Cartoon Network
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21796.ts
+#EXTINF:-1,(DE) Disney Jr
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21795.ts
+#EXTINF:-1,(DE) Nickelodeon
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21794.ts
+#EXTINF:-1,DE:  Disney Junior Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14814.ts
+#EXTINF:-1,DE: Goldstar
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14815.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14846.ts
+#EXTINF:-1,DE: RTL Crime
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14845.ts
 #EXTINF:-1,DE: RTL HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7125.ts
-#EXTINF:-1,DE: RTL Plus
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13020.ts
-#EXTINF:-1,DE: SUPER RTL HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7140.ts
-#EXTINF:-1,DE: SAT 1
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7463.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7412.ts
-#EXTINF:-1,DE: RTL Nitro
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7409.ts
-#EXTINF:-1,DE: RTL 2
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7408.ts
-#EXTINF:-1,DE: n-tvv
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7464.ts
-#EXTINF:-1,DE: A&E
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15354.ts
-#EXTINF:-1,DE: E! Entertainment HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15341.ts
-#EXTINF:-1,De: Zee One
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15340.ts
-#EXTINF:-1,DE: Family TV
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15350.ts
-#EXTINF:-1,DE: Goldstar TV
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15355.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15348.ts
-#EXTINF:-1,DE: MDR
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7465.ts
-#EXTINF:-1,DE: ARD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7468.ts
-#EXTINF:-1,DE:Goldstar TV
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13015.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7130.ts
-#EXTINF:-1,DE: ORF 2HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7129.ts
-#EXTINF:-1,DE: Austria 24
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7467.ts
-#EXTINF:-1,DE: N24
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7105.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14847.ts
+#EXTINF:-1,DE: RTL Living HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14844.ts
 #EXTINF:-1,DE: RTL Passion
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7128.ts
-#EXTINF:-1,DE: SKY 3D
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7456.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15566.ts
-#EXTINF:-1,DE: Sky Action HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15589.ts
-#EXTINF:-1,DE: Sky Cinema Action
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7153.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15576.ts
-#EXTINF:-1,DE: Sky Cinema
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7151.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7150.ts
-#EXTINF:-1,DE: Sky Cinema 1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15578.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7149.ts
-#EXTINF:-1,DE: Sky Sport Fan Zone HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7444.ts
-#EXTINF:-1,DE: Sky Cinema Comedy
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7148.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15573.ts
-#EXTINF:-1,DE:  Sky Cinema Hits
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7440.ts
-#EXTINF:-1,DE: Sky Cinema Family
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15353.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7144.ts
-#EXTINF:-1,DE: Sky Krimi
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7145.ts
-#EXTINF:-1,DE: Sky Hits
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7146.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14843.ts
+#EXTINF:-1,DE: Sky  Cinema HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14840.ts
+#EXTINF:-1,DE: Sky  Hits HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14826.ts
+#EXTINF:-1,DE: Sky  Krimi
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14822.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14829.ts
+#EXTINF:-1,DE: Sky Animal Planet HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14817.ts
+#EXTINF:-1,DE: Sky Atlantic Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14824.ts
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14839.ts
+#EXTINF:-1,DE: Sky Cinema 24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14838.ts
+#EXTINF:-1,DE: Sky Cinema Family Hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14837.ts
+#EXTINF:-1,DE: Sky Comedy HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14828.ts
+#EXTINF:-1,DE: Sky Discovery
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14818.ts
+#EXTINF:-1,DE: Sky Disney Cinemagic HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14813.ts
 #EXTINF:-1,DE: Sky Emotion
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7147.ts
-#EXTINF:-1,DE: Syfy HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7139.ts
-#EXTINF:-1,DE: TNT Film HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7137.ts
-#EXTINF:-1,DE: TNT Film (TCM)
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15574.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15565.ts
-#EXTINF:-1,DE: TNT Series
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7136.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14827.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14823.ts
+#EXTINF:-1,DE: Sky History
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14821.ts
+#EXTINF:-1,DE: Sky NatGeo HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14820.ts
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14819.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14825.ts
+#EXTINF:-1,DE: Sky Planet HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14816.ts
+#EXTINF:-1,DE: Sky Select  5 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14832.ts
 #EXTINF:-1,DE: Sky Select 1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7104.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14836.ts
 #EXTINF:-1,DE: Sky Select 2 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7103.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14835.ts
 #EXTINF:-1,DE: Sky Select 3 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7102.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14834.ts
 #EXTINF:-1,DE: Sky Select 4 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7101.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7100.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7099.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7098.ts
-#EXTINF:-1,DE: FOX HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7172.ts
-#EXTINF:-1,DE: Universal HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15347.ts
-#EXTINF:-1,DE: VOX
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7458.ts
-#EXTINF:-1,=======  Sport De  =======
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13607.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15560.ts
-#EXTINF:-1,DE: Motorvision TV
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13017.ts
-#EXTINF:-1,DE: Sky Sport News
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7111.ts
-#EXTINF:-1,DE: ORF Sport+ HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/14041.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15562.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15349.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7108.ts
-#EXTINF:-1,DE: Sport1  HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15564.ts
-#EXTINF:-1,DE: SPORT +1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7109.ts
-#EXTINF:-1,DE: Sport1 US HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15587.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7119.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14833.ts
 #EXTINF:-1,DE: Sky Sport 2 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15556.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://145.239.108.24:6500/live/nt4J6nrpEV/Bd8cIxGIMX/7115.ts
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14812.ts
+#EXTINF:-1,DE: Super RTL HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14841.ts
+#EXTINF:-1,DE:RTL NITRO
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14842.ts
+#EXTINF:-1,DE: Sky  Sport  Austria
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14560.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14555.ts
+#EXTINF:-1,DE: Sky Hits
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14556.ts
+#EXTINF:-1,DE: Sky Krimi
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14557.ts
+#EXTINF:-1,DE: Sky sport 1 hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14559.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14558.ts
+#EXTINF:-1,Baden TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13781.ts
+#EXTINF:-1,NDR Fernsehen
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13780.ts
+#EXTINF:-1,N4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13798.ts
+#EXTINF:-1,RUV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13797.ts
+#EXTINF:-1,TV Folketinget
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13795.ts
+#EXTINF:-1,TV2 Bornholm
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13794.ts
+#EXTINF:-1,TV2 Charlie
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13793.ts
+#EXTINF:-1,TV2 Fri
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13792.ts
+#EXTINF:-1,TV2 Fyn
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/13791.ts
+#EXTINF:-1,De_13th-Street
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21731.ts
+#EXTINF:-1,De_3sat
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21730.ts
+#EXTINF:-1,De_7Maxx
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21729.ts
+#EXTINF:-1,De_Ard
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21728.ts
+#EXTINF:-1,De_Arte
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21727.ts
+#EXTINF:-1,De_Axn
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21726.ts
+#EXTINF:-1,De_cinema 24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21725.ts
+#EXTINF:-1,De_Discovery
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21724.ts
+#EXTINF:-1,De_Disney-1080p
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21723.ts
+#EXTINF:-1,De_disney-xd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21722.ts
+#EXTINF:-1,De_Dmax
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21721.ts
+#EXTINF:-1,De_euronews
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21720.ts
+#EXTINF:-1,De_Fox
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21719.ts
+#EXTINF:-1,De_History
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21718.ts
+#EXTINF:-1,De_Kabel1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21717.ts
+#EXTINF:-1,De_Kika
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21716.ts
+#EXTINF:-1,De_Mgm
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21715.ts
+#EXTINF:-1,De_NatinoalGeoWild
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21714.ts
+#EXTINF:-1,De_NationalGeographic
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21713.ts
+#EXTINF:-1,De_ndr
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21712.ts
+#EXTINF:-1,De_Orf1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21711.ts
+#EXTINF:-1,De_Orf2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21710.ts
+#EXTINF:-1,De_Pro7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21709.ts
+#EXTINF:-1,De_Rtl
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21708.ts
+#EXTINF:-1,De_Rtl2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21707.ts
+#EXTINF:-1,De_Rtlcrime
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21706.ts
+#EXTINF:-1,De_Rtlliving
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21705.ts
+#EXTINF:-1,De_RtlNitro
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21704.ts
+#EXTINF:-1,De_Rtlpassion
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21703.ts
+#EXTINF:-1,De_Sat1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21702.ts
+#EXTINF:-1,De_Sixx-
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21701.ts
+#EXTINF:-1,De_SkyCinema
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21700.ts
+#EXTINF:-1,De_SkyCinema24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21699.ts
+#EXTINF:-1,De_SkyCinemaAction
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21698.ts
+#EXTINF:-1,De_SkyCinemaAtlantic
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21697.ts
+#EXTINF:-1,De_SkyEmotion
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21696.ts
+#EXTINF:-1,De_SkyKrimi
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21695.ts
+#EXTINF:-1,DE_SkyNostalgie
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21694.ts
+#EXTINF:-1,De_Sport HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21693.ts
+#EXTINF:-1,De_Srf1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21692.ts
+#EXTINF:-1,De_Srf2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21691.ts
+#EXTINF:-1,De_SuperRtl
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21690.ts
+#EXTINF:-1,De_Syfy
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21689.ts
+#EXTINF:-1,De_Tnt-Comedy
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21688.ts
+#EXTINF:-1,De_TntFilm
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21687.ts
+#EXTINF:-1,De_TntSerie
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21686.ts
+#EXTINF:-1,De_universal
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21684.ts
+#EXTINF:-1,De_Vox.hd
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21683.ts
+#EXTINF:-1,De_Zdf
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21682.ts
+#EXTINF:-1,De_zdf-neo
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21681.ts
+#EXTINF:-1,DE: 3Sat HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21840.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21839.ts
+#EXTINF:-1,DE: Anixe
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21838.ts
+#EXTINF:-1,DE: ANIXE HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21793.ts
+#EXTINF:-1,DE: ARD HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21792.ts
+#EXTINF:-1,DE: Arte
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21791.ts
+#EXTINF:-1,DE: Austria 24 TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21837.ts
+#EXTINF:-1,DE: AXN HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21836.ts
+#EXTINF:-1,DE: Blizz
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21835.ts
+#EXTINF:-1,DE: Boomerang
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21834.ts
+#EXTINF:-1,DE: BR
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21790.ts
+#EXTINF:-1,DE: CDN Sports Max
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21833.ts
+#EXTINF:-1,DE: DELUXE MUSIC HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21789.ts
+#EXTINF:-1,DE: Discovery Channel
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21832.ts
+#EXTINF:-1,DE: Disney Channel
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21788.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21831.ts
+#EXTINF:-1,DE: Disney Junior
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21830.ts
+#EXTINF:-1,DE: Disney XD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21829.ts
+#EXTINF:-1,DE: Eurosport 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21828.ts
+#EXTINF:-1,DE: EuroSport HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21787.ts
+#EXTINF:-1,DE: FOX HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21786.ts
+#EXTINF:-1,DE: History Channel HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21827.ts
+#EXTINF:-1,DE: Kabel 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21785.ts
+#EXTINF:-1,DE: Kika
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21784.ts
+#EXTINF:-1,DE: Krimi
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21826.ts
+#EXTINF:-1,DE: Motorvision TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21825.ts
+#EXTINF:-1,DE: N-24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21824.ts
+#EXTINF:-1,DE: N-TV
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21783.ts
+#EXTINF:-1,DE: N24 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21782.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21781.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21823.ts
+#EXTINF:-1,DE: National Geographic
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21780.ts
+#EXTINF:-1,DE: Ndr HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21779.ts
+#EXTINF:-1,DE: Nickelodeon HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21822.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21821.ts
+#EXTINF:-1,DE: ORF 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21778.ts
+#EXTINF:-1,DE: ORF 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21820.ts
+#EXTINF:-1,DE: ORF Eins
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21777.ts
+#EXTINF:-1,DE: Phoenix
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21776.ts
+#EXTINF:-1,DE: Planet
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21819.ts
+#EXTINF:-1,DE: Pro 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21775.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21774.ts
+#EXTINF:-1,DE: PRO7 MAXX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21773.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21818.ts
+#EXTINF:-1,DE: RTL I
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21772.ts
+#EXTINF:-1,DE: RTL II
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21771.ts
+#EXTINF:-1,DE: RTL living
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21770.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21769.ts
+#EXTINF:-1,DE: Sat 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21768.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21817.ts
+#EXTINF:-1,DE: Servus TV HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21767.ts
+#EXTINF:-1,DE: Sixx HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21816.ts
+#EXTINF:-1,DE: Sky 13 Street HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21766.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21765.ts
+#EXTINF:-1,DE: SKY Atlantic 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21764.ts
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21763.ts
+#EXTINF:-1,DE: Sky Bundesliga 10
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21815.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21814.ts
+#EXTINF:-1,DE: Sky Bundesliga 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21813.ts
+#EXTINF:-1,DE: Sky Bundesliga 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21812.ts
+#EXTINF:-1,DE: Sky Bundesliga 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21811.ts
+#EXTINF:-1,DE: Sky Bundesliga 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21810.ts
+#EXTINF:-1,DE: Sky Bundesliga 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21809.ts
+#EXTINF:-1,DE: Sky Bundesliga 8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21808.ts
+#EXTINF:-1,DE: Sky Bundesliga 9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21807.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21762.ts
+#EXTINF:-1,DE: Sky Cinema Plus 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21761.ts
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21760.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21759.ts
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21758.ts
+#EXTINF:-1,DE: Sky DMAX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21757.ts
+#EXTINF:-1,DE: Sky Fox
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21756.ts
+#EXTINF:-1,DE: Sky History Channel
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21755.ts
+#EXTINF:-1,DE: Sky Hits HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21806.ts
+#EXTINF:-1,DE: Sky select 5 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21754.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21753.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21752.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21751.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21750.ts
+#EXTINF:-1,DE: Sky Sport 1 US HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21749.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21805.ts
+#EXTINF:-1,DE: Sky Sport News
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21804.ts
+#EXTINF:-1,DE: Sky Syfy
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21803.ts
+#EXTINF:-1,DE: Sky TNT Film HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21748.ts
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21747.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21746.ts
+#EXTINF:-1,DE: Sport 1 HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21802.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21801.ts
+#EXTINF:-1,DE: Sport Digital
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21800.ts
+#EXTINF:-1,DE: Sport DigiTal HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21745.ts
+#EXTINF:-1,DE: SRF1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21744.ts
+#EXTINF:-1,DE: SRF2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21743.ts
+#EXTINF:-1,DE: Super RTL
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21742.ts
+#EXTINF:-1,DE: SWR HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21741.ts
+#EXTINF:-1,DE: SYFY
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21740.ts
+#EXTINF:-1,DE: TNT Film
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21799.ts
+#EXTINF:-1,DE: TNT Series HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21798.ts
+#EXTINF:-1,DE: VOX
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21739.ts
+#EXTINF:-1,DE: Vox HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21797.ts
+#EXTINF:-1,DE: Wdr HD
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21738.ts
+#EXTINF:-1,DE: ZDF
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21737.ts
+#EXTINF:-1,DE: ZDF INFO
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21736.ts
+#EXTINF:-1,DE: ZDF NEO
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21735.ts
+#EXTINF:-1,DE:VipSky Select 1
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21674.ts
+#EXTINF:-1,DE:VipSky Select 10
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21665.ts
+#EXTINF:-1,DE:VipSky Select 2
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21673.ts
+#EXTINF:-1,DE:VipSky Select 3
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21672.ts
+#EXTINF:-1,DE:VipSky Select 4
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21671.ts
+#EXTINF:-1,DE:VipSky Select 5
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21670.ts
+#EXTINF:-1,DE:VipSky Select 6
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21669.ts
+#EXTINF:-1,DE:VipSky Select 7
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21668.ts
+#EXTINF:-1,DE:VipSky Select 8
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21667.ts
+#EXTINF:-1,DE:VipSky Select 9
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/21666.ts
+#EXTINF:-1,Fox Sports 1(Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14854.ts
+#EXTINF:-1,Fox Sports 2 (Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14853.ts
+#EXTINF:-1,Fox Sports 4 (Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14851.ts
+#EXTINF:-1,Fox Sports 5 (Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14850.ts
+#EXTINF:-1,Fox Sports 6 (Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14849.ts
+#EXTINF:-1,fox Sports3 (Nl)
+http://iptviptv.it:25461/live/donafabby1/b3Dd1hJ5wX/14852.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,DE Sky Hits
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/259.ts
+#EXTINF:-1,DE Sky Comedie
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/255.ts
+#EXTINF:-1,DE Sky Action
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/260.ts
+#EXTINF:-1,DE Sixx
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/140.ts
+#EXTINF:-1,DE Dmaxx
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/139.ts
+#EXTINF:-1,DE Disney Channel HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/29.ts
+#EXTINF:-1,DE Disney Junior HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/26.ts
+#EXTINF:-1,DE Nickeledeon HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/28.ts
+#EXTINF:-1,DE Super RTL HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/27.ts
+#EXTINF:-1,DE Kika HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/30.ts
+#EXTINF:-1,DE Vox HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/24.ts
+#EXTINF:-1,DE RTL 2 HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/23.ts
+#EXTINF:-1,DE RTL HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/22.ts
+#EXTINF:-1,DE Pro 7 HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/13.ts
+#EXTINF:-1,DE Atv HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/25.ts
+#EXTINF:-1,DE Orf 3 HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/21.ts
+#EXTINF:-1,DE Orf 2 HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/20.ts
+#EXTINF:-1,DE Orf 1 HD
+http://bikatech.eu:25461/live/Bikatech/LAZdnMttlo/19.ts
