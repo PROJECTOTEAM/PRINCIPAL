@@ -1,140 +1,712 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 27-08-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,=======   ARABIAN   =======
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/2610.ts
-#EXTINF:-1,=====  Maroc  =====
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13979.ts
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AR | MBC 1HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/397.ts
+#EXTINF:-1,AR | MBC 2HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/877.ts
+#EXTINF:-1,AR | MBC 3HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/396.ts
+#EXTINF:-1,AR | MBC 4HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/395.ts
+#EXTINF:-1,AR | MBC ACTION
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/390.ts
+#EXTINF:-1,AR | MBC Bollywood
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/391.ts
+#EXTINF:-1,AR | MBC Drama HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/392.ts
+#EXTINF:-1,AR | MBC Drama USA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1461.ts
+#EXTINF:-1,AR | MBC MASR
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/394.ts
+#EXTINF:-1,AR | MBC MASR 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/393.ts
+#EXTINF:-1,AR | MBC MAX
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1460.ts
+#EXTINF:-1,AR | CBC
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/413.ts
+#EXTINF:-1,AR | CBC Drama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/411.ts
+#EXTINF:-1,AR | CBC Extra
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/410.ts
+#EXTINF:-1,AR | CBC Sofra
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/409.ts
+#EXTINF:-1,AR | Rotana Aflam
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1465.ts
+#EXTINF:-1,AR | Rotana Cinema
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1464.ts
+#EXTINF:-1,AR | Rotana Classic
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1463.ts
+#EXTINF:-1,AR | ROTANA CLIP
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/430.ts
+#EXTINF:-1,AR | Rotana Khalijiah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/971.ts
+#EXTINF:-1,AR | Rotana Masriya
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1462.ts
+#EXTINF:-1,AR | Rotana Moussica
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/969.ts
+#EXTINF:-1,AR | KTV ALArabi
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/967.ts
+#EXTINF:-1,AR | ktv1HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/888.ts
+#EXTINF:-1,AR | Kuwait 1 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1476.ts
+#EXTINF:-1,AR | Kuwait 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1477.ts
+#EXTINF:-1,AR | Kuwait 3 Sport
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1478.ts
+#EXTINF:-1,AR | Kuwait 4 Sport pluse
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/977.ts
+#EXTINF:-1,AR | Kuwait 6 AL Arabi
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1479.ts
+#EXTINF:-1,AR | ktv7-almagls
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/976.ts
+#EXTINF:-1,AR | Kuwait 7 Almagls
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1480.ts
+#EXTINF:-1,AR | Kuwait 8 Plus
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1481.ts
+#EXTINF:-1,AR | ZEE AFLAM
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/404.ts
+#EXTINF:-1,AR | ZEE ALWAN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/405.ts
+#EXTINF:-1,AR |  CBC+2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/412.ts
+#EXTINF:-1,AR | AL Mayadeen
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/401.ts
+#EXTINF:-1,AR | Mekameleen TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/880.ts
+#EXTINF:-1,AR |CINEMA PRO
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/424.ts
+#EXTINF:-1,AR |  Dijlah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/942.ts
+#EXTINF:-1,AR |  Sirya TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/422.ts
+#EXTINF:-1,AR |  STAR CINEMA 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/426.ts
+#EXTINF:-1,AR | 2M Monde
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1501.ts
+#EXTINF:-1,AR | 2MMonde
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/918.ts
+#EXTINF:-1,AR | 4 SHABAB
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/427.ts
+#EXTINF:-1,AR | Al Aoula Inter
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1497.ts
+#EXTINF:-1,AR | Saudi Sport 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/957.ts
+#EXTINF:-1,AR | Abu Dabi 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1470.ts
+#EXTINF:-1,AR | AD Drama HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1471.ts
+#EXTINF:-1,AR | AD Emarat
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/973.ts
+#EXTINF:-1,AR | NatGeo AbuDahbi
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1472.ts
+#EXTINF:-1,AR | Al Araby 2 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/965.ts
+#EXTINF:-1,AR | AJ Jazeera Ch
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1516.ts
+#EXTINF:-1,AR | Al Aoula Morroco
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/876.ts
+#EXTINF:-1,AR | Al Arabiya
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/962.ts
+#EXTINF:-1,AR | AL IRAQIA News
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/952.ts
+#EXTINF:-1,AR | AL JADEED
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/399.ts
+#EXTINF:-1,AR | Al Maghribia
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1500.ts
+#EXTINF:-1,AR | Al majd Kids
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1523.ts
+#EXTINF:-1,AR | AL MANAR
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1511.ts
+#EXTINF:-1,AR | RT Arab
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1507.ts
+#EXTINF:-1,AR | AlJazeera Doc
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1506.ts
+#EXTINF:-1,AR | Al NaharTV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/944.ts
+#EXTINF:-1,AR | Al Rai
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1505.ts
+#EXTINF:-1,AR | Al Rasheed TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1504.ts
+#EXTINF:-1,AR | SAUDI 1 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1518.ts
+#EXTINF:-1,AR | AL SHARQIYA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/928.ts
+#EXTINF:-1,AR | Al Sumaria
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1502.ts
+#EXTINF:-1,AR | Al-NaharDrama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/924.ts
+#EXTINF:-1,AR | Al-Resalah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/900.ts
+#EXTINF:-1,AR | Alanwar TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1522.ts
+#EXTINF:-1,AR | Alanwar 2 TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/949.ts
+#EXTINF:-1,AR | ALEKHBARIA ALSORIYAH
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1512.ts
+#EXTINF:-1,AR | IQRAA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/930.ts
+#EXTINF:-1,AR | Ajial
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/921.ts
+#EXTINF:-1,AR | alkout
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/925.ts
+#EXTINF:-1,AR | AlMagharibia
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/898.ts
+#EXTINF:-1,AR | AlRasheedTV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/905.ts
+#EXTINF:-1,AR | ALSHARJAH
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1503.ts
+#EXTINF:-1,AR | Arabica TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1509.ts
+#EXTINF:-1,AR | EuroNews AR
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/955.ts
+#EXTINF:-1,AR | Assadissa
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/947.ts
+#EXTINF:-1,AR | B4U AFLAM
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1487.ts
+#EXTINF:-1,AR | B4U PLUS
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1486.ts
+#EXTINF:-1,AR | Baraem Europe
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/945.ts
+#EXTINF:-1,AR | Aljazeera Mubasher
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1517.ts
+#EXTINF:-1,AR | BBC Arabic
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/887.ts
+#EXTINF:-1,AR | beIN JEEM Europe
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1524.ts
+#EXTINF:-1,AR | CIMA TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1482.ts
+#EXTINF:-1,AR | Dubai AlOula
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/403.ts
+#EXTINF:-1,AR | Dubai Racing 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1467.ts
+#EXTINF:-1,AR | Dubai Racing 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/956.ts
+#EXTINF:-1,AR | Dubai Sports 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1468.ts
+#EXTINF:-1,AR | Dubai Zaman
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1474.ts
+#EXTINF:-1,AR | ESC
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1513.ts
+#EXTINF:-1,AR | Fonoon
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1510.ts
+#EXTINF:-1,AR | FUTURE TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/398.ts
+#EXTINF:-1,AR | HAWACOM
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1490.ts
+#EXTINF:-1,AR | LBC Sat
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1499.ts
+#EXTINF:-1,AR | Jordan
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/894.ts
+#EXTINF:-1,AR | Imagine Movies
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1485.ts
+#EXTINF:-1,AR | OTV_lebnon
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/908.ts
+#EXTINF:-1,AR | Al Hadath
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1525.ts
+#EXTINF:-1,AR | Karameesh-TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/958.ts
+#EXTINF:-1,AR | LDC
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/960.ts
+#EXTINF:-1,AR | LIBANON TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1496.ts
+#EXTINF:-1,AR | Libya AlAhrar
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/964.ts
+#EXTINF:-1,AR | Al Alam News
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1521.ts
+#EXTINF:-1,AR | MAJDQURAN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/886.ts
+#EXTINF:-1,AR | MAZZIKA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/407.ts
+#EXTINF:-1,AR | Medi 1 TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1498.ts
+#EXTINF:-1,AR | Medi1 TV==
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/941.ts
+#EXTINF:-1,AR | MTV Libanon
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/972.ts
+#EXTINF:-1,AR | NBN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/951.ts
+#EXTINF:-1,AR | Noon TV Kids
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1527.ts
+#EXTINF:-1,AR | NoonTVKids
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/897.ts
+#EXTINF:-1,AR | Noor Dubai
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/917.ts
+#EXTINF:-1,AR | OMAN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/889.ts
+#EXTINF:-1,AR | On E
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1514.ts
+#EXTINF:-1,AR | ON Live
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/884.ts
+#EXTINF:-1,AR | ON Sport HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1466.ts
+#EXTINF:-1,AR | QATARTV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/914.ts
+#EXTINF:-1,AR | Sama Syria
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1494.ts
+#EXTINF:-1,AR | Sama Dubai
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/975.ts
+#EXTINF:-1,AR | SAUDI 1 SD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1519.ts
+#EXTINF:-1,AR | SAUDI QURAN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1520.ts
+#EXTINF:-1,AR | SAUDI 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/940.ts
+#EXTINF:-1,AR | Saudi Sunnah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/926.ts
+#EXTINF:-1,AR | Arrabiaa
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1495.ts
+#EXTINF:-1,AR | SiryaTV*****
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/934.ts
+#EXTINF:-1,AR | Sky News Arabia
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1515.ts
+#EXTINF:-1,AR | TV-TAMAZIGHT
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/913.ts
+#EXTINF:-1,AR | STAR CINEMA1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1508.ts
+#EXTINF:-1,AR | France24 AR
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1488.ts
+#EXTINF:-1,AR | SUDANTV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/933.ts
+#EXTINF:-1,AR | Syria Drama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1493.ts
+#EXTINF:-1,AR | Syrian Aloula
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1492.ts
+#EXTINF:-1,AR | DW-Arabic
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/932.ts
+#EXTINF:-1,AR | Tamazight
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/931.ts
+#EXTINF:-1,AR | Tayba TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1491.ts
+#EXTINF:-1,AR | Dubai One HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/923.ts
+#EXTINF:-1,AR | TOKTOK AFLAM
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1483.ts
+#EXTINF:-1,AR | TOYOR BABY
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1526.ts
+#EXTINF:-1,AR | Toyor Aljanah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/961.ts
+#EXTINF:-1,AR | wesal1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/929.ts
+#EXTINF:-1,AR | YASSports
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/915.ts
+#EXTINF:-1,AR | TV-CORAN
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1489.ts
+#EXTINF:-1,AR | Zad TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/883.ts
+#EXTINF:-1,AR | ORIENT NEWS TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2832.ts
+#EXTINF:-1,AR | ON Sport
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2835.ts
+#EXTINF:-1,AR | Alhayat
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2834.ts
+#EXTINF:-1,AR | AlHayat Musalsalat
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2833.ts
+#EXTINF:-1,AR | Al Jameela
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2839.ts
+#EXTINF:-1,AR | DMC
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2837.ts
+#EXTINF:-1,AR | DMC Drama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2836.ts
+#EXTINF:-1,AR | DMC Sports
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2838.ts
+#EXTINF:-1,AR | LIBYA RSMIA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2840.ts
+#EXTINF:-1,AR | Hannibal
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2841.ts
+#EXTINF:-1,AR | ZAYTOUNA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2843.ts
+#EXTINF:-1,AR | AL JANOUBIA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2842.ts
+#EXTINF:-1,AR | Dream2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2844.ts
+#EXTINF:-1,AR | Alhayat We Alnas
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2846.ts
+#EXTINF:-1,AR | Cartoon Network Arabic
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2845.ts
+#EXTINF:-1,AR | Wanasah
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2847.ts
+#EXTINF:-1,AR | Nile Comedy
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2853.ts
+#EXTINF:-1,AR | Noor AlSham
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2856.ts
+#EXTINF:-1,AR | M-TUNISIA
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2860.ts
+#EXTINF:-1,AR | Moga Comedy
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2861.ts
+#EXTINF:-1,AR | Nessma
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2859.ts
+#EXTINF:-1,AR | Panorama Drama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2864.ts
+#EXTINF:-1,AR | Panorama Drama 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2863.ts
+#EXTINF:-1,AR | Panorama Film
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2862.ts
+#EXTINF:-1,AR | Tunisie 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2857.ts
+#EXTINF:-1,AR | Tunisie 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2858.ts
+#EXTINF:-1,AR | Nile Cinema
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2085.ts
+#EXTINF:-1,AR | Nile Culture
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2084.ts
+#EXTINF:-1,AR | Nile Drama
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2083.ts
+#EXTINF:-1,AR | Nile Family
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2082.ts
+#EXTINF:-1,AR | Nile Life
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2081.ts
+#EXTINF:-1,AR | Nile News
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2080.ts
+#EXTINF:-1,AR | Nile Sport
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2079.ts
+#EXTINF:-1,AR | Nile TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2078.ts
+#EXTINF:-1,KUR | Ronahi TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1484.ts
+#EXTINF:-1,KUR | Rudaw TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1475.ts
+#EXTINF:-1,KUR | Med-Muzik
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1469.ts
+#EXTINF:-1,KUR | Gali Kurdistan
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2865.ts
+#EXTINF:-1,KUR | Kurdsat News SD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2866.ts
+#EXTINF:-1,KUR | Speda
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2868.ts
+#EXTINF:-1,SU | Somalil and National TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/909.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AR- Syria Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16863.ts
 #EXTINF:-1,AR: 2M Monde
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9992.ts
-#EXTINF:-1,AR: Assadissa
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9998.ts
-#EXTINF:-1,AR: TAMAZIGHT
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9991.ts
-#EXTINF:-1,=====  ALGERIE  =====
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13980.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9992.ts
 #EXTINF:-1,AR: A3
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15747.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15747.ts
+#EXTINF:-1,AR: AD Sports 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8633.ts
+#EXTINF:-1,AR: AD Sports 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8634.ts
+#EXTINF:-1,AR: Ajial
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9996.ts
+#EXTINF:-1,AR: Al Anbar TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8810.ts
 #EXTINF:-1,AR: Al Fajr tv
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15754.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15754.ts
+#EXTINF:-1,AR: Al Hayat
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9977.ts
+#EXTINF:-1,AR: Al Hayat2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9978.ts
+#EXTINF:-1,AR: AL JADEED
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16861.ts
+#EXTINF:-1,AR: Al Kaas 5
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9928.ts
 #EXTINF:-1,AR: Al Magharibia Two
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15761.ts
-#EXTINF:-1,AR: Alnahar algeria
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9973.ts
-#EXTINF:-1,AR: Berbère Télévision
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15762.ts
-#EXTINF:-1,AR: Beur TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15763.ts
-#EXTINF:-1,AR: Canal Algerie
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15746.ts
-#EXTINF:-1,AR: Dzair News
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15759.ts
-#EXTINF:-1,AR: Dzair TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9990.ts
-#EXTINF:-1,AR: Samira TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15749.ts
-#EXTINF:-1,AR: Numidia News TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15757.ts
-#EXTINF:-1,AR: Magharibia 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15760.ts
-#EXTINF:-1,AR: TV Coran Dz5
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15755.ts
-#EXTINF:-1,AR: KBC Dz
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15753.ts
-#EXTINF:-1,AR: KBC Algeria
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8786.ts
-#EXTINF:-1,AR: Echourouk tv
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9988.ts
-#EXTINF:-1,AR: Ennahar Laki
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15750.ts
-#EXTINF:-1,AR: Echourouk News
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9989.ts
-#EXTINF:-1,AR: ENTV Algerie
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15756.ts
-#EXTINF:-1,AR: Ennahar TV Algerie
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8795.ts
-#EXTINF:-1,AR: El Heddaf TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15751.ts
-#EXTINF:-1,AR: TV Tamazight
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15748.ts
-#EXTINF:-1,AR: Echorouk Benna
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15752.ts
-#EXTINF:-1,AR: EL Djazairia
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/15764.ts
-#EXTINF:-1,=====  TUNISIE =====
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13981.ts
-#EXTINF:-1,AR: Tunisia National 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9986.ts
-#EXTINF:-1,AR: Tunisia National 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9987.ts
-#EXTINF:-1,AR: NESSMA TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9994.ts
-#EXTINF:-1,AR: Zaytoona
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9995.ts
-#EXTINF:-1,=====  LEBANON =====
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13982.ts
-#EXTINF:-1,AR: Future TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9999.ts
-#EXTINF:-1,AR: Panorama Film
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9930.ts
-#EXTINF:-1,AR: LBC Lebanon
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16865.ts
-#EXTINF:-1,AR: MTV Lebananon
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16860.ts
-#EXTINF:-1,AR: OTV Lebanon
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/16864.ts
-#EXTINF:-1,AR: Bein FataFeat HD
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13601.ts
-#EXTINF:-1,=====  EGYPTE =====
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/13983.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15761.ts
+#EXTINF:-1,AR: Al Masrawia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8807.ts
 #EXTINF:-1,AR: Al Nahar Al Youm
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9975.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9975.ts
 #EXTINF:-1,AR: Al Nahar Drama
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9974.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9974.ts
 #EXTINF:-1,AR: Al Nahar TV
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9972.ts
-#EXTINF:-1,AR: ART Aflam 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9955.ts
-#EXTINF:-1,AR: ART Aflam 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9954.ts
-#EXTINF:-1,AR: ART CINEMA
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9956.ts
-#EXTINF:-1,AR: ART Hekayat 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9958.ts
-#EXTINF:-1,AR: ART Hekayat 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9959.ts
-#EXTINF:-1,AR: Cairo Cinema
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9979.ts
-#EXTINF:-1,AR: Cairo Drama
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9980.ts
-#EXTINF:-1,AR: CBC
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9968.ts
-#EXTINF:-1,AR: CBC Drama
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9970.ts
-#EXTINF:-1,AR: CBC Extra
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9971.ts
-#EXTINF:-1,AR: CBC Sofra
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9969.ts
-#EXTINF:-1,AR: Melody Classic
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8778.ts
-#EXTINF:-1,AR: Nile Sport
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8637.ts
-#EXTINF:-1,AR: Nile Cinema
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9951.ts
-#EXTINF:-1,AR: Nile Comedy
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9950.ts
-#EXTINF:-1,AR: Nile Culture
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9981.ts
-#EXTINF:-1,AR: Nile Drama
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9982.ts
-#EXTINF:-1,AR: Nile Life
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9949.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9972.ts
+#EXTINF:-1,AR: Al Rahma TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8805.ts
+#EXTINF:-1,AR: Alarab
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9926.ts
+#EXTINF:-1,AR: Alarabiya
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16859.ts
+#EXTINF:-1,AR: Alarabiya1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9940.ts
+#EXTINF:-1,AR: Alhayat Musalsalat
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9997.ts
+#EXTINF:-1,AR: Aljazeera
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/14544.ts
+#EXTINF:-1,AR: Aljazeera Doc
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9952.ts
 #EXTINF:-1,AR: ALkahera Wal Nas 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/8804.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8804.ts
+#EXTINF:-1,AR: Alnahar algeria
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9973.ts
+#EXTINF:-1,AR: Alrai TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8803.ts
+#EXTINF:-1,AR: Arrabia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8802.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9955.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9954.ts
+#EXTINF:-1,AR: ART CINEMA
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9956.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9958.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9959.ts
+#EXTINF:-1,AR: Assadissa
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9998.ts
+#EXTINF:-1,AR: Bahrain TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8801.ts
+#EXTINF:-1,AR: Baraem
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9983.ts
+#EXTINF:-1,AR: Bein FataFeat HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13601.ts
+#EXTINF:-1,AR: BeIN Movies 1 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13281.ts
+#EXTINF:-1,AR: BeIN Movies 2 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13282.ts
+#EXTINF:-1,AR: BeIN Movies 3 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13283.ts
+#EXTINF:-1,AR: Bein Movies 4 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13600.ts
+#EXTINF:-1,AR: Berbère Télévision
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15762.ts
+#EXTINF:-1,AR: Beur TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15763.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9979.ts
+#EXTINF:-1,AR: Cairo Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9980.ts
+#EXTINF:-1,AR: Canal Algerie
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15746.ts
+#EXTINF:-1,AR: Cartoon Network
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9984.ts
+#EXTINF:-1,AR: CBC
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9968.ts
+#EXTINF:-1,AR: CBC Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9970.ts
+#EXTINF:-1,AR: CBC Extra
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9971.ts
+#EXTINF:-1,AR: CBC Sofra
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9969.ts
+#EXTINF:-1,AR: CN Arabia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8800.ts
+#EXTINF:-1,AR: Dubai
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10001.ts
+#EXTINF:-1,AR: Dubai Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10005.ts
+#EXTINF:-1,AR: Dubai One
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10004.ts
+#EXTINF:-1,AR: Dubai Racing
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8636.ts
+#EXTINF:-1,AR: Dubai Sama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10002.ts
+#EXTINF:-1,AR: Dubai Sport 3
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8635.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10006.ts
+#EXTINF:-1,AR: Dzair News
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15759.ts
+#EXTINF:-1,AR: Dzair TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9990.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15752.ts
+#EXTINF:-1,AR: Echourouk News
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9989.ts
+#EXTINF:-1,AR: Echourouk tv
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9988.ts
+#EXTINF:-1,AR: El Bilad TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8797.ts
+#EXTINF:-1,AR: EL Djazairia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15764.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15751.ts
+#EXTINF:-1,AR: Ennahar Laki
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15750.ts
+#EXTINF:-1,AR: Ennahar TV Algerie
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8795.ts
+#EXTINF:-1,AR: ENTV Algerie
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15756.ts
+#EXTINF:-1,AR: FUNoon TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9985.ts
+#EXTINF:-1,AR: Future TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9999.ts
+#EXTINF:-1,AR: Jordan Sport
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9936.ts
+#EXTINF:-1,AR: KBC Algeria
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8786.ts
+#EXTINF:-1,AR: KBC Dz
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15753.ts
+#EXTINF:-1,AR: Kuwait TV 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8783.ts
+#EXTINF:-1,AR: Kuwait TV 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8782.ts
+#EXTINF:-1,AR: LBC Lebanon
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16865.ts
+#EXTINF:-1,AR: Libya TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8781.ts
+#EXTINF:-1,AR: Magharibia 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15760.ts
+#EXTINF:-1,AR: Majestic Cinema
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8780.ts
+#EXTINF:-1,AR: MBC 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8642.ts
+#EXTINF:-1,AR: MBC 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8643.ts
+#EXTINF:-1,AR: MBC 3
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9943.ts
+#EXTINF:-1,AR: MBC 4
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9944.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9941.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9946.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9945.ts
+#EXTINF:-1,AR: MBC MASR
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9957.ts
+#EXTINF:-1,AR: MBC MASR 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9948.ts
+#EXTINF:-1,AR: MBC MAX
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9947.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8638.ts
+#EXTINF:-1,AR: MBC Pro Sport 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8639.ts
+#EXTINF:-1,AR: MBC Pro Sport 3 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8640.ts
+#EXTINF:-1,AR: MBC Pro Sport 4
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8641.ts
+#EXTINF:-1,AR: Melody Classic
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8778.ts
+#EXTINF:-1,AR: MTV Lebananon
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16860.ts
+#EXTINF:-1,AR: Music Al Haneen
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8777.ts
+#EXTINF:-1,AR: NESSMA TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9994.ts
+#EXTINF:-1,AR: Nile Cinema
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9951.ts
+#EXTINF:-1,AR: Nile Comedy
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9950.ts
+#EXTINF:-1,AR: Nile Culture
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9981.ts
+#EXTINF:-1,AR: Nile Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9982.ts
+#EXTINF:-1,AR: Nile Life
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9949.ts
+#EXTINF:-1,AR: Nile Sport
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8637.ts
+#EXTINF:-1,AR: Noor Dubai
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10003.ts
+#EXTINF:-1,AR: Numidia News TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15757.ts
+#EXTINF:-1,AR: OSN On Demand HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9937.ts
+#EXTINF:-1,AR: OTV Lebanon
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16864.ts
+#EXTINF:-1,AR: Panorama Drama
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9965.ts
+#EXTINF:-1,AR: Panorama Drama2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9966.ts
+#EXTINF:-1,AR: Panorama Film
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9930.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9929.ts
+#EXTINF:-1,AR: Rotana Classic
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9935.ts
+#EXTINF:-1,AR: Rotana Clip
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9934.ts
+#EXTINF:-1,AR: Rotana Khalijia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9933.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9932.ts
+#EXTINF:-1,AR: Rotana Music
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9931.ts
+#EXTINF:-1,AR: Samira TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15749.ts
+#EXTINF:-1,AR: Sharjah Sports HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9918.ts
 #EXTINF:-1,AR: Star Cinema 1
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9961.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9961.ts
 #EXTINF:-1,AR: Star Cinema 2
-http://sporti.tv:6500/live/nt4J6nrpEV/Bd8cIxGIMX/9962.ts
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9962.ts
+#EXTINF:-1,AR: Sumaria
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8773.ts
+#EXTINF:-1,AR: Syria TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16862.ts
+#EXTINF:-1,AR: TAMAZIGHT
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9991.ts
+#EXTINF:-1,AR: Tele liban TV
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8772.ts
+#EXTINF:-1,AR: Time Cinema
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9964.ts
+#EXTINF:-1,AR: Time Comedy
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9960.ts
+#EXTINF:-1,AR: Time Film
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9963.ts
+#EXTINF:-1,AR: Toyor Al Janah
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9993.ts
+#EXTINF:-1,AR: TRT Arabia
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8771.ts
+#EXTINF:-1,AR: Tunisia National 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9986.ts
+#EXTINF:-1,AR: Tunisia National 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9987.ts
+#EXTINF:-1,AR: TV Coran Dz5
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15755.ts
+#EXTINF:-1,AR: TV Tamazight
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15748.ts
+#EXTINF:-1,AR: Zaytoona
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9995.ts
+#EXTINF:-1,AR: ZEE Aflam
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9967.ts
+#EXTINF:-1,AR: Zee Alwan
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/10000.ts
+#EXTINF:-1,AR:Al Kaas 1 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9914.ts
+#EXTINF:-1,AR:Al Kaas 2 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9915.ts
+#EXTINF:-1,AR:Al Kaas 3 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9916.ts
+#EXTINF:-1,AR:Al Kaas 4 HD
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9917.ts
+#EXTINF:-1,AR:Dubai Sports 1
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9912.ts
+#EXTINF:-1,AR:Dubai Sports 2
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9913.ts
+#EXTINF:-1,AR:Modern Sport
+http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/9919.ts
