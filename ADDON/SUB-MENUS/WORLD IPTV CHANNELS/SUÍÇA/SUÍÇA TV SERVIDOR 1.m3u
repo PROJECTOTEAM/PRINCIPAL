@@ -3,26 +3,116 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-09-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-#EXTINF:-1,Suisse: SRF Info
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13827.ts
-#EXTINF:-1,Suisse: 3+
-https://par-2.stream.firstonetv.eu/hls/624f4efc-ba4e-a390-a830-e159d3b2077e.m3u8
-#EXTINF:-1,Suisse: Teleclub Prime HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13632.ts
-#EXTINF:-1,Suisse: Teleclub Cinema
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13630.ts
-#EXTINF:-1,Suisse: TeleClub Star
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13633.ts
-#EXTINF:-1,Suisse: TeleClub Sport 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13631.ts
-#EXTINF:-1,Suisse: TeleClub Sport Flash HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13629.ts
-#EXTINF:-1,Suisse: SRF 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13626.ts
-#EXTINF:-1,Suisse: SRF 2
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13627.ts
-#EXTINF:-1,Suisse: Teleclub Sports Flash HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15075.ts
+
+
+
+
+#EXTINF:-1,Comedy Central/VIVA HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6857.ts
+#EXTINF:-1,Disneyannel
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6856.ts
+#EXTINF:-1,Nickelodeonannel
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6855.ts
+#EXTINF:-1,Puls 8 FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6865.ts
+#EXTINF:-1,RSI LA 1 HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3341.ts
+#EXTINF:-1,RSI LA 2 HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3340.ts
+#EXTINF:-1,RTS 1
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3344.ts
+#EXTINF:-1,RTS Deux HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3342.ts
+#EXTINF:-1,RTS Un HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3343.ts
+#EXTINF:-1,SRF 1
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3346.ts
+#EXTINF:-1,SRF 1 HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3348.ts
+#EXTINF:-1,SRF 2 HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3347.ts
+#EXTINF:-1,SRF Info HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3349.ts
+#EXTINF:-1,SRF zwei
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3345.ts
+#EXTINF:-1,TLC HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6858.ts
+#EXTINF:-1,TV 24  FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6860.ts
+#EXTINF:-1,TV 25 FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6859.ts
+#EXTINF:-1,Tele M1 FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6862.ts
+#EXTINF:-1,Tele Top FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6861.ts
+#EXTINF:-1,Tele Zuerich
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6864.ts
+#EXTINF:-1,TeleClub Cinema FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4396.ts
+#EXTINF:-1,TeleClub Discoveyannel HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6866.ts
+#EXTINF:-1,TeleClub Flash FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6869.ts
+#EXTINF:-1,TeleClub Prime FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4395.ts
+#EXTINF:-1,TeleClub Sky Sport 1 FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4398.ts
+#EXTINF:-1,TeleClub Sky Sport 2 FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4397.ts
+#EXTINF:-1,TeleClub Star FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4394.ts
+#EXTINF:-1,TeleClub Zuri
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3350.ts
+#EXTINF:-1,Telebasel FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6863.ts
+#EXTINF:-1,Teleclub Cinema
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3353.ts
+#EXTINF:-1,Teleclub Cinema HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3356.ts
+#EXTINF:-1,Teleclub Prime
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3351.ts
+#EXTINF:-1,Teleclub Prime HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3354.ts
+#EXTINF:-1,Teleclub Sport 1
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1190.ts
+#EXTINF:-1,Teleclub Sport 2
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1189.ts
+#EXTINF:-1,Teleclub Star
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3352.ts
+#EXTINF:-1,Teleclub Star HD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3355.ts
+#EXTINF:-1,UPC My Sports FHD
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6868.ts
+#EXTINF:-1,Zurich Uetliberg
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3339.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,|SUI|  SRF 1 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2722.ts
+#EXTINF:-1,|SUI|  SRF 2 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2721.ts
+#EXTINF:-1,|SUI|  TELE ZURICH
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2725.ts
+#EXTINF:-1,|SUI|  TELECLUB CINEMA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2732.ts
+#EXTINF:-1,|SUI|  TELECLUB PRIME
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2731.ts
+#EXTINF:-1,|SUI|  TELECLUB SPORT 1
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2727.ts
+#EXTINF:-1,|SUI|  TELECLUB STAR
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2730.ts

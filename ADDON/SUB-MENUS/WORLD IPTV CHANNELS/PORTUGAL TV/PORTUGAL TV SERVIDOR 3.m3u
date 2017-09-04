@@ -7,226 +7,195 @@ http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,RTP 1
-http://144.217.76.96:8003/live/moreira/moreira/890.ts
-#EXTINF:-1,RTP 1 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1402.ts
-#EXTINF:-1,SIC
-http://144.217.76.96:8003/live/moreira/moreira/880.ts
-#EXTINF:-1,SIC Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1397.ts
-#EXTINF:-1,TVI
-http://144.217.76.96:8003/live/moreira/moreira/891.ts
-#EXTINF:-1,TVI Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1401.ts
-#EXTINF:-1,RTP 2
-http://144.217.76.96:8003/live/moreira/moreira/882.ts
-#EXTINF:-1,RTP 2 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1454.ts
-#EXTINF:-1,RTP 3
-http://144.217.76.96:8003/live/moreira/moreira/886.ts
-#EXTINF:-1,RTP 3 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1444.ts
-#EXTINF:-1,TVI 24
-http://144.217.76.96:8003/live/moreira/moreira/877.ts
-#EXTINF:-1,TVI 24 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1443.ts
-#EXTINF:-1,SIC NOTICIAS
-http://144.217.76.96:8003/live/moreira/moreira/883.ts
-#EXTINF:-1,SIC NOTICIAS Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1437.ts
-#EXTINF:-1,CMTV
-http://144.217.76.96:8003/live/moreira/moreira/887.ts
-#EXTINF:-1,BTV
-http://144.217.76.96:8003/live/moreira/moreira/885.ts
-#EXTINF:-1,BTV Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1442.ts
-#EXTINF:-1,BTV HD
-http://144.217.76.96:8003/live/moreira/moreira/1065.ts
-#EXTINF:-1,SPORT TV 1
-http://144.217.76.96:8003/live/moreira/moreira/867.ts
-#EXTINF:-1,Sport TV 1 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1396.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://144.217.76.96:8003/live/moreira/moreira/858.ts
-#EXTINF:-1,SPORT TV 2
-http://144.217.76.96:8003/live/moreira/moreira/879.ts
-#EXTINF:-1,SPORT TV 2 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1439.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://144.217.76.96:8003/live/moreira/moreira/1069.ts
-#EXTINF:-1,SPORT TV 3
-http://144.217.76.96:8003/live/moreira/moreira/876.ts
-#EXTINF:-1,SPORT TV 3 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1441.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://144.217.76.96:8003/live/moreira/moreira/1070.ts
-#EXTINF:-1,SPORT TV 4
-http://144.217.76.96:8003/live/moreira/moreira/874.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://144.217.76.96:8003/live/moreira/moreira/1145.ts
-#EXTINF:-1,SPORT TV 5
-http://144.217.76.96:8003/live/moreira/moreira/861.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://144.217.76.96:8003/live/moreira/moreira/1523.ts
-#EXTINF:-1,SPORT TV + HD
-http://144.217.76.96:8003/live/moreira/moreira/1520.ts
-#EXTINF:-1,PORTO CANAL
-http://144.217.76.96:8003/live/moreira/moreira/888.ts
-#EXTINF:-1,SPORTING TV
-http://144.217.76.96:8003/live/moreira/moreira/859.ts
-#EXTINF:-1,AXN HD
-http://144.217.76.96:8003/live/moreira/moreira/857.ts
-#EXTINF:-1,AXN Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1456.ts
-#EXTINF:-1,AXN WHITE
-http://144.217.76.96:8003/live/moreira/moreira/1129.ts
-#EXTINF:-1,AMC
-http://144.217.76.96:8003/live/moreira/moreira/1096.ts
-#EXTINF:-1,AMC Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1453.ts
-#EXTINF:-1,AMC HD
-http://144.217.76.96:8003/live/moreira/moreira/866.ts
-#EXTINF:-1,HOLLYWOOD
-http://144.217.76.96:8003/live/moreira/moreira/872.ts
-#EXTINF:-1,HOLLYWOOD Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1438.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://144.217.76.96:8003/live/moreira/moreira/1083.ts
-#EXTINF:-1,FOX HD
-http://144.217.76.96:8003/live/moreira/moreira/1081.ts
-#EXTINF:-1,FOX MOVIES
-http://144.217.76.96:8003/live/moreira/moreira/863.ts
-#EXTINF:-1,FOX MOVIES Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1445.ts
-#EXTINF:-1,TV CINE 1
-http://144.217.76.96:8003/live/moreira/moreira/1084.ts
-#EXTINF:-1,TV CINE 1 HD
-http://144.217.76.96:8003/live/moreira/moreira/1085.ts
-#EXTINF:-1,TV CINE 1 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1452.ts
-#EXTINF:-1,TV CINE 2
-http://144.217.76.96:8003/live/moreira/moreira/1086.ts
-#EXTINF:-1,TV CINE 2 Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1451.ts
-#EXTINF:-1,TV CINE 2 HD
-http://144.217.76.96:8003/live/moreira/moreira/1087.ts
-#EXTINF:-1,TV CINE 3
-http://144.217.76.96:8003/live/moreira/moreira/1088.ts
-#EXTINF:-1,TV CINE 3 HD
-http://144.217.76.96:8003/live/moreira/moreira/1303.ts
-#EXTINF:-1,TV CINE 4
-http://144.217.76.96:8003/live/moreira/moreira/1089.ts
-#EXTINF:-1,TV CINE 4 HD
-http://144.217.76.96:8003/live/moreira/moreira/1304.ts
-#EXTINF:-1,TV SERIES HD
-http://144.217.76.96:8003/live/moreira/moreira/1526.ts
-#EXTINF:-1,CINEMUNDO
-http://144.217.76.96:8003/live/moreira/moreira/1527.ts
-#EXTINF:-1,SYFY
-http://144.217.76.96:8003/live/moreira/moreira/1090.ts
-#EXTINF:-1,SYFY HD
-http://144.217.76.96:8003/live/moreira/moreira/1289.ts
-#EXTINF:-1,CINEMUNDO HD
-http://144.217.76.96:8003/live/moreira/moreira/1100.ts
-#EXTINF:-1,MOV
-http://144.217.76.96:8003/live/moreira/moreira/1075.ts
-#EXTINF:-1,TVI FICCÃO
-http://144.217.76.96:8003/live/moreira/moreira/1400.ts
-#EXTINF:-1,TVI REALITY
-http://144.217.76.96:8003/live/moreira/moreira/865.ts
-#EXTINF:-1,SIC MULHER
-http://144.217.76.96:8003/live/moreira/moreira/864.ts
-#EXTINF:-1,SIC RADICAL
-http://144.217.76.96:8003/live/moreira/moreira/1092.ts
-#EXTINF:-1,SIC CARAS
-http://144.217.76.96:8003/live/moreira/moreira/1524.ts
-#EXTINF:-1,RTP MEMORIA
-http://144.217.76.96:8003/live/moreira/moreira/1093.ts
-#EXTINF:-1,TV GLOBO PREMIUM
-http://144.217.76.96:8003/live/moreira/moreira/878.ts
-#EXTINF:-1,FRANCE 24
-http://144.217.76.96:8003/live/moreira/moreira/862.ts
-#EXTINF:-1,CNN
-http://144.217.76.96:8003/live/moreira/moreira/856.ts
-#EXTINF:-1,KOMBAT SPORT
-http://144.217.76.96:8003/live/moreira/moreira/1528.ts
-#EXTINF:-1,MOTORVISION HD
-http://144.217.76.96:8003/live/moreira/moreira/1521.ts
-#EXTINF:-1,EUROSPORT 1
-http://144.217.76.96:8003/live/moreira/moreira/1133.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://144.217.76.96:8003/live/moreira/moreira/1290.ts
-#EXTINF:-1,A BOLA TV
-http://144.217.76.96:8003/live/moreira/moreira/1094.ts
-#EXTINF:-1,NAT GEO WILD
-http://144.217.76.96:8003/live/moreira/moreira/889.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://144.217.76.96:8003/live/moreira/moreira/1077.ts
-#EXTINF:-1,ODISSEIA
-http://144.217.76.96:8003/live/moreira/moreira/868.ts
-#EXTINF:-1,ODISSEIA Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1440.ts
-#EXTINF:-1,CANAL HISTORIA
-http://144.217.76.96:8003/live/moreira/moreira/870.ts
-#EXTINF:-1,CANAL HISTORIA Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1457.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://144.217.76.96:8003/live/moreira/moreira/869.ts
-#EXTINF:-1,DISCOVERY CHANNEL Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1455.ts
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://144.217.76.96:8003/live/moreira/moreira/1131.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://144.217.76.96:8003/live/moreira/moreira/1061.ts
-#EXTINF:-1,CAÇAVISION
-http://144.217.76.96:8003/live/moreira/moreira/1098.ts
-#EXTINF:-1,CAÇA E PESCA 
-http://144.217.76.96:8003/live/moreira/moreira/1097.ts
-#EXTINF:-1,TOROS TV
-http://144.217.76.96:8003/live/moreira/moreira/1519.ts
-#EXTINF:-1,TRACE URBAN
-http://144.217.76.96:8003/live/moreira/moreira/1518.ts
-#EXTINF:-1,AXN BLACK HD
-http://144.217.76.96:8003/live/moreira/moreira/1522.ts
-#EXTINF:-1,FOX CRIME
-http://144.217.76.96:8003/live/moreira/moreira/1080.ts
-#EXTINF:-1,FOX COMEDY HD
-http://144.217.76.96:8003/live/moreira/moreira/1079.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://144.217.76.96:8003/live/moreira/moreira/881.ts
-#EXTINF:-1,CBS REALITY
-http://144.217.76.96:8003/live/moreira/moreira/1525.ts
-#EXTINF:-1,FOX LIFE HD
-http://144.217.76.96:8003/live/moreira/moreira/1082.ts
-#EXTINF:-1,TLC
-http://144.217.76.96:8003/live/moreira/moreira/1068.ts
-#EXTINF:-1,CANAL Q
-http://144.217.76.96:8003/live/moreira/moreira/1101.ts
-#EXTINF:-1,A&E
-http://144.217.76.96:8003/live/moreira/moreira/1095.ts
-#EXTINF:-1,VH1
-http://144.217.76.96:8003/live/moreira/moreira/1062.ts
-#EXTINF:-1,MTV PORTUGAL
-http://144.217.76.96:8003/live/moreira/moreira/871.ts
-#EXTINF:-1,MTV DANCE
-http://144.217.76.96:8003/live/moreira/moreira/1076.ts
-#EXTINF:-1,SIC K
-http://144.217.76.96:8003/live/moreira/moreira/1091.ts
-#EXTINF:-1,CANAL PANDA
-http://144.217.76.96:8003/live/moreira/moreira/884.ts
-#EXTINF:-1,CANAL PANDA Mobile
-http://144.217.76.96:8003/live/moreira/moreira/1436.ts
-#EXTINF:-1,CARTOON NETWORK
-http://144.217.76.96:8003/live/moreira/moreira/1291.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://144.217.76.96:8003/live/moreira/moreira/860.ts
-#EXTINF:-1,NICKELODEON
-http://144.217.76.96:8003/live/moreira/moreira/1078.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://144.217.76.96:8003/live/moreira/moreira/1102.ts
-#EXTINF:-1,JIM JAM
-http://144.217.76.96:8003/live/moreira/moreira/1300.ts
-#EXTINF:-1,PANDA BIGGS
-http://144.217.76.96:8003/live/moreira/moreira/1139.ts
+#EXTINF:-1,|PT| VH1
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2143.ts
+#EXTINF:-1,|PT| TRACE TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2142.ts
+#EXTINF:-1,|PT| SPORT TV  5
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2139.ts
+#EXTINF:-1,|PT| MTV Dance
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2145.ts
+#EXTINF:-1,|PT| MCM TOP
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2146.ts
+#EXTINF:-1,|PT| AXN BLACK HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2140.ts
+#EXTINF:-1,|PT| AFRO MUSIC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2141.ts
+#EXTINF:-1,PT|  VH1
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1671.ts
+#EXTINF:-1,|PT| TVI REALITY (Quinta)
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1672.ts
+#EXTINF:-1,|PT| TVI 24
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1673.ts
+#EXTINF:-1,|PT| TVI
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1674.ts
+#EXTINF:-1,|PT| TV SERIES
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1675.ts
+#EXTINF:-1,|PT|  TV RECORD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1676.ts
+#EXTINF:-1,|PT| TV Globo Premium
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1677.ts
+#EXTINF:-1,|PT| TV GLOBO
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1678.ts
+#EXTINF:-1,|PT|  TV CINE 4
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1719.ts
+#EXTINF:-1,|PT| TV CINE 3 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1718.ts
+#EXTINF:-1,|PT| TV CINE 2  HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1717.ts
+#EXTINF:-1,|PT| TV CINE 1  HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1716.ts
+#EXTINF:-1,|PT| TPA INTERN
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1679.ts
+#EXTINF:-1,|PT| TOUROS TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1680.ts
+#EXTINF:-1,|PT| TLC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1681.ts
+#EXTINF:-1,|PT| SYFY
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1655.ts
+#EXTINF:-1,|PT| SPORTING TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1720.ts
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1724.ts
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1723.ts
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1722.ts
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1721.ts
+#EXTINF:-1,|PT| SIC RADICAL
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1656.ts
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1657.ts
+#EXTINF:-1,|PT| SIC MULHER
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1682.ts
+#EXTINF:-1,|PT| SIC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1725.ts
+#EXTINF:-1,|PT| RTP MEMORIA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1683.ts
+#EXTINF:-1,|PT| RTP INTERNATIONAL
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1658.ts
+#EXTINF:-1,|PT| RTP INFORMACAO
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1659.ts
+#EXTINF:-1,|PT|  RTP ACORES
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1685.ts
+#EXTINF:-1,|PT| RTP AFRICA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1684.ts
+#EXTINF:-1,|PT| RTP 3
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1715.ts
+#EXTINF:-1,|PT| RTP 2
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1726.ts
+#EXTINF:-1,|PT| RTP 1
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1727.ts
+#EXTINF:-1,|PT| PORTO CANAL
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1660.ts
+#EXTINF:-1,|PT| PFC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1686.ts
+#EXTINF:-1,|PT| ODISSEIA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1687.ts
+#EXTINF:-1,|PT| NICKELODEON
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1688.ts
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC WILD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1689.ts
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1690.ts
+#EXTINF:-1,|PT| MTV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1691.ts
+#EXTINF:-1,|PT| MOV HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1728.ts
+#EXTINF:-1,|PT| MOTORS TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1692.ts
+#EXTINF:-1,|PT| JIM JAM
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1661.ts
+#EXTINF:-1,|PT| HOLLYWOOD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1662.ts
+#EXTINF:-1,|PT| FUEL TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1693.ts
+#EXTINF:-1,|PT| FOX TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1663.ts
+#EXTINF:-1,|PT| FOX MOVIES
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1729.ts
+#EXTINF:-1,|PT| FOX LIFE
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1664.ts
+#EXTINF:-1,|PT| FOX CRIME
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1665.ts
+#EXTINF:-1,|PT| Fox Comedy
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1694.ts
+#EXTINF:-1,|PT|  EUROSPORT 2
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1666.ts
+#EXTINF:-1,|PT|  EUROSPORT
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1667.ts
+#EXTINF:-1,|PT| E! HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1695.ts
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1696.ts
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1697.ts
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1698.ts
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1699.ts
+#EXTINF:-1,|PT| CM TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1700.ts
+#EXTINF:-1,|PT| CINEMUNDO
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1701.ts
+#EXTINF:-1,|PT| CBS REALITY
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1703.ts
+#EXTINF:-1,|PT| CANAL Q
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1704.ts
+#EXTINF:-1,|PT| CANAL PANDA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1705.ts
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1706.ts
+#EXTINF:-1,|PT|  CACA & PESCA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1707.ts
+#EXTINF:-1,|PT| BENFICA TV 2
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1669.ts
+#EXTINF:-1,|PT|  BENFICA TV 1
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1670.ts
+#EXTINF:-1,|PT| BABY TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1708.ts
+#EXTINF:-1,|PT| AXN WHITE
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1713.ts
+#EXTINF:-1,|PT| AXN HD
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1714.ts
+#EXTINF:-1,|PT| AMC
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1709.ts
+#EXTINF:-1,|PT|  A BOLA TV
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1710.ts
+#EXTINF:-1,|PT| A & E
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1711.ts
+#EXTINF:-1,|PT| 24 KITCHEN
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1712.ts
+#EXTINF:-1,|PT| SPORT TV 5
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2295.ts
+#EXTINF:-1,|PT| SPORT TV+
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2324.ts
+#EXTINF:-1,|PT| BIGGS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2328.ts
+#EXTINF:-1,|PT| CACA VISION
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2323.ts
+#EXTINF:-1,|PT| CACA E PESCA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2322.ts
+#EXTINF:-1,|PT| CANAL  TOROS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2554.ts
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2330.ts
+#EXTINF:-1,|PT| EURONEWS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2335.ts
+#EXTINF:-1,|PT| EUROSPORT  NEWS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2325.ts
+#EXTINF:-1,|PT| FOX NEWS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2331.ts
+#EXTINF:-1,|PT| MOTORVISION
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2327.ts
+#EXTINF:-1,|PT| RTP  MADEIRA
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2321.ts
+#EXTINF:-1,|PT| SIC KIDS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2329.ts
+#EXTINF:-1,|PT|  STV NOTICIAS
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2334.ts
+#EXTINF:-1,|PT| RTP ACORES
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2649.ts
+#EXTINF:-1,|PT| TVI FICCAO
+http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2647.ts

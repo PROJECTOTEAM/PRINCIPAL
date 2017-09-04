@@ -1,331 +1,474 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 01-09-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-
-#EXTINF:-1,DE:  M2O Music
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7423.ts
-#EXTINF:-1,DE:  Sky Cinema Hits
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7440.ts
-#EXTINF:-1,DE:  VEVO
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7436.ts
-#EXTINF:-1,DE:  WDR HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7435.ts
-#EXTINF:-1,DE: 13th Street
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7443.ts
-#EXTINF:-1,DE: 13th Street HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15572.ts
-#EXTINF:-1,DE: 3Sat
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7470.ts
-#EXTINF:-1,DE: A&E
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15354.ts
-#EXTINF:-1,DE: ANIXE
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7469.ts
-#EXTINF:-1,DE: ARD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7468.ts
-#EXTINF:-1,DE: Arte
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7418.ts
-#EXTINF:-1,DE: Austria 24
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7467.ts
-#EXTINF:-1,DE: AXN HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7466.ts
-#EXTINF:-1,DE: Boomerang
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15351.ts
-#EXTINF:-1,DE: Cartoon Network
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15356.ts
-#EXTINF:-1,DE: Classica Deutschland
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7135.ts
-#EXTINF:-1,DE: Das Erste
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/2135.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7134.ts
-#EXTINF:-1,DE: Discovery Channel
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7176.ts
-#EXTINF:-1,DE: Discovery HD German
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15584.ts
-#EXTINF:-1,DE: Disney Channel
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7173.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7133.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15571.ts
-#EXTINF:-1,DE: Disney Junior
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7175.ts
-#EXTINF:-1,DE: Disney XD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7453.ts
-#EXTINF:-1,DE: Dmax
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7417.ts
-#EXTINF:-1,DE: E! Entertainment HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15341.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15342.ts
-#EXTINF:-1,DE: Eurosport HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7107.ts
-#EXTINF:-1,DE: Family TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15350.ts
-#EXTINF:-1,DE: FOX HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7172.ts
-#EXTINF:-1,DE: Fox Serie
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7171.ts
-#EXTINF:-1,DE: Goldstar TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15355.ts
-#EXTINF:-1,DE: Heimatkanal
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7452.ts
-#EXTINF:-1,DE: HISTORY HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7106.ts
-#EXTINF:-1,DE: INTV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/2134.ts
-#EXTINF:-1,DE: Jukebox
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15343.ts
-#EXTINF:-1,DE: Junior
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13018.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15559.ts
-#EXTINF:-1,DE: Kabel Eins
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7131.ts
-#EXTINF:-1,DE: Kabel Eins Doku
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15346.ts
-#EXTINF:-1,DE: Kika-HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7424.ts
-#EXTINF:-1,DE: KinoWelt TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7450.ts
-#EXTINF:-1,DE: MDR
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7465.ts
-#EXTINF:-1,DE: MGM HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7187.ts
-#EXTINF:-1,DE: Motorvision TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13017.ts
-#EXTINF:-1,DE: n-tvv
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7464.ts
-#EXTINF:-1,DE: N24
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7105.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15581.ts
-#EXTINF:-1,DE: Nat Geographic
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7164.ts
-#EXTINF:-1,DE: NatGeo HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15569.ts
-#EXTINF:-1,DE: NatGeo Wild
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7163.ts
-#EXTINF:-1,DE: Ndr
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7419.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7130.ts
-#EXTINF:-1,DE: ORF 2HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7129.ts
-#EXTINF:-1,DE: ORF Sport+ HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/14041.ts
-#EXTINF:-1,DE: Phoenix
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7420.ts
-#EXTINF:-1,DE: Pro 7 MAXX
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7414.ts
-#EXTINF:-1,DE: Pro Sieben
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7448.ts
-#EXTINF:-1,DE: RomanceTV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7451.ts
-#EXTINF:-1,DE: RTL 2
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7408.ts
-#EXTINF:-1,DE: RTL Crime
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7461.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15580.ts
-#EXTINF:-1,DE: RTL HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7125.ts
-#EXTINF:-1,DE: RTL Living
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7162.ts
-#EXTINF:-1,DE: RTL Nitro
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7409.ts
-#EXTINF:-1,DE: RTL Passion
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7128.ts
-#EXTINF:-1,DE: RTL Plus
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13020.ts
-#EXTINF:-1,DE: RTL Television
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15352.ts
-#EXTINF:-1,DE: SAT 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7463.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7412.ts
-#EXTINF:-1,DE: Servus TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7438.ts
-#EXTINF:-1,DE: Sky 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15593.ts
-#EXTINF:-1,DE: SKY 3D
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7456.ts
-#EXTINF:-1,DE: Sky Action HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15589.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15344.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7152.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15567.ts
-#EXTINF:-1,DE: Sky Bundesliga 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7123.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16980.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17039.ts
-#EXTINF:-1,DE: Sky Bundesliga 10 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13038.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17033.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7122.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17034.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7121.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17035.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/12551.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17036.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7120.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17037.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13026.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17038.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13028.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17041.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13025.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/17040.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13027.ts
-#EXTINF:-1,DE: Sky Cinema
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7151.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7150.ts
-#EXTINF:-1,DE: Sky Cinema +24 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7149.ts
-#EXTINF:-1,DE: Sky Cinema 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15578.ts
-#EXTINF:-1,DE: Sky Cinema Action
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7153.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15566.ts
-#EXTINF:-1,DE: Sky Cinema Comedy
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7148.ts
-#EXTINF:-1,DE: Sky Cinema Family
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15353.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15576.ts
-#EXTINF:-1,DE: Sky Emotion
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7147.ts
-#EXTINF:-1,DE: Sky Hits
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7146.ts
-#EXTINF:-1,DE: Sky Hits HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15573.ts
-#EXTINF:-1,DE: Sky Krimi
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7145.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7144.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7104.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7103.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7102.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7101.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7100.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7099.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7098.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7116.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7115.ts
-#EXTINF:-1,DE: Sky Sport 10 (match time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13030.ts
-#EXTINF:-1,DE: Sky Sport 11
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13037.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7113.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15556.ts
-#EXTINF:-1,DE: Sky Sport 3 (Match Time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13036.ts
-#EXTINF:-1,DE: Sky Sport 4 (Match Time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13035.ts
-#EXTINF:-1,DE: Sky Sport 5 (match time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13034.ts
-#EXTINF:-1,DE: Sky Sport 6 (match time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13033.ts
-#EXTINF:-1,DE: Sky Sport 7 (match time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13032.ts
-#EXTINF:-1,DE: Sky Sport 8 match time
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13031.ts
-#EXTINF:-1,DE: Sky Sport 9 (match time)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13029.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15349.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15562.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15561.ts
-#EXTINF:-1,DE: Sky Sport Fan Zone HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7444.ts
-#EXTINF:-1,DE: Sky Sport News
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7111.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15560.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7141.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15563.ts
-#EXTINF:-1,DE: SPORT +1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7109.ts
-#EXTINF:-1,DE: Sport 1  HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7108.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7119.ts
-#EXTINF:-1,DE: Sport1  HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15564.ts
-#EXTINF:-1,DE: Sport1 US HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15587.ts
-#EXTINF:-1,DE: SPORTDIGITAL HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7471.ts
-#EXTINF:-1,DE: SUPER RTL HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7140.ts
-#EXTINF:-1,DE: SWR HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7460.ts
-#EXTINF:-1,DE: Syfy HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7139.ts
-#EXTINF:-1,DE: TLC
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7427.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15348.ts
-#EXTINF:-1,DE: TNT Film (TCM)
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15574.ts
-#EXTINF:-1,DE: TNT Film HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7137.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15565.ts
-#EXTINF:-1,DE: TNT Series
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7136.ts
-#EXTINF:-1,DE: Toggo Plus
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15345.ts
-#EXTINF:-1,DE: Universal HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15347.ts
-#EXTINF:-1,DE: VOX
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7458.ts
-#EXTINF:-1,DE: ZDF
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7124.ts
-#EXTINF:-1,DE: ZDF neo
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/7457.ts
-#EXTINF:-1,De: Zee One
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15340.ts
-#EXTINF:-1,DE:Goldstar TV
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13015.ts
+#EXTINF:-1,13th Street HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/80.ts
+#EXTINF:-1,13th Street FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3948.ts
+#EXTINF:-1,3sat HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2565.ts
+#EXTINF:-1,Animal Planet HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2564.ts
+#EXTINF:-1,Animal Planet FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3946.ts
+#EXTINF:-1,ANIXE HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2563.ts
+#EXTINF:-1,ARD Alpha DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/107.ts
+#EXTINF:-1,arte DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/106.ts
+#EXTINF:-1,arte FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4173.ts
+#EXTINF:-1,Astro TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5432.ts
+#EXTINF:-1,Augsburg TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/103.ts
+#EXTINF:-1,AXN HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/105.ts
+#EXTINF:-1,AXN FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3945.ts
+#EXTINF:-1,A&E FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3947.ts
+#EXTINF:-1,Baby TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/104.ts
+#EXTINF:-1,BR DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5431.ts
+#EXTINF:-1,Boomerang DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3185.ts
+#EXTINF:-1,CLASSICA DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/102.ts
+#EXTINF:-1,Das Erste DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2562.ts
+#EXTINF:-1,Das Erste FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4177.ts
+#EXTINF:-1,Deluxe Music DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3184.ts
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5430.ts
+#EXTINF:-1,Discovery Channel HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/59.ts
+#EXTINF:-1,Discovery Channel FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3944.ts
+#EXTINF:-1,Disney Channel DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/99.ts
+#EXTINF:-1,Disney Channel FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3943.ts
+#EXTINF:-1,Disney Cinemagic HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3183.ts
+#EXTINF:-1,Disney Cinemagic FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3942.ts
+#EXTINF:-1,Disney Junior DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/58.ts
+#EXTINF:-1,Disney XD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/98.ts
+#EXTINF:-1,DMAX FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/101.ts
+#EXTINF:-1,E! Entertaiment DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5429.ts
+#EXTINF:-1,Equi8 DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5428.ts
+#EXTINF:-1,EWTN Europe DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5427.ts
+#EXTINF:-1,Family TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5426.ts
+#EXTINF:-1,Franken Fernsehen DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5424.ts
+#EXTINF:-1,FOX HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2556.ts
+#EXTINF:-1,FOX FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3941.ts
+#EXTINF:-1,Fox Serie DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5425.ts
+#EXTINF:-1,Goldstar TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/84.ts
+#EXTINF:-1,HR DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5422.ts
+#EXTINF:-1,HR FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5421.ts
+#EXTINF:-1,Heimatikanal DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3182.ts
+#EXTINF:-1,History HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/95.ts
+#EXTINF:-1,History FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3940.ts
+#EXTINF:-1,Home Shopping Europe DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5423.ts
+#EXTINF:-1,HSE24 Trend DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5420.ts
+#EXTINF:-1,INTV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5419.ts
+#EXTINF:-1,Jukebox DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3854.ts
+#EXTINF:-1,Junior DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3850.ts
+#EXTINF:-1,kabel eins CLASSICS HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/94.ts
+#EXTINF:-1,kabel eins Doku DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/93.ts
+#EXTINF:-1,kabel eins HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/92.ts
+#EXTINF:-1,kabel eins FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4175.ts
+#EXTINF:-1,Kabel eins Journal DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/7083.ts
+#EXTINF:-1,KiKa DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/91.ts
+#EXTINF:-1,KiKa FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4174.ts
+#EXTINF:-1,KinoweltTV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/90.ts
+#EXTINF:-1,MediaShop Meine Einkaufswelt DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5418.ts
+#EXTINF:-1,Mediaspar TV Homeshopping DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5417.ts
+#EXTINF:-1,MeinTVshop DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5416.ts
+#EXTINF:-1,MDR HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/89.ts
+#EXTINF:-1,Motorvision TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3181.ts
+#EXTINF:-1,MTV Dance DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3853.ts
+#EXTINF:-1,N24 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/88.ts
+#EXTINF:-1,N24 Doku DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5415.ts
+#EXTINF:-1,Nat Geo People DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5414.ts
+#EXTINF:-1,National Geographic HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/87.ts
+#EXTINF:-1,National Geographic FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3935.ts
+#EXTINF:-1,Nat Geo Wild DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2561.ts
+#EXTINF:-1,Nat Geo Wild FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3937.ts
+#EXTINF:-1,NDR HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/86.ts
+#EXTINF:-1,Nickelodeon CH
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2560.ts
+#EXTINF:-1,Nickelodeon DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3852.ts
+#EXTINF:-1,Nickelodeon FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4176.ts
+#EXTINF:-1,n-tv DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/85.ts
+#EXTINF:-1,n-tv FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3938.ts
+#EXTINF:-1,ORF eins HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2559.ts
+#EXTINF:-1,ORF 2 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2558.ts
+#EXTINF:-1,Phoenix HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3186.ts
+#EXTINF:-1,Planet HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5413.ts
+#EXTINF:-1,ProSieben DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3180.ts
+#EXTINF:-1,ProSieben HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/83.ts
+#EXTINF:-1,ProSieben FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4171.ts
+#EXTINF:-1,Pro7 Fun HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6420.ts
+#EXTINF:-1,ProSieben MAXX HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/82.ts
+#EXTINF:-1,ProSieben MAXX FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3933.ts
+#EXTINF:-1,QVC Beauty & Style DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5411.ts
+#EXTINF:-1,QVC DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5412.ts
+#EXTINF:-1,rbb Berlin DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5410.ts
+#EXTINF:-1,rbb Brandenburg DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5409.ts
+#EXTINF:-1,Regio TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5408.ts
+#EXTINF:-1,RFO DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5407.ts
+#EXTINF:-1,RIC DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5406.ts
+#EXTINF:-1,Romance TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3177.ts
+#EXTINF:-1,RTL Crime DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/77.ts
+#EXTINF:-1,RTL DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/81.ts
+#EXTINF:-1,RTL FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4184.ts
+#EXTINF:-1,RTL Living HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/76.ts
+#EXTINF:-1,RTL Nitro HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/75.ts
+#EXTINF:-1,RTL Nitro FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3930.ts
+#EXTINF:-1,RTL Passion DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/74.ts
+#EXTINF:-1,RTL II DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/79.ts
+#EXTINF:-1,RTL II FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3932.ts
+#EXTINF:-1,RTL II YOU HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/78.ts
+#EXTINF:-1,SAT.1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/72.ts
+#EXTINF:-1,SAT.1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3929.ts
+#EXTINF:-1,SAT.1 emotions DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/73.ts
+#EXTINF:-1,SAT.1 GOLD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/71.ts
+#EXTINF:-1,Servus TV HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/70.ts
+#EXTINF:-1,SIXX HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/69.ts
+#EXTINF:-1,SIXX FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3928.ts
+#EXTINF:-1,Sonnenklar TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5405.ts
+#EXTINF:-1,Sony TV HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5433.ts
+#EXTINF:-1,Super RTL FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3923.ts
+#EXTINF:-1,Sparhandy TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5404.ts
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3174.ts
+#EXTINF:-1,Spiegel TV Wissen FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5398.ts
+#EXTINF:-1,SWR DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5403.ts
+#EXTINF:-1,SWR HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5402.ts
+#EXTINF:-1,Syfy DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3173.ts
+#EXTINF:-1,Syfy FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3922.ts
+#EXTINF:-1,Sky 1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/68.ts
+#EXTINF:-1,Sky ARTS DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6824.ts
+#EXTINF:-1,Sky ARTS FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6825.ts
+#EXTINF:-1,Sky Atlantic HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/66.ts
+#EXTINF:-1,Sky Atlantic FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3926.ts
+#EXTINF:-1,Sky Atlantic +1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4390.ts
+#EXTINF:-1,Sky Cinema HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/62.ts
+#EXTINF:-1,Sky Cinema FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3925.ts
+#EXTINF:-1,Sky Cinema Action HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/67.ts
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3927.ts
+#EXTINF:-1,Sky Cinema +1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/65.ts
+#EXTINF:-1,Sky Cinema +1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4183.ts
+#EXTINF:-1,Sky Cinema +24 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/64.ts
+#EXTINF:-1,Sky Cinema +24 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4391.ts
+#EXTINF:-1,Sky Cinema Comedy HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/60.ts
+#EXTINF:-1,Sky Cinema Emotion DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2557.ts
+#EXTINF:-1,Sky Cinema Emotion HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3849.ts
+#EXTINF:-1,Sky Cinema Family HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/63.ts
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4181.ts
+#EXTINF:-1,Sky Cinema Hits HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2555.ts
+#EXTINF:-1,Sky Cinema Hits FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3924.ts
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3178.ts
+#EXTINF:-1,Sky Krimi DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3179.ts
+#EXTINF:-1,Sky 3D FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4179.ts
+#EXTINF:-1,Sky Arte FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4389.ts
+#EXTINF:-1,Sky Select 1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1339.ts
+#EXTINF:-1,Sky Select 2 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1338.ts
+#EXTINF:-1,Sky Select 3 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1337.ts
+#EXTINF:-1,Sky Select 4 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1336.ts
+#EXTINF:-1,Sky Select 5 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1335.ts
+#EXTINF:-1,Sky Select 6 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1334.ts
+#EXTINF:-1,Sky Select 7 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1333.ts
+#EXTINF:-1,Sky Select 8 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1332.ts
+#EXTINF:-1,SilverLine Movies Channel HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5490.ts
+#EXTINF:-1,Tagesschau 24 DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5401.ts
+#EXTINF:-1,TELE 5 DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3172.ts
+#EXTINF:-1,TLC DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3171.ts
+#EXTINF:-1,TOGGO plus DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3851.ts
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2549.ts
+#EXTINF:-1,TNT Film DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4388.ts
+#EXTINF:-1,TNT Film HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2554.ts
+#EXTINF:-1,TNT Comedy HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3848.ts
+#EXTINF:-1,TNT Comedy FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4180.ts
+#EXTINF:-1,TNT Serie HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3175.ts
+#EXTINF:-1,TNT Serie FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3921.ts
+#EXTINF:-1,Ulm-Allg DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5400.ts
+#EXTINF:-1,Universal Channel HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3170.ts
+#EXTINF:-1,VIVA / Comedy Central DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3169.ts
+#EXTINF:-1,VOX DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/100.ts
+#EXTINF:-1,VOX FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3920.ts
+#EXTINF:-1,WDR HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2551.ts
+#EXTINF:-1,Welt der Wunder DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5399.ts
+#EXTINF:-1,ZDF DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2550.ts
+#EXTINF:-1,ZDF FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4178.ts
+#EXTINF:-1,ZDFinfo DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3856.ts
+#EXTINF:-1,ZDFneo DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3855.ts
+#EXTINF:-1,ZDFneo FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4172.ts
+#EXTINF:-1,Zee One DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/96.ts
+#EXTINF:-1,Zee One FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5397.ts
+#EXTINF:-1,Bayern FC TV DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6491.ts
+#EXTINF:-1,Bayern FC TV FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6492.ts
+#EXTINF:-1,Eurosport 1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1316.ts
+#EXTINF:-1,Eurosport 2 DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/97.ts
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6506.ts
+#EXTINF:-1,SportDigital HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3187.ts
+#EXTINF:-1,Sky Sport Austria DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3176.ts
+#EXTINF:-1,Sky Sport Austria FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5584.ts
+#EXTINF:-1,Sky Sport FanZone FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3939.ts
+#EXTINF:-1,Sport1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/3847.ts
+#EXTINF:-1,Sky Sport News HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1315.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1331.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4387.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1330.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4386.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1329.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4385.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1328.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4384.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1327.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4383.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1326.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4382.ts
+#EXTINF:-1,Sky Sport Bundesliga 7 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4381.ts
+#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4380.ts
+#EXTINF:-1,Sky Sport Bundesliga 9 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4379.ts
+#EXTINF:-1,Sky Sport Bundesliga 10 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4378.ts
+#EXTINF:-1,Sky Sport 1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1325.ts
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4377.ts
+#EXTINF:-1,Sky Sport 2 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1324.ts
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4376.ts
+#EXTINF:-1,Sky Sport 3 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1323.ts
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4375.ts
+#EXTINF:-1,Sky Sport 4 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1322.ts
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4374.ts
+#EXTINF:-1,Sky Sport 5 FHD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1321.ts
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4373.ts
+#EXTINF:-1,Sky Sport 6 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1320.ts
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4372.ts
+#EXTINF:-1,Sky Sport 7 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1319.ts
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4371.ts
+#EXTINF:-1,Sky Sport 8 HD (Live Event) DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1318.ts
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4370.ts
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4369.ts
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4368.ts
+#EXTINF:-1,Sky Sport 11 FHD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4367.ts
+#EXTINF:-1,Eurosport Player 1 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6213.ts
+#EXTINF:-1,Eurosport Player 2 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6212.ts
+#EXTINF:-1,Eurosport Player 3 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6211.ts
+#EXTINF:-1,Eurosport Player 4 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6210.ts
+#EXTINF:-1,Eurosport Player 5 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6209.ts
+#EXTINF:-1,Eurosport Player 6 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6208.ts
+#EXTINF:-1,Eurosport Player 7 HD DE
+http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6207.ts
