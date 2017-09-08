@@ -1,456 +1,435 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-09-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
-#EXTINF:-1,DE: ARD HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24547.ts
-#EXTINF:-1,DE: ZDF
-http://best-anonymous.eu:8000/live/filippo1/carmine/24552.ts
-#EXTINF:-1,DE: RTL SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24567.ts
-#EXTINF:-1,DE: RTL HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24568.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24566.ts
-#EXTINF:-1,DE: RTL 2 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24565.ts
-#EXTINF:-1,DE: Super RTL HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24559.ts
-#EXTINF:-1,DE: VOX HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24553.ts
-#EXTINF:-1,DE: Sat 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/24546.ts
-#EXTINF:-1,DE: Sixx
-http://best-anonymous.eu:8000/live/filippo1/carmine/24535.ts
-#EXTINF:-1,DE: KABEL 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24549.ts
-#EXTINF:-1,DE: Prosieben HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24558.ts
-#EXTINF:-1,DE: 13th Street
-http://best-anonymous.eu:8000/live/filippo1/carmine/24530.ts
-#EXTINF:-1,DE: 13th Street HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24529.ts
-#EXTINF:-1,DE: 3Sat HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24544.ts
-#EXTINF:-1,DE: 3 Sat HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24905.ts
-#EXTINF:-1,DE: A&E HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24398.ts
-#EXTINF:-1,DE: Animal Planet HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24390.ts
-#EXTINF:-1,DE: Anixe HD Series
-http://best-anonymous.eu:8000/live/filippo1/carmine/24387.ts
-#EXTINF:-1,DE: Augsburg TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/24532.ts
-#EXTINF:-1,DE: Austria 24
-http://best-anonymous.eu:8000/live/filippo1/carmine/24534.ts
-#EXTINF:-1,DE: AXN HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24525.ts
-#EXTINF:-1,DE: Boomerang HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24498.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24393.ts
-#EXTINF:-1,DE: E! HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24396.ts
-#EXTINF:-1,DE: Euronews DE
-http://best-anonymous.eu:8000/live/filippo1/carmine/24399.ts
-#EXTINF:-1,DE: FOX HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24524.ts
-#EXTINF:-1,DE: Heimat Kanal HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24506.ts
-#EXTINF:-1,DE: History Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24391.ts
+
+
+
+
+
+#EXTINF:-1,DE I DAS ERSTE
+http://46.105.119.223:8000/live/hasanturan/turan/2107.ts
+#EXTINF:-1,DE| ARD
+http://46.105.119.223:8000/live/hasanturan/turan/518.ts
+#EXTINF:-1,DE | ZDF
+http://46.105.119.223:8000/live/hasanturan/turan/2731.ts
+#EXTINF:-1,DE| WDR HD
+http://46.105.119.223:8000/live/hasanturan/turan/519.ts
+#EXTINF:-1,DE PRO 7
+http://46.105.119.223:8000/live/hasanturan/turan/2871.ts
+#EXTINF:-1,DE: RTL DE
+http://46.105.119.223:8000/live/hasanturan/turan/2875.ts
+#EXTINF:-1,DE | RTL
+http://46.105.119.223:8000/live/hasanturan/turan/2732.ts
+#EXTINF:-1,DE:RTL DE 2
+http://46.105.119.223:8000/live/hasanturan/turan/2874.ts
+#EXTINF:-1,DE |:|  RTL
+http://46.105.119.223:8000/live/hasanturan/turan/2733.ts
+#EXTINF:-1,DE:SAT 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2876.ts
+#EXTINF:-1,DE |:|  SAT 1
+http://46.105.119.223:8000/live/hasanturan/turan/2735.ts
+#EXTINF:-1,DE |:| PRO 7
+http://46.105.119.223:8000/live/hasanturan/turan/2736.ts
+#EXTINF:-1,DE:KABEL 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2878.ts
+#EXTINF:-1,DE | KABEL 1
+http://46.105.119.223:8000/live/hasanturan/turan/352.ts
+#EXTINF:-1,DE:VOX HD
+http://46.105.119.223:8000/live/hasanturan/turan/2877.ts
+#EXTINF:-1,DE |:|  VOX
+http://46.105.119.223:8000/live/hasanturan/turan/2734.ts
+#EXTINF:-1,DE   ZEE ONE
+http://46.105.119.223:8000/live/hasanturan/turan/961.ts
+#EXTINF:-1,DE I HR
+http://46.105.119.223:8000/live/hasanturan/turan/2111.ts
+#EXTINF:-1,DE I NDR HD
+http://46.105.119.223:8000/live/hasanturan/turan/2110.ts
+#EXTINF:-1,DE I BR HD
+http://46.105.119.223:8000/live/hasanturan/turan/2112.ts
+#EXTINF:-1,DE I ANIXE
+http://46.105.119.223:8000/live/hasanturan/turan/2114.ts
+#EXTINF:-1,DE | N 24
+http://46.105.119.223:8000/live/hasanturan/turan/353.ts
+#EXTINF:-1,DE |  N TV
+http://46.105.119.223:8000/live/hasanturan/turan/2737.ts
+#EXTINF:-1,DE I Tagesschau24
+http://46.105.119.223:8000/live/hasanturan/turan/2109.ts
+#EXTINF:-1,DE:KABELEINS
+http://46.105.119.223:8000/live/hasanturan/turan/3516.ts
+#EXTINF:-1,DE:KIKA HD
+http://46.105.119.223:8000/live/hasanturan/turan/3478.ts
+#EXTINF:-1,DE:N-TV HD
+http://46.105.119.223:8000/live/hasanturan/turan/3469.ts
+#EXTINF:-1,DE:N24 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3468.ts
+#EXTINF:-1,DE:Nickelodeon
+http://46.105.119.223:8000/live/hasanturan/turan/3479.ts
+#EXTINF:-1,DE:ORF 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3471.ts
+#EXTINF:-1,DE:ORF EINS
+http://46.105.119.223:8000/live/hasanturan/turan/3472.ts
+#EXTINF:-1,DE:Phoenix
+http://46.105.119.223:8000/live/hasanturan/turan/3463.ts
+#EXTINF:-1,DE:Planet HD
+http://46.105.119.223:8000/live/hasanturan/turan/3465.ts
+#EXTINF:-1,DE:PRO 7  HD
+http://46.105.119.223:8000/live/hasanturan/turan/3521.ts
+#EXTINF:-1,DE:Pro7 MAXX HD
+http://46.105.119.223:8000/live/hasanturan/turan/3519.ts
+#EXTINF:-1,DE:RTL
+http://46.105.119.223:8000/live/hasanturan/turan/3527.ts
+#EXTINF:-1,DE:RTL 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3525.ts
+#EXTINF:-1,DE:RTL HD
+http://46.105.119.223:8000/live/hasanturan/turan/3528.ts
+#EXTINF:-1,DE:RTL Living HD
+http://46.105.119.223:8000/live/hasanturan/turan/3524.ts
+#EXTINF:-1,DE:RTL Nitro HD
+http://46.105.119.223:8000/live/hasanturan/turan/3523.ts
+#EXTINF:-1,DE:RTL Plus
+http://46.105.119.223:8000/live/hasanturan/turan/3526.ts
+#EXTINF:-1,DE:Sat 1 Gold
+http://46.105.119.223:8000/live/hasanturan/turan/3522.ts
+#EXTINF:-1,DE:SIXX HD
+http://46.105.119.223:8000/live/hasanturan/turan/3464.ts
 #EXTINF:-1,DE: Kabel Classic HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24548.ts
-#EXTINF:-1,DE: Kabel1 Doku
-http://best-anonymous.eu:8000/live/filippo1/carmine/24494.ts
-#EXTINF:-1,DE: Kinowelt TV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24507.ts
-#EXTINF:-1,DE: MTV Germany
-http://best-anonymous.eu:8000/live/filippo1/carmine/24521.ts
-#EXTINF:-1,DE: Munchen TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/24533.ts
-#EXTINF:-1,DE: N24
-http://best-anonymous.eu:8000/live/filippo1/carmine/24554.ts
-#EXTINF:-1,DE: Nat Geo People HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24392.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24394.ts
-#EXTINF:-1,DE: National Geographic HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24395.ts
-#EXTINF:-1,DE: NDR HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24536.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24543.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24542.ts
-#EXTINF:-1,DE: ORF 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24541.ts
-#EXTINF:-1,DE: SRF 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/24537.ts
-#EXTINF:-1,DE: Tele 5 tv HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24539.ts
-#EXTINF:-1,DE: VIVA / COMEDY CENTRAL
-http://best-anonymous.eu:8000/live/filippo1/carmine/24493.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24551.ts
-#EXTINF:-1,DE: Zee one HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24495.ts
+http://46.105.119.223:8000/live/hasanturan/turan/3515.ts
+#EXTINF:-1,DE: Zee One HD
+http://46.105.119.223:8000/live/hasanturan/turan/3518.ts
+#EXTINF:-1,DE:3sat HD
+http://46.105.119.223:8000/live/hasanturan/turan/3460.ts
+#EXTINF:-1,DE:ANIXE HD
+http://46.105.119.223:8000/live/hasanturan/turan/3461.ts
 #EXTINF:-1,DE:Arte HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24540.ts
-#EXTINF:-1,DE:ORF 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24904.ts
-#EXTINF:-1,DE:ProSieben Maxx
-http://best-anonymous.eu:8000/live/filippo1/carmine/24906.ts
-#EXTINF:-1,DE:RTL NITRO
-http://best-anonymous.eu:8000/live/filippo1/carmine/24560.ts
-#EXTINF:-1,DE:RTL You HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24561.ts
-#EXTINF:-1,DE: PLANET HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24388.ts
-#EXTINF:-1,DE: Pro7 Maxx HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24555.ts
-#EXTINF:-1,DE: Prosieben Fun HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24556.ts
-#EXTINF:-1,DE: ProSieben Maxx
-http://best-anonymous.eu:8000/live/filippo1/carmine/24557.ts
-#EXTINF:-1,DE: Romance TV HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24508.ts
-#EXTINF:-1,DE: Sky DMAX
-http://best-anonymous.eu:8000/live/filippo1/carmine/24389.ts
-#EXTINF:-1,DE: RTL Crime
-http://best-anonymous.eu:8000/live/filippo1/carmine/24562.ts
-#EXTINF:-1,DE: RTL Living HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24564.ts
-#EXTINF:-1,DE: RTL Passion
-http://best-anonymous.eu:8000/live/filippo1/carmine/24563.ts
-#EXTINF:-1,DE: Sony HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24522.ts
-#EXTINF:-1,DE: SRF 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24538.ts
-#EXTINF:-1,DE: Goldstar TV
-http://best-anonymous.eu:8000/live/filippo1/carmine/24903.ts
-#EXTINF:-1,DE: Sat 1 Gold
-http://best-anonymous.eu:8000/live/filippo1/carmine/24545.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://best-anonymous.eu:8000/live/filippo1/carmine/24510.ts
-#EXTINF:-1,### Kinder Sendung ###
-http://
-#EXTINF:-1,DE: Nick JR HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24496.ts
-#EXTINF:-1,DE: KIKA HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24505.ts
-#EXTINF:-1,DE: Junior HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24500.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24504.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24503.ts
-#EXTINF:-1,DE: Disney XD HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24501.ts
-#EXTINF:-1,DE: Nickelodeon HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24520.ts
-#EXTINF:-1,DE: Nickelodeon Schweiz HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24497.ts
-#EXTINF:-1,DE:Disney Junior
-http://best-anonymous.eu:8000/live/filippo1/carmine/24502.ts
-#EXTINF:-1,DE: Sky Cartoon Network HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24499.ts
-#EXTINF:-1,•●★--- Sky Kino DE ----★●•
-http://best-anonymous.eu:8000/live/filippo1/carmine/14408.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24518.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24517.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24516.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24514.ts
-#EXTINF:-1,DE: Sky Cinema Comedy HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24512.ts
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24513.ts
-#EXTINF:-1,De: Sky Cinema Hits HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24515.ts
-#EXTINF:-1,DE: Sky Cinema Nostalgie HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24511.ts
-#EXTINF:-1,DE: Sky Krimi
-http://best-anonymous.eu:8000/live/filippo1/carmine/24509.ts
-#EXTINF:-1,DE: SYFY HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24523.ts
-#EXTINF:-1,DE: MGM Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24901.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24526.ts
-#EXTINF:-1,DE: TNT Film
-http://best-anonymous.eu:8000/live/filippo1/carmine/24902.ts
-#EXTINF:-1,DE: TNT Film HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24528.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24527.ts
-#EXTINF:-1,DE: Universal Channel HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24519.ts
-#EXTINF:-1,DE: Film Club 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24492.ts
-#EXTINF:-1,DE: Film Club 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24491.ts
-#EXTINF:-1,DE: Film Club 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24490.ts
-#EXTINF:-1,DE: Film Club 4 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24489.ts
-#EXTINF:-1,DE: Film Club 5 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24488.ts
-#EXTINF:-1,DE: Film Club 6 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24487.ts
-#EXTINF:-1,### Sport Bundesliga ###
-http://
-#EXTINF:-1,DE: Eurosport 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/24356.ts
-#EXTINF:-1,DE: Eurosport 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/24382.ts
-#EXTINF:-1,DE: Motorvision HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24386.ts
-#EXTINF:-1,DE: ORF Sport   HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24355.ts
-#EXTINF:-1,DE: SKY Sport News HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24384.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24383.ts
-#EXTINF:-1,DE: Sport Digital HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24385.ts
+http://46.105.119.223:8000/live/hasanturan/turan/3462.ts
+#EXTINF:-1,DE:ATV HD
+http://46.105.119.223:8000/live/hasanturan/turan/3474.ts
+#EXTINF:-1,DE:ATV2
+http://46.105.119.223:8000/live/hasanturan/turan/3473.ts
+#EXTINF:-1,DE:Das Erste HD
+http://46.105.119.223:8000/live/hasanturan/turan/3531.ts
+#EXTINF:-1,DE:DE:ZDF NEO
+http://46.105.119.223:8000/live/hasanturan/turan/3466.ts
+#EXTINF:-1,DE:DMAX HD
+http://46.105.119.223:8000/live/hasanturan/turan/3517.ts
+#EXTINF:-1,DE:E! Entertainm
+http://46.105.119.223:8000/live/hasanturan/turan/3459.ts
+#EXTINF:-1,DE:Euro News
+http://46.105.119.223:8000/live/hasanturan/turan/3470.ts
+#EXTINF:-1,DE:Sport1  HD
+http://46.105.119.223:8000/live/hasanturan/turan/3437.ts
+#EXTINF:-1,DE:SRF 1
+http://46.105.119.223:8000/live/hasanturan/turan/3476.ts
+#EXTINF:-1,DE:SRF 2
+http://46.105.119.223:8000/live/hasanturan/turan/3475.ts
+#EXTINF:-1,DE:Super RTL
+http://46.105.119.223:8000/live/hasanturan/turan/3477.ts
+#EXTINF:-1,DE:WDR HD
+http://46.105.119.223:8000/live/hasanturan/turan/3467.ts
+#EXTINF:-1,DE:ZDF
+http://46.105.119.223:8000/live/hasanturan/turan/3529.ts
+#EXTINF:-1,DE:ZDF HD
+http://46.105.119.223:8000/live/hasanturan/turan/3530.ts
+#EXTINF:-1,Sky Bundesliga 1
+http://46.105.119.223:8000/live/hasanturan/turan/3423.ts
+#EXTINF:-1,SKY Bundesliga 10 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3416.ts
+#EXTINF:-1,SKY BUNDESLIGA 2
+http://46.105.119.223:8000/live/hasanturan/turan/3422.ts
+#EXTINF:-1,SKY Bundesliga 7 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3419.ts
+#EXTINF:-1,SKY Bundesliga 8 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3418.ts
+#EXTINF:-1,SKY Bundesliga 9 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3417.ts
+#EXTINF:-1,BUNDESLIGA 4
+http://46.105.119.223:8000/live/hasanturan/turan/3421.ts
+#EXTINF:-1,BUNDESLIGA 5
+http://46.105.119.223:8000/live/hasanturan/turan/3420.ts
+#EXTINF:-1,BUNDESLIGA SPORT
+http://46.105.119.223:8000/live/hasanturan/turan/3424.ts
+#EXTINF:-1,CAPITAL  (HR)
+http://46.105.119.223:8000/live/hasanturan/turan/3845.ts
+#EXTINF:-1,CBC ONE ki
+http://46.105.119.223:8000/live/hasanturan/turan/3052.ts
+#EXTINF:-1,DE:FILM CLUB HD 1
+http://46.105.119.223:8000/live/hasanturan/turan/3451.ts
+#EXTINF:-1,DE:FILM CLUB HD 2
+http://46.105.119.223:8000/live/hasanturan/turan/3450.ts
+#EXTINF:-1,DE:FILM CLUB HD 3
+http://46.105.119.223:8000/live/hasanturan/turan/3449.ts
+#EXTINF:-1,DE:FILM CLUB HD 4
+http://46.105.119.223:8000/live/hasanturan/turan/3448.ts
+#EXTINF:-1,DE:FILM CLUB HD 5
+http://46.105.119.223:8000/live/hasanturan/turan/3447.ts
+#EXTINF:-1,DE:FILM CLUB HD 6
+http://46.105.119.223:8000/live/hasanturan/turan/3446.ts
+#EXTINF:-1,DE:Junior
+http://46.105.119.223:8000/live/hasanturan/turan/3484.ts
+#EXTINF:-1,DE:SKY Cartoon Network HD
+http://46.105.119.223:8000/live/hasanturan/turan/3481.ts
+#EXTINF:-1,DE:Sky Germany 13th Street  HD
+http://46.105.119.223:8000/live/hasanturan/turan/3511.ts
+#EXTINF:-1,DE:Sky Germany A&E HD
+http://46.105.119.223:8000/live/hasanturan/turan/3495.ts
+#EXTINF:-1,DE:SKY Germany Action HD
+http://46.105.119.223:8000/live/hasanturan/turan/3458.ts
+#EXTINF:-1,DE:Sky Germany Animal Planet HD
+http://46.105.119.223:8000/live/hasanturan/turan/3496.ts
+#EXTINF:-1,DE:Sky Germany Atlantic 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3512.ts
+#EXTINF:-1,DE:SKY Germany Atlantic HD
+http://46.105.119.223:8000/live/hasanturan/turan/3513.ts
+#EXTINF:-1,DE:SKY Germany AXN HD
+http://46.105.119.223:8000/live/hasanturan/turan/3506.ts
+#EXTINF:-1,DE:SKY Germany Boomerang HD
+http://46.105.119.223:8000/live/hasanturan/turan/3482.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3427.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3426.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 3 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3425.ts
+#EXTINF:-1,DE:SKY Germany Cinema  1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3456.ts
+#EXTINF:-1,DE:SKY Germany CINEMA  24 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3455.ts
+#EXTINF:-1,DE:SKY Germany Cinema HD
+http://46.105.119.223:8000/live/hasanturan/turan/3457.ts
+#EXTINF:-1,DE:SKY Germany CLASSICA
+http://46.105.119.223:8000/live/hasanturan/turan/3486.ts
+#EXTINF:-1,DE:Sky Germany Comedy HD
+http://46.105.119.223:8000/live/hasanturan/turan/3453.ts
+#EXTINF:-1,DE:SKY Germany Discovery Channel
+http://46.105.119.223:8000/live/hasanturan/turan/3487.ts
+#EXTINF:-1,DE:SKY Germany Discovery HD
+http://46.105.119.223:8000/live/hasanturan/turan/3488.ts
+#EXTINF:-1,DE:SKY Germany Disney Cinemagic HD
+http://46.105.119.223:8000/live/hasanturan/turan/3480.ts
+#EXTINF:-1,DE:SKY Germany Disney Junior
+http://46.105.119.223:8000/live/hasanturan/turan/3485.ts
+#EXTINF:-1,DE:SKY Germany Disney XD
+http://46.105.119.223:8000/live/hasanturan/turan/3483.ts
+#EXTINF:-1,DE:SKY Germany EMOTION HD
+http://46.105.119.223:8000/live/hasanturan/turan/3514.ts
+#EXTINF:-1,DE:Sky Germany FOX HD
+http://46.105.119.223:8000/live/hasanturan/turan/3509.ts
+#EXTINF:-1,DE:SKY Germany History HD
+http://46.105.119.223:8000/live/hasanturan/turan/3493.ts
+#EXTINF:-1,DE:Sky Germany Hits HD
+http://46.105.119.223:8000/live/hasanturan/turan/3454.ts
+#EXTINF:-1,DE:SKY Germany KINOWELT HD
+http://46.105.119.223:8000/live/hasanturan/turan/3505.ts
+#EXTINF:-1,DE:SKY Germany Krimi
+http://46.105.119.223:8000/live/hasanturan/turan/3501.ts
+#EXTINF:-1,DE:SKY Germany MGM HD
+http://46.105.119.223:8000/live/hasanturan/turan/3510.ts
+#EXTINF:-1,DE:Sky Germany Motorvision HD
+http://46.105.119.223:8000/live/hasanturan/turan/3436.ts
+#EXTINF:-1,DE:SKY Germany Nat Geo HD
+http://46.105.119.223:8000/live/hasanturan/turan/3499.ts
+#EXTINF:-1,DE:Sky Germany Nat Geo People HD
+http://46.105.119.223:8000/live/hasanturan/turan/3497.ts
+#EXTINF:-1,DE:SKY Germany Nat Geo Wild HD
+http://46.105.119.223:8000/live/hasanturan/turan/3498.ts
+#EXTINF:-1,DE:SKY Germany Nostalgie
+http://46.105.119.223:8000/live/hasanturan/turan/3500.ts
+#EXTINF:-1,DE:SKY Germany ROMANCE TV HD
+http://46.105.119.223:8000/live/hasanturan/turan/3491.ts
+#EXTINF:-1,DE:SKY Germany RTL CRIME HD
+http://46.105.119.223:8000/live/hasanturan/turan/3489.ts
+#EXTINF:-1,DE:SKY Germany RTL PASSION
+http://46.105.119.223:8000/live/hasanturan/turan/3490.ts
+#EXTINF:-1,DE:SKY Germany Select  1
+http://46.105.119.223:8000/live/hasanturan/turan/3445.ts
+#EXTINF:-1,DE:SKY Germany Select  2
+http://46.105.119.223:8000/live/hasanturan/turan/3444.ts
+#EXTINF:-1,DE:SKY Germany Select  3
+http://46.105.119.223:8000/live/hasanturan/turan/3443.ts
+#EXTINF:-1,DE:SKY Germany Select  4
+http://46.105.119.223:8000/live/hasanturan/turan/3442.ts
+#EXTINF:-1,DE:SKY Germany Select  5
+http://46.105.119.223:8000/live/hasanturan/turan/3441.ts
+#EXTINF:-1,DE:SKY Germany Select  6
+http://46.105.119.223:8000/live/hasanturan/turan/3440.ts
+#EXTINF:-1,DE:SKY Germany Select  7
+http://46.105.119.223:8000/live/hasanturan/turan/3439.ts
+#EXTINF:-1,DE:Sky GERMANY Select 8
+http://46.105.119.223:8000/live/hasanturan/turan/3438.ts
+#EXTINF:-1,DE:Sky Germany Sony HD
+http://46.105.119.223:8000/live/hasanturan/turan/3452.ts
+#EXTINF:-1,DE:SKY Germany SPIEGEL GESHICHTE
+http://46.105.119.223:8000/live/hasanturan/turan/3494.ts
+#EXTINF:-1,DE:SKY Germany Sport 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3432.ts
+#EXTINF:-1,DE:SKY Germany Sport 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3431.ts
+#EXTINF:-1,DE:Sky Germany Sport 3 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3430.ts
+#EXTINF:-1,DE:Sky Germany Sport 4 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3429.ts
+#EXTINF:-1,DE:Sky Germany Sport 5 HD
+http://46.105.119.223:8000/live/hasanturan/turan/3428.ts
+#EXTINF:-1,DE:SKY Germany Sport Austria
+http://46.105.119.223:8000/live/hasanturan/turan/3433.ts
+#EXTINF:-1,DE:SKY Germany SPORT DIGITAL HD
+http://46.105.119.223:8000/live/hasanturan/turan/3435.ts
+#EXTINF:-1,DE:SKY Germany Sport News HD
+http://46.105.119.223:8000/live/hasanturan/turan/3434.ts
+#EXTINF:-1,DE:SKY Germany Syfy HD
+http://46.105.119.223:8000/live/hasanturan/turan/3507.ts
+#EXTINF:-1,DE:SKY Germany TLC
+http://46.105.119.223:8000/live/hasanturan/turan/3492.ts
+#EXTINF:-1,DE:SKY Germany TNT Comedy HD
+http://46.105.119.223:8000/live/hasanturan/turan/3502.ts
+#EXTINF:-1,DE:Sky Germany TNT FILM HD
+http://46.105.119.223:8000/live/hasanturan/turan/3504.ts
+#EXTINF:-1,DE:SKY Germany TNT Serie  HD
+http://46.105.119.223:8000/live/hasanturan/turan/3503.ts
+#EXTINF:-1,DE:Sky Germany UNIVERSAL CHANNEL
+http://46.105.119.223:8000/live/hasanturan/turan/3508.ts
+#EXTINF:-1,DE:Sky Prosieben Fun HD
+http://46.105.119.223:8000/live/hasanturan/turan/3520.ts
+#EXTINF:-1,DE| Tagesschau24
+http://46.105.119.223:8000/live/hasanturan/turan/517.ts
+#EXTINF:-1,DE |  DEUTSCHE WELLE
+http://46.105.119.223:8000/live/hasanturan/turan/2656.ts
+#EXTINF:-1,DE| EURONEWS
+http://46.105.119.223:8000/live/hasanturan/turan/520.ts
+#EXTINF:-1,DE | VOX AUSTRIA
+http://46.105.119.223:8000/live/hasanturan/turan/853.ts
+#EXTINF:-1,DE | ATV AUSTRIA
+http://46.105.119.223:8000/live/hasanturan/turan/864.ts
+#EXTINF:-1,DE | KTV
+http://46.105.119.223:8000/live/hasanturan/turan/856.ts
+#EXTINF:-1,DW LATIN
+http://46.105.119.223:8000/live/hasanturan/turan/758.ts
+#EXTINF:-1,DE | DEUTSEHES
+http://46.105.119.223:8000/live/hasanturan/turan/857.ts
+#EXTINF:-1,DE | MELODIE TV
+http://46.105.119.223:8000/live/hasanturan/turan/855.ts
+#EXTINF:-1,MUZIK CAPITALTV
+http://46.105.119.223:8000/live/hasanturan/turan/762.ts
+#EXTINF:-1,CITY
+http://46.105.119.223:8000/live/hasanturan/turan/574.ts
+#EXTINF:-1,CAPITAL TV
+http://46.105.119.223:8000/live/hasanturan/turan/571.ts
+#EXTINF:-1,DE | RHEIN
+http://46.105.119.223:8000/live/hasanturan/turan/858.ts
+#EXTINF:-1,DE Franken
+http://46.105.119.223:8000/live/hasanturan/turan/865.ts
+#EXTINF:-1,DE  MÜNCHEN TV
+http://46.105.119.223:8000/live/hasanturan/turan/868.ts
+#EXTINF:-1,DE PHOENIX
+http://46.105.119.223:8000/live/hasanturan/turan/863.ts
+#EXTINF:-1,DE ULM
+http://46.105.119.223:8000/live/hasanturan/turan/867.ts
+#EXTINF:-1,DE:RTL Nitro
+http://46.105.119.223:8000/live/hasanturan/turan/2873.ts
+#EXTINF:-1,DE I KIKA
+http://46.105.119.223:8000/live/hasanturan/turan/2113.ts
+#EXTINF:-1,DE:sky action
+http://46.105.119.223:8000/live/hasanturan/turan/2856.ts
+#EXTINF:-1,DE:SKY CINEMA 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2858.ts
+#EXTINF:-1,DE:skycinema1a
+http://46.105.119.223:8000/live/hasanturan/turan/2867.ts
+#EXTINF:-1,DE:SKY ATLANTIC HD
+http://46.105.119.223:8000/live/hasanturan/turan/2857.ts
+#EXTINF:-1,DE:SKY CINEMA 24 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2859.ts
+#EXTINF:-1,DE:SKY COMEDY
+http://46.105.119.223:8000/live/hasanturan/turan/2860.ts
+#EXTINF:-1,DE:SKY EMOTION
+http://46.105.119.223:8000/live/hasanturan/turan/2862.ts
+#EXTINF:-1,DE:RTL PASSION
+http://46.105.119.223:8000/live/hasanturan/turan/2872.ts
+#EXTINF:-1,DE | SKY COMMEDY
+http://46.105.119.223:8000/live/hasanturan/turan/407.ts
+#EXTINF:-1,DE | SKY TNT SERIE
+http://46.105.119.223:8000/live/hasanturan/turan/962.ts
+#EXTINF:-1,DE:SKY 13 STREET HD
+http://46.105.119.223:8000/live/hasanturan/turan/2855.ts
+#EXTINF:-1,DE:SKY  KIRMI
+http://46.105.119.223:8000/live/hasanturan/turan/2854.ts
+#EXTINF:-1,DE:SKY MGM
+http://46.105.119.223:8000/live/hasanturan/turan/2864.ts
+#EXTINF:-1,DE:SKY TNT SERIE
+http://46.105.119.223:8000/live/hasanturan/turan/2866.ts
+#EXTINF:-1,DE:SKY NOSTALGIE
+http://46.105.119.223:8000/live/hasanturan/turan/2865.ts
+#EXTINF:-1,DE:SYFY
+http://46.105.119.223:8000/live/hasanturan/turan/2870.ts
+#EXTINF:-1,DE:SKY KRIME
+http://46.105.119.223:8000/live/hasanturan/turan/2863.ts
+#EXTINF:-1,DE:DISNEY CINE MAGIC
+http://46.105.119.223:8000/live/hasanturan/turan/2853.ts
+#EXTINF:-1,DE Boomerang
+http://46.105.119.223:8000/live/hasanturan/turan/2852.ts
+#EXTINF:-1,DE COMEDY CENTRAL
+http://46.105.119.223:8000/live/hasanturan/turan/2869.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC  WILD DE
+http://46.105.119.223:8000/live/hasanturan/turan/420.ts
+#EXTINF:-1,DE:SKY DISCOVERY HD
+http://46.105.119.223:8000/live/hasanturan/turan/2861.ts
+#EXTINF:-1,DE:SKY SPORT NEWS
+http://46.105.119.223:8000/live/hasanturan/turan/2885.ts
+#EXTINF:-1,DE SKY BUNDENSLIGA 1 YDK
+http://46.105.119.223:8000/live/hasanturan/turan/2883.ts
+#EXTINF:-1,DE:SKY BUNDENSLIGA 1
+http://46.105.119.223:8000/live/hasanturan/turan/2884.ts
+#EXTINF:-1,DE:Sport TV 1
+http://46.105.119.223:8000/live/hasanturan/turan/2868.ts
+#EXTINF:-1,DE:SKY SPORT 1
+http://46.105.119.223:8000/live/hasanturan/turan/2882.ts
 #EXTINF:-1,DE: SPORT1  HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24357.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/24376.ts
-#EXTINF:-1,DE: Sky Sport 1 BackUp
-http://best-anonymous.eu:8000/live/filippo1/carmine/24374.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24381.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/24375.ts
-#EXTINF:-1,DE:Sky Sport 2 BackUp
-http://best-anonymous.eu:8000/live/filippo1/carmine/24373.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24380.ts
-#EXTINF:-1,DE: Sky Sport 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24379.ts
-#EXTINF:-1,DE: Sky Sport 4 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24378.ts
-#EXTINF:-1,DE: Sky Sport 5 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24377.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24372.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24362.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24371.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24361.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24370.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24360.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24369.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24359.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24368.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24358.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24367.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24366.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24365.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24364.ts
-#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24363.ts
-#EXTINF:-1,###  Sky Select  ###
-http://
-#EXTINF:-1,DE: Programm
-http://best-anonymous.eu:8000/live/filippo1/carmine/24885.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24900.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24899.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24898.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24897.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24896.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24895.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24894.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24893.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24892.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24891.ts
-#EXTINF:-1,DE: Sky Select 11 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24890.ts
-#EXTINF:-1,DE: Sky Select 14 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24889.ts
-#EXTINF:-1,DE: Sky Select 15 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24888.ts
-#EXTINF:-1,DE: Sky Select 18 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24887.ts
-#EXTINF:-1,DE: Sky Select 20 HD
-http://best-anonymous.eu:8000/live/filippo1/carmine/24886.ts
-#EXTINF:-1,DE: Sky Premiere 1 (Money Monster)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24830.ts
-#EXTINF:-1,DE: Sky Premiere  2 (Das Jerico Project)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24829.ts
-#EXTINF:-1,DE: Sky Premiere  3 (The First Avenger : Civil War)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24828.ts
-#EXTINF:-1,DE: Sky Premiere  4 (Warcraft : The Begining)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24827.ts
-#EXTINF:-1,DE: Sky Premiere  5 (X Man : Apocalipse)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24826.ts
-#EXTINF:-1,DE: Sky Premiere  6 (The Witch)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24825.ts
-#EXTINF:-1,DE: Sky Premiere  7 (Extraction Operation Condor)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24824.ts
-#EXTINF:-1,DE: Sky Premiere  8 (10 Cloverfield Lane)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24823.ts
-#EXTINF:-1,DE: Sky Premiere  9 (Angry Birds : Der Film)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24822.ts
-#EXTINF:-1,DE: Sky Premiere 10 (Point Break)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24821.ts
-#EXTINF:-1,DE: Sky Select (Absolutely Fabulous: Der Film 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24848.ts
-#EXTINF:-1,DE: Sky Select (Bad Moms)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24862.ts
-#EXTINF:-1,DE: Sky Select (Bad Neighbors 2 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24833.ts
-#EXTINF:-1,DE: Sky Select (Barbershop: Jeder braucht 'nen frischen Haarschnitt 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24861.ts
-#EXTINF:-1,DE: Sky Select (Batman v Superman: Dawn of Justice 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24836.ts
-#EXTINF:-1,DE: Sky Select (Ben Hur 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24860.ts
-#EXTINF:-1,DE: Sky Select (BFG Sophie&der Riese (2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24877.ts
-#EXTINF:-1,DE: Sky Select (Blair Witch 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24873.ts
-#EXTINF:-1,DE: Sky Select (Complete Unknown 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24872.ts
-#EXTINF:-1,DE: Sky Select (Death Race 2050  2017)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24876.ts
-#EXTINF:-1,DE: Sky Select (Die Bestimmung: Allegiant 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24840.ts
-#EXTINF:-1,DE: Sky Select (Die glorreichen Sieben 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24878.ts
-#EXTINF:-1,DE: Sky Select (Die Insel der besonderen Kinder 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24871.ts
-#EXTINF:-1,DE: Sky Select (Die Unfassbaren 2  2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24852.ts
-#EXTINF:-1,DE: Sky Select 5
-http://best-anonymous.eu:8000/live/filippo1/carmine/24880.ts
-#EXTINF:-1,DE: Sky Select (Don't Breathe 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24857.ts
-#EXTINF:-1,DE: Sky Select (Eliminators 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24856.ts
-#EXTINF:-1,DE: Sky Select (Elliot: der Drache 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24849.ts
-#EXTINF:-1,DE: Sky Select (Fack ju G
-http://best-anonymous.eu:8000/live/filippo1/carmine/24870.ts
-#EXTINF:-1,DE: Sky Select (Findet Dorie 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24879.ts
-#EXTINF:-1,DE: Sky Select (Ghostbusters (2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24835.ts
-#EXTINF:-1,DE: Sky Select (Ghostbusters.2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24834.ts
-#EXTINF:-1,DE: Sky Select (Ice Age: Kollision voraus! 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24831.ts
-#EXTINF:-1,DE: Sky Select (In a Valley of Violence 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24859.ts
-#EXTINF:-1,DE: Sky Select (Independence Day: Wiederkehr 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24869.ts
-#EXTINF:-1,DE: Sky Select 1
-http://best-anonymous.eu:8000/live/filippo1/carmine/24884.ts
-#EXTINF:-1,DE: Sky Select (Jack Reacher: Never Go Back 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24832.ts
-#EXTINF:-1,DE: Sky Select (Jason Bourne 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24843.ts
-#EXTINF:-1,DE: Sky Select (Legend of Tarzan (2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24839.ts
-#EXTINF:-1,DE: Sky Select (Lights Out 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24844.ts
-#EXTINF:-1,DE: Sky Select (Marauders Die Reichen werden bezahlen 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24868.ts
-#EXTINF:-1,DE: Sky Select (Mike and Dave Need Wedding Dates 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24853.ts
-#EXTINF:-1,DE: Sky Select (Mother's Day: Liebe ist kein Kinderspiel 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24846.ts
-#EXTINF:-1,DE: Sky Select (Nerve)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24863.ts
-#EXTINF:-1,DE: Sky Select (Operation Chromite 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24854.ts
-#EXTINF:-1,DE: Sky Select 2
-http://best-anonymous.eu:8000/live/filippo1/carmine/24883.ts
-#EXTINF:-1,DE: Sky Select (Pets 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24841.ts
-#EXTINF:-1,DE: Sky Select (Puls: Wenn alle vernetzt sind ist keiner sicher 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24858.ts
-#EXTINF:-1,DE: Sky Select (Rupture: 
-http://best-anonymous.eu:8000/live/filippo1/carmine/24865.ts
-#EXTINF:-1,DE: Sky Select (Sausage Party: Es geht um die Wurst 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24875.ts
-#EXTINF:-1,DE: Sky Select (Schweinskopf al dente 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24874.ts
-#EXTINF:-1,DE: Sky Select (Skiptrace (2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24838.ts
-#EXTINF:-1,DE: Sky Select (Star Trek Beyond 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24837.ts
-#EXTINF:-1,DE: Sky Select (Suicide Squad 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24855.ts
-#EXTINF:-1,DE: Sky Select (Teenage Mutant Ninja Turtles: Out of the Shadows 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24842.ts
-#EXTINF:-1,DE: Sky Select (The Infiltrator 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24867.ts
-#EXTINF:-1,DE: Sky Select (The Light Between Oceans 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24866.ts
-#EXTINF:-1,DE: Sky Select (The Mechanic: Resurrection 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24851.ts
-#EXTINF:-1,DE: Sky Select (The Purge: Election Year 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24864.ts
-#EXTINF:-1,DE: Sky Select (The Shallows: Gefahr aus der Tiefe 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24850.ts
-#EXTINF:-1,DE: Sky Select (Toni Erdmann 2016)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24845.ts
-#EXTINF:-1,DE: Sky Select (Verr
-http://best-anonymous.eu:8000/live/filippo1/carmine/24847.ts
-#EXTINF:-1,DE: Sky Select 3
-http://best-anonymous.eu:8000/live/filippo1/carmine/24882.ts
-#EXTINF:-1,DE: Sky Select 4
-http://best-anonymous.eu:8000/live/filippo1/carmine/24881.ts
-#EXTINF:-1,DE: Programmübersicht Sky Select
-http://best-anonymous.eu:8000/live/filippo1/carmine/24466.ts
-#EXTINF:-1,DE: Sky VOD 1 (Money Monster)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24409.ts
-#EXTINF:-1,DE: Sky VOD 2 (Das Jerico Project)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24408.ts
-#EXTINF:-1,DE: Sky VOD 3 (The First Avenger : Civil War)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24407.ts
-#EXTINF:-1,DE: Sky VOD 4 (Warcraft : The Begining)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24406.ts
-#EXTINF:-1,DE: Sky VOD 5 (X Man : Apocalipse)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24405.ts
-#EXTINF:-1,DE: Sky VOD 6 (The Witch)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24404.ts
-#EXTINF:-1,DE: Sky VOD 7 (Extraction Operation Condor)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24403.ts
-#EXTINF:-1,DE: Sky VOD 8 (10 Cloverfield Lane)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24402.ts
-#EXTINF:-1,DE: Sky VOD 9 (Angry Birds : Der Film)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24401.ts
-#EXTINF:-1,DE: Sky VOD 10 (Point Break)
-http://best-anonymous.eu:8000/live/filippo1/carmine/24400.ts
+http://46.105.119.223:8000/live/hasanturan/turan/2879.ts
+#EXTINF:-1,DE SKY SPORT 2 YDK
+http://46.105.119.223:8000/live/hasanturan/turan/2880.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1
+http://46.105.119.223:8000/live/hasanturan/turan/461.ts
+#EXTINF:-1,SKY BUNDESLIGA 3
+http://46.105.119.223:8000/live/hasanturan/turan/464.ts
+#EXTINF:-1,SKY BUNDESLIGA 4
+http://46.105.119.223:8000/live/hasanturan/turan/465.ts
+#EXTINF:-1,SKY BUNDESLIGA 5
+http://46.105.119.223:8000/live/hasanturan/turan/466.ts
+#EXTINF:-1,SKY BUNDESLIGA 6
+http://46.105.119.223:8000/live/hasanturan/turan/467.ts
+#EXTINF:-1,SKY SPORT 3
+http://46.105.119.223:8000/live/hasanturan/turan/472.ts
+#EXTINF:-1,SKY SPORT 4
+http://46.105.119.223:8000/live/hasanturan/turan/473.ts
+#EXTINF:-1,DE | SKY SPORT 1
+http://46.105.119.223:8000/live/hasanturan/turan/445.ts
+#EXTINF:-1,DE-SKY SELECT-1
+http://46.105.119.223:8000/live/hasanturan/turan/605.ts
+#EXTINF:-1,DE-SKY SELECT-2
+http://46.105.119.223:8000/live/hasanturan/turan/604.ts
+#EXTINF:-1,DE-SKY SELECT-3
+http://46.105.119.223:8000/live/hasanturan/turan/603.ts
+#EXTINF:-1,DE-SKY SELECT-4
+http://46.105.119.223:8000/live/hasanturan/turan/602.ts
+#EXTINF:-1,DE-SKY SELECT-5
+http://46.105.119.223:8000/live/hasanturan/turan/601.ts
+#EXTINF:-1,DE-SKY SELECT-6
+http://46.105.119.223:8000/live/hasanturan/turan/600.ts
+#EXTINF:-1,DE-SKY SELECT-7
+http://46.105.119.223:8000/live/hasanturan/turan/599.ts
+#EXTINF:-1,DE-SKY SELECT-8
+http://46.105.119.223:8000/live/hasanturan/turan/598.ts
+#EXTINF:-1,DE | FILM CLUB HD 1
+http://46.105.119.223:8000/live/hasanturan/turan/963.ts
+#EXTINF:-1,DE | FILM CLUB HD 2
+http://46.105.119.223:8000/live/hasanturan/turan/964.ts
+#EXTINF:-1,DE | FILM CLUB HD 3
+http://46.105.119.223:8000/live/hasanturan/turan/965.ts
+#EXTINF:-1,DE | FILM CLUB HD 4
+http://46.105.119.223:8000/live/hasanturan/turan/966.ts
+#EXTINF:-1,DE | FILM CLUB HD 5
+http://46.105.119.223:8000/live/hasanturan/turan/967.ts
+#EXTINF:-1,DE | FILM CLUB HD 6
+http://46.105.119.223:8000/live/hasanturan/turan/968.ts

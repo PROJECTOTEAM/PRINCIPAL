@@ -4,544 +4,66 @@
 
 
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-09-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 08-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
 
 
-
-#EXTINF:-1,NPO 1 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/364.ts
-#EXTINF:-1,NPO 1 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/305.ts
-#EXTINF:-1,NPO 2 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/363.ts
-#EXTINF:-1,NPO 2 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/304.ts
-#EXTINF:-1,NPO 3 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/362.ts
-#EXTINF:-1,NPO 3 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/303.ts
-#EXTINF:-1,RTL 4 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/361.ts
-#EXTINF:-1,RTL 4 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/295.ts
-#EXTINF:-1,RTL 5 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/360.ts
-#EXTINF:-1,RTL 5 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/294.ts
-#EXTINF:-1,SBS6 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/357.ts
-#EXTINF:-1,SBS 6 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/288.ts
-#EXTINF:-1,RTL 7 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/359.ts
-#EXTINF:-1,RTL 7 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/293.ts
-#EXTINF:-1,RTL 8 HD (Telekids) NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/292.ts
-#EXTINF:-1,RTL 8 FHD (Telekids) NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/358.ts
-#EXTINF:-1,SBS 9 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/289.ts
-#EXTINF:-1,RTL Z NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/290.ts
-#EXTINF:-1,Veronica/DisneyXD HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/249.ts
-#EXTINF:-1,Veronica/DisneyXD FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6513.ts
-#EXTINF:-1,NET 5 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/355.ts
-#EXTINF:-1,NET5 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/260.ts
-#EXTINF:-1,RTL CRIME NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/297.ts
-#EXTINF:-1,RTL Lounge NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/291.ts
-#EXTINF:-1,NPO 101 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/300.ts
-#EXTINF:-1,TLC NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/286.ts
-#EXTINF:-1,TLC FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6811.ts
-#EXTINF:-1,TV Oranje NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/285.ts
-#EXTINF:-1,NGC HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/258.ts
-#EXTINF:-1,ZES NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/281.ts
-#EXTINF:-1,iConcerts HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/229.ts
-#EXTINF:-1,NPO HUMOR NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/298.ts
-#EXTINF:-1,NPO Politiek NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/302.ts
-#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/301.ts
-#EXTINF:-1,Nat Geo Wild HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/257.ts
-#EXTINF:-1,Nat Geo Wild FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4393.ts
-#EXTINF:-1,Nat Geo FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4392.ts
-#EXTINF:-1,Baby TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/247.ts
-#EXTINF:-1,JimJam NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/250.ts
-#EXTINF:-1,Nick JR. NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/256.ts
-#EXTINF:-1,Nick Toons NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/255.ts
-#EXTINF:-1,Nickenldeon HD / Spike Channel NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/251.ts
-#EXTINF:-1,Cartoon Network NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/253.ts
-#EXTINF:-1,Comedy Central Eextra NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/271.ts
-#EXTINF:-1,Comedy Central HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/270.ts
-#EXTINF:-1,ONS NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/296.ts
-#EXTINF:-1,Q2 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/299.ts
-#EXTINF:-1,Fox Channel NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/275.ts
-#EXTINF:-1,History HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/265.ts
-#EXTINF:-1,Investigation Discovery NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/263.ts
-#EXTINF:-1,Ketnet HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/269.ts
-#EXTINF:-1,L1MBURG NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/268.ts
-#EXTINF:-1,ViceLand HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/287.ts
-#EXTINF:-1,13th Street HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/284.ts
-#EXTINF:-1,192TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/230.ts
-#EXTINF:-1,24 Kitchen HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/267.ts
-#EXTINF:-1,AT5 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/283.ts
-#EXTINF:-1,Animal Planet NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/266.ts
-#EXTINF:-1,Boomerang NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/252.ts
-#EXTINF:-1,CAZ NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/259.ts
-#EXTINF:-1,Crime & Investigation NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/262.ts
-#EXTINF:-1,Discovery Channel NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/264.ts
-#EXTINF:-1,Discovery FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6812.ts
-#EXTINF:-1,Discovery ID FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6512.ts
-#EXTINF:-1,Discovery Showcase HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/261.ts
-#EXTINF:-1,Discovery Showcase FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6853.ts
-#EXTINF:-1,Disney Channel NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/254.ts
-#EXTINF:-1,Djazz TV FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/228.ts
-#EXTINF:-1,Duck TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/248.ts
-#EXTINF:-1,E! NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/282.ts
-#EXTINF:-1,Film Europe FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6852.ts
-#EXTINF:-1,Film Europe INT FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6851.ts
-#EXTINF:-1,Film1 Action NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/280.ts
-#EXTINF:-1,Film1 Comedy & Kids NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/279.ts
-#EXTINF:-1,Film1 Premiere FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/356.ts
-#EXTINF:-1,Film1 Premiere HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/278.ts
-#EXTINF:-1,Film1 Spotlight NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/277.ts
-#EXTINF:-1,Film1 Sundance NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/276.ts
-#EXTINF:-1,Film 1 Drama NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4530.ts
-#EXTINF:-1,Film 1 Family NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4529.ts
-#EXTINF:-1,HBO 1 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/274.ts
-#EXTINF:-1,HBO 2 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/273.ts
-#EXTINF:-1,Look TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/272.ts
-#EXTINF:-1,Animal Planet HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4518.ts
-#EXTINF:-1,Animal Planet FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6813.ts
-#EXTINF:-1,BBC Entertainment NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4517.ts
-#EXTINF:-1,Disney Junior NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4521.ts
-#EXTINF:-1,DTV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4487.ts
-#EXTINF:-1,EDE TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4510.ts
-#EXTINF:-1,Edge Sport HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4531.ts
-#EXTINF:-1,Flevoland NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4488.ts
-#EXTINF:-1,Frysl NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4489.ts
-#EXTINF:-1,GPTV (Noordwest Friesland) NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4490.ts
-#EXTINF:-1,History FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4519.ts
-#EXTINF:-1,Markiza FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6850.ts
-#EXTINF:-1,MerweTV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4491.ts
-#EXTINF:-1,MTV HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4526.ts
-#EXTINF:-1,MTV Music 24 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4525.ts
-#EXTINF:-1,MTV Nederland NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4527.ts
-#EXTINF:-1,N1 (Nijmegen) NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4492.ts
-#EXTINF:-1,NGC FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6849.ts
-#EXTINF:-1,NOOS NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4493.ts
-#EXTINF:-1,NPO Cultura NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4516.ts
-#EXTINF:-1,Nuenen NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4494.ts
-#EXTINF:-1,Omroep Brabant NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4507.ts
-#EXTINF:-1,Omroep Gelderland NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4508.ts
-#EXTINF:-1,Omroep Zeeland NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4509.ts
-#EXTINF:-1,Q2 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6848.ts
-#EXTINF:-1,RTL Telekids NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4522.ts
-#EXTINF:-1,RTV Dordrecht NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4496.ts
-#EXTINF:-1,RTV Drenthe NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4511.ts
-#EXTINF:-1,RTV Kanaal 30 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4497.ts
-#EXTINF:-1,RTV OOST NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4512.ts
-#EXTINF:-1,RTV Purmerend NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4499.ts
-#EXTINF:-1,RTV Slingeland NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4501.ts
-#EXTINF:-1,RTV Slogo NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4502.ts
-#EXTINF:-1,Salto 1 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4514.ts
-#EXTINF:-1,Salto 2 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4513.ts
-#EXTINF:-1,Shorts TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4515.ts
-#EXTINF:-1,Slam! NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4523.ts
-#EXTINF:-1,Slotstad RTV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4503.ts
-#EXTINF:-1,Spike HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4528.ts
-#EXTINF:-1,Streek TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4504.ts
-#EXTINF:-1,TV 538 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4524.ts
-#EXTINF:-1,WOS TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4505.ts
-#EXTINF:-1,Zeeland Televisie HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/4506.ts
-#EXTINF:-1,Fox Sports 1 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/354.ts
-#EXTINF:-1,Fox Sports 1 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/244.ts
-#EXTINF:-1,Fox Sports 2 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/353.ts
-#EXTINF:-1,Fox Sports 2 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/243.ts
-#EXTINF:-1,Fox Sports 3 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/242.ts
-#EXTINF:-1,Fox Sports 3 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6510.ts
-#EXTINF:-1,Fox Sports 4 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/241.ts
-#EXTINF:-1,Fox Sports 5 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/240.ts
-#EXTINF:-1,Fox Sports 5 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6511.ts
-#EXTINF:-1,Fox Sports 6 HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/239.ts
-#EXTINF:-1,Ziggo Sport Extra 1 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/238.ts
-#EXTINF:-1,Ziggo Sport Extra 2 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/237.ts
-#EXTINF:-1,Ziggo Sport Golf NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/236.ts
-#EXTINF:-1,Ziggo Sport Racing NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/235.ts
-#EXTINF:-1,Ziggo Sport Select NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6112.ts
-#EXTINF:-1,Ziggo Sport Select HD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/234.ts
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/6514.ts
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/233.ts
-#EXTINF:-1,EuroSport 1 FHD NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/246.ts
-#EXTINF:-1,EuroSport 2 NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/245.ts
-#EXTINF:-1,Extreme Sports NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/232.ts
-#EXTINF:-1,Motorsport TV NL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/231.ts
-
-
-
-
-
-
-
-
-#EXTINF:-1,NL: NPO 101 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8832.ts
-#EXTINF:-1,NL: NPO 1 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15992.ts
-#EXTINF:-1,NL: NPO 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8833.ts
-#EXTINF:-1,NL: NPO 2 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15991.ts
-#EXTINF:-1,NL: NPO 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8834.ts
-#EXTINF:-1,NL: NPO 3 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15990.ts
-#EXTINF:-1,NL: NPO 3 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8835.ts
-#EXTINF:-1,NL: RTL Z HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8836.ts
-#EXTINF:-1,NL: 13th
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8837.ts
-#EXTINF:-1,NL: TLC HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8841.ts
-#EXTINF:-1,NL: RTL lounge
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8842.ts
-#EXTINF:-1,NL: FOX HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8843.ts
-#EXTINF:-1,NL: Syfy
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8845.ts
-#EXTINF:-1,NL: NET 5 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8846.ts
-#EXTINF:-1,NL: RTL 4 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15989.ts
-#EXTINF:-1,NL: RTL 4 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8847.ts
-#EXTINF:-1,NL: RTL 5 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15988.ts
-#EXTINF:-1,NL: RTL 5 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8848.ts
-#EXTINF:-1,NL: RTL 7 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15986.ts
-#EXTINF:-1,NL: RTL 7 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8849.ts
-#EXTINF:-1,NL: RTL 8 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15985.ts
-#EXTINF:-1,NL: RTL 8 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8850.ts
-#EXTINF:-1,NL: SBS 6 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15987.ts
-#EXTINF:-1,NL: SBS 6 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8851.ts
-#EXTINF:-1,NL: 24 Ktirchen
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15337.ts
-#EXTINF:-1,NL: SBS 9
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8852.ts
-#EXTINF:-1,NL: MAX FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16867.ts
-#EXTINF:-1,NL: I Concerts
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15768.ts
-#EXTINF:-1,=======   FILM NL =======
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8822.ts
-#EXTINF:-1,NL: Film 1 Spotlight
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8823.ts
-#EXTINF:-1,NL: Film 1 Sundance
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8824.ts
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8825.ts
-#EXTINF:-1,NL: Film 1 Comedy & Kids
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8826.ts
-#EXTINF:-1,NL: Film 1 Action HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8827.ts
-#EXTINF:-1,NL: NPO Xtra Zappelin
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8831.ts
-#EXTINF:-1,=======   KINDEREN NL =======
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8854.ts
-#EXTINF:-1,NL: Nickelodeon
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8857.ts
-#EXTINF:-1,NL: NICK TOONS HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8859.ts
-#EXTINF:-1,NL: Boomerang
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8856.ts
-#EXTINF:-1,NL: Disney Channel
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8855.ts
-#EXTINF:-1,NL: Disney Junior
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8858.ts
-#EXTINF:-1,NL: NICK JR HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8861.ts
-#EXTINF:-1,NL: JimJam
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8862.ts
-#EXTINF:-1,NL: Veronica/DisneyXD FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15984.ts
-#EXTINF:-1,NL: Veronica / Disney XD HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8860.ts
-#EXTINF:-1,=======   SPORT NL =======
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8873.ts
-#EXTINF:-1,NL: EuroSpot 1 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16866.ts
-#EXTINF:-1,NL: FOX Sports 1 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15982.ts
-#EXTINF:-1,NL: Fox Sports 1 Eredivise
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6974.ts
-#EXTINF:-1,NL: FOX Sports 2 FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15981.ts
-#EXTINF:-1,NL: Fox Sports 2 International
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6973.ts
-#EXTINF:-1,NL: Fox Sports 3 Eredivise
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6972.ts
-#EXTINF:-1,NL: Fox Sports 4
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6971.ts
-#EXTINF:-1,NL: Fox Sports 5 Eredivise
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6970.ts
-#EXTINF:-1,NL: Fox Sports 6
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/6969.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/12997.ts
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/13000.ts
-#EXTINF:-1,NL: Ziggo sport select FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15976.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8814.ts
-#EXTINF:-1,NL: Ziggo Sport Golf FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16869.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8815.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/12998.ts
-#EXTINF:-1,NL:Ziggo Sport Extra 1 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8817.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2 HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8818.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/12999.ts
-#EXTINF:-1,=======  ONTDEKKING NL =======
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8864.ts
-#EXTINF:-1,NL: NPO DOC
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8868.ts
-#EXTINF:-1,NL: NATIONAL GEOGRAPHIC HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8870.ts
-#EXTINF:-1,NL: NAT GEO WILD FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8866.ts
-#EXTINF:-1,NL: Investigation Discovery
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8871.ts
-#EXTINF:-1,NL: DISCOVERY CHANNEL HD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8869.ts
-#EXTINF:-1,NL: CI
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8865.ts
-#EXTINF:-1,NL: Animal Planet
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8872.ts
-#EXTINF:-1,NL: Discovery FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/15983.ts
-#EXTINF:-1,NL: HISTORY FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/8867.ts
-#EXTINF:-1,NL: Travel Channel FHD
-http://boomtv.ddns.net:6500/live/jasmond/qOB0Ey5FUP/16868.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Cinema 1
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2510.ts
-#EXTINF:-1,2BE HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2518.ts
-#EXTINF:-1,Cinema Kids
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2491.ts
-#EXTINF:-1,Do IT
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2492.ts
-#EXTINF:-1,Canvas HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2511.ts
-#EXTINF:-1,Cine
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2508.ts
-#EXTINF:-1,Club RTL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2517.ts
-#EXTINF:-1,één HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2514.ts
-#EXTINF:-1,Kadet
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2493.ts
-#EXTINF:-1,Ketop12
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2494.ts
-#EXTINF:-1,La Deux
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2516.ts
-#EXTINF:-1,La Trois
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2495.ts
-#EXTINF:-1,Acht
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/5241.ts
-#EXTINF:-1,LA UNE HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2496.ts
-#EXTINF:-1,192 TV
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2515.ts
-#EXTINF:-1,Plug RTL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2497.ts
-#EXTINF:-1,TVO
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2498.ts
-#EXTINF:-1,RTL TVI HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2499.ts
-#EXTINF:-1,RTC HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2500.ts
-#EXTINF:-1,TV Lux
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2501.ts
-#EXTINF:-1,Serie
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2509.ts
-#EXTINF:-1,TVL
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2503.ts
-#EXTINF:-1,Vier FHD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2512.ts
-#EXTINF:-1,BX
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2505.ts
-#EXTINF:-1,VTM HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2513.ts
-#EXTINF:-1,VTM Kazoom
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2506.ts
-#EXTINF:-1,Nat Geo HD
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/2507.ts
-#EXTINF:-1,Voo Sport 1
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1166.ts
-#EXTINF:-1,Voo Sport World 1
-http://193.200.164.137:8080/live/RFGFZfglhU/QiFtilh7Cs/1165.ts
+#EXTINF:-1,Cartoon.Network
+http://toptvhd.net:8880/live/Anto/Bilan/12698.ts
+#EXTINF:-1,EDE TV
+http://toptvhd.net:8880/live/Anto/Bilan/12697.ts
+#EXTINF:-1,Film 1 action HD
+http://toptvhd.net:8880/live/Anto/Bilan/12707.ts
+#EXTINF:-1,Film1 Premiere
+http://toptvhd.net:8880/live/Anto/Bilan/12696.ts
+#EXTINF:-1,Film1-Premiere
+http://toptvhd.net:8880/live/Anto/Bilan/12695.ts
+#EXTINF:-1,Film1.Comedy.kids
+http://toptvhd.net:8880/live/Anto/Bilan/12694.ts
+#EXTINF:-1,FilmSundance
+http://toptvhd.net:8880/live/Anto/Bilan/12693.ts
+#EXTINF:-1,Fox
+http://toptvhd.net:8880/live/Anto/Bilan/12706.ts
+#EXTINF:-1,Fox Sport 1
+http://toptvhd.net:8880/live/Anto/Bilan/12705.ts
+#EXTINF:-1,Fox Sport 2
+http://toptvhd.net:8880/live/Anto/Bilan/12704.ts
+#EXTINF:-1,Fox Sport 3
+http://toptvhd.net:8880/live/Anto/Bilan/12703.ts
+#EXTINF:-1,L1 TV(Nederland)
+http://toptvhd.net:8880/live/Anto/Bilan/12692.ts
+#EXTINF:-1,N1
+http://toptvhd.net:8880/live/Anto/Bilan/12691.ts
+#EXTINF:-1,NET5 HD
+http://toptvhd.net:8880/live/Anto/Bilan/12702.ts
+#EXTINF:-1,NPO1HD
+http://toptvhd.net:8880/live/Anto/Bilan/12690.ts
+#EXTINF:-1,NPO2HD
+http://toptvhd.net:8880/live/Anto/Bilan/12689.ts
+#EXTINF:-1,NPO3HD
+http://toptvhd.net:8880/live/Anto/Bilan/12688.ts
+#EXTINF:-1,Omroep Zeeland TV
+http://toptvhd.net:8880/live/Anto/Bilan/12687.ts
+#EXTINF:-1,RTL 8
+http://toptvhd.net:8880/live/Anto/Bilan/12701.ts
+#EXTINF:-1,RTL5HD
+http://toptvhd.net:8880/live/Anto/Bilan/12686.ts
+#EXTINF:-1,RTL7HD
+http://toptvhd.net:8880/live/Anto/Bilan/12685.ts
+#EXTINF:-1,RTV Drenthe
+http://toptvhd.net:8880/live/Anto/Bilan/12684.ts
+#EXTINF:-1,SB 6
+http://toptvhd.net:8880/live/Anto/Bilan/12700.ts
+#EXTINF:-1,SB 6 HD
+http://toptvhd.net:8880/live/Anto/Bilan/12683.ts
+#EXTINF:-1,SLAM TV
+http://toptvhd.net:8880/live/Anto/Bilan/12682.ts
+#EXTINF:-1,Sport1 slect HD
+http://toptvhd.net:8880/live/Anto/Bilan/12681.ts
+#EXTINF:-1,TV Ellef
+http://toptvhd.net:8880/live/Anto/Bilan/12680.ts
+#EXTINF:-1,Veronica / Disney XD HD
+http://toptvhd.net:8880/live/Anto/Bilan/12699.ts
+#EXTINF:-1,Zeeland Televisie
+http://toptvhd.net:8880/live/Anto/Bilan/12679.ts

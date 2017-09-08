@@ -1,515 +1,179 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 05-09-2017 [COLOR red][/COLOR][/B][/COLOR]
+#EXTINF:-1,[COLOR lime] [COLOR lime][B] [COLOR lime][/COLOR]                                           Update 09-09-2017 [COLOR red][/COLOR][/B][/COLOR]
 http://163.172.213.25:8000/live/mariano/mariano/73.ts
 
-
-
-
-
-
-
-#EXTINF:-1,|FR| TF1 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2650.ts
-#EXTINF:-1,|FR| TF1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/91.ts
-#EXTINF:-1,|FR| M6 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1651.ts
-#EXTINF:-1,|FR| M6 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/124.ts
-#EXTINF:-1,|FR| W9 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1641.ts
-#EXTINF:-1,|FR| W9 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/32.ts
-#EXTINF:-1,|FR| ARTE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/111.ts
-#EXTINF:-1,|FR| NUMERO 23 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3013.ts
-#EXTINF:-1,|FR| NUMERO 23 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2172.ts
-#EXTINF:-1,|FR| FRANCE O HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/113.ts
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2941.ts
-#EXTINF:-1,|FR| FRANCE 2 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/116.ts
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/115.ts
-#EXTINF:-1,|FR| FRANCE 3 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3032.ts
-#EXTINF:-1,|FR| FRANCE 4 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2912.ts
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/114.ts
-#EXTINF:-1,|FR| FRANCE 5 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2913.ts
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/117.ts
-#EXTINF:-1,|FR| NT1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/669.ts
-#EXTINF:-1,|FR| TMC HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/670.ts
-#EXTINF:-1,|FR| CNEWS HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2982.ts
-#EXTINF:-1,|FR| BFM TV HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/913.ts
-#EXTINF:-1,|FR| EURONEWS
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/656.ts
-#EXTINF:-1,|FR| FRANCE 24
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/623.ts
-#EXTINF:-1,|FR| TV5 MONDE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1899.ts
-#EXTINF:-1,-----------{ BOUQUET MUSIQUE}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2458.ts
-#EXTINF:-1,|FR| DJAZZ TV HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3028.ts
-#EXTINF:-1,|FR| BRAVA FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3030.ts
-#EXTINF:-1,|FR| BRAVA HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2653.ts
-#EXTINF:-1,|FR| MEZZO LIVE  HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2969.ts
-#EXTINF:-1,|FR| MEZZO LIVE  FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2684.ts
-#EXTINF:-1,|FR| VH1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2943.ts
-#EXTINF:-1,|FR| RFM  FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2922.ts
-#EXTINF:-1,|FR| MCM TOP FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2920.ts
-#EXTINF:-1,|FR| MCM TOP HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2466.ts
-#EXTINF:-1,|FR| TRACE URBAN HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/37.ts
-#EXTINF:-1,|FR| M6 MUSIC HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/38.ts
-#EXTINF:-1,|FR| NRJ HITS HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2400.ts
-#EXTINF:-1,|FR| VIRGIN HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/33.ts
-#EXTINF:-1,|FR| MTV MUSIC
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1592.ts
-#EXTINF:-1,|FR| MTV HITS
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2397.ts
-#EXTINF:-1,|FR| MTV BASE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2201.ts
-#EXTINF:-1,|FR| MTV DANCE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2771.ts
-#EXTINF:-1,-----------{ BOUQUET SFR  SPORTS }-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2474.ts
-#EXTINF:-1,|FR| SFR SPORT 1 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2944.ts
-#EXTINF:-1,|FR| SFR SPORT 1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2318.ts
-#EXTINF:-1,|FR| SFR SPORT 2 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3012.ts
-#EXTINF:-1,|FR| SFR SPORT 2 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2256.ts
-#EXTINF:-1,|FR| SFR SPORT 3 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2319.ts
-#EXTINF:-1,|FR| SFR SPORT 5 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2394.ts
-#EXTINF:-1,-----------{ BOUQUET SPORT ET BEIN}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2452.ts
-#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2431.ts
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/85.ts
-#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2432.ts
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2.ts
-#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2433.ts
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3011.ts
-#EXTINF:-1,|FR| BEIN MAX 4
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1209.ts
-#EXTINF:-1,|FR| BEIN MAX 5
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/894.ts
-#EXTINF:-1,|FR| BEIN MAX 6
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/903.ts
-#EXTINF:-1,|FR| BEIN MAX 7
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/902.ts
-#EXTINF:-1,|FR| BEIN MAX 8
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/901.ts
-#EXTINF:-1,|FR| BEIN MAX 9
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2680.ts
-#EXTINF:-1,|FR| BEIN MAX 10
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2770.ts
-#EXTINF:-1,-----------{ BOUQUET SPORT  ET INFO}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2683.ts
-#EXTINF:-1,|FR| EXTREME SPORT HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2924.ts
-#EXTINF:-1,|FR| MOTORSPORT TV HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3018.ts
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2444.ts
-#EXTINF:-1,|FR| EUROSPORT 1
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/59.ts
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2445.ts
-#EXTINF:-1,|FR| EUROSPORT 2
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/949.ts
-#EXTINF:-1,|FR| FOOT+  24/24
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1650.ts
-#EXTINF:-1,|FR| FOOT+ 24/24
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/58.ts
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/893.ts
-#EXTINF:-1,|FR| GOLF+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2231.ts
-#EXTINF:-1,|FR| OL TV HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/948.ts
-#EXTINF:-1,|FR| INFOSPORT+ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/100.ts
-#EXTINF:-1,|FR| INFOSPORT+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3020.ts
-#EXTINF:-1,|FR| BFM SPORT HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2399.ts
-#EXTINF:-1,|FR| EQUIDIA LIVE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1441.ts
-#EXTINF:-1,|FR| EQUIDIA LIFE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2434.ts
-#EXTINF:-1,|FR| AB MOTEURS HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/957.ts
-#EXTINF:-1,|FR| KOMBAT SPORT
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2346.ts
-#EXTINF:-1,-----------{ CANAL SAT CANAL+}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2459.ts
-#EXTINF:-1,|FR| CANAL+ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2467.ts
-#EXTINF:-1,|FR| CANAL+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/82.ts
-#EXTINF:-1,|FR| CANAL+ CINEMA FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2470.ts
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/81.ts
-#EXTINF:-1,FR| CANAL+ CINEMA
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3014.ts
-#EXTINF:-1,|FR| CANAL+ SERIES FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2471.ts
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/78.ts
-#EXTINF:-1,|FR| CANAL+ SERIE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3015.ts
-#EXTINF:-1,|FR| CANAL+  FAMILY FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2468.ts
-#EXTINF:-1,|FR| CANAL+  FAMILY HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/79.ts
-#EXTINF:-1,|FR| CANAL+ FAMILY
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3017.ts
-#EXTINF:-1,|FR| CANAL+  DECALE FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2469.ts
-#EXTINF:-1,|FR| CANAL+  DECALE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/80.ts
-#EXTINF:-1,|FR| CANAL+ DECALE
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3016.ts
-#EXTINF:-1,|FR| CANAL+  SPORT HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/77.ts
-#EXTINF:-1,|FR| CANAL+  SPORT FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2534.ts
-#EXTINF:-1,-----------{ BOUQUET OCS ORANGE}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2682.ts
-#EXTINF:-1,|FR| OCS MAX  HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3027.ts
-#EXTINF:-1,|FR| OCS MAX HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/895.ts
-#EXTINF:-1,|FR| OCS GEANT FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2975.ts
-#EXTINF:-1,|FR| OCS GEANT HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/816.ts
-#EXTINF:-1,|FR| OCS CHOC FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/814.ts
-#EXTINF:-1,|FR| OCS CHOC HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2981.ts
-#EXTINF:-1,|FR| OCS CITY FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/55.ts
-#EXTINF:-1,|FR| OCS CITY HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1649.ts
-#EXTINF:-1,-----------{ BOUQUET CINEMA}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2457.ts
-#EXTINF:-1,|FR| CINE+  PREMIER
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3021.ts
-#EXTINF:-1,|FR| CINE+  PREMIER FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2497.ts
-#EXTINF:-1,|FR| CINE+  PREMIER HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/61.ts
-#EXTINF:-1,|FR| CINE+  FRISSON FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2498.ts
-#EXTINF:-1,|FR| CINE+  FRISSON HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/62.ts
-#EXTINF:-1,|FR| CINE+  FAMIZ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2499.ts
-#EXTINF:-1,|FR| CINE+  FAMIZ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/63.ts
-#EXTINF:-1,|FR| CINE+  EMOTION FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2500.ts
-#EXTINF:-1,|FR| CINE+  EMOTION HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/64.ts
-#EXTINF:-1,|FR| CINE CLASSIC FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2501.ts
-#EXTINF:-1,|FR| CINE CLASSIC HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/65.ts
-#EXTINF:-1,|FR| CINE+ CLUB FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2503.ts
-#EXTINF:-1,|FR| CINE FX FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2504.ts
-#EXTINF:-1,|FR| CINE FX HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/672.ts
-#EXTINF:-1,|FR| CINE POLAR FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2502.ts
-#EXTINF:-1,|FR| CINE POLAR HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/66.ts
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/911.ts
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2929.ts
-#EXTINF:-1,|FR| TCM CINEMA FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2916.ts
-#EXTINF:-1,|FR| TCM CINEMA HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2230.ts
-#EXTINF:-1,|FR| ACTION HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/87.ts
-#EXTINF:-1,-----------{ BOUQUET SERIES & DIVERTISSEMENTS}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2455.ts
-#EXTINF:-1,|FR| ELLE GIRL HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2970.ts
-#EXTINF:-1,|FR| NOLLYWOOD HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2972.ts
-#EXTINF:-1,|FR| BET HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2942.ts
-#EXTINF:-1,|FR| MCM FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2914.ts
-#EXTINF:-1,|FR| MCM HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2685.ts
-#EXTINF:-1,|FR| COMEDIE+ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2934.ts
-#EXTINF:-1,|FR| COMEDIE+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/118.ts
-#EXTINF:-1,|FR| SYFY FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2917.ts
-#EXTINF:-1,|FR| SYFY HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/129.ts
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/67.ts
-#EXTINF:-1,|FR| TV BREIZH FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2918.ts
-#EXTINF:-1,|FR| TV BREIZH HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1306.ts
-#EXTINF:-1,|FR| RTL9 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/671.ts
-#EXTINF:-1,|FR| TEVA HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/92.ts
-#EXTINF:-1,|FR| SERIE CLUB FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2919.ts
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/53.ts
-#EXTINF:-1,|FR| 13EME RUE FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2915.ts
-#EXTINF:-1,|FR| 13EME RUE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/89.ts
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2398.ts
-#EXTINF:-1,|FR| AB1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2185.ts
-#EXTINF:-1,|FR| AB1 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1160.ts
-#EXTINF:-1,|FR| AB3 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2232.ts
-#EXTINF:-1,|FR| J ONE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2344.ts
-#EXTINF:-1,|FR| GAME ONE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2343.ts
-#EXTINF:-1,|FR| CHERIE25 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/318.ts
-#EXTINF:-1,|FR| NRJ12 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/95.ts
-#EXTINF:-1,|FR|  RTS UN HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2345.ts
-#EXTINF:-1,|FR| RTS  DEUX HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2690.ts
-#EXTINF:-1,|FR| 6TER HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/88.ts
-#EXTINF:-1,|FR| HD1 FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3010.ts
-#EXTINF:-1,|FR| HD1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/818.ts
-#EXTINF:-1,|FR| C8 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/126.ts
-#EXTINF:-1,|FR| CSTAR FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3002.ts
-#EXTINF:-1,|FR| CSTAR HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/60.ts
-#EXTINF:-1,-----------{ BOUQUET ENFANTS}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2451.ts
-#EXTINF:-1,|FR| TOONAMI  FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/3052.ts
-#EXTINF:-1,|FR| CARTOON NETWORK FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2935.ts
-#EXTINF:-1,|FR| CARTOON NETWORK HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/109.ts
-#EXTINF:-1,|FR| TELETOON+ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2980.ts
-#EXTINF:-1,|FR| TELETOON+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/914.ts
-#EXTINF:-1,|FR| ZOUZOU TV HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/946.ts
-#EXTINF:-1,|FR| NICKELODEON JR HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2171.ts
-#EXTINF:-1,|FR| NICKELODEON HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1647.ts
-#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1648.ts
-#EXTINF:-1,|FR| DISNEY CINEMA  FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1229.ts
-#EXTINF:-1,|FR| DISNEY CINEMA HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2646.ts
-#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2759.ts
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1230.ts
-#EXTINF:-1,|FR| DISNEY XD FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2911.ts
-#EXTINF:-1,|FR| DISNEY XD HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/119.ts
-#EXTINF:-1,|FR| PIWI HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/128.ts
-#EXTINF:-1,|FR| CANAL J HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/652.ts
-#EXTINF:-1,|FR| BOOMERANG HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/127.ts
-#EXTINF:-1,|FR| MANGAS HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/98.ts
-#EXTINF:-1,|FR| BOING FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2931.ts
-#EXTINF:-1,|FR| BOING HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/653.ts
-#EXTINF:-1,|FR| DISNEY JUNIOR FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2933.ts
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/105.ts
-#EXTINF:-1,|FR| TIJI FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2932.ts
-#EXTINF:-1,|FR| TIJI HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1208.ts
-#EXTINF:-1,|FR| GULLI FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/56.ts
-#EXTINF:-1,|FR| WEO HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/947.ts
-#EXTINF:-1,-----------{ BOUQUET DECOUVERTE}-----------
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2454.ts
-#EXTINF:-1,|FR| CRIME DISTRECT HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2985.ts
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2971.ts
-#EXTINF:-1,|FR| CAMPAGNES TV
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2654.ts
-#EXTINF:-1,|FR| DISCOVERY  FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2508.ts
-#EXTINF:-1,|FR| DISCOVERY HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/125.ts
-#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/107.ts
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2435.ts
-#EXTINF:-1,|FR| VOYAGE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2553.ts
-#EXTINF:-1,|FR| VOYAGE  HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/819.ts
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2999.ts
-#EXTINF:-1,|FR| NATIONAL GEO FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/97.ts
-#EXTINF:-1,|FR| NATIONAL GEO WILD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/96.ts
-#EXTINF:-1,|FR| NATIONAL GEO WILD FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2948.ts
-#EXTINF:-1,|FR| ANIMAUX HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/110.ts
-#EXTINF:-1,|FR| CHASSE ET PECHE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/68.ts
-#EXTINF:-1,|FR| SEASONS FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2978.ts
-#EXTINF:-1,|FR| SEASONS HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2317.ts
-#EXTINF:-1,|FR| SCIENCES & VIE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/912.ts
-#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/958.ts
-#EXTINF:-1,|FR| HISTOIRE FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2930.ts
-#EXTINF:-1,|FR| HISTOIRE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1654.ts
-#EXTINF:-1,|FR| USHUAIA TV
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/51.ts
-#EXTINF:-1,|FR| PLANETE+ A&E FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2909.ts
-#EXTINF:-1,|FR| PLANETE+ A&E HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1257.ts
-#EXTINF:-1,|FR| PLANETE  CI FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2936.ts
-#EXTINF:-1,|FR| PLANETE  CI HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/93.ts
-#EXTINF:-1,|FR| PLANETE+ HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2921.ts
-#EXTINF:-1,|FR| PLANETE+ FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/224.ts
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2979.ts
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/815.ts
-#EXTINF:-1,|FR| TREK FHD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2910.ts
-#EXTINF:-1,|FR| TREK HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2187.ts
-#EXTINF:-1,|FR| E! HD
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1900.ts
-
-
-
-
-
-
-#EXTINF:-1,|FR| CANAL PLAY 1
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2351.ts
-#EXTINF:-1,|FR| CANAL PLAY 2
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2352.ts
-#EXTINF:-1,|FR| CANAL PLAY 3
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2353.ts
-#EXTINF:-1,|FR| CANAL PLAY 4
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2354.ts
-#EXTINF:-1,|FR| CANAL PLAY 5
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2355.ts
-#EXTINF:-1,|FR| CANAL PLAY 6
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/2356.ts
-
-#EXTINF:-1,|FR|  A LA CARTE 1
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/49.ts
-#EXTINF:-1,|FR|  A LA CARTE 2
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/48.ts
-#EXTINF:-1,|FR|  A LA CARTE 3
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/47.ts
-#EXTINF:-1,|FR|  A LA CARTE 4
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/46.ts
-#EXTINF:-1,|FR|  A LA CARTE 5
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/45.ts
-#EXTINF:-1,|FR|  A LA CARTE 6
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1817.ts
-#EXTINF:-1,|FR|  A LA CARTE 7
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/962.ts
-#EXTINF:-1,|FR|  A LA CARTE 8
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1591.ts
-#EXTINF:-1,|FR|  A LA CARTE 9
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/1590.ts
-#EXTINF:-1,|FR|  A LA CARTE 10
-http://localhd.tv:8081/live/clientsNgra/en8I0mJmWB/960.ts
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,FR: AB 1
+http://46.105.119.223:8000/live/hasanturan/turan/2573.ts
+#EXTINF:-1,FR: AB1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2572.ts
+#EXTINF:-1,FR | TF1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1710.ts
+#EXTINF:-1,FR | M6 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1704.ts
+#EXTINF:-1,FR | ARTE HD
+http://46.105.119.223:8000/live/hasanturan/turan/1703.ts
+#EXTINF:-1,FR | RTL9
+http://46.105.119.223:8000/live/hasanturan/turan/1700.ts
+#EXTINF:-1,FR | France 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1709.ts
+#EXTINF:-1,FR | France 3 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1708.ts
+#EXTINF:-1,FR | France 4 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1707.ts
+#EXTINF:-1,FR | France 5 HD
+http://46.105.119.223:8000/live/hasanturan/turan/1706.ts
+#EXTINF:-1,FR | France O HD
+http://46.105.119.223:8000/live/hasanturan/turan/1705.ts
+#EXTINF:-1,FR | FRANCE 24
+http://46.105.119.223:8000/live/hasanturan/turan/1711.ts
+#EXTINF:-1,FR | ITELE
+http://46.105.119.223:8000/live/hasanturan/turan/1695.ts
+#EXTINF:-1,FR: C8
+http://46.105.119.223:8000/live/hasanturan/turan/2563.ts
+#EXTINF:-1,FR | CANAL  HD
+http://46.105.119.223:8000/live/hasanturan/turan/1694.ts
+#EXTINF:-1,FR | HD1
+http://46.105.119.223:8000/live/hasanturan/turan/1701.ts
+#EXTINF:-1,FR: AB3
+http://46.105.119.223:8000/live/hasanturan/turan/2571.ts
+#EXTINF:-1,FR: LCI
+http://46.105.119.223:8000/live/hasanturan/turan/2535.ts
+#EXTINF:-1,FR: CANAL
+http://46.105.119.223:8000/live/hasanturan/turan/2562.ts
+#EXTINF:-1,FR | TV5 MONDE
+http://46.105.119.223:8000/live/hasanturan/turan/2701.ts
+#EXTINF:-1,FR: TV5 MONDE
+http://46.105.119.223:8000/live/hasanturan/turan/2519.ts
+#EXTINF:-1,FR | RTS Deux
+http://46.105.119.223:8000/live/hasanturan/turan/1697.ts
+#EXTINF:-1,FR | RTS Un
+http://46.105.119.223:8000/live/hasanturan/turan/1698.ts
+#EXTINF:-1,FR | TCM CINEMA HD
+http://46.105.119.223:8000/live/hasanturan/turan/1691.ts
+#EXTINF:-1,FR | TEVA HD
+http://46.105.119.223:8000/live/hasanturan/turan/1699.ts
+#EXTINF:-1,FR | TMC HD
+http://46.105.119.223:8000/live/hasanturan/turan/1702.ts
+#EXTINF:-1,FR: BOING
+http://46.105.119.223:8000/live/hasanturan/turan/2564.ts
+#EXTINF:-1,ARTE  FR
+http://46.105.119.223:8000/live/hasanturan/turan/765.ts
+#EXTINF:-1,FR | USHUIA HD
+http://46.105.119.223:8000/live/hasanturan/turan/1693.ts
+#EXTINF:-1,FR: ACTION
+http://46.105.119.223:8000/live/hasanturan/turan/2570.ts
+#EXTINF:-1,FR: ACTION HD
+http://46.105.119.223:8000/live/hasanturan/turan/2569.ts
+#EXTINF:-1,FR: ANIMAUX HD
+http://46.105.119.223:8000/live/hasanturan/turan/2568.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://46.105.119.223:8000/live/hasanturan/turan/2561.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://46.105.119.223:8000/live/hasanturan/turan/2560.ts
+#EXTINF:-1,FR: CANAL FAMILY HD
+http://46.105.119.223:8000/live/hasanturan/turan/2559.ts
+#EXTINF:-1,FR: CANAL J HD
+http://46.105.119.223:8000/live/hasanturan/turan/2558.ts
+#EXTINF:-1,FR: CANAL SERIES HD
+http://46.105.119.223:8000/live/hasanturan/turan/2557.ts
+#EXTINF:-1,FR: CHERIE 25 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2553.ts
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://46.105.119.223:8000/live/hasanturan/turan/2552.ts
+#EXTINF:-1,FR: CINE CLUB
+http://46.105.119.223:8000/live/hasanturan/turan/2551.ts
+#EXTINF:-1,FR: CINE EMOTION
+http://46.105.119.223:8000/live/hasanturan/turan/2550.ts
+#EXTINF:-1,FR: CINE FRISSON
+http://46.105.119.223:8000/live/hasanturan/turan/2549.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://46.105.119.223:8000/live/hasanturan/turan/2548.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://46.105.119.223:8000/live/hasanturan/turan/2547.ts
+#EXTINF:-1,FR: COMEDIE   HD
+http://46.105.119.223:8000/live/hasanturan/turan/2546.ts
+#EXTINF:-1,FR: CSTAR HD
+http://46.105.119.223:8000/live/hasanturan/turan/2545.ts
+#EXTINF:-1,FR: TCM CINEMA
+http://46.105.119.223:8000/live/hasanturan/turan/2522.ts
+#EXTINF:-1,FR: E!
+http://46.105.119.223:8000/live/hasanturan/turan/2541.ts
+#EXTINF:-1,FR: NAT GEO WILD
+http://46.105.119.223:8000/live/hasanturan/turan/2531.ts
+#EXTINF:-1,FR: DiSCOVERY-SCIENCE HD
+http://46.105.119.223:8000/live/hasanturan/turan/2544.ts
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://46.105.119.223:8000/live/hasanturan/turan/2554.ts
+#EXTINF:-1,FR: PIWI
+http://46.105.119.223:8000/live/hasanturan/turan/2529.ts
+#EXTINF:-1,FR: TIJI
+http://46.105.119.223:8000/live/hasanturan/turan/2521.ts
+#EXTINF:-1,FR: CARTON NETWORK
+http://46.105.119.223:8000/live/hasanturan/turan/2555.ts
+#EXTINF:-1,FR: DISNEY CINEMA
+http://46.105.119.223:8000/live/hasanturan/turan/2543.ts
+#EXTINF:-1,FR: DISNEY JUNIOR
+http://46.105.119.223:8000/live/hasanturan/turan/2542.ts
+#EXTINF:-1,FR: GAME ONE
+http://46.105.119.223:8000/live/hasanturan/turan/2539.ts
+#EXTINF:-1,FR: HD CARTON NETWORK
+http://46.105.119.223:8000/live/hasanturan/turan/2536.ts
+#EXTINF:-1,FR: GULLI
+http://46.105.119.223:8000/live/hasanturan/turan/2537.ts
+#EXTINF:-1,FR: PLANET  A&E HD
+http://46.105.119.223:8000/live/hasanturan/turan/2528.ts
+#EXTINF:-1,FR: PLANET  CI HD
+http://46.105.119.223:8000/live/hasanturan/turan/2527.ts
+#EXTINF:-1,FR: PLANET  HD
+http://46.105.119.223:8000/live/hasanturan/turan/2526.ts
+#EXTINF:-1,FR: TOUT L HISTOIRE
+http://46.105.119.223:8000/live/hasanturan/turan/2520.ts
+#EXTINF:-1,FR: SEASONS
+http://46.105.119.223:8000/live/hasanturan/turan/2525.ts
+#EXTINF:-1,FR: LCP
+http://46.105.119.223:8000/live/hasanturan/turan/2534.ts
+#EXTINF:-1,ESKA POP
+http://46.105.119.223:8000/live/hasanturan/turan/570.ts
+#EXTINF:-1,FR: MTV
+http://46.105.119.223:8000/live/hasanturan/turan/2533.ts
+#EXTINF:-1,FR: MTV HITS
+http://46.105.119.223:8000/live/hasanturan/turan/2532.ts
+#EXTINF:-1,FR: NRJ HITS
+http://46.105.119.223:8000/live/hasanturan/turan/2530.ts
+#EXTINF:-1,Fresh TV
+http://46.105.119.223:8000/live/hasanturan/turan/573.ts
+#EXTINF:-1,FR: FOOT 24/24
+http://46.105.119.223:8000/live/hasanturan/turan/2540.ts
+#EXTINF:-1,FR: GOLF
+http://46.105.119.223:8000/live/hasanturan/turan/2538.ts
+#EXTINF:-1,FR: SFR SPORT 1
+http://46.105.119.223:8000/live/hasanturan/turan/2524.ts
+#EXTINF:-1,FR: SFR SPORT 2
+http://46.105.119.223:8000/live/hasanturan/turan/2523.ts
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2567.ts
+#EXTINF:-1,FR: BEINSPORT 2 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2566.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://46.105.119.223:8000/live/hasanturan/turan/2565.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://46.105.119.223:8000/live/hasanturan/turan/2556.ts
+#EXTINF:-1,FR: A LA CARTE  4
+http://46.105.119.223:8000/live/hasanturan/turan/2582.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://46.105.119.223:8000/live/hasanturan/turan/2581.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://46.105.119.223:8000/live/hasanturan/turan/2580.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://46.105.119.223:8000/live/hasanturan/turan/2579.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://46.105.119.223:8000/live/hasanturan/turan/2578.ts
+#EXTINF:-1,FR: A LA CARTE 6
+http://46.105.119.223:8000/live/hasanturan/turan/2577.ts
+#EXTINF:-1,FR: A LA CARTE 7
+http://46.105.119.223:8000/live/hasanturan/turan/2576.ts
+#EXTINF:-1,FR: A LA CARTE 8
+http://46.105.119.223:8000/live/hasanturan/turan/2575.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://46.105.119.223:8000/live/hasanturan/turan/2574.ts
