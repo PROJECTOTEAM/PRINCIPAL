@@ -181,7 +181,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param2]'):
     else:
         refs = r1
 
-    livestreamer = control.cdnImport('https://thegrove360.netsons.org/addon/tv/livestreamer.xml', 'livestreamer')
+    livestreamer = control.cdnImport('https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/livestreamer.xml', 'livestreamer')
     livestreamer = livestreamer.streamer()
 
     for ref in refs:
