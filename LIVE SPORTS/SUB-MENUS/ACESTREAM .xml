@@ -68,41 +68,16 @@
 </subitem>
 </item>
 
-[COLOR orange]AGENDA P2P/SPORT[/COLOR]  [COLOR red]Plexus[/COLOR
+
 
 
 <item>
-<title>[COLOR orange]AGENDA P2P/SPORT[/COLOR]  [COLOR red]Plexus[/COLOR</title>
+<title>[COLOR orange]AGENDA P2P/SPORT[/COLOR]  [COLOR red]Plexus[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
 <thumbnail>http://i.imgur.com/zSc0IbF.png</thumbnail>
 <fanart>http://i.imgur.com/3rChR1L.jpg</fanart>
 </item>
-
-
-
-<item>
-<title>[COLOR orange] UK SPORTS MAMAD [/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR lime][makelist.param3][/COLOR]</title>
-<sportsdevil>http://mamahd.com/[makelist.param1]</sportsdevil>
-<fanart>http://cdn2.hubspot.net/hub/360031/file-1957232534-jpg/study-schedule-for-ACT-SAT.jpg</fanart>
-<thumbnail>[makelist.param2]</thumbnail>
-<referer>http://mamahd.com/</referer>
- 
-]]></listrepeat>
-<expres>href="http://mamahd.com/(.*?)"[\w\W\s]{0,16}"(.*?)"[\w\W\s]{0,10}>(.*?)<</expres>
-<page>http://mamahd.com/index.html</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
-<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/englis10.jpg</thumbnail>
-</item>
-
 
 
 
@@ -120,7 +95,7 @@
 
 <item>
 <title>[COLOR orange]EVENTOS MOTORIZADOS[/COLOR][/B]</title>
-<linkegnorme</link>
+<link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3d1%26title.tmp%3dRacing%26ticon.tmp%3dhttp%253A%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F7.gif%26url%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcomingsports%252F7%252F%26cfg%3dlivetv.ru.videos.cfg%2540CATEGORY%25407%26definedIn%3dlivesports%252Flivetv.ru.cfg%26director%3dLiveTV.ru%26id.tmp%3d7%26referer%3dhttp%253A%252F%252Flivetv101.net%252Fen%252Fallupcoming%26genre%3dLive%2bSports%26title%3dRacing%2b%25281%2529%26icon.tmp%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png%26type%3drss%26icon%3dC%253A%255CUsers%255COwner%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FRacing.png&amp;mode=1</jsonrpc>
 <thumbnail>http://images.tenplay.com.au/~/media/Sport/Motorsport/Motorsport_Logo_500x281.jpg</thumbnail>
 <fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
@@ -132,4 +107,224 @@
 
 
 
+<item>
+<title>[COLOR orange][B]SPORTS/WORLD/SPORTS TV[/COLOR][/B]</title>
+<linkhttp://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=55&amp;name=IPBOXBETA&amp;url=sss</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.ipbox.com.br/images/logo_ipbox.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]TV SPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.sportbuzzbusiness.fr/wp-content/uploads/2014/02/tv-sport-events-logo.jpg</thumbnail>
+</item>
+
+
+
+ <item>		
+<title>[COLOR orange][B]STREAMHD SPORTS[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=75&amp;name=StreamHD&amp;url=sss</jsonrpc>
+<thumbnail>http://tsc-video.com/wp-content/uploads/2013/09/ICON-HD-STREAM.png</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+
+
+
+
+<item> 
+<title>[COLOR orange][B]SPORTS 365.LIVE[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.zemtv.com/wp-content/uploads/2014/12/zem-logo-final1.png</thumbnail>
+</item>
+
+<item> 
+<title>[COLOR orange][B]ZEM SPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=PTVSportS</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.zemtv.com/wp-content/uploads/2014/12/zem-logo-final1.png</thumbnail>
+</item>
+
+<item>		
+<title>[COLOR orange][B]Pro Sport, NFL, MLB, NHL e NBA[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.prosport</jsonrpc>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/01/Pro-Sport-Addon.png</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange][B]UNI TV SPORTS[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=53&amp;name=UNITVSPORTS.live&amp;url=sss</jsonrpc>
+<thumbnail>https://www.unicross.uni-freiburg.de/wp-content/uploads/2015/01/uni_tv_orange_neu.png</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+ 
+
+
+ 
+
+
+
+ <item>		
+<title>[COLOR orange][B]PI SPORTS[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=71&amp;name=Pi%20sports&amp;url=sss</jsonrpc>
+<thumbnail>http://www.pisportsinternational.com/wp-content/uploads/2012/05/pisportslogo1.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+
+ <item>		
+<title>[COLOR orange][B]UKTVNOW[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=57&amp;name=UKTVNow%20%5BLimited%20Channels%5D&amp;url=sss</jsonrpc>
+<thumbnail>http://kodiuk.tv/wp-content/uploads/2015/12/uktv-now-the-best-iptv-xbmc-kodi-480x280.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+
+
+
+ <item>		
+<title>[COLOR orange][B]HDFREE[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=77&amp;name=HDfree&amp;url=sss</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/wm3s8IGQC9Y/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>		
+<title>[COLOR orange][B]ZEM TV[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=53&name=UniTV%20sports&url=sss</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/501375966384357377/EKmxFiYP_400x400.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+ 
+<item>
+<title>[COLOR orange][B]ROJADIRETA[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://larry239.netau.net/televisiones/rojadirecta.jpg</thumbnail>
+</item>
+ 
+
+<item>    
+<title>[COLOR orange][B]Sports Devil[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil</jsonrpc>
+<thumbnail>http://koditips.com/wp-content/uploads/2015/08/hqdefault-2.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR orange][B]LIVE TV[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.userlogos.org/files/logos/Rog/livetv_ru_09.png</thumbnail>
+</item>
+
+ 
+
+ 
+ 
+<item> 
+<title>[COLOR orange][B]FIRST ROW[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.gomohu.com/wp-content/uploads/2015/06/firstrow_orange.png</thumbnail>
+</item>
+ 
+
+
+
+
+<item> 
+<title>[COLOR orange][B]STREAMSPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/Streamsports.me.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://westoncup.com/wp-content/uploads/2014/12/streamsportstransparent.png</thumbnail>
+</item>
+ 
+ 
+ 
+<item> 
+<title>[COLOR orange][B]DIMSPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://cdn.cdnco.us/dim/logo.png</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]SPORTSTEAM[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/stopstream.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.teamsportsinc.us/attachments/Image/team-sports-logo-trans-sm-v2_1.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR orange][B]FOOTBALL AO VIVO[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=62&amp;name=%5bCOLOR%20red%5dFootball%5b%2fCOLOR%5d&amp;url=Football</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.sportbuzzbusiness.fr/wp-content/uploads/2014/02/tv-sport-events-logo.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orange][B]LIVE SPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.sportbuzzbusiness.fr/wp-content/uploads/2014/02/tv-sport-events-logo.jpg</thumbnail>
+</item>
+ 
+<item> 
+<title>[COLOR orange][B]LS HUNTER[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgC8mj8iZsYJnc2_cy9OYdyFHnz-EDXS_iJA9gWZvpHWgdUnk_</thumbnail>
+</item>
+ 
+
+
+<item>
+<title>[COLOR orange][B]TV SPORTS[/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv.cfg&amp;mode=1</jsonrpc>
+<fanart>http://i.imgur.com/Ou9539a.jpg</fanart>
+<thumbnail>http://www.sportbuzzbusiness.fr/wp-content/uploads/2014/02/tv-sport-events-logo.jpg</thumbnail>
+</item>
 
