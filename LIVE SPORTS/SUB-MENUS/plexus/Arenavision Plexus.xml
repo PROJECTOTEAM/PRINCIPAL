@@ -3,7 +3,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -17,7 +17,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -31,7 +31,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -45,7 +45,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -59,7 +59,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -73,7 +73,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -87,7 +87,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -101,7 +101,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -115,7 +115,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -129,7 +129,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -143,7 +143,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -157,7 +157,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -171,7 +171,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -185,7 +185,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -199,7 +199,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -213,7 +213,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -227,7 +227,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -241,7 +241,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -255,7 +255,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -269,7 +269,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -283,7 +283,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -297,7 +297,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -311,7 +311,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -325,7 +325,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -339,7 +339,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -353,7 +353,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -367,7 +367,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -381,7 +381,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -395,7 +395,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -409,7 +409,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -422,7 +422,7 @@
 </item>
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -435,7 +435,7 @@
 </item>
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>

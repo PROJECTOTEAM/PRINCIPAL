@@ -1,7 +1,518 @@
 <item>
-<title>[COLOR red][B][I]CANAIS ARENAVISION
-ALTERNATIVO PLEXUS[/I][/B][/COLOR] [COLOR yellow] ( PLEXUS)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
-<thumbnail>https://s20.postimg.org/afftr0nh9/plexus.png</thumbnail>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/01</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 1 [COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/02</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 2[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/03</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 3[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/04</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 4[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/05</page>
+        <referer>http://www.arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 5[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/06</page>
+        <referer>http://www.arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 6[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/07</page>
+        <referer>http://www.arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 7[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/08</page>
+        <referer>http://www.arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 8[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/09</page>
+<referer>http://www.arenavision.in/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR red]-ARENA 9 [COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+</item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/10</page>
+        <referer>http://www.arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 10[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/11</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 11 [COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://www.arenavision.in/12</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 12[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in//13</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 13[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in//14</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 14[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/15</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 15[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/16</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 16[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/17</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 17[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/18</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 18[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/19</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 19[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/20</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 20[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/21</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 21[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/22</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 22[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/23</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 23[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/24</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 24[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/25</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 25[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/26</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 26[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/27</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 27[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/28</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 28[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/29</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 29[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+         
+         
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/30</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 30[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+ 
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/31</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 31[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+ 
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/32</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 32[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+ 
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/33</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 33[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+ 
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/34</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 34[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
+        </item>
+ 
+        <item>
+        <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
+        <regex>
+        <name>hash</name>
+        <expres>this.loadPlayer\("(.*?)"</expres>
+        <page>http://arenavision.in/35</page>
+        <referer>http://arenavision.in/</referer>
+        <setcookie>beget=begetok</setcookie>
+        </regex>
+        <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+        <title>[B][COLOR red]-ARENA 35[COLOR orange]   [PLEXUS & P2P][/B][/COLOR]</title>
 </item>
