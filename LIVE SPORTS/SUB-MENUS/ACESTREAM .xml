@@ -221,7 +221,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param2]'):
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/acestream.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>	
 
 
