@@ -73,11 +73,12 @@
  
 
  
+https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/MenuSports.xml
 <channels>
 <channel>
 <name>[COLOR red]OTHERS[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/MenuSports.html</thumbnail>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/Others.xml</externallink>
+<thumbnail>http://i939.photobucket.com/albums/ad234/higwk16/OTHERS_ICON-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/MenuSports.html</externallink>
 <fanart>https://amhallblog.files.wordpress.com/2013/04/20130402_233917.jpg</fanart>
 <info>Xo1000</info>
 </channel>
