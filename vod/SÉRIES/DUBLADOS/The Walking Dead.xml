@@ -880,7 +880,228 @@
  
  
  
- 
+ #EXTM3U
+
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/61-Fox.png" group-title="Filmes e Séries",FOX
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/895.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/61-Fox.png" group-title="Filmes e Séries",FOX HD
+http://www.unlimitedbroadcasts.net:25461/live/Holomax/Holomax/894.ts
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",FOX redecanais
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP01  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP02  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP03  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP04  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP05  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T1EP06  
+http://assistir.querofilmehd.com/the%20walking%20dead/1temporada/06.mp4
+
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP01
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP02  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP03  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP04  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP05  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP06  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP07  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP08  
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP09
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP10
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/10.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP11
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/11.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP12
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/12.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T2EP13
+http://assistir.querofilmehd.com/the%20walking%20dead/2temporada/13.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP01
+https://ph2dwm.oloadcdn.net/dl/l/OKWvEeb7K8BAPApX/YXuzqoX8ROI/The+Walking+Dead+3%C3%971+%28Dub%29?mime=true
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP02
+http://cdn.vstreaming.net/tvshows/twd/s03e02-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP03
+http://cdn.vstreaming.net/tvshows/twd/s03e03-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP04
+http://cdn.vstreaming.net/tvshows/twd/s03e04-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP05
+http://cdn.vstreaming.net/tvshows/twd/s03e05-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP06
+http://cdn.vstreaming.net/tvshows/twd/s03e06-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP07 
+http://cdn.vstreaming.net/tvshows/twd/s03e07-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP08 
+http://cdn.vstreaming.net/tvshows/twd/s03e08-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP09 
+http://cdn.vstreaming.net/tvshows/twd/s03e09-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP10 
+http://cdn.vstreaming.net/tvshows/twd/s03e10-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP11
+http://cdn.vstreaming.net/tvshows/twd/s03e11-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP12
+http://cdn.vstreaming.net/tvshows/twd/s03e12-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP13
+http://cdn.vstreaming.net/tvshows/twd/s03e13-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP14
+http://cdn.vstreaming.net/tvshows/twd/s03e14-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP15
+http://cdn.vstreaming.net/tvshows/twd/s03e15-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T3EP16
+http://cdn.vstreaming.net/tvshows/twd/s03e16-dub-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP01
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/01.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP02
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/02.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP03
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/03.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP04
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/04.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP05
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/05.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP06
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/06.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP07
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/07.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP08
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/08.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP09
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/09.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP10
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/10.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP11
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/11.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP12
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/12.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP13
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/13.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP14
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/14.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP15
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/15.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T4EP16
+http://assistir.querofilmehd.com/the%20walking%20dead/4temporada/16.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP01
+http://cdn.vstreaming.net/tvshows/twd/s05e01-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP02
+http://cdn.vstreaming.net/tvshows/twd/s05e02-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP03
+http://cdn.vstreaming.net/tvshows/twd/s05e03-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP04
+http://cdn.vstreaming.net/tvshows/twd/s05e04-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP05
+http://cdn.vstreaming.net/tvshows/twd/s05e05-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP06
+http://cdn.vstreaming.net/tvshows/twd/s05e06-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP07
+http://cdn.vstreaming.net/tvshows/twd/s05e07-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP08
+http://cdn.vstreaming.net/tvshows/twd/s05e08-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP09
+http://cdn.vstreaming.net/tvshows/twd/s05e09-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP10
+http://cdn.vstreaming.net/tvshows/twd/s05e10-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP11
+http://cdn.vstreaming.net/tvshows/twd/s05e11-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP12
+http://cdn.vstreaming.net/tvshows/twd/s05e12-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP13
+http://cdn.vstreaming.net/tvshows/twd/s05e13-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP14
+http://cdn.vstreaming.net/tvshows/twd/s05e14-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP15
+http://cdn.vstreaming.net/tvshows/twd/s05e15-dub-360p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T5EP16
+http://cdn.vstreaming.net/tvshows/twd/s05e16-dub-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP01
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/01.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP02
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/02.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP03
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/03.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP04
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/04.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP05
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/05.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP06
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/06.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP07
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/07.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP08
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/08.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP09
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/09.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP10
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/10.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP11
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/11.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP12
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/12.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP13
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/13.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP14
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/14.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP15
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/15.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T6EP16
+http://assistir.querofilmehd.com/the%20walking%20dead/6temp/16.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP01
+http://cdn.vstreaming.net/tvshows/twd/s07e01-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP02
+http://cdn.vstreaming.net/tvshows/twd/s07e02-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP03
+http://cdn.vstreaming.net/tvshows/twd/s07e03-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP04
+http://cdn.vstreaming.net/tvshows/twd/s07e04-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP05
+http://cdn.vstreaming.net/tvshows/twd/s07e05-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP06
+http://cdn.vstreaming.net/tvshows/twd/s07e06-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP07
+http://cdn.vstreaming.net/tvshows/twd/s07e07-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP08
+http://cdn.vstreaming.net/tvshows/twd/s07e08-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP09
+http://cdn.vstreaming.net/tvshows/twd/s07e09-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP10
+http://cdn.vstreaming.net/tvshows/twd/s07e10-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP11
+http://cdn.vstreaming.net/tvshows/twd/s07e11-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP12
+http://cdn.vstreaming.net/tvshows/twd/s07e12-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP13
+http://cdn.vstreaming.net/tvshows/twd/s07e13-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP14
+http://cdn.vstreaming.net/tvshows/twd/s07e14-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP15
+http://cdn.vstreaming.net/tvshows/twd/s07e15-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T7EP16
+http://cdn.vstreaming.net/tvshows/twd/s07e16-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T8EP01
+http://s.vstreaming.net/tvshows/twd/s08e01-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T8EP02
+http://s.vstreaming.net/tvshows/twd/s08e02-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T8EP03
+http://s.vstreaming.net/tvshows/twd/s08e03-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/27a3/f/2014/001/a/f/the_walking_dead_logo_png_by_alicegirl77-d70di4v.png" group-title="The Walking Dead",TWD T8EP04
+http://185.38.12.48/sec/1510617337/34373635154a1cec8b5b648b00db5bd05ad1e6c254d6e854/ivs/13/55/e473a1b06e92/hls/tracks-1,4/index.m3u8
  
  
  
