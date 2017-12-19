@@ -43,13 +43,6 @@
 <fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 </item>
 
-<item>       
-<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]vlc[/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/Arenavision%20VLC%5B.xml</externallink>
-<thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
-<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
-</item>
 
 
 <item>             
@@ -76,161 +69,188 @@
 
 
 
+
+
+
+
 <item>
 <title>[COLOR orange]AGENDA P2P/SPORT[/COLOR]  [COLOR red]Agenda | Schedule[/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>http://www.thegrove360.netsons.org/loghi/sport.png</thumbnail>
-<fanart>http://shushi168.com/data/out/212/36360821-sports.jpg|Referer=http://shushi168.com/sports.html</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>$doregex[geturl]</link>
+<item><title> [COLOR white][makelist.param1]  [/COLOR]  [COLOR white][makelist.param2] [/COLOR]  [COLOR orange][makelist.param3] [/COLOR]  [COLOR white][makelist.param4] [/COLOR] [COLOR white][B][makelist.param5] [/B] [/COLOR]   [COLOR white]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=VIP ACE+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.in/[makelist.param6]</page>
+			<referer>http://arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
 <thumbnail>http://www.thegrove360.netsons.org/loghi/sport.png</thumbnail>
 <fanart>http://shushi168.com/data/out/212/36360821-sports.jpg|Referer=http://shushi168.com/sports.html</fanart>
+			 <fanart></fanart>
+</item>	
 ]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = ''):
-    from resources.lib.modules import client
-    import re,urllib,urlparse
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.in/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.in</referer>
+http://arenavision.in/iguide
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://www.thegrove360.netsons.org/loghi/sport.png</thumbnail>
+<fanart>http://shushi168.com/data/out/212/36360821-sports.jpg|Referer=http://shushi168.com/sports.html</fanart>
+</item>
 
-    url = 'http://live.shwidget.com/static/section0.html'
+==================================================================================
 
-    r = client.request(url)
-    r = re.sub('<!--.+?-->', '', r)
-    r = re.sub(r'[^\x00-\x7F]+', ' ', r)
-    r = client.parseDOM(r, 'div', attrs = {'class': 'lshpanel islive.+?'})
-
-    u = []
-
-    for i in r:
-        try:
-            c = client.parseDOM(i, 'span', attrs = {'class': 'section'})[0]
-            n = '%s | [B]%s[/B]' % (client.parseDOM(i, 'span', attrs = {'class': 'categor.+?'})[0], client.parseDOM(i, 'span', attrs = {'class': 'lshevent'})[0].replace(' Live Stream', ''))
-            s = re.split('class\s*=\s*(?:\'|\"|)sectiontableheader', i)
-            s = [(client.parseDOM(x, 'td'), client.parseDOM(x, 'tbody')) for x in s]
-            s = [(x[0], [y for y in x[1] if not ('"Sawlive"' in y or '"Sportstream365"' in y)]) for x in s]
-            s = [(x[0][0].replace(':', ''), ''.join(x[1])) for x in s if x[0]]
-            s = [(x[0], re.findall('"(http.+?)"', x[1])) for x in s]
-            s = [(x[0], [y for y in x[1] if 'live.shwidget.com' in y]) for x in s]
-            s = [(x[0], x[1]) for x in s if x[1]]
-            s = [(x[0], [z for y,z in enumerate(x[1]) if z not in x[1][:y]]) for x in s]
-            s = [[(x[0], y) for y in x[1]] for x in s]
-            s = sum(s, [])
-
-            t = []
-            for x1, x2 in s:
-                x3 = urlparse.parse_qs(urlparse.urlparse(x2).query)
-                try: x2 = x3['event_id'][0]
-                except: x2 = '0'
-                try: x2 += x3['tv_id'][0]
-                except: x2 += '0'
-                try: x2 += x3['tid'][0]
-                except: x2 += '0'
-                try: x2 += x3['channel'][0]
-                except: x2 += '0'
-                x2 = 'http://live.shwidget.com/static/freeplayer/%s.html' % x2
-                t.append((x1, x2))
-            if not t: raise Exception()
-            t = urllib.quote_plus(str(t))
-            u.append((c, n, t))
-        except:
-            pass
-
-    r = sorted(u, key=lambda x: x[0].lower())
-    c = [x[0] for x in r]
-    if 'Nfl' in c: c = ['Nfl'] + c
-    if 'Hockey' in c: c = ['Hockey'] + c
-    if 'Volleyball' in c: c = ['Volleyball'] + c
-    if 'Basketball' in c: c = ['Basketball'] + c
-    if 'Football' in c: c = ['Football'] + c
-    c = [x for y,x in enumerate(c) if x not in c[:y]]
-
-    u = []
-
-    for i in c:
-        s = [(x[1], x[2]) for x in r if x[0] == i]
-        if s: u += [('[COLOR orange][B]%s[/B][/COLOR]' % i, '')] + s
-
-    return u
-]]></expres>
-<page></page>
-</regex>
+<item>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red] Plexus[/COLOR]</title>
+<link>$doregex[makelist]</link>
 <regex>
-<name>geturl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url = '[makelist.param2]'):
-    from resources.lib.modules import client,control
-    import re,urllib
-
-    u = None
-
-    r = eval(urllib.unquote_plus(url))
-    r = [('Link %s %s' % (str(r.index(i)+1), i[0]), i[1]) for i in r]
-    r = [(i[0].strip(), i[1]) for i in r]
-    r0 = [i[0] for i in r] ; r1 = [i[1] for i in r]
-
-    if len(r1) == 0: 
-        control.infoDialog('No broadcast available', 'Stefano')
-        return
-    elif len(r1) > 1:
-        label = control.infoLabel('listitem.label')
-        select = control.dialog.select(label.upper(), r0)
-        if select == -1: return
-        refs = r1[select:]
-    else:
-        refs = r1
-
-    livestreamer = control.cdnImport('https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/LIVE%20SPORTS/SUB-MENUS/plexus/livestreamer.xml', 'livestreamer')
-    livestreamer = livestreamer.streamer()
-
-    for ref in refs:
-        try:
-            url, ref = livestreamer.redirect(ref)
-            u = livestreamer.resolve(url, ref)
-            if not u == None: break
-        except:
-            pass
-
-    if u == None:
-        control.infoDialog('No broadcast available', 'Stefano')
-    return u
-]]></expres>
-<page></page>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR white] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/[makelist.param1]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+<thumbnail>https://www.mediacentersuite.com/wp-content/uploads/2017/04/Plexus-on-Kodi-image.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>>
+ <fanart></fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision2017.tk</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
+<thumbnail>https://www.mediacentersuite.com/wp-content/uploads/2017/04/Plexus-on-Kodi-image.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>>
+ <fanart></fanart>
+</item>
+
+
+
+
+==================================================================================
+
+
+
+
+
+<item>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]Sopcast[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR gold] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/[makelist.param1]</page>
+			<referer>http://arenavision2017.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+<thumbnail>http://i1-news.softpedia-static.com/images/news-hot/SopCast-3-8-2-Released-h2.png</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision.top/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.top</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i1-news.softpedia-static.com/images/news-hot/SopCast-3-8-2-Released-h2.png</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+</item>
+
+
+
+==================================================================================
+
+
+
+	
+<item>
+<title>[COLOR orange]ARENAVISION[/COLOR]  [COLOR red]vlc[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR gold] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.us/[makelist.param1]</page>
+			<referer>http://arenavision2017.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+<thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision.us/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.us</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://demogh2.files.wordpress.com/2016/04/vlc-logo.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>
 </item>
 
 
 
 
 
+
+=========================================================================================
+
+
+
+
+
 <item>
-<title>[COLOR orange]  AGENDA | SCHEDULE [/COLOR]</title>
-
+<title>[COLOR orange]CANAIS ARENAVISION[/COLOR]  [COLOR red] US[/COLOR]</title>
 <link>$doregex[makelist]</link>
-
-
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-	<title>[B][I][COLOR deepskyblue] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR skyblue] [makelist.param4][/B] [/COLOR] [COLOR aquamarine][makelist.param5][/COLOR] [/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist</link>
-<thumbnail>http://adryanlist.org/adryan/img/acestream.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
-</regex>
-<thumbnail></thumbnail>
+<item><title> [COLOR gold] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.us/[makelist.param1]</page>
+			<referer>http://arenavision2017.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+<thumbnail>https://www.mediacentersuite.com/wp-content/uploads/2017/04/Plexus-on-Kodi-image.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>>
 </item>	
-
-
-
-
-
-
-
-
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page>http://arenavision.us/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.us</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://www.mediacentersuite.com/wp-content/uploads/2017/04/Plexus-on-Kodi-image.jpg</thumbnail>
+<fanart>http://www.localfm.nl/wp-content/uploads/2015/05/all-sports-banner.png</fanart>>
+</item>
+=============================================================================================
 
 
 
