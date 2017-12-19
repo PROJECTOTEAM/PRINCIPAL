@@ -161,7 +161,7 @@
 </item>
 
 <item>
-<title>[COLOR gold][B][I]SECRET TV VIP [/I][/B][/COLOR] SPORT TV 1</title>
+<title>[COLOR lime][B][COLOR green][/COLOR] Sport TV1 [COLOR green][/COLOR][COLOR ] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>$doregex[bro.adca.st]</link><regex><name>bro.adca.st</name><expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=9959&p=1&c=0&stretching=uniform&old=0'):
  import requests, re, urllib
