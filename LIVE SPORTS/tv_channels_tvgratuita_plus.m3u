@@ -712,3 +712,390 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="------|Portugal|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/------|Portugal|------.png" group-title="PT General",------|Portugal|------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3169
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|GENERAL|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|GENERAL|-------------------------------------.png" group-title="PT General",PT:-----|GENERAL|-------------------------------------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/60647
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT003:Afro Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT003AfroMusic.png" group-title="PT General",PT003:Afro Music
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3247
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT005:ARTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT005ARTV.png" group-title="PT General",PT005:ARTV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3245
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT014:Deutsche Welle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT014CanalHistoria.png" group-title="PT General",PT014:Deutsche Welle
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3236
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT017:Casa E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3233
+#EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT018:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3232
+#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="PT024:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT024E!Entertainment.png" group-title="PT General",PT024:E! Entertainment
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3226
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT027:Eurosport new" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Eurosport new
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3223
+#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="PT031:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3219
+#EXTINF:-1 tvg-id="fuel.pt" tvg-name="PT033:Fuel TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT033FuelTV.png" group-title="PT General",PT033:Fuel TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3217
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT034:Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT034Globo.png" group-title="PT General",PT034:Globo
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3216
+#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="PT043:MTV Portuga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT043MTVPortuga.png" group-title="PT General",PT043:MTV Portuga
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3207
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT050:Porto Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT050PortoCanal.png" group-title="PT General",PT050:Porto Canal
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3200
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="PT051:RTP 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png" group-title="PT General",PT051:RTP 1
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3199
+#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="PT052:RTP 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png" group-title="PT General",PT052:RTP 2
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3198
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="PT053:RTP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3197
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT054:SIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png" group-title="PT General",PT054:SIC
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3196
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="PT055:SIC Mulher" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png" group-title="PT General",PT055:SIC Mulher
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3195
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="PT056:SIC Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png" group-title="PT General",PT056:SIC Noticias
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3194
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="PT057:SIC Radical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png" group-title="PT General",PT057:SIC Radical
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3193
+#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="PT153:SIC Caras" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT153SIC CARAS FHD.png" group-title="PT General",PT153:SIC Caras
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29337
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT065:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="PT General",PT065:SYFY
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3185
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT066:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3184
+#EXTINF:-1 tvg-id="travel.pt" tvg-name="PT068:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3182
+#EXTINF:-1 tvg-id="tv.galicia.pt" tvg-name="PT073:TV Galicia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png" group-title="PT General",PT073:TV Galicia
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3177
+#EXTINF:-1 tvg-id="record.pt" tvg-name="PT075:TV Record" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png" group-title="PT General",PT075:TV Record
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3175
+#EXTINF:-1 tvg-id="" tvg-name="PT076:Fashion TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT076" group-title="PT General",PT076:Fashion TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3174
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT077:TVI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png" group-title="PT General",PT077:TVI
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3173
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT078:TVI 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png" group-title="PT General",PT078:TVI 24
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3172
+#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="PT081:TVI Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT081TVIREALITY.png" group-title="PT General",PT081:TVI Reality
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29409
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="PT109:TVI Ficcao HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT109TVI FICCAO.png" group-title="PT General",PT109:TVI Ficcao HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29381
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT079:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT079VH1.png" group-title="PT General",PT079:VH1
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3171
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT080:VH1 Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT080VH1Classic.png" group-title="PT General",PT080:VH1 Classic
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3170
+#EXTINF:-1 tvg-id="" tvg-name="PT082:TVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT082TVC.png" group-title="PT General",PT082:TVC HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29408
+#EXTINF:-1 tvg-id="food.network.pt" tvg-name="PT083:Foods Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png" group-title="PT General",PT083:Foods Network
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29407
+#EXTINF:-1 tvg-id="clubbing.pt" tvg-name="PT084:Clubbing TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT084" group-title="PT General",PT084:Clubbing TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29406
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT085:BomSom" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT085" group-title="PT General",PT085:BomSom
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29405
+#EXTINF:-1 tvg-id="rtp.africa.pt" tvg-name="PT086:RTP Africa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT086RTPáFRICA.png" group-title="PT General",PT086:RTP Africa
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29404
+#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT087:RTP ACORES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT087RTPACORES.png" group-title="PT General",PT087:RTP ACORES
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29403
+#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="PT088:RTP MADEIRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT088RTPMADEIRA.png" group-title="PT General",PT088:RTP MADEIRA
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29402
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT094:Azores TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT09" group-title="PT General",PT094:Azores TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29396
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT095:Galeria" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT095" group-title="PT General",PT095:Galeria
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29395
+#EXTINF:-1 tvg-id="canal.q.pt" tvg-name="PT096:CANAL Q" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT096CANALQ.png" group-title="PT General",PT096:CANAL Q
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29394
+#EXTINF:-1 tvg-id="24.kitchen.pt" tvg-name="PT097:24 Kitchen" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT09724KITCHEN.png" group-title="PT General",PT097:24 Kitchen
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29393
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT107:Bloomberg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png" group-title="PT General",PT107:Bloomberg
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29383
+#EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="PT110:MCM POP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT110MCM POP.png" group-title="PT General",PT110:MCM POP
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29380
+#EXTINF:-1 tvg-id="trace.urban.pt" tvg-name="PT111:Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT111Trace Urban.png" group-title="PT General",PT111:Trace Urban
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29379
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT113:CMTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT113CMTVFHD.png" group-title="PT General",PT113:CMTV FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29377
+#EXTINF:-1 tvg-id="" tvg-name="PT115:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/" group-title="PT General",PT115:CNN
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29375
+#EXTINF:-1 tvg-id="clubbing.pt" tvg-name="PT118:TPA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT118TPA.png" group-title="PT General",PT118:TPA
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29372
+#EXTINF:-1 tvg-id="sky.news.pt" tvg-name="PT125:DOG TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT125DOGTV.png" group-title="PT General",PT125:DOG TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29365
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT126:FOX NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT126FOXNEWS.png" group-title="PT General",PT126:FOX NEWS
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29364
+#EXTINF:-1 tvg-id="" tvg-name="PT128:Dizi Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT128" group-title="PT General",PT128:Dizi Channel
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29362
+#EXTINF:-1 tvg-id="" tvg-name="PT129:CGTN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT129RTP INTERNACIONAL.png" group-title="PT General",PT129:CGTN
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29361
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT130:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT130Euronews.png" group-title="PT General",PT130:Euronews
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29360
+#EXTINF:-1 tvg-id="trace.toca.pt" tvg-name="PT137:Alma Lusa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT137" group-title="PT General",PT137:Alma Lusa
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29353
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT138:MEZZO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT138MEZZOHD.png" group-title="PT General",PT138:MEZZO HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29352
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="PT139:Sol Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT139" group-title="PT General",PT139:Sol Musica
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29351
+#EXTINF:-1 tvg-id="" tvg-name="PT140:Zap Viva HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT140ZAP VIVA.png" group-title="PT General",PT140:Zap Viva HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29350
+#EXTINF:-1 tvg-id="localvisao.pt" tvg-name="PT142:Localvisao" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT142Localvisao.png" group-title="PT General",PT142:Localvisao
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29348
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT143:Record News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT143Globo TV.png" group-title="PT General",PT143:Record News
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29347
+#EXTINF:-1 tvg-id="" tvg-name="PT147:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT147CBSReality.png" group-title="PT General",PT147:CBS Reality
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29343
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT150:BVN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT150" group-title="PT General",PT150:BVN
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29340
+#EXTINF:-1 tvg-id="" tvg-name="PT152:NLO TV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT152" group-title="PT General",PT152:NLO TV 2
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29338
+#EXTINF:-1 tvg-id="tv.globo.panorama.br" tvg-name="PT074:Globo Now" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT074TVGloboPremium.png" group-title="PT General",PT074:Globo Now
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3176
+#EXTINF:-1 tvg-id="" tvg-name="PT154:Game Toon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT154SIC Kids.png" group-title="PT General",PT154:Game Toon
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29336
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png" group-title="PT Sports",PT:-----|SPORTS|--------------------------------------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/60650
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT002:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3248
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3239
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV1HD.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3238
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV1SD.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3237
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT025:Euro Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3225
+#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT026:Euro Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3224
+#EXTINF:-1 tvg-id="motors.es" tvg-name="PT040:Motors TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3210
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT041:Motorvision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motorvision
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3209
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT049:PFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT Sports",PT049:PFC
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3201
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3192
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3191
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3190
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3189
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3188
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT148:SPORT TV 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT148CHELSEATV.png" group-title="PT Sports",PT148:SPORT TV 6 HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29342
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3187
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3186
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT067:Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3183
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29392
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29391
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29390
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29389
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT158:SPORT TV 5 FHD" tvg-logo="" group-title="PT Sports",PT158:SPORT TV 5 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/49958
+#EXTINF:-1 tvg-id="fight.sports.pt" tvg-name="PT132:Fight Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT132" group-title="PT Sports",PT132:Fight Network
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29358
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT112:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29378
+#EXTINF:-1 tvg-id="cancao.nova.pt" tvg-name="PT114:Cancao Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29376
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT157:Eleven Sports 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT157:Eleven Sports 1 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/49966
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT159:Eleven Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT159:Eleven Sports 2 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/49032
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT119:Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT119:Eleven Sports 3 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29371
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT120:Eleven Sports 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT120:Eleven Sports 4 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29370
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT122:Eleven Sports 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/" group-title="PT Sports",PT122:Eleven Sports 6 FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29368
+#EXTINF:-1 tvg-id="eleven.5.pt" tvg-name="PT156:Eleven Sports 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156" group-title="PT Sports",PT156:Eleven Sports 1 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29334
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT134:Eleven Sports 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT134:Eleven Sports 2 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29356
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT145:Eleven Sports 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT145:Eleven Sports 3 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29345
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT146:Eleven Sports 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT146:Eleven Sports 4 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29344
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:Eleven Sports 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT121:Eleven Sports 5 SD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29369
+#EXTINF:-1 tvg-id="sport.nba.pt" tvg-name="PT124:Sport TV NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png" group-title="PT Sports",PT124:Sport TV NBA
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29366
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29349
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|MOVIES|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|MOVIES|--------------------------------------.png" group-title="PT Movies",PT:-----|MOVIES|--------------------------------------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/60648
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT001:A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT001A&E.png" group-title="PT Movies",PT001:A&E
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3249
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT004:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png" group-title="PT Movies",PT004:AMC
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3246
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT006:AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png" group-title="PT Movies",PT006:AXN
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3244
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT007:AXN Black" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png" group-title="PT Movies",PT007:AXN Black
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3243
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="PT008:AXN White" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png" group-title="PT Movies",PT008:AXN White
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3242
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT019:Cine Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png" group-title="PT Movies",PT019:Cine Mundo
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3231
+#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="PT028:Fox Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png" group-title="PT Movies",PT028:Fox Comedy
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3222
+#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="PT029:Fox Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png" group-title="PT Movies",PT029:Fox Crime
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3221
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT030:Fox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png" group-title="PT Movies",PT030:Fox
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3220
+#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="PT032:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png" group-title="PT Movies",PT032:Fox Movies
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3218
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT036:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png" group-title="PT Movies",PT036:Hollywood
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3214
+#EXTINF:-1 tvg-id="" tvg-name="PT039:MOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png" group-title="PT Movies",PT039:MOV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3211
+#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="PT069:TV Cine Top" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine Top
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3181
+#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="PT070:TV Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine Emotion
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3180
+#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="PT071:TV Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine Action
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3179
+#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="PT072:TV Cine Edition" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine Edition
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3178
+#EXTINF:-1 tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29398
+#EXTINF:-1 tvg-id="" tvg-name="PT131:A3 Cine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png" group-title="PT Movies",PT131:A3 Cine
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29359
+#EXTINF:-1 tvg-id="" tvg-name="PT155:A3 Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png" group-title="PT Movies",PT155:A3 Series
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29335
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|KIDS|----------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|KIDS|----------------------------------------.png" group-title="PT Kids",PT:-----|KIDS|----------------------------------------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/60651
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT009:Baby First" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT009BabyFirst.png" group-title="PT Kids",PT009:Baby First
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3241
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT010:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT010BabyTV.png" group-title="PT Kids",PT010:Baby TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3240
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT015:Canal Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT015CanalPanda.png" group-title="PT Kids",PT015:Canal Panda
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3235
+#EXTINF:-1 tvg-id="cartoon.network.pt" tvg-name="PT016:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT016CartoonNetwork.png" group-title="PT Kids",PT016:Cartoon Network
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3234
+#EXTINF:-1 tvg-id="disney.pt" tvg-name="PT022:Disney Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT022DisneyChannel.png" group-title="PT Kids",PT022:Disney Channel
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3228
+#EXTINF:-1 tvg-id="disney.junior.pt" tvg-name="PT023:Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT023DisneyJunior.png" group-title="PT Kids",PT023:Disney Junior
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3227
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT037:Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT037JimJam.png" group-title="PT Kids",PT037:Jim Jam
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3213
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="PT046:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT046Nickelodeon.png" group-title="PT Kids",PT046:Nickelodeon
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3204
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT048:Panda Biggs" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT048PandaBiggs.png" group-title="PT Kids",PT048:Panda Biggs
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3202
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT089:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT089NICKELODEON.png" group-title="PT Kids",PT089:Nickelodeon
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29401
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT091:KIKA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT091MCSLifestyleHD.png" group-title="PT Kids",PT091:KIKA
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29399
+#EXTINF:-1 tvg-id="" tvg-name="PT136:Nick Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT136Nick Jr.png" group-title="PT Kids",PT136:Nick Jr
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29354
+#EXTINF:-1 tvg-id="kuriakos.pt" tvg-name="PT151:Kuriakos TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT151KuriakosTV.png" group-title="PT Kids",PT151:Kuriakos TV
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29339
+#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="PT149:SIC Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT149SIC K.png" group-title="PT Kids",PT149:SIC Kids
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29341
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|DOCUMENTARY|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|DOCUMENTARY|---------------------------------.png" group-title="PT Doc",PT:-----|DOCUMENTARY|---------------------------------
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/60649
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="PT020:Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT020DiscoveryChannel.png" group-title="PT Doc",PT020:Discovery Channel
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3230
+#EXTINF:-1 tvg-id="discovery.hd.showcase.se" tvg-name="PT021:Discovery Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png" group-title="PT Doc",PT021:Discovery Showcase
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3229
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT035:Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT035Historia.png" group-title="PT Doc",PT035:Historia
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3215
+#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="PT044:NAT GEO Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT044NATGEOWild.png" group-title="PT Doc",PT044:NAT GEO Wild
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3206
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT045:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT045NATGEO.png" group-title="PT Doc",PT045:NAT GEO
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3205
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT047:Odisseia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT047Odisseia.png" group-title="PT Doc",PT047:Odisseia
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/3203
+#EXTINF:-1 tvg-id="somos.pt" tvg-name="PT090:Somos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT090" group-title="PT Doc",PT090:Somos
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29400
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT106:Blaze" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT106Blaze.png" group-title="PT Doc",PT106:Blaze
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29384
+#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="PT108:Caca E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png" group-title="PT Doc",PT108:Caca E Pesca
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29382
+#EXTINF:-1 tvg-id="crime.plus.investigation.pt" tvg-name="PT116:Crime & Investigation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT116CrimeInvestigation.png" group-title="PT Doc",PT116:Crime & Investigation
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29374
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT123:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT123INVESTIGATIONDISCOVERYHD.png" group-title="PT Doc",PT123:Investigation Discovery HD
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29367
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT127:Caca Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT127" group-title="PT Doc",PT127:Caca Vision
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29363
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT144:Canal Cocina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="PT Doc",PT144:Canal Cocina
+http://yesimes.oknirvana.club:8880/29ca10313n11/asdf23r23/29346
+#EXTINF:-1 tvg-id="" tvg-name="###### VOD Portugal ######" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="Portugal",###### VOD Portugal ######
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/28716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1917" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="Portugal",1917
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5 Galaxies (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/5c804449070bea100614a2d39d7469f0.jpg" group-title="Portugal",5 Galaxies (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Beautiful Place to Die: A Martha's Vineyard Mystery (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/1595de5efde0b371a1afea282251290f.jpg" group-title="Portugal",A Beautiful Place to Die: A Martha's Vineyard Mystery (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/65c4d5b4d1adfb53bb7bd1ba99c60c79.jpg" group-title="Portugal",A Dama e o Vagabundo (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/12d683f00acaad5b27543d211d932922.jpg" group-title="Portugal",A Divisão (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fortuna (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/f4b5d91140533dcae20a7e1e5304677a.jpg" group-title="Portugal",A Fortuna (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha dos Silvos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRYJqlac3OswbWKrCNSjnup1kMv.jpg" group-title="Portugal",A Ilha dos Silvos (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Night of Horror: Nightmare Radio (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/04c857aa7fec57809c04a47da58f330a.jpg" group-title="Portugal",A Night of Horror: Nightmare Radio (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Perfect Plan (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/f2eb57a0602651440bf5e58fed2ade8b.jpg" group-title="Portugal",A Perfect Plan (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Pura Verdade (2018)" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",A Pura Verdade (2018)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.GrandeLuta" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",A.GrandeLuta
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.Hora.da.Sua.Morte" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",A.Hora.da.Sua.Morte
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.Irmã.Pertubada" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",A.Irmã.Pertubada
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.Odissea.dos.Tontos" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",A.Odissea.dos.Tontos
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abducted.On.Air" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",Abducted.On.Air
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento.Selvagem" tvg-logo="http://mu03.wanicelife.com:8880/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Portugal",Acampamento.Selvagem
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adopted in Danger (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/7add806ca1bd2f14b2b3d86f69f5edf0.jpg" group-title="Portugal",Adopted in Danger (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adoraveis.Mulheres" tvg-logo="http://mu03.wanicelife.com:8880/images/7add806ca1bd2f14b2b3d86f69f5edf0.jpg" group-title="Portugal",Adoraveis.Mulheres
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Force 5 (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/a3acfe07fb55ce8fd577d8b78a543ffc.jpg" group-title="Portugal",Adventure Force 5 (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Albatroz (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/7b847c8b998f50dd9d6100751e38d5e4.jpg" group-title="Portugal",Albatroz (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Altos.Negocios" tvg-logo="http://mu03.wanicelife.com:8880/images/7b847c8b998f50dd9d6100751e38d5e4.jpg" group-title="Portugal",Altos.Negocios
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An English Haunting (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/e62a81c564879abda6b70e136d27d5e2.jpg" group-title="Portugal",An English Haunting (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anhedonia (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/3a9760018467180d6734712e65411361.jpg" group-title="Portugal",Anhedonia (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apanhador.de.Pesadelos" tvg-logo="http://mu03.wanicelife.com:8880/images/3a9760018467180d6734712e65411361.jpg" group-title="Portugal",Apanhador.de.Pesadelos
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armados em Espiões (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOKVhTESY4tMqjDPn3KW4ugnFn.jpg" group-title="Portugal",Armados em Espiões (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Askeladden - I Soria Moria slott (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/0330af291f79b3ac0d3e5ace6aded375.jpg" group-title="Portugal",Askeladden - I Soria Moria slott (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atração de Risco (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/2edf60d844b8ef078a37f251da97b5f4.jpg" group-title="Portugal",Atração de Risco (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas (1919)" tvg-logo="http://mu03.wanicelife.com:8880/images/9205ef5e7b059ad87fde4b265d518b75.jpg" group-title="Portugal",Barrabas (1919)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becoming (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/94fa2842972bc47bd9e0080580e5ac96.jpg" group-title="Portugal",Becoming (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Behind You (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/ba972fa268e41e978cff69f032203ef9.jpg" group-title="Portugal",Behind You (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Story (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/9b831d4e4c78eda43295f61fd869de08.jpg" group-title="Portugal",Blue Story (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cano Serrado (2018)" tvg-logo="http://mu03.wanicelife.com:8880/images/f4e6962271ec901593351109ce999fe3.jpg" group-title="Portugal",Cano Serrado (2018)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chambre.212" tvg-logo="http://mu03.wanicelife.com:8880/images/f4e6962271ec901593351109ce999fe3.jpg" group-title="Portugal",Chambre.212
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliúdy 2: A Chibata Sideral (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/dd447a11ac3913240904957e5fbec34d.jpg" group-title="Portugal",Cine Holliúdy 2: A Chibata Sideral (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venha para o papai.(2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/f3d65ed3160cb57447b0099f12663b84.jpg" group-title="Portugal",Venha para o papai.(2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corona Zombies (2020)" tvg-logo="http://mu03.wanicelife.com:8880/images/3d19a08db9fd27e6db8195581b164314.jpg" group-title="Portugal",Corona Zombies (2020)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Correndo Por Um Sonho (2019)" tvg-logo="http://mu03.wanicelife.com:8880/images/038e867c08bd34bef62c41248091711f.jpg" group-title="Portugal",Correndo Por Um Sonho (2019)
+http://yesimes.oknirvana.club:8880/movie/29ca10313n11/asdf23r23/62044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Curiosa (2019)" tvg-logo="
